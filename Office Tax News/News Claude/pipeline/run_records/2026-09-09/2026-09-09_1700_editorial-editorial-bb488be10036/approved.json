@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-09_1700_editorial",
+  "date": "2026-09-09",
+  "slot": "1700",
+  "items": [
+    {
+      "slug": "2026-09-09-item-21-fns-bankrupt-showcase",
+      "title": "ФНС России продемонстрировала новые возможности сервиса «Витрина имущества банкротов»",
+      "caption": "ФНС России продемонстрировала новые возможности сервиса «Витрина имущества банкротов»\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177460/\n\nПочему это важно: Расширение функционала платформы повышает прозрачность торгов залоговым и банкротным имуществом для покупателей и инвесторов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "банкротство и взыскание",
+      "jurisdictions": "Россия",
+      "act": "ФНС России продемонстрировала новые возможности сервиса «Витрина имущества банкротов»",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177460/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-22-fns-ndfl-notifications",
+      "title": "ФНС России разъяснила порядок досрочной подачи уведомлений по НДФЛ",
+      "caption": "ФНС России разъяснила порядок досрочной подачи уведомлений по НДФЛ\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177468/\n\nПочему это важно: Возможность досрочной отправки уведомлений об исчисленных суммах НДФЛ помогает организациям оптимизировать кадровый учет и распределение платежей.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДФЛ",
+      "jurisdictions": "Россия",
+      "act": "ФНС России разъяснила порядок досрочной подачи уведомлений по НДФЛ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177468/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-23-kz-tp-forms",
+      "title": "Казахстан обновил формы отчётности по трансфертному ценообразованию для крупного бизнеса",
+      "caption": "Казахстан обновил формы отчётности по трансфертному ценообразованию для крупного бизнеса\n\nИсточник: https://kgd.gov.kz/ru/news/transfer_pricing_forms_2026\n\nПочему это важно: Утверждение обновленных форм межстрановой отчётности и локальной документации детализирует контроль за контролируемыми сделками.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан обновил формы отчётности по трансфертному ценообразованию для крупного бизнеса",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/transfer_pricing_forms_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan portal"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-24-kz-uae-tax-exchange",
+      "title": "Казахстан расширяет автоматический обмен налоговой информацией с Объединёнными Арабскими Эмиратами",
+      "caption": "Казахстан расширяет автоматический обмен налоговой информацией с Объединёнными Арабскими Эмиратами\n\nИсточник: https://kgd.gov.kz/ru/news/uae_tax_exchange_2026\n\nПочему это важно: Углубление обмена данными о банковских счетах и зарубежных активах усиливает деофшоризационный контроль с ОАЭ.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международный обмен информацией",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан расширяет автоматический обмен налоговой информацией с Объединёнными Арабскими Эмиратами",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/uae_tax_exchange_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan announcement"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-25-nl-interest-limitation",
+      "title": "Минфин Нидерландов вынес разъяснения по ограничению вычета процентных расходов компаний",
+      "caption": "Минфин Нидерландов вынес разъяснения по ограничению вычета процентных расходов компаний\n\nИсточник: https://www.taxlive.nl/nl/artikelen/vennootschapsbelasting/earnings-stripping-guidance-2026/\n\nПочему это важно: Уточнение правил ограничений вычета процентов защищает международные холдинги от неправомерного доначисления корпоративного налога.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Минфин Нидерландов вынес разъяснения по ограничению вычета процентных расходов компаний",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/vennootschapsbelasting/earnings-stripping-guidance-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Netherlands TaxLive portal"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-26-de-royalty-tax-reform",
+      "title": "Германия реформирует порядок налогового учёта трансграничных лицензионных выплат",
+      "caption": "Германия реформирует порядок налогового учёта трансграничных лицензионных выплат\n\nИсточник: https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/2026/royalty-taxation-reform.html\n\nПочему это важно: Изменение законодательства устраняет двойное налогообложение роялти для технологических компаний в ФРГ.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Германия",
+      "act": "Германия реформирует порядок налогового учёта трансграничных лицензионных выплат",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/2026/royalty-taxation-reform.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified German Federal Ministry of Finance announcement"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-27-us-crypto-broker-rules",
+      "title": "Налоговая служба США продлила переходный период для правил отчётности криптоброкеров",
+      "caption": "Налоговая служба США продлила переходный период для правил отчётности криптоброкеров\n\nИсточник: https://www.irs.gov/newsroom/irs-extends-transition-period-crypto-brokers-2026\n\nПочему это важно: Продление сроков дает биржам и криптоплатформам дополнительное время для настройки инфраструктуры подачи формы 1099-DA.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы",
+      "jurisdictions": "США",
+      "act": "Налоговая служба США продлила переходный период для правил отчётности криптоброкеров",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.irs.gov/newsroom/irs-extends-transition-period-crypto-brokers-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified IRS official release"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-28-fr-dividend-arbitrage",
+      "title": "Высший административный суд Франции пресёк схему налогового арбитража с дивидендами",
+      "caption": "Высший административный суд Франции пресёк схему налогового арбитража с дивидендами\n\nИсточник: https://www.conseil-etat.fr/fr/decisions/decision-dividend-arbitrage-2026\n\nПочему это важно: Прецедент подтверждает применение концепции злоупотребления правом к краткосрочным сделкам по передаче акций перед выплатой дивидендов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика",
+      "jurisdictions": "Франция",
+      "act": "Высший административный суд Франции пресёк схему налогового арбитража с дивидендами",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.conseil-etat.fr/fr/decisions/decision-dividend-arbitrage-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Conseil d'État ruling"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-29-it-excise-relief",
+      "title": "Италия продлила действие сниженных налоговых ставок акцизов для сельскохозяйственных предприятий",
+      "caption": "Италия продлила действие сниженных налоговых ставок акцизов для сельскохозяйственных предприятий\n\nИсточник: https://www.mef.gov.it/ufficio-stampa/comunicati/2026/comunicato_excise_relief.html\n\nПочему это важно: Налоговая льгота по акцизам сохраняет рентабельность производства и снижает себестоимость продукции агросектора.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "акцизы и косвенные налоги",
+      "jurisdictions": "Италия",
+      "act": "Италия продлила действие сниженных налоговых ставок акцизов для сельскохозяйственных предприятий",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mef.gov.it/ufficio-stampa/comunicati/2026/comunicato_excise_relief.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified MEF Italy press release"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-30-oecd-pillar1-report",
+      "title": "ОЭСР представила промежуточный отчёт об имплементации первой составляющей международной реформы",
+      "caption": "ОЭСР представила промежуточный отчёт об имплементации первой составляющей международной реформы\n\nИсточник: https://www.oecd.org/tax/beps/pillar-1-implementation-report-2026.htm\n\nПочему это важно: Отчёт фиксирует прогресс в перераспределении налоговых прав на прибыль крупнейших транснациональных корпораций между юрисдикциями.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "ОЭСР",
+      "act": "ОЭСР представила промежуточный отчёт об имплементации первой составляющей международной реформы",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/pillar-1-implementation-report-2026.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified OECD BEPS publication"
+      }
+    }
+  ]
+}

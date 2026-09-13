@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-08",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 406,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-updates-box-3-tax-decree-to-incorporate-rebuttal-scheme/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands updates Box 3 tax decree to incorporate rebuttal scheme",
+      "summary": "The Netherlands has issued Decree No. 2026-2613 of 4 September 2026, which replaces the previous Decree No. 2024-5944 of 7 May 2024 concerning income from savings, debts, and investments under Box 3. The updated decree incorporates the counter-evidence scheme introduced in July 2025, under which taxpayers may provide evidence concerning their actual returns for Box...",
+      "published_at": "2026-09-08",
+      "score": 12.0,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 405,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/albania-council-of-ministers-approves-protocol-to-tax-treaty-with-germany/",
+      "ecli": "",
+      "act": "",
+      "title": "Albania: Council of Ministers approves protocol to tax treaty with Germany",
+      "summary": "The Albanian Council of Ministers approved a draft law on 2 September 2026 to ratify the protocol amending the 2010 income tax treaty with Germany. The second protocol was signed on 9 June 2026. Germany and Albania have signed a protocol of amendment to update their existing income tax treaty, signed on 6 April 2010....",
+      "published_at": "2026-09-08",
+      "score": 12.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 407,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/resultaten-nederlandse-hotels-onder-druk-door-btw-verhoging/",
+      "ecli": "",
+      "act": "",
+      "title": "Resultaten Nederlandse hotels onder druk door btw-verhoging",
+      "summary": "",
+      "published_at": "2026-09-08",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 408,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/philippines-ratifies-income-tax-treaty-with-cambodia/",
+      "ecli": "",
+      "act": "",
+      "title": "Philippines ratifies income tax treaty with Cambodia",
+      "summary": "The Philippines ratified its income tax treaty with Cambodia, which was signed on 11 February 2025. The Philippine Senate approved the treaty through Resolution No. 628, following the President’s authorisation of its ratification on 5 June 2025. The agreement seeks to eliminate double taxation and prevent tax evasion. Earlier, Cambodia’s upper house of Parliament (Senate)...",
+      "published_at": "2026-09-08",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

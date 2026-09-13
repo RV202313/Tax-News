@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-24",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 341,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingplichtige mag verdeling box 3-grondslag wijzigen na massaal bezwaar",
+      "summary": "Rechtbank Den Haag oordeelt dat een man en zijn fiscale partner de verdeling van hun gezamenlijke grondslag sparen en beleggen over 2017 alsnog kunnen wijzigen, ook al staat de aanslag van de partner al onherroepelijk vast.",
+      "published_at": "2026-08-23",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 342,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/einduitspraak-inzake-wijziging-box-3-verdeling-na-collectieve-uitspraak-op-bezwaar/",
+      "ecli": "",
+      "act": "",
+      "title": "Einduitspraak inzake wijziging box 3-verdeling na collectieve uitspraak op bezwaar",
+      "summary": "",
+      "published_at": "2026-08-23",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 343,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verlaagd-tarief-overdrachtsbelasting-voor-schuren-paardenbak-en-weiland-bij-woning/",
+      "ecli": "",
+      "act": "",
+      "title": "Verlaagd tarief overdrachtsbelasting voor schuren, paardenbak en weiland bij woning",
+      "summary": "",
+      "published_at": "2026-08-23",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

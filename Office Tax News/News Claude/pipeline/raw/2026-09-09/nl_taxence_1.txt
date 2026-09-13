@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 09 Sep 2026 09:05:07 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vervalste administratie webshop leidt tot schatting winst</title>
+		<link>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/</link>
+					<comments>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 09:04:57 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167265</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een administratie met ernstige gebreken geen betrouwbare grondslag vormt voor de winstberekening. De inspecteur mag daarom volstaan met een gemotiveerde schatting, waarna de ondernemer aannemelijk moet maken dat zijn winst lager is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een administratie met ernstige gebreken geen betrouwbare grondslag vormt voor de winstberekening. De inspecteur mag daarom volstaan met een gemotiveerde schatting, waarna de ondernemer aannemelijk moet maken dat zijn winst lager is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man exploiteert van 2013 tot en met 2016 een webwinkel in verlichting en woonaccessoires en ontvangt daarnaast looninkomsten. Naar aanleiding van een boekenonderzoek constateert de inspecteur ernstige gebreken in zijn administratie. De man heeft onder meer bankafschriften gemanipuleerd en inkoopfacturen vervalst. Ook ontbreken een opbrengstverantwoording, voorraadadministratie en deugdelijke debiteuren- en crediteurenadministratie. De inspecteur corrigeert daarop de aangiften IB/PVV 2013 tot en met 2016. In bezwaar verstrekt de man een herziene administratie die achteraf door zijn broer is opgesteld. Rechtbank Gelderland vermindert de (navorderings)aanslagen op basis van een aangepaste schatting van de inspecteur. In hoger beroep is de hoogte van de winst uit onderneming over 2013 tot en met 2016 in geschil.</p>
+
+
+
+<h3 class="wp-block-heading">Inspecteur mag winst schatten</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de administratie door de ernstige gebreken niet als betrouwbare grondslag voor de winstberekening kan dienen. Ook de herziene administratie is onvoldoende betrouwbaar. De man maakt niet met achterliggende stukken inzichtelijk waarop deze administratie is gebaseerd. Bij een ondeugdelijke administratie kan de inspecteur volgens het hof op grond van een redelijke bewijslastverdeling in eerste instantie volstaan met een gemotiveerde schatting. De inspecteur baseert zijn aangepaste omzetberekening op ontvangen bancaire betalingen en houdt daarbij rekening met 7% retourzendingen. Voor de inkoopkosten gebruikt hij de auditfile, gecorrigeerd voor onder meer vervalste facturen. Het hof vindt deze schatting voldoende gemotiveerd.</p>
+
+
+
+<h3 class="wp-block-heading">Ondernemer weerlegt schatting niet</h3>
+
+
+
+<p class="wp-block-paragraph">De man maakt niet aannemelijk dat zijn omzet en winst lager zijn dan de inspecteur heeft geschat. Bij zijn herziene administratie en Excel-overzichten ontbreken achterliggende administratieve stukken en berekeningen. Daardoor is niet te controleren of de omzet te hoog, het retourpercentage te laag of de kosten te laag zijn vastgesteld. Het hof sluit daarom aan bij de schatting van de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-52?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 52 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.76?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.76 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5444" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 18-08-2026, ECLI:NL:GHARL:2026:5444, 24/2088 tot en met 24/2092 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/02/Webshop3.jpg" length="36009" type="image/jpeg" />	</item>
+		<item>
+		<title>Telemarketingwerk telt niet mee voor het urencriterium</title>
+		<link>https://www.taxence.nl/nieuws/telemarketingwerk-telt-niet-mee-voor-het-urencriterium/</link>
+					<comments>https://www.taxence.nl/nieuws/telemarketingwerk-telt-niet-mee-voor-het-urencriterium/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 08:59:13 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167263</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat telemarketingactiviteiten onvoldoende samenhangen met de bouw- en schilderwerkzaamheden van een ondernemer om tot dezelfde onderneming te behoren. De telemarketingactiviteiten vormen ook zelfstandig geen onderneming, waardoor de gewerkte uren niet meetellen voor het urencriterium.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat telemarketingactiviteiten onvoldoende samenhangen met de bouw- en schilderwerkzaamheden van een ondernemer om tot dezelfde onderneming te behoren. De telemarketingactiviteiten vormen ook zelfstandig geen onderneming, waardoor de gewerkte uren niet meetellen voor het urencriterium.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man drijft sinds 2016 een eenmanszaak. In 2019 verricht hij kleine bouw- en schilderwerkzaamheden voor vier opdrachtgevers en telemarketingwerk voor één telemarketingbedrijf. Voor dit bedrijf verkoopt hij telefonisch creditcards. Hij moet minimaal 20 uur per week werken en het telemarketingbedrijf bepaalt zijn uurtarief. Volgens zijn urenadministratie werkt hij in totaal 1.463 uur, waarvan 559 uur aan telemarketing en 904 uur aan bouw- en schilderwerk. De man rekent alle inkomsten tot zijn winst uit onderneming en claimt de zelfstandigen- en startersaftrek. De inspecteur merkt de inkomsten uit telemarketing aan als resultaat uit overige werkzaamheden en weigert beide aftrekposten. In geschil is of de telemarketinginkomsten winst uit onderneming vormen en of de man voldoet aan het urencriterium.</p>
+
+
+
+<h3 class="wp-block-heading">Onvoldoende samenhang en zelfstandigheid</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat onvoldoende nauwe samenhang bestaat tussen beide activiteiten. De aard van de werkzaamheden, de opdrachtgevers en de voorwaarden waaronder de werkzaamheden worden verricht verschillen te veel. De telemarketingactiviteiten vormen evenmin zelfstandig een onderneming. De man werkt voor één telemarketingbedrijf, moet zich houden aan het rooster en de voorschriften van dat bedrijf en het bedrijf bepaalt zijn uurtarief. Bovendien heeft hij geen investeringen gedaan en krijgt hij zijn gewerkte uren betaald ongeacht het behaalde resultaat. Daardoor ontbreekt voldoende zelfstandigheid en loopt hij geen reëel ondernemers- en debiteurenrisico. Het risico dat het telemarketingbedrijf geen beroep meer op hem doet, is daarvoor onvoldoende.</p>
+
+
+
+<h3 class="wp-block-heading">Geen recht op ondernemersaftrek</h3>
+
+
+
+<p class="wp-block-paragraph">Omdat de telemarketingactiviteiten geen ondernemingsactiviteiten zijn, tellen de 559 daaraan bestede uren niet mee voor het urencriterium. Volgens zijn eigen urenoverzicht besteedt de man maximaal 904 uur aan zijn bouw- en schilderonderneming. Daarmee haalt hij de vereiste 1.225 uur niet. Hij heeft daarom geen recht op de zelfstandigen- en startersaftrek. Het hof verklaart het hoger beroep ongegrond en bevestigt de uitspraak van de rechtbank.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.2</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.6?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;pid=c-NDFRWOZLOKAAL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.6</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.8?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;pid=c-NDFRWOZLOKAAL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.8 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5442">Gerechtshof Arnhem-Leeuwarden, 18-08-2026, ECLI:NL:GHARL:2026:5442, 24/1234 en 24/1235 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/telemarketingwerk-telt-niet-mee-voor-het-urencriterium/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/telemarketing.jpg" length="40056" type="image/jpeg" />	</item>
+		<item>
+		<title>Cursus Contracteren en managen van AI-systemen &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/cursus-contracteren-en-managen-van-ai-systemen-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/cursus-contracteren-en-managen-van-ai-systemen-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 08:28:27 +0000</pubDate>
+				<category><![CDATA[Actualiteiten]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[AI & Tax Technology]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167171</guid>
+
+					<description><![CDATA[&#8216;AI Act proof&#8217; produceren, verkopen en inkopen van AI-systemen LET OP: LAPTOP MEENEMEN Deze cursus biedt je kennis en praktische handvatten voor het produceren, verkopen en inkopen van veilige en verantwoorde AI-systemen conform relevante wet- en regelgeving. De Europese AI Act omvat eisen en kaders voor de ontwikkeling en het gebruik van AI-systemen door overheden<a class="read-more" href="https://www.taxence.nl/agenda/cursus-contracteren-en-managen-van-ai-systemen-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>&#8216;AI Act proof&#8217; produceren, verkopen en inkopen van AI-systemen</p>
+<p>LET OP: LAPTOP MEENEMEN</p>
+<p>Deze cursus biedt je kennis en praktische handvatten voor het produceren, verkopen en inkopen van veilige en verantwoorde AI-systemen conform relevante wet- en regelgeving.</p>
+<p>De Europese AI Act omvat eisen en kaders voor de ontwikkeling en het gebruik van AI-systemen door overheden en marktpartijen. De AI-Verordening geldt voor iedereen die binnen de EU een AI-systeem ontwikkelt, op de markt brengt of inzet. Ook voor gebruikers, importeurs en producten gelden de regels uit de verordening.</p>
+<p>Mogelijk moet je ook rekening houden met andere wettelijke verplichtingen. Worden er persoonsgegevens verwerkt? Dan ben je ook gebonden aan de Algemene verordening gegevensbescherming (AVG). Afhankelijk waar het algoritme of bijvoorbeeld het AI-systeem voor wordt gebruikt, kan nog andere specifieke wetgeving gelden.</p>
+<p>De docent, Martijn Loth &#8211; advocaat en gespecialiseerd in commerciële technologiecontracten, -onderhandelingen, en -geschillen – belicht vanuit zowel producent- als gebruikersperspectief waaraan AI-systemen moet voldoen. Je krijgt een diepgaand inzicht en bewustwording van de risico’s en hoe deze contractueel te beheren. Vanuit zijn ruime ervaring met onderhandelen over technologiecontracten geeft hij je bovendien handige tips en tricks.</p>
+<p><strong>Inschrijven kan via onderstaande link:</strong></p>
+<p>I<a href="https://www.sdujuridischeopleidingen.nl/producten/9036/cursus-contracteren-en-managen-van-ai-systemen">nschrijven cursus Contracteren en managen van AI-systemen</a></p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/actualiteiten/2951/cursus-contracteren-en-managen-van-ai-systemen" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/cursus-contracteren-en-managen-van-ai-systemen-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Scenario’s voor loondoorbetaling bij ziekte</title>
+		<link>https://www.taxence.nl/nieuws/scenarios-voor-loondoorbetaling-bij-ziekte/</link>
+					<comments>https://www.taxence.nl/nieuws/scenarios-voor-loondoorbetaling-bij-ziekte/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 07:04:03 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167241</guid>
+
+					<description><![CDATA[Het kabinet wil de loondoorbetaling bij ziekte meer werkbaar maken, vooral voor kleinere werkgevers. Minister Aartsen inventariseert daarom verschillende scenario’s voor de hoogte en duur van de loondoorbetaling en voor collectivisering van het tweede ziektejaar.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de loondoorbetaling bij ziekte meer werkbaar maken, vooral voor kleinere werkgevers. Minister Aartsen inventariseert daarom verschillende scenario’s voor de hoogte en duur van de loondoorbetaling en voor collectivisering van het tweede ziektejaar.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Werkgevers moeten zieke werknemers gedurende 104 weken minimaal 70% van het loon doorbetalen. Met name kleinere werkgevers ervaren de verplichtingen bij ziekte als zwaar. Relatief veel werkgevers geven aan dat deze verplichtingen een belemmering vormen om mensen in vaste dienst te nemen. Het kabinet wil daarom voorstellen uitwerken om de loondoorbetaling bij ziekte meer werkbaar te maken, met name in het mkb.</p>
+
+
+
+<h2 class="wp-block-heading">Hoogte en duur van loondoorbetaling</h2>
+
+
+
+<p class="wp-block-paragraph">Een mogelijk scenario is het beperken van de ruimte voor bovenwettelijke loondoorbetaling. Volgens de minister verminderen bovenwettelijke aanvullingen de financiële prikkel voor zieke werknemers om zo snel mogelijk weer aan het werk te gaan als zij herstellen. Daarbij moeten onder meer de vrijheid van onderhandeling over arbeidsvoorwaarden en de rechtspositie van werkgever en werknemer zorgvuldig worden meegewogen.</p>
+
+
+
+<p class="wp-block-paragraph">Een tweede scenario is de loondoorbetalingsperiode voor alle werkgevers in te korten van twee naar anderhalf of één jaar. Hierdoor nemen de wendbaarheid van werkgevers toe en hun directe kosten van ziekteverzuim af. Daar staat een aanzienlijke toename van WIA-aanvragen en -instroom tegenover, evenals een afname van arbeidsparticipatie en werkgelegenheid.</p>
+
+
+
+<h2 class="wp-block-heading">Collectivisering tweede ziektejaar</h2>
+
+
+
+<p class="wp-block-paragraph">Ook is collectivisering van het tweede ziektejaar voor kleine werkgevers uitgewerkt. Daarbij blijft de arbeidsovereenkomst in stand, maar wordt de loondoorbetaling volledig of gedeeltelijk collectief bekostigd. De minister wijst erop dat afnemende financiële prikkels voor re-integratie naar verwachting leiden tot meer WIA-aanvragen en -instroom.</p>
+
+
+
+<p class="wp-block-paragraph">Andere verkende opties zijn inkorting van de maximale loonsanctie, vereenvoudiging van de ontslagaanvraag na langdurige arbeidsongeschiktheid en uitbreiding van de no-riskpolis voor werknemers die re-integreren in het tweede spoor. Het kabinet doet nog geen voorstel: de scenario’s dienen als input voor het politieke en maatschappelijke debat.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bron:</strong> <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18262&amp;did=2026D41831" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18262&amp;did=2026D41831" target="_blank" rel="noreferrer noopener">Inventarisatie scenario’s loondoorbetaling bij ziekte n.a.v. moties, nr. 2026-0000301480, Ministerie SZW8 september 2026</a><a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18262&amp;did=2026D41831" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18262&amp;did=2026D41831">.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/scenarios-voor-loondoorbetaling-bij-ziekte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/11/werknemer-ziek2.jpg" length="33756" type="image/jpeg" />	</item>
+		<item>
+		<title>Kamer wil vastgoedregime box 3 achter de hand houden</title>
+		<link>https://www.taxence.nl/nieuws/kamer-wil-vastgoedregime-box-3-achter-de-hand-houden/</link>
+					<comments>https://www.taxence.nl/nieuws/kamer-wil-vastgoedregime-box-3-achter-de-hand-houden/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 05:10:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167238</guid>
+
+					<description><![CDATA[De Tweede Kamer wil dat het kabinet het voorgestelde realisatieregime voor vastgoed in box 3 gereedhoudt voor het geval de Wet werkelijk rendement box 3 (Wwr) niet doorgaat. Een motie van Kamerlid Hoogeveen met die strekking is aangenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer wil dat het kabinet het voorgestelde realisatieregime voor vastgoed in box 3 gereedhoudt voor het geval de Wet werkelijk rendement box 3 (Wwr) niet doorgaat. Een motie van Kamerlid Hoogeveen met die strekking is aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Wet werkelijk rendement box 3 ligt momenteel bij de Eerste Kamer. Volgens Hoogeveen is het niet zeker dat het wetsvoorstel daar voldoende steun krijgt. De motie richt zich daarom op het onderdeel van de wet dat betrekking heeft op onroerende zaken.</p>
+
+
+
+<p class="wp-block-paragraph">Voor vastgoed voorziet de Wwr in een vermogenswinstbelasting. Daarbij wordt de waardestijging van onroerende zaken in beginsel belast op het moment dat deze daadwerkelijk wordt gerealiseerd, bijvoorbeeld bij verkoop. Dit wijkt af van de vermogensaanwasbelasting die voor andere vermogensbestanddelen in de nieuwe box 3-systematiek is voorzien, waarbij ook niet-gerealiseerde waardestijgingen jaarlijks in de heffing kunnen worden betrokken.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens de motie richten de bezwaren tegen de Wwr zich vooral op deze vermogensaanwasbelasting en niet op het realisatieregime voor vastgoed. Het vastgoedregime zou bovendien al volledig zijn uitgewerkt en de Belastingdienst zou grotendeels over de benodigde gegevens beschikken.</p>
+
+
+
+<p class="wp-block-paragraph">Hoogeveen stelt daarnaast dat het afzonderlijke realisatieregime kan helpen voorkomen dat verhuurders huurwoningen moeten verkopen om belasting over een nog niet gerealiseerde waardestijging te kunnen betalen.</p>
+
+
+
+<p class="wp-block-paragraph">Met het aannemen van de motie verzoekt de Tweede Kamer de regering daarom het vastgoedregime gereed te houden. Als de Wet werkelijk rendement box 3 uiteindelijk geen doorgang vindt, moet het kabinet het regime op korte termijn als zelfstandig wetsvoorstel kunnen indienen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z15393&amp;did=2026D34568" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z15393&amp;did=2026D34568" target="_blank" rel="noreferrer noopener">Tweede Kamer, 8 september 2026</a></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-f2196465-3be1-4c8b-8fbe-8f8c9a51dd19" href="https://www.licentacademy.nl/opleidingen/actualiteiten/3026/webinar-belastingplan-2027" target="_blank" rel="noopener noreferrer"><span>Webinar Belastingplan 2027</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-f2196465-3be1-4c8b-8fbe-8f8c9a51dd19{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-f2196465-3be1-4c8b-8fbe-8f8c9a51dd19:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-f2196465-3be1-4c8b-8fbe-8f8c9a51dd19 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kamer-wil-vastgoedregime-box-3-achter-de-hand-houden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/05/vastgoed.jpg" length="82068" type="image/jpeg" />	</item>
+		<item>
+		<title>Box 3 van jou of box 3 van mij?</title>
+		<link>https://www.taxence.nl/nieuws/box-3-van-jou-of-box-3-van-mij/</link>
+					<comments>https://www.taxence.nl/nieuws/box-3-van-jou-of-box-3-van-mij/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 05:02:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167236</guid>
+
+					<description><![CDATA[In welke gevallen mogen fiscale partners de verdeling van hun gezamenlijke grondslag sparen en beleggen (box 3) nog wijzigen?]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>In welke gevallen mogen fiscale partners de verdeling van hun gezamenlijke grondslag sparen en beleggen (box 3) nog wijzigen?</strong></p>
+
+
+
+<p class="wp-block-paragraph">Mr. Cindy van de Luijtgaarden-Braat en mr. Linda Jorissen bespreken in een artikel in Vakblad Estate Planning de problematiek rondom de toedeling van de gezamenlijke grondslag sparen en beleggen tussen fiscale partners. Aanleiding is het inmiddels ingetrokken kennisgroepstandpunt KG:202:2024:28 ‘Toerekening bij navordering box 3’. Daarin stelt de kennisgroep dat fiscale partners bij navordering van te veel verleend rechtsherstel box 3 geen nieuwe toedeling kunnen kiezen als hun aanslagen reeds onherroepelijk vaststaan en de navordering de omvang van de gezamenlijke grondslag sparen en beleggen niet wijzigt.</p>
+
+
+
+<p class="wp-block-paragraph">Op grond van artikel 2.17 Wet IB 2001 mogen fiscale partners de gezamenlijke grondslag sparen en beleggen aan elkaar toedelen in de verhouding die zij kiezen. Deze verhouding kan in beginsel worden gewijzigd totdat de aanslagen van beide partners onherroepelijk vaststaan. Het artikel bespreekt drie situaties waarin wijziging daarna aan de orde kan komen: massaal bezwaar, achterwaartse verliesverrekening en navordering.</p>
+
+
+
+<p class="wp-block-paragraph">Bij massaal bezwaar heeft de Hoge Raad geoordeeld dat fiscale partners op basis van een redelijke wetstoepassing hun gekozen verdeling nog kunnen wijzigen tot zes weken nadat voldoende duidelijkheid bestaat over de cijfermatige gevolgen. Om uitvoerbaarheidsredenen begint deze termijn wanneer de inspecteur de aanslag ter uitwerking van de collectieve uitspraak heeft verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Bij achterwaartse verliesverrekening kiest de Hoge Raad voor een striktere benadering. Het feit dat een eerder gekozen verdeling door achterwaartse verliesverrekening nadelig blijkt uit te pakken voor bijvoorbeeld de benutting van heffingskortingen, vormt geen bijzondere omstandigheid die rechtvaardigt dat de formele wet buiten toepassing wordt gelaten. De wetgever is niet verplicht alle nadelige gevolgen van inkomensschommelingen weg te nemen.</p>
+
+
+
+<p class="wp-block-paragraph">Bij navordering onderscheiden de auteurs twee situaties: navordering over posten die al eerder in een definitieve aanslag zijn begrepen (Situatie A) en navordering over posten die daarin nog niet waren begrepen (Situatie B). Voor Situatie B stond al vast dat wijziging mogelijk is. Inmiddels heeft de Hoge Raad geoordeeld dat ook in Situatie A de onderlinge verhouding alsnog mag worden gewijzigd. De wettekst van artikel 2.17 lid 4 Wet IB 2001 is volgens de auteurs op dit punt duidelijk. Daarmee wordt het kennisgroepstandpunt naar hun oordeel ‘overruled’.</p>
+
+
+
+<p class="wp-block-paragraph">De auteurs achten deze uitkomst wenselijk: er ontstaat één eenduidige lijn voor navordering. Zowel in Situatie A als Situatie B is wijziging van de onderlinge verhouding mogelijk. Inmiddels is het betreffende kennisgroepstandpunt ingetrokken.</p>
+
+
+
+<p class="wp-block-paragraph"><em>Cindy van de Luijtgaarden-Braat en Linda Jorissen zijn werkzaam bij het Private Client Services team van Deloitte.</em></p>
+
+
+
+<p class="wp-block-paragraph">Het volledige artikel is te lezen in Vakblad Estate Planning. <strong><a href="https://www.licentacademy.nl/vakgebieden/vakinformatie/vaktijdschriften/1554/vakblad-estate-planning-kennismakingsabonnement">Nog geen abonnee? Met een abonnement voor 3 nummers kun je voordelig kennismaken!</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/box-3-van-jou-of-box-3-van-mij/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/07/pensioen-echtpaar-computer.jpg" length="50248" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingdruk huishoudens gedaald sinds 2011</title>
+		<link>https://www.taxence.nl/nieuws/belastingdruk-huishoudens-gedaald-sinds-2011/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingdruk-huishoudens-gedaald-sinds-2011/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 04:36:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167246</guid>
+
+					<description><![CDATA[De belastingdruk van Nederlandse huishoudens is de afgelopen jaren afgenomen. In 2024 betaalden huishoudens in doorsnee 12,3 procent van hun bruto huishoudensinkomen aan inkomstenbelasting en premies volksverzekeringen. In 2011 was dit nog 15,4 procent.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De belastingdruk van Nederlandse huishoudens is de afgelopen jaren afgenomen. In 2024 betaalden huishoudens in doorsnee 12,3 procent van hun bruto huishoudensinkomen aan inkomstenbelasting en premies volksverzekeringen. In 2011 was dit nog 15,4 procent.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belastingdruk bestaat uit de betaalde inkomstenbelasting en ingehouden premies voor de AOW, Anw en Wlz, uitgedrukt als percentage van het bruto huishoudensinkomen. Indirecte belastingen, zoals btw, zijn hierin niet meegenomen.</p>
+
+
+
+<h3 class="wp-block-heading">Hoogste inkomens betalen relatief het meest</h3>
+
+
+
+<p class="wp-block-paragraph">Nederland kent een progressief belastingstelsel, waardoor hogere inkomens relatief meer belasting betalen. Bij de 10 procent huishoudens met de hoogste bruto-inkomens bedroeg de mediane belastingdruk in 2024 24,9 procent. Voor bijna alle inkomensgroepen was de belastingdruk lager dan in 2014. Alleen bij de hoogste inkomensgroep nam deze licht toe, van 24,7 naar 24,9 procent.</p>
+
+
+
+<p class="wp-block-paragraph">Ook bestaan duidelijke verschillen tussen typen huishoudens. Tweeverdieners hebben bij een vergelijkbaar inkomen een lagere belastingdruk dan eenverdieners, eenoudergezinnen en eenpersoonshuishoudens. Bij een jaarinkomen tussen 100.000 en 110.000 euro bedraagt de belastingdruk bijvoorbeeld 11,9 procent voor tweeverdieners en 19,4 procent voor eenverdieners. Voor alle eenverdieners samen komt de mediane belastingdruk uit op 16,7 procent, tegenover 15,9 procent voor tweeverdieners.</p>
+
+
+
+<h3 class="wp-block-heading">Gepensioneerden hebben laagste belastingdruk</h3>
+
+
+
+<p class="wp-block-paragraph">Huishoudens met een pensioenuitkering als belangrijkste inkomensbron hebben met 5,5 procent de laagste belastingdruk. Een belangrijke verklaring is dat mensen die AOW ontvangen geen AOW-premie meer betalen. Zelfstandigen hebben met 15,6 procent juist de hoogste mediane belastingdruk. Zij vormen bovendien de enige groep waarvan de belastingdruk sinds 2014 is toegenomen. In dezelfde periode is de zelfstandigenaftrek afgenomen.</p>
+
+
+
+<p class="wp-block-paragraph">Wanneer ook premies voor onder meer werkloosheid, ziekte, arbeidsongeschiktheid en pensioen worden meegerekend, bedroeg de totale mediane belasting- en premiedruk in 2024 32,3 procent. In 2011 was dit nog 35,2 procent.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011" data-type="link" data-id="https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011" target="_blank" rel="noreferrer noopener">CBS, 9 september 2026</a><a href="https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011" data-type="link" data-id="https://www.cbs.nl/nl-nl/nieuws/2026/37/belastingdruk-huishoudens-gedaald-van-15-naar-12-procent-sinds-2011">.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingdruk-huishoudens-gedaald-sinds-2011/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/12/supermarkt-kassa.jpg" length="58538" type="image/jpeg" />	</item>
+		<item>
+		<title>Bezwaar motorrijtuigenbelasting vanaf 10 september ook online</title>
+		<link>https://www.taxence.nl/nieuws/bezwaar-motorrijtuigenbelasting-vanaf-10-september-ook-online/</link>
+					<comments>https://www.taxence.nl/nieuws/bezwaar-motorrijtuigenbelasting-vanaf-10-september-ook-online/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 03:32:00 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167244</guid>
+
+					<description><![CDATA[Vanaf 10 september 2026 is het mogelijk om online bezwaar te maken tegen een naheffingsaanslag, boete, betaling of beschikking voor de motorrijtuigenbelasting (mrb).]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Vanaf 10 september 2026 is het mogelijk om online bezwaar te maken tegen een naheffingsaanslag, boete, betaling of beschikking voor de motorrijtuigenbelasting (mrb).</strong></p>
+
+
+
+<p class="wp-block-paragraph">Voor het indienen van bezwaar geldt een termijn van 6 weken. Bij een betaling begint deze termijn op de datum waarop de motorrijtuigenbelasting is betaald. Bij een beschikking, naheffingsaanslag of boete geldt een termijn van 6 weken vanaf de datum die op het betreffende document staat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/bezwaar-motorrijtuigenbelasting-online" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/bezwaar-motorrijtuigenbelasting-online" target="_blank" rel="noreferrer noopener">Belastingdienst, 9 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bezwaar-motorrijtuigenbelasting-vanaf-10-september-ook-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/auto-vrouw-rijdend.jpg" length="50136" type="image/jpeg" />	</item>
+		<item>
+		<title>Ongespecificeerde rente eerst naar oudste schuldigerkenning</title>
+		<link>https://www.taxence.nl/nieuws/ongespecificeerde-rente-eerst-naar-oudste-schuldigerkenning/</link>
+					<comments>https://www.taxence.nl/nieuws/ongespecificeerde-rente-eerst-naar-oudste-schuldigerkenning/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 08:09:04 +0000</pubDate>
+				<category><![CDATA[Erf- en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167221</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat bij meerdere schuldigerkenningen een niet-gespecificeerde rentebetaling eerst aan de oudste schuld moet worden toegerekend. Omdat daardoor over de tweede schuldigerkenning niet tijdig en volledig rente is betaald, is art. 10 SW daarop van toepassing.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat bij meerdere schuldigerkenningen een niet-gespecificeerde rentebetaling eerst aan de oudste schuld moet worden toegerekend. Omdat daardoor over de tweede schuldigerkenning niet tijdig en volledig rente is betaald, is artikel 10 SW daarop van toepassing.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vader schenkt zijn kind in 2019 en 2020 bij notariële akte telkens € 100.000 en blijft deze bedragen schuldig. Over beide bedragen is jaarlijks 6% rente verschuldigd. In december 2020 betaalt hij € 7.000 rente, zonder te vermelden op welke schuldigerkenning de betaling ziet. Na zijn overlijden in 2021 worden nog rentebetalingen gedaan. De inspecteur merkt beide schuldigerkenningen aan als fictieve verkrijgingen op grond van artikel 10 SW. Rechtbank Noord-Nederland oordeelt dat artikel 10 SW alleen van toepassing is op de schuldigerkenning uit 2020 en vermindert de belaste verkrijging daarom met € 100.000. De inspecteur gaat tegen dit oordeel in hoger beroep; het kind stelt incidenteel hoger beroep in.</p>
+
+
+
+<h3 class="wp-block-heading">Betaling eerst naar oudste schuld</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof stelt voorop dat voor iedere schuldigerkenning afzonderlijk moet worden beoordeeld of voldoende en tijdig rente is betaald. Omdat bij de betaling van € 7.000 niet is aangegeven op welke schuld deze betrekking heeft, rekent het hof het bedrag eerst zoveel mogelijk toe aan de oudste schuldigerkenning uit 2019. Daarmee zijn de rente over 2019, inclusief de benodigde inhaalrente, en de rente over 2020 volledig betaald. Ook de rente over 2021 is volgens het hof tijdig ingehaald. De inspecteur stelt bovendien ten onrechte als eis dat in de betalingsomschrijving exact moet staan op welke schuldigerkenning de rentebetaling betrekking heeft. Voor de schuldigerkenning uit 2019 is art. 10 SW daarom niet van toepassing.</p>
+
+
+
+<h3 class="wp-block-heading">Schuld uit 2020 wel belast</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de schuldigerkenning uit 2020 is wél te weinig rente betaald. Na toerekening aan de schuld uit 2019 resteert van de betaling slechts € 860,60, terwijl € 1.180,33 verschuldigd is. Een latere nabetaling in 2023 komt te laat. Het gevolg is dat alleen de schuldigerkenning van € 100.000 uit 2020 als fictieve verkrijging voor de erfbelasting wordt belast; die uit 2019 niet. Zowel het hoger beroep van de inspecteur als het incidentele hoger beroep van het kind is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-10?lid=BWBR0002226&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10 SW</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5189" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 04-08-2026, ECLI:NL:GHARL:2026:5189, 25/828 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/ongespecificeerde-rente-eerst-naar-oudste-schuldigerkenning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/rente_cropped-68-0-0-0-0-768x420.png" length="336061" type="image/png" />	</item>
+		<item>
+		<title>Agrarische activiteiten blijven bron van inkomen ondanks verliezen</title>
+		<link>https://www.taxence.nl/nieuws/agrarische-activiteiten-blijven-bron-van-inkomen-ondanks-verliezen/</link>
+					<comments>https://www.taxence.nl/nieuws/agrarische-activiteiten-blijven-bron-van-inkomen-ondanks-verliezen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167223</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat de agrarische activiteiten van een vof in 2019 en 2020 nog steeds een bron van inkomen vormen. De inspecteur maakt niet aannemelijk dat een objectieve voordeelsverwachting ontbreekt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat de agrarische activiteiten van een vof in 2019 en 2020 nog steeds een bron van inkomen vormen. De inspecteur maakt niet aannemelijk dat een objectieve voordeelsverwachting ontbreekt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw is sinds 2003 vennoot in een vof die een agrarisch bedrijf exploiteert. Na het overlijden van haar vader zetten zij, haar broer en zus het bedrijf voort. Vanaf 2009 wordt de veestapel afgebouwd en schakelt de vof over op akkerbouw. In 2019 behaalt de vof een winst van € 6.188 en in 2020 een verlies van € 6.371. In de jaren daarna zijn de resultaten positief. De vrouw werkt daarnaast in loondienst als verpleegkundige. Na een boekenonderzoek stelt de inspecteur dat de activiteiten van de vof niet langer een bron van inkomen vormen en dat sprake is van box 3-vermogen. Rechtbank Zeeland-West-Brabant oordeelt dat nog wel sprake is van een bron van inkomen. In hoger beroep is in geschil of in 2019 en 2020 een objectieve voordeelsverwachting bestaat.</p>
+
+
+
+<h3 class="wp-block-heading">Agrarische activiteiten blijven bron</h3>
+
+
+
+<p class="wp-block-paragraph">Omdat de inspecteur de winst uit onderneming tot en met 2018 steeds heeft gevolgd, moet hij bewijzen dat geen bron van inkomen meer bestaat. Daarin slaagt hij volgens het hof niet. De resultaten rond 2019 en 2020 zijn niet zodanig dat een objectieve voordeelsverwachting ontbreekt. Daarbij kunnen akkerbouwactiviteiten naar hun aard wisselende resultaten opleveren. Voor een objectieve voordeelsverwachting is bovendien niet vereist dat de totaalwinst positief is. Het hof vindt de door de inspecteur gebruikte periode 2009-2022 te lang en arbitrair. Ook maakt hij niet aannemelijk dat het areaal te klein is voor een levensvatbaar akkerbouwbedrijf. De agrarische activiteiten blijven daarom een bron van inkomen. Het hoger beroep is toch gegrond, omdat de rechtbank de aanslagen te ver heeft verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.8 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1847" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 15-07-2026, ECLI:NL:GHSHE:2026:1847, : 24/1237 tot en met 24/1239 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/agrarische-activiteiten-blijven-bron-van-inkomen-ondanks-verliezen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Landbouw-tractor.jpg" length="69687" type="image/jpeg" />	</item>
+	</channel>
+</rss>

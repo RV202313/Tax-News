@@ -1,0 +1,68 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-07-18-1700-editorial-editorial-002ded5cafc1",
+  "release": "2026-07-18-1700-editorial",
+  "date": "2026-07-18",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-07-18T14:16:39.819726+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "002ded5cafc1cf44e25ee3aa9084fc9de3a079adeb29d6fd76ef330430150f4e",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 10,
+    "missing_post_ids": []
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 21736,
+      "sha256": "002ded5cafc1cf44e25ee3aa9084fc9de3a079adeb29d6fd76ef330430150f4e"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-18_shortlist.json",
+      "bytes": 41,
+      "sha256": "90341fc8249f54fab7df57270bd2a71c85fd7119a1b9f3e65d5eaafca6cda570",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-18_digest.md",
+      "bytes": 432,
+      "sha256": "3a99c4ca291c0c468b0c454ddfe5d03797f0d42bda11027084c55f55bb6a46aa",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 420,
+      "sha256": "7991b8980ecb70a8bea018287587e185fdfbe2b9f170d2650be6a9d7b2d479cb",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 2937,
+      "sha256": "ebb2548e0587cb315ba1bb937ee7922aa9b5cb47f80fec208d51f04f87194257",
+      "records": 10
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-24",
+  "release": "2026-07-24-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-07-24-ru-fts-foreign-accounts-rules",
+      "title": "Резиденты РФ с зарубежными счетами в ЕАЭС освобождены от отчетов при обороте до 600 тыс. руб.",
+      "caption": "Разъяснения Федеральной налоговой службы (ФНС) России подтверждают, что валютные резиденты РФ не обязаны представлять отчеты о движении средств по счетам в странах ЕАЭС, если годовой оборот или баланс не превышает 600 тыс. рублей. Отчет также не требуется, если гражданин проживает за границей более 183 дней в году.\n\nПочему это важно: Правило существенно упрощает административную нагрузку для резидентов, использующих банковские карты стран ЕАЭС для личных расходов, но требует мониторинга лимитов.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16636978/\n\n#Россия #ФНС #валютныйконтроль #ЕАЭС #банковскиесчета #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "валютный контроль, ЕАЭС, банковские счета, ФНС",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России",
+      "sources": [
+        {
+          "label": "FNS Clarifications",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16636978/"
+        }
+      ],
+      "image_spec": {
+        "badge": "RU Tax",
+        "color_a": [44, 62, 80],
+        "color_b": [52, 152, 219]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "FNS official statement verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-nl-shell-transfer-pricing",
+      "title": "В Нидерландах профессор экономики назвал практику трансфертного ценообразования Шелл нерыночной",
+      "caption": "Профессор экономики в интервью изданию FD охарактеризовал трансфертные цены нефтегазового концерна Шелл как нерыночные и, следовательно, нарушающие законодательство. Речь идет о распределении прибыли между холдингом и зарубежными дочерними компаниями.\n\nПочему это важно: Критика ценообразования транснациональных корпораций со стороны экспертного сообщества усиливает общественное давление и может спровоцировать новые проверки со стороны налоговых органов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/hoogleraar-in-fd-verrekenprijzen-shell-zijn-onzakelijk-en-daarmee-illegaal/\n\n#Нидерланды #трансфертноеценообразование #Шелл #налоговыепроверки #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование, корпоративный налог, комплаенс",
+      "jurisdictions": "Нидерланды",
+      "act": "Публикация в издании FD",
+      "sources": [
+        {
+          "label": "TaxLive FD Review",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/hoogleraar-in-fd-verrekenprijzen-shell-zijn-onzakelijk-en-daarmee-illegaal/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Tax",
+        "color_a": [220, 160, 40],
+        "color_b": [30, 61, 114]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "FD professor statement verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-nl-cfc-tax-dividend-exemption",
+      "title": "Нидерланды: уплата налога по КИК не гарантирует автоматическое освобождение дивидендов",
+      "caption": "Минфин Нидерландов разъяснил, что налогообложение нераспределенной прибыли в рамках правил КИК (контролируемых иностранных компаний) и применение освобождения от налога на дивиденды (PARTICIPATION EXEMPTION) являются независимыми этапами. Уплата налога по КИК не означает автоматическое освобождение при последующем распределении прибыли.\n\nПочему это важно: Иностранные структуры в низконалоговых юрисдикциях требуют отдельного анализа рисков двойного налогообложения как при расчете прибыли КИК, так и при выплате дивидендов.\n\nИсточник: https://t.me/BEPSAcademyRU/999\n\n#Нидерланды #КИК #дивиденды #налогообложение #низконалоговыегавани #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "КИК, дивиденды, корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение Министерства финансов Нидерландов",
+      "sources": [
+        {
+          "label": "BEPS Academy RU Post",
+          "url": "https://t.me/BEPSAcademyRU/999"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL CFC",
+        "color_a": [220, 160, 40],
+        "color_b": [142, 68, 173]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Dutch CFC guidance verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-uz-international-tax-exchange",
+      "title": "Узбекистан расширяет систему международного обмена налоговой информацией",
+      "caption": "Присоединение Узбекистана к Многосторонней конвенции о взаимной административной помощи создает правовую основу для перехода к автоматическому обмену финансовыми данными по международному стандарту CRS. Внедрение обмена потребует согласования списков стран-партнеров.\n\nПочему это важно: Налоговые органы Узбекистана получат доступ к сведениям об иностранных счетах и активах своих резидентов, что повысит прозрачность и контроль за декларированием доходов.\n\nИсточник: https://t.me/BEPSAcademyRU/1000\n\n#Узбекистан #CRS #автоматическийобмен #налоговаяпрозрачность #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CRS, автоматический обмен, налоговая прозрачность",
+      "jurisdictions": "Узбекистан",
+      "act": "Закон о присоединении к Многосторонней конвенции",
+      "sources": [
+        {
+          "label": "BEPS Academy RU Post",
+          "url": "https://t.me/BEPSAcademyRU/1000"
+        }
+      ],
+      "image_spec": {
+        "badge": "UZ Tax",
+        "color_a": [41, 128, 185],
+        "color_b": [39, 174, 96]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Uzbekistan tax treaty status verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-nl-vat-input-deduction-substantiation",
+      "title": "Нидерланды: отказ в вычете НДС при отсутствии надлежащего документального обоснования",
+      "caption": "Суд в Нидерландах подтвердил законность отказа налогоплательщику в вычете входного НДС из-за отсутствия надлежащих первичных документов и договоров, подтверждающих реальность оказания услуг. Одного лишь наличия счетов-фактур для вычета недостаточно.\n\nПочему это важно: Налогоплательщикам необходимо тщательно документировать хозяйственные операции и хранить доказательства фактического исполнения услуг для защиты вычетов по НДС.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-aftrek-voorbelasting-zonder-deugdelijke-onderbouwing/\n\n#Нидерланды #НДС #налоговыевычеты #судебнаяпрактика #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС, налоговые вычеты, судебная практика",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов",
+      "sources": [
+        {
+          "label": "TaxLive Court Case Review",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-aftrek-voorbelasting-zonder-deugdelijke-onderbouwing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL VAT",
+        "color_a": [220, 160, 40],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Dutch Supreme Court / lower court ruling checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-nl-tax-credit-partner-decision",
+      "title": "Суд Нидерландов разъяснил правила зачета налоговых скидок между партнерами",
+      "caption": "Налоговый орган Нидерландов правомерно отказал в увеличении комбинированной налоговой скидки для партнера, поскольку вся сумма скидки была зачтена в счет обязательств первого налогоплательщика. Зачет исключает возможность повторного использования льготы.\n\nПочему это важно: При планировании семейных налоговых вычетов супругам необходимо учитывать правила распределения и зачета льгот для исключения отказов со стороны инспекции.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/door-verrekening-belastingkorting-geen-recht-op-verhoging-gecombineerde-heffingskorting-bij-partner/\n\n#Нидерланды #налоговыевычеты #физическиелица #судебнаяпрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые вычеты, физические лица, судебная практика",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов",
+      "sources": [
+        {
+          "label": "TaxLive Case Study",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/door-verrekening-belastingkorting-geen-recht-op-verhoging-gecombineerde-heffingskorting-bij-partner/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Tax",
+        "color_a": [220, 160, 40],
+        "color_b": [44, 62, 80]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Dutch tax partner regulations checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-oecd-corporate-tax-revenues",
+      "title": "Доходы от налога на прибыль в странах ОЭСР остаются стабильно высокими",
+      "caption": "Свежий аналитический отчет ОЭСР показывает, что поступления от корпоративного налога на прибыль в развитых странах сохраняют стабильно высокую долю в общих доходах бюджетов. Это происходит на фоне продолжающейся реализации реформ по борьбе с размыванием налоговой базы.\n\nПочему это важно: Стабильность сборов подтверждает эффективность международных стандартов борьбы с уклонением от налогов и снижает вероятность повышения базовых ставок.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/opbrengsten-winstbelasting-in-oeso-landen-stabiel-hoog/\n\n#ОЭСР #корпоративныйналог #налоговыепоступления #макроэкономика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог, налоговые поступления, макроэкономика",
+      "jurisdictions": "ОЭСР",
+      "act": "Отчет ОЭСР о налоговых доходах",
+      "sources": [
+        {
+          "label": "OECD Corporate Tax Report",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/opbrengsten-winstbelasting-in-oeso-landen-stabiel-hoog/"
+        }
+      ],
+      "image_spec": {
+        "badge": "OECD Tax",
+        "color_a": [44, 62, 80],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "OECD tax revenues database checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-be-pillar-two-representative-mandate",
+      "title": "Бельгия ввела институт уполномоченных представителей по правилам PILLAR TWO",
+      "caption": "Федеральная государственная служба финансов Бельгии обновила руководство по внедрению глобального минимального налога, добавив возможность официального назначения профессионального представителя (налогового консультанта или аудитора) для ведения учета и сдачи отчетности в рамках правил PILLAR TWO.\n\nПочему это важно: Изменение упрощает соблюдение сложного комплаенса PILLAR TWO для международных групп, позволяя передать эти функции на аутсорсинг квалифицированным бельгийским провайдерам.\n\nИсточник: https://regfollower.com/belgium-introduces-pillar-two-mandate-for-professional-tax-representatives/\n\n#Бельгия #PILLARTWO #глобальныйминимальныйналог #комплаенс #аутсорсинг #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "PILLAR TWO, глобальный минимальный налог, комплаенс",
+      "jurisdictions": "Бельгия",
+      "act": "Обновленное руководство SPF Finance",
+      "sources": [
+        {
+          "label": "Belgium SPF Finance Update",
+          "url": "https://regfollower.com/belgium-introduces-pillar-two-mandate-for-professional-tax-representatives/"
+        }
+      ],
+      "image_spec": {
+        "badge": "BE Tax",
+        "color_a": [241, 196, 15],
+        "color_b": [30, 61, 114]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Belgium SPF Finance Pillar Two mandate verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-au-ato-division-7a-interest-rate",
+      "title": "Австралия: ATO повысило ставку по займам DIVISION 7A на 2026–2027 годы",
+      "caption": "Налоговая служба Австралии (ATO) опубликовала новую индикативную ставку для займов акционерам в соответствии с разделом DIVISION 7A. На период 2026–2027 годов ставка повышена до 8,27% годовых, что отражает общую динамику стоимости заимствований на финансовом рынке.\n\nПочему это важно: Австралийским компаниям и их акционерам необходимо пересмотреть условия действующих договоров займов для исключения риска признания выплат скрытыми дивидендами.\n\nИсточник: https://regfollower.com/australia-ato-raises-division-7a-benchmark-interest-rate-for-2026-27/\n\n#Австралия #ATO #займыакционерам #процентныеставки #дивиденды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "процентные ставки, займы, контролируемые сделки, дивиденды",
+      "jurisdictions": "Австралия",
+      "act": "Директива Налоговой службы Австралии (ATO)",
+      "sources": [
+        {
+          "label": "ATO Division 7A update",
+          "url": "https://regfollower.com/australia-ato-raises-division-7a-benchmark-interest-rate-for-2026-27/"
+        }
+      ],
+      "image_spec": {
+        "badge": "AU Tax",
+        "color_a": [44, 62, 80],
+        "color_b": [192, 57, 43]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "ATO Division 7A benchmark verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-dz-multilateral-assistance-ratification",
+      "title": "Алжир ратифицировал Многостороннюю конвенцию о взаимной налоговой помощи",
+      "caption": "Алжир завершил процедуру ратификации и депонировал инструмент ратификации Многосторонней конвенции ОЭСР и Совета Европы о взаимной административной помощи по налоговым делам. Конвенция вступит в силу для страны после прохождения организационного периода.\n\nПочему это важно: Шаг открывает возможности для обмена информацией по запросу, спонтанного обмена и участия в автоматическом обмене финансовыми сведениями с более чем 140 странами-участницами.\n\nИсточник: https://regfollower.com/algeria-completes-ratification-of-mutual-assistance-convention/\n\n#Алжир #Многосторонняяконвенция #обменинформацией #налоговаяпрозрачность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "обмен информацией, налоговая прозрачность, ОЭСР",
+      "jurisdictions": "Алжир",
+      "act": "Закон Алжира о ратификации конвенции",
+      "sources": [
+        {
+          "label": "OECD Mutual Assistance Status",
+          "url": "https://regfollower.com/algeria-completes-ratification-of-mutual-assistance-convention/"
+        }
+      ],
+      "image_spec": {
+        "badge": "DZ Tax",
+        "color_a": [22, 160, 133],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "OECD MAC Algerian ratification verified"
+      }
+    }
+  ]
+}

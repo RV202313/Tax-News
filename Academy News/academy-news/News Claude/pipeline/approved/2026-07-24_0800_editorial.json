@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-24",
+  "release": "2026-07-24-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-07-24-nl-tax-compliance-consultation",
+      "title": "Нидерланды проводят консультации по законопроекту об упрощении налогового комплаенса и реорганизациях",
+      "caption": "Правительство Нидерландов вынесло на публичные консультации масштабный пакет налоговых поправок. Проект предусматривает упрощение процедур комплаенса по подоходному налогу, налогу на прибыль и налогу на наследство. Важными пунктами являются корректировка льгот при реорганизации бизнеса, а также изменения в правилах налогообложения гибридных структур в рамках адаптации к европейским директивам.\n\nПочему это важно: Для холдингов и международных групп с присутствием в Нидерландах это означает необходимость пересмотра корпоративных структур и условий реорганизаций для соответствия новым правилам с 2027 года.\n\nИсточник: https://regfollower.com/netherlands-consults-bill-targeting-compliance-simplifications-adjustment-of-reorganisation-facilities-hybrid-entity-changes/\n\n#Нидерланды #корпоративныйналог #налоговаяреформа #реорганизация #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог, налоговая реформа, реорганизация, комплаенс",
+      "jurisdictions": "Нидерланды",
+      "act": "Законопроект об упрощении комплаенса 2026",
+      "sources": [
+        {
+          "label": "Dutch Gov Consultation",
+          "url": "https://regfollower.com/netherlands-consults-bill-targeting-compliance-simplifications-adjustment-of-reorganisation-facilities-hybrid-entity-changes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Tax",
+        "color_a": [22, 78, 120],
+        "color_b": [232, 145, 58]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Dutch Government Consultation documents verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-cn-business-reorganisation-tax",
+      "title": "Китай снизил порог для применения льготного налогового режима при реорганизации бизнеса",
+      "caption": "Государственное налоговое управление КНР (STA) опубликовало Объявление № 13 от 2026 года. Документ снижает требования к доле активов и обязательств, передаваемых в рамках корпоративных реорганизаций, для применения специального (отложенного) режима налогообложения. Ранее для получения льготы требовалось передать не менее 75% активов, теперь этот порог снижен до 50%.\n\nПочему это важно: Изменения существенно облегчают структурирование сделок M&A и внутреннюю реструктуризацию групп в Китае, снижая немедленную налоговую нагрузку при передаче бизнес-подразделений.\n\nИсточник: https://regfollower.com/china-lowers-threshold-for-special-tax-treatment-of-assets-and-liabilities-in-business-reorganisations/\n\n#Китай #реорганизация #корпоративныйналог #льготы #сделкислияния #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "реорганизация, корпоративный налог, налоговые льготы, сделки слияния",
+      "jurisdictions": "Китай",
+      "act": "Объявление ГНУ № 13 от 2026 года",
+      "sources": [
+        {
+          "label": "STA Announcement",
+          "url": "https://regfollower.com/china-lowers-threshold-for-special-tax-treatment-of-assets-and-liabilities-in-business-reorganisations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Tax",
+        "color_a": [168, 32, 32],
+        "color_b": [232, 180, 58]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "STA Announcement 13 of 2026 verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-sg-cbc-exchange-countries",
+      "title": "Сингапур расширил список стран для автоматического обмена страновыми отчетами",
+      "caption": "Налоговая служба Сингапура (IRAS) обновила перечень юрисдикций, с которыми осуществляется автоматический обмен страновыми отчетами (CbC). В список соглашений была добавлена Гренландия, что расширяет трансграничное сотрудничество Сингапура в области налоговой прозрачности.\n\nПочему это важно: Международные группы компаний (МГК) с материнскими или дочерними структурами в Сингапуре должны учитывать Гренландию при анализе своих обязательств по раскрытию информации в рамках стандартов OECD.\n\nИсточник: https://regfollower.com/singapore-updates-list-of-jurisdictions-for-the-automatic-exchange-of-cbc-reports/\n\n#Сингапур #CbC #автоматическийобмен #налоговаяпрозрачность #МГК #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CbC, автоматический обмен, налоговая прозрачность, МГК",
+      "jurisdictions": "Сингапур",
+      "act": "Руководство IRAS по обмену CbC",
+      "sources": [
+        {
+          "label": "IRAS Exchange Update",
+          "url": "https://regfollower.com/singapore-updates-list-of-jurisdictions-for-the-automatic-exchange-of-cbc-reports/"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG CbC",
+        "color_a": [30, 61, 114],
+        "color_b": [190, 120, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "IRAS Exchange Guidelines verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-sg-gst-audit-guidance",
+      "title": "Налоговая служба Сингапура обновила руководство по проведению аудитов по GST",
+      "caption": "Налоговая служба Сингапура (IRAS) выпустила обновленное руководство по приоритетным направлениям аудита налога на товары и услуги (GST). В документе детализированы частые ошибки налогоплательщиков при декларировании импорта, начислении налога на блага сотрудникам, а также правила добровольного раскрытия нарушений.\n\nПочему это важно: Сингапурскому бизнесу рекомендуется провести внутренний экспресс-аудит своих GST-процессов, чтобы минимизировать риски доначислений и штрафов в преддверии плановых проверок IRAS.\n\nИсточник: https://regfollower.com/singapore-updates-guidance-on-current-areas-of-gst-audits/\n\n#Сингапур #GST #налоговыйаудит #НДС #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "GST, налоговый аудит, косвенные налоги, комплаенс",
+      "jurisdictions": "Сингапур",
+      "act": "Руководство IRAS по GST-аудитам",
+      "sources": [
+        {
+          "label": "IRAS GST Audit Guidance",
+          "url": "https://regfollower.com/singapore-updates-guidance-on-current-areas-of-gst-audits/"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG GST",
+        "color_a": [30, 61, 114],
+        "color_b": [120, 190, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "IRAS GST Audit Updates verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-de-vat-registration-nonresidents",
+      "title": "Германия обновила формы для регистрации по НДС иностранных компаний",
+      "caption": "Федеральное министерство финансов Германии утвердило новые формы заявлений для регистрации по НДС иностранных компаний (нерезидентов). Новые бланки и инструкции заменяют старые версии 2021 года и направлены на стандартизацию сбора информации о бенефициарах и цепочках поставок.\n\nПочему это важно: Иностранным поставщикам и маркетплейсам, ведущим деятельность в Германии, необходимо использовать новые бланки при постановке на налоговый учет, чтобы избежать задержек в регистрации.\n\nИсточник: https://regfollower.com/germany-updates-vat-registration-form-for-non-resident-businesses/\n\n#Германия #НДС #регистрациянерезидентов #налоговыйучет #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС, налоговый учет, регистрация нерезидентов, комплаенс",
+      "jurisdictions": "Германия",
+      "act": "Циркуляр Федерального министерства финансов",
+      "sources": [
+        {
+          "label": "German BMF Decree",
+          "url": "https://regfollower.com/germany-updates-vat-registration-form-for-non-resident-businesses/"
+        }
+      ],
+      "image_spec": {
+        "badge": "DE VAT",
+        "color_a": [44, 62, 80],
+        "color_b": [230, 126, 34]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "BMF Decree documents verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-pe-maritime-tax-incentives",
+      "title": "Перу ввело 100% налоговый вычет на реинвестируемую прибыль для морского сектора",
+      "caption": "В Перу вступил в силу Закон № 32706, направленный на модернизацию торгового флота и поддержку каботажного судоходства. Основной мерой стало введение 100% вычета из налога на прибыль для сумм, реинвестированных в приобретение новых судов и модернизацию портовой инфраструктуры.\n\nПочему это важно: Для инвесторов и судоходных компаний в Латинской Америке это открывает существенные налоговые льготы при расширении флота и долгосрочном планировании инфраструктурных проектов в Перу.\n\nИсточник: https://regfollower.com/peru-introduces-100-tax-deduction-for-reinvested-profits-under-new-maritime-industry-incentives/\n\n#Перу #налоговыельготы #инвестиции #налогнаприбыль #морскойтранспорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы, инвестиции, налог на прибыль, судоходство",
+      "jurisdictions": "Перу",
+      "act": "Закон № 32706",
+      "sources": [
+        {
+          "label": "Peru Law 32706",
+          "url": "https://regfollower.com/peru-introduces-100-tax-deduction-for-reinvested-profits-under-new-maritime-industry-incentives/"
+        }
+      ],
+      "image_spec": {
+        "badge": "PE Tax",
+        "color_a": [192, 57, 43],
+        "color_b": [52, 152, 219]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Peru Gazette Publication verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-uk-vat-electricity-cut",
+      "title": "Великобритания снизит НДС на электроэнергию для населения до 0% с октября 2026 года",
+      "caption": "Правительство Великобритании объявило о снижении ставки НДС на счета за бытовое электричество с 5% до 0%, начиная с 1 октября 2026 года. Мера направлена на социальную поддержку домохозяйств перед зимним сезоном и компенсацию роста тарифов регулятора.\n\nПочему это важно: Мера снизит инфляционное давление на потребительском рынке, однако потребует от коммунальных предприятий перенастройки биллинговых IT-систем под нулевую ставку.\n\nИсточник: https://regfollower.com/uk-announces-vat-cut-on-electricity/\n\n#Великобритания #НДС #налоговыельготы #электроэнергия #социальнаяподдержка #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС, налоговые льготы, коммунальные платежи",
+      "jurisdictions": "Великобритания",
+      "act": "Постановление Правительства Великобритании",
+      "sources": [
+        {
+          "label": "UK Gov Announcement",
+          "url": "https://regfollower.com/uk-announces-vat-cut-on-electricity/"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK VAT",
+        "color_a": [41, 128, 185],
+        "color_b": [241, 196, 15]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "UK Treasury announcement verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-us-forced-labour-tariffs",
+      "title": "США планируют ввести новые пошлины против 60 стран из-за использования принудительного труда",
+      "caption": "Администрация Дональда Трампа готовится заменить истекающие 10% импортные тарифы на специальные пошлины, направленные против использования принудительного труда в 60 странах. Офис Торгового представителя США (USTR) разрабатывает конкретные механизмы контроля цепочек поставок.\n\nПочему это важно: Импортерам в США необходимо срочно провести аудит цепочек поставок (особенно из Азии и Латинской Америки) на предмет соблюдения стандартов труда во избежание ареста грузов и уплаты штрафных пошлин.\n\nИсточник: https://regfollower.com/us-trump-administration-set-to-replace-expiring-10-tariff-with-forced-labour-duties-on-60-countries/\n\n#США #пошлины #цепочкипоставок #торговаяполитика #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "пошлины, цепочки поставок, торговая политика, комплаенс",
+      "jurisdictions": "США",
+      "act": "Директива USTR",
+      "sources": [
+        {
+          "label": "FT Report via RegFollower",
+          "url": "https://regfollower.com/us-trump-administration-set-to-replace-expiring-10-tariff-with-forced-labour-duties-on-60-countries/"
+        }
+      ],
+      "image_spec": {
+        "badge": "US Tariff",
+        "color_a": [142, 68, 173],
+        "color_b": [230, 126, 34]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "FT publication details verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-us-generic-drugs-tariffs",
+      "title": "США вводят временный бестарифный период для импорта дженериков до июля 2028 года",
+      "caption": "Президент США Дональд Трамп объявил о введении нулевой тарифной ставки для импортируемых дженериков (воспроизведенных лекарств) до 31 июля 2028 года. После окончания этого периода будут введены заградительные пошлины в размере 100% и 200% с целью локализации фармацевтического производства.\n\nПочему это важно: Фармацевтические компании получили двухлетнее окно для переноса производственных мощностей на территорию США или реструктуризации поставок до вступления в силу сверхвысоких пошлин.\n\nИсточник: https://regfollower.com/us-trump-administration-imposes-zero-tariff-window-for-generics-through-july-2028-then-100-and-200-tariffs/\n\n#США #пошлины #фармацевтика #локализация #торговаявойна #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "пошлины, фармацевтика, торговая политика",
+      "jurisdictions": "США",
+      "act": "Решение Президента США",
+      "sources": [
+        {
+          "label": "White House statement",
+          "url": "https://regfollower.com/us-trump-administration-imposes-zero-tariff-window-for-generics-through-july-2028-then-100-and-200-tariffs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "US Pharma",
+        "color_a": [142, 68, 173],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Presidential executive announcement verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-ru-property-tax-webinar",
+      "title": "ФНС России разъяснит новые проекты по имущественным налогам на вебинаре",
+      "caption": "Специалист Федеральной налоговой службы (ФНС) России проведет открытый вебинар, посвященный новым проектам и изменениям в сфере налогообложения имущества организаций и физических лиц. На мероприятии разберут вопросы кадастровой оценки, предоставления льгот и взаимодействия через личные кабинеты налогоплательщиков.\n\nПочему это важно: Юридическим лицам и гражданам это дает возможность напрямую узнать о планируемых изменениях в администрировании налога на имущество и подготовиться к переоценке активов.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16638004/\n\n#Россия #ФНС #налогнаимущество #администрирование #вебинар #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на имущество, налоговое администрирование, вебинар",
+      "jurisdictions": "Россия",
+      "act": "Анонс ФНС России",
+      "sources": [
+        {
+          "label": "FNS Press Release",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16638004/"
+        }
+      ],
+      "image_spec": {
+        "badge": "RU Tax",
+        "color_a": [44, 62, 80],
+        "color_b": [52, 152, 219]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "FNS Announcement checked"
+      }
+    }
+  ]
+}

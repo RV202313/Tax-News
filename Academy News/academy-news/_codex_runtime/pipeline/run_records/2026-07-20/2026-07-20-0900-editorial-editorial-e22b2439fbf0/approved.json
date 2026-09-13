@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-20",
+  "release": "2026-07-20-0900-editorial",
+  "items": [
+    {
+      "slug": "2026-07-20-uk-carried-interest-trading-profits",
+      "title": "HMRC напомнила, что доход управляющих в форме доли участия теперь облагается как торговая прибыль",
+      "caption": "HMRC в выпуске 145 своего информационного бюллетеня для налоговых агентов от 16 июля 2026 года отдельно указала, что с 6 апреля 2026 года доход управляющих фондами в форме доли участия в прибыли рассматривается как торговая прибыль. Такой доход теперь подпадает под подоходный налог и, когда это применимо, под страховые взносы по четвёртой категории.\n\nПочему это важно: фондам, управляющим и их консультантам нужно пересчитать удержания, личные налоговые модели и договорные механизмы вознаграждения, потому что прежняя логика налогообложения больше не работает.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #фонды #налогообложениедоходов #управлениеактивами #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фонды,налогообложение доходов,управление активами,личные налоги",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Funds Tax",
+        "color_a": [22, 60, 118],
+        "color_b": [138, 116, 54]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "HMRC Agent Update Issue 145 checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-uk-voluntary-ni-abroad",
+      "title": "HMRC изменила правила добровольных взносов NI для периодов проживания за рубежом",
+      "caption": "HMRC в том же выпуске 145 информационного бюллетеня для налоговых агентов сообщила, что с 6 апреля 2026 года добровольные взносы второй категории за периоды проживания за рубежом больше не доступны. Для новых заявлений на добровольные взносы третьей категории теперь требуется либо десять лет непрерывного проживания в Великобритании, либо десять лет ранее уплаченных взносов.\n\nПочему это важно: сотрудникам международных групп и их работодателям нужно заранее проверять пенсионные и страховые последствия зарубежных назначений, иначе можно потерять возможность недорого закрыть разрывы в страховом стаже.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #NI #соцвзносы #мобильностьсотрудников #экспаты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "социальные взносы,мобильность сотрудников,экспаты,личные налоги",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK NI Abroad",
+        "color_a": [26, 70, 121],
+        "color_b": [157, 132, 69]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "HMRC voluntary NI abroad update checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-uk-pillar2-service-downtime",
+      "title": "HMRC предупредила о полной остановке сервиса отчётности по Pillar 2 до утра 20 июля",
+      "caption": "HMRC на странице доступности сервиса сообщила о плановой остановке сервиса отчётности по допналогу в рамках Pillar 2 с 18:00 пятницы 17 июля до 08:00 понедельника 20 июля 2026 года. На этот период сервис подачи информационной отчётности GloBE был недоступен полностью.\n\nПочему это важно: группы, которые планировали тестовую или фактическую подачу в эти даты, должны проверить, что внутренние дедлайны, статусы отправки и резервные процедуры не сорвались из-за недоступности сервиса.\n\nИсточник: https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues/report-pillar-2-top-up-taxes-service-availability-and-issues\n\n#Великобритания #Pillar2 #GloBE #отчётность #цифровыесервисы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar 2,GloBE,отчётность,цифровые сервисы",
+      "jurisdictions": "Великобритания",
+      "act": "Report Pillar 2 Top-up Taxes service availability and issues, updated 17.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/report-pillar-2-top-up-taxes-service-availability-and-issues/report-pillar-2-top-up-taxes-service-availability-and-issues"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Pillar 2",
+        "color_a": [18, 67, 118],
+        "color_b": [115, 148, 71]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "service_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "HMRC Pillar 2 service availability page checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-us-irs-form720-international-flights",
+      "title": "IRS повысила федеральный сбор на международные авиаперелёты до 23,40 доллара на пассажира",
+      "caption": "IRS в действующих инструкциях к форме 720 указала, что налог по разделу 4261 для международных авиаперелётов, начинающихся или заканчивающихся в США, увеличен до 23,40 доллара на одного пассажира. Обновление действует для расчёта федеральных акцизов в транспортной сфере.\n\nПочему это важно: авиакомпаниям, платёжным посредникам и корпоративным заказчикам командировок нужно проверить тарифные настройки, выставление счетов и расчёт акциза, чтобы не допустить недоимки или неверного переложения налога на клиента.\n\nИсточник: https://www.irs.gov/instructions/i720\n\n#США #акцизы #авиаперевозки #форма720 #налоговыеставки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "акцизы,авиаперевозки,налоговые ставки,отчётность",
+      "jurisdictions": "США",
+      "act": "IRS Instructions for Form 720, updated July 2026",
+      "sources": [
+        {
+          "label": "IRS",
+          "url": "https://www.irs.gov/instructions/i720"
+        }
+      ],
+      "image_spec": {
+        "badge": "US Air Tax",
+        "color_a": [26, 60, 116],
+        "color_b": [173, 103, 74]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_rate_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "IRS Instructions for Form 720 checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-za-sars-apa-programme",
+      "title": "SARS запустила отдельную страницу программы APA для трансграничных сделок внутри группы",
+      "caption": "SARS 17 июля 2026 года опубликовала отдельную страницу по внедрению программы предварительных ценовых соглашений. В описании прямо сказано, что программа должна дать предварённую налоговую определённость по подходящим трансграничным сделкам между связанными лицами и будет запускаться через пилотный этап.\n\nПочему это важно: международные группы с чувствительными ценовыми моделями получают сигнал заранее готовить стратегии по трансфертному ценообразованию и оценивать, какие сделки стоит переводить в формат предварительного согласования с налоговым органом.\n\nИсточник: https://www.sars.gov.za/latest-news/advance-pricing-agreement-apa-programme/\n\n#ЮАР #APA #трансфертноеценообразование #налоговаяопределённость #межгрупповыесделки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование,APA,налоговая определённость,межгрупповые сделки",
+      "jurisdictions": "ЮАР",
+      "act": "Advance Pricing Agreement (APA) programme, published 17.07.2026",
+      "sources": [
+        {
+          "label": "SARS",
+          "url": "https://www.sars.gov.za/latest-news/advance-pricing-agreement-apa-programme/"
+        }
+      ],
+      "image_spec": {
+        "badge": "ZA APA",
+        "color_a": [25, 88, 101],
+        "color_b": [164, 131, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SARS APA programme page checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-za-sars-interpretation-note-31",
+      "title": "SARS выпустила пятую редакцию разъяснения о подтверждении нулевой ставки НДС",
+      "caption": "SARS 17 июля 2026 года выпустила разъяснение №31 в редакции 5 по документальному подтверждению права на нулевую ставку НДС для товаров и услуг. Обновлённое разъяснение посвящено тому, какие документы продавец должен получить и хранить, чтобы обосновать применение нулевой ставки по правилам закона о НДС.\n\nПочему это важно: экспортёрам, поставщикам услуг и их консультантам нужно сопоставить свои пакеты доказательств с новой редакцией, иначе при проверке можно потерять нулевую ставку и получить доначисление НДС.\n\nИсточник: https://www.sars.gov.za/legal-intr-in-31-documentary-proof-required-for-the-zero-rating-of-goods-or-services/\n\n#ЮАР #НДС #нулеваяставка #документы #экспорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,нулевая ставка,документы,экспорт",
+      "jurisdictions": "ЮАР",
+      "act": "Interpretation Note 31 (Issue 5), dated 17.07.2026",
+      "sources": [
+        {
+          "label": "SARS",
+          "url": "https://www.sars.gov.za/legal-intr-in-31-documentary-proof-required-for-the-zero-rating-of-goods-or-services/"
+        }
+      ],
+      "image_spec": {
+        "badge": "ZA VAT Proof",
+        "color_a": [17, 82, 97],
+        "color_b": [183, 121, 60]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "interpretation_note",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SARS Interpretation Note 31 Issue 5 checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-za-sars-restricted-imports-list",
+      "title": "SARS обновила перечень ограниченных товаров и убрала разрешения для ряда удобрений и сушёных овощей",
+      "caption": "SARS 16 июля 2026 года обновила список запрещённых и ограниченных к ввозу и вывозу товаров. В новой версии указано, что по ряду товарных позиций, включая несколько кодов удобрений и позицию 0712.90.90, больше не требуются разрешения от государственных ветеринарных и фитосанитарных инспекторов.\n\nПочему это важно: импортёрам, брокерам и логистическим командам нужно срочно обновить матрицы разрешительных документов, чтобы не запрашивать лишние бумаги и не тормозить оформление на границе.\n\nИсточник: https://www.sars.gov.za/latest-news/updated-prohibited-and-restricted-imports-and-exports-list-18/\n\n#ЮАР #таможня #разрешительныедокументы #импорт #экспорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,разрешительные документы,импорт,экспорт",
+      "jurisdictions": "ЮАР",
+      "act": "Updated Prohibited and Restricted Imports and Exports list, published 16.07.2026",
+      "sources": [
+        {
+          "label": "SARS",
+          "url": "https://www.sars.gov.za/latest-news/updated-prohibited-and-restricted-imports-and-exports-list-18/"
+        }
+      ],
+      "image_spec": {
+        "badge": "ZA Customs List",
+        "color_a": [21, 78, 112],
+        "color_b": [145, 141, 64]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "list_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SARS restricted imports list update checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-za-sars-unentered-goods-list",
+      "title": "SARS напомнила о еженедельном списке неоформленных товаров на государственных складах",
+      "caption": "SARS 13 июля 2026 года разместила очередной еженедельный список неоформленных товаров. Такое уведомление сообщает заинтересованным лицам, какие товары остаются на государственном складе без оформления и могут быть реализованы или иным образом отчуждены по правилам закона о таможне и акцизах.\n\nПочему это важно: импортёрам, перевозчикам и финансирующим банкам нужно следить за такими публикациями, чтобы вовремя забрать груз, урегулировать документы и не потерять контроль над товаром из-за административной просрочки.\n\nИсточник: https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-102/\n\n#ЮАР #таможня #склады #грузы #администрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,склады,грузы,администрирование",
+      "jurisdictions": "ЮАР",
+      "act": "Customs weekly list of unentered goods, published 13.07.2026",
+      "sources": [
+        {
+          "label": "SARS",
+          "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-102/"
+        }
+      ],
+      "image_spec": {
+        "badge": "ZA Warehouses",
+        "color_a": [20, 73, 109],
+        "color_b": [161, 118, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "customs_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SARS weekly unentered goods notice checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-kz-my-customs-digital-cooperation",
+      "title": "Казахстан показал Малайзии цифровые решения для контроля на границе и управления рисками",
+      "caption": "Комитет государственных доходов Казахстана сообщил о рабочей встрече 8 июля 2026 года с делегацией Королевского таможенного департамента Малайзии на пункте пропуска имени Б. Конысбаева. Казахстанская сторона продемонстрировала систему КЕДЕН для таможенного оформления, систему управления рисками и электронную очередь для бронирования времени пересечения границы.\n\nПочему это важно: для компаний, работающих с Евразией и Юго-Восточной Азией, это практический сигнал о дальнейшем смещении таможенного администрирования в сторону цифровых слотов, риск-ориентированного контроля и более прозрачного прохождения границы.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/details/1257524?lang=ru\n\n#Казахстан #Малайзия #таможня #цифровизация #управлениерисками #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,цифровизация,управление рисками,международное сотрудничество",
+      "jurisdictions": "Казахстан,Малайзия",
+      "act": "Сообщение КГД РК о рабочей встрече с делегацией Малайзии, 08.07.2026",
+      "sources": [
+        {
+          "label": "gov.kz / КГД МФ РК",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1257524?lang=ru"
+        }
+      ],
+      "image_spec": {
+        "badge": "KZ MY Customs",
+        "color_a": [25, 83, 118],
+        "color_b": [181, 126, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "international_cooperation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KGD Kazakhstan customs cooperation notice checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-sg-iras-gst-audits-mtf",
+      "title": "IRAS вывела схемы с исчезающим продавцом в число ключевых зон текущих проверок по GST",
+      "caption": "IRAS на странице текущих направлений проверок по GST указала, что одним из четырёх главных направлений аудитов остаются схемы мошенничества с исчезающим продавцом. Служба прямо предупреждает о расширенных проверках и расследованиях, а также о риске отказа во входном налоге и удержания возврата GST, если компания связана с такой схемой.\n\nПочему это важно: сингапурским и международным группам нужно усилить проверку контрагентов и цепочек поставок, потому что даже косвенное участие в рискованной схеме может стоить вычета и заморозить возврат налога.\n\nИсточник: https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/getting-it-right/gst-audits-by-iras/current-area-of-focus-for-audits\n\n#Сингапур #GST #налоговыепроверки #комплаенс #контрагенты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "GST,налоговые проверки,комплаенс,контрагенты",
+      "jurisdictions": "Сингапур",
+      "act": "Current Areas of GST Audits, checked 20.07.2026",
+      "sources": [
+        {
+          "label": "IRAS",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/getting-it-right/gst-audits-by-iras/current-area-of-focus-for-audits"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG GST Audit",
+        "color_a": [27, 72, 121],
+        "color_b": [171, 100, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "compliance_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "IRAS current GST audit focus page checked 2026-07-20"
+      }
+    }
+  ]
+}

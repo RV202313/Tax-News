@@ -1,0 +1,157 @@
+# Темы, ключевые слова и приоритеты для поиска новостей ИИ в юридической работе
+# config/topics_ai.yaml
+
+topics:
+
+  - id: ai_legislation
+    label: Регулирование ИИ
+    priority: P0
+    keywords_ru:
+      - "закон об ИИ"
+      - "регулирование искусственного интеллекта"
+      - "правовое регулирование ИИ"
+      - "цифровой кодекс"
+      - "ФЗ об ИИ"
+    keywords_en:
+      - "AI regulation"
+      - "AI Act"
+      - "AI law"
+      - "AI governance legislation"
+    regions: [russia, kazakhstan, europe_eu]
+
+  - id: ai_court_cases
+    label: ИИ в судах и прецеденты
+    priority: P0
+    keywords_ru:
+      - "ИИ галлюцинации суд"
+      - "ИИ доказательства суд"
+      - "искусственный интеллект судопроизводство"
+      - "нейросеть суд санкции"
+      - "ИИ декларирование суд"
+    keywords_en:
+      - "AI hallucinations court"
+      - "AI sanctions lawyer"
+      - "fake citations AI court"
+      - "AI evidence admissibility"
+      - "AI court rules"
+    regions: [usa, russia, europe_eu]
+
+  - id: ai_contract_review
+    label: ИИ анализ договоров
+    priority: P0
+    keywords_ru:
+      - "ИИ анализ договоров"
+      - "автоматизация проверки контрактов"
+      - "нейросеть due diligence"
+    keywords_en:
+      - "AI contract review"
+      - "AI due diligence law firm"
+      - "contract automation legal"
+      - "AI contract analysis results"
+    regions: [usa, europe_de, europe_eu]
+
+  - id: ai_law_firm_adoption
+    label: Внедрение ИИ в юрфирмах
+    priority: P0
+    keywords_ru:
+      - "юрфирма ИИ внедрение результаты"
+      - "LegalTech кейс юрфирма"
+      - "автоматизация юридической работы"
+    keywords_en:
+      - "law firm AI adoption case study"
+      - "AI legal workflow implementation"
+      - "legaltech ROI law firm"
+      - "AI lawyer productivity results"
+    regions: [usa, europe_de, europe_eu, russia]
+
+  - id: ai_ethics_professional
+    label: Профессиональная ответственность и этика ИИ
+    priority: P1
+    keywords_ru:
+      - "ИИ этика адвокат"
+      - "ИИ профессиональная ответственность"
+      - "адвокатская тайна ИИ"
+    keywords_en:
+      - "AI ethics lawyer rules"
+      - "attorney AI professional responsibility"
+      - "ABA AI opinion"
+      - "bar association AI rules"
+    regions: [usa, europe_eu]
+
+  - id: ai_inhouse_legal
+    label: ИИ в корпоративных юридических департаментах
+    priority: P1
+    keywords_ru:
+      - "ИИ юридический департамент"
+      - "корпоративный юрист ИИ"
+      - "inhouse ИИ автоматизация"
+    keywords_en:
+      - "AI in-house legal department"
+      - "corporate legal AI tools"
+      - "GC AI deployment results"
+    regions: [usa, europe_eu]
+
+  - id: ai_kazakhstan_legal
+    label: ИИ в юридической работе Казахстана
+    priority: P0
+    keywords_ru:
+      - "ИИ юридическая работа Казахстан"
+      - "LegalTech Казахстан"
+      - "ZanKomegi ИИ консультант"
+      - "Цифровой кодекс юрист"
+      - "Министерство юстиции ИИ Казахстан"
+      - "AI право Казахстан 2026"
+    regions: [kazakhstan]
+
+  - id: ai_russia_legal
+    label: ИИ в юридической работе России
+    priority: P0
+    keywords_ru:
+      - "ИИ юридическая работа Россия"
+      - "LegalTech Россия"
+      - "нейросеть адвокат Россия"
+      - "ИИ судопроизводство РФ"
+      - "ВС РФ искусственный интеллект"
+    regions: [russia]
+
+  - id: ai_legal_tools_comparison
+    label: Сравнение инструментов LegalTech
+    priority: P1
+    keywords_en:
+      - "Harvey AI review 2026"
+      - "Luminance law firm"
+      - "Kira contract review"
+      - "Spellbook legal AI"
+      - "legaltech tool comparison 2026"
+    regions: [usa, europe_eu, global]
+
+  - id: ai_legal_education
+    label: Образование юристов в области ИИ
+    priority: P2
+    keywords_ru:
+      - "обучение юристов ИИ"
+      - "курс правовое регулирование ИИ"
+      - "юридическое образование искусственный интеллект"
+    keywords_en:
+      - "legal education AI skills"
+      - "law school AI curriculum"
+      - "lawyers AI training"
+    regions: [kazakhstan, russia, usa, europe_eu]
+
+# ============================
+# Глобальные ограничения
+# ============================
+global_limits:
+  max_per_release: 12              # Максимум постов на выпуск
+  required_per_region: 3           # Ровно 3 на каждый из 4 регионов
+  max_days_old: 7                  # Новости не старше 7 дней
+  max_generic_trend: 1             # Не более 1 общего тренда без конкретики
+
+required_regions:
+  - russia
+  - kazakhstan
+  - usa
+  - europe  # europe_eu или europe_de или europe_gb
+
+excluded_regions:
+  - ukraine

@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-03",
+  "release": "2026-08-03-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-08-03-ru-usn-forms",
+      "title": "Вступила в силу новая универсальная форма уведомления о переходе на УСН",
+      "caption": "В России вступил в силу приказ ФНС, объединяющий пять ранее применявшихся бланков уведомлений для упрощенной системы налогообложения в одну универсальную форму.\n\nИсточник: https://www.garant.ru/news/2190013/\n\n#ФНС #Россия #УСН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Приказ ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2190013/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-ru-profit-tax-errors",
+      "title": "Минфин России разъяснил период исправления ошибок по налогу на прибыль",
+      "caption": "Министерство финансов РФ напомнило, что исправление искажений налоговой базы прошлых периодов, приведших к излишней уплате налога, допускается в текущем налоговом периоде.\n\nИсточник: https://www.garant.ru/news/2187551/\n\n#Минфин #Россия #налогнаприбыль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Письмо Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2187551/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-kz-late-payment-rate",
+      "title": "Казахстан снизил базовую ставку для расчета пени по налоговой задолженности",
+      "caption": "Национальный банк Республики Казахстан снизил базовую ставку до 14,25% годовых, что повлекло пропорциональное снижение размера пени, начисляемой за несвоевременную уплату налогов.\n\nИсточник: https://regfollower.com/kazakhstan-lowers-base-rate-used-to-calculate-late-payment-interest/\n\n#Казахстан #пеня #Нацбанк #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Казахстан",
+      "act": "Решение Национального банка Казахстана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-lowers-base-rate-used-to-calculate-late-payment-interest/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-hr-us-tax-treaty",
+      "title": "Правительство Хорватии одобрило ратификацию налогового соглашения с США",
+      "caption": "Кабинет министров Хорватии одобрил законопроект о ратификации соглашения об избежании двойного налогообложения с США от 2022 года и дополнительного протокола к нему от 2026 года.\n\nИсточник: https://regfollower.com/croatia-government-approves-tax-treaty-amending-protocol-with-us/\n\n#Хорватия #США #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "США / Хорватия",
+      "act": "Законопроект Правительства Хорватии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/croatia-government-approves-tax-treaty-amending-protocol-with-us/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-nl-de-telework-threshold",
+      "title": "Нидерланды разъяснили порог работы на дому для сотрудников из Германии",
+      "caption": "Налоговая служба Нидерландов указала, что лимит дней для удаленной работы на дому, установленный в соглашении с Германией, должен рассчитываться индивидуально для каждого сотрудника.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/kennisgroep-thuiswerkdrempel-nederlands-duits-belastingverdrag-geldt-per-werknemer/\n\n#Нидерланды #Германия #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kennisgroep-thuiswerkdrempel-nederlands-duits-belastingverdrag-geldt-per-werknemer/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-be-withholding-tax-reform",
+      "title": "Бельгия изменила правила удержания налога у источника после реформы",
+      "caption": "В Бельгии опубликован королевский указ, корректирующий порядок применения и расчета налога у источника с доходов физических лиц в рамках недавней масштабной реформы подоходного налога.\n\nИсточник: https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/\n\n#Бельгия #реформа #НалогУИсточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог у источника",
+      "jurisdictions": "Бельгия",
+      "act": "Королевский указ Бельгии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-qa-pillar2-registration",
+      "title": "Катар открыл регистрацию для глобального минимального налога Pillar 2",
+      "caption": "Главное налоговое управление Катара (GTA) объявило о запуске онлайн-регистрации для групп MNE, подпадающих под действие правил Pillar 2, на государственной платформе.\n\nИсточник: https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/\n\n#Катар #минимальныйналог #Pillar2 #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "Катар",
+      "act": "Анонс налогового управления Катара",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-my-transfer-pricing-loans",
+      "title": "Малайзия ввела правила контроля трансфертного ценообразования по займам",
+      "caption": "Налоговая служба Малайзии (IRBM) опубликовала новое руководство по ТЦО (MFTIL), устанавливающее правила применения принципа вытянутой руки к внутригрупповым финансовым сделкам.\n\nИсточник: https://regfollower.com/malaysia-issues-transfer-pricing-guidelines-for-intra-group-loans/\n\n#Малайзия #ТЦО #займы #финансы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Малайзия",
+      "act": "Руководство IRBM Малайзии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/malaysia-issues-transfer-pricing-guidelines-for-intra-group-loans/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-ar-export-caps-removed",
+      "title": "Аргентина отменила стоимостные лимиты на почтовый экспорт товаров",
+      "caption": "Федеральное управление государственных доходов Аргентины (ARCA) отменило ограничения на стоимость товаров при курьерском экспорте и упростило правила для мелких входящих посылок.\n\nИсточник: https://regfollower.com/argentina-arca-removes-export-caps-simplifies-small-shipment-rules/\n\n#Аргентина #экспорт #пошлины #таможня #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги при трансграничной торговле",
+      "jurisdictions": "Аргентина",
+      "act": "Резолюция налоговой службы Аргентины",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/argentina-arca-removes-export-caps-simplifies-small-shipment-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-03-tj-hr-tax-treaty-negotiations",
+      "title": "Таджикистан и Хорватия проведут переговоры по налоговому соглашению",
+      "caption": "Правительство Хорватии одобрило предложение начать переговоры с Республикой Таджикистан о заключении первого в истории двух стран соглашения об избежании двойного налогообложения.\n\nИсточник: https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/\n\n#Таджикистан #Хорватия #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Таджикистан / Хорватия",
+      "act": "Постановление Правительства Хорватии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-04",
+  "release": "2026-08-04-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-08-04-ru-patent-reduction",
+      "title": "ИП на патентной системе могут уменьшить налог при снижении физических показателей",
+      "caption": "Минфин РФ разъяснил, что индивидуальные предприниматели имеют право пересчитать и уменьшить стоимость патента, если в течение срока его действия уменьшились физические показатели деятельности.\n\nИсточник: https://www.garant.ru/news/2191843/\n\n#Минфин #ИП #патент #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2191843/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-profit-tax-error-correction",
+      "title": "Минфин уточнил правила исправления ошибок по налогу на прибыль прошлых периодов",
+      "caption": "Разъяснен порядок исправления ошибок в декларациях по налогу на прибыль: если ошибка привела к излишней уплате налога, налогоплательщик вправе скорректировать обязательства в текущем периоде.\n\nИсточник: https://www.garant.ru/news/2187551/\n\n#Минфин #налогнаприбыль #Россия #отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2187551/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-debt-verification-channels",
+      "title": "ФНС России напомнила основные способы проверки наличия налоговой задолженности",
+      "caption": "Налоговая служба опубликовала перечень электронных сервисов и способов оперативного выявления налоговых недоимок для граждан и бизнеса перед началом осеннего сезона.\n\nИсточник: https://www.garant.ru/news/2192019/\n\n#ФНС #долги #задолженность #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2192019/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-bg-budget-act-2026",
+      "title": "Болгария приняла закон о бюджете на 2026 год и ввела налог для партнеров гемблинга",
+      "caption": "Болгария утвердила Закон о государственном бюджете на 2026 год, которым вводится новый налог на доходы партнеров по рекламе азартных игр и расширяются льготы на детей.\n\nИсточник: https://regfollower.com/bulgaria-enacts-state-budget-act-2026-introducing-gambling-affiliate-tax-expanded-child-tax-relief/\n\n#Болгария #бюджет #налоги #гемблинг #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Болгария",
+      "act": "Закон Болгарии о госбюджете 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bulgaria-enacts-state-budget-act-2026-introducing-gambling-affiliate-tax-expanded-child-tax-relief/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-nl-30-percent-ruling-shortening",
+      "title": "Суд Нидерландов подтвердил правомерность сокращения 30-процентной налоговой льготы",
+      "caption": "Апелляционный суд постановил, что сокращение срока действия 30-процентной налоговой скидки (30% рулинг) для иностранных специалистов и ограничение переходного периода являются законными.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/verkorting-looptijd-30-regeling-en-beperkt-overgangsrecht-zijn-rechtmatig/\n\n#Нидерланды #30процентов #льготы #суд #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verkorting-looptijd-30-regeling-en-beperkt-overgangsrecht-zijn-rechtmatig/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-be-withholding-tax-rules",
+      "title": "Бельгия изменила правила удержания налога у источника по дивидендам",
+      "caption": "В рамках реформы подоходного налога внесены изменения в порядок удержания налога у источника по дивидендным выплатам в пользу акционеров.\n\nИсточник: https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/\n\n#Бельгия #дивиденды #налогуисточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение дивидендов",
+      "jurisdictions": "Бельгия",
+      "act": "Поправки к налоговому кодексу Бельгии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-qa-pillar2-registration",
+      "title": "Катар открыл регистрацию для целей минимального налога Pillar 2",
+      "caption": "Налоговые органы Катара (GTA) запустили на налоговой платформе Дариба обязательную регистрацию транснациональных компаний, подпадающих под действие глобального и внутреннего минимального налога.\n\nИсточник: https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/\n\n#Катар #минимальныйналог #Pillar2 #GTA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "Катар",
+      "act": "Анонс Налоговой службы Катара",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-kr-apa-fast-track",
+      "title": "Республика Корея ввела ускоренное согласование цен по соглашениям APA",
+      "caption": "Налоговая служба Южной Кореи запустила ускоренную процедуру утверждения односторонних соглашений о трансфертном ценообразовании (APA) и расширила льготы для иностранных инвесторов.\n\nИсточник: https://regfollower.com/korea-rep-of-introduces-apa-fast-track-expands-tax-support-for-foreign-investors/\n\n#ЮжнаяКорея #APA #ТЦО #инвестиции #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Южная Корея",
+      "act": "Анонс Налоговой службы Южной Кореи",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/korea-rep-of-introduces-apa-fast-track-expands-tax-support-for-foreign-investors/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-vn-dta-map-apa-guidance",
+      "title": "Вьетнам выпустил руководство по СОДН, процедурам MAP и APA",
+      "caption": "Министерство финансов Вьетнама подготовило разъяснения о порядке применения соглашений об избежании двойного налогообложения, процедур взаимного согласования (MAP) и ценообразования (APA).\n\nИсточник: https://regfollower.com/vietnam-issues-comprehensive-guidance-on-the-implementation-of-dta-map-apa/\n\n#Вьетнам #СОДН #MAP #APA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Вьетнам",
+      "act": "Руководство Минфина Вьетнама",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/vietnam-issues-comprehensive-guidance-on-the-implementation-of-dta-map-apa/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-by-import-vat-deferral",
+      "title": "Беларусь продлила отсрочку уплаты импортного НДС до середины 2027 года",
+      "caption": "Правительство Республики Беларусь продлило действие механизма отсрочки по уплате налога на добавленную стоимость при ввозе отдельных категорий товаров для поддержки бизнеса.\n\nИсточник: https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/\n\n#Беларусь #НДС #импорт #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги при трансграничной торговле",
+      "jurisdictions": "Беларусь",
+      "act": "Постановление Правительства Беларуси",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

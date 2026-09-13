@@ -1,0 +1,148 @@
+{
+  "date": "2026-08-05",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 262,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/kazakhstan-government-approves-signing-of-amending-protocol-to-tax-treaty-with-norway/",
+      "ecli": "",
+      "act": "",
+      "title": "Kazakhstan: Government approves signing of amending protocol to tax treaty with Norway",
+      "summary": "Kazakhstan’s government approved the signing of an amending protocol to its 2001 tax treaty with Norway to align the agreement with modern international tax standards. Approved on 29 July 2026, the protocol updates provisions on Permanent Establishment (PE), expands exchange of information, and introduces a 5% withholding tax rate on dividends where the beneficial owner...",
+      "published_at": "2026-08-04",
+      "score": 19.0,
+      "topics": [
+        "dta",
+        "exchange_info",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "kz"
+      ],
+      "jurisdiction_names": [
+        "Казахстан"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 263,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/france-consults-revised-vat-guidance-for-audiobook-devices-following-council-of-state-ruling/",
+      "ecli": "",
+      "act": "",
+      "title": "France consults revised VAT guidance for audiobook devices following Council of State ruling",
+      "summary": "France’s tax authorities launched a public consultation on 29 July on a revised version of the administrative doctrine concerning the VAT rate applicable to books (BOI-TVA-LIQ-30-10-40), following a Council of State ruling that dedicated audiobook devices containing pre-loaded content qualify for the reduced 5.5% VAT rate instead of the standard 20% VAT rate. The proposed...",
+      "published_at": "2026-08-04",
+      "score": 12.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 264,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/correctie-overtollige-liquiditeiten-onderneming-leidt-tot-meer-box-3-vermogen/",
+      "ecli": "",
+      "act": "",
+      "title": "Correctie overtollige liquiditeiten onderneming leidt tot meer box 3-vermogen",
+      "summary": "",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 265,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/niet-heffen-toeristenbelasting-bij-arbeidsmigranten-vormt-begunstigend-beleid/",
+      "ecli": "",
+      "act": "",
+      "title": "Niet heffen toeristenbelasting bij arbeidsmigranten vormt begunstigend beleid",
+      "summary": "",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 266,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/argentina-korea-rep-of-conclude-income-tax-treaty-negotiations/",
+      "ecli": "",
+      "act": "",
+      "title": "Argentina, Korea (Rep. of) conclude income tax treaty negotiations",
+      "summary": "Korea (Rep. of) and Argentina concluded negotiations on an income tax treaty on 31 July 2026, according to a Korean government release on 3 August 2026. During a summit in Buenos Aires, South Korean President Lee Jae-myung and Argentine President Javier Milei agreed to deepen bilateral cooperation across energy, critical minerals, trade, and investment. The...",
+      "published_at": "2026-08-04",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

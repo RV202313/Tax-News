@@ -1,0 +1,396 @@
+{
+  "date": "2026-09-03",
+  "release": "2026-09-03_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-09-03-italy-tax-exemption-restructuring",
+      "title": "Италия подтвердила сохранение налоговых льгот при реструктуризации бизнеса",
+      "caption": "Налоговое агентство Италии вынесло Разъяснение № 9, согласно которому получатель бизнеса сохраняет налоговые льготы даже при прекращении соглашения о реструктуризации из-за нарушений со стороны передающей стороны.\n\nИсточник: https://regfollower.com/italy-confirms-tax-exemption-for-business-transferees-after-failed-restructuring/\n\n#Италия #РеструктуризацияБизнеса #НалоговыеЛьготы #Разъяснения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налоговые льготы",
+      "jurisdictions": "Италия",
+      "act": "Разъяснение Налогового агентства Италии № 9",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/italy-confirms-tax-exemption-for-business-transferees-after-failed-restructuring/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-nl-telework-taxation-initiatives",
+      "title": "Нидерланды: Разработка правил налогообложения трансграничной дистанционной работы",
+      "caption": "Правительство Нидерландов объявило о работе специальной фискальной группы Бенилюкса по устранению налоговых барьеров для трансграничных дистанционных работников. Окончательный порядок регулирования и круглые столы запланированы на 2027 год.\n\nИсточник: https://www.taxence.nl/nieuws/nederland-zet-in-op-afspraken-over-grensoverschrijdend-telewerk/\n\n#Нидерланды #Бенилюкс #ТрансграничнаяРабота #Налогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги с физических лиц / дистанционная работа",
+      "jurisdictions": "Нидерланды",
+      "act": "Инициатива правительства Нидерландов и рабочей группы Бенилюкса",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/nederland-zet-in-op-afspraken-over-grensoverschrijdend-telewerk/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-nl-benelux-cross-border-disagreements",
+      "title": "Нидерланды: Страны Бенилюкса пока не пришли к единому соглашению по приграничным работникам",
+      "caption": "Переговоры между налоговыми ведомствами стран Бенилюкса по унификации правил налогообложения лиц, проживающих в одной стране и работающих удаленно на работодателя из другой, пока не привели к окончательному компромиссу.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/benelux-landen-nog-niet-op-een-lijn-over-fiscale-afspraken-voor-grenswerkers/\n\n#Нидерланды #Бенилюкс #НалоговыеСоглашения #ПриграничныеРаботники #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / приграничные работники",
+      "jurisdictions": "Нидерланды",
+      "act": "Переговоры фискальной группы стран Бенилюкса",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/benelux-landen-nog-niet-op-een-lijn-over-fiscale-afspraken-voor-grenswerkers/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-nl-tax-authority-old-account-payments",
+      "title": "Нидерланды: Налоговые органы фиксируют платежи на устаревшие реквизиты счета",
+      "caption": "Налоговая служба Нидерландов сообщила, что около 10% платежей от налогоплательщиков до сих пор поступают на старый банковский счет. Ведомство призвало налогоплательщиков и бухгалтеров обновить реквизиты для исключения задержек в зачислении средств.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/1-op-de-10-betalingen-aan-belastingdienst-via-oude-rekeningnummer/\n\n#Нидерланды #НалоговоеАдминистрирование #БанковскиеРеквизиты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / уплата налогов",
+      "jurisdictions": "Нидерланды",
+      "act": "Информационное сообщение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/1-op-de-10-betalingen-aan-belastingdienst-via-oude-rekeningnummer/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-poland-withholding-tax-suspension-2028",
+      "title": "Польша предлагает продлить отсрочку механизма PAY AND REFUND по налогу у источника до 2028 года",
+      "caption": "Министерство финансов Польши вынесло на обсуждение законопроект, продлевающий освобождение финансовых посредников от уплаты налога у источника по механизму PAY AND REFUND до конца 2028 года. Мера направлена на поддержку брокеров и банков-кастодианов.\n\nИсточник: https://regfollower.com/poland-proposes-extending-corporate-withholding-tax-pay-refund-suspension-to-2028/\n\n#Польша #НалогУИсточника #WithholdingTax #PayAndRefund #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / налог у источника",
+      "jurisdictions": "Польша",
+      "act": "Законопроект Минфина Польши по налогу у источника",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/poland-proposes-extending-corporate-withholding-tax-pay-refund-suspension-to-2028/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 8.5,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-bolivia-sin-extends-tax-debt-instalments",
+      "title": "Боливия продлила максимальный срок рассрочки по уплате налоговых долгов до 60 месяцев",
+      "caption": "Налоговая служба Боливии (SIN) опубликовала Нормативное постановление № 102600000033 во исполнение Указа № 5687 от 31 августа 2026 года, увеличивающее предельный срок рассрочки по уплате налоговой задолженности с 30 до 60 месяцев.\n\nИсточник: https://regfollower.com/bolivia-sin-extends-tax-debt-payment-period/\n\n#Боливия #НалоговаяЗадолженность #РассрочкаПлатежа #SIN #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / задолженность",
+      "jurisdictions": "Боливия",
+      "act": "Нормативное постановление Налоговой службы Боливии № 102600000033",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bolivia-sin-extends-tax-debt-payment-period/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-belarus-myanmar-dta-entry-into-force",
+      "title": "Соглашение об избежании двойного налогообложения между Беларусью и Мьянмой вступило в силу",
+      "caption": "Вступило в силу соглашение об избежании двойного налогообложения между Беларусью и Мьянмой. Документ начинает применяться к налоговым периодам с 1 января 2027 года в Беларуси и с 1 апреля 2027 года в Мьянме.\n\nИсточник: https://regfollower.com/belarus-myanmar-tax-treaty/\n\n#Беларусь #Мьянма #НалоговоеСоглашение #ИзбежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / соглашения",
+      "jurisdictions": "Беларусь / Мьянма",
+      "act": "Соглашение об избежании двойного налогообложения между Беларусью и Мьянмой",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belarus-myanmar-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 10.5,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-uk-india-dcc-social-security-entry-into-force",
+      "title": "Великобритания и Индия: Вступила в силу Социальная налоговая конвенция DCC",
+      "caption": "Вступило в силу международное соглашение о двойных социальных взносах (DOUBLE CONTRIBUTIONS CONVENTION, DCC) между Великобританией и Индией. Документ освобождает сотрудников, направляемых в командировки, от уплаты двойных социальных сборов.\n\nИсточник: https://www.gov.uk/government/publications/uk-india-double-contributions-convention/\n\n#Великобритания #Индия #СоциальныеВзносы #DCC #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "социальные взносы / международные соглашения",
+      "jurisdictions": "Великобритания / Индия",
+      "act": "Международная конвенция DCC между Великобритании и Индией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/publications/uk-india-double-contributions-convention/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "gov.uk search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-bahrain-jersey-dtt-entry-into-force",
+      "title": "Вступило в силу соглашение об избежании двойного налогообложения между Бахрейном и Джерси",
+      "caption": "Правительства Бахрейна и Джерси завершили процедуры ратификации соглашения об избежании двойного налогообложения. Соглашение регулирует распределение налоговых прав в отношении доходов от инвестиций и процентов.\n\nИсточник: https://regfollower.com/bahrain-jersey-tax-treaty/\n\n#Бахрейн #Джерси #НалоговоеСоглашение #DTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / DTT",
+      "jurisdictions": "Бахрейн / Джерси",
+      "act": "Соглашение DTT между Бахрейном и Джерси",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bahrain-jersey-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-03"
+    },
+    {
+      "slug": "2026-09-03-oecd-tax-policy-reforms-2026",
+      "title": "ОЭСР готовится представить глобальный отчет TAX POLICY REFORMS 2026",
+      "caption": "ОЭСР анонсировала публикацию ежегодного доклада TAX POLICY REFORMS 2026, посвященного анализу структурных налоговых реформ, внедрению PILLAR TWO и изменению налогообложения корпоративной прибыли в развитых и развивающихся странах.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #TaxPolicyReforms #PillarTwo #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика / ОЭСР",
+      "jurisdictions": "ОЭСР",
+      "act": "Доклад ОЭСР TAX POLICY REFORMS 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-03"
+    }
+  ]
+}

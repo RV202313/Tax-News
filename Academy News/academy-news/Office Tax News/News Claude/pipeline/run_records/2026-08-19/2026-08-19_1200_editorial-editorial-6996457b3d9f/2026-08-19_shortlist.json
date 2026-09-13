@@ -1,0 +1,384 @@
+{
+  "date": "2026-08-19",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 314,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/hong-kong-kazakhstan-to-begin-first-round-of-tax-treaty-negotiations/",
+      "ecli": "",
+      "act": "",
+      "title": "Hong Kong, Kazakhstan to begin first round of tax treaty negotiations",
+      "summary": "The Hong Kong Inland Revenue Department (IRD) announced in an update that Hong Kong and Kazakhstan will hold their first round of negotiations on an income tax treaty from 24 to 28 August 2026. If an agreement is reached, it will help prevent double taxation and combat fiscal evasion between the two nations. Any resulting...",
+      "published_at": "2026-08-18",
+      "score": 19.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "kz"
+      ],
+      "jurisdiction_names": [
+        "Казахстан"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 315,
+      "source": "ru_garant",
+      "url": "https://www.garant.ru/news/2203892/",
+      "ecli": "",
+      "act": "",
+      "title": "Как правильно заполнить документ о предстоящей поставке в рамках СПОТ",
+      "summary": "",
+      "published_at": "",
+      "score": 14.0,
+      "topics": [
+        "cross_border_trade_tax"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel",
+        "vk"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 316,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-tax-authority-updates-legal-merger-framework-for-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands tax authority updates legal merger framework for 2026",
+      "summary": "The Netherlands published Decree No. 2026-262956 of 6 August 2026, issued by the State Secretary for Finance, setting out tax-neutral restructuring relief for qualifying legal mergers. The decree outlines the updated 2026 regulatory framework for legal mergers under the Corporate Income Tax Act 1969. It serves as a comprehensive guide for how companies can merge...",
+      "published_at": "2026-08-19",
+      "score": 12.0,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 317,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/",
+      "ecli": "",
+      "act": "",
+      "title": "RB waarschuwt voor complexe regels rond pseudo-eindheffing",
+      "summary": "Het Register Belastingadviseurs (RB) heeft gereageerd op de loonbelastingonderdelen van de internetconsultatie over de concept-Eindejaarsregeling 2026. Hoewel het RB verschillende maatregelen onderschrijft die bijdragen aan vereenvoudiging of het voorkomen van ongewenste inkomenseffecten, zijn er ook zorgen over de uitvoerbaarheid, rechtszekerheid en administratieve lasten.",
+      "published_at": "2026-08-20",
+      "score": 10.1,
+      "topics": [
+        "advance_rulings",
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 318,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen verzuimboete Minimumbelasting tot en met 31 oktober 2026",
+      "summary": "Groepsentiteiten die aangifte Minimumbelasting moeten doen, krijgen tot en met 31 oktober 2026 geen boete als zij hun aangifte te laat indienen of te laat betalen.",
+      "published_at": "2026-08-19",
+      "score": 9.9,
+      "topics": [
+        "nl_fiscaal",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 319,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/",
+      "ecli": "",
+      "act": "",
+      "title": "Opinie | Waarom de Hoge Raad de zaak NEO in de gaten moet houden",
+      "summary": "Bij een uitdeling door een dochtervennootschap aan een in een lidstaat of verdragsstaat gevestigde moedervennootschap geldt een inhoudingsvrijstelling voor de dividendbelasting, tenzij sprake is van misbruik. Wat precies misbruik vormt is nog niet geheel duidelijk. We weten dat sprake is van misbruik als de belastingplichtige de vrijstelling door een gekunstelde constructie wil veiligstellen terwijl toepassing van de vrijstelling in dat geval in strijd is met het doel van de EU-Moederrichtlijn (‘MDR’). Het probleem is dat we niet precies weten in welke gevallen het doel van de MDR wordt ondermijnd. De Hoge Raad had de Belgische-houdsterzaken daarom moeten verwijzen naar het HvJ. Prof. dr. Otto Marres verwacht dat het HvJ in de zaak NEO wat meer zal uitweiden over wat nu precies richtlijnondermijnend is.",
+      "published_at": "2026-08-20",
+      "score": 9.4,
+      "topics": [
+        "nl_fiscaal",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl",
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды",
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 320,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/",
+      "ecli": "",
+      "act": "",
+      "title": "Navordering ondanks convenant horizontaal toezicht",
+      "summary": "Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur na een intern HOT/HOR-bericht alsnog mag navorderen over het werkelijk rendement in box 3.",
+      "published_at": "2026-08-19",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 8,
+      "item_id": 321,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026",
+      "summary": "Het Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026 is in de Staatscourant gepubliceerd.",
+      "published_at": "2026-08-19",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 9,
+      "item_id": 322,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-functionele-valuta-bij-ontvoeging-fiscale-eenheid/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt functionele valuta bij ontvoeging fiscale eenheid",
+      "summary": "De Kennisgroep bijzondere winstbepalingen vpb heeft de vraag beantwoord of een verzoek om het belastbare bedrag in een andere geldeenheid dan de euro te berekenen (Regeling functionele valuta) tijdig is gedaan. Het gaat om de situatie waarbij een dochtermaatschappij, direct na ontvoeging uit een fiscale eenheid, gebruik wenst te maken van deze mogelijkheid.",
+      "published_at": "2026-08-18",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 10,
+      "item_id": 323,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Keuzes bij omzetting verbruiksbelasting naar suikerbelasting",
+      "summary": "Bij de omzetting van de verbruiksbelasting van alcoholvrije dranken naar een belasting op basis van het suikergehalte moeten verschillende keuzes worden gemaakt. Staatssecretaris Eerenberg licht daarbij onder meer duurzaamheid, dierenwelzijn en gezondheid toe.",
+      "published_at": "2026-08-20",
+      "score": 8.7,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 11,
+      "item_id": 324,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/duurzaamheid-en-gezondheid-blijven-belangrijke-factoren-bij-mogelijke-suikerbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Duurzaamheid en gezondheid blijven belangrijke factoren bij mogelijke suikerbelasting",
+      "summary": "",
+      "published_at": "2026-08-20",
+      "score": 8.7,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 12,
+      "item_id": 325,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingadviseurs-voorzien-administratieve-rompslomp-rond-begrip-woon-werkverkeer/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingadviseurs voorzien administratieve rompslomp rond begrip woon-werkverkeer",
+      "summary": "",
+      "published_at": "2026-08-20",
+      "score": 8.7,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 13,
+      "item_id": 326,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins-used-for-cross-border-services/",
+      "ecli": "",
+      "act": "",
+      "title": "Chile: SII clarifies tax treatment of stablecoins used for cross-border services",
+      "summary": "The Chilean tax authority (SII) announced it published Letter Ruling No. 1982 on 10 August 2026, addressing the use of stablecoins as consideration for cross-border services. Letter Ruling No. 1982 establishes the tax treatment for transactions carried out using stablecoins (SBL). The ruling confirms that stablecoins are not considered legal currency under Chilean law, even...",
+      "published_at": "2026-08-19",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

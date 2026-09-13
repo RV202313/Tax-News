@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 434,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/hogere-oliewinsten-maar-geen-nationale-overwinstbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Hogere oliewinsten, maar geen nationale overwinstbelasting",
+      "summary": "De winstmarges bij olieproductie en raffinage zijn sterk toegenomen, maar het kabinet kiest vooralsnog niet voor een nationale overwinstbelasting. De voorkeur blijft uitgaan naar een Europese analyse en aanpak.",
+      "published_at": "2026-09-10",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

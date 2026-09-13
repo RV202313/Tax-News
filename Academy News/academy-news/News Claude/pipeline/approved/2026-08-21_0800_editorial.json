@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-21",
+  "release": "2026-08-21_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-21-nl-split-up-tax-deferrals",
+      "title": "Нидерланды ограничивают отсрочки уплаты налогов при разделении и реструктуризации компаний",
+      "caption": "Министерство финансов Нидерландов подготовило изменения в правила налогообложения при реструктуризации бизнеса. Новые нормы ограничивают применение отсрочек уплаты корпоративного налога при разделении юридических лиц в случаях, когда сделка не имеет коммерческого обоснования.\n\nИсточник: https://regfollower.com/netherlands-limits-split-up-tax-deferrals/\n\n#Нидерланды #КорпоративныйНалог #Реструктуризация #НалоговыеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / реструктуризация",
+      "jurisdictions": "Нидерланды",
+      "act": "Законопроект Министерства финансов Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-limits-split-up-tax-deferrals/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-nl-disability-benefits-treaty",
+      "title": "Нидерланды: Суд признал пособие по нетрудоспособности пенсией в рамках налогового соглашения",
+      "caption": "Суд в Нидерландах постановил, что выплаты по нетрудоспособности, получаемые резидентом за рубежом, квалифицируются как пенсионный доход для целей применения двусторонних соглашений об избежании двойного налогообложения (DTA), что меняет порядок их налогообложения у источника.\n\nИсточник: https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-onder-verdrag/\n\n#Нидерланды #НалоговоеСоглашение #DTA #ПособиеПоНетрудоспособности #Пенсия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения / налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов по пенсионной квалификации пособий",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-onder-verdrag/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 10.6,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-nl-tax-recovery-interest-ruling",
+      "title": "Нидерланды: Суд вынес решение о порядке начисления процентов по взысканию налоговой задолженности",
+      "caption": "Суд Зеландии-Западного Брабанта уточнил правила расчета процентов по взысканию налогового долга и право налогоплательщика на оспаривание нерыночных ставок компенсационных процентов, начисляемых налоговыми органами при задержке возврата переплат.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/invorderingsrente-en-niet-wettelijke-rente-over-belastingschulden/\n\n#Нидерланды #НалоговыйКонтроль #НалоговыйПроцент #СудебнаяПрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Суда Зеландии-Западного Брабанта",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/invorderingsrente-en-niet-wettelijke-rente-over-belastingschulden/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-nl-sra-taxpayer-interest-reimbursement",
+      "title": "Нидерланды: Ассоциация SRA указывает на право бизнеса требовать возмещения начисленных налоговых процентов",
+      "caption": "Голландская ассоциация налоговых консультантов (SRA) опубликовала разъяснения для бизнеса о праве требовать полного возмещения и компенсации процентов по налогам, если задержка в администрировании или вынесении решений произошла по вине налогового органа.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/sra-wijst-op-recht-om-belastingrente-vergoed-te-krijgen/\n\n#Нидерланды #SRA #НалоговыеПроценты #ПраваНалогоплательщиков #Комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения Ассоциации налоговых консультантов SRA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/sra-wijst-op-recht-om-belastingrente-vergoed-te-krijgen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-grenada-qatar-dta-negotiations",
+      "title": "Гренада и Катар проведут переговоры по соглашению об избежании двойного налогообложения",
+      "caption": "Правительства Гренады и Катара договорились о начале официальных переговоров по подписанию соглашения об избежании двойного налогообложения (DTA) в отношении налогов на доходы. Подписание соглашения призвано стимулировать взаимные инвестиции.\n\nИсточник: https://regfollower.com/grenada-qatar-to-negotiate-income-tax-treaty/\n\n#Гренада #Катар #СоглашениеОбИзбежании #DTA #НалоговыеПереговоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Гренада / Катар",
+      "act": "Совместный анонс Правительств Гренады и Катара по DTA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/grenada-qatar-to-negotiate-income-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-oman-einvoicing-first-phase",
+      "title": "Оман запустил первую фазу обязательной программы электронного выставления счетов",
+      "caption": "Налоговый орган Омана объявил о начале первой фазы обязательного перехода на систему электронного выставления счетов для крупнейших налогоплательщиков. Программа направлена на автоматизацию контроля НДС и борьбу с уклонением от налогов.\n\nИсточник: https://regfollower.com/oman-launches-first-phase-of-mandatory-e-invoicing-system/\n\n#Оман #НДС #ЭлектронныеСчета #НалоговыйКонтроль #Автоматизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / электронные счета",
+      "jurisdictions": "Оман",
+      "act": "Постановление Налогового органа Омана по НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oman-launches-first-phase-of-mandatory-e-invoicing-system/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-france-einvoicing-deadline-approaching",
+      "title": "Франция напоминает компаниям о введении обязательного приема электронных счетов с 1 сентября 2026 года",
+      "caption": "Налоговая служба Франции (DGFIP) опубликовала напоминание о том, что с 1 сентября 2026 года вступают в силу требования по обязательному приему электронных счетов для всех французских предприятий. Крупный бизнес также обязан начать выставление счетов в цифровом формате B2B.\n\nИсточник: https://www.impots.gouv.fr/\n\n#Франция #НДС #DGFIP #ЭлектронныеСчета #B2B #Дедлайн #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / НДС",
+      "jurisdictions": "Франция",
+      "act": "Информационное сообщение Налоговой службы Франции DGFIP",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.impots.gouv.fr/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "impots.gouv.fr press"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-qatar-minimum-tax-registration-portal",
+      "title": "Катар запустил портал регистрации для целей глобального и национального минимального налога",
+      "caption": "Главное налоговое управление Катара активировало онлайн-портал для регистрации мультинациональных групп, подпадающих под правила глобального минимального налога (Pillar Two). Группы обязаны представить уведомления о постановке на учет.\n\nИсточник: https://regfollower.com/qatar-launches-global-and-domestic-minimum-tax-registration-portal/\n\n#Катар #МинимальныйНалог #PillarTwo #РегистрацияПортал #НалоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Катар",
+      "act": "Постановление Главного налогового управления Катара",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/qatar-launches-global-and-domestic-minimum-tax-registration-portal/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-portugal-model64-topup-tax-return",
+      "title": "Португалия утвердила форму налоговой декларации для целей минимального корпоративного налога",
+      "caption": "Министерство финансов Португалии опубликовало форму налоговой декларации № 64, предназначенную для расчета и уплаты доначисляемого налога в рамках правил глобального минимального налога (Pillar Two). Декларация должна подаваться ежегодно квалифицируемыми группами.\n\nИсточник: https://regfollower.com/portugal-publishes-model-64-top-up-tax-return/\n\n#Португалия #МинимальныйНалог #PillarTwo #НалоговаяДекларация #Отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Португалия",
+      "act": "Постановление Министерства финансов Португалии об утверждении формы декларации",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/portugal-publishes-model-64-top-up-tax-return/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-21-luxembourg-vida-draft-law-proposal",
+      "title": "Люксембург представил законопроект о реформе НДС в рамках европейской инициативы VIDA",
+      "caption": "Правительство Люксембурга направило в парламент законопроект о внедрении европейских правил реформы «НДС в цифровую эпоху» (VIDA). Законопроект предусматривает новые требования к электронному выставлению счетов по сделкам с 1 января 2027 года.\n\nИсточник: https://regfollower.com/luxembourg-submits-draft-law-to-implement-vida-rules/\n\n#Люксембург #НДС #VIDA #РеформаНДС #ЭлектронныеСчета #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / НДС",
+      "jurisdictions": "Люксембург / ЕС",
+      "act": "Законопроект Правительства Люксембурга о внедрении директив VIDA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/luxembourg-submits-draft-law-to-implement-vida-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-20"
+    }
+  ]
+}

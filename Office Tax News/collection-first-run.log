@@ -1,0 +1,100 @@
+{
+  "date": "2026-09-07",
+  "sources": {
+    "nl_rechtspraak": {
+      "state": "failed",
+      "files": [
+        "nl_rechtspraak_1.txt",
+        "nl_rechtspraak_2.txt"
+      ],
+      "detail": "collector=scripts/collect_rechtspraak.py; [rechtspraak] 2026-09-07: Ð¡Ð‘ÐžÐ™ (HTTPSConnectionPool(host='data.rechtspraak.nl', port=443): Max retries exceeded with url: /uitspraken/zoeken?subject=http%3A%2F%2Fpsi.rechtspraak.nl%2Frechtsgebied%23bestuursrecht_belastingrecht&date=2026-09-07&type=Uitspraak&return=DOC&max=200 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))) â†’ Ð¿Ð¾Ð¼ÐµÑ‡ÐµÐ½Ð¾, Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð°ÑŽ\n[rechtspraak] 2026-09-06: Ð¡Ð‘ÐžÐ™ (HTTPSConnectionPool(host='data.rechtspraak.nl', port=443): Max retries exceeded with url: /uitspraken/zoeken?subject=http%3A%2F%2Fpsi.rechtspraak.nl%2Frechtsgebied%23bestuursrecht_belastingrecht&date=2026-09-06&type=Uitspraak&return=DOC&max=200 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))) â†’ Ð¿Ð¾Ð¼ÐµÑ‡ÐµÐ½Ð¾, Ð¿Ñ€Ð¾Ð´Ð¾Ð»Ð¶Ð°ÑŽ"
+    },
+    "ru_ras": {
+      "state": "failed",
+      "files": [],
+      "detail": "collector=scripts/collect_ru_ras.js; [ras] Error: Cannot find module 'C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\arbitr.ru\\ras_title_rules.js'\nRequire stack:\n- C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\scripts\\collect_ru_ras.js\n    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)\n    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)\n    at Function._load (node:internal/modules/cjs/loader:1192:37)\n    at TracingChannel.traceSync (node:diagnostics_channel:322:14)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)\n    at Module.require (node:internal/modules/cjs/loader:1463:12)\n    at require (node:internal/modules/helpers:147:16)\n    at main (C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\scripts\\collect_ru_ras.js:185:30)\n    at Object.<anonymous> (C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\scripts\\collect_ru_ras.js:249:3)"
+    },
+    "ru_garant": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/: HTTPSConnectionPool(host='www.garant.ru', port=443): Max retries exceeded with url: /ia/aggregator/nalogi-i-buhuchet/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "ru_fns": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.nalog.gov.ru/rn77/news/activities_fts/: HTTPSConnectionPool(host='www.nalog.gov.ru', port=443): Max retries exceeded with url: /rn77/news/activities_fts/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "ru_minfin": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://minfin.gov.ru/ru/press-center/: HTTPSConnectionPool(host='minfin.gov.ru', port=443): Max retries exceeded with url: /ru/press-center/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "ru_vs": {
+      "state": "failed",
+      "files": [],
+      "detail": "collector=scripts/collect_vs.py; [vs] https://vsrf.ru/documents/reviews/: SSLError: HTTPSConnectionPool(host='vsrf.ru', port=443): Max retries exceeded with url: /documents/reviews/?init=y&year=2026 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))\n[vs] https://vsrf.ru/press_center/news/: SSLError: HTTPSConnectionPool(host='vsrf.ru', port=443): Max retries exceeded with url: /press_center/news/?init=y&year=2026&keyword=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))\n[vs] ошибка: ни один официальный endpoint ВС РФ не собран"
+    },
+    "intl_regfollower": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://regfollower.com/feed/: HTTPSConnectionPool(host='regfollower.com', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)'))); https://regfollower.com/: HTTPSConnectionPool(host='regfollower.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "nl_fd": {
+      "state": "manual",
+      "detail": "Ð½ÑƒÐ¶Ð½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð½Ð°Ñ ÑÐµÑÑÐ¸Ñ (Chrome), Ð°Ð²Ñ‚Ð¾ÑÐ±Ð¾Ñ€ Ð½Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ"
+    },
+    "nl_taxlive": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.taxlive.nl/nl: HTTPSConnectionPool(host='www.taxlive.nl', port=443): Max retries exceeded with url: /nl (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "nl_taxence": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.taxence.nl/feed: HTTPSConnectionPool(host='www.taxence.nl', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)'))); https://www.taxence.nl/: HTTPSConnectionPool(host='www.taxence.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    "nl_belastingdienst_rulings": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr: HTTPSConnectionPool(host='www.belastingdienst.nl', port=443): Max retries exceeded with url: /wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)'))); https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_funct"
+    }
+  },
+  "_summary": {
+    "ok": [],
+    "failed": [
+      "intl_regfollower",
+      "nl_belastingdienst_rulings",
+      "nl_rechtspraak",
+      "nl_taxence",
+      "nl_taxlive",
+      "ru_fns",
+      "ru_garant",
+      "ru_minfin",
+      "ru_ras",
+      "ru_vs"
+    ],
+    "incomplete": [
+      "nl_fd:manual"
+    ]
+  }
+}
+[collect] OK=0 FAILED=10
+[parse] nl_rechtspraak: 0 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] nl_rechtspraak: 0 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] Ð˜Ð¢ÐžÐ“Ðž 0 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² â†’ C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\inbox\2026-09-07_items.jsonl
+
+[select] Ð´Ð°Ñ‚Ð°=2026-09-07  ÐºÐ°Ð½Ð´Ð¸Ð´Ð°Ñ‚Ð¾Ð²_Ñ_Ñ‚ÐµÐ¼Ð¾Ð¹=0  ÑƒÑÑ‚Ð°Ñ€ÐµÐ»Ð¾_Ð¾Ñ‚ÑÐµÑÐ½Ð¾=0  Ð²Ð½ÑƒÑ‚Ñ€Ð¸Ð¿Ð°Ñ‡_Ð´ÑƒÐ±Ð»ÐµÐ¹=0  Ð½Ð¾Ð²Ñ‹Ñ…=0  Ð²_ÑˆÐ¾Ñ€Ñ‚Ð»Ð¸ÑÑ‚Ðµ=0 (ÐºÐ°Ð¿=15)
+----------------------------------------------------------------------------------------
+ #  source            score  pub         ÑÑ‚Ñ€Ð°Ð½Ñ‹ | Ñ‚ÐµÐ¼Ñ‹
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+[select] â†’ C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\shortlist\2026-09-07_shortlist.json
+[digest] 0 Ð±Ð»Ð¾ÐºÐ¾Ð² â†’ C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\digest\2026-09-07_digest.md
+[daily] Telegram не настроен: дайджест доступен в портале.

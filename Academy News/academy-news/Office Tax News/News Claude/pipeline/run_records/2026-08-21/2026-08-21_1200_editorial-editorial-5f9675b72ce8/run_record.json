@@ -1,0 +1,71 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-08-21_1200_editorial-editorial-5f9675b72ce8",
+  "release": "2026-08-21_1200_editorial",
+  "date": "2026-08-21",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-08-21T08:04:05.259525+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "5f9675b72ce8fae726134d17d0bb5c48d3ca7879bcd17ea2734519d12cb983a7",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 8,
+    "missing_post_ids": [
+      "734",
+      "736"
+    ]
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 19873,
+      "sha256": "5f9675b72ce8fae726134d17d0bb5c48d3ca7879bcd17ea2734519d12cb983a7"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-21_shortlist.json",
+      "bytes": 44,
+      "sha256": "6b53637473b5929b0d08e34d58d4e5e778f04c41d16404d91e33ad5314a7ed21",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-21_digest.md",
+      "bytes": 676,
+      "sha256": "87d4a03d9ea011955e4a9a48ee71a237a2805560e7132a415b3494931de8c088",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 5203,
+      "sha256": "8d20c01106b4db542a823622cb3d8a0e7f8d6317a37e63a70a1dd282a77e7c96",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 3027,
+      "sha256": "b91822babdf56318afc70e9a6abd0ab0d7c37a6e2f72de7974c1f136dee11858",
+      "records": 10
+    }
+  }
+}

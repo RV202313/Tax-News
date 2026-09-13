@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-21",
+  "release": "2026-07-21_1700_editorial",
+  "items": [
+    {
+      "slug": "2026-07-21-uk-third-party-data-consultation",
+      "title": "HMRC вынесла на консультацию постоянную передачу банками и платёжными посредниками данных о процентах и карточных продажах",
+      "caption": "HMRC 20 июля 2026 года опубликовала проект правил о расширенном использовании новых данных от третьих лиц. По нему банки, строительные общества, эквайеры и платёжные посредники должны будут на постоянной основе передавать налоговой сведения о процентных доходах и карточных продажах, собирать налоговые идентификаторы, верифицировать данные и заранее уведомлять HMRC о попадании в режим. Основные обязанности запланированы с 6 апреля 2028 года, консультация открыта до 20 августа 2026 года.\n\nПочему это важно: финансовым группам, платёжным провайдерам и маркетплейсам нужно заранее оценить объём новых обязанностей по передаче данных, доработки KYC и налоговых контуров.\n\nИсточник: https://www.gov.uk/government/consultations/draft-legislation-better-use-of-new-and-improved-third-party-data\n\n#Великобритания #HMRC #налоговыйконтроль #отчетность #платежи #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль,отчетность,платежи,финансовые данные",
+      "jurisdictions": "Великобритания",
+      "act": "Draft legislation: Better use of new and improved third-party data, published 20.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/consultations/draft-legislation-better-use-of-new-and-improved-third-party-data"
+        }
+      ],
+      "image_spec": {
+        "badge": "HMRC Data Rules",
+        "color_a": [25, 67, 117],
+        "color_b": [196, 151, 69]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "consultation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC consultation page checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-tw-house-land-foreign-taxpayers",
+      "title": "Тайвань напомнил иностранным продавцам недвижимости о 30-дневной подаче и ставках 45% или 35%",
+      "caption": "Минфин Тайваня 20 июля 2026 года разъяснил, что иностранные налогоплательщики, получающие доход от продажи домов, земли, прав на покупку жилья и отдельных косвенных сделок с долями в компаниях, должны подать декларацию по налогу на доход от сделок с домами и землёй в течение 30 дней после регистрации перехода права или даты сделки. Для нерезидентов ставка составляет 45%, если актив удерживался менее двух лет, и 35% в остальных случаях; за неподачу возможен штраф от NT$3 000 до NT$30 000.\n\nПочему это важно: иностранным инвесторам и структурам с тайваньской недвижимостью нужно перепроверить, не попадают ли под режим даже косвенные сделки через доли компаний.\n\nИсточник: https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=e8405aacef294b96889226b7e810538c\n\n#Тайвань #недвижимость #нерезиденты #налогнадоходы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "нерезиденты,недвижимость,налог на доходы,комплаенс",
+      "jurisdictions": "Тайвань",
+      "act": "Foreign taxpayers shall file tax return for house and land transaction income, released 20.07.2026",
+      "sources": [
+        {
+          "label": "Ministry of Finance, R.O.C.",
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=e8405aacef294b96889226b7e810538c"
+        }
+      ],
+      "image_spec": {
+        "badge": "Taiwan Property Tax",
+        "color_a": [27, 91, 117],
+        "color_b": [191, 134, 72]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Taiwan MOF house and land release checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uk-overseas-trade-may-stats",
+      "title": "HMRC: в мае Китай стал крупнейшим экспортным рынком Великобритании на фоне скачка поставок драгоценных металлов",
+      "caption": "Официальная статистика внешней торговли товарами Великобритании за май 2026 года показывает, что страна осталась нетто-импортёром с разрывом £24,5 млрд, но этот разрыв сократился на £2,7 млрд к апрелю. Экспорт в Китай вырос до £6,406 млрд, на 67% месяц к месяцу и примерно в 2,5 раза год к году, что вывело Китай на первое место среди экспортных направлений; HMRC отдельно указывает, что рост был в основном связан с драгоценными металлами.\n\nПочему это важно: для групп с сырьевыми, трейдинговыми и таможенными потоками это сигнал о резких сдвигах в товарной географии и возможных вопросах к происхождению, таможенной стоимости и цепочкам поставок.\n\nИсточник: https://www.gov.uk/government/statistics/uk-overseas-trade-in-goods-statistics-may-2026/uk-overseas-trade-in-goods-statistics-may-2026-commentary\n\n#Великобритания #торговаястатистика #Китай #экспорт #таможня #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внешняя торговля,таможня,торговая статистика,цепочки поставок",
+      "jurisdictions": "Великобритания,Китай",
+      "act": "UK overseas trade in goods statistics May 2026: commentary, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/statistics/uk-overseas-trade-in-goods-statistics-may-2026/uk-overseas-trade-in-goods-statistics-may-2026-commentary"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Trade Flow",
+        "color_a": [36, 74, 130],
+        "color_b": [200, 124, 67]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "statistics",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC trade commentary checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-tw-customs-cash-gold-declarations",
+      "title": "Тайвань обновил напоминание по декларированию наличных, золота и ценных бумаг на границе",
+      "caption": "Тайбэйская таможня 15 июля 2026 года напомнила пассажирам о порогах обязательного декларирования: иностранная валюта свыше USD 10 000, тайваньские доллары свыше NT$100 000, юани свыше RMB 20 000, ценные бумаги свыше USD 10 000 по номиналу и золото свыше USD 20 000 по стоимости. Для золота применяется оценка по цене продажи килограммового слитка Банка Тайваня на дату въезда или выезда, а суммы NTD и RMB выше лимита нельзя ввозить или вывозить даже при декларировании.\n\nПочему это важно: командам деловых поездок, казначействам и подразделениям частного банковского обслуживания стоит перепроверить инструкции для сотрудников и клиентов по трансграничному перемещению ценностей через Тайвань.\n\nИсточник: https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=ebd2f1f000414e5b8d3db8f0e28ea069\n\n#Тайвань #таможня #наличные #золото #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,наличные,золото,трансграничный контроль",
+      "jurisdictions": "Тайвань",
+      "act": "Passengers Carrying Cash, Gold, or Other Valuables Must Declare Them to Customs, released 15.07.2026",
+      "sources": [
+        {
+          "label": "Ministry of Finance, R.O.C.",
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=ebd2f1f000414e5b8d3db8f0e28ea069"
+        }
+      ],
+      "image_spec": {
+        "badge": "Taiwan Customs",
+        "color_a": [16, 92, 86],
+        "color_b": [210, 164, 77]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Taiwan customs declaration release checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uk-corporate-criminal-offences-update",
+      "title": "HMRC сообщила о 13 живых расследованиях по непредотвращению содействия уклонению от налогов",
+      "caption": "HMRC обновила 21 июля 2026 года статистику по корпоративным налоговым преступлениям: по состоянию на 30 июня 2026 года было 13 активных расследований, 27 живых эпизодов на рассмотрении и 136 отклонённых эпизодов. В публикации отдельно указано, что уже принято одно решение о предъявлении обвинения по составу непредотвращения содействия уклонению от налогов, а проверки охватывают 11 секторов, включая поставщиков ПО, бухгалтерские и юридические услуги, транспорт и гостиничный бизнес.\n\nПочему это важно: группам и консультантам стоит заново проверить меры налоговой безопасности, подключение внешних посредников и внутреннее обучение, особенно там, где третьи лица помогают клиентам с перемещением средств или структурированием операций.\n\nИсточник: https://www.gov.uk/government/publications/number-of-live-corporate-criminal-offences-investigations/number-of-live-corporate-criminal-offences-investigations\n\n#Великобритания #HMRC #налоговыепреступления #комплаенс #налоговыйконтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые преступления,комплаенс,налоговый контроль,управление рисками",
+      "jurisdictions": "Великобритания",
+      "act": "Number of live Corporate Criminal Offences investigations, updated 21.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/number-of-live-corporate-criminal-offences-investigations/number-of-live-corporate-criminal-offences-investigations"
+        }
+      ],
+      "image_spec": {
+        "badge": "HMRC CCO",
+        "color_a": [86, 35, 41],
+        "color_b": [202, 151, 83]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "enforcement",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC CCO statistics page checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-cl-tax-relief-flood-communes",
+      "title": "Чили расширила список коммун с автоматическим прощением пеней и отсрочкой июньских ежемесячных налогов до 30 октября",
+      "caption": "Служба внутренних налогов Чили 20 июля 2026 года сообщила, что ещё 20 коммун добавлены в перечень территорий, где лица и компании, пострадавшие от недавнего шторма, получают автоматическое списание штрафов и процентов за позднюю уплату IVA и других ежемесячных налогов за июнь. Платёжный дедлайн для таких налогов перенесён до 30 октября 2026 года, а список территорий может расширяться и дальше по мере оценки ущерба.\n\nПочему это важно: компаниям с филиалами, персоналом и контрагентами в затронутых регионах Чили нужно пересчитать июльские платёжные графики и подтверждающие документы по льготе.\n\nИсточник: https://www.sii.cl/noticias/2026/200726noti03smn.htm\n\n#Чили #IVA #налоговыельготы #штрафы #форсмажор #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы,штрафы,НДС,форс-мажор",
+      "jurisdictions": "Чили",
+      "act": "20 nuevas comunas se suman a las beneficiadas por la condonación de multas e intereses y la postergación del pago de impuestos mensuales correspondientes a junio, hasta el 30 de octubre, published 20.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/200726noti03smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "Chile Tax Relief",
+        "color_a": [41, 83, 134],
+        "color_b": [204, 152, 68]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "relief",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "SII Chile 200726noti03smn checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-tw-enterprise-trade-statistics-2025",
+      "title": "Тайвань показал сжатие числа экспортёров при почти полном доминировании корпоративного сектора во внешней торговле",
+      "caption": "Минфин Тайваня 20 июля 2026 года опубликовал статистический выпуск по характеристикам компаний во внешней торговле за 2016–2025 годы. Число компаний-экспортёров сократилось с 76 819 в 2016 году до 64 231 в 2025 году, тогда как число импортёров выросло с 90 843 до 95 390. При этом на корпоративный сектор по-прежнему приходится почти весь товарный обмен страны: около 99,5% экспорта и 98,8–99,2% импорта.\n\nПочему это важно: для оценки концентрации цепочек поставок и экспортных рисков по Тайваню полезно видеть, что торговые потоки становятся ещё более зависимыми от ограниченного числа активных экспортёров.\n\nИсточник: https://service.mof.gov.tw/public/Data/statistic/bulletin/115/202612_CIT.pdf\n\n#Тайвань #внешняяторговля #статистика #экспорт #цепочкипоставок #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внешняя торговля,торговая статистика,экспорт,цепочки поставок",
+      "jurisdictions": "Тайвань",
+      "act": "Trade Statistics by Enterprise Characteristics (TEC), 2016–2025, released 20.07.2026",
+      "sources": [
+        {
+          "label": "Ministry of Finance, R.O.C.",
+          "url": "https://service.mof.gov.tw/public/Data/statistic/bulletin/115/202612_CIT.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "Taiwan Trade Stats",
+        "color_a": [25, 77, 122],
+        "color_b": [193, 128, 68]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "statistics",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Taiwan TEC bulletin checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uk-tax-advisers-registration-deadline",
+      "title": "HMRC дала новый дедлайн 18 августа для регистрации налоговых консультантов по обязательным правилам",
+      "caption": "HMRC 20 июля 2026 года напомнила, что новый режим обязательной регистрации налоговых консультантов требует от новых консультантов и специалистов без нужных аккаунтов для взаимодействия по подоходному и корпоративному налогу зарегистрироваться не позднее 18 августа 2026 года. Ведомство отмечает, что первое окно открылось 18 мая 2026 года, а пропуск срока может ограничить возможность работать с HMRC от имени клиентов и повлечь санкции.\n\nПочему это важно: британским и международным консультантам с практикой по Великобритании нужно срочно перепроверить статус регистрации, особенно если работа ведётся через новые юрлица или отдельные консультационные платформы.\n\nИсточник: https://www.gov.uk/government/news/tax-advisers-one-month-left-to-register-under-new-rules\n\n#Великобритания #HMRC #налоговыеконсультанты #регистрация #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые консультанты,регистрация,комплаенс,налоговые процедуры",
+      "jurisdictions": "Великобритания",
+      "act": "Tax advisers: one month left to register under new rules, published 20.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/news/tax-advisers-one-month-left-to-register-under-new-rules"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Adviser Rules",
+        "color_a": [45, 88, 140],
+        "color_b": [197, 150, 77]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC tax advisers news checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-tw-customs-international-affairs-training",
+      "title": "Тайвань усиливает международный таможенный контур через WCO, WTO, APEC и отдельную программу подготовки специалистов",
+      "caption": "Таможенная администрация Тайваня 20 июля 2026 года сообщила, что продолжает системное участие в международных форматах WTO, WCO и APEC, включая комитет по упрощению торговли, комитет по управлению пересмотренной Киотской конвенцией и подкомитет по таможенным процедурам. Ведомство также указало, что с июня 2024 года проводит ежеквартальные учебные группы по международной таможенной повестке и две ежегодные англоязычные имитационные конференции для подготовки кадров.\n\nПочему это важно: для компаний с поставками через Тайвань это индикатор того, что местная таможня будет дальше подстраивать практику под международные стандарты и усиливать профессиональный контроль на границе.\n\nИсточник: https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=ed30992d15404780b235b25cbeae5173\n\n#Тайвань #таможня #WCO #WTO #международнаяторговля #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,международное сотрудничество,международная торговля,подготовка кадров",
+      "jurisdictions": "Тайвань",
+      "act": "Taiwan Customs Actively Participates in International Meetings and Continues to Cultivate International Affairs Professionals, released 20.07.2026",
+      "sources": [
+        {
+          "label": "Ministry of Finance, R.O.C.",
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=ed30992d15404780b235b25cbeae5173"
+        }
+      ],
+      "image_spec": {
+        "badge": "Taiwan Customs Global",
+        "color_a": [31, 95, 104],
+        "color_b": [205, 160, 81]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "program",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Taiwan customs international affairs release checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-electronic-auction-cnpj-downtime",
+      "title": "Бразилия остановит электронную аукционную систему 23 июля ради внедрения буквенно-цифрового CNPJ",
+      "caption": "Бразильская налоговая служба 20 июля 2026 года предупредила, что электронная аукционная система будет недоступна 23 июля с 06:00 до 16:00 по местному времени из-за внедрения доработок под буквенно-цифровой CNPJ. На время окна пользователи не смогут просматривать аукционные объявления, подавать предложения, подписывать контракты и выполнять другие операции на платформе.\n\nПочему это важно: компаниям, которые участвуют в налоговых и таможенных электронных аукционах в Бразилии, нужно заранее перенести критичные действия и дедлайны на соседние даты.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico\n\n#Бразилия #CNPJ #цифровыесервисы #электронныеаукционы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые сервисы,CNPJ,таможня,операционные риски",
+      "jurisdictions": "Бразилия",
+      "act": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico"
+        }
+      ],
+      "image_spec": {
+        "badge": "Brazil Auction Downtime",
+        "color_a": [24, 86, 63],
+        "color_b": [210, 174, 73]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Receita Federal auction downtime notice checked 2026-07-21"
+      }
+    }
+  ]
+}

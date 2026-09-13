@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-20",
+  "release": "2026-08-20_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-20-hk-kz-dta-negotiations",
+      "title": "Казахстан и Гонконг проведут первый раунд переговоров по соглашению об избежании двойного налогообложения",
+      "caption": "Налоговое управление Гонконга объявило о проведении первого раунда переговоров с Казахстаном по соглашению об избежании двойного налогообложения (DTA) в отношении налогов на доходы. Переговоры запланированы на 24–28 августа 2026 года.\n\nИсточник: https://regfollower.com/hong-kong-kazakhstan-to-begin-first-round-of-tax-treaty-negotiations/\n\n#Казахстан #Гонконг #СоглашениеОбИзбежании #DTA #НалоговыеПереговоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Казахстан / Гонконг",
+      "act": "Анонс Налогового управления Гонконга по DTA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/hong-kong-kazakhstan-to-begin-first-round-of-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 19.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-20-nl-minimum-tax-no-fine-oct2026",
+      "title": "Нидерланды: Отменены штрафы за несвоевременную подачу деклараций по Минимальному налогу до 31 октября 2026 года",
+      "caption": "Налоговые органы Нидерландов приняли решение не применять штрафные санкции за несвоевременное представление отчетности или просрочку платежей по Минимальному налогу (Pillar Two) для групп налогоплательщиков до 31 октября 2026 года. Мера направлена на облегчение административной нагрузки на бизнес на начальном этапе.\n\nИсточник: https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/\n\n#Нидерланды #МинимальныйНалог #PillarTwo #Штрафы #Комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение налоговых органов Нидерландов об отмене штрафов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.9,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-nl-legal-merger-decree-2026",
+      "title": "Нидерланды: Опубликован новый указ о правилах налогообложения при юридическом слиянии компаний на 2026 год",
+      "caption": "Государственный секретарь по финансам Нидерландов выпустил указ № 2026-262956, устанавливающий обновленные правила предоставления налоговых льгот при реструктуризации и слиянии юридических лиц. Документ подробно описывает условия, при которых слияние признается налогово-нейтральным.\n\nИсточник: https://regfollower.com/netherlands-tax-authority-updates-legal-merger-framework-for-2026/\n\n#Нидерланды #ЮридическоеСлияние #Реструктуризация #НалоговыеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Госсекретаря по финансам Нидерландов № 2026-262956",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-tax-authority-updates-legal-merger-framework-for-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-nl-international-tax-homeoffice-pe",
+      "title": "Нидерланды: Вступил в силу указ о правилах признания постоянных представительств типа «домашний офис»",
+      "caption": "20 августа 2026 года в Нидерландах вступило в силу новое руководящее решение Министерства финансов по международному налогообложению прибыли. Документ подробно описывает критерии, при которых удаленная работа сотрудника из дома за рубежом может приводить к образованию постоянного представительства иностранной компании.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/\n\n#Нидерланды #ПостоянноеПредставительство #УдаленнаяРабота #МеждународноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / постоянное представительство",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Министерства финансов Нидерландов о применении международного налогового права",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-20-saudi-gcc-vat-agreement-amendments",
+      "title": "Саудовская Аравия утвердила поправки к Единому соглашению стран Персидского залива по НДС",
+      "caption": "Власти Саудовской Аравии одобрили протокол о внесении изменений в Единое соглашение стран Персидского залива (GCC) по налогу на добавленную стоимость. Поправки направлены на модернизацию правил трансграничной торговли услугами и товарами внутри региона, а также на унификацию требований к электронному учету.\n\nИсточник: https://regfollower.com/saudi-arabia-approves-amendments-to-gcc-unified-vat-agreement/\n\n#СаудовскаяАравия #НДС #GCC #ТрансграничнаяТорговля #Модернизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / НДС",
+      "jurisdictions": "Саудовская Аравия / Страны Персидского залива",
+      "act": "Решение Кабинета министров Саудовской Аравии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/saudi-arabia-approves-amendments-to-gcc-unified-vat-agreement/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-chile-stablecoins-crossborder-services",
+      "title": "Чили: Налоговая служба разъяснила правила применения стейблкоинов при расчете за трансграничные услуги",
+      "caption": "Служба внутренних доходов Чили (SII) опубликовала постановление № 1982, устанавливающее правила налогообложения при оплате трансграничных услуг стейблкоинами. Ведомство подтвердило, что стейблкоины не признаются законным платежным средством, а сделки с ними подлежат оценке по рыночной стоимости.\n\nИсточник: https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins-used-for-cross-border-services/\n\n#Чили #Стейблкоины #ТрансграничныеУслуги #SII #НалогНаДоходы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы / трансграничные расчеты",
+      "jurisdictions": "Чили",
+      "act": "Постановление SII Чили № 1982",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins-used-for-cross-border-services/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-sweden-minimum-tax-reform-amendments",
+      "title": "Швеция: Правительство вынесло на обсуждение законопроект о внедрении правил Pillar Two в национальное законодательство",
+      "caption": "Министерство финансов Швеции представило проект изменений в закон о минимальном налоге. Документ содержит обновленные правила применения безопасных гаваней и стандартов декларации GloBE (GIR) для адаптации шведского корпоративного сектора к нормам ОЭСР.\n\nИсточник: https://oecdpillars.com/\n\n#Швеция #МинимальныйНалог #PillarTwo #БезопасныеГавани #ОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Швеция",
+      "act": "Законопроект Министерства финансов Швеции",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecdpillars.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecdpillars search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-mauritius-qdmtt-regulations",
+      "title": "Маврикий: Вступили в силу правила применения национального налога QDMTT с ретроспективной силой",
+      "caption": "Правительство Маврикия опубликовало регламент по внедрению квалифицированного национального минимального налога (QDMTT) в рамках правил Pillar Two. Нормы вводятся с ретроспективным вступлением в силу — с июля 2025 года.\n\nИсточник: https://oecdpillars.com/\n\n#Маврикий #МинимальныйНалог #PillarTwo #QDMTT #РетроспективнаяСила #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Маврикий",
+      "act": "Регламент Правительства Маврикия по QDMTT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecdpillars.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecdpillars.com search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-20-un-tax-convention-negotiations",
+      "title": "ООН: Завершилась пятая сессия переговоров по Рамочной конвенции о международном налоговом сотрудничестве",
+      "caption": "В Нью-Йорке завершилась очередная сессия специального комитета ООН по разработке Рамочной конвенции о международном налоговом сотрудничестве. Переговоры продемонстрировали разногласия между развитыми странами и странами Глобального Юга по вопросам реформирования глобальных правил распределения налоговых прав.\n\nИсточник: https://www.ictd.ac/news/un-tax-convention-negotiations-august-2026/\n\n#ООН #РамочнаяКонвенция #ГлобальныйЮг #РеформаНалогов #МеждународноеСотрудничество #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налоговое сотрудничество",
+      "jurisdictions": "Международные организации",
+      "act": "Отчет Специального комитета ООН",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ictd.ac/news/un-tax-convention-negotiations-august-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "ictd.ac report"
+      },
+      "score": 13.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-20-us-unitedhealth-irs-transfer-pricing",
+      "title": "США: Корпорация ЮнайтедХелс оспаривает доначисление налогов со стороны IRS по трансфертному ценообразованию",
+      "caption": "Американский гигант в сфере здравоохранения ЮнайтедХелс Груп (UHG) подал возражения против требований Налогового управления США (IRS). Ведомство планирует доначислить налоги по сделкам с зарубежным филиалом за 2017–2020 годы, утверждая, что прибыль распределялась не на рыночных условиях.\n\nИсточник: https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications\n\n#США #ЮнайтедХелс #IRS #ТрансфертноеЦенообразование #ТЦО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "США",
+      "act": "Судебный спор ЮнайтедХелс против IRS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "mcdermott law search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    }
+  ]
+}

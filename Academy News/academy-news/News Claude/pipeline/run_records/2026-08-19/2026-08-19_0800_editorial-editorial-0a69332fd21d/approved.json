@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-19",
+  "release": "2026-08-19_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-19-hk-kz-dta-negotiations",
+      "title": "Казахстан и Гонконг проведут первый раунд переговоров по соглашению об избежании двойного налогообложения",
+      "caption": "Налоговое управление Гонконга объявило о проведении первого раунда переговоров с Казахстаном по соглашению об избежании двойного налогообложения (DTA) в отношении налогов на доходы. Переговоры запланированы на 24–28 августа 2026 года.\n\nИсточник: https://regfollower.com/hong-kong-kazakhstan-to-begin-first-round-of-tax-treaty-negotiations/\n\n#Казахстан #Гонконг #СоглашениеОбИзбежании #DTA #НалоговыеПереговоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Казахстан / Гонконг",
+      "act": "Анонс Налогового управления Гонконга по DTA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/hong-kong-kazakhstan-to-begin-first-round-of-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 19.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-19-ru-spot-import-filling",
+      "title": "Россия: ФНС разъяснила правила заполнения документов о поставках при импорте из стран ЕАЭС в рамках СПОТ",
+      "caption": "Федеральная налоговая служба России подготовила рекомендации по заполнению документов о предстоящей поставке товаров из государств-членов Евразийского экономического союза в рамках системы прослеживаемости импортных товаров (СПОТ). Документ описывает особенности отражения реквизитов партий и кодов ТН ВЭД.\n\nИсточник: https://www.garant.ru/news/2203892/\n\n#Россия #ФНС #СПОТ #ЕАЭС #Импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное администрирование / СПОТ",
+      "jurisdictions": "Россия",
+      "act": "Рекомендации ФНС России по заполнению СПОТ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2203892/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "garant.ru"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-nl-minimum-tax-no-fine-oct2026",
+      "title": "Нидерланды: Отменены штрафы за несвоевременную подачу деклараций по Минимальному налогу до 31 октября 2026 года",
+      "caption": "Налоговые органы Нидерландов приняли решение не применять штрафные санкции за несвоевременное представление отчетности или просрочку платежей по Минимальному налогу (Pillar Two) для квалифицируемых групп до 31 октября 2026 года. Мера направлена на облегчение административной нагрузки на бизнес на начальном этапе.\n\nИсточник: https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/\n\n#Нидерланды #МинимальныйНалог #PillarTwo #Штрафы #Комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение налоговых органов Нидерландов об отмене штрафов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.9,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-nl-legal-merger-decree-2026",
+      "title": "Нидерланды: Опубликован новый указ о правилах налогообложения при юридическом слиянии компаний на 2026 год",
+      "caption": "Государственный секретарь по финансам Нидерландов выпустил указ № 2026-262956, устанавливающий обновленные правила предоставления налоговых льгот при реструктуризации и слиянии юридических лиц. Документ подробно описывает условия, при которых слияние признается налогово-нейтральным.\n\nИсточник: https://regfollower.com/netherlands-tax-authority-updates-legal-merger-framework-for-2026/\n\n#Нидерланды #ЮридическоеСлияние #Реструктуризация #НалоговыеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Госсекретаря по финансам Нидерландов № 2026-262956",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-tax-authority-updates-legal-merger-framework-for-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-chile-stablecoins-tax-clarification",
+      "title": "Чили: Налоговая служба разъяснила порядок налогообложения операций со стейблкоинами",
+      "caption": "Служба внутренних доходов Чили (SII) выпустила официальное разъяснение относительно налоговых последствий использования и передачи стейблкоинов. Согласно документу, операции со стейблкоинами подлежат классическому налогообложению в рамках налога на доходы в зависимости от статуса держателя и характера сделок.\n\nИсточник: https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins/\n\n#Чили #Стейблкоины #Криптовалюта #НалогНаДоходы #SII #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы / криптовалюты",
+      "jurisdictions": "Чили",
+      "act": "Разъяснение Службы внутренних доходов Чили (SII)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-nl-pseudo-eindheffing-advisors-warning",
+      "title": "Нидерланды: Реестр налоговых консультантов предупреждает о сложности правил псевдо-окончательного налога",
+      "caption": "Реестр налоговых консультантов Нидерландов направил отзыв на проект изменений в налогообложении заработных плат на 2026 год, выразив обеспокоенность по поводу сложности администрирования и правовой определенности правил начисления псевдо-окончательного налога на высокие выходные пособия.\n\nИсточник: https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/\n\n#Нидерланды #НалоговыеКонсультанты #ЗарплатныйНалог #ВыходноеПособие #Администрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Отзыв Реестра налоговых консультантов Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 10.1,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-19-nl-neo-case-dividend-withholding-opinion",
+      "title": "Нидерланды: Эксперты призывают Верховный суд передать дело NEO о налоге на дивиденды в Суд ЕС",
+      "caption": "В связи со спорами вокруг освобождения от налога у источника при выплате дивидендов материнским компаниям в рамках Директивы ЕС, эксперты в сфере налогообложения рекомендуют Верховному суду Нидерландов направить прецедентное дело NEO в Суд Европейского союза для уточнения понятия «злоупотребление правом».\n\nИсточник: https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/\n\n#Нидерланды #СудЕС #НалогНаДивиденды #ДирективаЕС #ЗлоупотреблениеПравом #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения / налог у источника",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Мнение профессора Отто Марреса по делу NEO",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence opinion search"
+      },
+      "score": 9.4,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-19-nl-box3-reassessment-horizontal-monitoring",
+      "title": "Нидерланды: Суд разрешил доначисление налога по активам Бокса 3 вопреки соглашению о горизонтальном мониторинге",
+      "caption": "Суд Зеландии-Западного Брабанта постановил, что налоговый инспектор имеет право произвести дополнительное начисление налога на доходы от сбережений (Бокс 3) на основе фактической доходности активов, даже если налогоплательщик заключил соглашение о горизонтальном мониторинге (HOT/HOR).\n\nИсточник: https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/\n\n#Нидерланды #Бокс3 #ГоризонтальныйМониторинг #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Суда Зеландии-Западного Брабанта",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence court case search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-nl-policy-decree-international-tax-profits",
+      "title": "Нидерланды: Вступил в силу указ о применении международного налогового права в сфере прибыли на 2026 год",
+      "caption": "В официальном правительственном вестнике Нидерландов опубликован новый Указ о применении норм международного налогообложения к корпоративной прибыли на 2026 год. Документ систематизирует правила применения налоговых соглашений и зачета иностранных налогов.\n\nИсточник: https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/\n\n#Нидерланды #КорпоративныйНалог #МеждународноеПраво #НалоговыйУказ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Министерства финансов Нидерландов от 19 августа 2026 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-nl-functional-currency-fiscal-unity-demerger",
+      "title": "Нидерланды: Разъяснен порядок выбора функциональной валюты при выделении дочерней компании из фискального единства",
+      "caption": "Налоговая служба Нидерландов опубликовала позицию относительно сроков подачи заявления о расчете налогооблагаемой прибыли в иной функциональной валюте (отличной от евро) для дочерней компании, выделяемой из состава фискальной группы.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-functionele-valuta-bij-ontvoeging-fiscale-eenheid/\n\n#Нидерланды #ФункциональнаяВалюта #ФискальноеЕдинство #ВыделениеАктивов #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / фискальное единство",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-functionele-valuta-bij-ontvoeging-fiscale-eenheid/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-18"
+    }
+  ]
+}

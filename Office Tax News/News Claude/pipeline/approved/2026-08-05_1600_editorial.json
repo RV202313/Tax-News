@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-05",
+  "release": "2026-08-05-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-08-05-ru-fns-gosuslugi-aug",
+      "title": "С 1 августа 2026 года упрощён порядок получения налоговых уведомлений через портал Госуслуги",
+      "caption": "С 1 августа 2026 года граждане могут получать налоговые уведомления непосредственно через единый портал государственных услуг без посещения налоговой инспекции. ФНС России напоминает о порядке подключения к электронным уведомлениям.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16638776/\n\n#ФНС #Госуслуги #уведомления #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16638776/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-kontrol-vebinar",
+      "title": "ФНС России проведёт вебинар о налоговом контроле операций и оценке их налоговых последствий",
+      "caption": "Специалисты ФНС России проведут онлайн-вебинар, посвящённый подходам к квалификации операций, их налоговым последствиям и практике применения концепции деловой цели.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639378/\n\n#ФНС #вебинар #контроль #налоговыепоследствия #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Анонс вебинара ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639378/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-mchd-blockchain",
+      "title": "ФНС России: в едином блокчейн-реестре зарегистрировано 5 миллионов машиночитаемых доверенностей",
+      "caption": "Единый реестр машиночитаемых доверенностей (МЧД) ФНС России преодолел отметку в 5 миллионов зарегистрированных документов. МЧД обеспечивает юридически значимое электронное представительство в отношениях с налоговыми органами.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639371/\n\n#ФНС #МЧД #блокчейн #цифровизация #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639371/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-de-vat-restaurant-7pct",
+      "title": "Германия сделала постоянной пониженную ставку НДС 7% на питание в ресторанах",
+      "caption": "Германия законодательно закрепила применение пониженной ставки НДС 7% на услуги общественного питания в ресторанах на постоянной основе, отказавшись от её повышения до 19%.\n\nИсточник: https://regfollower.com/germany-approves-permanent-7-vat-for-restaurant-food/\n\n#Германия #НДС #рестораны #ставка #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Германия",
+      "act": "Законодательные поправки Германии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/germany-approves-permanent-7-vat-for-restaurant-food/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-uk-vat-capital-goods",
+      "title": "Великобритания: HMRC сообщила об изменениях в порядке применения схемы капитальных активов по НДС",
+      "caption": "Налоговая служба Великобритании опубликовала разъяснения об изменениях в схеме НДС по капитальным активам (схемы корректировки вычета по капитальным активам), затрагивающих порядок корректировки вычета налога для частично налогооблагаемых лиц.\n\nИсточник: https://regfollower.com/uk-hmrc-outlines-changes-to-vat-capital-goods-scheme/\n\n#Великобритания #НДС #капитальныеактивы #HMRC #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Великобритания",
+      "act": "Разъяснение HMRC",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uk-hmrc-outlines-changes-to-vat-capital-goods-scheme/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-nl-medische-vrijstelling",
+      "title": "Нидерланды уточнили применение освобождения от НДС для ассистентов врачей",
+      "caption": "Налоговая служба Нидерландов опубликовала официальную позицию относительно применения освобождения от НДС к услугам ассистентов врачей: льгота применяется при условии, что оказываемые ими услуги по своей природе являются медицинскими.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/\n\n#Нидерланды #НДС #медицина #льгота #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 taxence.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ae-finance-strategy-2027",
+      "title": "ОАЭ представили стратегию финансового развития на 2027–2029 годы с реформами в области корпоративного налога и ИИ",
+      "caption": "Министерство финансов ОАЭ обнародовало трёхлетнюю финансовую стратегию на 2027–2029 годы, предусматривающую развитие корпоративного налогообложения, внедрение цифровой валюты и налоговые стимулы для сферы искусственного интеллекта.\n\nИсточник: https://regfollower.com/uae-sets-out-2027-29-finance-strategy-with-corporate-tax-digital-currency-ai-reforms/\n\n#ОАЭ #налоговаяреформа #корпоративныйналог #ИИ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "ОАЭ",
+      "act": "Трёхлетняя финансовая стратегия ОАЭ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-sets-out-2027-29-finance-strategy-with-corporate-tax-digital-currency-ai-reforms/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-my-foreign-income-exemption",
+      "title": "Малайзия продлила освобождение от налога иностранных источников дохода до конца 2030 года",
+      "caption": "Правительство Малайзии продлило действие льготы, освобождающей физических и юридических лиц от налогообложения доходов из иностранных источников, перечисляемых в страну, до 31 декабря 2030 года.\n\nИсточник: https://regfollower.com/malaysia-extends-foreign-sourced-income-tax-exemption-to-end-2030/\n\n#Малайзия #НДФЛ #иностранныйдоход #льгота #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Малайзия",
+      "act": "Решение Правительства Малайзии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/malaysia-extends-foreign-sourced-income-tax-exemption-to-end-2030/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ke-tax-amnesty-2026",
+      "title": "Кения: налоговая служба уточнила условия участия в программе налоговой амнистии 2026 года",
+      "caption": "Налоговая служба Кении (KRA) опубликовала разъяснения относительно критериев и условий участия налогоплательщиков в программе налоговой амнистии 2026 года, в том числе порядок списания штрафов и пеней.\n\nИсточник: https://regfollower.com/kenya-kra-clarifies-eligibility-rules-for-2026-tax-amnesty-programme/\n\n#Кения #амнистия #налоги #KRA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Кения",
+      "act": "Разъяснение Налоговой службы Кении (KRA)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kenya-kra-clarifies-eligibility-rules-for-2026-tax-amnesty-programme/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-az-meal-expenses-tax",
+      "title": "Азербайджан уточнил налоговый режим компенсации расходов на питание сотрудников (порог 5 манатов в день)",
+      "caption": "Министерство налогов Азербайджана разъяснило порядок налогообложения компенсации расходов на питание работников: суммы в пределах 5 азербайджанских манатов в день освобождаются от подоходного налога и социальных отчислений.\n\nИсточник: https://regfollower.com/azerbaijan-clarifies-tax-treatment-of-employee-meal-expenses-azn-5-daily-threshold/\n\n#Азербайджан #НДФЛ #питание #льгота #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Азербайджан",
+      "act": "Разъяснение Министерства налогов Азербайджана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/azerbaijan-clarifies-tax-treatment-of-employee-meal-expenses-azn-5-daily-threshold/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

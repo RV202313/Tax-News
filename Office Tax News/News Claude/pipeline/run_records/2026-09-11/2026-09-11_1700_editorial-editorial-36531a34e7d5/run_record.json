@@ -1,0 +1,89 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-09-11_1700_editorial-editorial-36531a34e7d5",
+  "release": "2026-09-11_1700_editorial",
+  "date": "2026-09-11",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-09-11T20:10:06.554716+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "36531a34e7d51334ed019f9548a9c15ecaf3c15f532a44a8d5f6330ba615f5a5",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 20,
+    "missing_slugs": [],
+    "unexpected_slugs": [
+      "2026-09-11-item-1700-01-ru",
+      "2026-09-11-item-1700-02-ru",
+      "2026-09-11-item-1700-03-vat",
+      "2026-09-11-item-1700-04-certificate",
+      "2026-09-11-item-1700-05-exemption",
+      "2026-09-11-item-1700-06-with",
+      "2026-09-11-item-1700-07-us",
+      "2026-09-11-item-1700-08-rules",
+      "2026-09-11-item-1700-09-us",
+      "2026-09-11-item-1700-10-us"
+    ]
+  },
+  "catalog_coverage": {
+    "post_ids": 20,
+    "matched_post_ids": 11,
+    "missing_post_ids": [
+      "943",
+      "944",
+      "945",
+      "946",
+      "947",
+      "948",
+      "949",
+      "951",
+      "952"
+    ]
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 26739,
+      "sha256": "36531a34e7d51334ed019f9548a9c15ecaf3c15f532a44a8d5f6330ba615f5a5"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-09-11_shortlist.json",
+      "bytes": 3342,
+      "sha256": "8b614ec7c258c5b95c9e69c973008bb68b104af50dd692c06f7edb39bab04969",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-09-11_digest.md",
+      "bytes": 1957,
+      "sha256": "cd9871173adb1a11ffbd7ccf9093b6bd38a051d0147ff60ded1a167979a02b8b",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 5577,
+      "sha256": "d23b6a0660de9a683d2437691b057dcef0e756c94dcf533f05b88ffc1c50156a",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 5837,
+      "sha256": "f7894cee1e607579a5c9da1d96537f6d9be2694d96daa29acda8473118e772af",
+      "records": 20
+    }
+  }
+}

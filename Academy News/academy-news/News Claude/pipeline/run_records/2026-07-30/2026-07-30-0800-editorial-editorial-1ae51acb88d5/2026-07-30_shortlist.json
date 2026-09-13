@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-30",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 221,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/aangifte-erfbelasting-vader-bepalend-voor-hoogte-overbedelingsschuld/",
+      "ecli": "",
+      "act": "",
+      "title": "Aangifte erfbelasting vader bepalend voor hoogte overbedelingsschuld",
+      "summary": "",
+      "published_at": "2026-07-29",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 222,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/lithuania-invites-thailand-to-resume-double-tax-treaty-negotiations/",
+      "ecli": "",
+      "act": "",
+      "title": "Lithuania invites Thailand to resume double tax treaty negotiations",
+      "summary": "Lithuania has invited Thailand to resume negotiations on a Lithuania, Thailand double taxation avoidance agreement, with plans to update a draft prepared in 2008 in line with current international tax standards. The proposal was made by Lithuanian Foreign Minister Kęstutis Budrys during a 27 July meeting with Thai Prime Minister Anutin Charnvirakul. The minister said...",
+      "published_at": "2026-07-29",
+      "score": 9.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "lt"
+      ],
+      "jurisdiction_names": [
+        "Литва"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 223,
+      "source": "telegram_leads",
+      "url": "https://blitz.nalog.nl/services/online-meeting-with-a-manager-opening-bv?utm_source=telegram&utm_medium=post&utm_campaign=business_v_nl_29_07_2026",
+      "ecli": "",
+      "act": "",
+      "title": "⏰Осталось 3 дня: 31 июля — дедлайн BTW-декларации за 2-й квартал. Напоминаем, что будет при опоздании: 📌 Не подали декларацию — после льготных 7 календарных дней — штраф €82 за …",
+      "summary": "⏰Осталось 3 дня: 31 июля — дедлайн BTW-декларации за 2-й квартал. Напоминаем, что будет при опоздании: 📌 Не подали декларацию — после льготных 7 календарных дней — штраф €82 за каждую просроченную подачу. Даже если налог нулевой. 📌 Не оплатили вовремя — штраф 3% от неоплаченной суммы (минимум €50) плюс проценты за просрочку. 📌 Систематические нарушения — штрафы растут: за неподачу — до €165 за декларацию, за неуплату — до 10% от неуплаченной суммы (максимум €6 709 в год). Если декларация ещё не подана — сейчас самое время. Если понимаете, что не успеваете собрать документы сами, — напишите нам сегодня: ещё успеем подготовить и подать в срок. А если вы на абонементе Nalog.nl — можете спокойно долистывать этот пост: ваша декларация уже в работе 😉 📩 Напишите нам на info@nalog.nl или запишитесь на бесплатную консультацию — разберём вашу ситуацию.",
+      "published_at": "2026-07-29",
+      "score": 2.132,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": true,
+      "channel": "@nalognl",
+      "message_id": 1680,
+      "engagement": 4.6370000000000005,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 17 Jul 2026 10:54:28 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Collectieve beslissing massaal bezwaar plus box 3 (2017–2020)</title>
+		<link>https://www.taxence.nl/nieuws/collectieve-beslissing-massaal-bezwaar-plus-box-3-2017-2020/</link>
+					<comments>https://www.taxence.nl/nieuws/collectieve-beslissing-massaal-bezwaar-plus-box-3-2017-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 08:58:28 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165861</guid>
+
+					<description><![CDATA[De inspecteur heeft een collectieve beslissing genomen op verzoeken om ambtshalve vermindering en een collectieve uitspraak gedaan op bezwaren in het kader van de regeling massaal bezwaar plus voor de box 3-heffing over de jaren 2017 tot en met 2020. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De inspecteur heeft een collectieve beslissing genomen op verzoeken om ambtshalve vermindering en een collectieve uitspraak gedaan op bezwaren in het kader van de regeling massaal bezwaar plus voor de box 3-heffing over de jaren 2017 tot en met 2020. </strong></p>
+
+
+
+<p class="wp-block-paragraph">Aanleiding vormt het arrest van de Hoge Raad van 25 juni 2026, waarin is geoordeeld dat belastingplichtigen van wie de aanslagen op 24 december 2021 al onherroepelijk vaststonden, geen recht hebben op rechtsherstel op basis van het Kerstarrest.</p>
+
+
+
+<p class="wp-block-paragraph">De massaalbezwaarplusprocedure zag op belastingplichtigen die geen tijdig bezwaar hadden gemaakt tegen hun box 3-aanslag over 2017 tot en met 2020 en daarom een verzoek om ambtshalve vermindering hadden ingediend. De centrale rechtsvraag was of deze zogenoemde niet-bezwaarmakers alsnog aanspraak konden maken op het rechtsherstel dat voortvloeit uit het Kerstarrest van de Hoge Raad van 24 december 2021, onder meer op grond van het EVRM, nationale rechtsregels of algemene beginselen van behoorlijk bestuur.</p>
+
+
+
+<p class="wp-block-paragraph">In zijn arrest van 25 juni 2026 heeft de Hoge Raad geoordeeld dat het Kerstarrest voor deze situatie moet worden aangemerkt als nieuwe jurisprudentie. Volgens vaste rechtspraak vormt nieuwe jurisprudentie geen grond voor ambtshalve vermindering van een onherroepelijk vaststaande belastingaanslag. De Hoge Raad ziet geen aanleiding om van deze lijn af te wijken.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast oordeelt de Hoge Raad dat niet-bezwaarmakers zich niet in dezelfde positie bevinden als belastingplichtigen die wel tijdig bezwaar hebben gemaakt. Van gelijke gevallen is daarom geen sprake, zodat geen sprake is van verboden discriminatie. Ook is de uitzondering voor nieuwe jurisprudentie volgens de Hoge Raad niet in strijd met het evenredigheidsbeginsel, noch met andere algemene beginselen van behoorlijk bestuur, zoals het vertrouwens- of zorgvuldigheidsbeginsel.</p>
+
+
+
+<p class="wp-block-paragraph">Naar aanleiding van dit arrest wijst de inspecteur alle als massaal bezwaar plus aangewezen verzoeken om ambtshalve vermindering af en verklaart hij de daartegen gerichte bezwaren ongegrond. De collectieve beslissing is niet vatbaar voor bezwaar en tegen de collectieve uitspraak staat geen beroep open.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Inwerkingtreding:</strong> 17 juli 2026 </p>
+
+
+
+<p class="wp-block-paragraph">Bron: Collectieve beslissing op verzoeken om ambtshalve vermindering en collectieve uitspraak op bezwaar van 17 juli 2026, nr. 2026-280569, inzake massaal bezwaar plus box 3 (inkomstenbelasting 2017–2020), <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-25867.html" type="link" id="https://zoek.officielebekendmakingen.nl/stcrt-2026-25867.html" target="_blank" rel="noreferrer noopener">Ministerie van Financiën, Stcrt. 2026, 25867</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/collectieve-beslissing-massaal-bezwaar-plus-box-3-2017-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/rekenmachine3.jpg" length="30431" type="image/jpeg" />	</item>
+		<item>
+		<title>Besluit beëindiging goedkeuring motorrijtuigenbelasting als quasi doorlopende post bij leasing</title>
+		<link>https://www.taxence.nl/nieuws/besluit-beeindiging-goedkeuring-motorrijtuigenbelasting-als-quasi-doorlopende-post-bij-leasing/</link>
+					<comments>https://www.taxence.nl/nieuws/besluit-beeindiging-goedkeuring-motorrijtuigenbelasting-als-quasi-doorlopende-post-bij-leasing/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Autobelastingen]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165863</guid>
+
+					<description><![CDATA[Dit besluit beëindigt een jarenlang toegepast beleidsstandpunt over de btw-behandeling van de motorrijtuigenbelasting (MRB) bij leaseovereenkomsten. Met ingang van 1 januari 2027 kan de door een lessor aan een lessee doorberekende MRB niet langer buiten de btw-heffing blijven op grond van een beleidsmatige goedkeuring.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Dit besluit beëindigt een jarenlang toegepast beleidsstandpunt over de btw-behandeling van de motorrijtuigenbelasting (MRB) bij leaseovereenkomsten. Met ingang van 1 januari 2027 kan de door een lessor aan een lessee doorberekende MRB niet langer buiten de btw-heffing blijven op grond van een beleidsmatige goedkeuring.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Uitgangspunt is dat een doorlopende post geen onderdeel vormt van de vergoeding waarover omzetbelasting is verschuldigd. De MRB voldoet hier niet aan wanneer de lessor als kentekenhouder de belasting verschuldigd is en deze vervolgens doorberekent aan de lessee. In een resolutie uit 1995 was echter goedgekeurd dat de doorberekende MRB in deze situatie als een zogenoemde <em>quasi doorlopende post</em> mocht worden behandeld. Hierdoor bleef de doorberekende MRB buiten de heffingsgrondslag voor de btw.</p>
+
+
+
+<p class="wp-block-paragraph">Bij de actualisering van het leasebeleid in 2007 werd deze goedkeuring niet expliciet ingetrokken. Hoewel het nieuwe leasebesluit een algemene intrekkingsbepaling bevatte, is de goedkeuring in de praktijk nadien blijven worden toegepast. Volgens de staatssecretaris konden belastingplichtigen hieraan het gerechtvaardigd vertrouwen ontlenen dat het beleid nog steeds gold.</p>
+
+
+
+<p class="wp-block-paragraph">Met dit besluit wordt aan die onduidelijkheid een einde gemaakt. De staatssecretaris bepaalt dat de beleidsmatige goedkeuring per 1 januari 2027 vervalt. Vanaf dat moment behoort de door de lessor aan de lessee doorberekende MRB weer volledig tot de vergoeding voor de leaseprestatie en is hierover in beginsel omzetbelasting verschuldigd. Leasemaatschappijen zullen hun facturering en btw-administratie hierop moeten aanpassen. Voor lessees kan dit leiden tot hogere leasekosten indien zij de in rekening gebrachte btw niet of slechts gedeeltelijk in aftrek kunnen brengen.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Inwerkingtreding:</strong> 1 januari 2027.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-25243.html" type="link" id="https://zoek.officielebekendmakingen.nl/stcrt-2026-25243.html" target="_blank" rel="noreferrer noopener">Besluit van 2 juli 2026, nr. 2026-9672, Ministerie van Financien, Stcrt. 2026, 25243</a></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-efb09e8a-2e0d-4323-8e34-ab1c285cb3f0" href="https://www.licentacademy.nl/agenda-2/3008/pe-pitstop-fiscale-aspecten-auto-van-de-zaak-online" target="_blank" rel="noopener noreferrer"><span>Online cursus Auto van de zaak</span></a></div>
+<style class="advgb-styles-renderer">.advgbbtn-efb09e8a-2e0d-4323-8e34-ab1c285cb3f0{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-efb09e8a-2e0d-4323-8e34-ab1c285cb3f0:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-efb09e8a-2e0d-4323-8e34-ab1c285cb3f0 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/besluit-beeindiging-goedkeuring-motorrijtuigenbelasting-als-quasi-doorlopende-post-bij-leasing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/09/Lease-auto.jpg" length="45402" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie Fiscale verzamelwet 2028</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-fiscale-verzamelwet-2028/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-fiscale-verzamelwet-2028/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 06:04:54 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165837</guid>
+
+					<description><![CDATA[Het ministerie van Financiën is een  internetconsultatie over de Fiscale verzamelwet 2028 gestart.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het ministerie van Financiën is een  internetconsultatie over de Fiscale verzamelwet 2028 gestart.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het wetsvoorstel wijzigt uiteenlopende belastingwetten. Voor de eigenwoningregeling wordt voortaan weer aangesloten bij de feitelijke verhuisdatum in plaats van de BRP-verhuisdatum voor de bepaling van het eigenwoningforfait. Op pensioen- en lijfrentegebied worden onder meer een inhoudingsplicht bij te laat ingaande lijfrenten geïntroduceerd en enkele bestaande goedkeuringen wettelijk vastgelegd. De regeling excessief lenen wordt aangepast om te voorkomen dat bij immigratie negatieve fictieve reguliere voordelen ontstaan zonder dat Nederland eerder over de betreffende schuld heeft geheven. Daarnaast wordt de bedrijfsopvolgingsregeling (BOR) en de doorschuifregeling aanmerkelijk belang verruimd voor tijdelijke verpachting van landbouwgrond in het kader van noodzakelijke vruchtwisseling.</p>
+
+
+
+<p class="wp-block-paragraph">Verder worden diverse uitvoeringsmaatregelen getroffen. Zo vervalt de beschikking voortbrengingskosten voor de innovatiebox, worden reorganisatiefaciliteiten vereenvoudigd doordat standaardgevallen zonder verzoek kunnen worden toegepast en wordt de aanslagtermijn bij tweetrapsmakingen verlengd om verjaring te voorkomen. De aangiftetermijn voor de schenkbelasting wordt verlengd tot<strong> </strong>1 mei volgend op het kalenderjaar van de schenking. Daarnaast wordt een meldingsplicht ingevoerd voor vervreemders van aandelen in onroerendezaakrechtspersonen (OZR&#8217;s) om de informatiepositie van de Belastingdienst te versterken.</p>
+
+
+
+<p class="wp-block-paragraph">Ook bevat het voorstel diverse technische vereenvoudigingen, zoals het vervallen van verouderde vrijstellingen en overgangsregelingen, samenvoeging van de eerste schijven in de energiebelasting, vereenvoudiging van de belastingvermindering energiebelasting, aanpassing van de Kostenwet invordering rijksbelastingen en codificatie van beleidsregels voor de verbruiksbelasting van alcoholvrije dranken. Daarnaast worden enkele wijzigingen doorgevoerd voor de fiscale wetgeving op de BES-eilanden, waaronder uitbreiding van de overdrachtsbelasting naar economische eigendom en bepaalde aandelenoverdrachten. De meeste maatregelen hebben geen of beperkte budgettaire gevolgen en zijn vooral bedoeld om wetgeving te verduidelijken, administratieve lasten te verminderen en de uitvoerbaarheid voor Belastingdienst, Douane en belastingplichtigen te verbeteren.</p>
+
+
+
+<p class="wp-block-paragraph">Inwerkingtreding: beoogd per 1 januari 2028; voor enkele onderdelen geldt specifiek overgangsrecht of een afwijkend eerste toepassingsjaar (zoals de verlengde aangiftetermijn schenkbelasting die voor het eerst geldt voor schenkingen in 2027). De internetconsultatie staat open tot en met 10 september 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/fvw28/b1" type="link" id="https://www.internetconsultatie.nl/fvw28/b1" target="_blank" rel="noreferrer noopener">Ministerie van Financiën, 16 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-fiscale-verzamelwet-2028/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/pensioenberekening-e1741874157417.jpg" length="41476" type="image/jpeg" />	</item>
+		<item>
+		<title>Hoe wordt AI onderdeel van de dagelijkse fiscale praktijk?</title>
+		<link>https://www.taxence.nl/nieuws/hoe-wordt-ai-onderdeel-van-de-dagelijkse-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/nieuws/hoe-wordt-ai-onderdeel-van-de-dagelijkse-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165865</guid>
+
+					<description><![CDATA[Veel fiscale kantoren beschikken inmiddels over AI-tools. Toch blijft brede toepassing in de dagelijkse praktijk achter. Volgens Wim van Groningen, partner en directielid bij Lansigt accountants en belastingadviseurs, is dat geen technisch probleem.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Veel fiscale kantoren beschikken inmiddels over AI-tools. Toch blijft brede toepassing in de dagelijkse praktijk achter. Volgens Wim van Groningen, partner en directielid bij Lansigt accountants en belastingadviseurs, is dat geen technisch probleem.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In de podcast <strong><em>AI-adoptie in de fiscale praktijk: van experiment naar werkpraktijk</em></strong> van <strong>Lefebvre Sdu</strong> legt hij uit dat succesvolle AI-adoptie vooral een gedragsvraagstuk is. &#8220;Je kunt een goede tool aanschaffen, maar als medewerkers niet weten wanneer, hoe en waarvoor ze die moeten gebruiken, verandert er weinig.&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">Volgens Van Groningen begint AI-adoptie daarom niet met het uitrollen van software, maar met begeleiding in de dagelijkse praktijk. Medewerkers moeten kunnen experimenteren, ervaringen delen en leren waar AI waarde toevoegt én waar vaktechnisch oordeel noodzakelijk blijft. Juist die combinatie zorgt ervoor dat AI onderdeel wordt van het werkproces, in plaats van een losse proef.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast ziet Van Groningen dat AI het werk van fiscalisten niet vervangt. Integendeel: nu AI steeds uitgebreidere analyses kan maken, wordt het belangrijker om de uitkomsten kritisch te beoordelen en te toetsen aan de fiscale praktijk.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Benieuwd hoe Lansigt deze aanpak in de praktijk toepast en welke lessen andere fiscale kantoren daaruit kunnen trekken? Luister dan naar de podcast <em>AI-adoptie in de fiscale praktijk: van experiment naar werkpraktijk</em> van Lefebvre Sdu.</strong></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-a63b6e72-97cd-4a52-a69b-d4328fe54489" href="https://www.sdu.nl/lp/legaltax/5srm4t" target="_blank" rel="noopener noreferrer"><span>Luister naar de podcast</span></a></div>
+<style class="advgb-styles-renderer">.advgbbtn-a63b6e72-97cd-4a52-a69b-d4328fe54489{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-a63b6e72-97cd-4a52-a69b-d4328fe54489:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-a63b6e72-97cd-4a52-a69b-d4328fe54489 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/hoe-wordt-ai-onderdeel-van-de-dagelijkse-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/07/taxence-beeld-podcast-ai-adoptie-fiscale-praktijk-700-x-394-px.png" length="227475" type="image/png" />	</item>
+		<item>
+		<title>Stoomcursus AI voor Fiscale professionals</title>
+		<link>https://www.taxence.nl/agenda/stoomcursus-ai-voor-fiscale-professionals-2/</link>
+					<comments>https://www.taxence.nl/agenda/stoomcursus-ai-voor-fiscale-professionals-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 13:16:09 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[AI & Tax Technology]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<category><![CDATA[Verdiepingscursussen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165731</guid>
+
+					<description><![CDATA[Ontwikkel je van AI-starter tot AI-pro in één dag LET OP: LAPTOP MEENEMEN Generatieve AI biedt fiscale professionals ongekende kansen om efficiënter, nauwkeuriger en innovatiever te werken. Deze complete Fiscale AI-dag biedt je zowel de essentiële basis als de strategische verdieping waarmee je door een optimale en veilige inzet van AI jouw productiviteit naar een<a class="read-more" href="https://www.taxence.nl/agenda/stoomcursus-ai-voor-fiscale-professionals-2/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Ontwikkel je van AI-starter tot AI-pro in één dag</p>
+<p>LET OP: LAPTOP MEENEMEN</p>
+<p>Generatieve AI biedt fiscale professionals ongekende kansen om efficiënter, nauwkeuriger en innovatiever te werken. Deze complete Fiscale AI-dag biedt je zowel de essentiële basis als de strategische verdieping waarmee je door een optimale en veilige inzet van AI jouw productiviteit naar een hoger niveau tilt.&nbsp; Deze cursus is exclusief ontwikkeld voor Lefebvre Sdu Licent Academy met een focus op de dagelijkse uitdagingen binnen de aangifte- en adviespraktijk.&nbsp;</p>
+<p><strong>Verhoog je productiviteit zonder in te leveren op kwaliteit en veiligheid</strong><br />In de ochtend maak je kennis met de mogelijkheden generatieve AI biedt voor de fiscale praktijk en juiste generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.</p>
+<p>Met deze basiskennis ga je je in de middag verder verdiepen met geavanceerde prompttechnieken. Je krijgt inzicht in de werking en mogelijkheden van AI-agents voor procesoptimalisatie en automatisering van fiscale werkzaamheden. Ook leer je hoe diverse generatieve AI-tools (GenIA L, ChatGPT, Claude en Copilot) optimaal inzet en combineert bij het doen van onderzoek, opstellen, controleren en verbeteren van fiscale documenten en klantcommunicatie.</p>
+<p><strong>Veilig &amp; verantwoord</strong><br />Uiteraard leer je alles binnen de kaders van relevante wet- en regelgeving als de EU AI Act en de AVG toe te passen. Zorg dat je risico’s als datalekken voorkomt en ethische verantwoord gebruik maakt van AI.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk</strong></p>
+<p><strong>Effectief prompten</strong>: <em>Weet hoe je met slimme en gerichte prompts betere antwoorden krijgt van AI-tools;</em><br />
+<strong>Slimme combinatie van AI-tools</strong>: <em>Ontdek hoe je diverse AI-tools als ChatGPT, Copilot, Claude, Perplexity en GenIA-L slim combineert;</em><br />
+<strong>AI-agents</strong>:<em> Ken de basistechnieken voor het inzetten van en werken met AI-agents voor repetitieve taken.</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>De stoomcursus is ontwikkeld voor professionals in de fiscale sector die zich in één dag van een relatieve starter met AI willen ontwikkelen tot een geavanceerde gebruiker van diverse AI-tools/mogelijkheden toegespitst op hun eigen werkgebied.</p>
+<p><strong>Studiemateriaal<br /></strong>Tijdens de cursus ontvang je geheel kosteloos het boek&nbsp;<a href="https://www.sdu.nl/shop/ai-in-de-fiscale-praktijk.html">AI in de fiscale praktijk</a>, t.w.v. € 88,99,&nbsp;van trainer en auteur Ron Meijer. Dit praktische handboek staat boordevol AI‑voorbeelden, casussen en direct inzetbare prompts die je meteen kunt toepassen in jouw eigen fiscale werk.&nbsp;</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p>Wil je eerst starten met een AI-basistraining of juist alleen de verdiepende AI-training volgen? Dat kan ook. Kijk <a href="https://www.licentacademy.nl/tax-technology">hier</a> voor de data waarop de basis- of verdiepende AI-training plaatsvinden.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/verdiepingscursussen/3064/fiscale-ai-dag" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/stoomcursus-ai-voor-fiscale-professionals-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Belastingrente Vpb verlaagd na arrest Hoge Raad over rentepercentage</title>
+		<link>https://www.taxence.nl/nieuws/belastingrente-vpb-verlaagd-na-arrest-hoge-raad-over-rentepercentage/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingrente-vpb-verlaagd-na-arrest-hoge-raad-over-rentepercentage/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 05:31:50 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165739</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland verlaagt de belastingrente voor de vennootschapsbelasting omdat het wettelijke minimumtarief van 8% en 10% onverbindend is. De rente moet worden berekend volgens het algemene belastingrentepercentage.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland verlaagt de belastingrente voor de vennootschapsbelasting omdat het wettelijke minimumtarief van 8% en 10% onverbindend is. De rente moet worden berekend volgens het algemene belastingrentepercentage.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv krijgt begin 2024 een voorlopige aanslag vennootschapsbelasting 2021 opgelegd. Daarbij brengt de inspecteur € 33.927 aan belastingrente in rekening, berekend tegen 8% en vanaf 1 januari 2024 tegen 10%. De bv verzoekt om herziening van de rentebeschikking. Volgens haar is het Besluit belasting- en invorderingsrente onverbindend, omdat de daarin opgenomen rentepercentages voor de vennootschapsbelasting in strijd zijn met het evenredigheidsbeginsel. Nadat de Hoge Raad hierover arrest heeft gewezen, moet de rechtbank beoordelen welke belastingrente alsnog verschuldigd is.</p>
+
+
+
+<h3 class="wp-block-heading">Rente opnieuw berekend</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank sluit aan bij het arrest van de Hoge Raad van 16 januari 2026. Daarin is geoordeeld dat het minimumpercentage voor de belastingrente in de vennootschapsbelasting onverbindend is. Daarom moet het algemene belastingrentepercentage worden toegepast. Voor de periode van 1 juli 2022 tot en met 31 december 2023 geldt een rente van 4% en voor de periode van 1 januari 2024 tot en met 17 februari 2024 een rente van 4,5%. De rechtbank berekent de belastingrente daarom zelf opnieuw.</p>
+
+
+
+<p class="wp-block-paragraph">De rechtbank verlaagt de belastingrente van € 33.927 naar € 16.797. Daarmee volgt zij rechtstreeks de lijn van de Hoge Raad.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-30f?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 30f</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-30hb?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 30hb AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_3556" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 31-03-2026, ECLI:NL:RBNHO:2026:3556, HAA 24/7969 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingrente-vpb-verlaagd-na-arrest-hoge-raad-over-rentepercentage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/rente-lager.jpg" length="27360" type="image/jpeg" />	</item>
+		<item>
+		<title>Overschrijding driemaandstermijn beëindigt recht op 30%-regeling</title>
+		<link>https://www.taxence.nl/nieuws/overschrijding-driemaandstermijn-beeindigt-recht-op-30-regeling/</link>
+					<comments>https://www.taxence.nl/nieuws/overschrijding-driemaandstermijn-beeindigt-recht-op-30-regeling/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 05:29:50 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165737</guid>
+
+					<description><![CDATA[Gerechtshof Amsterdam oordeelt dat de 30%-regeling niet kan worden voortgezet als tussen twee dienstverbanden meer dan drie maanden verstrijken. Dat de sollicitatieprocedure buiten de schuld van de werknemer vertraging oploopt, maakt dat niet anders.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof Amsterdam oordeelt dat de 30%-regeling niet kan worden voortgezet als tussen twee dienstverbanden meer dan drie maanden verstrijken. Dat de sollicitatieprocedure buiten de schuld van de werknemer vertraging oploopt, maakt dat niet anders.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een werknemer ontvangt vanaf 1 oktober 2021 de 30%-regeling. Nadat zijn dienstverband op 31 oktober 2022 eindigt, solliciteert hij vrijwel direct bij een nieuwe werkgever. De sollicitatieprocedure loopt echter vertraging op door omstandigheden aan de kant van de werkgever, waardoor de arbeidsovereenkomst pas op 16 februari 2023 tot stand komt. De werknemer en zijn nieuwe werkgever verzoeken om voortzetting van de 30%-regeling, maar de inspecteur wijst dat verzoek af omdat meer dan drie maanden zijn verstreken tussen beide dienstverbanden. In hoger beroep is in geschil of die afwijzing terecht is.</p>
+
+
+
+<h3 class="wp-block-heading">Driemaandstermijn is een harde grens</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur het verzoek terecht heeft afgewezen. De driemaandstermijn in het Uitvoeringsbesluit loonbelasting is bedoeld als objectieve maatstaf om vast te stellen dat een werknemer nog beschikt over schaarse specifieke deskundigheid. De regel biedt rechtszekerheid, ook al kan een vaste termijn in individuele gevallen hard uitpakken. Dat de vertraging in de sollicitatieprocedure volledig buiten de invloed van de werknemer ligt, doet volgens het hof niet ter zake. De regeling biedt geen ruimte om rekening te houden met de verwijtbaarheid van de termijnoverschrijding.</p>
+
+
+
+<h3 class="wp-block-heading">Geen ruimte voor uitzondering</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het evenredigheidsbeginsel slaagt niet. Volgens het hof is de besluitgever met de driemaandstermijn binnen de grenzen van zijn regelgevende bevoegdheid gebleven. Bovendien moet bij een tijdig verzoek alsnog aannemelijk worden gemaakt dat de werknemer kwalificeert als ingekomen werknemer. Dat is in deze procedure niet gebeurd. De uitspraak van de rechtbank blijft daarom in stand en de afwijzing van de voortzetting van de 30%-regeling blijft gehandhaafd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-31a-2-e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 31a, lid 2, onderdeel e, Wet LB 1964</a>, <a href="https://www.ndfr.nl/content/BWBR0002489-20260101#BWBR0002489-20260101_11169194" target="_blank" rel="noreferrer noopener">art. 10ea</a> en <a href="https://www.ndfr.nl/content/BWBR0002489-20260101#BWBR0002489-20260101_11169224" target="_blank" rel="noreferrer noopener">art. 10ed UBLB</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_1784" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 21-04-2026, ECLI:NL:GHAMS:2026:1784, 25/846 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/overschrijding-driemaandstermijn-beeindigt-recht-op-30-regeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/personeel-animatie.jpg" length="33494" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Van vestigingsland naar transitieland: fiscale onvoorspelbaarheid en gebrek aan voortvarendheid ondermijnen het vestigingsklimaat</title>
+		<link>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-van-vestigingsland-naar-transitieland-fiscale-onvoorspelbaarheid-en-gebrek-aan-voortvarendheid-ondermijnen-het-vestigingsklimaat/</link>
+					<comments>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-van-vestigingsland-naar-transitieland-fiscale-onvoorspelbaarheid-en-gebrek-aan-voortvarendheid-ondermijnen-het-vestigingsklimaat/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165790</guid>
+
+					<description><![CDATA[Nederland daalt op internationale concurrentieranglijsten en fiscale onzekerheid heeft daarin een dominante rol. In deze NTFR Opinie staan mr. D.P.E. de Kruijff en mr. N.I. Groenland stil bij onder andere de grillige aanpak rondom de box 3-wetgeving, de aanhoudende onduidelijkheid rond fondsen voor gemene rekening en nieuwe btw-complicaties voor financiële structuren, waarmee een structureel patroon<a class="read-more" href="https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-van-vestigingsland-naar-transitieland-fiscale-onvoorspelbaarheid-en-gebrek-aan-voortvarendheid-ondermijnen-het-vestigingsklimaat/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Nederland daalt op internationale concurrentieranglijsten en fiscale onzekerheid heeft daarin een dominante rol. In deze NTFR Opinie staan mr. D.P.E. de Kruijff en mr. N.I. Groenland stil bij onder andere de grillige aanpak rondom de box 3-wetgeving, de aanhoudende onduidelijkheid rond fondsen voor gemene rekening en nieuwe btw-complicaties voor financiële structuren, waarmee een structureel patroon van reactieve en gefragmenteerde fiscale wetgeving wordt geïllustreerd. Hoewel Europese en nationale initiatieven veelbelovend zijn, dekken incidentele verbeteringen de lading onvoldoende. Nederland heeft behoefte aan een samenhangend, voorspelbaar fiscaal beleid dat bij voorkeur wordt gedragen door een structurele dialoog tussen wetgever, uitvoering en praktijk.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <strong><a href="https://www.ndfr.nl/content/p1-1181967" type="link" id="https://www.ndfr.nl/content/p1-1181967" target="_blank" rel="noreferrer noopener">NDFR</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-van-vestigingsland-naar-transitieland-fiscale-onvoorspelbaarheid-en-gebrek-aan-voortvarendheid-ondermijnen-het-vestigingsklimaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/07/Taxence-Header-14.jpg" length="74649" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt vaste kostenvergoeding uitzendkrachten</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-vaste-kostenvergoeding-uitzendkrachten/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-vaste-kostenvergoeding-uitzendkrachten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 04:14:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165829</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen of een door de Belastingdienst aan een werkgever verleende goedkeuring over een vaste kostenvergoeding kan worden toegepast door de uitzendonderneming die uitzendkrachten ter beschikking stelt aan de betreffende werkgever.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen of een door de Belastingdienst aan een werkgever verleende goedkeuring over een vaste kostenvergoeding kan worden toegepast door de uitzendonderneming die uitzendkrachten ter beschikking stelt aan de betreffende werkgever.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een uitzendonderneming stelt een uitzendkracht ter beschikking aan een inlener. Deze inlener betaalt aan eigen werknemers een vaste kostenvergoeding. De Belastingdienst neemt het standpunt in dat de gehele vaste kostenvergoeding onbelast is, omdat een deel gericht vrijgesteld is in de zin van de Wet LB 1964 en een deel kan worden aangemerkt als een vergoeding voor intermediaire kosten. De Belastingdienst en de inlener hebben dit vastgelegd in een afspraak. De uitzendonderneming is van plan om aan de ter beschikking gestelde uitzendkracht de door de Belastingdienst goedgekeurde kostenvergoeding te betalen.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan de uitzendonderneming de tussen de inlener en Belastingdienst gemaakte afspraak over de fiscale behandeling van de vaste kostenvergoeding toepassen op de vaste kostenvergoeding die de uitzendonderneming betaalt aan de uitzendkracht?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, dit is niet zonder meer mogelijk. Als twee partijen een afspraak maken, valt een derde partij niet onder de reikwijdte van die afspraak. De uitzendonderneming kan de kosten wél overeenkomstig de afspraak tussen de inlener en de Belastingdienst onbelast vergoeden als zij aannemelijk maakt dat de uitzendkracht werkzaam is in een gelijke functie als de werknemer van de inlener en dat de uitzendkracht vanuit kostenoogpunt in gelijke omstandigheden verkeert als de werknemer van de inlener.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-vaste-kostenvergoeding-uitzendkrachten-gepubliceerd/" type="link" id="https://kennisgroepen.belastingdienst.nl/standpunt-vaste-kostenvergoeding-uitzendkrachten-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-vaste-kostenvergoeding-uitzendkrachten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Bouw-uitzendwerk.jpg" length="39237" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt boekwaarde-eis</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-boekwaarde-eis/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-boekwaarde-eis/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2026 04:02:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165824</guid>
+
+					<description><![CDATA[De Kennisgroep winstbepaling heeft een standpunt ingenomen over de boekwaarde-eis van artikel 3.54, tweede lid, Wet Inkomstenbelasting 2001.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep winstbepaling heeft een standpunt ingenomen over de boekwaarde-eis van artikel 3.54, tweede lid, Wet Inkomstenbelasting 2001.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In januari van jaar nul investeert belastingplichtige in een aantal kort-afschrijfbare bedrijfsmiddelen. In december van datzelfde jaar wordt door X BV, een bedrijfspand verkocht en geleverd aan een derde. De verkoopprijs van het bedrijfspand bedraagt € 30 miljoen. De boekwaarde van het pand bedraagt € 15 miljoen. Voor het verschil tussen de verkoopprijs en de boekwaarde van het pand wordt een herinvesteringsreserve gevormd. Belastingplichtige heeft de intentie om de HIR in de nabije toekomst aan te wenden voor nieuw te verwerven kort-afschrijfbare bedrijfsmiddelen.</p>
+
+
+
+<p class="wp-block-paragraph">In de aangifte over jaar twee heeft X BV een gedeelte van de gevormde HIR aangewend ten aanzien een aantal nieuw verworven kort-afschrijfbare bedrijfsmiddelen (herinvesteringen). Voor de boekwaarde-eis, heeft X BV rekening gehouden met de vanaf januari van jaar nul gedane investeringen in kort-afschrijfbare bedrijfsmiddelen.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is het in casu voor de boekwaarde-eis van artikel 3.54, tweede lid, Wet IB 2001 toegestaan om aanschaffings- of voortbrengingskosten van herinvesteringen in jaar nul, mee te tellen bij de boekwaarde-eis in jaar twee?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja. De HIR kan naar keuze van belastingplichtige worden afgeboekt op investeringen in kort-afschrijfbare bedrijfsmiddelen die hebben plaatsgevonden vóór en na de vervreemding van een bedrijfsmiddel in jaar nul, met inachtneming van de driejaarstermijn van art. 3.54, eerste lid, Wet IB 2001. Naar keuze van belastingplichtige tellen die investeringen in het jaar van vervreemding mee voor de boekwaarde-eis.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-boekwaarde-eis-van-artikel-3-54-tweede-lid-wet-inkomstenbelasting-2001/" type="link" id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-boekwaarde-eis-van-artikel-3-54-tweede-lid-wet-inkomstenbelasting-2001/" target="_blank" rel="noreferrer noopener">Belastingdienst, 13 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-boekwaarde-eis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/04/Kantoor-leeg2.jpg" length="35965" type="image/jpeg" />	</item>
+	</channel>
+</rss>

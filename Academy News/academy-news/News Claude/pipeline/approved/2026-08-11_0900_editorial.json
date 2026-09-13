@@ -1,0 +1,377 @@
+{
+  "date": "2026-08-11",
+  "release": "2026-08-11_0900",
+  "items": [
+    {
+      "slug": "2026-08-11-ee-qa-dta-force",
+      "title": "Соглашение об избежании двойного налогообложения между Эстонией и Катаром вступило в силу",
+      "caption": "Налоговое соглашение об избежании двойного налогообложения между Эстонией и Катаром вступило в силу 26 июня 2026 года и применяется к налогам на доходы и прибыль обеих стран. В частности, ставка налога у источника на дивиденды снижена до 0%, если бенефициарным собственником является компания.\n\nИсточник: https://regfollower.com/estonia-qatar-income-tax-treaty-enters-into-force/\n\n#СИДН #Эстония #дивиденды #международноеПраво #налогУисточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Эстония",
+      "act": "Публикация Regulatory Follower",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/estonia-qatar-income-tax-treaty-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 intl_regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-ru-vs-aircraft-reconfiguration",
+      "title": "Реконфигурация воздушного судна может повлечь наложение таможенных платежей",
+      "caption": "Верховный Суд РФ в деле авиакомпании IFLY (AIRBUS A330-243) признал увеличение числа пассажирских мест с 237 до 345 коммерческой модернизацией, а не техническим обслуживанием. Это признано нарушением условий условного освобождения судна при временном ввозе и повлекло начисление таможенных платежей.\n\nИсточник: https://vsrf.ru/press_center/news/36244/\n\nНе является налоговой консультацией.\n\n#Россия #ФНС #налоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Верховного Суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vsrf.ru/press_center/news/36244/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 ru_vs confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-11-nl-bbbb-dac8-dac9-pillar2",
+      "title": "Изменение Указа об административных штрафах налоговой службы Нидерландов: новые правила для DAC8, DAC9 и минимального налога",
+      "caption": "В Нидерландах с 8 августа 2026 года вступили в силу изменения в BBBB, вводящие новые штрафы за непредоставление информации по директивам DAC8 (криптоактивы, штраф до €1,1 млн) и DAC9 (минимальный налог). При этом для Wet минимального налога 2024 до 31 октября 2026 года введен льготный период без штрафов.\n\nИсточник: https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/\n\n#DAC #Pillar2 #Нидерланды #минимальныйНалог #налоги #обменИнформацией #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "обмен информацией",
+      "jurisdictions": "Нидерланды",
+      "act": "Материал nl_taxence",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 nl_taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-nl-tax-pillar2-update",
+      "title": "Обновление налоговой службы Нидерландов по Закону о минимальном налоге",
+      "caption": "Налоговая служба Нидерландов 10 августа 2026 года обновила руководство «Вопросы и ответы» по минимальному налогу (Pillar 2) для групп с оборотом более €750 млн. Разъяснены правила начисления процентов по налогам, штрафов и порядка подачи возражений.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/update-fiscus-over-wet-minimumbelasting/\n\n#Pillar2 #Нидерланды #минимальныйНалог #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение в Нидерландах",
+      "jurisdictions": "Нидерланды",
+      "act": "Материал nl_taxlive",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/update-fiscus-over-wet-minimumbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 nl_taxlive confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-nl-box3-toeslagen-deadline",
+      "title": "Неблагоприятное распределение активов в Box 3 для субсидий не продлевает срок подачи жалобы",
+      "caption": "Суд Гелдерланда (Нидерланды) постановил, что пропуск срока подачи возражений на налоговые начисления по Box 3 за 2023 год не может быть оправдан неблагоприятным влиянием распределения имущества на получение социальных пособий. Поскольку начисления вступили в силу, их уменьшение невозможно.\n\nИсточник: https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/\n\n#Нидерланды #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение в Нидерландах",
+      "jurisdictions": "Нидерланды",
+      "act": "Материал nl_taxence",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 nl_taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-nl-vpb-pension-exemption",
+      "title": "Позиция налоговых органов Нидерландов по освобождению пенсионных фондов от корпоративного налога",
+      "caption": "Налоговые экспертные группы (экспертные группы) Нидерландов в августе 2026 года подтвердили, что введение минимального возраста или размера заработной платы для участия в пенсионной программе не препятствует применению освобождения от корпоративного налога (Vpb) иностранным пенсионным фондом.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-pensioenvrijstelling-vpb-2/\n\n#Нидерланды #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение в Нидерландах",
+      "jurisdictions": "Нидерланды",
+      "act": "Материал nl_taxence",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-pensioenvrijstelling-vpb-2/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 nl_taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-nl-box3-heffingvrij-vermogen",
+      "title": "Необлагаемый лимит активов не уменьшает фактическую доходность в Box 3",
+      "caption": "Налоговые органы Нидерландов разъяснили, что при расчете налога на основе фактического дохода (фактическая доходность) по Box 3 в рамках механизма против / вместо применения повышенных ставок, необлагаемый налогом минимум (необлагаемый лимит) не вычитается. Это может сделать стандартный расчет более выгодным для небольших портфелей.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/heffingvrij-vermogen-niet-in-mindering-op-werkelijk-rendement-box-3/\n\n#Нидерланды #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение в Нидерландах",
+      "jurisdictions": "Нидерланды",
+      "act": "Материал nl_taxlive",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/heffingvrij-vermogen-niet-in-mindering-op-werkelijk-rendement-box-3/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 nl_taxlive confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-fr-withholding-tax-deadline",
+      "title": "Франция вводит стандартный срок для подачи заявлений о возврате налога у источника",
+      "caption": "Во Франции опубликован Декрет № 2026-692 от 27 июля 2026 года, устраняющий сокращенный срок давности для подачи заявлений на возврат налога у источника (налог у источника tax). Изменение следует за решением Государственного совета Франции № 500909 и уравнивает сроки для всех налогоплательщиков.\n\nИсточник: https://regfollower.com/france-adopts-standard-deadline-for-withholding-tax-claims/\n\n#Евространы #дивиденды #налогУисточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог у источника",
+      "jurisdictions": "Евространы",
+      "act": "Публикация Regulatory Follower",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/france-adopts-standard-deadline-for-withholding-tax-claims/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 intl_regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-tw-withholding-tax-p2p",
+      "title": "Тайвань выпустил разъяснение по налогу у источника для P2P-платформ",
+      "caption": "Министерство финансов Тайваня 6 августа 2026 года выпустило разъяснение, согласно которому операторы P2P-платформ обязаны удерживать налог на доходы в виде процентов, выплачиваемых кредиторам, если они осуществляют трансфер кредитных средств. Операторы обязаны соблюдать требования по удержанию и отчетности.\n\nИсточник: https://regfollower.com/taiwan-issues-withholding-tax-ruling-for-p2p-platforms/\n\n#дивиденды #налогУисточника #налоговыеРазъяснения #рулинги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые разъяснения",
+      "jurisdictions": "—",
+      "act": "Публикация Regulatory Follower",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/taiwan-issues-withholding-tax-ruling-for-p2p-platforms/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 intl_regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-11-rs-ao-dta-ratification",
+      "title": "Народная скупщина Сербии рассматривает законопроект о ратификации налогового соглашения с Анголой",
+      "caption": "Народная скупщина Сербии рассматривает законопроект о ратификации соглашения об избежании двойного налогообложения с Анголой, подписанного 9 июня 2026 года в ходе визита президента Анголы в Белград. Документ направлен на устранение налоговых барьеров для ведения бизнеса и предотвращение уклонения от уплаты налогов.\n\nИсточник: https://regfollower.com/serbia-national-assembly-reviews-ratification-of-tax-treaty-with-angola/\n\n#СИДН #Сербия #международноеПраво #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Сербия",
+      "act": "Публикация Regulatory Follower",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/serbia-national-assembly-reviews-ratification-of-tax-treaty-with-angola/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 09:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 09:00 cycle",
+        "evidence": "HTTP 200 intl_regfollower confirmed"
+      }
+    }
+  ]
+}

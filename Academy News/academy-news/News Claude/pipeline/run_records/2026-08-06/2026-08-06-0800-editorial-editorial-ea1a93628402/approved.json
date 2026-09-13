@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-06",
+  "release": "2026-08-06-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-08-06-ru-fns-proaktivnye-lgoty",
+      "title": "ФНС России полностью переходит к проактивному формату предоставления льгот и налоговых вычетов",
+      "caption": "Федеральная налоговая служба объявила о полном переходе на проактивный режим: налогоплательщики будут получать льготы и вычеты автоматически, без подачи заявлений, на основе данных, которыми располагает ФНС.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40522-fns_polnostyu_perekhodit_k_proaktivnomu_formatu_predostavleniya_lgot_i_vychetov\n\n#ФНС #льготы #вычеты #цифровизация #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Министерства финансов России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40522-fns_polnostyu_perekhodit_k_proaktivnomu_formatu_predostavleniya_lgot_i_vychetov"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 minfin.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-minfin-fns-zakupki",
+      "title": "Минфин России внёс в Правительство законопроект об использовании сервисов ФНС при осуществлении закупок",
+      "caption": "Министерство финансов направило в Правительство РФ законопроект, предусматривающий обязательное использование сервисов оценки ФНС России при проведении закупок в целях снижения рисков взаимодействия с ненадёжными контрагентами.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40519-minfin_rossii_vnes_v_pravitelstvo_rf_zakonoproekt_ob_ispolzovanii_servisov_otsenki_fns_rossii_pri_osushchestvlenii_zakupok\n\n#Минфин #ФНС #закупки #законопроект #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Законодательная инициатива Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40519-minfin_rossii_vnes_v_pravitelstvo_rf_zakonoproekt_ob_ispolzovanii_servisov_otsenki_fns_rossii_pri_osushchestvlenii_zakupok"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 minfin.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-fns-moscow-lgoty-roundtable",
+      "title": "Московские налоговики разъяснили предпринимателям действующие налоговые льготы на круглом столе",
+      "caption": "Специалисты УФНС по г. Москве приняли участие в круглом столе, организованном для субъектов малого и среднего бизнеса, где разъяснили актуальные налоговые льготы и порядок их применения.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16640280/\n\n#ФНС #льготы #МСП #Москва #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Мероприятие УФНС по г. Москве",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16640280/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-nl-eu-tax-sovereignty",
+      "title": "Нидерланды: подрывает ли европейский план налоговый суверенитет страны?",
+      "caption": "Нидерландские налоговые эксперты обсуждают, не угрожает ли новый план ЕС по гармонизации налогообложения фискальному суверенитету Нидерландов и не лишит ли страну возможности самостоятельно формировать налоговую политику.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/zet-europees-plan-de-nederlandse-soevereiniteit-op-belastinggebied-onder-druk/\n\n#Нидерланды #ЕС #налоговыйсуверенитет #гармонизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Аналитический материал TaxLive",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/zet-europees-plan-de-nederlandse-soevereiniteit-op-belastinggebied-onder-druk/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxlive.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-nl-belastingplan-oracle",
+      "title": "Нидерланды: мнения об осеннем налоговом пакете — эксперты о предсказуемости бюджетного плана",
+      "caption": "Ведущие нидерландские налоговые аналитики дают оценку традиционному осеннему налоговому пакету: насколько предсказуемы его положения и какие изменения он готовит для бизнеса и физических лиц.\n\nИсточник: https://www.taxlive.nl/nl/documenten/opinie/uitvergroot/het-orakel-dat-het-belastingplan-heet/\n\n#Нидерланды #Belastingplan #налоговаяреформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Нидерланды",
+      "act": "Аналитическая колонка TaxLive",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/opinie/uitvergroot/het-orakel-dat-het-belastingplan-heet/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxlive.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-nl-ere-electric-car-employer",
+      "title": "Нидерланды уточнили налоговый режим компенсации работнику расходов на зарядку корпоративного электромобиля",
+      "caption": "Налоговая служба Нидерландов опубликовала разъяснение: компенсация сертификатов зарядки электромобиля, предоставленного работодателем, квалифицируется как доход в натуральной форме и облагается налогом.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/\n\n#Нидерланды #электромобиль #НДФЛ #работодатель #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxence.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-tr-nuclear-tax-exemption",
+      "title": "Турция ввела налоговые льготы для атомной энергетики и установила минимальные ставки акциза на транспортные средства",
+      "caption": "Турецкий парламент принял поправки, предусматривающие освобождение от налогов для проектов атомной энергетики, а также установление минимального порога ставок акцизного налога на транспортные средства.\n\nИсточник: https://regfollower.com/turkey-introduces-nuclear-energy-tax-exemptions-establishes-vehicle-excise-floors/\n\n#Турция #налоговыельготы #атомнаяэнергетика #акциз #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Турция",
+      "act": "Законодательные поправки Турции",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/turkey-introduces-nuclear-energy-tax-exemptions-establishes-vehicle-excise-floors/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ph-evis-ev-investment",
+      "title": "Филиппины запустили программу субсидирования производителей электромобилей с поддержкой до 40% инвестиций",
+      "caption": "Правительство Филиппин объявило о запуске программы стимулирования производства электромобилей (EVIS): производители смогут получить инвестиционную поддержку в размере до 40% от капиталовложений.\n\nИсточник: https://regfollower.com/philippines-launches-evis-programme-with-up-to-40-investment-support-for-ev-manufacturers/\n\n#Филиппины #электромобили #инвестиции #налоговыестимулы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Филиппины",
+      "act": "Правительственная программа Филиппин",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/philippines-launches-evis-programme-with-up-to-40-investment-support-for-ev-manufacturers/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-bd-income-tax-rebate",
+      "title": "Бангладеш предоставит скидку по подоходному налогу до 5% при подаче декларации до 30 сентября 2026 года",
+      "caption": "Налоговые органы Бангладеша ввели временную льготу: физические лица, подавшие налоговую декларацию до 30 сентября 2026 года, получат скидку на подоходный налог в размере до 5%.\n\nИсточник: https://regfollower.com/bangladesh-offers-up-to-5-income-tax-rebate-for-returns-filed-by-30-september-2026/\n\n#Бангладеш #НДФЛ #налоговаяльгота #декларация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Бангладеш",
+      "act": "Постановление налоговых органов Бангладеша",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bangladesh-offers-up-to-5-income-tax-rebate-for-returns-filed-by-30-september-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-by-vat-deferral-imports",
+      "title": "Беларусь продлила режим отсрочки уплаты НДС при ввозе товаров до середины 2027 года",
+      "caption": "Правительство Белоруссии продлило действие специального режима отсрочки уплаты НДС на импортируемые товары до 1 июля 2027 года, что позволит снизить нагрузку на оборотный капитал предприятий-импортёров.\n\nИсточник: https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/\n\n#Беларусь #НДС #импорт #отсрочка #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Беларусь",
+      "act": "Постановление Правительства Республики Беларусь",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

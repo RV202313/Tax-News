@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-21",
+  "release": "2026-08-21_16:00_editorial",
+  "items": [
+    {
+      "slug": "2026-08-21-nl-parking-tax-surcharge-limit",
+      "title": "Нидерланды установили максимальный предел сборов за принудительное взыскание парковочного налога",
+      "caption": "Суд в Нидерландах ограничил максимальный размер дополнительных сборов, которые муниципалитеты могут начислять при принудительном взыскании недоимки по местному налогу на парковку, защитив права налогоплательщиков от избыточных штрафов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/maximumbedrag-kosten-naheffingsaanslag-parkeerbelasting/\n\n#Нидерланды #МестныеНалоги #СудебноеРешение #НалоговыеСборы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов о лимитах сборов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/maximumbedrag-kosten-naheffingsaanslag-parkeerbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-se-minimum-topup-tax-amendments",
+      "title": "Швеция предложила изменения в закон о минимальном налоге для имплементации правил OECD",
+      "caption": "Правительство Швеции представило проект изменений в закон о минимальном доначисляемом налоге (Pillar Two). Цель поправок — интеграция согласованного в январе 2026 года пакета административных рекомендаций OECD (включая правила SIDE-BY-SIDE).\n\nИсточник: https://www.gov.se/\n\n#Швеция #МинимальныйНалог #PillarTwo #Законопроект #OECD #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Швеция",
+      "act": "Законопроект Правительства Швеции по поправкам в закон о минимальном налоге",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.se/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-mu-qdmtt-regulations-effective",
+      "title": "Маврикий утвердил правила внутреннего минимального доначисляемого налога QDMTT",
+      "caption": "Налоговые органы Маврикия опубликовали правила применения квалифицированного внутреннего минимального налога (QDMTT). Новые нормы признаются вступившими в силу задним числом с июля 2025 года для соблюдения стандартов Pillar Two.\n\nИсточник: https://regfollower.com/mauritius-publishes-qdmtt-regulations/\n\n#Маврикий #МинимальныйНалог #QDMTT #PillarTwo #Законодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Маврикий",
+      "act": "Постановление Налогового управления Маврикия о введении QDMTT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/mauritius-publishes-qdmtt-regulations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-kr-tax-reform-pillar-two-amendments",
+      "title": "Южная Корея представила поправки по внедрению правил Pillar Two в рамках реформы",
+      "caption": "Министерство экономики и финансов Республики Корея включило поправки по правилам глобального минимального налога (Pillar Two) в проект налоговой реформы. Изменения направлены на адаптацию корейского законодательства к последним стандартам OECD.\n\nИсточник: https://english.moef.go.kr/\n\n#ЮжнаяКорея #НалоговаяРеформа #PillarTwo #МинимальныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Республика Корея",
+      "act": "Проект налоговой реформы Министерства экономики и финансов Республики Корея",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://english.moef.go.kr/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Korea Gov Tax Reform publication"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-us-irs-foreign-tax-credit-regulations",
+      "title": "США: Минфин и IRS представили проект правил об иностранных налоговых зачетах",
+      "caption": "Министерство финансов США и Налоговая служба (IRS) опубликовали проект правил об иностранных налоговых зачетах (FOREIGN TAX CREDIT). Документ содержит правила перехода после изменений, внесенных налоговым законом OBBBA.\n\nИсточник: https://www.irs.gov/\n\n#США #IRS #МинфинСША #НалоговыйЗачет #OBBBA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налоговое право / налоговые зачеты",
+      "jurisdictions": "США",
+      "act": "Проект правил Министерства финансов США по зачетам",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.irs.gov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Federal Register Treasury publication"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-nl-innovation-box-effectiveness-report",
+      "title": "Нидерланды: Отчет о работе налогового режима INNOVATION BOX выявил концентрацию льгот",
+      "caption": "Анализ применения голландского льготного налогового режима INNOVATION BOX показал, что большая часть налоговых преимуществ распределяется среди ограниченного числа крупных ТНК. Это вызывает дискуссии о реформе условий предоставления льготы.\n\nИсточник: https://www.government.nl/\n\n#Нидерланды #НалоговыеЛьготы #INNOVATIONBOX #Инновации #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое стимулирование / корпоративный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Аналитический отчет Министерства финансов Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.government.nl/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Netherlands Gov Finance report"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-hungary-trusts-holding-period-abolished",
+      "title": "Венгрия отменит пятилетний период владения активами для освобождения трастов от налогов",
+      "caption": "Правительство Венгрии внесло поправки в правила налогообложения частных фондов и трастов. Предлагается полностью отменить обязательный пятилетний период владения для освобождения от налогов, что необходимо для получения финансирования RRF.\n\nИсточник: https://kormany.hu/\n\n#Венгрия #Трасты #Налогообложение #RRF #Реформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое законодательство / частные активы",
+      "jurisdictions": "Венгрия",
+      "act": "Законопроект Правительства Венгрии о поправках в правила владения активами",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kormany.hu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Hungary Gov announcement"
+      },
+      "score": 10.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-poland-estonian-cit-hidden-profits-ruling",
+      "title": "Польша разъяснила налогообложение «скрытой прибыли» в рамках эстонского CIT",
+      "caption": "Министерство финансов Польши представило подробные комментарии о порядке налогообложения скрытых выплат учредителям (скрытой прибыли) при применении режима эстонского CIT. Разъяснения призваны снизить риски переквалификации сделок.\n\nИсточник: https://www.gov.pl/web/finanse\n\n#Польша #ЭстонскийCIT #CIT #СкрытаяПрибыль #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / налоговый контроль",
+      "jurisdictions": "Польша",
+      "act": "Официальные разъяснения Министерства финансов Польши",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.pl/web/finanse"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Poland Gov CIT guidelines"
+      },
+      "score": 10.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-us-irs-backup-withholding-regulations",
+      "title": "США: IRS утвердила новые правила резервного удержания налога для платежных систем",
+      "caption": "Налоговая служба США (IRS) представила финальные правила резервного удержания налога (BACKUP WITHHOLDING) при проведении расчетов сторонними организациями. Правила уточняют обязанности операторов по проверке налоговых данных получателей.\n\nИсточник: https://www.irs.gov/\n\n#США #IRS #РезервноеУдержание #ПлатежныеСистемы #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / платежные транзакции",
+      "jurisdictions": "США",
+      "act": "Постановление Налоговой службы США о правилах BACKUP WITHHOLDING",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.irs.gov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Federal Register IRS final rule"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-eu-commission-simplification-cfc-mdr-globe",
+      "title": "Еврокомиссия готовит налоговые упрощения для групп, подпадающих под Pillar Two",
+      "caption": "Европейская комиссия обсуждает пакет упрощений, исключающий дублирование отчетности CFC и обязательного раскрытия информации (MDR) для мультинациональных групп, которые уже рассчитывают эффективную ставку налога по стандартам GLOBE.\n\nИсточник: https://ec.europa.eu/\n\n#Евросоюз #Еврокомиссия #Упрощение #CFC #MDR #GLOBE #PillarTwo #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE / налоговое администрирование",
+      "jurisdictions": "Европейский Союз",
+      "act": "Проект директивы Европейской комиссии по упрощению корпоративной отчетности",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "EC Tax Simplification draft"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-21"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "date": "2026-07-18",
+  "release": "2026-07-18-1700-editorial",
+  "items": [
+    {
+      "slug": "2026-07-18-kz-currency-repatriation",
+      "title": "Казахстан напомнил ВЭД-бизнесу о репатриации валютной выручки и крупных штрафах",
+      "caption": "КГД МФ РК 13 июля 2026 года напомнил участникам ВЭД, что по экспортно-импортным операциям нужно обеспечить репатриацию валютной выручки или возврат аванса при неисполнении контракта. В сообщении названы и цифры контроля за первое полугодие 2026 года: 1 116 протоколов по учетным номерам валютных договоров и 141 штраф по репатриации на 15,3 млрд тенге.\n\nПочему это важно: группам с трансграничными поставками в Казахстане нужно жестче контролировать сроки оплаты, допсоглашения и валютный учет, иначе риск быстро переходит в крупные административные санкции.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru\n\n#Казахстан #валютныйконтроль #ВЭД #репатриация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "валютный контроль,ВЭД,репатриация",
+      "jurisdictions": "Казахстан",
+      "act": "Публикация КГД МФ РК «Требования валютного законодательства», 13.07.2026",
+      "sources": [
+        {
+          "label": "КГД МФ РК",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru"
+        }
+      ],
+      "image_spec": {
+        "badge": "KZ FX Control",
+        "color_a": [8, 74, 116],
+        "color_b": [181, 152, 64]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Official KGD publication checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-nl-ch-residence-hr-1287",
+      "title": "Верховный суд Нидерландов вернул на пересмотр спор о treaty residence между Нидерландами и Швейцарией",
+      "caption": "Верховный суд Нидерландов 17 июля 2026 года по делу ECLI:NL:HR:2026:1287 отменил решение апелляции в части 2016-2017 годов: суд указал, что без данных о фактическом пребывании после середины 2016 года нельзя просто подтвердить налоговое резидентство Нидерландов и treaty residence по соглашению Нидерланды-Швейцария. Дело направлено в Gerechtshof Arnhem-Leeuwarden, причем бремя доказывания на этом участке прямо оставлено за инспекцией.\n\nПочему это важно: для споров о treaty residence и center of vital interests одних старых поведенческих данных может не хватить, особенно если спор идет по позднему периоду.\n\nСудебный материал. Этот обзор не является налоговой консультацией.\n\nИсточник: https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1287&return=DOC\n\n#Нидерланды #Швейцария #СИДН #налоговоерезидентство #суды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "СИДН,налоговое резидентство,суды",
+      "jurisdictions": "Нидерланды,Швейцария",
+      "act": "ECLI:NL:HR:2026:1287, 17.07.2026",
+      "sources": [
+        {
+          "label": "Rechtspraak",
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1287&return=DOC"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL-CH Treaty",
+        "color_a": [27, 69, 124],
+        "color_b": [129, 86, 60]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "court_decision",
+      "court": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Rechtspraak primary decision checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-nl-bpm-eu-costs-hr-1244",
+      "title": "Верховный суд Нидерландов снова поднял вопрос cost recovery в BPM-споре по авто из другой страны ЕС",
+      "caption": "Верховный суд Нидерландов 17 июля 2026 года по делу ECLI:NL:HR:2026:1244 рассмотрел BPM-начисление по подержанному автомобилю, ввезенному из другой страны ЕС, и отдельно зафиксировал, что в спорах, где доначисление успешно оспаривается из-за нарушения права ЕС, вопрос компенсации расходов нельзя сводить к автоматическому отказу во всех фактических издержках. В фабуле дела фигурировали и сниженная доначисленная BPM, и спор о пределах возмещения расходов и ущерба.\n\nПочему это важно: импортерам авто и их advisers по EU-law спорам стоит внимательнее заявлять процессуальные требования по cost recovery, а не ограничиваться только спором о сумме BPM.\n\nСудебный материал. Этот обзор не является налоговой консультацией.\n\nИсточник: https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1244&return=DOC\n\n#Нидерланды #ЕС #BPM #импорт #процессуальноеправо #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "ЕС,BPM,импорт,процессуальное право",
+      "jurisdictions": "Нидерланды,ЕС",
+      "act": "ECLI:NL:HR:2026:1244, 17.07.2026",
+      "sources": [
+        {
+          "label": "Rechtspraak",
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1244&return=DOC"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU Car BPM",
+        "color_a": [15, 58, 104],
+        "color_b": [123, 125, 47]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "court_decision",
+      "court": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Rechtspraak primary decision checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-cn-processing-trade-verification",
+      "title": "Китай напомнил: пропуск срока по免税核销 в processing trade ведет к VAT и consumption tax",
+      "caption": "Налоговая служба Liaoning 17 июля 2026 года напомнила, что при processing trade по схеме entrusted processing пропуск срока подачи на 免税核销 или отказ в таком зачете лишает льготы: заказчик должен доплатить VAT с суммы processing fee и, если применимо, consumption tax. Разъяснение прямо ссылается на Announcement No. 11 of 2026 Минфина КНР и STA.\n\nПочему это важно: экспортные цепочки, работающие через переработку давальческого сырья в Китае, должны жестко отслеживать closing documents, иначе налог возникает уже на стадии сервиса переработки.\n\nИсточник: https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171422.html\n\n#Китай #экспорт #VAT #consumptiontax #processingtrade #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экспорт,VAT,consumption tax,processing trade",
+      "jurisdictions": "Китай,Ляонин",
+      "act": "Liaoning STA article 171422, 17.07.2026",
+      "sources": [
+        {
+          "label": "Liaoning Tax",
+          "url": "https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171422.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Processing",
+        "color_a": [104, 31, 31],
+        "color_b": [176, 119, 48]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_faq",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Liaoning official FAQ checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-cn-early-export-refund-machinery",
+      "title": "Китай разрешил части производителей техники заявлять export refund до полного комплекта документов",
+      "caption": "Налоговая служба Liaoning 17 июля 2026 года разъяснила, что производитель транспортных средств и машин может заявить export VAT refund еще до полного сбора refund documents, если уже подписан экспортный контракт и соблюдены пять условий: статус general VAT taxpayer, непрерывная работа 2+ года, производственный цикл 1+ год, net assets свыше трехкратной суммы прошлогодних export tax refunds и чистая compliance history без tax evasion и fake invoices.\n\nПочему это важно: для крупных экспортеров тяжелого оборудования это открывает более ранний cash flow from refunds, но только при очень чистом compliance profile.\n\nИсточник: https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171420.html\n\n#Китай #экспорт #VATrefund #машиностроение #compliance #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экспорт,VAT refund,машиностроение,compliance",
+      "jurisdictions": "Китай,Ляонин",
+      "act": "Liaoning STA article 171420, 17.07.2026",
+      "sources": [
+        {
+          "label": "Liaoning Tax",
+          "url": "https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171420.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Export Refund",
+        "color_a": [114, 43, 20],
+        "color_b": [184, 141, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_faq",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Liaoning official FAQ checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-cn-export-relief-methods",
+      "title": "Китай разложил по моделям, когда экспорт идет по 免抵退税, а когда по 免退税",
+      "caption": "Налоговая служба Liaoning 17 июля 2026 года разложила по полочкам две модели export VAT relief из Announcement No. 11 of 2026: 免抵退税 для производителей, включая cross-border sales of services and intangibles, и 免退税 для foreign trade enterprises и других лиц, которые экспортируют товары либо перепродают купленные services или intangibles за рубеж.\n\nПочему это важно: китайским экспортерам и группам с mixed goods and services flows нужно сверить, по какой модели заявлять relief и как это повлияет на зачет input VAT и возврат денег.\n\nИсточник: https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171419.html\n\n#Китай #экспорт #VAT #services #intangibles #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экспорт,VAT,services,intangibles",
+      "jurisdictions": "Китай,Ляонин",
+      "act": "Liaoning STA article 171419, 17.07.2026",
+      "sources": [
+        {
+          "label": "Liaoning Tax",
+          "url": "https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171419.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Relief Model",
+        "color_a": [77, 31, 94],
+        "color_b": [151, 122, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_faq",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "Liaoning official FAQ checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-hs321-foreign-policies",
+      "title": "HMRC уточнила, где декларировать gains по foreign life insurance policies",
+      "caption": "HMRC 14 июля 2026 года обновила helpsheet HS321 по gains on foreign life insurance policies. В update history прямо добавлено, что такие gains нужно отражать в разделе Foreign налоговой декларации, а для paper filing - на supplementary pages SA106.\n\nПочему это важно: для владельцев offshore life policies и их advisers снижается риск подать gain не в тот раздел и получить лишние вопросы по Self Assessment.\n\nИсточник: https://www.gov.uk/government/publications/gains-on-foreign-life-insurance-policies-hs321-self-assessment-helpsheet/hs321-gains-on-foreign-life-insurance-policies-2026\n\n#Великобритания #offshore #страхование #SelfAssessment #foreignincome #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "offshore,страхование,Self Assessment,foreign income",
+      "jurisdictions": "Великобритания",
+      "act": "HS321 Gains on foreign life insurance policies, update 14.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/gains-on-foreign-life-insurance-policies-hs321-self-assessment-helpsheet/hs321-gains-on-foreign-life-insurance-policies-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Foreign Policy",
+        "color_a": [27, 57, 115],
+        "color_b": [77, 128, 97]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC HS321 update checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-offshore-reporting-funds",
+      "title": "HMRC обновила список approved offshore reporting funds",
+      "caption": "HMRC 14 июля 2026 года обновила официальный список Approved offshore reporting funds. Ведомство отдельно напоминает, что список обновляется ежемесячно и служит рабочей точкой для проверки reporting fund status по offshore funds.\n\nПочему это важно: инвесторам, wealth-структурам и advisers с offshore funds нужно сверять статус фонда до расчета UK tax on disposals и reportable income, потому что режим reporting fund напрямую влияет на налоговый профиль инвестора.\n\nИсточник: https://www.gov.uk/government/publications/approved-offshore-reporting-funds\n\n#Великобритания #offshorefunds #investmentfunds #UKtax #reportingfund #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "offshore funds,investment funds,UK tax,reporting fund",
+      "jurisdictions": "Великобритания",
+      "act": "Approved offshore reporting funds list, update 14.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/approved-offshore-reporting-funds"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Reporting Funds",
+        "color_a": [20, 70, 112],
+        "color_b": [110, 156, 84]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "list_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC reporting funds update checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-cross-border-reporting-downtime",
+      "title": "HMRC предупредила о weekend downtime сервиса для cross-border arrangement reporting",
+      "caption": "HMRC 14 июля 2026 года обновила страницу service availability для cross-border arrangement reporting и заранее предупредила о planned downtime: сервис недоступен с пятницы 17 июля 2026 года 17:00 до понедельника 20 июля 2026 года 07:15.\n\nПочему это важно: командам, которые подают DAC6-style disclosures в британский сервис, лучше не оставлять filing на выходные и заранее перестроить дедлайны и внутренние approval flows.\n\nИсточник: https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues\n\n#Великобритания #DAC6 #crossborder #reporting #taxcompliance #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "DAC6,cross-border,reporting,tax compliance",
+      "jurisdictions": "Великобритания",
+      "act": "Cross-border arrangement reporting service availability update, 14.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/cross-border-arrangement-reporting-service-availability-and-issues"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK DAC6 Service",
+        "color_a": [38, 52, 91],
+        "color_b": [149, 99, 64]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "service_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC service update checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-india-dcc-five-years",
+      "title": "Соглашение UK-India о социальных взносах вступило в силу с пятилетним detached worker rule",
+      "caption": "HMRC в Issue 145 Agent Update сообщила, что UK-India Double Contributions Convention entered into force 15 July 2026. Соглашение продлевает detached worker provision с 3 до 5 лет: временно направленные сотрудники могут продолжать платить social security contributions только в стране отправления при наличии valid certificate of coverage.\n\nПочему это важно: группам с мобильными командами UK-India это меняет cost model secondments и снижает риск двойных социальных взносов на более длинных командировках.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update#double\n\n#Великобритания #Индия #socialsecurity #globalmobility #secondment #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "social security,global mobility,secondment",
+      "jurisdictions": "Великобритания,Индия",
+      "act": "UK-India Double Contributions Convention, entered into force 15.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update#double"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK-India DCC",
+        "color_a": [31, 56, 111],
+        "color_b": [181, 120, 55]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "agreement_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC Agent Update 145 checked 2026-07-18"
+      }
+    }
+  ]
+}

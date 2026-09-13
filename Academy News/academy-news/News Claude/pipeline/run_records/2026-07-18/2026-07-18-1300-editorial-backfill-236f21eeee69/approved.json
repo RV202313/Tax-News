@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-18",
+  "release": "2026-07-18-1300-editorial",
+  "items": [
+    {
+      "slug": "2026-07-18-uk-foreign-pe-mandatory",
+      "title": "Великобритания сделает режим exemption для иностранных PE обязательным",
+      "caption": "HMRC 13 июля 2026 года вынесла в Finance Bill 2026-27 реформу foreign permanent establishment exemption: действующий выборный режим для прибыли и убытков иностранных постоянных представительств станет обязательным для Corporation Tax. Консультация по проекту открыта до 13 сентября 2026 года.\n\nПочему это важно: британским группам с зарубежными PE нужно заранее пересчитать модель использования branch losses, структуру владения и цену будущих реорганизаций.\n\nИсточник: https://www.gov.uk/government/publications/reform-of-the-foreign-permanent-establishment-exemption\n\n#Великобритания #PE #корпоративныеналоги #международноеналогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "PE,корпоративные налоги,международное налогообложение",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Reform of the foreign permanent establishment exemption, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/reform-of-the-foreign-permanent-establishment-exemption"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Foreign PE",
+        "color_a": [24, 58, 112],
+        "color_b": [94, 144, 102]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC policy paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-low-value-imports",
+      "title": "Великобритания отменяет льготу по пошлине для импорта до £135",
+      "caption": "HMRC 13 июля 2026 года опубликовала проект реформы low-value imports: для товаров стоимостью до £135 убирается действующая customs duty relief и вводится новый набор таможенных правил. Прямо названы затронутые стороны: sellers, online marketplaces, parcel operators, customs intermediaries и UK consumers.\n\nПочему это важно: трансграничной e-commerce модели в Великобританию придётся пересобрать распределение обязанностей, поток данных и pricing по мелким отправлениям.\n\nИсточник: https://www.gov.uk/government/publications/reforming-customs-rules-for-low-value-imports/reforming-the-customs-treatment-of-low-value-imports-into-the-uk\n\n#Великобритания #таможня #ecommerce #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,e-commerce,импорт",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Reforming the customs treatment of low value imports into the UK, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/reforming-customs-rules-for-low-value-imports/reforming-the-customs-treatment-of-low-value-imports-into-the-uk"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK LVI",
+        "color_a": [18, 76, 114],
+        "color_b": [171, 111, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC LVI policy paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-stt-modernisation",
+      "title": "Великобритания заменит Stamp Duty и SDRT единым Securities Transfer Tax",
+      "caption": "HMRC 13 июля 2026 года раскрыла модель Securities Transfer Tax (STT): это единый self-assessed налог на передачу ценных бумаг, который должен заменить Stamp Duty и Stamp Duty Reserve Tax. Правительство целится в запуск STT и цифрового портала в 2027 году, а переходные правила для старых сделок планирует сохранить на четыре года.\n\nПочему это важно: фондам, брокерам и группам с UK securities нужно готовить процессы под полный digital-first tax workflow вместо бумажной связки SD/SDRT.\n\nИсточник: https://www.gov.uk/government/publications/securities-transfer-tax-modernisation-of-the-stamp-taxes-on-shares-framework/modernisation-of-the-stamp-taxes-on-shares-framework-securities-transfer-tax\n\n#Великобритания #ценныебумаги #StampDuty #капитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "ценные бумаги,stamp duty,капитал",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Modernisation of the Stamp Taxes on Shares framework — Securities Transfer Tax, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/securities-transfer-tax-modernisation-of-the-stamp-taxes-on-shares-framework/modernisation-of-the-stamp-taxes-on-shares-framework-securities-transfer-tax"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK STT",
+        "color_a": [33, 63, 121],
+        "color_b": [106, 152, 93]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC STT paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-info-powers-crypto",
+      "title": "HMRC расширяет информационные полномочия на cryptoasset service providers",
+      "caption": "HMRC 13 июля 2026 года предложила реформу Schedule 36 и section 114 Finance Act 2008. В ней Financial Institution Notice прямо расширяется на cryptoasset service providers, а HMRC получает более чёткий доступ к налоговым данным в software, automated systems и cloud-based services. Отдельно министерство указывает, что эти же полномочия используются и для ответов зарубежным налоговым органам по international exchange of information agreements.\n\nПочему это важно: криптоплатформам, финтеху и международным группам стоит ждать более глубоких data requests и проверок цифрового trail по трансграничным операциям.\n\nИсточник: https://www.gov.uk/government/publications/reforming-information-powers-and-modernising-computer-records-law/reforming-civil-tax-information-and-inspection-powers-schedule-36-finance-act-2008andmodernisingthe-definitions-about-computer-records-s114-fina\n\n#Великобритания #криптоактивы #налоговыйконтроль #compliance #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль,криптоактивы,compliance",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Reforming civil tax information and inspection powers, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/reforming-information-powers-and-modernising-computer-records-law/reforming-civil-tax-information-and-inspection-powers-schedule-36-finance-act-2008andmodernisingthe-definitions-about-computer-records-s114-fina"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Info Powers",
+        "color_a": [20, 71, 117],
+        "color_b": [140, 96, 74]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC info powers paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-reward-scheme-wht",
+      "title": "HMRC будет удерживать 45% налога из reward payments информаторам",
+      "caption": "HMRC 13 июля 2026 года предложила удерживать Income Tax у источника по Strengthened Reward Scheme. Для информаторов, которые дают high-value information, а по делу удаётся взыскать больше £1.5 млн налога, reward может доходить до 30% дополнительно собранной суммы, но выплата пойдёт уже с удержанием по additional rate 45%.\n\nПочему это важно: сигнал жёсткий для схем tax avoidance/evasion, а для advisers и групп с UK-риском это ещё один индикатор усиления enforcement через финансовую мотивацию информаторов.\n\nИсточник: https://www.gov.uk/government/publications/withholding-of-income-tax-for-rewards-received-under-the-strengthened-reward-scheme/withholding-of-tax-for-rewards-received-under-the-strengthened-reward-scheme\n\n#Великобритания #налоговыйконтроль #taxevasion #HMRC #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль,anti-evasion,enforcement",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Withholding of tax for rewards received under the Strengthened Reward Scheme, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/withholding-of-income-tax-for-rewards-received-under-the-strengthened-reward-scheme/withholding-of-tax-for-rewards-received-under-the-strengthened-reward-scheme"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Rewards",
+        "color_a": [34, 52, 112],
+        "color_b": [152, 123, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC reward withholding paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-ogrl",
+      "title": "Великобритания вводит постоянный Oil and Gas Revenue Levy",
+      "caption": "HMRC 13 июля 2026 года опубликовала детали нового Oil and Gas Revenue Levy (OGRL). Новый постоянный levy будет включаться только в периоды высоких цен и брать 35% с части выручки от продажи нефти и газа сверх порогов $90 за баррель нефти и 90p за therm газа. Это идёт поверх Ring Fence Corporation Tax 30% и Supplementary Charge 10%, а сам OGRL должен заменить нынешний EPL после 31 марта 2030 года или раньше, если сработает ESIM.\n\nПочему это важно: upstream-группам и инвесторам в UKCS нужно заново считать cash flow, hedge policy и устойчивость проектов к ценовым скачкам.\n\nИсточник: https://www.gov.uk/government/publications/oil-and-gas-taxation-oil-and-gas-revenue-levy/oil-and-gas-revenue-levy-ogrl\n\n#Великобритания #нефтьигаз #corporatetax #энергетика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "энергетика,корпоративные налоги,upstream",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Oil and Gas Revenue Levy (OGRL), 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/oil-and-gas-taxation-oil-and-gas-revenue-levy/oil-and-gas-revenue-levy-ogrl"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK OGRL",
+        "color_a": [27, 69, 105],
+        "color_b": [167, 103, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC OGRL paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-deliberate-defaulters",
+      "title": "HMRC раскроет больше данных о deliberate defaulters и поднимет порог до £50,000",
+      "caption": "HMRC 13 июля 2026 года реформировала policy on publishing details of deliberate defaulters. Теперь ведомство хочет публиковать не только имя нарушителя, но и описание deliberate non-compliance, тип налога и штрафа, а также данные company officers по personal liability notices. Одновременно порог для публикации поднимается с £25,000 до £50,000 potential lost revenue, а новая планка должна заработать с ноября 2026 года.\n\nПочему это важно: для групп и их officers растёт репутационный риск налоговых нарушений, особенно там, где спор может перейти из corporate level на personal liability.\n\nИсточник: https://www.gov.uk/government/publications/publishing-details-of-deliberate-defaulters-reform/changes-to-the-publishing-details-of-deliberate-defaulters-policy\n\n#Великобритания #compliance #налоговыештрафы #officers #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "compliance,штрафы,personal liability",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Changes to the publishing details of deliberate defaulters policy, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/publishing-details-of-deliberate-defaulters-reform/changes-to-the-publishing-details-of-deliberate-defaulters-policy"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Defaulters",
+        "color_a": [43, 60, 117],
+        "color_b": [104, 148, 90]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "HMRC deliberate defaulters paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-lk-vat-nonresident-platforms",
+      "title": "Шри-Ланка ввела VAT для нерезидентов на электронных платформах",
+      "caption": "IRD Sri Lanka 13 июля 2026 года опубликовал notice по поправкам к Value Added Tax Act: с 1 июля 2026 года VAT распространяется на услуги, которые нерезидент поставляет через electronic platform клиентам в Шри-Ланке. Для регистрации заданы два порога: LKR 60 млн за любые последовательные 12 месяцев или LKR 15 млн за квартал. При этом VAT не начисляется, если получатель в Шри-Ланке уже зарегистрирован по VAT.\n\nПочему это важно: маркетплейсам, SaaS- и platform-бизнесу нужно быстро проверить nexus, местную регистрацию и контракты с B2B/B2C-клиентами.\n\nИсточник: https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/799/PN_VAT_2026-03_New_E.pdf\n\n#ШриЛанка #VAT #digitalservices #маркетплейсы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "VAT,digital services,нерезиденты",
+      "jurisdictions": "Шри-Ланка",
+      "act": "IRD Notice PN_VAT_2026-03_New_E, 13.07.2026",
+      "sources": [
+        {
+          "label": "IRD Sri Lanka",
+          "url": "https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/799/PN_VAT_2026-03_New_E.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "LK Platform VAT",
+        "color_a": [26, 77, 115],
+        "color_b": [171, 122, 69]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "IRD VAT notice checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-lk-prosecution-window",
+      "title": "Шри-Ланка запускает 30-дневное окно перед уголовным преследованием за tax non-compliance",
+      "caption": "IRD Sri Lanka 13 июля 2026 года опубликовал notice SEC/PN/IT/2026-04 о применении prosecution provisions из Inland Revenue (Amendment) Act No. 11 of 2026. Если налогоплательщик не зарегистрировался, не подал income tax return или annual statements, IRD сначала направит письменное предупреждение и даст 30 дней на исправление. После этого возможны summary trial, штраф до Rs. 400,000, тюремный срок до шести месяцев или обе меры сразу.\n\nПочему это важно: международным группам с local entities и работодателям в Шри-Ланке теперь опаснее держать незакрытые filing gaps и «спящие» налоговые файлы.\n\nИсточник: https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/800/SEC_PN_IT_2026-04_E.pdf\n\n#ШриЛанка #налоговыйконтроль #filing #compliance #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль,filing,compliance",
+      "jurisdictions": "Шри-Ланка",
+      "act": "IRD Notice SEC/PN/IT/2026-04, published 13.07.2026",
+      "sources": [
+        {
+          "label": "IRD Sri Lanka",
+          "url": "https://www.ird.gov.lk/en/Lists/Latest%20News%20%20Notices/Attachments/800/SEC_PN_IT_2026-04_E.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "LK Prosecution",
+        "color_a": [37, 63, 117],
+        "color_b": [119, 153, 86]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "IRD prosecution notice checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-oecd-gmt-impact",
+      "title": "OECD оценила первый год Global Minimum Tax без просадки инвестиций",
+      "caption": "OECD 15 июля 2026 года выпустила Economic Impact Assessment of the Global Minimum Tax. Организация оценивает, что средние jurisdiction-level effective tax rates вырастут на 2.8-3.7 п.п., в investment hubs — на 5.5-6.9 п.п., profit shifting сократится на 22.6-44.6%, а мировые поступления corporate income tax вырастут на 3.2-5.4% в год. Предварительные данные за 2024 год при этом не показали statistically significant снижения инвестиций или занятости у in-scope MNEs.\n\nПочему это важно: советам директоров и tax teams пора обновлять свои допущения по Pillar Two уже на фактических post-implementation данных, а не только на моделях.\n\nИсточник: https://www.oecd.org/en/about/news/announcements/2026/07/oecd-publishes-new-analysis-on-the-economic-impacts-of-the-global-minimum-tax.html\n\n#OECD #Pillar2 #BEPS #корпоративныеналоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar 2,BEPS,корпоративные налоги",
+      "jurisdictions": "OECD,глобально",
+      "act": "OECD Economic Impact Assessment of the Global Minimum Tax, 15.07.2026",
+      "sources": [
+        {
+          "label": "OECD",
+          "url": "https://www.oecd.org/en/about/news/announcements/2026/07/oecd-publishes-new-analysis-on-the-economic-impacts-of-the-global-minimum-tax.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "OECD GMT",
+        "color_a": [22, 74, 126],
+        "color_b": [154, 101, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "oecd_announcement",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex noon cycle",
+        "evidence": "OECD GMT announcement checked 2026-07-18"
+      }
+    }
+  ]
+}

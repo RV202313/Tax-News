@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-05",
+  "release": "2026-08-05-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-08-05-kz-norway-dta-protocol",
+      "title": "Казахстан одобрил подписание протокола об изменении налогового соглашения с Норвегией",
+      "caption": "Правительство Казахстана утвердило подписание протокола, вносящего изменения в соглашение об избежании двойного налогообложения с Норвегией в части обмена информацией и ставок удержания налога у источника.\n\nИсточник: https://regfollower.com/kazakhstan-government-approves-signing-of-amending-protocol-to-tax-treaty-with-norway/\n\n#Казахстан #СОДН #налоговоесоглашение #Норвегия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Казахстан / Норвегия",
+      "act": "Постановление Правительства Казахстана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-government-approves-signing-of-amending-protocol-to-tax-treaty-with-norway/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-advokatskie-usn",
+      "title": "ФНС России разъяснила право адвокатских палат на применение УСН",
+      "caption": "Налоговая служба опубликовала официальное разъяснение о праве адвокатских палат и адвокатских образований применять упрощённую систему налогообложения.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16641188/\n\n#ФНС #УСН #адвокаты #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16641188/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-usn-form",
+      "title": "В России вступила в силу обновлённая форма уведомления о применении УСН",
+      "caption": "С 31 июля 2026 года действует новая форма уведомления о переходе на упрощённую систему налогообложения. ФНС напоминает об обязательном использовании актуального бланка.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639382/\n\n#ФНС #УСН #форма #уведомление #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639382/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-fr-vat-audiobooks",
+      "title": "Франция пересматривает руководство по НДС для устройств с аудиокнигами после решения Государственного совета",
+      "caption": "Французская налоговая служба открыла консультации по обновлённому руководству об НДС на устройства для воспроизведения аудиокниг — изменения продиктованы прецедентным решением Государственного совета.\n\nИсточник: https://regfollower.com/france-consults-revised-vat-guidance-for-audiobook-devices-following-council-of-state-ruling/\n\n#Франция #НДС #аудиокниги #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Франция",
+      "act": "Консультационный документ налоговой службы Франции",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/france-consults-revised-vat-guidance-for-audiobook-devices-following-council-of-state-ruling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-nl-box3-liquiditeiten",
+      "title": "Нидерланды: корректировка избыточной ликвидности предприятия увеличивает налоговую базу box 3",
+      "caption": "Суд Нидерландов постановил, что избыточная ликвидность предприятия, выявленная при проверке, переносится на уровень владельца и включается в налоговую базу по box 3 — налогу на сбережения и инвестиции.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/correctie-overtollige-liquiditeiten-onderneming-leidt-tot-meer-box-3-vermogen/\n\n#Нидерланды #box3 #налогнаимущество #суд #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение нидерландского суда",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/correctie-overtollige-liquiditeiten-onderneming-leidt-tot-meer-box-3-vermogen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxlive.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-nl-tourist-tax-migrants",
+      "title": "Нидерланды: невзимание туристического сбора с трудовых мигрантов признано законной льготной политикой",
+      "caption": "Суд Нидерландов подтвердил, что освобождение трудовых мигрантов от туристического сбора муниципалитетами является проявлением благоприятной налоговой политики и не нарушает принципа равенства налогообложения.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/niet-heffen-toeristenbelasting-bij-arbeidsmigranten-vormt-begunstigend-beleid/\n\n#Нидерланды #туристическийсбор #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "местные налоги и сборы",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение нидерландского суда",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/niet-heffen-toeristenbelasting-bij-arbeidsmigranten-vormt-begunstigend-beleid/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxlive.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ar-kr-dta",
+      "title": "Аргентина и Республика Корея завершили переговоры о заключении соглашения об избежании двойного налогообложения",
+      "caption": "Аргентина и Южная Корея объявили о завершении переговоров по тексту двустороннего СОДН. Подписание договора ожидается в ближайшее время.\n\nИсточник: https://regfollower.com/argentina-korea-rep-of-conclude-income-tax-treaty-negotiations/\n\n#Аргентина #ЮжнаяКорея #СОДН #ДТА #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Аргентина / Южная Корея",
+      "act": "Совместное заявление сторон",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/argentina-korea-rep-of-conclude-income-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-in-apa-report",
+      "title": "Индия опубликовала отчёт об APA за 2025–2026 год с рекордным числом соглашений",
+      "caption": "CBDT Индии опубликовал ежегодный отчёт по соглашениям о предварительном ценообразовании (APA) за финансовый год 2025–2026 с рекордным числом заключённых договорённостей по трансфертному ценообразованию.\n\nИсточник: https://regfollower.com/india-publishes-25-26-apa-report-highlighting-record-agreements/\n\n#Индия #APA #ТЦО #CBDT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Индия",
+      "act": "Ежегодный отчёт CBDT по APA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/india-publishes-25-26-apa-report-highlighting-record-agreements/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-vn-bi-dta",
+      "title": "Вьетнам и Бурунди открыли переговоры о заключении соглашения об избежании двойного налогообложения",
+      "caption": "Вьетнам и Бурунди приступили к официальным переговорам о заключении двустороннего СОДН — первого подобного договора между двумя государствами.\n\nИсточник: https://regfollower.com/vietnam-burundi-advance-income-tax-treaty-negotiations/\n\n#Вьетнам #Бурунди #СОДН #ДТА #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Вьетнам / Бурунди",
+      "act": "Совместное заявление сторон",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/vietnam-burundi-advance-income-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-hr-tj-dta",
+      "title": "Хорватия и Таджикистан договорились начать переговоры о налоговом соглашении",
+      "caption": "Хорватия и Таджикистан заявили о намерении начать переговоры по заключению двустороннего СОДН, которое создаст основу для налогового сотрудничества двух стран.\n\nИсточник: https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/\n\n#Хорватия #Таджикистан #СОДН #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Хорватия / Таджикистан",
+      "act": "Совместное заявление сторон",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          10,
+          60,
+          110
+        ],
+        "color_b": [
+          220,
+          130,
+          30
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

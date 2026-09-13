@@ -1,0 +1,379 @@
+{
+  "date": "2026-08-14",
+  "release": "2026-08-14_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-14-nl-tax-transfer-shares",
+      "title": "Суд Нидерландов: подача декларации признана совместным заявлением о передаче доли бизнеса",
+      "caption": "Суд Нидерландов признал, что подача декларации по подоходному налогу за соответствующий год имеет юридическую силу совместного заявления участников о передаче существенной доли бизнеса родственнику.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/aangifte-ibpvv-geldt-als-gezamenlijk-doorschuifverzoek-aanmerkelijk-belang\n\nНе является налоговой консультацией.\n\n#Нидерланды #передачаБизнеса #налоговаяДекларация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/aangifte-ibpvv-geldt-als-gezamenlijk-doorschuifverzoek-aanmerkelijk-belang"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-nl-tax-annuity-refund",
+      "title": "Налоговая служба Нидерландов разъяснила правила учета возврата аннуитетных взносов в Боксе 3",
+      "caption": "Налоговое ведомство Нидерландов опубликовало официальную позицию по порядку отражения в Боксе 3 сумм возвращенных страховых взносов и вкладов в случае отмены или расторжения договоров аннуитетного страхования.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen\n\n#Нидерланды #Бокс3 #аннуитет #налогообложениеФизлиц #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-nl-tax-ruling-atr-000003",
+      "title": "Налоговая служба Нидерландов опубликовала анонимизированное соглашение ATR 000003",
+      "caption": "Опубликован текст предварительного налогового соглашения (ATR), регулирующего порядок применения налоговых льгот при выплате процентов по трансграничным долговым обязательствам холдинговой структуры.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000003\n\n#Нидерланды #налоговоеСоглашение #избежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое соглашение (ATR)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000003"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 belastingdienst confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-fns-gosuslugi-notifications",
+      "title": "Минфин России напомнил об упрощении получения налоговых уведомлений на Госуслугах",
+      "caption": "Министерство финансов РФ сообщило о вступлении в силу упрощенного порядка получения налоговых уведомлений и требований об уплате налогов через личный кабинет на едином портале государственных услуг.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40516-s_1_avgusta_uproshchaetsya_poryadok_polucheniya_nalogovykh_uvedomlenii_cherez_edinyi_portal_gosuslug\n\n#Россия #Минфин #Госуслуги #налоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40516-s_1_avgusta_uproshchaetsya_poryadok_polucheniya_nalogovykh_uvedomlenii_cherez_edinyi_portal_gosuslug"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 minfin confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-vs-property-donation-gift",
+      "title": "Верховный Суд РФ напомнил правила освобождения от НДФЛ при дарении недвижимости родственникам",
+      "caption": "Верховный Суд РФ подтвердил, что дарение жилых помещений между близкими родственниками освобождается от налога на доходы физических лиц, детально разъяснив требования к подтверждению степени родства сторон сделки.\n\nИсточник: https://vsrf.ru/press_center/news/35950\n\nНе является налоговой консультацией.\n\n#Россия #ВерховныйСуд #НДФЛ #дарениеНедвижимости #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Россия",
+      "act": "Определение Верховного Суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vsrf.ru/press_center/news/35950"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 vsrf confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-ru-vs-subsidiary-liability-tax",
+      "title": "Верховный Суд РФ: списание долга компании не защищает бенефициаров от ответственности",
+      "caption": "Верховный Суд РФ разъяснил, что прекращение требований ФНС к обанкротившейся компании из-за безнадежности взыскания не исключает возможности привлечения ее руководителей к субсидиарной ответственности.\n\nИсточник: https://vsrf.ru/press_center/news/35450\n\nНе является налоговой консультацией.\n\n#Россия #ВерховныйСуд #банкротство #субсидиарнаяОтветственность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Определение Верховного Суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vsrf.ru/press_center/news/35450"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 vsrf confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-us-fincen-bo-rules",
+      "title": "США: Финсеть отменила требование о раскрытии бенефициаров для некоторых малых компаний",
+      "caption": "Сеть по борьбе с финансовыми преступлениями США (FINCEN) официально исключила требования о предоставлении информации о бенефициарных владельцах (BOI) для малых предприятий определенных категорий.\n\nИсточник: https://regfollower.com/us-fincen-permanently-removes-beneficial-ownership-reporting-requirement-for-small-companies\n\n#США #FINCEN #бенефициары #прозрачность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "США",
+      "act": "Постановление Сети по борьбе с финансовыми преступлениями США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-fincen-permanently-removes-beneficial-ownership-reporting-requirement-for-small-companies"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-us-irs-overtime-deduction",
+      "title": "Налоговая служба США обновила разъяснения о вычете по выплатам за сверхурочную работу",
+      "caption": "Налоговое управление США (IRS) опубликовало обновленные ответы на часто задаваемые вопросы (FAQ) касательно порядка расчета и декларирования налоговых вычетов на квалифицированные выплаты за сверхурочные часы.\n\nИсточник: https://regfollower.com/us-irs-updates-faqs-on-qualified-overtime-compensation-deduction\n\n#США #IRS #налоговыеВычеты #сверхурочные #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "США",
+      "act": "Информационное сообщение Налогового управления США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-irs-updates-faqs-on-qualified-overtime-compensation-deduction"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-fr-se-tax-treaty-protocol",
+      "title": "Вступил в силу протокол к соглашению об избежании двойного налогообложения между Францией и Швецией",
+      "caption": "Официально вступил в силу протокол, дополняющий налоговое соглашение между Францией и Швецией, устанавливающий новые механизмы обмена информацией и противодействия уклонению от уплаты налогов.\n\nИсточник: https://regfollower.com/france-sweden-tax-treaty-protocol-enters-into-force\n\n#Франция #Швеция #СОДН #международноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Франция / Швеция",
+      "act": "Международный протокол к налоговому соглашению",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/france-sweden-tax-treaty-protocol-enters-into-force"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-lt-tax-thin-cap-rules",
+      "title": "Литва разъяснила правила тонкой капитализации по долгам связанных сторон",
+      "caption": "Государственная налоговая инспекция Литвы выпустила детальное руководство по расчету ограничений на вычет процентов по контролируемой задолженности перед аффилированными лицами.\n\nИсточник: https://regfollower.com/lithuania-clarifies-thin-capitalisation-rules-on-related-party-debt\n\n#Литва #тонкаяКапитализация #связанныеСтороны #контролируемаяЗадолженность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Литва",
+      "act": "Разъяснение Государственной налоговой инспекции Литвы",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/lithuania-clarifies-thin-capitalisation-rules-on-related-party-debt"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

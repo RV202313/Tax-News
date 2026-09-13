@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-23",
+  "release": "2026-07-23-1700-editorial",
+  "items": [
+    {
+      "slug": "2026-07-23-uz-multilateral-convention",
+      "title": "Узбекистан подписал Многостороннюю конвенцию ОЭСР о взаимной административной помощи по налоговым делам",
+      "caption": "Узбекистан подписал Многостороннюю конвенцию ОЭСР о взаимной административной помощи по налоговым делам. Подписание состоялось 15 июля 2026 года. Конвенция позволит Узбекистану автоматически обмениваться налоговой информацией со 152 юрисдикциями, включая крупнейшие мировые финансовые центры.\n\nПочему это важно: Присоединение к конвенции существенно повышает прозрачность ведения бизнеса в Узбекистане и исключает возможности для сокрытия капиталов в офшорах. Международным группам и частным клиентам с активами в стране необходимо учитывать скорое начало автоматического обмена данными.\n\nИсточник: https://regfollower.com/uzbekistan-signs-multilateral-convention-to-tackle-tax-evasion-and-avoidance/\n\n#Узбекистан #ОЭСР #налоговаяпрозрачность #автоматическийобмен #налоговыйконтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль, автоматический обмен, налоговая прозрачность",
+      "jurisdictions": "Узбекистан",
+      "act": "Многосторонняя конвенция о взаимной административной помощи по налоговым делам",
+      "sources": [
+        {
+          "label": "OECD Announcement",
+          "url": "https://regfollower.com/uzbekistan-signs-multilateral-convention-to-tackle-tax-evasion-and-avoidance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "UZ Tax",
+        "color_a": [22, 78, 120],
+        "color_b": [232, 145, 58]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "OECD MAC publication checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-uae-downward-tp-adjustments",
+      "title": "Федеральное налоговое ведомство ОАЭ разъяснило правила понижающих корректировок по трансфертному ценообразованию",
+      "caption": "Федеральная налоговая служба ОАЭ опубликовала официальное разъяснение CTP011 по корректировкам трансфертного ценообразования. Документ устанавливает жесткие требования к проведению так называемых симметричных (понижающих) корректировок прибыли между связанными сторонами. Налогоплательщик имеет право уменьшить налогооблагаемый доход только в случае, если зеркальная компенсирующая корректировка в сторону увеличения была отражена контрагентом и подтверждена налоговым органом.\n\nПочему это важно: Группам компаний в ОАЭ необходимо пересмотреть внутригрупповые транзакции и договоры. Несогласованные корректировки без зеркального отражения у контрагента приведут к доначислениям и штрафам.\n\nИсточник: https://regfollower.com/uae-fta-clarifies-downward-transfer-pricing-adjustment-rules-under-corporate-tax-law/\n\n#ОАЭ #трансфертноеценообразование #налогнаприбыль #налоговыекорректировки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование, корпоративный налог, налоговые корректировки",
+      "jurisdictions": "ОАЭ",
+      "act": "Public Clarification CTP011",
+      "sources": [
+        {
+          "label": "UAE FTA Clarification",
+          "url": "https://regfollower.com/uae-fta-clarifies-downward-transfer-pricing-adjustment-rules-under-corporate-tax-law/"
+        }
+      ],
+      "image_spec": {
+        "badge": "UAE TP",
+        "color_a": [30, 61, 114],
+        "color_b": [190, 120, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "UAE FTA CTP011 publication checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-mt-residency-tax-rules",
+      "title": "Мальта реформирует индивидуальную налоговую программу с 2027 года",
+      "caption": "Мальта опубликовала постановление 195 о новых правилах индивидуальной налоговой программы на 2026 год, которые начнут применять с 1 января 2027 года. Реформа вводит четыре новые категории специального налогового статуса для физлиц, включая глобальный резидентский статус, статус резидента ЕС/ЕЭЗ/Швейцарии и статус пенсионера. Доходы участников программы из иностранных источников будут облагаться по плоской ставке 15% при условии перевода средств на Мальту.\n\nПочему это важно: Изменения делают Мальту более конкурентоспособной для релокации состоятельных лиц и инвесторов. Частным клиентам необходимо оценить новые условия и требования к минимальному налогу до вступления реформы в силу.\n\nИсточник: https://regfollower.com/malta-issues-individual-tax-programme-rules-with-four-special-tax-statuses-from-2027/\n\n#Мальта #налоговоепланирование #частныйкапитал #резиденты #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые режимы, резиденты, частный капитал, налоговые льготы",
+      "jurisdictions": "Мальта",
+      "act": "Legal Notice 195",
+      "sources": [
+        {
+          "label": "Malta Legal Notice 195",
+          "url": "https://regfollower.com/malta-issues-individual-tax-programme-rules-with-four-special-tax-statuses-from-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Malta Tax",
+        "color_a": [147, 34, 49],
+        "color_b": [232, 170, 72]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Malta Legal Notice 195 checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-id-ifc-tax-incentives",
+      "title": "Парламент Индонезии одобрил создание международных финансовых центров с налоговыми льготами",
+      "caption": "Парламент Индонезии одобрил новый закон о создании международных финансовых центров. Законодательство наделяет правительство правом предоставлять масштабные налоговые льготы компаниям, регистрирующимся в таких центрах, включая освобождение от налога на прибыль, сниженные ставки подоходного налога для иностранных специалистов и упрощенный таможенный режим.\n\nПочему это важно: Индонезия стремится привлечь крупный иностранный капитал для ускорения экономического роста. Международным холдингам, планирующим экспансию в Юго-Восточную Азию, стоит рассмотреть новые финансовые зоны в качестве альтернативы Сингапуру.\n\nИсточник: https://regfollower.com/indonesia-parliament-approves-new-tax-incentive-framework-for-ifcs/\n\n#Индонезия #налоговыельготы #инвестиции #налогнаприбыль #финансовыецентры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы, международные финансовые центры, инвестиции",
+      "jurisdictions": "Индонезия",
+      "act": "Закон об IFC Индонезии",
+      "sources": [
+        {
+          "label": "Indonesia Parliament Act",
+          "url": "https://regfollower.com/indonesia-parliament-approves-new-tax-incentive-framework-for-ifcs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Indonesia",
+        "color_a": [21, 96, 116],
+        "color_b": [220, 129, 52]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Indonesia Parliament approval checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-oecd-pillar2-economic-effects",
+      "title": "ОЭСР опубликовала отчет об экономическом влиянии глобального минимального налога по Pillar Two",
+      "caption": "ОЭСР выпустила отчет с первыми оценками влияния глобального минимального налога на экономику. Анализ показывает, как транснациональные группы начали менять структуру распределения активов и прибыли в ответ на введение 15-процентной ставки. Также опубликован рабочий документ, анализирующий реакцию бизнеса на реформу.\n\nПочему это важно: Данные подтверждают, что Pillar Two снижает стимулы для перевода прибыли в низконалоговые гавани. Международным компаниям нужно учитывать эти экономические тренды при долгосрочном планировании трансграничных холдинговых структур.\n\nИсточник: https://regfollower.com/oecd-releases-new-assessment-of-pillar-two-global-minimum-tax-economic-effects/\n\n#ОЭСР #глобальныйминимальныйналог #налогообложение #транснациональныекомпании #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог, ОЭСР, экономический анализ",
+      "jurisdictions": "ОЭСР",
+      "act": "Отчет ОЭСР об экономическом влиянии GloBE",
+      "sources": [
+        {
+          "label": "OECD Economic Report",
+          "url": "https://regfollower.com/oecd-releases-new-assessment-of-pillar-two-global-minimum-tax-economic-effects/"
+        }
+      ],
+      "image_spec": {
+        "badge": "OECD Pillar Two",
+        "color_a": [27, 84, 109],
+        "color_b": [236, 149, 63]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "OECD GloBE report checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-pl-tp-compliance-easing",
+      "title": "Польша упростит требования к трансфертному ценообразованию и снизит штрафы",
+      "caption": "Правительство Польши одобрило поправки к законам о подоходном налоге физических и юридических лиц, направленные на упрощение требований к трансфертному ценообразованию. Реформа отменяет ряд обременительных административных обязанностей по раскрытию информации и снижает штрафы за непреднамеренные ошибки при уплате налогов. Изменения будут вступать в силу поэтапно до 2027 года.\n\nПочему это важно: Новые правила снижают регуляторную нагрузку на бизнес в Польше, уменьшая затраты на подготовку отчетности и снижая риски налоговых споров.\n\nИсточник: https://regfollower.com/poland-eases-transfer-pricing-compliance-payment-penalties/\n\n#Польша #трансфертноеценообразование #комплаенс #налоговоеадминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование, налоговый комплаенс, реформа законодательства",
+      "jurisdictions": "Польша",
+      "act": "Поправки в законы о PIT и CIT Польши",
+      "sources": [
+        {
+          "label": "Poland PIT CIT Amendments",
+          "url": "https://regfollower.com/poland-eases-transfer-pricing-compliance-payment-penalties/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Poland TP",
+        "color_a": [9, 92, 120],
+        "color_b": [215, 86, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Poland Council of Ministers decision checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-hu-new-tp-documentation",
+      "title": "В Венгрии вступают в силу новые правила документирования трансфертного ценообразования",
+      "caption": "В Венгрии опубликовано руководство министерства финансов по новым правилам документирования трансфертного ценообразования на 2026 год. Новая структура приравнивает требования страны к стандартам ОЭСР и вводит трехэтапную систему отчетности (мастер-файл, локальный файл и страновой отчет), а также новые требования к раскрытию данных.\n\nПочему это важно: Венгерским компаниям, входящим в международные группы, необходимо адаптировать процессы сбора информации под новые стандарты и подготовить локальную отчетность до наступления налогового периода 2026 года.\n\nИсточник: https://regfollower.com/hungary-publishes-new-transfer-pricing-documentation-guidance/\n\n#Венгрия #трансфертноеценообразование #налоговыйкомплаенс #стандартыОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование, налоговая отчетность, стандарты ОЭСР",
+      "jurisdictions": "Венгрия",
+      "act": "Декрет Минфина Венгрии No. 45/2025",
+      "sources": [
+        {
+          "label": "Hungary TP Decree",
+          "url": "https://regfollower.com/hungary-publishes-new-transfer-pricing-documentation-guidance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Hungary TP",
+        "color_a": [24, 87, 118],
+        "color_b": [211, 126, 51]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Hungary Ministry of Finance guidance checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-ie-electronic-wht-consultation",
+      "title": "Ирландия готовится к внедрению электронной системы налога у источника",
+      "caption": "Министерство финансов Ирландии опубликовало отчет по итогам публичных консультаций о переходе на электронную систему налога у источника. Новая модель призвана автоматизировать и ускорить подтверждение льгот по соглашениям об избежании двойного налогообложения при выплатах дивидендов, процентов и роялти, заменив бумажный документооборот.\n\nПочему это важно: Ирландские холдинги и получатели выплат за рубежом смогут быстрее возвращать переплаченный налог, однако это потребует от бизнеса интеграции IT-решений для работы с новой налоговой платформой.\n\nИсточник: https://regfollower.com/ireland-publishes-report-on-proposed-ewht-consultation/\n\n#Ирландия #налогуисточника #дивиденды #автоматизация #налоговыйкомплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог у источника, автоматизация, налоговые соглашения",
+      "jurisdictions": "Ирландия",
+      "act": "Отчет Минфина Ирландии по публичным консультациям",
+      "sources": [
+        {
+          "label": "Ireland eWHT Report",
+          "url": "https://regfollower.com/ireland-publishes-report-on-proposed-ewht-consultation/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Ireland WHT",
+        "color_a": [22, 78, 120],
+        "color_b": [232, 145, 58]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Ireland eWHT report checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-at-uz-dta-protocol",
+      "title": "Австрия одобрила протокол к соглашению об избежании двойного налогообложения с Узбекистаном",
+      "caption": "Федеральный совет Австрии одобрил протокол к соглашению об избежании двойного налогообложения с Узбекистаном. Протокол приводит преамбулу договора в соответствие со стандартами противодействия размыванию налоговой базы (BEPS), вводит новое правило для определения налогового резидентства компаний и обновляет статью об обмене информацией по запросу.\n\nПочему это важно: Бизнесу, структурирующему инвестиции между Австрией и Узбекистаном, необходимо учитывать новые правила для исключения рисков двойного резидентства и отказов в применении льгот по СИДН.\n\nИсточник: https://regfollower.com/austria-bundesrat-approves-protocol-to-tax-treaty-with-uzbekistan/\n\n#Австрия #Узбекистан #СИДН #размываниебазы #налоговыесоглашения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "СИДН, протокол, обмен информацией, BEPS",
+      "jurisdictions": "Узбекистан, Австрия",
+      "act": "Протокол о внесении изменений в СИДН",
+      "sources": [
+        {
+          "label": "Austria Bundesrat Approval",
+          "url": "https://regfollower.com/austria-bundesrat-approves-protocol-to-tax-treaty-with-uzbekistan/"
+        }
+      ],
+      "image_spec": {
+        "badge": "AT-UZ Tax",
+        "color_a": [147, 34, 49],
+        "color_b": [232, 170, 72]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Austria Bundesrat decision checked"
+      }
+    },
+    {
+      "slug": "2026-07-23-mc-uae-dta-entry-into-force",
+      "title": "Соглашение об избежании двойного налогообложения между ОАЭ и Монако вступило в силу",
+      "caption": "Вступило в силу соглашение об избежании двойного налогообложения между Монако и ОАЭ. Договор предусматривает освобождение от налога у источника по дивидендам и процентам для государственных органов и инвестиционных фондов, а также вводит концепцию постоянного представительства при оказании услуг, если их продолжительность превышает 9 месяцев. Соглашение применяется к налоговым периодам с 2027 года.\n\nПочему это важно: СИДН создает прочную правовую основу для защиты активов и структурирования инвестиционных фондов между Монако и ОАЭ, повышая привлекательность трансграничных сделок.\n\nИсточник: https://regfollower.com/monaco-uae-tax-treaty-enters-into-force/\n\n#Монако #ОАЭ #СИДН #инвестиции #налогуисточника #налоговоепланирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "СИДН, освобождение от налога, постоянное представительство",
+      "jurisdictions": "ОАЭ, Монако",
+      "act": "Соглашение об избежании двойного налогообложения",
+      "sources": [
+        {
+          "label": "Monaco UAE Treaty Entry",
+          "url": "https://regfollower.com/monaco-uae-tax-treaty-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "Monaco-UAE",
+        "color_a": [30, 61, 114],
+        "color_b": [190, 120, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Monaco UAE treaty entry in force checked"
+      }
+    }
+  ]
+}

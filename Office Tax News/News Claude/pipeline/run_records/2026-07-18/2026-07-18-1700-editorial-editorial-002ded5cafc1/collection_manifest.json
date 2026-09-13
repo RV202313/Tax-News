@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-18",
+  "sources": {
+    "ru_ras": {
+      "state": "ok",
+      "files": [
+        "ru_ras_1.txt"
+      ],
+      "detail": "collector=scripts/collect_ru_ras.js; [ras] 24 items → /Users/roustamvakhitov/Downloads/Новости Академии/News Claude/pipeline/raw/2026-07-18/ru_ras_1.txt"
+    }
+  },
+  "_summary": {
+    "ok": [
+      "ru_ras"
+    ],
+    "failed": [],
+    "incomplete": []
+  }
+}

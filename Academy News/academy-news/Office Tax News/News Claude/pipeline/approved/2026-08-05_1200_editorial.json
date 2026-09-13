@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-05",
+  "release": "2026-08-05-1200-editorial",
+  "items": [
+    {
+      "slug": "2026-08-05-ru-fns-sergeev-vychety",
+      "title": "Замглавы ФНС России рассказал о налоговых вычетах в эфире федерального телевидения",
+      "caption": "Михаил Сергеев в программе «Доброе утро» на Первом канале разъяснил гражданам условия и порядок получения основных видов налоговых вычетов: имущественного, социального и инвестиционного.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16640829/\n\n#ФНС #вычеты #НДФЛ #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16640829/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-egorov-h1-2026",
+      "title": "ФНС России: налоговые поступления за первое полугодие 2026 года выросли — доклад Егорова премьер-министру",
+      "caption": "Руководитель ФНС Даниил Егоров доложил премьер-министру Михаилу Мишустину об итогах налоговых поступлений за 6 месяцев 2026 года. Поступления демонстрируют устойчивый рост по большинству налогов.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639373/\n\n#ФНС #налоговыепоступления #бюджет #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Доклад руководителя ФНС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639373/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-ru-fns-ks-zemelny",
+      "title": "Конституционный суд РФ разъяснил применение повышающих коэффициентов по земельному налогу",
+      "caption": "КС РФ вынес решение, уточняющее условия применения повышающих коэффициентов при исчислении земельного налога — в частности, в отношении участков, предназначенных для жилищного строительства.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639383/\n\n#КС #земельныйналог #коэффициенты #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги",
+      "jurisdictions": "Россия",
+      "act": "Решение Конституционного суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639383/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-bg-budget-act-2026",
+      "title": "Болгария приняла закон о бюджете на 2026 год и ввела налог на доходы партнёров гемблинга",
+      "caption": "Болгария утвердила Закон о государственном бюджете на 2026 год, которым вводится новый налог на доходы аффилиатов (партнёров) операторов азартных игр и расширяется налоговый вычет на детей.\n\nИсточник: https://regfollower.com/bulgaria-enacts-state-budget-act-2026-introducing-gambling-affiliate-tax-expanded-child-tax-relief/\n\n#Болгария #бюджет #налоги #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Болгария",
+      "act": "Закон Болгарии о государственном бюджете 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bulgaria-enacts-state-budget-act-2026-introducing-gambling-affiliate-tax-expanded-child-tax-relief/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-nl-30pct-ruling-lawful",
+      "title": "Апелляционный суд Нидерландов подтвердил законность сокращения 30-процентной налоговой льготы",
+      "caption": "Нидерландский суд признал правомерным сокращение срока действия 30%-рулинга для иностранных специалистов и ограничение переходного периода, установленные реформой 2023 года.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/verkorting-looptijd-30-regeling-en-beperkt-overgangsrecht-zijn-rechtmatig/\n\n#Нидерланды #30процентов #льготы #иностранцы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verkorting-looptijd-30-regeling-en-beperkt-overgangsrecht-zijn-rechtmatig/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-nl-taxence-invorderingskosten",
+      "title": "Нидерланды: расходы на принудительное взыскание правомерны даже при наличии возражения по налогу 2017 года",
+      "caption": "Суд Нидерландов подтвердил, что налоговый орган вправе взыскивать расходы на принудительное исполнение даже в том случае, если налогоплательщик обжалует основное налоговое начисление за 2017 год.\n\nИсточник: https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/\n\n#Нидерланды #налоговыеспоры #взыскание #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение нидерландского суда",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxence.nl confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-be-withholding-tax-reform",
+      "title": "Бельгия изменила правила удержания налога у источника по дивидендам в рамках реформы подоходного налога",
+      "caption": "В ходе реформы подоходного налога в Бельгии внесены поправки, уточняющие порядок удержания налога у источника при выплате дивидендов акционерам-физическим лицам.\n\nИсточник: https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/\n\n#Бельгия #дивиденды #налогуисточника #реформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение дивидендов",
+      "jurisdictions": "Бельгия",
+      "act": "Поправки к налоговому кодексу Бельгии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belgium-amends-withholding-tax-rules-following-personal-income-tax-reform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-qa-pillar2-registration",
+      "title": "Катар запустил регистрацию на налоговой платформе для целей глобального минимального налога Pillar 2",
+      "caption": "Налоговая служба Катара (GTA) открыла регистрацию транснациональных групп компаний на платформе Дариба для целей глобального и внутреннего минимального налога в рамках Pillar 2.\n\nИсточник: https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/\n\n#Катар #Pillar2 #минимальныйналог #ОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "Катар",
+      "act": "Анонс Налоговой службы Катара",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/qatar-gta-opens-registration-for-global-domestic-minimum-tax-pillar-two-on-dhareeba-platform/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-kr-apa-fast-track",
+      "title": "Республика Корея ввела ускоренную процедуру согласования APA и расширила льготы для иностранных инвесторов",
+      "caption": "Налоговая служба Южной Кореи запустила ускоренную процедуру согласования односторонних соглашений о трансфертном ценообразовании (APA) и ввела дополнительные налоговые льготы для иностранных инвесторов.\n\nИсточник: https://regfollower.com/korea-rep-of-introduces-apa-fast-track-expands-tax-support-for-foreign-investors/\n\n#ЮжнаяКорея #APA #ТЦО #инвестиции #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Южная Корея",
+      "act": "Анонс Налоговой службы Южной Кореи",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/korea-rep-of-introduces-apa-fast-track-expands-tax-support-for-foreign-investors/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-05-uz-at-dta-protocol",
+      "title": "Федеральный совет Австрии ратифицировал протокол об изменении налогового соглашения с Узбекистаном",
+      "caption": "Верхняя палата парламента Австрии ратифицировала протокол, вносящий изменения в действующее СОДН с Узбекистаном в целях внедрения современных стандартов ОЭСР.\n\nИсточник: https://regfollower.com/austria-bundesrat-approves-protocol-to-tax-treaty-with-uzbekistan/\n\n#Узбекистан #Австрия #СОДН #ОЭСР #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Узбекистан / Австрия",
+      "act": "Ратификация Федеральным советом Австрии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/austria-bundesrat-approves-protocol-to-tax-treaty-with-uzbekistan/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

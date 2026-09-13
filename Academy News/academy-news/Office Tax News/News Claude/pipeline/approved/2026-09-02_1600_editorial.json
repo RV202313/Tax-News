@@ -1,0 +1,398 @@
+{
+  "date": "2026-09-02",
+  "release": "2026-09-02_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-09-02-nl-prinsjesdag-box3-on-hold",
+      "title": "Нидерланды: Налоговая реформа BOX 3 может быть приостановлена в Сенате",
+      "caption": "Из утёкших материалов планов бюджета ПРИНСЬЕСДАГ 2026 стало известно, что введение новой системы налогообложения доходов от капитала (BOX 3) может быть отложено в Первой палате парламента. При этом правительство выделяет 1.5 млрд евро на поддержку покупательной способности населения.\n\nИсточник: https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/\n\n#Нидерланды #Принсьесдаг #Box3 #НалогНаКапитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги с физических лиц / налог на капитал",
+      "jurisdictions": "Нидерланды",
+      "act": "Законопроект о бюджете ПРИНСЬЕСДАГ 2026 и реформа BOX 3",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 10.6,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-court-box3-tax-free-allowance",
+      "title": "Нидерланды: Суд постановил, что необлагаемый минимум не уменьшает фактическую доходность в BOX 3",
+      "caption": "Апелляционный суд Арнема-Леувардена постановил, что при восстановлении прав налогоплательщиков по фактической доходности в BOX 3 необлагаемый минимум имущества не вычитается из суммы дохода. Суд также зафиксировал нарушение налоговым инспектором права на слушание.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxence.nl/nieuws/heffingvrij-vermogen-verlaagt-werkelijk-rendement-box-3-niet/\n\n#Нидерланды #СудебныйСпор #Box3 #НалоговоеПраво #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги на имущество / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Арнема-Леувардена по делу о BOX 3",
+      "court": "Hof Arnhem-Leeuwarden",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/heffingvrij-vermogen-verlaagt-werkelijk-rendement-box-3-niet/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-hidden-wealth-program-results",
+      "title": "Нидерланды: Программа по борьбе со скрытым капиталом принесла 139 млн евро в 2025 году",
+      "caption": "Налоговая служба Нидерландов поднесла итоги работы программы VERHULD VERMOGEN (VHV): за 2025 год доначислено 139 млн евро налогов, пеней и штрафов. Наибольшую результативность показал международный автоматический обмен информацией и проверка иностранных структур.\n\nИсточник: https://www.taxence.nl/nieuws/belastingdienst-pakt-verhuld-vermogen-aan-e139-miljoen-opbrengst-in-2025/\n\n#Нидерланды #СкрытыйКапитал #АвтоматическийОбмен #Деофшоризация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль / деофшоризация",
+      "jurisdictions": "Нидерланды",
+      "act": "Отчет Налоговой службы Нидерландов по программе VERHULD VERMOGEN",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/belastingdienst-pakt-verhuld-vermogen-aan-e139-miljoen-opbrengst-in-2025/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-tax-authority-ict-modernization",
+      "title": "Нидерланды: Налоговая служба активизирует модернизацию ИТ-систем и улучшение сервисов",
+      "caption": "Статс-секретарь Министерства финансов Нидерландов направил письмо в Палату представителей о ходе модернизации устаревшей ИТ-инфраструктуры налоговых органов. Основной акцент сделан на цифровизацию клиентских сервисов и автоматизацию обработки обращений.\n\nИсточник: https://www.taxence.nl/nieuws/belastingdienst-zet-in-op-dienstverlening-en-moderne-ict/\n\n#Нидерланды #НалоговоеАдминистрирование #Цифровизация #Минфин #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / цифровизация",
+      "jurisdictions": "Нидерланды",
+      "act": "Письмо статс-секретаря Минфина Нидерландов в Палату представителей",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/belastingdienst-zet-in-op-dienstverlening-en-moderne-ict/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-dga-vat-entrepreneur-premises-rental",
+      "title": "Нидерланды: Суд признал директора плательщиком НДС при сдаче помещений своей компании",
+      "caption": "Апелляционный суд Хертогенбоса постановил, что директор-управляющий (DGA), сдающий рабочие помещения в своем доме своей компании за плату, признается предпринимателем для целей НДС. Это позволяет сформировать фискальное единство по НДС между холдингом и операционной компанией.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxence.nl/nieuws/dga-is-btw-ondernemer-bij-verhuur-werkruimtes-aan-bv/\n\n#Нидерланды #НДС #СудебнаяПрактика #КорпоративныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Хертогенбоса по делу о НДС для DGA",
+      "court": "Gerechtshof 's-Hertogenbosch",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/dga-is-btw-ondernemer-bij-verhuur-werkruimtes-aan-bv/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-banking-sector-box3-delay-impact",
+      "title": "Нидерланды: Банковский сектор столкнулся с последствиями отсрочки реформы BOX 3",
+      "caption": "Задержка принятия окончательного решения по налогообложению доходов от капитала (BOX 3) оказывает негативное влияние на банковский сектор Нидерландов. Банки вынуждены поддерживать сложные системы учета и параллельные отчетные стандарты для клиентов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/ook-banksector-geraakt-door-uitstel-keuze-box-3/\n\n#Нидерланды #БанковскийСектор #Box3 #ФинансовыеРынки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги с физических лиц / банковский сектор",
+      "jurisdictions": "Нидерланды",
+      "act": "Анализ влияния отсрочки реформы BOX 3 на банковский сектор",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/ook-banksector-geraakt-door-uitstel-keuze-box-3/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-parliament-factions-box3-postponement",
+      "title": "Нидерланды: Парламентские партии предлагают отложить решение по BOX 3",
+      "caption": "Ведущие фракции в парламенте Нидерландов (VVD, D66 и CDA) выступили с предложением перенести рассмотрение спорных вопросов реформы BOX 3 на более поздний срок для проведения дополнительных расчетов экономической эффективности.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/vvd-d66-en-cda-willen-box-3-kwestie-nog-verder-doorschuiven/\n\n#Нидерланды #Парламент #НалоговаяРеформа #Box3 #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика / законодательный процесс",
+      "jurisdictions": "Нидерланды",
+      "act": "Инициатива парламентских фракций VVD, D66 и CDA по реформе BOX 3",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/vvd-d66-en-cda-willen-box-3-kwestie-nog-verder-doorschuiven/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-tax-interest-objections-processed",
+      "title": "Нидерланды: Завершена обработка большинства коллективных возражений по налоговым процентам",
+      "caption": "Налоговая служба Нидерландов сообщила о завершении обработки подавляющего большинства жалоб, попавших под процедуру массового возражения по ставкам налоговых процентов для налога на прибыль (VPB) после прецедентного решения Верховного суда.\n\nИсточник: https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/\n\n#Нидерланды #НалоговыеПроценты #НалогНаПрибыль #МассовыеЖалобы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / налоговый контроль",
+      "jurisdictions": "Нидерланды",
+      "act": "Отчет Налоговой службы Нидерландов по массовым возражениям VPB",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 8.7,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-nl-knowledge-group-withdraws-positions-supreme-court",
+      "title": "Нидерланды: Экспертная группа отозвала разъяснения после решения Верховного суда по распределению между партнерами",
+      "caption": "Экспертная группа по подоходному налогу отозвала ряд своих правовых позиций (KG:202:2023:18, KG:202:2023:19, KG:202:2023:20 и KG:202:2024:28) во исполнение решения Верховного суда Нидерландов от 17 июля 2026 года касательно распределения налоговых элементов между партнерами при доначислениях.\n\nИсточник: https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/\n\n#Нидерланды #ВерховныйСуд #ПодоходныйНалог #НалоговыйАнализ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "подоходный налог / правовые позиции",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Экспертной группы о признании утратившими силу позиций KG:202",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 8.7,
+      "published_at": "2026-09-02"
+    },
+    {
+      "slug": "2026-09-02-oecd-pillar2-safe-harbours-guidance",
+      "title": "ОЭСР: Опубликованы новые административные руководства по механизмам безопасности в рамках PILLAR TWO",
+      "caption": "Инклюзивный фреймворк ОЭСР/G20 выпустил обновленные правила практического применения постоянных безопасных гаваней (SAFE HARBORS) для PILLAR TWO (GLOBE). Руководство снижает административную нагрузку при подаче единой декларации GLOBE INFORMATION RETURN (GIR).\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #PillarTwo #GloBE #GIR #МеждународноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "ОЭСР",
+      "act": "Руководство ОЭСР по безопасным гаваням PILLAR TWO",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-02"
+    }
+  ]
+}

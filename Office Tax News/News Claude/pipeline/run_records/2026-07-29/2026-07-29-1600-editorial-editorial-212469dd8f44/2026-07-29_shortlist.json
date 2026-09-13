@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-29",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 217,
+      "source": "telegram_leads",
+      "url": "https://beps.academy/Tax_270_agent",
+      "ecli": "",
+      "act": "",
+      "title": "🤖 Налоговый калькулятор и AI-ассистент для Формы 270.00 Запущен рабочий веб-сервис для расчета декларации и быстрой консультации по Налоговому кодексу РК (Всеобщее декларировани…",
+      "summary": "🤖 Налоговый калькулятор и AI-ассистент для Формы 270.00 Запущен рабочий веб-сервис для расчета декларации и быстрой консультации по Налоговому кодексу РК (Всеобщее декларирования). Бот подготовлен вместе с Ритой Еспенбетовой, Группа Finex https://beps.academy/Tax_270_agent Что делает сервис: 📋 Проверяет обязанность сдачи ФНО 270.00 по ключевым критериям. ⭐️ Рассчитывает имущественный доход, зарубежные активы, вычеты и ИПН к уплате. 💬 Включает ИИ-консультанта для быстрых ответов на вопросы по декларированию. 💡 Ключевая особенность: Проект разработан и запущен полностью без привлечения IT-специалистов — вся логика и нейросетевой функционал настроены экспертом Ритой Еспенбетовой самостоятельно. https://beps.academy/Tax_270_agent 💼 Юристам, налоговым консультантам и бухгалтерам Современный ИИ позволяет создавать подобные сервисы, калькуляторы и внутренних помощников для вашей практики без бюджета на разработчиков и долгих согласований. Если вы хотите внедрить нейросети в работу и научиться собирать собственные решения, посмотрите формат короткого практикума: 👉ИИ-практикум от BEPS Academy",
+      "published_at": "2026-07-29",
+      "score": 12.275,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "kz"
+      ],
+      "jurisdiction_names": [
+        "Казахстан"
+      ],
+      "lead": true,
+      "channel": "@BEPSAcademyKZ",
+      "message_id": 780,
+      "engagement": 1.013,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 218,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-teruggaaf-dividendbelasting-voor-buitenlands-beleggingsfonds/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen teruggaaf dividendbelasting voor buitenlands beleggingsfonds",
+      "summary": "",
+      "published_at": "2026-07-29",
+      "score": 10.5,
+      "topics": [
+        "nl_fiscaal",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 219,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verlaagd-overdrachtsbelastingtarief-ondanks-uitgesteld-gebruik-als-hoofdverblijf/",
+      "ecli": "",
+      "act": "",
+      "title": "Verlaagd overdrachtsbelastingtarief ondanks uitgesteld gebruik als hoofdverblijf",
+      "summary": "",
+      "published_at": "2026-07-29",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 220,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kosten-parkeerinformatiesysteem-geen-last-ter-zake-naheffingsaanslag-parkeerbelasting-blijft-wel-in-stand/",
+      "ecli": "",
+      "act": "",
+      "title": "Kosten parkeerinformatiesysteem geen ‘last ter zake’, naheffingsaanslag parkeerbelasting blijft wel in stand",
+      "summary": "",
+      "published_at": "2026-07-29",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

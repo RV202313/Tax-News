@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 17 Aug 2026 09:01:55 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Uitdrukkelijk standpunt inspecteur wekt vertrouwen woonplaats</title>
+		<link>https://www.taxence.nl/nieuws/uitdrukkelijk-standpunt-inspecteur-wekt-vertrouwen-woonplaats/</link>
+					<comments>https://www.taxence.nl/nieuws/uitdrukkelijk-standpunt-inspecteur-wekt-vertrouwen-woonplaats/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 08:14:26 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166703</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat een beroep op het vertrouwensbeginsel objectief moet worden beoordeeld, niet subjectief. De inspecteur heeft bij de man het gerechtvaardigd vertrouwen gewekt dat hij in het begin van 2016 geen fiscaal inwoner van Nederland was.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat een beroep op het vertrouwensbeginsel objectief moet worden beoordeeld, niet subjectief. De inspecteur heeft bij de man het gerechtvaardigd vertrouwen gewekt dat hij in het begin van 2016 geen fiscaal inwoner van Nederland was.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is sinds 2012 lid van de raad van bestuur van een vennootschap die destijds feitelijk in Monaco was gevestigd. Hij sluit een arbeidsovereenkomst met een Monegaskische kleindochtervennootschap en een managementovereenkomst met de vennootschap, waarbij hij 80% van zijn werktijd besteedt aan de kleindochtervennootschap en 20% aan zijn bestuurstaken (salary split). In 2013 trouwt hij met zijn Australische partner en woont met haar in Monaco. In april 2016 wordt hij voor een tweede termijn CFO van de vennootschap, die inmiddels haar hoofdkantoor naar Nederland heeft verplaatst. In geschil is of de man in de periode van 1 januari tot 18 april 2016 fiscaal inwoner van Nederland was, of de inspecteur daarover eerder vertrouwen heeft gewekt, of een ruling ook zag op al genoten RSU&#8217;s, en of het gelijkheidsbeginsel is geschonden ten opzichte van medebestuurders met een vergelijkbare salary split.</p>
+
+
+
+<h2 class="wp-block-heading">Objectieve toets vertrouwensbeginsel</h2>
+
+
+
+<p class="wp-block-paragraph">Hof &#8216;s-Hertogenbosch achtte aannemelijk dat de man ook in de eerste periode een duurzame band van persoonlijke aard met Nederland had en dus fiscaal inwoner was. Het Hof verwierp bovendien zijn beroep op het vertrouwensbeginsel, omdat de man dit pas ter zitting in hoger beroep voor het eerst had aangevoerd. De Hoge Raad oordeelt dat het Hof hiermee een onjuiste, subjectieve maatstaf heeft gehanteerd. Vertrouwen moet objectief worden beoordeeld: was sprake van toezeggingen of gedragingen van de inspecteur waaruit de man redelijkerwijs kon afleiden hoe deze een bevoegdheid zou uitoefenen? Uit de stukken blijkt dat de inspecteur in de aanslag- en bezwaarfase steeds uitdrukkelijk het standpunt innam dat de man in de eerste periode niet in Nederland woonde, gebaseerd op eigen onderzoek naar het gehele jaar. Daarmee is bij de man een in rechte te beschermen vertrouwen gewekt. Dit middel slaagt.</p>
+
+
+
+<h2 class="wp-block-heading">Ruling en gelijke gevallen</h2>
+
+
+
+<p class="wp-block-paragraph">Ook de overige middelen slagen gedeeltelijk. Het Hof beoordeelde alleen een brief van 21 december 2016 over de RSU&#8217;s, en liet de ruling zelf onbesproken, terwijl de man had gesteld dat juist de ruling op zichzelf al vertrouwen wekte dat de RSU&#8217;s onbelast zouden blijven. Dit is een motiveringsgebrek. Verder had de man aangevoerd dat twee medebestuurders, evenals hijzelf, niet in Nederland woonden en toch een vergelijkbare salary split kenden, zodat het gelijkheidsbeginsel is geschonden. Het Hof verwierp dit zonder inzicht te geven in de gehanteerde vergelijkingsmaatstaf, mede omdat stukken over de medebestuurders vertrouwelijk moesten blijven. De Hoge Raad oordeelt dat het Hof, gelet op het gewekte vertrouwen over de woonplaats, had moeten onderzoeken of deze medebestuurders inwoner waren van een land zonder relevant verdrag met Nederland. Het oordeel is onvoldoende gemotiveerd. De Hoge Raad vernietigt de hofuitspraak en verwijst de zaak naar Hof Arnhem-Leeuwarden.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-7.2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7.2 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-4?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4 AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1340" target="_blank" rel="noreferrer noopener">Hoge Raad, 07-08-2026, ECLI:NL:HR:2026:1340, 24/03206 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/uitdrukkelijk-standpunt-inspecteur-wekt-vertrouwen-woonplaats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Monaco.jpg" length="91664" type="image/jpeg" />	</item>
+		<item>
+		<title>Online Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk-2/</link>
+					<comments>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 06:48:57 +0000</pubDate>
+				<category><![CDATA[Adviseur]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165704</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk-2/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.&nbsp;Deze cursus is exclusief ontwikkeld voor Lefebvre Sdu Licent Academy met een focus op de dagelijkse uitdagingen binnen de aangifte- en adviespraktijk.&nbsp;</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op 18 maart of 8 juni wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/3056/online-basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Greenberg Traurig naar Hoge Raad na miljoenenclaim Tiësto</title>
+		<link>https://www.taxence.nl/nieuws/greenberg-traurig-naar-hoge-raad-na-miljoenenclaim-tiesto/</link>
+					<comments>https://www.taxence.nl/nieuws/greenberg-traurig-naar-hoge-raad-na-miljoenenclaim-tiesto/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2026 02:56:00 +0000</pubDate>
+				<category><![CDATA[Adviseur]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166708</guid>
+
+					<description><![CDATA[Advocatenkantoor Greenberg Traurig (GT) stapt naar de Hoge Raad in de zaak rond dj Tijs Verwest, beter bekend als Tiësto.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Advocatenkantoor Greenberg Traurig (GT) stapt naar de Hoge Raad in de zaak rond dj Tijs Verwest, beter bekend als Tiësto.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit schrijft <a href="https://fd.nl/samenleving/1607519/advocatenkantoor-greenberg-traurig-stapt-naar-hoge-raad-in-claimzaak-dj-tiesto" data-type="link" data-id="https://fd.nl/samenleving/1607519/advocatenkantoor-greenberg-traurig-stapt-naar-hoge-raad-in-claimzaak-dj-tiesto" target="_blank" rel="noreferrer noopener">het FD</a>. Het Gerechtshof Amsterdam bepaalde in mei dat het kantoor bijna $17 miljoen aan de dj moet betalen vanwege onjuist belastingadvies van voormalig GT-partner Frank B.</p>
+
+
+
+<p class="wp-block-paragraph">Verwest woonde vanaf 2012 grotendeels in de Verenigde Staten en werd daardoor daar als fiscaal inwoner beschouwd. Op advies van B. gaf hij inkomsten die buiten de VS werden verdiend en via een trust op Guernsey liepen niet aan bij de Amerikaanse belastingdienst. Volgens de Amerikaanse belastingregels had hij daarover wel belasting moeten betalen. Uiteindelijk maakte Verwest gebruik van een Amerikaanse inkeerregeling en betaalde hij bijna $17 miljoen aan naheffingen en boetes.</p>
+
+
+
+<p class="wp-block-paragraph">De rechtbank Amsterdam wees zijn claim in 2024 aanvankelijk af. Volgens de rechtbank had Verwest ook bij correct belastingadvies Amerikaanse belasting moeten betalen en was er daarom per saldo geen belastingschade. Het gerechtshof kwam later tot een ander oordeel. Hij had mogelijk kunnen voorkomen dat hij daar fiscaal inwoner werd en de extra belasting en boetes moest betalen. GT is het niet eens met die redenering en heeft nu cassatie ingesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://fd.nl/samenleving/1607519/advocatenkantoor-greenberg-traurig-stapt-naar-hoge-raad-in-claimzaak-dj-tiesto" data-type="link" data-id="https://fd.nl/samenleving/1607519/advocatenkantoor-greenberg-traurig-stapt-naar-hoge-raad-in-claimzaak-dj-tiesto" target="_blank" rel="noreferrer noopener">FD, 12 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/greenberg-traurig-naar-hoge-raad-na-miljoenenclaim-tiesto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/HR.jpg" length="79182" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt over creëren schuldvordering bij afsplitsing</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-over-creeren-schuldvordering-bij-afsplitsing/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-over-creeren-schuldvordering-bij-afsplitsing/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 10:39:23 +0000</pubDate>
+				<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166665</guid>
+
+					<description><![CDATA[De Kennisgroep aanmerkelijk belang heeft de vraag beantwoord of het bij een afsplitsing creëren van een schuldvordering, zonder dat daar een tegenprestatie tegenover staat, leidt tot een regulier voordeel in de zin van artikel 4.12 van de Wet inkomstenbelasting 2001.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep aanmerkelijk belang heeft de vraag beantwoord of het bij een afsplitsing creëren van een schuldvordering, zonder dat daar een tegenprestatie tegenover staat, leidt tot een regulier voordeel in de zin van artikel 4.12 van de Wet inkomstenbelasting 2001.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Vader is enig aandeelhouder en bestuurder van Holding BV. Holding BV bezit alle aandelen in Werk BV. Vader wenst zijn indirecte belang in Werk BV over te dragen aan een van zijn kinderen, Y.</p>
+
+
+
+<p class="wp-block-paragraph">Door middel van een juridische afsplitsing wordt Werk BV afgesplitst naar de op het tijdstip van afsplitsing nieuw opgerichte vennootschap, Kind BV. Vader wordt enig aandeelhouder en bestuurder van Kind BV. Vervolgens zal vader zijn aandelen in Kind BV schenken aan Y.</p>
+
+
+
+<p class="wp-block-paragraph">Naast deze schenking zal vader zijn andere kind, Z, een ander goed schenken. De waarde van het te schenken goed is lager dan de waarde van de te schenken aandelen. Om de waarden gelijk te trekken wordt bij de afsplitsing een schuldvordering tussen Holding BV en Kind BV gecreëerd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In het splitsingsvoorstel en in de inbrengbeschrijving (bestaande uit de balansen voor en na de splitsing) wordt hiertoe een vordering opgenomen van Holding BV op Kind BV. Door het creëren van deze schuldvordering ligt de waarde van de schenking van de aandelen in Kind BV in lijn met de waarde van het te schenken goed.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Leidt het bij een afsplitsing creëren van een schuldvordering, zonder dat daar een tegenprestatie tegenover staat, tot een regulier voordeel in de zin van artikel 4.12 van de Wet IB 2001?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, dit leidt tot een regulier voordeel in de zin van artikel 4.12 Wet IB 2001.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-het-creeren-van-een-schuldvordering-bij-een-afsplitsing/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-het-creeren-van-een-schuldvordering-bij-een-afsplitsing/" target="_blank" rel="noreferrer noopener">Belastingdienst, 14 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-over-creeren-schuldvordering-bij-afsplitsing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Onderneming-splitsing.jpg" length="28015" type="image/jpeg" />	</item>
+		<item>
+		<title>Heffingsvrij vermogen telt niet bij werkelijk rendement</title>
+		<link>https://www.taxence.nl/nieuws/heffingsvrij-vermogen-telt-niet-bij-werkelijk-rendement/</link>
+					<comments>https://www.taxence.nl/nieuws/heffingsvrij-vermogen-telt-niet-bij-werkelijk-rendement/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 14 Aug 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166620</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat het inkomen uit sparen en beleggen in de aanslag IB/PVV 2023 niet te hoog is vastgesteld, omdat het werkelijk rendement hoger uitvalt dan het forfaitaire rendement. Het beroep op het kerstarrest baat de man dus niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat het inkomen uit sparen en beleggen in de aanslag IB/PVV 2023 niet te hoog is vastgesteld, omdat het werkelijk rendement hoger uitvalt dan het forfaitaire rendement. Het beroep op het kerstarrest baat de man dus niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn echtgenote zijn fiscaal partners en doen samen aangifte IB/PVV 2023. Het inkomen uit sparen en beleggen rekenen ze volledig toe aan de man. De rendementsgrondslag bestaat volledig uit bank- en spaartegoeden van € 229.802, waarover hij € 1.575 aan spaarrente ontvangt. De inspecteur stelt het belastbaar inkomen uit sparen en beleggen forfaitair vast op € 1.065. De man vindt dat dit € 793 moet zijn en beroept zich op het kerstarrest, waarin de Hoge Raad heeft bepaald dat alleen het werkelijk rendement mag worden belast als dat lager is dan het forfaitaire rendement. Het geschil draait om de hoogte van het inkomen uit sparen en beleggen in de aanslag.</p>
+
+
+
+<h2 class="wp-block-heading">Werkelijk rendement hoger dan forfait</h2>
+
+
+
+<p class="wp-block-paragraph">Vast staat dat het werkelijk rendement € 1.575 bedraagt. De man berekent dat slechts een deel daarvan in de heffing mag worden betrokken, rekening houdend met het heffingsvrije vermogen. De rechtbank volgt hem niet: onder verwijzing naar het arrest van de Hoge Raad van 6 juni 2024 moet bij het werkelijke rendement de volledige heffingsgrondslag worden gehanteerd, zonder aftrek van het heffingsvrije vermogen. Het kerstarrest helpt de man dus niet, want zijn werkelijk rendement van € 1.575 is hoger dan het forfaitaire rendement van € 1.065. De rechtbank verklaart het beroep ongegrond en de aanslag blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.2 Wet IB 2001</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001001-1?lid=BWBV0001001&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 1 Eerste Protocol EVRM</a>  jo. <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-14?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 EVRM</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_7168" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 31-07-2026, ECLI:NL:RBZWB:2026:7168, BRE 25/3647 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">Webinar Belastingplan 2027 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">In slechts twee uur tijd praat ons fiscaal expert, Eric van Uunen, je volledig bij over wat er speelt én wat er mogelijk nog aankomt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>&nbsp;</strong><strong>Tijdens dit webinar ontvang je:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Een compleet overzicht van de belangrijkste fiscale wijzigingen</li>
+
+
+
+<li>Duidelijkheid: wat betekent dit concreet voor jou en je klanten?</li>
+
+
+
+<li>Direct toepasbare input voor klantgesprekken</li>
+</ul>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-9fdda306-7834-4c7e-becc-fcddfb995e8c" href="https://www.licentacademy.nl/opleidingen/actualiteiten/3026/webinar-belastingplan-2027" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-9fdda306-7834-4c7e-becc-fcddfb995e8c{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-9fdda306-7834-4c7e-becc-fcddfb995e8c:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-9fdda306-7834-4c7e-becc-fcddfb995e8c > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/heffingsvrij-vermogen-telt-niet-bij-werkelijk-rendement/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Sparen-aandelen.jpg" length="36761" type="image/jpeg" />	</item>
+		<item>
+		<title>Bloedverwant in rechte lijn krijgt geen partnervrijstelling</title>
+		<link>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/</link>
+					<comments>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 09:06:43 +0000</pubDate>
+				<category><![CDATA[Erfbelasting en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166618</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat de vader als bloedverwant in de rechte lijn geen recht heeft op de partnervrijstelling. Het van de zoon verkregen aandeel in de woning, gefinancierd met smartengeld, behoort ook tot de grondslag van de erfbelasting.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat de vader als bloedverwant in de rechte lijn geen recht heeft op de partnervrijstelling. Het van de zoon verkregen aandeel in de woning, gefinancierd met smartengeld, behoort ook tot de grondslag van de erfbelasting.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vader is de erfgenaam van zijn zoon, die zijn leven lang ongewild partner- en kinderloos is gebleven als gevolg van medische fouten. De zoon ontving hiervoor smartengeld en kocht daarmee in 2015 een aandeel in de woning van zijn vader, dat hij liet verbouwen tot aanleunwoning met eigen woonunit. Bij testament legateerde de zoon het recht van gebruik en bewoning van zijn aandeel aan zijn vader. Tot het overlijden van de zoon verleenden de vader en zijn dochter mantelzorg. Na het overlijden legt de inspecteur een aanslag erfbelasting op over het aandeel in de woning. In geschil is of dit aandeel tot de grondslag van de erfbelasting behoort en of de vader recht heeft op de partnervrijstelling.</p>
+
+
+
+<h2 class="wp-block-heading">Aandeel in woning belast met erfbelasting </h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat alles wat krachtens erfrecht wordt verkregen belast is met erfbelasting, ook het aandeel in de woning dat met smartengeld is gefinancierd. De wet biedt geen ruimte om onderscheid te maken naar de herkomst van het verkregen vermogen. Dat is een bewuste keuze van de wetgever, omdat de rechtvaardiging voor de erfbelasting ligt in de vermeerdering van de draagkracht van de verkrijger.</p>
+
+
+
+<h2 class="wp-block-heading">Geen partnervrijstelling voor de vader </h2>
+
+
+
+<p class="wp-block-paragraph">Het beroep op het discriminatieverbod van artikel 14 EVRM verwerpt de rechtbank, omdat de Hoge Raad al heeft geoordeeld dat uitsluiting van bloedverwanten in de rechte lijn als partner niet discriminerend is. Ook het beroep op artikel 8 EVRM (family life) slaagt niet: de vader stelt geen feiten die zien op een beperking van zijn eigen gezinsleven, alleen op de situatie van zijn overleden zoon. Tot slot verwerpt de rechtbank het beroep op het evenredigheidsbeginsel, omdat de wetgever de uitsluiting van bloedverwanten bewust en volledig heeft afgewogen. Het beroep is ongegrond en de aanslag blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 1 Successiewet 1956</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-8?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-14?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 EVRM</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6244" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 29-07-2026, ECLI:NL:RBGEL:2026:6244, ARN 24/7924 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/erfbelasting-man.jpg" length="31725" type="image/jpeg" />	</item>
+		<item>
+		<title>Correctie box 3-vermogen wegens overtollige liquiditeiten in eenmanszaak</title>
+		<link>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/</link>
+					<comments>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 07:58:04 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166576</guid>
+
+					<description><![CDATA[Rechtbank Den Haag oordeelt dat de inspecteur het box 3-vermogen van de man terecht heeft gecorrigeerd wegens duurzaam overtollige liquiditeiten in zijn eenmanszaak. Slechts €165.000 van de bank- en spaartegoeden geldt als werkkapitaal; het restant is overtollig en valt in box 3.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Den Haag oordeelt dat de inspecteur het box 3-vermogen van de man terecht heeft gecorrigeerd wegens duurzaam overtollige liquiditeiten in zijn eenmanszaak. Slechts € 165.000 van de bank- en spaartegoeden geldt als werkkapitaal; het restant is overtollig en valt in box 3.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man drijft een eenmanszaak in advies en consultancy en heeft daarnaast vermogen in box 2 en box 3. In zijn aangifte IB/PVV 2020 geeft hij een verzamelinkomen aan van 27.109, met onder meer zelfstandigenaftrek. De inspecteur wijkt bij de aanslag af van de aangifte, omdat uit de jaarrekening van een fonds voor gemene rekening blijkt dat de man meer bank- en spaartegoeden bezit dan aangegeven. In bezwaar corrigeert de inspecteur het ondernemingsvermogen ook wegens duurzaam overtollige liquiditeiten, onder verwijzing naar een eerdere procedure over 2018.</p>
+
+
+
+<h2 class="wp-block-heading">Werkkapitaal werkt door naar latere jaren</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank leidt uit de procedure over 2018 af dat destijds € 165.000 aan liquide middelen als werkkapitaal is aangemerkt (€ 95.000 voor de fiscale oudedagsreserve, € 60.000 voor een bedrijfsauto en €10.000 voor zonnepanelen). Die overheveling naar box 3 werkt door naar latere jaren, dus ook naar 2020. Van de € 451.050 aan bank- en spaartegoeden van de eenmanszaak is daarom slechts € 165.000 werkkapitaal; het restant van € 286.051 is duurzaam overtollig en valt in box 3. De gestelde plannen voor eigen kantoorruimte zijn niet concreet genoeg onderbouwd, mede gelet op de beperkte omzet van de onderneming.</p>
+
+
+
+<p class="wp-block-paragraph">De man maakt verder niet aannemelijk dat hij in 2020 aan het urencriterium voldeed: zijn urenadministratie beslaat slechts drie maanden en ontbreekt aan controleerbare onderliggende stukken. De zelfstandigenaftrek is daarom terecht geweigerd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.6</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.76?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.76 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBDHA_2026_11616" target="_blank" rel="noreferrer noopener">Rechtbank Den Haag, 24-04-2026 (gepubliceerd 31-07-2026), ECLI:NL:RBDHA:2026:11616, AWB &#8211; 25 _ 4024 | NDFR</a>, </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/04/Verlies_ondernemer.jpg" length="18772" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt box 3 en terugstorting betaalde lijfrentepremies en/of -inleg na opzegging of ontbinding lijfrenteverzekeringen</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166574</guid>
+
+					<description><![CDATA[De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord op welke wijze het bedrag van de terugstorting van betaalde lijfrentepremies en/of   - inleg na opzegging of ontbinding van een lijfrenteproduct in aanmerking wordt genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord op welke wijze het bedrag van de terugstorting van betaalde lijfrentepremies en/of   &#8211; inleg na opzegging of ontbinding van een lijfrenteproduct in aanmerking wordt genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tevens is het standpunt <a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg20220248-box-3-en-geruisloze-terugstorting-te-veel-betaalde-lijfrentepremies-en-of-inleg/" target="_blank" rel="noreferrer noopener">KG:202:2024:8</a>, dat ziet op de geruisloze terugstorting van te veel betaalde premies voor een lijfrente in box 3, ingetrokken in verband met het vervallen van onderdeel 2.5 van het Verzamelbesluit lijfrenten en overige periodieke uitkeringen. Het nieuwe standpunt komt tot dezelfde uitkomst als het ingetrokken standpunt.</p>
+
+
+
+<p class="wp-block-paragraph">Naar aanleiding van de invoering van de herstelwetgeving (Wet rechtsherstel box 3) en de overbruggingswetgeving met betrekking tot hoofdstuk 5 van de Wet IB 2001) komen diverse vragen op over de kwalificatie van vermogensbestanddelen, zoals het recht op terugbetaling van de betaalde lijfrentepremies en/of -inleg na opzegging van het lijfrenteproduct op grond van de (wettelijke) bedenktijd.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Op welke wijze wordt het bedrag van premie(s) die vóór de peildatum in box 3 zijn betaald, maar door opzegging of ontbinding van een lijfrenteproduct na de peildatum in box 3 worden terug ontvangen, op de peildatum in aanmerking genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">In geval van een terugbetaling van premie(s) wegens opzegging of ontbinding van een lijfrenteproduct, wordt &#8211; als voorwaarde van goedkeurend beleid &#8211; de premiestorting geacht niet te hebben plaatsgevonden. Wanneer de premiestorting heeft plaatsgevonden vóór de peildatum in box 3 en het bedrag na de peildatum in box 3 wordt teruggestort, wordt alsdan het teruggestorte bedrag als overige bezitting opgenomen in de rendementsgrondslag van box 3 van het betreffende kalenderjaar. Dit geldt zowel onder de Wet rechtsherstel box 3 als onder de box 3-wetgeving met ingang van 1 januari 2023.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/" target="_blank" rel="noreferrer noopener">Belastingdienst, 11 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Aangifte bepaalt hoogte overbedelingsschuld erfbelasting</title>
+		<link>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 08:39:25 +0000</pubDate>
+				<category><![CDATA[Erf- en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166569</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat bij de waardering van een overbedelingsschuld in een nalatenschap moet worden aangesloten bij de aangifte erfbelasting van de nalatenschap van de vader, in plaats van bij de schattingen van de man of de inspecteur.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat bij de waardering van een overbedelingsschuld in een nalatenschap moet worden aangesloten bij de aangifte erfbelasting van de nalatenschap van de vader, in plaats van bij de schattingen van de man of de inspecteur.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man gaat in 1991 een maatschap aan met zijn vader. Na het overlijden van de vader in 2013 wordt destijds geen aangifte erfbelasting ingediend, waarna de inspecteur ambtshalve aanslagen oplegt. In een eerdere procedure bij rechtbank Oost-Brabant wordt geoordeeld dat de onroerende zaken zijn ingebracht in de maatschap en dat de maatschap in 2013 is ontbonden. Via een vaststellingsovereenkomst ontvangen de overige erfgenamen samen € 180.000 en komt het restant van de nalatenschappen toe aan de man. In 2018 overlijdt ook de moeder van de man. Voor deze verkrijging legt de inspecteur de man een aanslag erfbelasting op. Partijen verschillen van mening over de hoogte van de overbedelingsschuld van de moeder aan de erfgenamen in verband met de nalatenschap van de vader.</p>
+
+
+
+<h2 class="wp-block-heading">Schattingen bieden geen houvast</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank overweegt dat de nalatenschap moet worden gewaardeerd naar de waarde in het economisch verkeer op het moment van de verkrijging. Overbedelingsvorderingen moeten daarbij worden gewaardeerd naar de werkelijke, civielrechtelijke waarde. Het bedrag van € 268.405 dat de man voorstaat, is gebaseerd op de geschatte bedragen die de inspecteur destijds ambtshalve hanteerde bij het opleggen van de aanslagen over de nalatenschap van de vader en biedt daarom geen goede maatstaf. Ook het bedrag van € 112.500 dat de inspecteur voorstaat, berust op een schatting: bij gebrek aan informatie gaat de inspecteur ervan uit dat de helft van het bedrag uit de vaststellingsovereenkomst van € 180.000 toerekenbaar is aan de nalatenschap van de vader. Beide bedragen zijn volgens de rechtbank onvoldoende onderbouwd.</p>
+
+
+
+<h2 class="wp-block-heading">Aangifte geeft beste indicatie</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank sluit aan bij het bedrag van € 193.960 dat volgt uit de aangifte erfbelasting die op 27 november 2024 namens de overige erfgenamen van de vader is ingediend. Weliswaar ontbreekt een nadere onderbouwing van dit bedrag en is niet zeker of de inspecteur de aangifte zal volgen, maar dit bedrag geeft volgens de rechtbank een betere indicatie van de werkelijke waarde van de overbedelingsschuld dan de schattingen van partijen. De rechtbank weegt mee dat de man niet betrokken was bij deze aangifte en er dus geen belang bij had. Andere concrete gegevens over de werkelijke waarde van de nalatenschap van de vader zijn er niet. De belaste verkrijging komt hiermee uit op € 27.739. De rechtbank verklaart het beroep gegrond en vermindert de aanslag erfbelasting dienovereenkomstig.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-21?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 21 Successiewet 1956 </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_6742" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 20-07-2026, ECLI:NL:RBZWB:2026:6742, BRE 24/7297 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">Basiscursus Estate planning | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">In een dag alle aspecten van estate planning</p>
+
+
+
+<p class="wp-block-paragraph">Maak kennis met de estate planning en weet hoe je jouw client civiel en fiscaal bij kunt staan.&nbsp;<br>In deze basiscursus worden alle relevante aspecten van de estate planning (schenking, huwelijkse voorwaarden, testament, levensverzekeringen, internationaal) vanuit zowel een civielrechtelijk als fiscaal perspectief behandeld.</p>
+
+
+
+<p class="wp-block-paragraph">De cursus biedt de mogelijkheid om kennis te maken met het ‘denken’ als estate planner, en is een uitstekende voorbereiding op de Specialisatieopleiding Estate planning.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d" href="https://www.licentacademy.nl/opleidingen/basisopleidingen/2914/basiscursus-estate-planning" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d > i {display: none !important;}</style>
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/06/estate_planning.jpg" length="27826" type="image/jpeg" />	</item>
+		<item>
+		<title>Memo verduidelijkt btw-gevolgen nieuwe bekostigingsregeling opvang en huisvesting</title>
+		<link>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/</link>
+					<comments>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 06:26:42 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166554</guid>
+
+					<description><![CDATA[De Belastingdienst heeft samen met de Vereniging van Nederlandse Gemeenten (VNG) een memo gepubliceerd over de btw- en btw-compensatiefonds (BCF)-aspecten van de Regeling tijdelijke bekostiging opvang en huisvesting gemeenten, die op 1 juli 2026 in werking is getreden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst heeft samen met de Vereniging van Nederlandse Gemeenten (VNG) een memo gepubliceerd over de btw- en btw-compensatiefonds (BCF)-aspecten van de Regeling tijdelijke bekostiging opvang en huisvesting gemeenten, die op 1 juli 2026 in werking is getreden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Met de regeling heeft het ministerie van Justitie en Veiligheid verschillende bestaande financiële regelingen voor de opvang en huisvesting van asielzoekers, vergunninghouders, Oekraïense ontheemden en andere vreemdelingen samengevoegd tot één uniform bekostigingskader. Gemeenten ontvangen via een specifieke uitkering een vergoeding voor de daadwerkelijk gemaakte kosten van de realisatie, exploitatie en uitvoering van opvang- en huisvestingsvoorzieningen. Daarnaast bevat de regeling vergoedingen voor bijzondere kosten, verstrekkingen aan ontheemden en voorbereidingskosten.</p>
+
+
+
+<p class="wp-block-paragraph">Het nieuwe memo geeft gemeenten vooraf duidelijkheid over de fiscale gevolgen van deze bekostigingsregeling voor de omzetbelasting en de toepassing van het btw-compensatiefonds. Het document is opgesteld op verzoek van het ministerie van Justitie en Veiligheid en de VNG en is in gezamenlijk overleg met deze partijen tot stand gekomen.</p>
+
+
+
+<p class="wp-block-paragraph">Het memo is bedoeld als een uniform kader voor de uitvoeringspraktijk, zodat gemeenten de btw- en BCF-regels op een consistente wijze kunnen toepassen bij de uitvoering van de regeling.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://vng.nl/media/60090">Memo btw- en BCF-aspecten bekostigingsregeling opvang en huisvesting </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://vng.nl/nieuws/btw-aspecten-bekostigingsregeling-opvang-en-huisvesting" data-type="link" data-id="https://vng.nl/nieuws/btw-aspecten-bekostigingsregeling-opvang-en-huisvesting" target="_blank" rel="noreferrer noopener">VNG, 10 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/08/ANP-tijdelijkeopvang-768x368.jpg" length="131364" type="image/jpeg" />	</item>
+	</channel>
+</rss>

@@ -1,0 +1,70 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-07-29-1600-editorial-editorial-212469dd8f44",
+  "release": "2026-07-29-1600-editorial",
+  "date": "2026-07-29",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-07-29T12:05:50.330129+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "212469dd8f44bfc3fa919f31abbbbf9e9bc2fd343af21416643eb492f89984a1",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 9,
+    "missing_post_ids": [
+      "416"
+    ]
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 16691,
+      "sha256": "212469dd8f44bfc3fa919f31abbbbf9e9bc2fd343af21416643eb492f89984a1"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-29_shortlist.json",
+      "bytes": 5482,
+      "sha256": "949ea28e2e30139263f6b4c9f349a35c19d0331c860fcffd910bbe147c26dc8d",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-29_digest.md",
+      "bytes": 3817,
+      "sha256": "9340612d7988cf0adb6198d9c912fc06b995f18500b9e5c7e2e8626ee5959aae",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 7059,
+      "sha256": "91999706810c999914765ea561709ed17e931c5e33efb698f7e6c9687098bfaa",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 2830,
+      "sha256": "8469e56493fc3193630b60772e8939787b922a7b5dfe97614beda8faada60299",
+      "records": 10
+    }
+  }
+}

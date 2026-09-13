@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-18",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 309,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/montenegro-issues-rulebook-on-cross-border-tax-reporting-transfer-pricing/",
+      "ecli": "",
+      "act": "",
+      "title": "Montenegro issues rulebook on cross-border tax reporting, transfer pricing",
+      "summary": "Montenegro’s government has published Rulebook No. 10/1-1-01-040/26-2637/4 in the Official Gazette on 7 August 2026, clarifying the automatic exchange of information (AEOI) with EU member states and the European Commission (EC) on previous transfer pricing agreements and tax rulings with cross-border implications. The enactment of the “Rulebook on the closer method of reporting on advance...",
+      "published_at": "2026-08-17",
+      "score": 12.0,
+      "topics": [
+        "advance_rulings",
+        "exchange_info",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 310,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/us-trump-administration-wins-court-backing-elimination-of-tariff-exemption-on-low-value-imports/",
+      "ecli": "",
+      "act": "",
+      "title": "US: Trump administration wins court backing elimination of tariff exemption on low-value imports",
+      "summary": "The US Court of International Trade issued a ruling on 13 August 2025 that sided with the Trump administration’s decision to eliminate the “de minimis” tariff exemption for small-value imports below USD 800. The three-judge panel found that the International Emergency Economic Powers Act (IEEPA) provided the president with sufficient authority to rescind this long-standing...",
+      "published_at": "2026-08-17",
+      "score": 12.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [
+        "us"
+      ],
+      "jurisdiction_names": [
+        "США"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 311,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingfraude-bij-verkoop-pand/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingfraude bij verkoop pand",
+      "summary": "",
+      "published_at": "2026-08-17",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 312,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/switzerland-adopts-dispatch-for-temporary-vat-increase-to-fund-security-spending/",
+      "ecli": "",
+      "act": "",
+      "title": "Switzerland adopts dispatch for temporary VAT increase to fund security spending",
+      "summary": "Switzerland’s Federal Council has adopted a dispatch proposing a temporary increase in Value Added Tax (VAT) to strengthen the country’s security and defence capabilities. At its meeting on 12 August 2026, the Federal Council proposed increasing the standard VAT rate by 0.5 percentage points for 12 years from 2028. The special rate would rise by...",
+      "published_at": "2026-08-17",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

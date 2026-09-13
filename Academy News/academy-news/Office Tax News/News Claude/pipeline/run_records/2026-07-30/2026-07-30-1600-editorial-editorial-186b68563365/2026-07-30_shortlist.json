@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-30",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 228,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/czech-republic-senate-approves-income-tax-treaty-with-malta/",
+      "ecli": "",
+      "act": "",
+      "title": "Czech Republic: Senate approves income tax treaty with Malta",
+      "summary": "The Czech Republic Senate has approved the new income tax treaty with Malta on 29 July 2026. The new agreement will replace the existing 1996 Czech Republic – Malta income and capital tax treaty that has been in force since 1997. The treaty aims to prevent double taxation and income tax evasion between the two...",
+      "published_at": "2026-07-30",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

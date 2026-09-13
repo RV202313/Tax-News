@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 374,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/",
+      "ecli": "",
+      "act": "",
+      "title": "Prejudiciële vraag HR over verlies heffingskorting box 3",
+      "summary": "De Hoge Raad vraagt het HvJ of de Nederlandse volgorde bij verrekening van buitenlandse bronbelasting in strijd is met het vrije kapitaalverkeer. Door deze volgorde kan een belastingplichtige heffingskortingen verliezen bij beleggingen in buitenlandse aandelen.",
+      "published_at": "2026-09-07",
+      "score": 9.9,
+      "topics": [
+        "nl_fiscaal",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 375,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/betwiste-kostenposten-naheffingsaanslag-parkeerbelasting-vallen-binnen-verhaalbarekostenlimiet/",
+      "ecli": "",
+      "act": "",
+      "title": "Betwiste kostenposten naheffingsaanslag parkeerbelasting vallen binnen verhaalbarekostenlimiet",
+      "summary": "",
+      "published_at": "2026-09-07",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 376,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/iceland-mof-consults-tax-law-changes-on-interest-deductions-charities-rulings-and-nicotine-products/",
+      "ecli": "",
+      "act": "",
+      "title": "Iceland: MoF consults tax law changes on interest deductions, charities, rulings and nicotine products",
+      "summary": "Iceland’s Ministry of Finance and Economic Affairs (MoF) has initiated a public consultation on several proposed legislative amendments in its draft document on 4 September 2026, with a targeted entry into force on 1 January 2027. These planned amendments aim to simplify administrative processes, increase operational efficiency, and close existing loopholes to ensure better tax...",
+      "published_at": "2026-09-07",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

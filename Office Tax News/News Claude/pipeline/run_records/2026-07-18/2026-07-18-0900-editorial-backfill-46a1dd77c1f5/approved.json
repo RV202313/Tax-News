@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-18",
+  "release": "2026-07-18-0900-editorial",
+  "items": [
+    {
+      "slug": "2026-07-18-hk-morocco-dta-round2",
+      "title": "Гонконг и Марокко завершили второй раунд переговоров по новому СИДН",
+      "caption": "Гонконгский IRD обновил страницу переговоров по налоговым соглашениям 16 июля 2026 года: второй раунд переговоров с Марокко шёл с 13 по 17 июля 2026 года и был завершён 16 июля. Пока это ещё не подписанный договор, но формально зафиксирован новый этап переговоров по будущему соглашению об избежании двойного налогообложения.\n\nПочему это важно: для групп с потоками между Гонконгом и Марокко это ранний сигнал готовить карту рисков по дивидендам, процентам, royalty и MAP до появления текста договора.\n\nИсточник: https://www.ird.gov.hk/eng/tax/dta3.htm\n\n#СИДН #Гонконг #Марокко #международноеналогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "СИДН,налоговые соглашения,переговоры",
+      "jurisdictions": "Гонконг,Марокко",
+      "act": "IRD Negotiations Commenced / to be Commenced, revision 16.07.2026",
+      "sources": [
+        {
+          "label": "Hong Kong IRD",
+          "url": "https://www.ird.gov.hk/eng/tax/dta3.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "HK-MA DTA",
+        "color_a": [18, 62, 96],
+        "color_b": [153, 82, 68]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "IRD page revised 2026-07-16; checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-at-uzbekistan-protocol",
+      "title": "Австрийский Бундесрат продвигает протокол к налоговому соглашению с Узбекистаном",
+      "caption": "Финансовый комитет Бундесрата 14 июля 2026 года рассмотрел решение Национального совета по протоколу и дополнительному протоколу к соглашению Австрии и Узбекистана от 14 июня 2000 года. В отчёте прямо сказано, что действующее соглашение не соответствует стандартам OECD по BEPS и налоговой прозрачности, а комитет единогласно рекомендовал не возражать и дать конституционное согласие.\n\nПочему это важно: документ показывает, что ратификация входит в финальную стадию и что обновление договора идёт именно под BEPS- и transparency-повестку.\n\nИсточник: https://www.parlament.gv.at/dokument/BR/I-BR/11845/fnameorig_1771965.html\n\n#СИДН #Австрия #Узбекистан #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "СИДН,BEPS,ратификация",
+      "jurisdictions": "Австрия,Узбекистан",
+      "act": "11845/BR Ausschussbericht, 14.07.2026",
+      "sources": [
+        {
+          "label": "Parlament Österreich",
+          "url": "https://www.parlament.gv.at/dokument/BR/I-BR/11845/fnameorig_1771965.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "AT-UZ Protocol",
+        "color_a": [31, 48, 95],
+        "color_b": [123, 154, 90]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "treaty_protocol",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "Bundesrat report lines 4-21 checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-it-vat-split-payment-2029",
+      "title": "ЕС продлил для Италии special VAT split-payment до 30 июня 2029 года",
+      "caption": "Совет ЕС принял Implementing Decision (EU) 2026/1728 от 10 июля 2026 года и официально продлил для Италии специальный split-payment по НДС до 30 июня 2029 года. В решении указано, что мера продолжает работать как антифрод-инструмент в связке с обязательным e-invoicing, а Италия должна представить Комиссии отдельный отчёт по эффекту и возвратам НДС к сентябрю 2027 года.\n\nПочему это важно: поставщики в итальянский public sector и связанные структуры получают ещё три года режима, который влияет на cash flow, VAT credits и сроки возврата.\n\nИсточник: http://data.europa.eu/eli/dec_impl/2026/1728/oj\n\n#НДС #Италия #VAT #антифрод #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,антифрод,split payment",
+      "jurisdictions": "ЕС,Италия",
+      "act": "Council Implementing Decision (EU) 2026/1728",
+      "sources": [
+        {
+          "label": "EUR-Lex",
+          "url": "http://data.europa.eu/eli/dec_impl/2026/1728/oj"
+        }
+      ],
+      "image_spec": {
+        "badge": "Italy VAT",
+        "color_a": [24, 92, 96],
+        "color_b": [186, 103, 71]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "eu_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "EUR-Lex decision 2026/1728 checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-it-transizione-4-0-continuity",
+      "title": "Италия разрешила сохранить льготу Transizione 4.0 при реорганизации бизнеса",
+      "caption": "FiscoOggi 10 июля 2026 года разобрал risposta n. 139/2026: налоговый кредит Transizione 4.0 не теряется автоматически, если компания переживает кризис, реорганизацию или даже судебную ликвидацию, но фактически продолжает бизнес и не идёт к окончательному прекращению деятельности. Отдельно подтверждено, что при scissione кредит может перейти вместе с передаваемым ramo d’azienda, если именно там остаются льготные активы.\n\nПочему это важно: для групп с carve-out, split и distressed restructuring это практический ориентир, как не потерять инвестиционную льготу из-за корпоративной формы сделки.\n\nИсточник: https://www.fiscooggi.it/portale/-/credito-d-imposta-transizione-4.0-s%C3%AC-al-beneficio-se-l-impresa-continua\n\n#Италия #налоговыельготы #реструктуризация #НДС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы,реорганизация,инвестиции",
+      "jurisdictions": "Италия",
+      "act": "Risposta n. 139/2026, explained by FiscoOggi 10.07.2026",
+      "sources": [
+        {
+          "label": "FiscoOggi",
+          "url": "https://www.fiscooggi.it/portale/-/credito-d-imposta-transizione-4.0-s%C3%AC-al-beneficio-se-l-impresa-continua"
+        }
+      ],
+      "image_spec": {
+        "badge": "IT 4.0",
+        "color_a": [54, 77, 132],
+        "color_b": [86, 141, 112]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_clarification",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "FiscoOggi article with risposta 139/2026 checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-stablecoins-tax",
+      "title": "HMRC приравняет eligible stablecoins к денежным инструментам для ряда налоговых целей",
+      "caption": "HMRC опубликовала policy paper 13 июля 2026 года: для физлиц и трастов disposal eligible stablecoins будет выводиться из Capital Gains Tax, доходность по ним станет облагаться как savings income, а для компаний операции с такими токенами войдут в loan relationship rules. Оперативная дата заявлена с 6 апреля 2027 года для физлиц и трастов и с 1 апреля 2027 года для компаний.\n\nПочему это важно: международным группам и treasury-функциям придётся заново сверять налоговую модель расчётов и внутригруппового финансирования через stablecoins.\n\nИсточник: https://www.gov.uk/government/publications/tax-treatment-of-stablecoins/taxation-of-stablecoins\n\n#Великобритания #stablecoins #CapitalGainsTax #корпоративныеналоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы,CGT,корпоративное налогообложение",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Tax treatment of stablecoins, published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/tax-treatment-of-stablecoins/taxation-of-stablecoins"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Stablecoins",
+        "color_a": [21, 54, 109],
+        "color_b": [122, 132, 71]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "HMRC stablecoins policy paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-uk-crypto-loans-ngnl",
+      "title": "HMRC вводит no gain/no loss для cryptoasset loans и liquidity pools",
+      "caption": "В отдельном policy paper HMRC от 13 июля 2026 года предложила режим no gain/no loss для ряда операций с cryptoasset loans и liquidity pools. Мера должна откладывать Capital Gains Tax до реального economic disposal и охватывает single cryptoasset lending arrangements, borrowing arrangements и automated market making arrangements. Оперативная дата указана с 6 апреля 2027 года.\n\nПочему это важно: для трансграничных владельцев цифровых активов и DeFi-структур снижается риск преждевременного налогообложения при технических переводах токенов в рамках lending и liquidity strategies.\n\nИсточник: https://www.gov.uk/government/publications/cryptoasset-loans-and-liquidity-pools/tax-treatment-of-cryptoasset-loans-and-liquidity-pools\n\n#Великобритания #криптоактивы #DeFi #CapitalGainsTax #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы,CGT,DeFi",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC Tax treatment of Cryptoasset Loans and Liquidity Pools, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/cryptoasset-loans-and-liquidity-pools/tax-treatment-of-cryptoasset-loans-and-liquidity-pools"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Crypto",
+        "color_a": [43, 61, 119],
+        "color_b": [84, 145, 120]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "HMRC crypto loans paper checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-fr-crs-dac2-campaign",
+      "title": "Франция закрыла основное окно CRS/DAC2-отчётности 15 июля и сократила корректирующую кампанию",
+      "caption": "DGFiP выпустила техническое задание CRS/DAC2 XML v3.7, где в календаре кампании 2026 года зафиксированы сразу три ключевые точки: 15 июля 2026 года как регуляторный дедлайн валидной подачи, 16 июля 2026 года в 08:00 как закрытие Télé-TD для приёма файлов и 28 сентября 2026 года в 08:00 как переоткрытие окна для корректировок. В документе отдельно сказано, что корректирующая кампания будет короче обычной, потому что Франции нужно отправить correction files партнёрам до 1 января 2027 года по новому schema v3.\n\nПочему это важно: финансовым институтам и CRS-провайдерам уже сейчас надо пересобрать график исправлений и контроль поставщиков данных.\n\nИсточник: https://www.impots.gouv.fr/sites/default/files/media/1_metier/3_partenaire/tiers_declarants/cdc_td_bilateral/cahier-des-charges-fr-crs-dac2xml-3.7.pdf\n\n#CRS #DAC2 #Франция #автообмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CRS,DAC2,автоматический обмен",
+      "jurisdictions": "Франция",
+      "act": "Cahier des charges CRS XML V3.7",
+      "sources": [
+        {
+          "label": "impots.gouv.fr",
+          "url": "https://www.impots.gouv.fr/sites/default/files/media/1_metier/3_partenaire/tiers_declarants/cdc_td_bilateral/cahier-des-charges-fr-crs-dac2xml-3.7.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "FR CRS",
+        "color_a": [16, 76, 120],
+        "color_b": [153, 111, 65]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "technical_spec",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "DGFiP CRS XML v3.7 calendar checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-cn-export-vat-refund-date",
+      "title": "Китай уточнил, по какой дате применяется экспортная ставка VAT refund",
+      "caption": "Ляонинское управление STA 17 июля 2026 года опубликовало официальное разъяснение по применению пункта 3 Announcement No. 11 of 2026 о возврате экспортного НДС. Ответ разводит три режима: для обычного customs export ключевой датой является дата в экспортной таможенной декларации, для non-customs export — дата экспортного или обычного invoice, а для bonded-zone export — дата выбытия товара из зоны по таможенному документу.\n\nПочему это важно: у экспортёров и сервисных групп меняется момент, на который надо проверять ставку refund и собирать доказательства для файла на возврат.\n\nИсточник: https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171423.html\n\n#Китай #VATrefund #экспорт #НДС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,экспорт,возврат налога",
+      "jurisdictions": "Китай,Ляонин",
+      "act": "Liaoning STA article 171423, 17.07.2026",
+      "sources": [
+        {
+          "label": "Liaoning Tax",
+          "url": "https://liaoning.chinatax.gov.cn/art/2026/7/17/art_99_171423.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN VAT Refund",
+        "color_a": [31, 70, 108],
+        "color_b": [170, 120, 65]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_clarification",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "Liaoning article 171423 checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-eu-dividends-infringement",
+      "title": "Еврокомиссия требует от Германии, Франции и Италии пересмотреть налогообложение дивидендов из ЕС",
+      "caption": "В июльском infringements package Комиссия объявила о направлении letters of formal notice Германии, Франции и Италии из-за правил налогообложения дивидендов, получаемых от дочерних компаний в других государствах ЕС. Сигнал исходит именно из блока по свободам ЕС и применению Parent-Subsidiary logic внутри Союза.\n\nПочему это важно: для холдингов и inbound/outbound структур это ранний индикатор возможной корректировки национальных правил по освобождению дивидендов, удержанию налога и антиабьюз-подходам.\n\nИсточник: https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376\n\n#ЕС #дивиденды #holding #ParentSubsidiary #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "дивиденды,ЕС,холдинговые структуры",
+      "jurisdictions": "ЕС,Германия,Франция,Италия",
+      "act": "European Commission July infringements package, INF_26_1376",
+      "sources": [
+        {
+          "label": "European Commission",
+          "url": "https://ec.europa.eu/commission/presscorner/detail/en/inf_26_1376"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU Dividends",
+        "color_a": [24, 65, 133],
+        "color_b": [102, 140, 88]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "infringement_package",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "Commission package snippet and presscorner URL checked 2026-07-18"
+      }
+    },
+    {
+      "slug": "2026-07-18-eu-turkiye-aeo-mra",
+      "title": "ЕС и Турция согласовали взаимное признание AEO-программ в таможенном контуре",
+      "caption": "DG TAXUD сообщила 16 июля 2026 года, что Комитет по таможенному сотрудничеству ЕС и Турции принял решение о взаимном признании программ Authorised Economic Operator. После запуска структурированного обмена данными таможни смогут учитывать trusted trader status контрагента при risk assessment и определении уровня контроля.\n\nПочему это важно: для групп с цепочками поставок EU-Türkiye это может ускорить пропуск, снизить объём проверок и поменять внутренние customs compliance expectations.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/eu-and-turkiye-new-agreement-strengthen-customs-cooperation-2026-07-16_en\n\n#таможня #ЕС #Турция #AEO #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,AEO,международная торговля",
+      "jurisdictions": "ЕС,Турция",
+      "act": "EU-Türkiye Customs Cooperation Committee AEO MRA, 16.07.2026",
+      "sources": [
+        {
+          "label": "DG TAXUD",
+          "url": "https://taxation-customs.ec.europa.eu/news/eu-and-turkiye-new-agreement-strengthen-customs-cooperation-2026-07-16_en"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU-TR AEO",
+        "color_a": [19, 73, 114],
+        "color_b": [150, 88, 74]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "customs_cooperation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex morning cycle",
+        "evidence": "DG TAXUD announcement checked 2026-07-18"
+      }
+    }
+  ]
+}

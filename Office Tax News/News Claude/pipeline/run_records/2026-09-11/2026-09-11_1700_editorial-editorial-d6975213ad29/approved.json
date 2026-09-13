@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-11_1700_editorial",
+  "date": "2026-09-11",
+  "slot": "1700",
+  "items": [
+    {
+      "slug": "2026-09-11-item-1700-01-ru",
+      "title": "В Управлении наградили разработчиков лучших практик профессионального развития",
+      "caption": "В Управлении наградили разработчиков лучших практик профессионального развития\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16648764/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "В Управлении наградили разработчиков лучших практик профессионального развития",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16648764/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-02-ru",
+      "title": "ФНС России утвердила новый порядок сопровождения компаний при переходе на налоговый мониторинг",
+      "caption": "ФНС России утвердила новый порядок сопровождения компаний при переходе на налоговый мониторинг\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16648756/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "ФНС России утвердила новый порядок сопровождения компаний при переходе на налоговый мониторинг",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16648756/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-03-vat",
+      "title": ": НДС , постановил",
+      "caption": ": НДС , постановил\n\nИсточник: https://regfollower.com/south-africa-sars-clarifies-higher-vat-registration-thresholds-deregistration-rules/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "VAT",
+      "act": ": НДС , постановил",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/south-africa-sars-clarifies-higher-vat-registration-thresholds-deregistration-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-04-certificate",
+      "title": "постановил of by",
+      "caption": "постановил of by\n\nИсточник: https://regfollower.com/bosnia-and-herzegovina-adopts-new-rules-governing-issuance-of-tax-certificates-by-fta/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "CERTIFICATE",
+      "act": "постановил of by",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bosnia-and-herzegovina-adopts-new-rules-governing-issuance-of-tax-certificates-by-fta/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-05-exemption",
+      "title": ": on освобождение",
+      "caption": ": on освобождение\n\nИсточник: https://regfollower.com/turkey-revenue-administration-publishes-guidance-on-foreign-income-exemption/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "EXEMPTION",
+      "act": ": on освобождение",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/turkey-revenue-administration-publishes-guidance-on-foreign-income-exemption/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-06-with",
+      "title": "обновил НДС с , постановил",
+      "caption": "обновил НДС с , постановил\n\nИсточник: https://regfollower.com/uae-updates-vat-framework-with-new-input-tax-apportionment-cash-payment-rules/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "WITH",
+      "act": "обновил НДС с , постановил",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-updates-vat-framework-with-new-input-tax-apportionment-cash-payment-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-07-us",
+      "title": "Великобритания: HMRC НДС , бизнесу to",
+      "caption": "Великобритания: HMRC НДС , бизнесу to\n\nИсточник: https://regfollower.com/uk-hmrc-revises-vat-refunds-gives-businesses-route-to-revisit-rejected-claims/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "US",
+      "act": "Великобритания: HMRC НДС , бизнесу to",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uk-hmrc-revises-vat-refunds-gives-businesses-route-to-revisit-rejected-claims/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-08-rules",
+      "title": "установила постановил ,",
+      "caption": "установила постановил ,\n\nИсточник: https://regfollower.com/bosnia-and-herzegovina-sets-new-rules-for-tax-overpayment-refunds-default-interest/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RULES",
+      "act": "установила постановил ,",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bosnia-and-herzegovina-sets-new-rules-for-tax-overpayment-refunds-default-interest/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-09-us",
+      "title": "предлагает постановил, 2027",
+      "caption": "предлагает постановил, 2027\n\nИсточник: https://regfollower.com/mexico-proposes-tighter-corporate-tax-rules-business-deductions-under-2027-economic-package/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "US",
+      "act": "предлагает постановил, 2027",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/mexico-proposes-tighter-corporate-tax-rules-business-deductions-under-2027-economic-package/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-1700-10-us",
+      "title": ": одобрил , бизнесу",
+      "caption": ": одобрил , бизнесу\n\nИсточник: https://regfollower.com/vietnam-national-assembly-approves-cit-pit-reductions-for-small-businesses/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "US",
+      "act": ": одобрил , бизнесу",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/vietnam-national-assembly-approves-cit-pit-reductions-for-small-businesses/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    }
+  ]
+}

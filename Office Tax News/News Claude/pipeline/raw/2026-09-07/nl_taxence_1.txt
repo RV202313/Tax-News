@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 07 Sep 2026 09:22:19 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Verdiepingscursus Internationale aspecten loonheffing &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/verdiepingscursus-internationale-aspecten-loonheffing-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/verdiepingscursus-internationale-aspecten-loonheffing-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 09:22:18 +0000</pubDate>
+				<category><![CDATA[30%regeling]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Arbeid & Loon]]></category>
+		<category><![CDATA[Internationaal]]></category>
+		<category><![CDATA[Loonheffing]]></category>
+		<category><![CDATA[sociale zekerheid]]></category>
+		<category><![CDATA[Verdiepingscursussen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167118</guid>
+
+					<description><![CDATA[In een dag verdieping op internationale aspecten loonheffing Tijdens deze verdiepingscursus zoomt loonheffingenspecialist Jaap Spierenburg in op de internationale aspecten van de loonheffingen. Daarbij is er onder meer aandacht voor de belastingplicht van niet in Nederland wonende werknemers, de inhoudingsplicht voor niet in Nederland gevestigde werkgevers, internationale sociale zekerheid, de internationale aspecten van de werkkostenregeling<a class="read-more" href="https://www.taxence.nl/agenda/verdiepingscursus-internationale-aspecten-loonheffing-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>In een dag verdieping op internationale aspecten loonheffing<em><strong><br /></strong></em></p>
+<p>Tijdens deze verdiepingscursus zoomt loonheffingenspecialist Jaap Spierenburg in op de internationale aspecten van de loonheffingen. Daarbij is er onder meer aandacht voor de belastingplicht van niet in Nederland wonende werknemers, de inhoudingsplicht voor niet in Nederland gevestigde werkgevers, internationale sociale zekerheid, de internationale aspecten van de werkkostenregeling en niet te vergeten de (nu nog) 30%-regeling.&nbsp;Ook komen praktische zaken aan de orde die een rol spelen in de loonadministratie voor grensoverschrijdende werknemers en wordt aandacht besteed aan de salary split.</p>
+<p><strong>Voor wie?</strong><br />De cursus richt zich op (belasting)adviseurs, salarisadministrateurs en bedrijfsfiscalisten die reeds over basiskennis op het gebied van loonheffingen beschikken en zich&nbsp;verder willen ontwikkelen in de internationale aspecten van loonheffing.&nbsp;</p>
+</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/verdiepingscursussen/3144/internationale-aspecten-loonheffing" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/verdiepingscursus-internationale-aspecten-loonheffing-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pitstop casuscollege bedrijfsopvolging &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/pitstop-casuscollege-bedrijfsopvolging-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/pitstop-casuscollege-bedrijfsopvolging-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 09:19:37 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[bedrijfsoverdracht]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[PE-Pitstops]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167170</guid>
+
+					<description><![CDATA[Een verfijnde vertaling van de BOR naar de echte praktijk Tijdens deze pitstop wordt een praktijkgerichte verdieping gemaakt ten aanzien van de fiscale en juridische aspecten van bedrijfsopvolging bij schenken en overlijden. We gaan hierbij wel wat verder dan een recht-toe-recht-aan behandeling van de BOR en DSR. Bij de bespreking van de diverse onderwerpen staat<a class="read-more" href="https://www.taxence.nl/agenda/pitstop-casuscollege-bedrijfsopvolging-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Een verfijnde vertaling van de BOR naar de echte praktijk</p>
+<p>Tijdens deze pitstop wordt een praktijkgerichte verdieping gemaakt ten aanzien van de fiscale en juridische aspecten van bedrijfsopvolging bij schenken en overlijden. We gaan hierbij wel wat verder dan een recht-toe-recht-aan behandeling van de BOR en DSR. Bij de bespreking van de diverse onderwerpen staat het aanmerkelijk belang centraal. Aan de orde komen onder meer:</p>
+<p>Preferente aandelen anno 2026: fiscaal drijfzand of kans?<br />
+De invloed van het huwelijksvermogensrecht op de BOR en DSR (goederen-gemeenschap, finaal- en periodiek verrekenbeding,)<br />
+Verdeling en BOR (art. 35f SW, art. 4.17, 4.17a lid 15, 4.17b Wet IB, art. 10 lid 7 URSW)<br />
+Afrekenen of doorschuiven? (rekentechniek IB en SW)<br />
+Het legaat van het indirecte belang (art. 4:49 BW, relevante besluit SW)<br />
+Change of control bepalingen: de blinde vlek!<br />
+Capita selecta</p>
+<p><strong>Voor wie?<br /></strong>Deze cursus is bedoeld voor (fiscaal) adviseurs die regelmatig te maken hebben met bedrijfsopvolging. Ondanks dat tijdens de cursus regelmatig het civiele recht aan de orde komt, is het niet noodzakelijk dat u civielrechtelijk bent geschoold. Het is een pré als u t.a.v. de BOR en DSR de weg weet in zowel de Successiewet als de Wet IB.</p>
+<p><strong>Leerdoel<br /></strong>Na het volgen van deze pitstop kent u een aantal belangrijke do&#8217;s-and-don&#8217;ts bij de bedrijfsopvolging en bent u (beter) in staat kansen te benutten en bloopers te voorkomen. U kunt uw cliënt proactief adviseren over bepaalde concrete aspecten die vaak liggen op het snijpunt van het fiscale en civiele recht.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/pitstops/3120/pe-pitstop-optimaliseren-bedrijfsopvolgingsregeling-bor" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/pitstop-casuscollege-bedrijfsopvolging-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Economisch belang in onverdeelde aandelen vormt aanmerkelijk belang</title>
+		<link>https://www.taxence.nl/nieuws/economisch-belang-in-onverdeelde-aandelen-vormt-aanmerkelijk-belang/</link>
+					<comments>https://www.taxence.nl/nieuws/economisch-belang-in-onverdeelde-aandelen-vormt-aanmerkelijk-belang/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 09:01:33 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167206</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een erfgenaam door haar economische belang in onverdeelde aandelen een aanmerkelijk belang heeft. Dat de aandelen niet op haar naam staan en tot een gemeenschap van vier erfgenamen behoren, maakt dit niet anders.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een erfgenaam door haar economische belang in onverdeelde aandelen een aanmerkelijk belang heeft. Dat de aandelen niet op haar naam staan en tot een gemeenschap van vier erfgenamen behoren, maakt dit niet anders.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Na het overlijden van haar moeder in 2006 erft een vrouw samen met haar drie broers en zussen onder meer twaalf aandelen in een vennootschap. Iedere erfgenaam is voor een vierde deel gerechtigd tot de nalatenschap. Door een ruzie blijven de twaalf aandelen onverdeeld. In 2020 verkoopt en levert de vrouw haar onverdeelde aandeel in deze aandelen aan haar broer voor € 90.000. In haar aangifte IB/PVV 2020 geeft zij hiervoor € 4.532 belastbaar inkomen uit aanmerkelijk belang aan. De inspecteur stelt dit inkomen vast op € 39.311. In hoger beroep stellen haar erfgenamen dat de vrouw nooit een aanmerkelijk belang heeft gehad. Volgens hen is in 2020 geen sprake van een verkoop van aandelen, maar van de afwikkeling van een erfrechtelijke aanspraak.</p>
+
+
+
+<h3 class="wp-block-heading">Economisch belang is beslissend</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof stelt voorop dat voor een aanmerkelijk belang voldoende is dat iemand het volledige economische belang bij de aandelen houdt. De civielrechtelijke duiding van de verkrijging kan daarom in het midden blijven. De vrouw heeft in 2006 een vierde deel van het economische belang bij de twaalf aandelen verkregen. Dit komt overeen met drie aandelen. Dat de aandelen niet op haar naam staan en onderdeel zijn van een onverdeelde gemeenschap van vier erfgenamen, doet daar niet aan af. Omdat het economische belang bij deze drie aandelen meer dan 5% van het geplaatste aandelenkapitaal vertegenwoordigt, heeft de vrouw een aanmerkelijk belang. De inspecteur heeft daarom bij de verkoop in 2020 terecht belastbaar inkomen uit aanmerkelijk belang in aanmerking genomen. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.6 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5068" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 28-07-2026, ECLI:NL:GHARL:2026:5068, 25/1012 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/economisch-belang-in-onverdeelde-aandelen-vormt-aanmerkelijk-belang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/02/Aandeel.jpg" length="15281" type="image/jpeg" />	</item>
+		<item>
+		<title>Prejudiciële vraag HR over verlies heffingskorting box 3</title>
+		<link>https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/</link>
+					<comments>https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 08:37:13 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167204</guid>
+
+					<description><![CDATA[De Hoge Raad vraagt het HvJ of de Nederlandse volgorde bij verrekening van buitenlandse bronbelasting in strijd is met het vrije kapitaalverkeer. Door deze volgorde kan een belastingplichtige heffingskortingen verliezen bij beleggingen in buitenlandse aandelen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad vraagt het HvJ of de Nederlandse volgorde bij verrekening van buitenlandse bronbelasting in strijd is met het vrije kapitaalverkeer. Door deze volgorde kan een belastingplichtige heffingskortingen verliezen bij beleggingen in buitenlandse aandelen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man woont in 2017 en 2018 in Nederland en bezit aandelen in een Belgische vennootschap. In 2017 ontvangt hij € 21.150 dividend waarop 30% Belgische bronbelasting wordt ingehouden. Voor € 3.173 bestaat recht op voorkoming van dubbele belasting. Omdat zijn box 3-inkomen in 2017 nihil is, wordt dit bedrag doorgeschoven naar 2018. In dat jaar bedraagt zijn box 3-belasting € 3.266. Eerst wordt de € 3.173 buitenlandse bronbelasting verrekend, waarna € 93 resteert. Hoewel de man recht heeft op € 2.396 aan heffingskortingen, kan hij daardoor slechts € 93 benutten. Hij stelt dat deze volgorde hem benadeelt ten opzichte van iemand die in Nederlandse aandelen belegt.</p>
+
+
+
+<h2 class="wp-block-heading">Buitenlandse bronbelasting geen voorheffing</h2>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad oordeelt dat buitenlandse bronbelasting niet gelijkgesteld kan worden met Nederlandse dividendbelasting. Buitenlandse bronbelasting is geen voorheffing op de Nederlandse inkomstenbelasting en hoeft daarom niet te worden uitbetaald als onvoldoende Nederlandse inkomstenbelasting beschikbaar is voor verrekening. Het Unierecht verplicht lidstaten evenmin om buitenlandse bronbelasting onbeperkt te verrekenen. Ook het EVRM leidt op dit punt niet tot een ander oordeel. De vermindering ter voorkoming van dubbele belasting mag dus worden begrensd tot de in Nederland verschuldigde inkomstenbelasting.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag over verlies heffingskortingen</h2>
+
+
+
+<p class="wp-block-paragraph">Wel ziet de Hoge Raad een probleem bij het verlies van heffingskortingen. De verrekening van buitenlandse bronbelasting gaat vóór de heffingskortingen. Niet-benutte buitenlandse bronbelasting kan worden doorgeschoven, terwijl niet-benutte heffingskortingen definitief verloren gaan. Hierdoor wordt beleggen in buitenlandse aandelen minder aantrekkelijk dan beleggen in Nederlandse aandelen en ontstaat een belemmering van het vrije kapitaalverkeer. De Hoge Raad betwijfelt of praktische en administratieve redenen deze belemmering kunnen rechtvaardigen. Omdat twijfel bestaat of de belemmering van het vrije kapitaalverkeer kan worden gerechtvaardigd, legt de Hoge Raad hierover een prejudiciële vraag voor aan het HvJ. De Hoge Raad houdt iedere verdere beslissing aan totdat het HvJ uitspraak heeft gedaan.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-2.7?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 2.7</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-8.8?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">8.8</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.2?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">9.2 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-23?lid=BWBV0001563&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 23 Verdrag NL-BE</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0012095-25?lid=BWBR0012095&amp;pid=c-NDFRSUCCWBR&amp;pid=c-NDFRINTERNAT&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 25</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0012095-25a?lid=BWBR0012095&amp;pid=c-NDFRSUCCWBR&amp;pid=c-NDFRINTERNAT&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 25 Bvdb 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001506-63?lid=BWBV0001506&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 63 VWEU</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1417" target="_blank" rel="noreferrer noopener">Hoge Raad, 04-09-2026, ECLI:NL:HR:2026:1417, 23/01387 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/InternationalBusiness-768x432.jpg" length="46957" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 11 september 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-11-september-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-11-september-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 07 Sep 2026 06:59:45 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167201</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 11 september 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 11 september 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/02715</td><td>Gerechtshof Amsterdam 23 mei 2023, nr. 22/00429<br>ECLI:NL:GHAMS:2023:1382 <em>Beperking verliesverrekening geldt ook voor latente verliezen</em></td><td>NTFR 2023/1282</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Wattel 23 februari 2024, nr. 23/02715<br>ECLI:NL:PHR:2024:197</td><td>NTFR 2024/556</td></tr><tr><td>25/00028</td><td>Gerechtshof Arnhem-Leeuwarden 26 november 2024, nr. 23/15<br>ECLI:NL:GHARL:2024:7346 <em>Verzoek om uitstel van zitting na belangenafweging afgewezen</em></td><td>NTFR 2025/153</td></tr><tr><td>25/02255</td><td>Gerechtshof Den Haag 8 mei 2025, nr. 23/1213<br>ECLI:NL:GHDHA:2025:1749 <em>Hogerberoepsgronden hebben betrekking op andere aanslag dan primaire beschikking</em></td><td>NTFR 2025/1815</td></tr><tr><td>25/04399</td><td>Gerechtshof Den Haag 23 oktober 2025, nr. 24/897<br>ECLI:NL:GHDHA:2025:2595 <em>WOZ-beschikking niet strijdig met EVRM; geen rechtsregel tegen dagtekening op zondag</em></td><td>NTFR 2026/252</td></tr><tr><td>26/00724</td><td>Gerechtshof Amsterdam 20 januari 2026, nrs. 25/56 en 25/57<br>ECLI:NL:GHAMS:2026:187 <em>Box 3-heffing over contant geld en ambtshalve vermindering: geen ruimte voor rechtsherstel vóór 2017</em></td><td>NTFR 2026/349</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>25/00723</td><td>Gerechtshof Den Haag 14 januari 2025, nr. 24/114<br>ECLI:NL:GHDHA:2025:261 <em>Niet-ontvankelijk omdat afgegeven volmacht niet volstaat voor nieuwe procedure</em></td><td>&nbsp;</td></tr><tr><td>25/00724</td><td>Gerechtshof Den Haag 14 januari 2025, nrs. 24/117 en 24/118<br>ECLI:NL:GHDHA:2025:262 <em>Geringe overschrijding opbrengstlimiet leidt niet tot onverbindendheid</em></td><td>&nbsp;</td></tr><tr><td>25/02556</td><td>Gerechtshof Den Haag 4 juni 2025, nr. 24/683<br>ECLI:NL:GHDHA:2025:2789 <em>Onroerende zaak niet tot box 3-vermogen gerekend; vermindering aanslag</em></td><td>&nbsp;</td></tr><tr><td>25/03813</td><td>Gerechtshof Den Haag 10 september 2025, nrs. 24/969 t/m 24/971<br>ECLI:NL:GHDHA:2025:1806 <em>Geen schending toezendplicht; geanonimiseerde huurtransacties niet-woningen hoeven niet te worden verstrekt</em></td><td>&nbsp;</td></tr><tr><td>25/04063</td><td>Gerechtshof Den Haag 23 september 2025, nr. 24/131<br>ECLI:NL:GHDHA:2025:1994 <em>Bezwaar tegen WOZ-beschikking had niet-ontvankelijk moeten worden verklaard om huurder geen procesbelang had</em></td><td>&nbsp;</td></tr><tr><td>26/00051</td><td>Gerechtshof Den Haag 26 november 2025, nr. 25/137<br>ECLI:NL:GHDHA:2025:2876 Geen procesbelang huurder bij waardebepaling sociale huurwoning</td><td>&nbsp;</td></tr><tr><td>26/00139</td><td>Gerechtshof ’s-Hertogenbosch 10 december 2025, nrs. 24/1593 t/m 24/1596<br>ECLI:NL:GHSHE:2025:3547 <em>Geen recht op dwangsommen en proceskosten na gegronde beroepen tegen naheffingsaanslagen</em></td><td>&nbsp;</td></tr><tr><td>26/00939</td><td>Gerechtshof ’s-Hertogenbosch 4 februari 2026, nr. 24/419<br>ECLI:NL:GHSHE:2026:234 <em>Hennepkwekerij: Omkering bewijslast en matiging vergrijpboete wegens financiële omstandigheden</em></td><td>&nbsp;</td></tr><tr><td>26/00945</td><td>Gerechtshof Amsterdam 3 februari 2026, nr. 24/3429<br>ECLI:NL:GHAMS:2026:516 <em>WOZ</em><em>‑</em><em>waarde luxe vrijstaande woning niet te hoog vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>26/00999</td><td>Gerechtshof Arnhem-Leeuwarden 17 februari 2026, nr. 24/74<br>ECLI:NL:GHARL:2026:1006 <em>Niet aannemelijk gemaakt dat sprake is van meer schade dan door Inspecteur in aanmerking genomen</em></td><td>&nbsp;</td></tr><tr><td>26/01029</td><td>Gerechtshof Amsterdam 3 februari 2026, nr. 24/1926<br>ECLI:NL:GHAMS:2026:795 <em>Proceskostenvergoeding bezwaar: geen beroepsmatig verleende rechtsbijstand door gemachtigde</em></td><td>&nbsp;</td></tr><tr><td>26/01038</td><td>Gerechtshof Amsterdam 3 februari 2026, nrs. 24/3087 t/m 24/03092<br>ECLI:NL:GHAMS:2026:794 <em>Navorderingsaanslagen en vergrijpboeten taxiondernemer wegens verzwegen omzet bevestigd</em></td><td>&nbsp;</td></tr><tr><td>26/01140</td><td>Gerechtshof ’s-Hertogenbosch 25 februari 2026, nr. 24/1254<br>ECLI:NL:GHSHE:2026:462 <em>Arbeidskorting niet van toepassing op pensioeninkomsten uit vroegere arbeid</em></td><td>&nbsp;</td></tr><tr><td>26/01141</td><td>Gerechtshof Amsterdam 5 februari 2026, nr. 24/3212<br>ECLI:NL:GHAMS:2026:519 <em>Proceskostenvergoeding op basis van toezegging, ondanks niet</em><em>‑</em><em>professionele gemachtigde</em></td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/02711</td><td>Hoge Raad der Nederlanden 6 juni 2025, nr. 24/03602, ECLI:NL:HR:2025:878</td></tr><tr><td>25/03570</td><td>Gerechtshof Amsterdam 2 september 2025, nr. 24/3122, ECLI:NL:GHAMS:2025:3544</td></tr><tr><td>25/03953</td><td>Gerechtshof Den Haag, nr. 24/1078</td></tr><tr><td>25/04298</td><td>Rechtbank Noord-Holland, nr. 23/5675</td></tr><tr><td>26/00058</td><td>Rechtbank Den Haag, nr. 25/1425 V</td></tr><tr><td>26/00276</td><td>Gerechtshof Amsterdam, nr. 24/3536</td></tr><tr><td>26/00279</td><td>Gerechtshof Amsterdam, nr. 24/3537</td></tr><tr><td>26/00280</td><td>Gerechtshof Amsterdam, nr. 24/3540</td></tr><tr><td>26/00281</td><td>Gerechtshof Amsterdam, nr. 24/3539</td></tr><tr><td>26/00512</td><td>Gerechtshof Den Haag, nr. 25/0104</td></tr><tr><td>26/01644</td><td>Centrale Raad van Beroep 31 maart 2026, nr. 22/2887, ECLI:NL:CRVB:2026:404</td></tr><tr><td>26/02117</td><td>Hoge Raad der Nederlanden 10 oktober 2025, nr. 25/02442, ECLI:NL:HR:2025:1537</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-11-september-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Rechtspraak-nieuw1-1.jpg" length="42143" type="image/jpeg" />	</item>
+		<item>
+		<title>Concernregeling werkkostenregeling mogelijk ondanks belang Staat</title>
+		<link>https://www.taxence.nl/nieuws/concernregeling-werkkostenregeling-mogelijk-ondanks-belang-staat/</link>
+					<comments>https://www.taxence.nl/nieuws/concernregeling-werkkostenregeling-mogelijk-ondanks-belang-staat/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 10:12:55 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167174</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat de concernregeling voor de werkkostenregeling kan worden toegepast op een groep staatsdeelnemingen zonder dat andere, niet-verbonden overheidsdeelnemingen hoeven mee te doen. Een collectiviteitskorting mag daarentegen niet in mindering komen op de waarde van verstrekte reisfaciliteiten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat de concernregeling voor de werkkostenregeling kan worden toegepast op een groep staatsdeelnemingen zonder dat andere, niet-verbonden overheidsdeelnemingen hoeven mee te doen. Een collectiviteitskorting mag daarentegen niet in mindering komen op de waarde van verstrekte reisfaciliteiten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Zes vennootschappen behoren tot een groep die zich vooral bezighoudt met reizigersvervoer per spoor en de exploitatie van stations. De Staat is uiteindelijk aandeelhouder van de groep. Op grond van de cao hebben werknemers, oud-werknemers en hun gezinsleden recht op verschillende reisfaciliteiten. Vanaf 2015 passen de vennootschappen de werkkostenregeling toe. De inspecteur legt over 2015 tot en met 2019 naheffingsaanslagen loonheffingen op. Volgens hem behoren de verstrekte reisfaciliteiten tot het loon, mag daarop geen collectiviteitskorting in mindering worden gebracht en kan de concernregeling niet worden toegepast. In hoger beroep is onder meer in geschil of de collectiviteitskorting de waarde van het loon verlaagt en of de concernregeling kan worden beperkt tot de betrokken groep.</p>
+
+
+
+<h3 class="wp-block-heading">Geen aftrek collectiviteitskorting</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de reisfaciliteiten hun grond vinden in de dienstbetrekking en daarom tot het loon behoren. De collectiviteitskorting verlaagt de waarde daarvan niet. Uit de stukken blijkt namelijk dat de korting alleen geldt voor grote zakelijke klanten die specifieke reisproducten afnemen. Voor de verstrekte Dal-abonnementen en losse treinreizen kan zo&#8217;n korting niet worden bedongen. Ook de bijzondere waarderingsregel voor branche-eigen producten leidt daarom niet tot aftrek van de collectiviteitskorting.</p>
+
+
+
+<h3 class="wp-block-heading">Redelijke toepassing concernregeling</h3>
+
+
+
+<p class="wp-block-paragraph">De letterlijke tekst van art. 32 Wet LB brengt mee dat ook de Staat en andere overheidsdeelnemingen tot hetzelfde concern behoren. Het hof vindt die uitkomst echter niet passend. Andere overheidsdeelnemingen zijn op geen enkele wijze financieel, organisatorisch of economisch verweven met de betrokken groep. Een redelijke wetstoepassing brengt daarom mee dat zij niet aan de concernregeling hoeven deel te nemen. De concernregeling kan worden beperkt tot de moedermaatschappij en haar concernonderdelen. Beide hoger beroepen zijn gegrond en de naheffingsaanslagen worden verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-13?lid=BWBR0002471&amp;pid=c-NDFRLB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-32?lid=BWBR0002471&amp;pid=c-NDFRLB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 32 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5301" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 11-08-2026, ECLI:NL:GHARL:2026:5301, 25/858 tot en met 25/883 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/concernregeling-werkkostenregeling-mogelijk-ondanks-belang-staat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/11/Treinverkeer.jpg" length="44937" type="image/jpeg" />	</item>
+		<item>
+		<title>Geactualiseerd Box 3-besluit bevat nieuwe goedkeuringen voor belastingschulden en vruchtgebruik</title>
+		<link>https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/</link>
+					<comments>https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Lindenberg]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2026 10:08:47 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167190</guid>
+
+					<description><![CDATA[Het Box 3-besluit bevat nieuwe goedkeuringen voor belastingschulden, tegenbewijs en vruchtgebruik.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">De staatssecretaris van Financiën heeft het Box 3-besluit geactualiseerd. Het besluit bevat onder meer nieuwe goedkeuringen voor nog niet opgelegde inkomsten- en schenkbelasting, verduidelijkingen over de tegenbewijsregeling box 3 en soepelere regels bij vruchtgebruik en bloot eigendom.</p>
+
+
+
+<h3 class="wp-block-heading">Belangrijkste wijzigingen</h3>
+
+
+
+<p class="wp-block-paragraph">Belastingschulden zijn in beginsel geen schulden in box 3. Dit kan nadelig uitpakken als een belastingplichtige rond de peildatum voldoende banktegoeden heeft gereserveerd voor een aanslag, maar de Belastingdienst die aanslag niet tijdig oplegt. Bij een tijdig verzoek om een (nadere) voorlopige aanslag inkomstenbelasting mag daarom onder voorwaarden het banktegoed op de peildatum worden verminderd met maximaal het verschuldigde belastingbedrag. Een vergelijkbare goedkeuring geldt als tijdig aangifte schenkbelasting is gedaan, maar de aanslag door de verwerkingstijd pas na de box 3-peildatum wordt opgelegd. Het banktegoed kan daarbij niet negatief worden. Bij toepassing van de tegenbewijsregeling blijft de daadwerkelijk ontvangen rente over het banktegoed wel tot het werkelijke rendement behoren.</p>
+
+
+
+<p class="wp-block-paragraph">Verder verduidelijkt het besluit de situatie waarin de opbrengst van een verkochte eigen woning tijdelijk op een bankrekening staat en pas na de jaarwisseling wordt gebruikt voor een nieuwe woning. Onder het forfaitaire stelsel behoort het saldo op de peildatum tot box 3; bij toepassing van de tegenbewijsregeling wordt aangesloten bij het werkelijk behaalde rendement.</p>
+
+
+
+<p class="wp-block-paragraph">Ook wordt de defiscalisering van vruchtgebruik en bloot eigendom versoepeld. Als het vruchtgebruik niet direct juridisch is gevestigd, mag de defiscalisering op grond van de hardheidsclausule toch vanaf het overlijden gelden, mits het recht binnen twee jaar wordt gevestigd. Daarnaast komt er een goedkeuring voor de waardering van vruchtgebruik met een metterwoonclausule: onder voorwaarden mag worden gewaardeerd alsof sprake is van een levensafhankelijk vruchtgebruik. Dit geldt ook voor een recht van gebruik en bewoning.</p>
+
+
+
+<h3 class="wp-block-heading">Inwerkingtreding en bron</h3>
+
+
+
+<p class="wp-block-paragraph">Het besluit treedt in werking op 5 september 2026, de dag na publicatie in de Staatscourant. Het eerdere Box 3-besluit van 7 mei 2024 wordt met ingang van die datum ingetrokken.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bron:</strong> <a href="https://www.ndfr.nl/content/stcrt-2026-31484">Besluit staatssecretaris van Financiën van 4 september 2026, nr. 2026-2613, Stcrt. 2026, 31484</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/06/Huis-geld.jpg" length="13629" type="image/jpeg" />	</item>
+		<item>
+		<title>Nederland zet in op afspraken over grensoverschrijdend telewerk</title>
+		<link>https://www.taxence.nl/nieuws/nederland-zet-in-op-afspraken-over-grensoverschrijdend-telewerk/</link>
+					<comments>https://www.taxence.nl/nieuws/nederland-zet-in-op-afspraken-over-grensoverschrijdend-telewerk/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 13:27:03 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167172</guid>
+
+					<description><![CDATA[Het kabinet wil bestaande belemmeringen voor grenswerkers waar mogelijk wegnemen. Een fiscale Benelux-werkgroep onderzoekt welke arrangementen de situatie voor grenswerkers kunnen verbeteren, maar een rondetafelgesprek wordt op zijn vroegst in 2027 overwogen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil bestaande belemmeringen voor grenswerkers waar mogelijk wegnemen. Een fiscale Benelux-werkgroep onderzoekt welke arrangementen de situatie voor grenswerkers kunnen verbeteren, maar een rondetafelgesprek wordt op zijn vroegst in 2027 overwogen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De afgelopen jaren is regelmatig aandacht geweest voor de grenswerkersproblematiek. Het kabinet zet zich maximaal in om bestaande belemmeringen bij grenswerken weg te nemen. De aanbeveling van het Benelux Parlement over grensoverschrijdend telewerk vormt volgens staatssecretaris Eerenberg een mooi initiatief om de totstandkoming van een meer geharmoniseerd kader te bevorderen.</p>
+
+
+
+<p class="wp-block-paragraph">Nederland heeft de problematiek in het Benelux-jaarplan voor 2026 opnieuw geagendeerd. Inmiddels is een fiscale werkgroep ingesteld. De eerste bijeenkomst vond plaats op 29 mei 2026. Nederland, België en Luxemburg hebben daar hun standpunten en eventuele rode lijnen toegelicht. De Nederlandse inzet is onder meer gebaseerd op vermindering van administratieve lasten, coördinatie van sociale zekerheid en belastingen en het wegnemen van onzekerheid voor werknemers. Nederland hanteert in principe geen rode lijnen voor discussies over oplossingen binnen de Benelux-Unie.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Vier hoofdthema’s</strong></p>
+
+
+
+<p class="wp-block-paragraph">Nederland stelde voor de aanbeveling van het Benelux Parlement als uitgangspunt te nemen. Daarbij zet Nederland onder meer in op het synchroniseren van interpretaties van termen in belastingen en sociale zekerheid, het verminderen van administratieve lasten en het verduidelijken van de toepassing van het nieuwe OESO-commentaar over de thuiswerk-vasteinrichting. Ook wil Nederland afspraken in belastingverdragen verkennen.</p>
+
+
+
+<p class="wp-block-paragraph">Omdat de posities van de drie Benelux-landen uiteenlopen, bleek het niet haalbaar hierover op korte termijn te spreken. De werkgroep richt zich daarom op vier hoofdthema’s: definities binnen de belastingwetgeving, vermindering van administratieve lasten, de mogelijkheden voor een one-stop shop op middellange tot lange termijn en verduidelijking van het nieuwe OESO-commentaar.</p>
+
+
+
+<p class="wp-block-paragraph">Een rondetafelgesprek in 2026 vindt de werkgroep voorbarig. Dit kan in 2027 worden overwogen, zodra tastbare resultaten zijn bereikt. De staatssecretaris zegt de Eerste Kamer op de hoogte te houden van nieuwe ontwikkelingen met de buurlanden en binnen de Benelux.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://open.overheid.nl/details/eb197172-0f05-4e37-abc9-3298abccce85" target="_blank" rel="noreferrer noopener">Bron: Eerste Kamer, vergaderjaar 2025–2026, 35 714, O, 3 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nederland-zet-in-op-afspraken-over-grensoverschrijdend-telewerk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/belgie-nederland-grens.jpg" length="68863" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet scherpt toezicht op brievenbusfirma’s verder aan</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-scherpt-toezicht-op-brievenbusfirmas-verder-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-scherpt-toezicht-op-brievenbusfirmas-verder-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 08:15:38 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167166</guid>
+
+					<description><![CDATA[Het kabinet werkt aan verdere versterking van de transparantie van eigendomsstructuren en uiteindelijk belanghebbenden. Nieuwe Europese antiwitwasregels moeten onder meer leiden tot strengere eisen voor domicilieverleners.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet werkt aan verdere versterking van de transparantie van eigendomsstructuren en uiteindelijk belanghebbenden. Nieuwe Europese antiwitwasregels moeten onder meer leiden tot strengere eisen voor domicilieverleners.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Complexe eigendomsstructuren zijn volgens het kabinet op zichzelf niet ongebruikelijk of onrechtmatig, maar kunnen het moeilijker maken om inzicht te krijgen in uiteindelijke belanghebbenden (UBO’s) en geldstromen. Het kabinet reageert hiermee op Kamervragen over mogelijke corruptie via Nederlandse brievenbusfirma’s bij een Albanees resort.</p>
+
+
+
+<p class="wp-block-paragraph">Trustkantoren vallen onder de Wet toezicht trustkantoren 2018 (Wtt 2018) en hebben een poortwachtersfunctie. De regels zijn de afgelopen jaren aanzienlijk aangescherpt. Zo geldt voor trustkantoren een verbod op het geven van belastingadvies en het optreden als doorstroomvennootschap. Ook zijn maatregelen genomen tegen het ontwijken van de vergunningplicht.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Minder geld naar laagbelastende landen</strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens het kabinet hebben de fiscale maatregelen Nederland minder aantrekkelijk gemaakt voor doorstroomstructuren. Zowel het aantal financiële holdings van multinationals als het aantal trustkantoren is in ongeveer tien jaar bijna gehalveerd. Ook zijn de inkomensstromen vanuit Nederland naar laagbelastende jurisdicties afgenomen van € 37 miljard in 2019 naar € 6,5 miljard in 2024.</p>
+
+
+
+<p class="wp-block-paragraph">Bij de implementatie van het Europese antiwitwaspakket komt een registratieplicht voor domicilieverleners. Het kabinet wil daarnaast gebruikmaken van een lidstaatoptie waardoor domicilieverleners en bredere trustdienstverleners verscherpt cliëntenonderzoek moeten toepassen. Het wetsvoorstel voor de implementatie wordt naar verwachting voor het einde van 2026 bij de Tweede Kamer ingediend.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>UBO-grens blijft 25%</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet kiest er vanwege de administratieve lasten niet voor om in hoogrisicosituaties de grens om als UBO te worden aangemerkt te verlagen naar 15%. Een aandeelhouder met minder dan 25% kan overigens nu al UBO zijn als deze op een andere manier zeggenschap heeft over de onderneming.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/207cb0b4-abfd-4bbd-a3f8-cf9113c048cd" target="_blank" rel="noreferrer noopener">Tweede Kamer, vergaderjaar 2025–2026, nr. 2026Z13066 </a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-scherpt-toezicht-op-brievenbusfirmas-verder-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Wereldeconomie.jpg" length="293890" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen aftrek afwaardering leningen aan verlieslatende bv</title>
+		<link>https://www.taxence.nl/nieuws/geen-aftrek-afwaardering-leningen-aan-verlieslatende-bv/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-aftrek-afwaardering-leningen-aan-verlieslatende-bv/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2026 07:22:16 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167153</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat een dga geen afwaarderingsverlies kan nemen op verschillende leningen aan een vennootschap. Voor de gecedeerde lening bieden de borgstellingen verhaal, terwijl de overige leningen onzakelijk zijn.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat een dga geen afwaarderingsverlies kan nemen op verschillende leningen aan een vennootschap. Voor de gecedeerde lening bieden de borgstellingen verhaal, terwijl de overige leningen onzakelijk zijn.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een dga houdt via zijn bv een belang van 25% in een vennootschap die onroerend goed bezit. Hij heeft zich samen met anderen borg gesteld voor bankleningen aan deze vennootschap. Nadat een belangrijke huurder vertrekt, wil de bank de financiering vanwege de hoge loan-to-value en negatieve cashflow niet langer voortzetten. In 2019 neemt de dga via cessie een vordering van ongeveer € 313.000 op de vennootschap over. Daarnaast verstrekt hij € 37.001 voor de betaling van boeterente en maakt hij verschillende aanvullende bedragen over. In zijn aangifte IB/PVV 2020 neemt hij een afwaardering van € 388.380 als kosten uit terbeschikkingstelling in aanmerking. De inspecteur weigert deze aftrek. In geschil is of de dga vanwege de afwaardering van de verschillende vorderingen een verlies uit terbeschikkingstelling mag nemen.</p>
+
+
+
+<h3 class="wp-block-heading">Borgstellingen verhinderen aftrek</h3>
+
+
+
+<p class="wp-block-paragraph">Met de overname van de banklening gaan ook de bestaande borgstellingen over. Daardoor kan de dga als schuldeiser de andere borgstellers aanspreken voor zijn verlies. Hij maakt niet aannemelijk dat deze borgen geen verhaal bieden. Dat onderling is afgesproken de borgstellingen niet in te roepen, maakt dit niet anders. De rechtbank beschouwt die afspraak fiscaal als onzakelijk en negeert deze bij het bepalen van het resultaat uit terbeschikkingstelling. Van een aftrekbaar verlies op de gecedeerde vordering is daarom geen sprake.</p>
+
+
+
+<h3 class="wp-block-heading">Aanvullende leningen zijn onzakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">Ook de afwaardering van de overige leningen is niet aftrekbaar. Er zijn geen leningsovereenkomsten opgesteld, geen zekerheden bedongen en geen aflossingsschema&#8217;s afgesproken. Bovendien heeft de vennootschap al sinds 2011 een negatief eigen vermogen en zijn de leningen verstrekt nadat een belangrijke huurder is vertrokken en de bank de financiering wil beëindigen. De dga maakt niet aannemelijk dat het vastgoed voldoende verhaal biedt. Volgens de rechtbank zou geen willekeurige derde onder dezelfde voorwaarden geld hebben uitgeleend. De leningen zijn daarom onzakelijk en een afwaarderingsverlies is niet aftrekbaar. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.92?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 3.92</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.94?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;pid=c-NDFRWOZLOKAAL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.94 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_7938" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 20-08-2026, ECLI:NL:RBZWB:2026:7938, BRE 25/2399 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-aftrek-afwaardering-leningen-aan-verlieslatende-bv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Verlies-lening.jpg" length="29274" type="image/jpeg" />	</item>
+	</channel>
+</rss>

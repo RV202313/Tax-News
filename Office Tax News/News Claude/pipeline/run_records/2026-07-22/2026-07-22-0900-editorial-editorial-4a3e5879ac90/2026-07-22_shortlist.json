@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-22",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 127,
+      "source": "intl_regfollower",
+      "url": "",
+      "ecli": "",
+      "act": "",
+      "title": "Italy clarifies GMT penalties, 90-day return cutoff under voluntary disclosure, centralised GloBE filings",
+      "summary": "",
+      "published_at": "2026-07-20",
+      "score": 4.0,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 128,
+      "source": "intl_regfollower",
+      "url": "",
+      "ecli": "",
+      "act": "",
+      "title": "South Africa: SARS publishes Advance Pricing Agreement implementation webpage",
+      "summary": "",
+      "published_at": "2026-07-21",
+      "score": 5.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

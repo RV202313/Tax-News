@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-04",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 391,
+      "source": "nl_rechtspraak",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1417",
+      "ecli": "ECLI:NL:HR:2026:1417",
+      "act": "",
+      "title": "ECLI:NL:HR:2026:1417, Hoge Raad, 04-09-2026, 23/01387",
+      "summary": "Inkomstenbelasting; art. 15 AWR, art. 2.7, lid 1, Wet IB 2001, art. 25 en 25a Besluit voorkoming dubbele belasting 2001, art. 63 VWEU, art. 14 EVRM, art. 1 EP, art. 1 Twaalfde Protocol bij het EVRM; volgorde toepassing heffingskortingen en regeling(en) ter voorkoming van dubbele belasting leidt tot onbenutte heffingskortingen.",
+      "published_at": "2026-09-04",
+      "score": 14.5,
+      "topics": [
+        "dta",
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 392,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/",
+      "ecli": "",
+      "act": "",
+      "title": "Geactualiseerd Box 3-besluit bevat nieuwe goedkeuringen voor belastingschulden en vruchtgebruik",
+      "summary": "Het Box 3-besluit bevat nieuwe goedkeuringen voor belastingschulden, tegenbewijs en vruchtgebruik.",
+      "published_at": "2026-09-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 393,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-verrekening-loonheffing-en-aftrek-alimentatie-zonder-bewijs/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen verrekening loonheffing en aftrek alimentatie zonder bewijs",
+      "summary": "",
+      "published_at": "2026-09-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 394,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/waarde-economisch-verkeer-lijfrente-relevant-voor-box-3-heffing/",
+      "ecli": "",
+      "act": "",
+      "title": "Waarde economisch verkeer lijfrente relevant voor box 3-heffing",
+      "summary": "",
+      "published_at": "2026-09-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 395,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/belgium-mof-clarifies-treaty-coverage-of-japans-4-corporate-defence-tax/",
+      "ecli": "",
+      "act": "",
+      "title": "Belgium: MoF clarifies treaty coverage of Japan’s 4% corporate defence tax",
+      "summary": "The Belgian Ministry of Finance confirmed that Japan’s 4% special corporate tax on defence, effective from 1 April 2026, falls within the scope of the Belgium–Japan Income Tax Treaty (2016). It was clarified in Circular 2026/C/80 published on 2 September 2026. Japan’s tax authorities have activated a new special tax targeting defence companies, effective 1...",
+      "published_at": "2026-09-04",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings",
+        "dta",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

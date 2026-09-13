@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-10_1700_editorial",
+  "date": "2026-09-10",
+  "slot": "1700",
+  "items": [
+    {
+      "slug": "2026-09-10-item-1700-01-ru",
+      "title": "Для многодетных семей провели консультации по налоговым вычетам",
+      "caption": "Для многодетных семей провели консультации по налоговым вычетам\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16649051/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "Для многодетных семей провели консультации по налоговым вычетам",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16649051/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-02-ru",
+      "title": "Сергей Дубачев разъяснил принцип работы сервиса оценки юрлиц и ИП, а также перспективы его развития на заседании комитета «ОПОРЫ РОССИИ»",
+      "caption": "Сергей Дубачев разъяснил принцип работы сервиса оценки юрлиц и ИП, а также перспективы его развития на заседании комитета «ОПОРЫ РОССИИ»\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16649027/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "Сергей Дубачев разъяснил принцип работы сервиса оценки юрлиц и ИП, а также перспективы его развития на заседании комитета «ОПОРЫ РОССИИ»",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16649027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-03-kz",
+      "title": "Казахстан запускает - НДС 300.00",
+      "caption": "Казахстан запускает - НДС 300.00\n\nИсточник: https://regfollower.com/kazakhstan-launches-pre-filled-vat-return-service-for-form-300-00/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "KZ",
+      "act": "Казахстан запускает - НДС 300.00",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-launches-pre-filled-vat-return-service-for-form-300-00/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-04-kz",
+      "title": "Казахстан ратифицировал налоговое соглашение с",
+      "caption": "Казахстан ратифицировал налоговое соглашение с\n\nИсточник: https://regfollower.com/kazakhstan-ratifies-income-tax-treaty-with-oman/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "KZ",
+      "act": "Казахстан ратифицировал налоговое соглашение с",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-ratifies-income-tax-treaty-with-oman/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-05-tax treaty",
+      "title": ", on налоговое соглашение",
+      "caption": ", on налоговое соглашение\n\nИсточник: https://regfollower.com/kuwait-cuba-negotiates-on-establishing-tax-treaty/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "TAX TREATY",
+      "act": ", on налоговое соглашение",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kuwait-cuba-negotiates-on-establishing-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-06-hong kong",
+      "title": ", Гонконг",
+      "caption": ", Гонконг\n\nИсточник: https://regfollower.com/bangladesh-hong-kong-sign-investment-protection-agreement/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "HONG KONG",
+      "act": ", Гонконг",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bangladesh-hong-kong-sign-investment-protection-agreement/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-07-introduces",
+      "title": "обновил e- постановил, внедряет НДС",
+      "caption": "обновил e- постановил, внедряет НДС\n\nИсточник: https://regfollower.com/serbia-updates-e-invoicing-rules-introduces-preliminary-vat-return-framework/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "INTRODUCES",
+      "act": "обновил e- постановил, внедряет НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/serbia-updates-e-invoicing-rules-introduces-preliminary-vat-return-framework/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-08-japan",
+      "title": "Япония, налоговое соглашение",
+      "caption": "Япония, налоговое соглашение\n\nИсточник: https://regfollower.com/japan-mongolia-advance-income-tax-treaty-negotiations/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "JAPAN",
+      "act": "Япония, налоговое соглашение",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/japan-mongolia-advance-income-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-09-introduces",
+      "title": "внедряет постановил с 2027 года",
+      "caption": "внедряет постановил с 2027 года\n\nИсточник: https://regfollower.com/panama-introduces-economic-substance-rules-for-multinational-entities-from-2027/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "INTRODUCES",
+      "act": "внедряет постановил с 2027 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/panama-introduces-economic-substance-rules-for-multinational-entities-from-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1700-10-tax treaty",
+      "title": ", налоговое соглашение",
+      "caption": ", налоговое соглашение\n\nИсточник: https://regfollower.com/oman-rwanda-sign-income-tax-treaty/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "TAX TREATY",
+      "act": ", налоговое соглашение",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oman-rwanda-sign-income-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    }
+  ]
+}

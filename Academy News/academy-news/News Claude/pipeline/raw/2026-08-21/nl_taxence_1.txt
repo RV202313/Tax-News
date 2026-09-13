@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 20 Aug 2026 15:21:34 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Arbeidsongeschiktheidsuitkering geldt als pensioen, heffingsrecht bij Nederland</title>
+		<link>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/</link>
+					<comments>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 15:21:26 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166813</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en een voormalige werkgever gelden als pensioen onder het belastingverdrag met België, waardoor Nederland het heffingsrecht heeft.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en een voormalige werkgever gelden als pensioen onder het belastingverdrag met België, waardoor Nederland het heffingsrecht heeft.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man woont van 2020 tot en met 2023 in België en heeft tot medio 2020 een dienstbetrekking bij zijn werkgever. Daarna ontvangt hij een UWV-uitkering, arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en zijn voormalige werkgever, en een particuliere uitkering van een verzekeringsmaatschappij. Hij geeft deze inkomsten aan en de inspecteur legt de aanslagen conform op. Naar aanleiding van vrijstellingsverzoeken die de man in 2024 indient, onderzoekt de inspecteur de aangiften opnieuw en legt navorderingsaanslagen IB/PVV 2020 tot en met 2023 op. Partijen zijn verdeeld over de vraag of navordering mag en of Nederland heffingsrecht heeft over de uitkeringen.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Vrijstellingsverzoek is nieuw feit</strong></h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de inspecteur mag uitgaan van de juistheid van de aangiften, tenzij hij redelijkerwijs moet twijfelen. Dat is hier niet zo, omdat het niet ongebruikelijk is dat heffingsrechten aan het woonland toekomen. Dat in voorlopige aanslagen staat dat gegevens nog worden gecontroleerd, betekent niet dat dit ook is gebeurd; de aangiften doorlopen alsnog (deels) het geautomatiseerde proces. Pas de vrijstellingsverzoeken uit 2024 vormen daarom het nieuwe feit dat navordering rechtvaardigt.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Uitkering telt als pensioen</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Voor de UWV-uitkering in de periode voor de beëindiging van het dienstverband wijst het verdrag het heffingsrecht toe aan Nederland op grond van artikel 18, zesde lid. Voor de uitkeringen van het pensioenfonds, de bv en de werkgever oordeelt de rechtbank dat dit pensioenen zijn in de zin van artikel 19, tweede lid van het verdrag. Omdat het verdrag geen omschrijving van pensioen geeft, kijkt de rechtbank naar de Wet op de loonbelasting 1964. Een arbeidsongeschiktheidsuitkering die langer dan een jaar duurt en niet uitgaat boven wat redelijk is, geldt daarin als pensioenuitkering. Dat is hier het geval, en het heffingsrecht komt daarom toe aan Nederland. Voor de particuliere uitkering van de verzekeringsmaatschappij heeft België echter het heffingsrecht op grond van artikel 18, eerste lid. De navorderingsaanslagen IB/PVV 2021 tot en met 2023 worden daarom verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-18?lid=BWBV0001563&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 18</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-19?lid=BWBV0001563&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">19 Verdrag Nederland-België</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_7356" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 07-08-2026, ECLI:NL:RBZWB:2026:7356, BRE 25/4832 tot en met BRE 25/4835 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/pensioen-Belgie.jpg" length="35129" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Waarom de Hoge Raad de zaak NEO in de gaten moet houden</title>
+		<link>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/</link>
+					<comments>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 08:38:36 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166809</guid>
+
+					<description><![CDATA[Bij een uitdeling door een dochtervennootschap aan een in een lidstaat of verdragsstaat gevestigde moedervennootschap geldt een inhoudingsvrijstelling voor de dividendbelasting, tenzij sprake is van misbruik. Wat precies misbruik vormt is nog niet geheel duidelijk. We weten dat sprake is van misbruik als de belastingplichtige de vrijstelling door een gekunstelde constructie wil veiligstellen terwijl toepassing van de vrijstelling in dat geval in strijd is met het doel van de EU-Moederrichtlijn (‘MDR’). Het probleem is dat we niet precies weten in welke gevallen het doel van de MDR wordt ondermijnd. De Hoge Raad had de Belgische-houdsterzaken daarom moeten verwijzen naar het HvJ.  Prof. dr. Otto Marres verwacht dat het HvJ in de zaak NEO wat meer zal uitweiden over wat nu precies richtlijnondermijnend is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Bij een uitdeling door een dochtervennootschap aan een in een lidstaat of verdragsstaat gevestigde moedervennootschap geldt een inhoudingsvrijstelling voor de dividendbelasting, tenzij sprake is van misbruik. Wat precies misbruik vormt is nog niet geheel duidelijk. We weten dat sprake is van misbruik als de belastingplichtige de vrijstelling door een gekunstelde constructie wil veiligstellen terwijl toepassing van de vrijstelling in dat geval in strijd is met het doel van de EU-Moederrichtlijn (‘MDR’). Het probleem is dat we niet precies weten in welke gevallen het doel van de MDR wordt ondermijnd. De Hoge Raad had de Belgische-houdsterzaken daarom moeten verwijzen naar het HvJ.  Prof. dr. Otto Marres verwacht dat het HvJ in de zaak NEO wat meer zal uitweiden over wat nu precies richtlijnondermijnend is.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <a href="https://www.ndfr.nl/content/p1-1187955" data-type="link" data-id="https://www.ndfr.nl/content/p1-1187955" target="_blank" rel="noreferrer noopener">NDFR</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-waarom-de-hoge-raad-de-zaak-neo-in-de-gaten-moet-houden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/EU-HvJ.jpg" length="31402" type="image/jpeg" />	</item>
+		<item>
+		<title>Aangifte zonder vervreemdingsvoordeel is doorschuifverzoek</title>
+		<link>https://www.taxence.nl/nieuws/aangifte-zonder-vervreemdingsvoordeel-is-doorschuifverzoek/</link>
+					<comments>https://www.taxence.nl/nieuws/aangifte-zonder-vervreemdingsvoordeel-is-doorschuifverzoek/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 07:52:56 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166784</guid>
+
+					<description><![CDATA[Gerechtshof 's-Hertogenbosch oordeelt dat het ontbreken van een vervreemdingsvoordeel in de aangifte ib/pvv van de erflaatster geldt als een gezamenlijk schriftelijk verzoek tot doorschuiving van de verkrijgingsprijs op grond van artikel 4.17a Wet IB 2001.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof &#8216;s-Hertogenbosch oordeelt dat het ontbreken van een vervreemdingsvoordeel in de aangifte ib/pvv van de erflaatster geldt als een gezamenlijk schriftelijk verzoek tot doorschuiving van de verkrijgingsprijs op grond van artikel 4.17a Wet IB 2001.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man erft in 2011 samen met zijn zus alle aandelen in een bv na het overlijden van hun moeder. De aandelen zijn in de aangifte erfbelasting gewaardeerd op € 345.839. In de aangifte ib/pvv 2011 van de erflaatster is geen fictief vervreemdingsvoordeel uit aanmerkelijk belang vermeld, en er is geen apart schriftelijk verzoek tot doorschuiving van de verkrijgingsprijs gedaan. De man heeft die aangifte ondertekend, als vertegenwoordiger van zijn overleden moeder en (via machtiging) namens zijn zus. In 2020 wordt de bv ontbonden en vereffend; het liquidatiesaldo bedraagt € 305.702, waarvan € 152.821 aan de man toekomt, onder inhouding van € 17.465 dividendbelasting. In zijn aangifte ib/pvv 2020 geeft de man een overdrachtsprijs van € 152.851 aan tegen een verkrijgingsprijs van € 172.920 (de helft van de waarde bij overlijden), wat resulteert in een verlies. De inspecteur legt de aanslag op met een verkrijgingsprijs van slechts € 36.351 (de helft van het gestorte kapitaal), omdat volgens hem wél is doorgeschoven. In geschil is of de verkrijgingsprijs van de aandelen destijds is doorgeschoven naar de man.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Aangifte geldt als verzoek</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat het doorschuifverzoek van artikel 4.17a Wet IB 2001 door alle gezamenlijke belanghebbenden gedaan moet zijn, dus door de vertegenwoordiger van de erflaatster én alle verkrijgers samen. Door in de aangifte ib/pvv 2011 geen vervreemdingsvoordeel op te nemen, terwijl afrekenen destijds de hoofdregel was, is impliciet gekozen voor doorschuiven. De man heeft die aangifte ondertekend namens zijn moeder en zichzelf, en zijn zus heeft hem (stilzwijgend) gemachtigd, zodat ook zij aan die keuze gebonden is. Dit wordt ondersteund door de aangifte erfbelasting, waarin de geschatte inkomstenbelasting 2011 past bij doorschuiven. Ook is voldaan aan het vereiste dat het verzoek schriftelijk bij de juiste inspecteur is ingediend: dat mag via de aangifte zelf, mits daaruit de wil tot doorschuiven blijkt.</p>
+
+
+
+<h2 class="wp-block-heading">Onherroepelijke aanslag beslissend</h2>
+
+
+
+<p class="wp-block-paragraph">De man voert nog aan dat de vennootschap destijds geen materiële onderneming dreef, waardoor doorschuiven niet had mogen worden toegestaan. Het hof laat die vraag onbeantwoord: hij en zijn zus gingen bij de aangifte 2011 kennelijk zelf uit van een materiële onderneming, de inspecteur heeft de aanslag 2011 dienovereenkomstig vastgesteld en die aanslag is onherroepelijk geworden. Daardoor heeft de gemaakte keuze voor doorschuiven onherroepelijke gevolgen, ongeacht of destijds terecht is doorgeschoven. Het hof bevestigt daarom de uitspraak van de rechtbank en verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.17a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.17a Wet IB 2001</a><br>Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1709" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 01-07-2026, ECLI:NL:GHSHE:2026:1709, 25/132 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/aangifte-zonder-vervreemdingsvoordeel-is-doorschuifverzoek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/08/pexels-photo-6801869-6801869-1.jpg" length="30222" type="image/jpeg" />	</item>
+		<item>
+		<title>RB waarschuwt voor complexe regels rond pseudo-eindheffing</title>
+		<link>https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/</link>
+					<comments>https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 07:38:33 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Branchenieuws]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166782</guid>
+
+					<description><![CDATA[Het Register Belastingadviseurs (RB) heeft gereageerd op de loonbelastingonderdelen van de internetconsultatie over de concept-Eindejaarsregeling 2026. Hoewel het RB verschillende maatregelen onderschrijft die bijdragen aan vereenvoudiging of het voorkomen van ongewenste inkomenseffecten, zijn er ook zorgen over de uitvoerbaarheid, rechtszekerheid en administratieve lasten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Register Belastingadviseurs (RB) heeft gereageerd op de loonbelastingonderdelen van de internetconsultatie over de concept-Eindejaarsregeling 2026. Hoewel het RB verschillende maatregelen onderschrijft die bijdragen aan vereenvoudiging of het voorkomen van ongewenste inkomenseffecten, zijn er ook zorgen over de uitvoerbaarheid, rechtszekerheid en administratieve lasten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Die zorgen hebben met name betrekking op de bepalingen rond de pseudo-eindheffing voor fossiele personenauto’s. Volgens het RB dreigen er drie verschillende fiscale definities van het begrip ‘woon-werkverkeer’ te ontstaan. Naast de bestaande uitleg in de omzetbelasting en loonbelasting wordt voor de pseudo-eindheffing een derde variant geïntroduceerd. Deze sluit deels aan bij de omzetbelasting, maar wijkt daar op andere punten van af.</p>
+
+
+
+<p class="wp-block-paragraph">“Het is onontkoombaar dat dit in de praktijk tot een onjuiste toepassing van het begrip ‘woon-werkverkeer’ gaat leiden”, aldus Martijn Paping, aankomend fiscaal directeur van het RB.</p>
+
+
+
+<h2 class="wp-block-heading">Meer administratieve lasten</h2>
+
+
+
+<p class="wp-block-paragraph">De voorgestelde uitleg van woon-werkverkeer leidt volgens het RB in de praktijk tot de noodzaak van een kilometeradministratie. Daarmee wordt de tegemoetkoming in de omzetbelasting via toepassing van een forfait meer dan tenietgedaan. Dit forfait was juist ingevoerd om de administratieve lastendruk te verminderen.</p>
+
+
+
+<p class="wp-block-paragraph">Ook acht het RB de voorgestelde 40-dagenregel uitvoeringsgevoelig en administratief bewerkelijk. Inhoudingsplichtigen moeten per werknemer en per locatie vaststellen of een locatie gedurende een kalenderjaar een vaste werkplek is of is geworden.</p>
+
+
+
+<h2 class="wp-block-heading">Ruimere uitleg woon-werkverkeer</h2>
+
+
+
+<p class="wp-block-paragraph">Het RB leidt uit de voorgestelde regeling bovendien af dat voor de pseudo-eindheffing ook een enkele reis tussen de woon- of verblijfplaats en een vaste werkplek als woon-werkverkeer kan kwalificeren. Hetzelfde geldt wanneer de heen- en terugreis niet binnen 24 uur plaatsvinden. Daarmee wordt het begrip woon-werkverkeer voor de pseudo-eindheffing aanzienlijk verruimd.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens het RB leidt met name de voorgestelde invulling van het begrip ‘woon-werkverkeer’ hierdoor tot complexe regelgeving en naar verwachting tot extra discussies in de praktijk.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: RB, 20 augustus 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/rb-waarschuwt-voor-complexe-regels-rond-pseudo-eindheffing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/12/SnelwegNederland.jpg" length="37360" type="image/jpeg" />	</item>
+		<item>
+		<title>Keuzes bij omzetting verbruiksbelasting naar suikerbelasting</title>
+		<link>https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 06:15:32 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166778</guid>
+
+					<description><![CDATA[Bij de omzetting van de verbruiksbelasting van alcoholvrije dranken naar een belasting op basis van het suikergehalte moeten verschillende keuzes worden gemaakt. Staatssecretaris Eerenberg licht daarbij onder meer duurzaamheid, dierenwelzijn en gezondheid toe.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Bij de omzetting van de verbruiksbelasting van alcoholvrije dranken naar een belasting op basis van het suikergehalte moeten verschillende keuzes worden gemaakt. Staatssecretaris Eerenberg licht daarbij onder meer duurzaamheid, dierenwelzijn en gezondheid toe.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In het schematisch overzicht bij de eerdere Kamerbrief is inzichtelijk gemaakt welke keuzes nodig zijn bij omzetting naar een suikerbelasting op alcoholvrije dranken. Het gaat om het uitgangspunt van budgetneutraliteit, de keuze voor een scenario en de vraag of de huidige koppeling met de minimumalcoholaccijns behouden moet blijven. Daarnaast speelt de vraag of extra categorieën alcoholvrije dranken moeten worden uitgezonderd of bestaande uitzonderingen moeten vervallen.</p>
+
+
+
+<p class="wp-block-paragraph">Als mogelijke nieuwe uitzonderingen zijn vruchten- en groentesappen en plantaardige zuivelalternatieven genoemd. Momenteel zijn mineraalwater en zuivel- en sojadranken uitgezonderd. Per categorie zijn de meest relevante en in het oog springende aspecten opgenomen, waaronder budgettaire aspecten, prijzen en staatssteunrisico’s. De genoemde aspecten zijn niet uitputtend.</p>
+
+
+
+<h2 class="wp-block-heading">Duurzaamheid en dierenwelzijn</h2>
+
+
+
+<p class="wp-block-paragraph">Bij zuivel- en sojadranken zijn duurzaamheidsoverwegingen relevant omdat de externe kosten van de productie slechts in lage mate zijn geïnternaliseerd in de prijs. Ook mineraalwater kent een duurzaamheidsargument: verpakkingen zoals plastic en karton hebben ten opzichte van kraanwater een grote milieuafdruk.</p>
+
+
+
+<p class="wp-block-paragraph">Voor frisdranken en vruchten- en groentesappen zijn duurzaamheidsaspecten meer diffuus. Zo zal sap van Nederlandse appels anders scoren dan sap van geïmporteerde blauwe bessen. Daarom is duurzaamheid voor deze categorieën niet apart benoemd. Voor dierenwelzijn als afzonderlijk criterium geldt hetzelfde, al kan dit vooral bij zuiveldranken politiek worden meegewogen.</p>
+
+
+
+<h2 class="wp-block-heading">Gezondheid blijft meewegen</h2>
+
+
+
+<p class="wp-block-paragraph">Vanuit gezondheidsoverwegingen bestaat de koppeling tussen de verbruiksbelasting en het minimumtarief in de bieraccijns: “bier niet lager belasten dan fris”. Per scenario is aangegeven wat behoud van deze koppeling betekent voor de minimumtarieven in de bier- en wijnaccijns. De specifieke gezondheidsargumenten zijn niet opnieuw opgenomen om het overzicht compact te houden. Volgens de staatssecretaris gelden deze argumenten echter onverkort.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/241202e0-055b-4106-b822-a8b3a668afbf" data-type="link" data-id="https://open.overheid.nl/details/241202e0-055b-4106-b822-a8b3a668afbf" target="_blank" rel="noreferrer noopener">Antwoorden op Kamervragen (VSO) over suikerbelasting alcoholvrije dranken, nr. 2026-0000281094, Ministerie van Financien, 19 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Ook in 2026 organiseren wij de <strong>11e editie</strong> van het <strong>Nationaal Btw Congres</strong>. Een vertrouwd jaarlijks moment waarop btw-professionals worden bijgepraat over de laatste ontwikkelingen binnen de btw-praktlijk. Het Nationaal Btw Congres is daarnaast ieder jaar weer een vertrouwd weerzien: een echte reünie van vakgenoten uit de btw‑praktijk. Meld je nu alvast aan en gebruik de kortingscode SUMMER voor 10% korting op de prijs van € 425,- <em>*let op: code is alleen tot en met woensdag 23 september geldig! </em> </p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-43d78742-6ab6-429b-ae9b-578dfb935369" href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<style class="advgb-styles-renderer">.advgbbtn-43d78742-6ab6-429b-ae9b-578dfb935369{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-43d78742-6ab6-429b-ae9b-578dfb935369:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-43d78742-6ab6-429b-ae9b-578dfb935369 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/09/fris.jpg" length="58795" type="image/jpeg" />	</item>
+		<item>
+		<title>Navordering ondanks convenant horizontaal toezicht</title>
+		<link>https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/</link>
+					<comments>https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 08:54:02 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166764</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur na een intern HOT/HOR-bericht alsnog mag navorderen over het werkelijk rendement in box 3.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur na een intern HOT/HOR-bericht alsnog mag navorderen over het werkelijk rendement in box 3.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De man dient over 2020 een aangifte IB/PVV in met loon uit tegenwoordige en vroegere dienstbetrekking, resultaat uit overige werkzaamheden en inkomen uit sparen en beleggen. Zijn (voormalig) adviseur valt onder een convenant horizontaal toezicht met de Belastingdienst. De aangifte wordt uitgeworpen omdat het loon uit vroegere dienstbetrekking afwijkt van de renseignementen; de inspecteur belt hierover met de adviseur en corrigeert de aangifte handmatig, waarna hij de aanslag oplegt. Pas vóór uitbetaling ontvangt de inspecteur intern een HOT/HOR-bericht en ontdekt hij dat de man een fictieve schuld van € 25.264.675 heeft opgevoerd wegens &#8216;vermindering vermogen ivm heffing over werkelijk rendement&#8217;, waardoor het aangegeven voordeel uit sparen en beleggen slechts € 1.789 bedraagt. De inspecteur legt een navorderingsaanslag en een vergrijpboete op. In geschil is of hiervoor een nieuw feit bestaat en of de boete terecht is.</p>
+
+
+
+<h2 class="wp-block-heading">Geen ambtelijk verzuim</h2>
+
+
+
+<p class="wp-block-paragraph">Volgens de man had de inspecteur bij de uitworp van de aangifte ook het inkomen uit sparen en beleggen moeten controleren, zodat geen sprake is van een nieuw feit. De rechtbank volgt dit niet. Onder het convenant mag de Belastingdienst uitgaan van de juistheid van een aangifte die door de aangesloten adviseur wordt ingediend en hoeft alleen navraag te worden gedaan naar het onderdeel waarvoor de aangifte is uitgeworpen. Nu de adviseur zelf geen contact heeft opgenomen over het werkelijk rendement, hoefde de inspecteur niet te twijfelen aan de juistheid van dat onderdeel. Het HOT/HOR-bericht dat pas na het opleggen van de aanslag binnenkomt, vormt daarom een nieuw feit dat navordering rechtvaardigt.</p>
+
+
+
+<h2 class="wp-block-heading">Grove schuld</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank beoordeelt alleen of grove schuld is aangetoond, omdat de inspecteur de kwalificatie bij de uitspraak op bezwaar al heeft gewijzigd van opzet naar grove schuld. Uit de feiten blijkt dat de man zelf zijn adviseur heeft gevraagd om de aangifte te baseren op het werkelijk rendement, terwijl het aangiftebiljet daar geen ruimte voor bood. De adviseur verwerkt dit verzoek met een fictieve schuld, en het aangegeven voordeel (€ 1.789) wijkt sterk af van het uiteindelijk vastgestelde bedrag (€ 225.776). Omdat de man niet heeft gecontroleerd hoe zijn adviseur dit verzoek had uitgevoerd, is sprake van grove schuld en is de boete van € 20.000 terecht opgelegd. Wel matigt de rechtbank de boete ambtshalve met 10% tot € 18.000, omdat de redelijke termijn met negen maanden is overschreden.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67e AWR</a><br>Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_7357" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 07-08-2026, ECLI:NL:RBZWB:2026:7357, BRE 25/3397 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/navordering-ondanks-convenant-horizontaal-toezicht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/rekenmachine3.jpg" length="30431" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026</title>
+		<link>https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/</link>
+					<comments>https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 08:34:46 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166765</guid>
+
+					<description><![CDATA[Het Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026 is in de Staatscourant gepubliceerd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><a></a><strong>Het Beleidsbesluit toepassing internationaal belastingrecht in de winstsfeer 2026 is in de Staatscourant gepubliceerd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit besluit bevat beleid over de uitleg van bepalingen ter voorkoming van dubbele belasting en dubbele niet-belasting bij de belastingheffing in de winstsfeer. </p>
+
+
+
+<p class="wp-block-paragraph">Dit besluit vervangt het besluit van 16 juni 2023, nr. 2023-11648 (Stcrt. 2023, 17534).</p>
+
+
+
+<p class="wp-block-paragraph">In dit besluit zijn recente kennisgroepstandpunten opgenomen. In verband daarmee zijn de volgende onderdelen toegevoegd aan dit besluit:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Toepassing van een belastingverdrag op scheepvaartwinst uit verschillende ondernemingen (onderdeel 2.8.2.);</li>
+
+
+
+<li>Kwalificatie Zwitserse Anlagestiftung onder het verdrag met Zwitserland (onderdeel 2.10.7.);</li>
+
+
+
+<li>Geen vermindering van dividendbelasting bij inkoop van aandelen onder de verdragen met Duitsland en Zwitserland (2.10.8.);</li>
+
+
+
+<li>Verbod extraterritoriale belastingheffing onder het verdrag met Frankrijk in relatie tot de Wet BB 2021 (onderdeel 2.10.9.);</li>
+
+
+
+<li>Verrekening van bronbelasting op interest over een mezzaninelening onder het verdrag met Duitsland (onderdeel 2.11.4.);</li>
+
+
+
+<li>Door bank ontvangen vergoedingen, het begrip interest en tweede limiet (onderdeel 2.11.5.);</li>
+
+
+
+<li>Kwalificatie van huurbetalingen inzake vorkheftrucks, vrachtwagens, containers en pallets als royaltyvergoeding onder de verdragen met Polen, Tsjechië, Italië en Portugal (onderdeel 2.12.3.);</li>
+
+
+
+<li>Kwalificatie van vergoedingen voor softwarelicentie onder het verdrag met China (2013) en het verdrag met Zuid-Korea (1978) (onderdeel 2.12.4.);</li>
+
+
+
+<li>Buitengaatsbepaling onder het verdrag met Denemarken (onderdeel 2.24.1.);</li>
+
+
+
+<li>Overgangsregeling oude inhaalverliezen, reikwijdte artikel 33b, derde lid, Wet Vpb 1969 (onderdeel 4.4.5.);</li>
+
+
+
+<li>Kwalificatie locatie voor verhuur vervoermiddelen als vaste inrichting onder een belastingverdrag (onderdeel 4.5.2.).</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Daarnaast bevat dit besluit een nadere verduidelijking over de afgifte van woonplaatsverklaringen aan in Nederland gevestigde maar van winstbelasting vrijgestelde lichamen (onderdeel 2.4.2). Tevens is in dit besluit een nieuw onderdeel opgenomen over de zogeheten thuiswerk-vaste inrichting (onderdeel 2.5.3.). De overige aanpassingen in het besluit zijn redactioneel van aard. Hiermee zijn geen inhoudelijke wijziging beoogd.</p>
+
+
+
+<p class="wp-block-paragraph">Het besluit treedt in werking met ingang van 20 augustus 2026. Het besluit van 16&nbsp;juni 2023 is ingetrokken met ingang van 20 augustus 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.officielebekendmakingen.nl/stcrt-2026-29108.html" data-type="link" data-id="https://www.officielebekendmakingen.nl/stcrt-2026-29108.html" target="_blank" rel="noreferrer noopener">Besluit van 6&nbsp;augustus 2026, nr.&nbsp;2026-1555, Ministerie van Financiën, Stcrt. 2026, 29108</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/internationaal-europees-recht/beleidsbesluit-toepassing-internationaal-belastingrecht-in-de-winstsfeer-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Zwitserland3.jpg" length="68458" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen arbeidskorting meer over bepaalde uitkeringen</title>
+		<link>https://www.taxence.nl/nieuws/geen-arbeidskorting-meer-over-bepaalde-uitkeringen/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-arbeidskorting-meer-over-bepaalde-uitkeringen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 05:46:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166773</guid>
+
+					<description><![CDATA[Vanaf 1 januari 2027 verandert de toepassing van de arbeidskorting op bepaalde uitkeringen die via de werkgever worden uitbetaald. Wordt zo’n uitkering tegelijk uitbetaald met ander loon, bijvoorbeeld loon uit werk of een aanvulling op de uitkering? Dan kan het nettobedrag vanaf 2027 lager uitvallen. Voor uitkeringen die UWV rechtstreeks uitbetaalt, verandert er niets.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Vanaf 1 januari 2027 verandert de toepassing van de arbeidskorting op bepaalde uitkeringen die via de werkgever worden uitbetaald. Wordt zo’n uitkering tegelijk uitbetaald met ander loon, bijvoorbeeld loon uit werk of een aanvulling op de uitkering? Dan kan het nettobedrag vanaf 2027 lager uitvallen. Voor uitkeringen die UWV rechtstreeks uitbetaalt, verandert er niets.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Vanaf 1 januari 2027 mag de werkgever geen arbeidskorting meer toepassen op de hieronder genoemde uitkeringen. Daardoor moet de werkgever meer loonheffing inhouden. Hoe groot het verschil in het nettoloon is, hangt af van de hoogte van de uitkering en het overige loon.</p>
+
+
+
+<p class="wp-block-paragraph">Het extra bedrag aan loonheffing kan oplopen tot ongeveer 31% van het bedrag van de bruto-uitkering dat onderdeel is van het totale loon.</p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om de volgende uitkeringen in combinatie met loon uit werk of een aanvulling op de uitkering:</p>
+
+
+
+<ul class="wp-block-list">
+<li>WAO-uitkering</li>
+
+
+
+<li>WAZ-uitkering</li>
+
+
+
+<li>Wajong-uitkering</li>
+
+
+
+<li>IVA- en WGA-uitkeringen (WIA-uitkeringen)</li>
+
+
+
+<li>Ziektewetuitkering, behalve als deze voortkomt uit het huidige dienstverband</li>
+
+
+
+<li>Wamil-uitkering (Wet arbeidsongeschiktheidsvoorziening militairen)</li>
+
+
+
+<li>BNO-uitkering (buitengewone natuurlijke omstandigheden)</li>
+
+
+
+<li>WTV-uitkering (werktijdverkorting)</li>
+
+
+
+<li>toeslag op grond van de Toeslagenwet</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Gevolgen voor het nettoloon</h2>
+
+
+
+<p class="wp-block-paragraph">De werkgever kan berekenen wat de wijziging betekent voor het nettoloon. Zo kan vooraf duidelijk worden hoeveel het nettobedrag vanaf 1 januari 2027 mogelijk daalt.</p>
+
+
+
+<h2 class="wp-block-heading">Gevolgen voor de inkomensafhankelijke combinatiekorting (IACK)</h2>
+
+
+
+<p class="wp-block-paragraph">Ook voor de inkomensafhankelijke combinatiekorting (IACK) kan de wijziging gevolgen hebben. Dit is relevant wanneer er op 1 januari 2027 een kind jonger dan 12 jaar is en via de aangifte inkomstenbelasting recht bestaat op de IACK.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de berekening van de IACK telt de betreffende uitkering niet mee als arbeidsinkomen. Hierdoor kan vanaf 2027 een lager bedrag aan IACK gelden of kan het recht op de korting volledig vervallen.</p>
+
+
+
+<p class="wp-block-paragraph">Wordt de IACK via een voorlopige aanslag uitbetaald? Dan kan het nodig zijn om de voorlopige aanslag begin 2027 aan te passen.</p>
+
+
+
+<h2 class="wp-block-heading">Geen gevolgen voor toeslagen</h2>
+
+
+
+<p class="wp-block-paragraph">Het niet langer toepassen van de arbeidskorting op deze uitkeringen heeft geen gevolgen voor eventuele toeslagen.</p>
+
+
+
+<p class="wp-block-paragraph">De wijziging volgt uit een uitspraak van de Hoge Raad. De Hoge Raad constateerde een verschil in behandeling tussen een uitkering die via de werkgever wordt betaald, waarop arbeidskorting werd toegepast, en een uitkering die rechtstreeks door UWV wordt betaald, waarop geen arbeidskorting wordt toegepast.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens de Hoge Raad is dit verschil in strijd met het discriminatieverbod en moet de wetgever dit oplossen. Daarom is geregeld dat vanaf 1 januari 2027 geen arbeidskorting meer mag worden toegepast op de betreffende uitkeringen die via de werkgever worden betaald. Bij rechtstreekse uitbetaling van de uitkering door UWV verandert er niets.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/geen-arbeidskorting-meer-over-bepaalde-uitkeringen" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/geen-arbeidskorting-meer-over-bepaalde-uitkeringen" target="_blank" rel="noreferrer noopener">Belastingdienst, 19 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-arbeidskorting-meer-over-bepaalde-uitkeringen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Aangifte-Belastingdienst-2048x1366-1.jpg" length="49415" type="image/jpeg" />	</item>
+		<item>
+		<title>Nieuwsbrief Loonheffingen 2027 gepubliceerd</title>
+		<link>https://www.taxence.nl/nieuws/nieuwsbrief-loonheffingen-2027-gepubliceerd/</link>
+					<comments>https://www.taxence.nl/nieuws/nieuwsbrief-loonheffingen-2027-gepubliceerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 05:40:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166769</guid>
+
+					<description><![CDATA[De eerste uitgave van de Nieuwsbrief Loonheffingen 2027 is gepubliceerd. De nieuwsbrief bevat informatie over nieuwe regels die vanaf 1 januari 2027 gelden voor het inhouden en betalen van loonheffingen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De eerste uitgave van de Nieuwsbrief Loonheffingen 2027 is gepubliceerd. De nieuwsbrief bevat informatie over nieuwe regels die vanaf 1 januari 2027 gelden voor het inhouden en betalen van loonheffingen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In deze eerste uitgave van de <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/nieuwsbrief-loonheffingen" target="_blank" rel="noreferrer noopener">Nieuwsbrief Loonheffingen 2027</a> staat het volgende onderwerp centraal:</p>
+
+
+
+<ul class="wp-block-list">
+<li>het samenvoegen van loon bij het gelijktijdig uitbetalen van een socialezekerheidsuitkering en ander loon.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">De volgende uitgave van de nieuwsbrief wordt naar verwachting in september 2026 gepubliceerd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/nieuwsbrief-loonheffingen-2027-gepubliceerd" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/nieuwsbrief-loonheffingen-2027-gepubliceerd" target="_blank" rel="noreferrer noopener">Belastingdienst, 19 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nieuwsbrief-loonheffingen-2027-gepubliceerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/salaris-vrouw2.jpg" length="33453" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen verzuimboete Minimumbelasting tot en met 31 oktober 2026</title>
+		<link>https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 19 Aug 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166742</guid>
+
+					<description><![CDATA[Groepsentiteiten die aangifte Minimumbelasting moeten doen, krijgen tot en met 31 oktober 2026 geen boete als zij hun aangifte te laat indienen of te laat betalen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Groepsentiteiten die aangifte Minimumbelasting moeten doen, krijgen tot en met 31 oktober 2026 geen boete als zij hun aangifte te laat indienen of te laat betalen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Door internationale invoeringsproblemen en systeemproblemen in de eerste aangifteperiode, kregen entiteiten geen boete voor een te late aangifte en betaling. Die uitzondering blijft bestaan tot en met 31 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Meer informatie is te vinden in het&nbsp;<a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-27767.html" target="_blank" rel="noreferrer noopener">Besluit van 30 juli 2026</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026" target="_blank" rel="noreferrer noopener">Belastingdienst, 18 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-verzuimboete-minimumbelasting-tot-en-met-31-oktober-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/InternationalBusiness-768x432.jpg" length="46957" type="image/jpeg" />	</item>
+	</channel>
+</rss>

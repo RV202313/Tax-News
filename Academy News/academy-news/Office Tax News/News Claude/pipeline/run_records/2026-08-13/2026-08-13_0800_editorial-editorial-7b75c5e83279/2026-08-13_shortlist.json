@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-13",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 296,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-tax-authorities-clarify-pillar-two-minimum-tax-act-2024/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands: Tax Authorities clarify Pillar Two Minimum Tax Act 2024",
+      "summary": "The Dutch Tax Authorities have updated their Questions and Answers (Q&A) on the Minimum Tax Act 2024 (MTA 2024), providing revised guidance on the application of the legislation, including the treatment of penalties, tax interest, appeal periods and the top-up tax information declaration. Published on 10 August 2026, the updated Q&A revises the version first...",
+      "published_at": "2026-08-12",
+      "score": 15.5,
+      "topics": [
+        "nl_fiscaal",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 297,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/south-africa-sars-issues-rules-for-dta-advance-pricing-agreement-system/",
+      "ecli": "",
+      "act": "",
+      "title": "South Africa: SARS issues rules for DTA advance pricing agreement system",
+      "summary": "South Africa has introduced a detailed framework for its Double Taxation Agreement (DTA) advance pricing agreement (APA) system through six income tax notices covering applicant eligibility, fees, rejection grounds, processing requirements, preliminary agreement information and operating procedures. The South African Revenue Service (SARS) promulgated Notices 7787 to 7792 in Government Gazette 55152 on 7 August...",
+      "published_at": "2026-08-12",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings",
+        "dta",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

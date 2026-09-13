@@ -1,0 +1,176 @@
+{
+  "date": "2026-07-29",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 208,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/door-ict-concern-betaalde-bronbelasting-op-royaltys-niet-verrekenbaar/",
+      "ecli": "",
+      "act": "",
+      "title": "Door ICT-concern betaalde bronbelasting op royalty's niet verrekenbaar",
+      "summary": "",
+      "published_at": "2026-07-28",
+      "score": 10.5,
+      "topics": [
+        "nl_fiscaal",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 209,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-schoonheidsspecialiste/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt medische vrijstelling (schoonheidsspecialiste)",
+      "summary": "De Kennisgroep omzetbelasting heeft de vraag beantwoord of bepaalde diensten van een schoonheidsspecialiste zijn vrijgesteld.",
+      "published_at": "2026-07-29",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 210,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kennisgroepstandpunt-geen-samenloopvrijstelling-bij-aandelenverkrijging-in-ozr-die-geen-btw-ondernemer-is/",
+      "ecli": "",
+      "act": "",
+      "title": "Kennisgroepstandpunt: geen samenloopvrijstelling bij aandelenverkrijging in OZR die geen BTW-ondernemer is",
+      "summary": "",
+      "published_at": "2026-07-28",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 211,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kennisgroep-onder-strikte-voorwaarden-medische-btw-vrijstelling-voor-bepaalde-behandelingen-schoonheidsspecialiste/",
+      "ecli": "",
+      "act": "",
+      "title": "Kennisgroep: onder strikte voorwaarden medische BTW-vrijstelling voor bepaalde behandelingen schoonheidsspecialiste",
+      "summary": "",
+      "published_at": "2026-07-28",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 212,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/naheffingsaanslag-omzetbelasting-blijft-in-stand-ondanks-strafrechtelijke-vrijspraak/",
+      "ecli": "",
+      "act": "",
+      "title": "Naheffingsaanslag omzetbelasting blijft in stand ondanks strafrechtelijke vrijspraak",
+      "summary": "",
+      "published_at": "2026-07-28",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 213,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/taiwan-reminds-foreign-taxpayers-of-extended-dta-tax-refund-application-period/",
+      "ecli": "",
+      "act": "",
+      "title": "Taiwan reminds foreign taxpayers of extended DTA tax refund application period",
+      "summary": "Taiwan’s National Taxation Bureau of Kaohsiung has reminded foreign taxpayers to review unclaimed tax treaty benefits following amendments to the Regulations Governing Application of Agreements for the Avoidance of Double Taxation with Respect to Taxes on Income (DTA Audit Rules), which extended the period for applying for refunds of over-withheld tax under Double Taxation Agreements...",
+      "published_at": "2026-07-28",
+      "score": 5.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

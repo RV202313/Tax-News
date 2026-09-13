@@ -1,0 +1,396 @@
+{
+  "date": "2026-09-04",
+  "release": "2026-09-04_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-09-04-curacao-pillar2-minimum-tax-passed",
+      "title": "Кюрасао принял закон о минимальном корпоративном налоге в рамках PILLAR TWO",
+      "caption": "Парламент Кюрасао 1 сентября 2026 года принял Ордонанс о минимальном налоге, внедряющий глобальный минимальный налог 15% по правилам PILLAR TWO ОЭСР. Действие норм распространяется на финансовые годы, начавшиеся с 1 января 2025 года.\n\nИсточник: https://regfollower.com/curacao-parliament-passes-minimum-tax-ordinance-pillar-two/\n\n#Кюрасао #PillarTwo #GloBE #МинимальныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "Кюрасао",
+      "act": "Ордонанс Кюрасао о минимальном налоге PILLAR TWO",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/curacao-parliament-passes-minimum-tax-ordinance-pillar-two/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-saudi-arabia-argentina-dta-authorized",
+      "title": "Саудовская Аравия одобрила подписание первого налогового соглашения с Аргентиной",
+      "caption": "Кабинет министров Саудовской Аравии уполномочил министра финансов подписать первое соглашение об избежании двойного налогообложения (DTT) с Аргентиной. Документ призван устранить двойное налогообложение и стимулировать взаимные инвестиции.\n\nИсточник: https://regfollower.com/saudi-arabia-authorizes-dta-signature-with-argentina/\n\n#СаудовскаяАравия #Аргентина #НалоговоеСоглашение #DTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / DTT",
+      "jurisdictions": "Саудовская Аравия / Аргентина",
+      "act": "Постановление Кабинета министров Саудовской Аравии по DTT с Аргентиной",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/saudi-arabia-authorizes-dta-signature-with-argentina/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-un-framework-convention-tax-cooperation",
+      "title": "ООН продолжит переговоры по Рамочной конвенции о международном налоговом сотрудничестве",
+      "caption": "Межправительственный комитет ООН проведет очередной раунд переговоров по проекту Рамочной конвенции о международном налоговом сотрудничестве. Основная дискуссия сосредоточена на распределении налоговых прав между странами источника и резиденства.\n\nИсточник: https://www.un.org/tax-convention/\n\n#ООН #МеждународноеНалогообложение #UN #НалоговоеСотрудничество #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / ООН",
+      "jurisdictions": "ООН",
+      "act": "Проект Рамочной конвенции ООН о международном налоговом сотрудничестве",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.un.org/tax-convention/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "un.org search"
+      },
+      "score": 10.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-nl-tax-treaty-network-updates-2026",
+      "title": "Нидерланды: Обновление статуса переговоров по соглашениям об избежании двойного налогообложения",
+      "caption": "Министерство финансов Нидерландов опубликовало текущий статус переговоров по двусторонним налоговым соглашениям с 12 странами (включая Нигерию, Перу и Зимбабве). Завершены согласования новых протоколов с Бельгией и Испанией.\n\nИсточник: https://www.taxence.nl/nieuws/overzicht-fiscale-verdragen-nederland-2026/\n\n#Нидерланды #НалоговыеСоглашения #ИзбежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / соглашения",
+      "jurisdictions": "Нидерланды",
+      "act": "Отчет Минфина Нидерландов по налоговым соглашениям",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/overzicht-fiscale-verdragen-nederland-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-slovakia-pillar2-guidance-amendments",
+      "title": "Словакия внесла изменения в национальное законодательство по PILLAR TWO",
+      "caption": "Парламент Словакии утвердил поправки к закону о минимальном налоге для международных групп компаний (IIR/QDMTT). Изменения имплементируют последние руководящие принципы ОЭСР по упрощенным правилам безопасной гавани CBCR.\n\nИсточник: https://regfollower.com/slovakia-pillar-two-amendments-2026/\n\n#Словакия #PillarTwo #GloBE #QDMTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "Словакия",
+      "act": "Поправки к Закону Словакии о минимальном налоге",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/slovakia-pillar-two-amendments-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-cyprus-pillar2-implementation-updates",
+      "title": "Кипр завершает подготовку подзаконных актов по минимальному налогу PILLAR TWO",
+      "caption": "Министерство финансов Кипра вынесло на финальные консультации проекты правил подачи единой информационной декларации GLOBE INFORMATION RETURN (GIR) и порядок освобождения от штрафов на период адаптации.\n\nИсточник: https://regfollower.com/cyprus-pillar-two-gir-guidance/\n\n#Кипр #PillarTwo #GloBE #GIR #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "Кипр",
+      "act": "Проект правил Минфина Кипра по декларированию GIR",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/cyprus-pillar-two-gir-guidance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-germany-pillar2-etr-safe-harbour-adoption",
+      "title": "Германия утвердила порядок применения упрощенного безопасного порта по эффективной налоговой ставке (ETR)",
+      "caption": "Федеральное министерство финансов Германии (BMF) выпустило административное циркулярное письмо с разъяснениями условий применения временного упрощенного порта (SIMPLIFICATION ETR SAFE HARBOR) в рамках закона о GLOBE.\n\nИсточник: https://www.bundesfinanzministerium.de/\n\n#Германия #PillarTwo #GloBE #BMF #SafeHarbor #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "Германия",
+      "act": "Письмо Федерального министерства финансов Германии BMF",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.bundesfinanzministerium.de/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "bmf search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-sweden-pillar2-substance-incentives-guidance",
+      "title": "Швеция опубликовала руководящие принципы по налоговым льготам в рамках PILLAR TWO",
+      "caption": "Налоговое агентство Швеции (SKATTEVERKET) разъяснило порядок учета субстанциальных налоговых стимулов и инвестиционных вычетов при расчете эффективной налоговой ставки для транснациональных корпораций.\n\nИсточник: https://www.skatteverket.se/\n\n#Швеция #PillarTwo #Skatteverket #GloBE #ИнвестиционныеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "Швеция",
+      "act": "Разъяснение Налогового агентства Швеции (SKATTEVERKET)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.skatteverket.se/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "skatteverket search"
+      },
+      "score": 9.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-oecd-interim-economic-outlook-tax-impact",
+      "title": "ОЭСР: Прогнозы по влиянию налоговых реформ в промежуточном экономическом докладе",
+      "caption": "ОЭСР подготовила аналитические материалы к публикации Промежуточного экономического доклада, где анализируется влияние реформы глобального минимального налога на прямые иностранные инвестиции и бюджетные доходы стран G20.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #G20 #НалоговаяРеформа #ЭкономическийПрогноз #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика / ОЭСР",
+      "jurisdictions": "ОЭСР",
+      "act": "Промежуточный экономический доклад ОЭСР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-oecd-side-by-side-safe-harbours-package",
+      "title": "ОЭСР: Детализация правил применения пакета SIDE-BY-SIDE SAFE HARBOURS",
+      "caption": "Инклюзивный фреймворк ОЭСР выпустил дополнительные технические спецификации к пакету SIDE-BY-SIDE SAFE HARBOURS. Документ уточняет критерии применения правил UTPR и распределения налоговой нагрузки.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #PillarTwo #GloBE #SafeHarbors #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "ОЭСР",
+      "act": "Технические спецификации ОЭСР к пакету SIDE-BY-SIDE SAFE HARBOURS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-04"
+    }
+  ]
+}

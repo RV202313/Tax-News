@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-19",
+  "release": "2026-08-19_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-19-nl-commute-tax-advisors-warning",
+      "title": "Нидерланды: Налоговые консультанты прогнозируют административные сложности из-за нового определения поездок «дом-работа»",
+      "caption": "Голландские налоговые консультанты выразили серьезную озабоченность по поводу практического применения планируемых изменений в определении поездок между домом и местом работы для целей подоходного налога и дорожных компенсаций, указывая на высокую административную нагрузку для работодателей.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/belastingadviseurs-voorzien-administratieve-rompslomp-rond-begrip-woon-werkverkeer/\n\n#Нидерланды #ПодоходныйНалог #ДорожныеКомпенсации #Комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц / администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Отзыв налоговых консультантов на проект дорожных компенсаций",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingadviseurs-voorzien-administratieve-rompslomp-rond-begrip-woon-werkverkeer/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 8.7,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-19-nl-sugar-tax-transition-choices",
+      "title": "Нидерланды: Обсуждается переход от потребительского налога на безалкогольные напитки к дифференцированному налогу на сахар",
+      "caption": "Государственный секретарь по финансам Нидерландов представил разъяснения о переходе от фиксированного потребительского налога на напитки к прогрессивному налогу на сахар. Обсуждаются вопросы влияния реформы на здоровье населения, устойчивое развитие и выбор ставок в зависимости от содержания сахара.\n\nИсточник: https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/\n\n#Нидерланды #НалогНаСахар #КосвенныеНалоги #Реформа #Здравоохранение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / акцизы",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения Государственного секретаря по финансам Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/keuzes-bij-omzetting-verbruiksbelasting-naar-suikerbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 8.7,
+      "published_at": "2026-08-20"
+    },
+    {
+      "slug": "2026-08-19-chile-stablecoins-crossborder-services",
+      "title": "Чили: Налоговая служба разъяснила правила применения стейблкоинов при расчете за трансграничные услуги",
+      "caption": "Служба внутренних доходов Чили (SII) опубликовала постановление № 1982, устанавливающее правила налогообложения при оплате трансграничных услуг стейблкоинами. Ведомство подтвердило, что стейблкоины не признаются законным платежным средством, а сделки с ними подлежат оценке по рыночной стоимости.\n\nИсточник: https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins-used-for-cross-border-services/\n\n#Чили #Стейблкоины #ТрансграничныеУслуги #SII #НалогНаДоходы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые активы / трансграничные расчеты",
+      "jurisdictions": "Чили",
+      "act": "Постановление SII Чили № 1982",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/chile-sii-clarifies-tax-treatment-of-stablecoins-used-for-cross-border-services/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-us-unitedhealth-irs-transfer-pricing",
+      "title": "США: Корпорация ЮнайтедХелс оспаривает доначисление налогов со стороны IRS по трансфертному ценообразованию",
+      "caption": "Американский гигант в сфере здравоохранения ЮнайтедХелс Груп (UHG) подала возражения против требований Налогового управления США (IRS). Ведомство планирует доначислить налоги по сделкам с зарубежным филиалом за 2017–2020 годы, утверждая, что прибыль распределялась не на рыночных условиях.\n\nИсточник: https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications\n\n#США #UnitedHealth #IRS #ТрансфертноеЦенообразование #ТЦО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "США",
+      "act": "Судебный спор UnitedHealth против IRS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "mcdermott law search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-us-irs-transfer-pricing-penalties-shift",
+      "title": "США: Налоговая служба переходит к жесткому начислению штрафов за трансфертное ценообразование",
+      "caption": "Аналитики отмечают изменение политики Налогового управления США (IRS) в области трансфертного ценообразования. Инспекторы все чаще применяют штрафы за некорректное распределение прибыли даже при наличии у налогоплательщиков своевременно подготовленной документации по ТЦО.\n\nИсточник: https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications\n\n#США #IRS #ШтрафыТЦО #ТрансфертноеЦенообразование #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование / налоговый контроль",
+      "jurisdictions": "США",
+      "act": "Руководство IRS по начислению штрафов за ТЦО",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "mcdermott law search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-us-treasury-refundable-credits-rules",
+      "title": "США: Министерство финансов и IRS предложили новые правила защиты возвращаемых налоговых вычетов от злоупотреблений",
+      "caption": "Министерство финансов США совместно с Налоговым управлением (IRS) опубликовали проект правил, направленных на предотвращение мошеннических схем при получении возвращаемых налоговых кредитов физическими лицами и малым бизнесом. Проект ужесточает требования к подтверждающим документам.\n\nИсточник: https://home.treasury.gov/\n\n#США #НалоговыеВычеты #МинфинСША #БорьбаСМошенничеством #IRS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "США",
+      "act": "Проект правил Министерства финансов США и IRS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://home.treasury.gov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "treasury.gov press"
+      },
+      "score": 10.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-sweden-minimum-tax-safeharbours",
+      "title": "Швеция: Предложены масштабные поправки к закону о минимальном налоге для имплементации безопасных гаваней ОЭСР",
+      "caption": "Шведское правительство представило законопроект с поправками к закону о минимальном налоге (Pillar Two). Изменения направлены на внедрение рекомендаций ОЭСР от января 2026 года, включая новые постоянные безопасные гавани для мультинациональных групп.\n\nИсточник: https://oecdpillars.com/\n\n#Швеция #МинимальныйНалог #PillarTwo #БезопасныеГавани #ОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Швеция",
+      "act": "Законопроект Правительства Швеции по поправкам к минимальному налогу",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecdpillars.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecdpillars.com search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-mauritius-qdmtt-regulations",
+      "title": "Маврикий: Вступили в силу правила применения национального налога QDMTT с ретроспективной силой",
+      "caption": "Правительство Маврикия опубликовало регламент по внедрению квалифицированного национального минимального налога (QDMTT) в рамках правил Pillar Two. Нормы вводятся с ретроспективным вступлением в силу — с июля 2025 года.\n\nИсточник: https://oecdpillars.com/\n\n#Маврикий #МинимальныйНалог #PillarTwo #QDMTT #РетроспективнаяСила #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Маврикий",
+      "act": "Регламент Правительства Маврикия по QDMTT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecdpillars.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecdpillars.com search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-southafrica-sars-vat-modernisation",
+      "title": "ЮАР: Налоговая служба запустила публичные консультации по переходу на цифровую модель НДС",
+      "caption": "Налоговая служба ЮАР (SARS) пригласила представителей бизнеса принять участие в обсуждении новой цифровой модели администрирования НДС. Проект предполагает постепенный переход к электронному выставлению счетов и представлению отчетности о транзакциях в реальном времени.\n\nИсточник: https://www.sars.gov.za/media-release/sars-releases-consultation-paper-on-digital-vat-model/\n\n#ЮАР #НДС #Цифровизация #SARS #ЭлектронныеСчета #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / электронные счета",
+      "jurisdictions": "ЮАР",
+      "act": "Обращение комиссара SARS д-ра Джонстона Махубу",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.sars.gov.za/media-release/sars-releases-consultation-paper-on-digital-vat-model/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "sars.gov.za search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-19"
+    },
+    {
+      "slug": "2026-08-19-australia-tax-reform-bill-2026",
+      "title": "Австралия: В Парламент внесен законопроект о реформе корпоративных налогов и возврате убытков",
+      "caption": "В Палату представителей Австралии внесен законопроект о поправках в налоговое законодательство (Налоговая реформа №2). Документ предусматривает постоянное закрепление права на мгновенное списание активов до $20 000 и возвращение механизма переноса убытков назад  для компаний с оборотом до $1 млрд.\n\nИсточник: https://www.aph.gov.au/\n\n#Австралия #ПереносУбытков #КорпоративныйНалог #Амортизация #Парламент #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Австралия",
+      "act": "Законопроект Парламента Австралии Treasury Laws Amendment (Tax Reform No. 2) Bill 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.aph.gov.au/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "taxathand search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-19"
+    }
+  ]
+}

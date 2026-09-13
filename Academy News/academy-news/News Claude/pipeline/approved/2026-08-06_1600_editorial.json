@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-06",
+  "release": "2026-08-06-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-08-06-ru-minfin-nifi-macro",
+      "title": "Минфин России и Научно-исследовательский финансовый институт подготовили квартальную прогнозную макроэкономическую модель",
+      "caption": "Министерство финансов России совместно с Научно-исследовательским финансовым институтом разработали квартальную модель прогноза макроэкономических показателей для целей бюджетного планирования и налоговой политики.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40523-minfin_rossii_i_nifi_podgotovili_kvartalnuyu_prognoznuyu_model_makroekonomicheskikh_pokazatelei\n\n#Минфин #НИФИ #макроэкономика #прогноз #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Министерства финансов России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40523-minfin_rossii_i_nifi_podgotovili_kvartalnuyu_prognoznuyu_model_makroekonomicheskikh_pokazatelei"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 minfin.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-minfin-zakupki-q2",
+      "title": "Минфин России подвёл итоги функционирования контрактной системы закупок за II квартал 2026 года",
+      "caption": "Министерство финансов опубликовало сводный доклад об итогах государственных закупок за второй квартал 2026 года, включая показатели соблюдения законодательства и эффективности бюджетных расходов.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40521-minfin_rossii_podvel_itogi_funktsionirovaniya_kontraktnoi_sistemy_v_sfere_zakupok_za_ii_kvartal_2026_goda\n\n#Минфин #закупки #госзакупки #бюджет #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Доклад Министерства финансов России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40521-minfin_rossii_podvel_itogi_funktsionirovaniya_kontraktnoi_sistemy_v_sfere_zakupok_za_ii_kvartal_2026_goda"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 minfin.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-fns-imuschestvo-vebinar",
+      "title": "ФНС России проведёт вебинар о новейших проектах в сфере налогообложения имущества организаций и физических лиц",
+      "caption": "Федеральная налоговая служба анонсировала вебинар, на котором специалисты представят актуальные изменения в правилах налогообложения имущества: поправки в кадастровую оценку, новые подходы к формированию налоговых уведомлений.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16638004/\n\n#ФНС #имущество #налог #вебинар #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги",
+      "jurisdictions": "Россия",
+      "act": "Анонс вебинара ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16638004/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-at-ch-dta-protocol",
+      "title": "Австрия и Швейцария подписали протокол об изменении налогового соглашения 1974 года",
+      "caption": "Австрия и Швейцария подписали протокол о внесении изменений в двустороннее соглашение об избежании двойного налогообложения, заключённое в 1974 году, приведя его в соответствие с современными стандартами ОЭСР.\n\nИсточник: https://regfollower.com/austria-switzerland-sign-amending-protocol-to-1974-tax-treaty/\n\n#Австрия #Швейцария #СОДН #ОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Австрия / Швейцария",
+      "act": "Подписание протокола к двустороннему СОДН",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/austria-switzerland-sign-amending-protocol-to-1974-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-oecd-mcaa-cbc-signatories",
+      "title": "ОЭСР обновила список подписантов Многостороннего соглашения об автоматическом обмене отчётами по странам",
+      "caption": "Организация экономического сотрудничества и развития опубликовала обновлённый список государств, подписавших многостороннее соглашение компетентных органов об автоматическом обмене страновой отчётностью в рамках стандарта.\n\nИсточник: https://regfollower.com/oecd-updates-signatories-list-for-mcaa-cbc-4/\n\n#ОЭСР #CbCR #страноваяотчётность #автоматическийобмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "ОЭСР / международный",
+      "act": "Обновление списка ОЭСР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oecd-updates-signatories-list-for-mcaa-cbc-4/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-uk-steel-bicycle-duties",
+      "title": "Великобритания перешла к квотам на сталь и ввела существенные пошлины на импортные велосипеды",
+      "caption": "Правительство Великобритании объявило о переходе к системе тарифных квот в отношении импорта стали и активировании значительных таможенных пошлин на велосипеды — в рамках новой торгово-таможенной стратегии.\n\nИсточник: https://regfollower.com/uk-shifts-steel-strategy-to-quotas-activates-major-bicycle-duties/\n\n#Великобритания #пошлины #таможня #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное и торговое право",
+      "jurisdictions": "Великобритания",
+      "act": "Решение Правительства Великобритании",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uk-shifts-steel-strategy-to-quotas-activates-major-bicycle-duties/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-eu-trade-defence-china-us",
+      "title": "Европейский союз запустил широкую кампанию торговой защиты против субсидируемого импорта из ряда стран",
+      "caption": "ЕС инициировал масштабную кампанию по применению инструментов торговой защиты: введены антидемпинговые и компенсационные меры против субсидируемого импорта, в том числе американского биотоплива и ряда китайских товаров.\n\nИсточник: https://regfollower.com/eu-unleashes-broad-trade-defence-campaign-targeting-china-russia-and-now-us-biofuels/\n\n#ЕС #торговаязащита #антидемпинг #пошлины #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное и торговое право",
+      "jurisdictions": "ЕС",
+      "act": "Регуляторные меры Европейского союза",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/eu-unleashes-broad-trade-defence-campaign-targeting-china-russia-and-now-us-biofuels/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ar-arca-export-caps",
+      "title": "Аргентина отменила экспортные ограничения и упростила правила для малых отправлений",
+      "caption": "Аргентинская служба по таможенным и налоговым доходам отменила лимиты на экспорт и упростила процедуры для малых почтовых отправлений, снизив административную нагрузку на малый бизнес при трансграничной торговле.\n\nИсточник: https://regfollower.com/argentina-arca-removes-export-caps-simplifies-small-shipment-rules/\n\n#Аргентина #экспорт #таможня #МСП #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное и торговое право",
+      "jurisdictions": "Аргентина",
+      "act": "Решение налоговой службы Аргентины",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/argentina-arca-removes-export-caps-simplifies-small-shipment-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ar-tax-suspension-healthcare",
+      "title": "Аргентина продлила мораторий на принудительное взыскание налогов с медицинских и некоммерческих организаций до конца 2026 года",
+      "caption": "Правительство Аргентины распространило действие моратория на применение мер принудительного взыскания налоговой задолженности на медицинские учреждения и некоммерческие организации до 31 декабря 2026 года.\n\nИсточник: https://regfollower.com/argentina-extends-tax-enforcement-suspension-for-healthcare-providers-non-profit-organisations-until-end-2026/\n\n#Аргентина #налоговаяамнистия #мораторий #НКО #здравоохранение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Аргентина",
+      "act": "Решение Правительства Аргентины",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/argentina-extends-tax-enforcement-suspension-for-healthcare-providers-non-profit-organisations-until-end-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-by-robotics-tax-incentives",
+      "title": "Беларусь с июля 2026 года ввела налоговые льготы для предприятий роботизированного производства",
+      "caption": "Республика Беларусь установила специальный режим налогообложения для предприятий, внедряющих робототехнику и автоматизированные системы производства: льготы включают сниженную ставку налога на прибыль и ускоренную амортизацию.\n\nИсточник: https://regfollower.com/belarus-introduces-tax-incentives-for-robotics-sector-from-july-2026/\n\n#Беларусь #роботика #налоговыельготы #инновации #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Беларусь",
+      "act": "Законодательные поправки Беларуси",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belarus-introduces-tax-incentives-for-robotics-sector-from-july-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-13",
+  "release": "2026-08-13_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-13-nl-pillar2-clarify",
+      "title": "Налоговая служба Нидерландов разъяснила применение закона о минимальном налоге Pillar 2",
+      "caption": "Налоговые органы Нидерландов опубликовали разъяснения по Закону о минимальном налоге 2024 года (Pillar 2), уточняющие правила подачи отчетности и исчисления топ-ап налога для транснациональных групп компаний в переходный период.\n\nИсточник: https://regfollower.com/netherlands-tax-authorities-clarify-pillar-two-minimum-tax-act-2024/\n\n#Нидерланды #Pillar2 #минимальныйНалог #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-tax-authorities-clarify-pillar-two-minimum-tax-act-2024/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-tax-penalties-amended",
+      "title": "Нидерланды внесли изменения в правила наложения налоговых штрафов для поддержки Pillar 2, DAC8 и DAC9",
+      "caption": "В Нидерландах приняты законодательные поправки к правилам наложения административных штрафов. Изменения направлены на обеспечение соблюдения требований раскрытия информации по директивам DAC8 (криптоактивы) и DAC9 (минимальный налог), а также правилам Pillar 2.\n\nИсточник: https://regfollower.com/netherlands-amends-tax-penalty-rules-to-support-pillar-two-dac8-dac9-rollout/\n\n#Нидерланды #штрафы #DAC8 #DAC9 #Pillar2 #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Законодательные поправки Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-amends-tax-penalty-rules-to-support-pillar-two-dac8-dac9-rollout/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-cn-offshore-trusts-scrutiny",
+      "title": "Китай ужесточает налоговый контроль за офшорными трастами, инвестициями и страхованием",
+      "caption": "Налоговые органы КНР усиливают мониторинг трансграничных активов физических и юридических лиц. Особое внимание будет уделяться использованию офшорных трастов и зарубежных страховых полисов для минимизации налогообложения в Китае.\n\nИсточник: https://regfollower.com/china-tightens-tax-scrutiny-of-offshore-trusts-investments-insurance/\n\n#Китай #офшоры #трасты #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль",
+      "jurisdictions": "Китай",
+      "act": "Руководство Налоговой администрации Китая",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/china-tightens-tax-scrutiny-of-offshore-trusts-investments-insurance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-de-tax-crime-action-plan",
+      "title": "Германия представила план по борьбе с налоговыми преступлениями и усилению ответственности",
+      "caption": "Министерство финансов Германии анонсировало национальный план действий по повышению эффективности выявления налоговых правонарушений. План предусматривает расширение полномочий налоговых инспекторов и ужесточение уголовных санкций за налоговые преступления.\n\nИсточник: https://regfollower.com/germany-unveils-action-plan-to-increase-detection-penalties-for-tax-crime/\n\n#Германия #налоговыеПреступления #Минфин #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Германия",
+      "act": "План действий Министерства финансов Германии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/germany-unveils-action-plan-to-increase-detection-penalties-for-tax-crime/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-hu-nz-tax-treaty-signing",
+      "title": "Венгрия одобрила подписание соглашения об избежании двойного налогообложения с Новой Зеландией",
+      "caption": "Правительство Венгрии официально санкционировало подписание соглашения об избежании двойного налогообложения с Новой Зеландией. Договор направлен на стимулирование взаимных инвестиций и предотвращение уклонения от налогов.\n\nИсточник: https://regfollower.com/hungary-approves-tax-treaty-signing-with-new-zealand/\n\n#Венгрия #НоваяЗеландия #СОДН #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Венгрия / Новая Зеландия",
+      "act": "Решение Правительства Венгрии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/hungary-approves-tax-treaty-signing-with-new-zealand/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-za-sars-dta-apa-rules",
+      "title": "Налоговая служба ЮАР выпустила правила для системы соглашений о трансфертном ценообразовании",
+      "caption": "Налоговая служба ЮАР (SARS) представила официальные правила по процедурам заключения соглашений о ценообразовании (APA) в рамках соглашений об избежании двойного налогообложения, повышая предсказуемость для международных инвесторов.\n\nИсточник: https://regfollower.com/south-africa-sars-issues-rules-for-dta-advance-pricing-agreement-system/\n\n#ЮАР #ТЦО #APA #трансфертноеЦенообразование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "ЮАР",
+      "act": "Руководство Налоговой службы ЮАР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/south-africa-sars-issues-rules-for-dta-advance-pricing-agreement-system/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ro-anaf-vat-reimbursement",
+      "title": "Налоговая служба Румынии ужесточает проверку заявок на возврат НДС на основе критериев риска",
+      "caption": "Румынское налоговое агентство (ANAF) объявило о внедрении расширенной системы оценки рисков при администрировании возврата НДС. Процедура призвана снизить объем мошенничества с НДС и ускорить выплаты для добросовестных налогоплательщиков.\n\nИсточник: https://regfollower.com/romania-anaf-tightens-vat-reimbursement-screening-with-expanded-risk-criteria/\n\n#Румыния #НДС #налоговоеАдминистрирование #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Румыния",
+      "act": "Решение Налоговой службы Румынии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/romania-anaf-tightens-vat-reimbursement-screening-with-expanded-risk-criteria/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-om-vat-e-invoicing-updates",
+      "title": "Оман обновил правила по обязательному внедрению электронного выставления счетов по НДС",
+      "caption": "Налоговый орган Омана опубликовал обновленный регламент по обязательному переходу на систему электронных счетов-фактур для целей НДС, устанавливая этапы внедрения и технические стандарты для бизнеса.\n\nИсточник: https://regfollower.com/oman-updates-vat-regulations-for-mandatory-e-invoicing/\n\n#Оман #НДС #электронныеСчета #налоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Оман",
+      "act": "Регламент Налогового органа Омана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oman-updates-vat-regulations-for-mandatory-e-invoicing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-minfin-sez-border-zones",
+      "title": "Минфин России: в приграничных регионах расширено действие режима свободной экономической зоны",
+      "caption": "Министерство финансов РФ объявило о расширении преференциального налогового режима свободной экономической зоны (СЭЗ) на приграничные территории Белгородской, Брянской и Курской областей для поддержки местных предприятий.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40532-v_prigraniche_rasshirili_deistvie_rezhima_svobodnoi_ekonomicheskoi_zony\n\n#Минфин #СЭЗ #льготы #налоги #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40532-v_prigraniche_rasshirili_deistvie_rezhima_svobodnoi_ekonomicheskoi_zony"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 minfin confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-fns-kep-sfr-deadline",
+      "title": "ФНС России рекомендует переоформить КЭП для сдачи отчетности в Социальный фонд до 1 сентября",
+      "caption": "Федеральная налоговая служба призвала организации и ИП заблаговременно обновить квалифицированные электронные подписи для взаимодействия с Социальным фондом России, чтобы избежать блокировок сдачи отчетности.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16642473/\n\n#ФНС #КЭП #отчетность #СФР #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая отчетность",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642473/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    }
+  ]
+}

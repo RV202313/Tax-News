@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-18",
+  "release": "2026-08-18_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-18-montenegro-cross-border-tp-rulebook",
+      "title": "Черногория опубликовала правила автоматического обмена данными по трансфертному ценообразованию с ЕС",
+      "caption": "Черногория опубликовала в официальном вестнике Регламент № 10/1-1-01-040/26-2637/4 от 7 августа 2026 года, уточняющий порядок автоматического обмена информацией со странами ЕС о предварительных ценовых соглашениях и налоговых разъяснениях с трансграничными последствиями.\n\nИсточник: https://regfollower.com/montenegro-issues-rulebook-on-cross-border-tax-reporting-transfer-pricing/\n\n#Черногория #ТЦО #АвтоматическийОбмен #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Европа",
+      "act": "Регламент Черногории № 10/1-1-01-040/26-2637/4",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/montenegro-issues-rulebook-on-cross-border-tax-reporting-transfer-pricing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower pipeline"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-17"
+    },
+    {
+      "slug": "2026-08-18-us-court-de-minimis-tariff",
+      "title": "США: Суд поддержал отмену таможенной льготы «де-минимис» для посылок стоимостью до $800",
+      "caption": "Суд по международной торговле США поддержал решение администрации об отмене таможенной льготы «де-минимис», освобождавшей от пошлин товары стоимостью до $800. Суд признал, что Закон о международных чрезвычайных экономических полномочиях (IEEPA) даёт президенту достаточные полномочия для отмены этой нормы.\n\nИсточник: https://regfollower.com/us-trump-administration-wins-court-backing-elimination-of-tariff-exemption-on-low-value-imports/\n\nНе является налоговой консультацией.\n\n#США #Таможня #ДеМинимис #IEEPA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное регулирование",
+      "jurisdictions": "США",
+      "act": "Решение Суда по международной торговле США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-trump-administration-wins-court-backing-elimination-of-tariff-exemption-on-low-value-imports/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower pipeline"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-17"
+    },
+    {
+      "slug": "2026-08-18-nl-tax-fraud-real-estate",
+      "title": "Нидерланды: Уголовное дело о налоговом мошенничестве при продаже недвижимости",
+      "caption": "Нидерландская прокуратура возбудила уголовное дело о налоговом мошенничестве при сделках с коммерческой недвижимостью. По данным налоговых органов, схема позволила уклониться от уплаты значительных сумм НДС при цепочке перепродаж объектов между связанными сторонами.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/belastingfraude-bij-verkoop-pand/\n\nНе является налоговой консультацией.\n\n#Нидерланды #НалоговоеМошенничество #НДС #Недвижимость #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль",
+      "jurisdictions": "Нидерланды",
+      "act": "Уголовное дело Нидерланды",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingfraude-bij-verkoop-pand/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "nl_taxlive pipeline"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-17"
+    },
+    {
+      "slug": "2026-08-18-switzerland-vat-increase-security",
+      "title": "Швейцария: Правительство предложило временное повышение НДС для финансирования обороны",
+      "caption": "Федеральный совет Швейцарии 12 августа 2026 года принял законопроект о временном повышении ставки НДС на 0,5 процентного пункта сроком на 12 лет, начиная с 2028 года, для финансирования расходов на безопасность и оборону. Льготная ставка также вырастет.\n\nИсточник: https://regfollower.com/switzerland-adopts-dispatch-for-temporary-vat-increase-to-fund-security-spending/\n\n#Швейцария #НДС #Оборона #НалоговаяПолитика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / косвенные налоги",
+      "jurisdictions": "Европа",
+      "act": "Законопроект Федерального совета Швейцарии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/switzerland-adopts-dispatch-for-temporary-vat-increase-to-fund-security-spending/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "regfollower pipeline"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-17"
+    },
+    {
+      "slug": "2026-08-18-sweden-pillar-two-safe-harbours",
+      "title": "Швеция предложила поправки к Закону о минимальном налоге для имплементации четырёх безопасных гаваней ОЭСР",
+      "caption": "14 августа 2026 года правительство Швеции направило в Государственный совет по законодательству предложение о внесении масштабных поправок в Закон о минимальном налоге. Поправки включают четыре из пяти механизмов безопасных гаваней пакета ОЭСР «параллельного применения», согласованного Инклюзивным форумом в январе 2026 года.\n\nИсточник: https://oecdpillars.com/sweden-proposed-extensive-amendments-to-minimum-tax-act/\n\n#Швеция #PillarTwo #БезопасныеГавани #GloBE #МинимальныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Европа",
+      "act": "Законодательное предложение Швеции — поправки к Закону о минимальном налоге",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecdpillars.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "oecdpillars.com search"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-14"
+    },
+    {
+      "slug": "2026-08-18-russia-spot-eaeu-imports-declaration",
+      "title": "Россия: С 20 августа — новая форма декларации по косвенным налогам для импорта из ЕАЭС в рамках системы СПОТ",
+      "caption": "С 20 августа 2026 года импортёры товаров из стран ЕАЭС обязаны представлять декларацию по косвенным налогам по обновлённой форме с учётом требований системы подтверждения ожидания поставки (СПОТ). Сама система работает с 1 июля 2026 года и предусматривает предварительное уведомление ФНС, внесение обеспечительного платежа и выдачу QR-кода перевозчику.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/\n\n#Россия #СПОТ #ЕАЭС #НДС #КосвенныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / косвенные налоги",
+      "jurisdictions": "Россия",
+      "act": "Обновлённая форма декларации по косвенным налогам (СПОТ)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "nalog.gov.ru search"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-18-un-tax-convention-5th-session",
+      "title": "ООН: Завершилась пятая сессия переговоров по Рамочной конвенции о международном налогообложении",
+      "caption": "13 августа 2026 года в Нью-Йорке завершилась пятая содержательная сессия переговоров по Рамочной конвенции ООН о международном налоговом сотрудничестве. Ключевым предметом обсуждения стало взаимодействие будущей конвенции с существующей сетью двусторонних налоговых соглашений — проблема, особенно актуальная для развивающихся стран, стремящихся модернизировать свои налоговые системы.\n\nИсточник: https://ictd.ac/blog/un-tax-convention-fifth-session-2026/\n\n#ООН #РамочнаяКонвенция #МеждународноеНалогообложение #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налоговое сотрудничество",
+      "jurisdictions": "Международные организации",
+      "act": "Переговоры по Рамочной конвенции ООН о международном налоговом сотрудничестве",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ictd.ac/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "ictd.ac search"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-13"
+    },
+    {
+      "slug": "2026-08-18-poland-digital-services-tax-draft",
+      "title": "Польша опубликовала законопроект о налоге на цифровые услуги в размере 3%",
+      "caption": "31 июля 2026 года Польша опубликовала проект закона о введении налога на цифровые услуги (НЦУ) по ставке 3% для крупных налогоплательщиков — преимущественно транснациональных технологических компаний. Законопроект охватывает доходы от онлайн-рекламы, посреднических платформ и передачи пользовательских данных.\n\nИсточник: https://regfollower.com/poland-publishes-draft-3-percent-digital-services-tax-legislation/\n\n#Польша #НалогНаЦифровыеУслуги #НЦУ #ЦифроваяЭкономика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровая экономика / налогообложение платформ",
+      "jurisdictions": "Европа",
+      "act": "Законопроект о налоге на цифровые услуги Польши",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/poland-publishes-draft-3-percent-digital-services-tax-legislation/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "ey.com search"
+      },
+      "score": 14.0,
+      "published_at": "2026-07-31"
+    },
+    {
+      "slug": "2026-08-18-us-obb-act-intercompany-royalties",
+      "title": "США: Налоговый закон «Один большой прекрасный закон» меняет экономику межгрупповых роялти",
+      "caption": "Новые правила в рамках американского налогового закона (введённого в 2025 году) вступают в силу для налоговых лет начиная с 1 января 2026 года и существенно влияют на международное налогообложение транснациональных групп. Юрфирмы рекомендуют пересмотреть межгрупповые соглашения о роялти и распределении затрат с учётом изменившейся налоговой экономики.\n\nИсточник: https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications\n\nНе является налоговой консультацией.\n\n#США #МежгрупповыеСоглашения #Роялти #ТЦО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "США",
+      "act": "«One Big Beautiful Bill Act» — налоговые изменения 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mcdermott.com/en/insights/publications/2026/08/obb-act-international-tax-implications"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "mcdermott search"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-15"
+    },
+    {
+      "slug": "2026-08-18-kazakhstan-ndfl-progressive-scale-eaeu",
+      "title": "Россия: Граждане ЕАЭС освобождены от перерасчёта НДФЛ по ставке 30% — прогрессивная шкала с первого дня",
+      "caption": "С 2026 года работодатели в России больше не обязаны пересчитывать НДФЛ по ставке 30% в конце года для граждан ЕАЭС (в том числе Казахстана и Беларуси), не ставших налоговыми резидентами. Доходы граждан ЕАЭС с первого дня работы облагаются по прогрессивной шкале НДФЛ наравне с гражданами РФ — без риска последующего перерасчёта.\n\nИсточник: https://astral.ru/articles/ndfl/ndfl-dlya-inostrantsev-iz-eaes/\n\n#Россия #ЕАЭС #НДФЛ #НалоговоеРезидентство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц / нерезиденты",
+      "jurisdictions": "Россия",
+      "act": "Поправки в Налоговый кодекс РФ — НДФЛ для граждан ЕАЭС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://astral.ru/articles/ndfl/ndfl-dlya-inostrantsev-iz-eaes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "astral.ru search"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-18"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "date": "2026-09-09",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 418,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kwartaalrapportage-lopende-fiscale-eu-wetgevingsvoorstellen-q2-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Kwartaalrapportage lopende fiscale EU-wetgevingsvoorstellen Q2 2026",
+      "summary": "",
+      "published_at": "2026-09-09",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl",
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды",
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 419,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingdruk-huishoudens-volgens-cbs-gedaald/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingdruk huishoudens volgens CBS gedaald",
+      "summary": "",
+      "published_at": "2026-09-09",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 420,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/bezwaar-motorrijtuigenbelasting-ook-online/",
+      "ecli": "",
+      "act": "",
+      "title": "Bezwaar motorrijtuigenbelasting ook online",
+      "summary": "",
+      "published_at": "2026-09-09",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 421,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingcontrole-controletechnieken-en-toezicht-belastingdienst/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingcontrole, controletechnieken en toezicht Belastingdienst",
+      "summary": "",
+      "published_at": "2026-09-09",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 422,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/thailand-signs-multilateral-agreement-on-globe-information-exchange-gir-mcaa/",
+      "ecli": "",
+      "act": "",
+      "title": "Thailand signs multilateral agreement on GloBE information exchange (GIR MCAA)",
+      "summary": "Thailand signed the Multilateral Competent Authority Agreement on the Exchange of GloBE Information (GIR MCAA) on 4 August 2026, according to an OECD update. The GIR MCAA is intended to reduce compliance burdens for multinational enterprise (MNE) groups by enabling the centralised filing of GloBE Information Returns. A key part of the OECD/G20 BEPS Project...",
+      "published_at": "2026-09-09",
+      "score": 11.0,
+      "topics": [
+        "dta",
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-08-24_1600_editorial-editorial-d947a5e2de6a",
+  "release": "2026-08-24_1600_editorial",
+  "date": "2026-08-24",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-08-24T12:03:57.637592+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "d947a5e2de6aee0c7eaaefd9bb3fb0c01ca58528d0bf8f12aabac8c20fbd2944",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 10,
+    "missing_post_ids": []
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 21749,
+      "sha256": "d947a5e2de6aee0c7eaaefd9bb3fb0c01ca58528d0bf8f12aabac8c20fbd2944"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-24_shortlist.json",
+      "bytes": 6463,
+      "sha256": "af5e4f5e1f4bf15019f2b15bbb366d3fd18de069190d2e3b2b6f4f8bd43b3cc8",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-24_digest.md",
+      "bytes": 5500,
+      "sha256": "0ef531561e4c1c0030faff6591e20b1224482103e08c16b00593cbc2e2bd7b89",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 5529,
+      "sha256": "312067d5b71e85273220b68275d04bab48c99c294aa0f05480c0e06450612dea",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 3042,
+      "sha256": "4d4316936abcc984f735d2bdaef48c100b14b6fc0aa896fbfb8298e5b400175e",
+      "records": 10
+    }
+  }
+}

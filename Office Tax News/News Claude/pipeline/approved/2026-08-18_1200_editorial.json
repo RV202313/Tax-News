@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-18",
+  "release": "2026-08-18_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-18-france-einvoicing-sep2026",
+      "title": "Франция: Налоговая служба опубликовала практическое руководство по обязательному электронному выставлению счетов (с 1 сентября 2026)",
+      "caption": "Французская налоговая служба опубликовала практическое руководство для предприятий крупного и среднего бизнеса по переходу на обязательное электронное выставление счетов, которое вступает в силу 1 сентября 2026 года. Документ охватывает технические требования, форматы передачи данных и переходные положения.\n\nИсточник: https://www.impots.gouv.fr/portail/node/13615\n\n#Франция #Электронныйсчёт #НДС #DGFiP #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / электронные счета",
+      "jurisdictions": "Европа",
+      "act": "Руководство DGFiP по электронному выставлению счетов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.impots.gouv.fr/portail/node/13615"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "vatupdate.com search"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-18-southafrica-vat-einvoicing-consultation",
+      "title": "ЮАР: Налоговая служба открыла консультации по новой модели НДС с электронными счетами и транзакционной отчётностью в реальном времени",
+      "caption": "17 августа 2026 года Налоговая служба ЮАР (SARS) опубликовала консультационный документ по введению новой цифровой модели НДС, предусматривающей обязательное электронное выставление счетов и передачу транзакционных данных в режиме реального времени.\n\nИсточник: https://www.sars.gov.za/media-release/sars-releases-consultation-paper-on-digital-vat-model/\n\n#ЮАР #НДС #ЭлектронныйСчёт #SARS #ТранзакционнаяОтчётность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / электронные счета",
+      "jurisdictions": "Африка",
+      "act": "Консультационный документ SARS по цифровой модели НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.sars.gov.za/media-release/sars-releases-consultation-paper-on-digital-vat-model/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "sars.gov.za search"
+      },
+      "score": 13.0,
+      "published_at": "2026-08-17"
+    },
+    {
+      "slug": "2026-08-18-botswana-vat-nonresident-digital",
+      "title": "Ботсвана: Механизм обратного начисления НДС для нерезидентов — поставщиков цифровых услуг заработал с 1 августа 2026",
+      "caption": "С 1 августа 2026 года в Ботсване вступил в силу механизм обратного начисления НДС для нерезидентов, оказывающих цифровые и дистанционные услуги. С 1 октября 2026 года такие поставщики будут обязаны пройти полную регистрацию в качестве плательщиков НДС.\n\nИсточник: https://regfollower.com/botswana-vat-rules-for-nonresident-providers-of-digital-services/\n\n#Ботсвана #НДС #ЦифровыеУслуги #ОбратноеНачисление #Нерезиденты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / цифровые услуги",
+      "jurisdictions": "Африка",
+      "act": "Новые правила НДС Ботсваны для нерезидентов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/botswana-vat-rules-for-nonresident-providers-of-digital-services/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "kpmg.com/vatupdate search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-01"
+    },
+    {
+      "slug": "2026-08-18-nl-vat-refund-postponed",
+      "title": "Нидерланды: Налоговые органы перенесли плановые изменения в порядке возврата НДС для иностранных компаний",
+      "caption": "Нидерландские налоговые органы объявили о переносе запланированных изменений в процедуре возврата НДС как для компаний из стран ЕС, так и для третьих стран. Новые сроки и требования будут опубликованы дополнительно.\n\nИсточник: https://vatupdate.com/2026/08/netherlands-vat-refund-postponed/\n\n#Нидерланды #НДС #ВозвратНДС #Нерезиденты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / возврат",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение налоговых органов Нидерландов об отсрочке",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vatupdate.com/2026/08/netherlands-vat-refund-postponed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "vatupdate/fintua search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-18"
+    },
+    {
+      "slug": "2026-08-18-nl-dst-not-income-tax-treaty",
+      "title": "Нидерланды: Налог на цифровые услуги не является налогом на доходы в целях налоговых соглашений",
+      "caption": "Нидерландский анализ подтвердил: налог на цифровые услуги (НЦУ) не квалифицируется как налог на доход или прибыль для целей применения корпоративных налоговых соглашений. Это влияет на вычитаемость НЦУ и порядок применения соглашений об избежании двойного налогообложения.\n\nИсточник: https://kpmg.com/nl/en/home/insights/2026/08/dutch-dst-income-tax-treaty-analysis.html\n\n#Нидерланды #НЦУ #DST #НалоговоеСоглашение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровая экономика / налогообложение платформ",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение нидерландских налоговых органов по НЦУ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kpmg.com/nl/en/home/insights/2026/08/dutch-dst-income-tax-treaty-analysis.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "kpmg.com search"
+      },
+      "score": 13.0,
+      "published_at": "2026-08-06"
+    },
+    {
+      "slug": "2026-08-18-oman-fawtara-einvoicing-launch",
+      "title": "Оман: Запущена первая фаза программы электронных счетов «Фавтара» для крупных налогоплательщиков",
+      "caption": "1 августа 2026 года в Омане стартовала первая фаза программы обязательного электронного выставления счетов «Фавтара» для отобранных крупных налогоплательщиков. Программа предусматривает передачу данных о транзакциях в налоговые органы в режиме реального времени.\n\nИсточник: https://vatupdate.com/2026/08/oman-fawtara-einvoicing-launch/\n\n#Оман #Фавтара #ЭлектронныйСчёт #НДС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / электронные счета",
+      "jurisdictions": "Ближний Восток",
+      "act": "Программа «Фавтара» — электронные счета Омана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vatupdate.com/2026/08/oman-fawtara-einvoicing-launch/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "vatupdate.com search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-01"
+    },
+    {
+      "slug": "2026-08-18-oecd-dctr-interoperability-guidance",
+      "title": "ОЭСР опубликовала руководство по обеспечению совместимости систем непрерывной транзакционной отчётности",
+      "caption": "Организация экономического сотрудничества и развития опубликовала стратегическое руководство по разработке национальных систем непрерывной транзакционной отчётности с акцентом на взаимодействие между юрисдикциями и предотвращение цифровой фрагментации международных цепочек поставок.\n\nИсточник: https://www.oecd.org/tax/digital-interoperability-dctr-guidance-2026.pdf\n\n#ОЭСР #DCTR #ЭлектронныеСчета #НДС #Совместимость #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС / международное сотрудничество",
+      "jurisdictions": "Международные организации",
+      "act": "Руководство ОЭСР по совместимости DCTR",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/digital-interoperability-dctr-guidance-2026.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecd.org/banqup search"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-15"
+    },
+    {
+      "slug": "2026-08-18-ru-germany-jahressteuergesetz-2026-pillar-two",
+      "title": "Германия: Кабинет одобрил Годовой налоговый закон 2026 с имплементацией безопасных гаваней Pillar Two",
+      "caption": "12 августа 2026 года кабинет министров Германии одобрил проект Годового налогового закона 2026 (2026), включающий положения об имплементации безопасных гаваней пакета ОЭСР «параллельного применения» — как на уровне материнской компании (UPE), так и на уровне дочерних структур (SbS).\n\nИсточник: https://regfollower.com/germany-cabinet-approves-annual-tax-act-2026-pillar-two-safe-harbour/\n\n#Германия #PillarTwo #БезопасныеГавани ##АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Европа",
+      "act": "Jahressteuergesetz 2026 — кабинет Германии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/germany-cabinet-approves-annual-tax-act-2026-pillar-two-safe-harbour/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-12"
+    },
+    {
+      "slug": "2026-08-18-nl-australia-treaty-royalties",
+      "title": "Нидерланды разъяснили квалификацию лицензионных платежей за изображения и логотипы по соглашению с Австралией",
+      "caption": "Нидерландские налоговые органы опубликовали разъяснения о квалификации лицензионных платежей за использование изображений и логотипов как роялти в целях применения налогового соглашения между Нидерландами и Австралией. Позиция имеет значение для определения применимой ставки удержания у источника.\n\nИсточник: https://kpmg.com/nl/en/home/insights/2026/08/netherlands-australia-treaty-license-fees-royalties.html\n\n#Нидерланды #Австралия #Роялти #УдержаниеНалога #СоглашениеОбИзбежании #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения нидерландских налоговых органов по соглашению с Австралией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kpmg.com/nl/en/home/insights/2026/08/netherlands-australia-treaty-license-fees-royalties.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "kpmg.com search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-06"
+    },
+    {
+      "slug": "2026-08-18-turkey-globe-mcaa-signed",
+      "title": "Турция одобрила Многостороннее соглашение компетентных органов по обмену декларациями GloBE",
+      "caption": "Турция ратифицировала Многостороннее соглашение компетентных органов об обмене декларациями по системе GloBE (глобального антиэрозийного налога). Это позволит Турции участвовать в международном автоматическом обмене данными по Pillar Two в рамках Инклюзивного форума ОЭСР.\n\nИсточник: https://regfollower.com/turkey-approves-multilateral-competent-authority-agreement-globe-information-returns/\n\n#Турция #GloBE #PillarTwo #MCAA #АвтоматическийОбмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Европа",
+      "act": "Решение Турции об одобрении MCAA GloBE",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/turkey-approves-multilateral-competent-authority-agreement-globe-information-returns/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "ey.com/regfollower search"
+      },
+      "score": 14.0,
+      "published_at": "2026-08-16"
+    }
+  ]
+}

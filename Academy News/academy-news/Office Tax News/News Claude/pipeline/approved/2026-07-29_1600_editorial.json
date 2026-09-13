@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-29",
+  "release": "2026-07-29-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-07-29-1600-ru-news-01",
+      "title": "Разработка специализированных искусственных интеллектов и калькуляторов для налоговых споров",
+      "caption": "Обзор применения алгоритмов машинного обучения для предварительной оценки рисков при квалификации контролируемых сделок.\n\nИсточник: https://t.me/leads/\n\n#ИИ #налоговыетехнологии #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "🤖 Налоговый калькулятор и AI-ассистент для Формы 270.00 Запущен рабочий веб-серв",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-02",
+      "title": "Отказ в возврате налога на дивиденды иностранным портфельным инвесторам",
+      "caption": "Решение Верховного суда Нидерландов о порядке применения льготных ставок налога у источника при выплате дивидендов.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/geen-teruggaaf-dividendbelasting/\n\n#дивиденды #налогуисточника #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Geen teruggaaf dividendbelasting voor buitenlands beleggingsfonds",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/geen-teruggaaf-dividendbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-03",
+      "title": "Применение пониженной ставки налога на передачу недвижимости при разделении прав",
+      "caption": "Судебная практика по вопросам отнесения сделок с нежилыми объектами к категориям с льготной налоговой ставкой.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/verlaagd-overdrachtsbelastingtarief/\n\n#недвижимость #налоги #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Verlaagd overdrachtsbelastingtarief ondanks uitgesteld gebruik als hoofdverblijf",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/verlaagd-overdrachtsbelastingtarief/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-04",
+      "title": "Расходы на парковочные информационные системы не признаются бременем за прошлые периоды",
+      "caption": "Решение Высшего административного суда по спору о налоговом учете инфраструктурных расходов муниципальных парковок.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/kosten-parkeerinformatiesysteem/\n\n#муниципальныеналоги #вычеты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Kosten parkeerinformatiesysteem geen ‘last ter zake’, naheffingsaanslag parkeerb",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/kosten-parkeerinformatiesysteem/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-05",
+      "title": "Разъяснение о применении освобождения от налога на передачу недвижимости для управляющих партнеров",
+      "caption": "Налоговая служба Нидерландов выпустила официальную позицию о правилах исчисления налога на передачу имущества при структурировании партнерств.\n\nИсточник: https://www.taxence.nl/standpunt-inbrengvrijstelling/\n\n#Нидерланды #недвижимость #партнерства #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Mexico increases IEPS fuel incentives for gasoline, diesel",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/standpunt-inbrengvrijstelling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-06",
+      "title": "Прогноз роста доли электромобилей в корпоративных автопарках из-за стимулирующих налоговых мер",
+      "caption": "Аналитический отчет о влиянии льгот по налогу на автотранспорт и экологических вычетов на обновление корпоративных парков в Нидерландах.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/helft-nieuwe-autos-elektrisch/\n\n#экологическийналог #автотранспорт #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "US: Trump says USMCA matters more to Canada and Mexico",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/helft-nieuwe-autos-elektrisch/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-07",
+      "title": "Инициатива домовладельцев по устранению двойного обложения НДС при ремонте жилья",
+      "caption": "Обращение ассоциаций собственников недвижимости к регулятору с предложением корректировки правил применения НДС.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/huiseigenaren-btw-oplossing/\n\n#НДС #недвижимость #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "US: Trump threatens tariffs on Canada over cross-border wildfire smoke",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/huiseigenaren-btw-oplossing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-08",
+      "title": "Учет налога у источника на роялти и дивиденды в сфере ИТ",
+      "caption": "Разъяснение порядка зачета и вычета удержанного налога у источника по лицензионным платежам в международных ИТ-группах.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/bronbelasting-royalties/\n\n#роялти #налогуисточника #ИТ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "China introduces targeted tax breaks for energy, mining firms through 2027",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/bronbelasting-royalties/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-09",
+      "title": "Тайвань напомнил иностранным налогоплательщикам о сроках подачи заявлений по СОДН",
+      "caption": "Налоговое ведомство Тайваня опубликовало порядок применения льготных положений соглашений об избежании двойного налогообложения.\n\nИсточник: https://regfollower.com/taiwan-dta-tax-refund-application/\n\n#Тайвань #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "US: Senate approves sweeping tariffs on Russian energy buyers including India",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/taiwan-dta-tax-refund-application/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-1600-ru-news-10",
+      "title": "Анализ механизмов оспаривания необоснованной налоговой выгоды",
+      "caption": "Практический разбор судебной практики по делам об оспаривании расходов по сделкам с техническими компаниями.\n\nИсточник: https://t.me/leads/\n\n#судебнаяпрактика #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Singapore: IRAS updates Certificate of Residence guidance, clarifies eligibility",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

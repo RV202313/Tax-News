@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 205,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-inbrengvrijstelling-bij-onroerende-zaken-die-geen-functie-meer-vervullen-in-onderneming/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt inbrengvrijstelling bij onroerende zaken die geen functie meer vervullen in onderneming",
+      "summary": "De Kennisgroep overdrachtsbelasting neemt een standpunt in over de inbreng van onroerende zaken die nog wel kwalificeren als ondernemingsvermogen voor de IH maar geen functie meer vervullen in de onderneming.",
+      "published_at": "2026-07-28",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

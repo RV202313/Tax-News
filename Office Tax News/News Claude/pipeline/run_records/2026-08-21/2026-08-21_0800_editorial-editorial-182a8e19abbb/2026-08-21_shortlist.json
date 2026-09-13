@@ -1,0 +1,147 @@
+{
+  "date": "2026-08-21",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 333,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-limits-split-up-tax-deferrals-explicitly-excludes-anti-abuse-protections/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands limits split-up tax deferrals, explicitly excludes anti-abuse protections",
+      "summary": "The Netherlands has published Decree No. 2026-262957 of 6 August 2026 (demergers) from the State Secretary for Finance on pure demergers on 18 August 2026. The Decree No. 2026-262957 of 6 August 2026 outlines the Dutch tax policy regarding pure split-ups (corporate divisions) under the Corporate Income Tax Act 1969. This decree details the updated...",
+      "published_at": "2026-08-20",
+      "score": 12.0,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 334,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/",
+      "ecli": "",
+      "act": "",
+      "title": "Arbeidsongeschiktheidsuitkering geldt als pensioen, heffingsrecht bij Nederland",
+      "summary": "Rechtbank Zeeland-West-Brabant oordeelt dat arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en een voormalige werkgever gelden als pensioen onder het belastingverdrag met België, waardoor Nederland het heffingsrecht heeft.",
+      "published_at": "2026-08-20",
+      "score": 10.6,
+      "topics": [
+        "dta",
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 335,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/invorderingsrente-en-niet-wettelijke-rente-over-te-laat-terugbetaalde-belasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Invorderingsrente en niet wettelijke rente over te laat terugbetaalde belasting",
+      "summary": "",
+      "published_at": "2026-08-20",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 336,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/sra-wijst-op-recht-om-belastingrente-vergoed-te-krijgen-bij-trage-behandeling-btw-teruggaaf/",
+      "ecli": "",
+      "act": "",
+      "title": "SRA wijst op recht om belastingrente vergoed te krijgen bij trage behandeling btw-teruggaaf",
+      "summary": "",
+      "published_at": "2026-08-20",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 337,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/grenada-qatar-to-negotiate-income-tax-treaty/",
+      "ecli": "",
+      "act": "",
+      "title": "Grenada, Qatar to negotiate income tax treaty",
+      "summary": "Officials from Grenada and Qatar met on 18 August 2026 to discuss bilateral relations, including negotiations toward the eventual signing of a double taxation agreement (DTA) as part of broader efforts to strengthen bilateral economic and investment ties, according to a release from the Qatar News Agency. Grenadian Prime Minister Dickon Mitchell said the agreement,...",
+      "published_at": "2026-08-20",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

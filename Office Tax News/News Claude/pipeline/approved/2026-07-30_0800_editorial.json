@@ -1,0 +1,302 @@
+{
+  "date": "2026-07-30",
+  "release": "2026-07-30-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-07-30-0800-ru-news-01",
+      "title": "Декларация по налогу на наследство признана определяющей для размера вычета",
+      "caption": "Судебное решение Нидерландов о порядке подтверждения состава наследуемого имущества при расчете обязательств.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/aangifte-erfbelasting-vader/\n\n#наследство #Нидерланды #судебнаяпрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Aangifte erfbelasting vader bepalend voor hoogte overbedelingsschuld",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/aangifte-erfbelasting-vader/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-02",
+      "title": "Литва предложила Таиланду возобновить переговоры по соглашению об избежании двойного налогообложения",
+      "caption": "Министерство финансов Литвы направило официальное предложение о согласовании текста налогового соглашения.\n\nИсточник: https://regfollower.com/lithuania-thailand-dta-talks/\n\n#Литва #Таиланд #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Lithuania invites Thailand to resume double tax treaty negotiations",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/lithuania-thailand-dta-talks/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-03",
+      "title": "Отказ в возврате налога на дивиденды иностранным портфельным инвесторам",
+      "caption": "Решение Верховного суда Нидерландов о порядке применения льготных ставок налога у источника при выплате дивидендов.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/geen-teruggaaf-dividendbelasting/\n\n#дивиденды #налогуисточника #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Kazakhstan lowers base rate used to calculate late payment interest",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/geen-teruggaaf-dividendbelasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-04",
+      "title": "Применение пониженной ставки налога на передачу недвижимости при разделении прав",
+      "caption": "Судебная практика по вопросам отнесения сделок с нежилыми объектами к категориям с льготной налоговой ставкой.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/verlaagd-overdrachtsbelastingtarief/\n\n#недвижимость #налоги #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Taiwan clarifies separate income tax filing rules for foreign property transacti",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/verlaagd-overdrachtsbelastingtarief/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-05",
+      "title": "Расходы на парковочные информационные системы не признаются бременем за прошлые периоды",
+      "caption": "Решение Высшего административного суда по спору о налоговом учете инфраструктурных расходов муниципальных парковок.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/kosten-parkeerinformatiesysteem/\n\n#муниципальныеналоги #вычеты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Argentina: ARCA outlines procedures for settling criminal tax liabilities",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/kosten-parkeerinformatiesysteem/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-06",
+      "title": "Разъяснение о применении освобождения от налога на передачу недвижимости для управляющих партнеров",
+      "caption": "Налоговая служба Нидерландов выпустила официальную позицию о правилах исчисления налога на передачу имущества при структурировании партнерств.\n\nИсточник: https://www.taxence.nl/standpunt-inbrengvrijstelling/\n\n#Нидерланды #недвижимость #партнерства #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Thailand extends 7% VAT rate through 2027",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/standpunt-inbrengvrijstelling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-07",
+      "title": "Прогноз роста доли электромобилей в корпоративных автопарках из-за стимулирующих налоговых мер",
+      "caption": "Аналитический отчет о влиянии льгот по налогу на автотранспорт и экологических вычетов на обновление корпоративных парков в Нидерландах.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/helft-nieuwe-autos-elektrisch/\n\n#экологическийналог #автотранспорт #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Ireland: EU approves expanded digital games tax credit to cover post-release con",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/helft-nieuwe-autos-elektrisch/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-30-0800-ru-news-08",
+      "title": "Инициатива домовладельцев по устранению двойного обложения НДС при ремонте жилья",
+      "caption": "Обращение ассоциаций собственников недвижимости к регулятору с предложением корректировки правил применения НДС.\n\nИсточник: https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/huiseigenaren-btw-oplossing/\n\n#НДС #недвижимость #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Литва / Таиланд",
+      "act": "Egypt introduces tax incentives for listed, unlisted securities",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/artikelen/fiscaal-nieuws/huiseigenaren-btw-oplossing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

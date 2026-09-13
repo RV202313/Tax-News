@@ -1,0 +1,119 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 435,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/hong-kong-uzbekistan-begin-income-tax-treaty-negotiations/",
+      "ecli": "",
+      "act": "",
+      "title": "Hong Kong, Uzbekistan begin income tax treaty negotiations",
+      "summary": "Officials from Hong Kong and Uzbekistan will hold their first round of negotiations on an income tax treaty from 14 to 18 September 2026, according to an update from the Hong Kong Inland Revenue Department. If an agreement is reached, it will help prevent double taxation and combat fiscal evasion between the two countries. Any...",
+      "published_at": "2026-09-10",
+      "score": 19.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "uz"
+      ],
+      "jurisdiction_names": [
+        "Узбекистан"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 436,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/albania-council-of-ministers-approves-tax-treaty-with-lithuania/",
+      "ecli": "",
+      "act": "",
+      "title": "Albania: Council of Ministers approves tax treaty with Lithuania",
+      "summary": "The Albanian Council of Ministers approved an income and capital tax treaty with Lithuania on 2 September 2026. Signed on 25 May 2026, the agreement seeks to prevent double taxation and fiscal evasion between the two nations. The treaty will take effect following the exchange of instruments of ratification.",
+      "published_at": "2026-09-10",
+      "score": 15.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "lt"
+      ],
+      "jurisdiction_names": [
+        "Литва"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 437,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/tweede-kamer-wil-optie-openhouden-voor-aparte-winstbelasting-op-vastgoed/",
+      "ecli": "",
+      "act": "",
+      "title": "Tweede Kamer wil optie openhouden voor aparte winstbelasting op vastgoed",
+      "summary": "",
+      "published_at": "2026-09-10",
+      "score": 10.6,
+      "topics": [
+        "advance_rulings",
+        "nl_fiscaal",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 438,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/kuwait-cuba-negotiates-on-establishing-tax-treaty/",
+      "ecli": "",
+      "act": "",
+      "title": "Kuwait, Cuba negotiates on establishing tax treaty",
+      "summary": "Kuwait and Cuba have started talks on concluding negotiations on a tax treaty, with discussions taking place in Havana on 9 September 2026. A Kuwaiti delegation from the ministries of finance and foreign affairs is meeting Cuban officials to discuss the proposed agreement and assess whether its provisions are compatible with the laws of both...",
+      "published_at": "2026-09-10",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

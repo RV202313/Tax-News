@@ -1,0 +1,74 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-07-20-1700-editorial-repair-editorial-854f511725ef",
+  "release": "2026-07-20-1700-editorial-repair",
+  "date": "2026-07-20",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-07-20T14:39:20.100940+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "854f511725ef280e050ba075b0ca799d6711ec6605a790addee130665c6acd6f",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 1,
+    "missing_slugs": [
+      "2026-07-20-br-oea-c-essential-operator-profile",
+      "2026-07-20-br-oea-simplified-transit-guide",
+      "2026-07-20-br-receita-sintonia-q2-classification",
+      "2026-07-20-br-siscomex-ibama-pop-roterdam",
+      "2026-07-20-br-siscomex-transit-contingency",
+      "2026-07-20-de-action-plan-tax-financial-crime",
+      "2026-07-20-ru-usn-unified-notice-form",
+      "2026-07-20-uk-advance-tax-certainty-service",
+      "2026-07-20-uk-vaping-duty-approvals"
+    ],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 1,
+    "matched_post_ids": 1,
+    "missing_post_ids": []
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 26723,
+      "sha256": "854f511725ef280e050ba075b0ca799d6711ec6605a790addee130665c6acd6f"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-20_shortlist.json",
+      "bytes": 41,
+      "sha256": "cc9320ea9f140b502ec645fe999c376d08ee07561187e19d327281f0ed15682c",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-20_digest.md",
+      "bytes": 291,
+      "sha256": "f122c78d2de7f41d17d07bfbcc3994eb412672adca2166c1832a06f924208966",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 317,
+      "sha256": "c7b4f7247252fee909890fc5df85e0d89360d2d138d8f3bb0320a1d04ed1c0e7",
+      "records": 1
+    }
+  }
+}

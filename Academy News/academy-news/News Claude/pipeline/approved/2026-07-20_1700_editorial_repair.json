@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-20",
+  "release": "2026-07-20-1700-editorial-repair",
+  "items": [
+    {
+      "slug": "2026-07-20-de-action-plan-tax-financial-crime",
+      "title": "Германия представила 26-шаговый план против налоговой и финансовой преступности",
+      "caption": "Минфин Германии 16 июля 2026 года представил совместный план против налоговой и финансовой преступности. В налоговой части в нём заложены продление срока хранения бухгалтерских документов до 15 лет, обязательное хранение налогово значимых данных компаний из третьих стран на зеркальных серверах в Германии, усиление борьбы с каруселями по НДС, использование ИИ и блокчейн-аналитики, а также усиление международного обмена и расследований.\n\nПочему это важно: для международных групп это сигнал к ужесточению требований к данным, косвенным налогам и цифровому следу трансграничных операций в Германии.\n\nИсточник: https://www.bundesfinanzministerium.de/Content/DE/Downloads/Steuern/aktionsplan-gegen-steuer-und-finanzkriminalitaet.pdf?__blob=publicationFile&v=6\n\n#Германия #налоговыйконтроль #НДС #комплаенс #финансовыепреступления #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль,VAT,данные,финансовые преступления",
+      "jurisdictions": "Германия",
+      "act": "Aktionsplan gegen Steuer- und Finanzkriminalität, vorgestellt 16.07.2026",
+      "sources": [
+        {
+          "label": "BMF Germany",
+          "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Steuern/aktionsplan-gegen-steuer-und-finanzkriminalitaet.pdf?__blob=publicationFile&v=6"
+        }
+      ],
+      "image_spec": {
+        "badge": "DE Tax Crime",
+        "color_a": [28, 32, 38],
+        "color_b": [176, 104, 46]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_plan",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "BMF action plan PDF checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-br-receita-sintonia-q2-classification",
+      "title": "Налоговая служба Бразилии обновила квартальную классификацию программы Синтония",
+      "caption": "Налоговая служба Бразилии 16 июля 2026 года опубликовала новую квартальную классификацию программы Синтония по данным июня 2026 года. В системе распределены 10 892 593 активных юрлица: 1 673 480 компаний получили A+, 2 567 600 - A, 1 674 606 - B, 1 841 038 - C и 3 135 869 - D. Классификация отражает налоговую и таможенную дисциплину и уже доступна компаниям для проверки своих статусов и возможных проблем.\n\nПочему это важно: бразильским группам стоит заранее отслеживать свой рейтинг соблюдения требований, потому что он влияет на риск-профиль и взаимодействие с налоговой и таможней.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-divulga-nova-classificacao-trimestral-do-programa-receita-sintonia\n\n#Бразилия #комплаенс #таможня #налоговоеадминистрирование #рейтинг #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "комплаенс,таможня,налоговое администрирование,рейтинг",
+      "jurisdictions": "Бразилия",
+      "act": "Receita Federal divulga nova classificação trimestral do Programa Receita Sintonia, published 16.07.2026",
+      "sources": [
+        {
+          "label": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/receita-federal-divulga-nova-classificacao-trimestral-do-programa-receita-sintonia"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR Sintonia",
+        "color_a": [10, 88, 74],
+        "color_b": [191, 135, 55]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "Receita Sintonia release checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-br-oea-simplified-transit-guide",
+      "title": "Бразилия выпустила техгайд по заявкам на упрощённый транзит для OEA",
+      "caption": "Налоговая служба Бразилии 16 июля 2026 года выпустила техматериал по подаче заявок на упрощённый таможенный транзит для участников OEA по приказу Коана № 188/2026. Памятка объясняет, куда подавать заявку, как описывать маршруты и их последовательности, как готовить файлы KML и как подтверждать интеграцию с системой Аргос. Налоговая прямо указала, что такая интеграция нужна для получения и сохранения льгот по упрощённому транзиту.\n\nПочему это важно: перевозчикам и терминалам OEA в Бразилии нужно быстро проверить свои процессы и интеграции, иначе упрощённый транзит может не заработать на практике.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/noticias/2026/receita-federal-disponibiliza-orientacoes-sobre-pedidos-de-transito-aduaneiro-simplificado-oea\n\n#Бразилия #таможня #OEA #транзит #цифровизация #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,OEA,транзит,цифровая интеграция",
+      "jurisdictions": "Бразилия",
+      "act": "Orientações sobre pedidos de Trânsito Aduaneiro Simplificado OEA, Portaria Coana nº 188/2026, published 16.07.2026",
+      "sources": [
+        {
+          "label": "Receita Federal / OEA",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/noticias/2026/receita-federal-disponibiliza-orientacoes-sobre-pedidos-de-transito-aduaneiro-simplificado-oea"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR OEA Transit",
+        "color_a": [17, 74, 108],
+        "color_b": [153, 118, 60]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "OEA simplified transit guidance checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-br-oea-c-essential-operator-profile",
+      "title": "Налоговая служба Бразилии уточнила заполнение профиля для режима OEA-C Эссенсьял",
+      "caption": "Налоговая служба Бразилии 16 июля 2026 года опубликовала техматериал по профилю оператора для заявителей и сертифицированных участников режима OEA-C Эссенсьял. До подачи заявки полностью подтверждаются общие сведения, допуск к режиму, история соблюдения требований и финансовая устойчивость. После сертификации оператор обязан в течение 180 дней дополнить профиль доказательствами по учёту, информационной безопасности, кадровой безопасности, коммуникации с налоговой службой и управлению таможенными рисками.\n\nПочему это важно: бразильским импортёрам и экспортёрам в OEA-C теперь нужно планировать не только вход в режим, но и обязательный постсертификационный блок доказательств.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/noticias/2026/material-tecnico-orienta-solicitantes-e-certificados-da-modalidade-oea-c-essencial\n\n#Бразилия #таможня #OEA #комплаенс #риски #документы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,OEA,комплаенс,управление рисками",
+      "jurisdictions": "Бразилия",
+      "act": "Material técnico orienta solicitantes e certificados da modalidade OEA-C Essencial, published 16.07.2026",
+      "sources": [
+        {
+          "label": "Receita Federal / OEA",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/importacao-e-exportacao/oea/noticias/2026/material-tecnico-orienta-solicitantes-e-certificados-da-modalidade-oea-c-essencial"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR OEA-C",
+        "color_a": [22, 92, 82],
+        "color_b": [188, 122, 52]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "OEA-C essential guidance checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-br-siscomex-transit-contingency",
+      "title": "Сискомекс ввёл аварийный порядок для сбоев при завершении импортного транзита",
+      "caption": "Сискомекс 16 июля 2026 года ввёл временный аварийный порядок из-за сбоев в интерфейсе Ресинтос, модуле транзита и системе CCT, о которых сообщают с 12 июля. Сбой мешает подтвердить целостность транзитов в системах налоговой службы Бразилии, из-за чего задерживаются машины, нельзя разместить груз и зарегистрировать импортные декларации. Коана разрешила оформлять отдельные административные процессы, прикладывать аварийную форму, снимок ошибки и фото пломб, а после проверки - вскрывать пломбу, хранить груз и выпускать перевозчика.\n\nПочему это важно: импортёрам, складам и участникам OEA в Бразилии нужно немедленно перестроить документооборот, чтобы не остановить поток импортных грузов.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-075\n\n#Бразилия #таможня #импорт #транзит #Сискомекс #OEA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,импорт,транзит,цифровые сбои",
+      "jurisdictions": "Бразилия",
+      "act": "Importação nº 075/2026, published 16.07.2026, updated 17.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-075"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR Transit Contingency",
+        "color_a": [24, 70, 112],
+        "color_b": [172, 106, 54]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "customs_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "Siscomex Importação 075/2026 checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-br-siscomex-ibama-pop-roterdam",
+      "title": "Сискомекс добавит с 22 июля новые лицензии Ибамы для стойких загрязнителей и Роттердамской конвенции",
+      "caption": "Сискомекс 16 июля 2026 года дополнил NSI 072/2026 и сообщил, что с 22 июля для ряда импортных кодов NCM появится новое неавтоматическое лицензирование в LI-DI под контролем Ибамы. Добавлены, в частности, выделение 024 для стойких органических загрязнителей по Стокгольмской конвенции и выделение 025 для веществ и продуктов из приложения III Роттердамской конвенции. Сообщение опубликовано по запросу Ибамы и прямо меняет административный режим на импорте таких товаров.\n\nПочему это важно: импортёрам химической и отходной продукции в Бразилии надо заранее перепроверить коды NCM, лицензии и цепочку соблюдения требований до запуска новых правил 22 июля 2026 года.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-074\n\n#Бразилия #таможня #импорт #экология #Ибама #лицензирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,импорт,лицензирование,экологический комплаенс",
+      "jurisdictions": "Бразилия",
+      "act": "Importação nº 074/2026, published 16.07.2026, updated 17.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-074"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR Ibama Import",
+        "color_a": [18, 92, 96],
+        "color_b": [180, 118, 53]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "customs_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "Siscomex Importação 074/2026 checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-uk-vaping-duty-approvals",
+      "title": "HMRC требует до 31 июля подготовить разрешения под новый сбор на вейпинг-продукцию",
+      "caption": "HMRC в выпуске 145 от 16 июля 2026 года напомнила, что бизнесу нужно до 31 июля подать или обновить разрешения для нового сбора на вейпинг-продукцию и схемы акцизных марок. Новый сбор стартует 1 октября 2026 года по ставке 2,20 фунта за каждые 10 мл и охватит все жидкости для вейпов, включая безникотиновые. Для выпуска на рынок с этой даты продукция должна иметь акцизную марку, а производство без разрешения может повлечь штраф до 10 000 фунтов или уголовное преследование.\n\nПочему это важно: производителям, складам и импортёрам такой продукции в Великобритании нужно уже сейчас сверить разрешения, режим складов и операционную модель под новый акцизный порядок.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #акцизы #вейпинг #таможня #комплаенс #HMRC #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "акцизы,vaping,таможня,комплаенс",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, Vaping Products Duty and Vaping Duty Stamps scheme, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Vaping Duty",
+        "color_a": [24, 70, 118],
+        "color_b": [166, 116, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "HMRC Agent Update 145 vaping section checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-uk-advance-tax-certainty-service",
+      "title": "HMRC запустила сервис налоговой определённости для инвестпроектов от £1 млрд",
+      "caption": "HMRC 16 июля 2026 года запустила сервис предварительной налоговой определённости для крупных инвестпроектов. Подать заявку смогут компании, которые планируют не менее 1 млрд фунтов квалифицируемых расходов в Великобритании за срок проекта. Сервис охватывает налог на прибыль компаний, НДС, гербовый сбор по земле, подоходный налог, удержания по заработной плате и строительную схему, а HMRC обещает выдавать обязательное разъяснение в течение 90 дней с силой на пять лет и возможностью продления.\n\nПочему это важно: для международных инвесторов в Великобритании появляется инструмент снять ключевую налоговую неопределённость ещё до окончательного решения по сделке или капитальным вложениям.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #инвестиции #налоговаяопределенность #НДС #HMRC #налогнаприбыль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "инвестиции,налоговая определенность,VAT,corporate tax",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, HMRC launches Advance Tax Certainty Service for major investment projects, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Tax Certainty",
+        "color_a": [16, 76, 112],
+        "color_b": [122, 152, 77]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "HMRC Advance Tax Certainty section checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-ru-usn-unified-notice-form",
+      "title": "ФНС России перевела уведомления по УСН на единый шестисекционный бланк",
+      "caption": "ФНС России сообщила 13 июля 2026 года, что с 1 июля действует единая форма уведомления по УСН по приказу от 30.04.2026 № ЕД-1-3/285@. Новый бланк КНД 1154004 заменяет сразу пять прежних форм и покрывает шесть сценариев: переход на УСН, смену объекта, добровольный отказ, прекращение деятельности, переход на НПД и утрату права на УСН. ФНС отдельно подчёркивает, что единый документ должен снизить число ошибок и упростить взаимодействие с инспекцией.\n\nПочему это важно: российским налогоплательщикам и консультантам нужно обновить шаблоны, внутренние процессы и клиентские инструкции по всем уведомлениям в рамках УСН.\n\nИсточник: https://www.nalog.gov.ru/rn12/news/activities_fts/16636919/\n\n#Россия #УСН #налоговыеформы #комплаенс #отчетность #ФНС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "УСН,налоговые формы,комплаенс,отчетность",
+      "jurisdictions": "Россия",
+      "act": "Приказ ФНС России от 30.04.2026 № ЕД-1-3/285@; единая форма уведомления по УСН, опубликовано 13.07.2026",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn12/news/activities_fts/16636919/"
+        }
+      ],
+      "image_spec": {
+        "badge": "RU USN Form",
+        "color_a": [18, 82, 128],
+        "color_b": [170, 112, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "FNS unified USN notice form page checked 2026-07-20"
+      }
+    },
+    {
+      "slug": "2026-07-20-uk-corporation-tax-late-filing-delay",
+      "title": "HMRC временно отложила автоматические уведомления по повышенным штрафам за просрочку отчётности по налогу на прибыль компаний",
+      "caption": "HMRC в выпуске 145 от 16 июля 2026 года сообщила, что после повышения штрафов за позднюю подачу отчётности по налогу на прибыль компаний с 1 апреля 2026 года ей пришлось обновлять собственную систему. Эти доработки должны завершиться только к концу июля, поэтому автоматические уведомления о штрафах временно поставлены на паузу. При этом ведомство отдельно подчёркивает: штраф всё равно начисляется, а задержка письма не означает освобождение от санкции.\n\nПочему это важно: компаниям и консультантам в Великобритании нельзя ориентироваться на отсутствие уведомления как на признак отсутствия риска; просрочки нужно закрывать до массового выпуска писем в конце июля.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #налогнаприбыль #штрафы #отчетность #HMRC #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прибыль,штрафы,отчетность,комплаенс",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, Corporation Tax late filing penalties: reminder on temporary delay to notices, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK CT Penalties",
+        "color_a": [21, 69, 111],
+        "color_b": [176, 116, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 repair cycle",
+        "evidence": "HMRC late filing penalties section checked 2026-07-20"
+      }
+    }
+  ]
+}

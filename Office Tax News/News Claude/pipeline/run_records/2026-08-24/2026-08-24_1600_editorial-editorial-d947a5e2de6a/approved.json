@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-24",
+  "release": "2026-08-24_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-08-24-eu-omnibus-dividend-tax-criticism",
+      "title": "Новая критика европейского плана «Омнибус»: налог на дивиденды у источника под угрозой отмены",
+      "caption": "Европейский план по упрощению налогообложения (проект «Омнибус») столкнулся с резкой критикой экспертов. Аналитики предупреждают, что предложенные меры по унификации удержания налогов у источника на дивиденды могут привести к фактическому размыванию налоговой базы отдельных стран ЕС и прекращению взимания налога.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/nieuwe-kritiek-op-europees-omnibusplan-dividendbelasting-dreigt-te-verdwijnen/\n\n#ЕС #НалогНаДивиденды #Омнибус #НалогУИсточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налог у источника",
+      "jurisdictions": "ЕС",
+      "act": "Европейский проект по упрощению налогообложения (Омнибус)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/nieuwe-kritiek-op-europees-omnibusplan-dividendbelasting-dreigt-te-verdwijnen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.9,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-nl-vat-deduction-decree-amended",
+      "title": "Нидерланды: Скорректирован указ о вычете НДС для ассоциаций собственников жилья",
+      "caption": "Министерство финансов Нидерландов внесло изменения в указ о вычете НДС. Поправки устанавливают новые технические условия для ассоциаций собственников жилья (VVE) и регулируют применение новых правил перерасчета НДС при инвестиционных услугах, введенных с 1 января 2026 года.\n\nИсточник: https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/\n\n#Нидерланды #НДС #ВычетНДС #АссоциацияСобственников #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Минфина Нидерландов о вычете НДС (Besluit Omzetbelasting)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-nl-eu-omnibus-tax-impact-report",
+      "title": "Нидерланды: Оценены последствия европейского проекта «Омнибус» для налоговой системы страны",
+      "caption": "Финансовые ведомства Нидерландов представили отчет об оценке влияния нового европейского проекта «Омнибус» на доходы национального бюджета. Отмечается, что унификация правил может привести к значительному перераспределению прав на налогообложение корпоративной прибыли в рамках ЕС.\n\nИсточник: https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/\n\n#Нидерланды #ЕС #Омнибус #КорпоративныйНалог #НалоговаяРеформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / корпоративный налог",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Отчет об оценке влияния проекта Омнибус Европейской Комиссии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-nl-mother-daughter-no-fiscal-partnership",
+      "title": "Нидерланды: Суд отказал в признании матери и взрослой дочери фискальными партнерами",
+      "caption": "Налоговый суд Нидерландов вынес решение, подтверждающее жесткие критерии фискального партнерства. Суд установил, что 25-летняя дочь и её мать, проживающие совместно, не могут считаться налоговыми партнерами, в связи с чем дочь не имеет права уменьшать свой доход на сумму расходов на диетическое питание матери.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/dochter-van-25-en-moeder-zijn-geen-fiscale-partners-geen-aftrek-dieetkosten-moeder-for-dochter/\n\n#Нидерланды #ФискальноеПартнерство #НалогНаДоходы #СудебнаяПрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги физических лиц / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Налогового суда Нидерландов по делу о фискальном партнерстве",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/dochter-van-25-en-moeder-zijn-geen-fiscale-partners-geen-aftrek-dieetkosten-moeder-for-dochter/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-nl-no-refund-non-alcoholic-tax-proven-export",
+      "title": "Нидерланды: Суд отказал в возврате налога на безалкогольные напитки из-за отсутствия доказательств экспорта",
+      "caption": "Суд отклонил жалобу оптового продавца о возврате потребительского налога на безалкогольные напитки. Апеллянт не смог доказать факт уплаты налога на территории Нидерландов, а также фактическую транспортировку и поставку товара в другое государство-член ЕС.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-teruggaaf-verbruiksbelasting-alcoholvrije-dranken-wegens-niet-betaling-en-onbewezen-overbrenging/\n\n#Нидерланды #ПотребительскийНалог #Экспорт #СудебнаяПрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда по делу о возврате потребительского налога на напитки",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-teruggaaf-verbruiksbelasting-alcoholvrije-dranken-wegens-niet-betaling-en-onbewezen-overbrenging/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-nl-amsterdam-tourist-tax-record-increase",
+      "title": "Нидерланды: Амстердам повысит туристический налог до рекордного уровня в целях борьбы с массовым туризмом",
+      "caption": "Муниципальные власти Амстердама объявили о планах по очередному повышению туристического налога. Ставки налога вырастут до рекордных в ЕС значений с целью снижения антропогенной нагрузки на городскую инфраструктуру и привлечения средств в местный бюджет.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/amsterdam-verhoogt-toeristenbelasting-naar-recordhoogte-om-massatoerisme-tegen-te-gaan/\n\n#Нидерланды #Амстердам #ТуристическийНалог #МестныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "местные налоги",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Муниципального совета Амстердама о ставках туристического налога",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/amsterdam-verhoogt-toeristenbelasting-naar-recordhoogte-om-massatoerisme-tegen-te-gaan/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-cn-tax-policy-prevent-capital-outflow",
+      "title": "Китай планирует скорректировать налоговую политику для предотвращения оттока капитала",
+      "caption": "Правительство Китая разрабатывает пакет поправок к налоговому законодательству, направленных на удержание капитала в стране. Реформы предусматривают введение дополнительных стимулов для реинвестирования прибыли иностранными инвесторами и усиление контроля за трансграничными платежами.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/chinees-belastingbeleid-moet-kapitaaluitstroom-tegengaan/\n\n#Китай #ОттокКапитала #Инвестиции #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / корпоративный налог",
+      "jurisdictions": "Китай",
+      "act": "Проект налоговых реформ Государственного совета КНР по борьбе с оттоком капитала",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/chinees-belastingbeleid-moet-kapitaaluitstroom-tegengaan/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-ar-stricter-treaty-benefits-rules",
+      "title": "Аргентина ужесточила правила подтверждения права на льготы по налоговым соглашениям",
+      "caption": "Федеральное управление государственных доходов Аргентины ввело новые строгие требования к документации для применения пониженных ставок налогов у источника. От иностранных получателей доходов теперь требуются детальные подтверждения налогового резидентства и специальные декларации.\n\nИсточник: https://regfollower.com/argentina-stricter-treaty-benefits-rules/\n\n#Аргентина #НалоговыеСоглашения #Льготы #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения / налоговый контроль",
+      "jurisdictions": "Аргентина",
+      "act": "Резолюция Федерального управления государственных доходов Аргентины",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/argentina-stricter-treaty-benefits-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-cy-pillar-two-amendments-consultation",
+      "title": "Кипр проводит консультации по изменению законодательства о Pillar Two",
+      "caption": "Министерство финансов Кипра объявило о начале публичных консультаций по законопроекту, вносящему изменения в правила применения глобального минимального налога Pillar Two. Поправки направлены на более точную интеграцию последних руководств OECD и замечаний Еврокомиссии.\n\nИсточник: https://regfollower.com/cyprus-pillar-two-amendments-consultation/\n\n#Кипр #МинимальныйНалог #PillarTwo #OECD #Законопроект #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "Кипр",
+      "act": "Законопроект Министерства финансов Кипра о внесении изменений в Закон о минимальном налоге",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/cyprus-pillar-two-amendments-consultation/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-24"
+    },
+    {
+      "slug": "2026-08-24-ae-pillar-two-registration-deadlines",
+      "title": "ОАЭ определили сроки регистрации компаний для целей минимального налога",
+      "caption": "Федеральное налоговое ведомство ОАЭ выпустило Решение № 12 от 2026 года, устанавливающее жесткие сроки для регистрации, снятия с учета и отправки уведомлений о статусе для международных групп компаний, подпадающих под правила внутреннего минимального налога.\n\nИсточник: https://regfollower.com/uae-pillar-two-registration-deadlines/\n\n#ОАЭ #МинимальныйНалог #PillarTwo #НалоговыйКонтроль #СрокиРегистрации #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "ОАЭ",
+      "act": "Решение Федерального налогового ведомства ОАЭ № 12 от 2026 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-pillar-two-registration-deadlines/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-24"
+    }
+  ]
+}

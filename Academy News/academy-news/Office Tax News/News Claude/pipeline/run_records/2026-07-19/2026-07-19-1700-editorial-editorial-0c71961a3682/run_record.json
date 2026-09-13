@@ -1,0 +1,64 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-07-19-1700-editorial-editorial-0c71961a3682",
+  "release": "2026-07-19-1700-editorial",
+  "date": "2026-07-19",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-07-19T14:34:43.281522+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "0c71961a36829a055805b20c40e65128add0fa3d720de3f622dc9d4b57a87429",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 10,
+    "missing_post_ids": []
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 27104,
+      "sha256": "0c71961a36829a055805b20c40e65128add0fa3d720de3f622dc9d4b57a87429"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-19_shortlist.json",
+      "bytes": 41,
+      "sha256": "de73d698fb55a366f1c3e91e291649562f39716884ee0f2daeefa5d2b0fcd1c4",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-19_digest.md",
+      "bytes": 291,
+      "sha256": "26db305db3a758a2c2465bbfd803112fcd72a20058dafedab6c2bb4ffe2c91ea",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 2963,
+      "sha256": "fdc11076430242c7aa9e41726b53bc604a3f7cb20a6fda75fd168e60fd84ccbd",
+      "records": 10
+    }
+  }
+}

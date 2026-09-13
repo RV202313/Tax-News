@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-30",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 225,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/vpb-aangifte-bv-levert-nieuw-feit-op-voor-navordering-dga/",
+      "ecli": "",
+      "act": "",
+      "title": "Vpb-aangifte bv levert nieuw feit op voor navordering dga",
+      "summary": "Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur pas via de aangifte vennootschapsbelasting van de bv over de gegevens beschikt die tot navordering leiden. Omdat de inspecteur het dossier van de bv niet hoeft te raadplegen, beschikt hij over een nieuw feit en mag hij over 2018 tot en met 2020 navorderen.",
+      "published_at": "2026-07-30",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 226,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/veh-vraagt-oplossing-voor-dubbele-btw-op-laadpalen-bij-vves/",
+      "ecli": "",
+      "act": "",
+      "title": "VEH vraagt oplossing voor dubbele btw op laadpalen bij VvE’s",
+      "summary": "Vereniging Eigen Huis (VEH) roept staatssecretaris Eerenberg op om een einde te maken aan de onbedoelde dubbele btw-heffing bij het opladen van elektrische auto's via laadpalen van verenigingen van eigenaars (VvE's).",
+      "published_at": "2026-07-30",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 227,
+      "source": "nl_belastingdienst_rulings",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260728-atr-000003",
+      "ecli": "",
+      "act": "",
+      "title": "Advance tax ruling 20260728 ATR 000003",
+      "summary": "",
+      "published_at": "2026-07-28",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

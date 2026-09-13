@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Academy BEPS approved release",
+  "type": "object",
+  "required": ["date", "release", "items"],
+  "properties": {
+    "date": {"type": "string", "format": "date"},
+    "release": {"type": "string", "minLength": 1},
+    "items": {
+      "type": "array",
+      "minItems": 10,
+      "maxItems": 10,
+      "items": {
+        "type": "object",
+        "required": [
+          "slug", "title", "caption", "theme", "jurisdictions", "act",
+          "sources", "channels"
+        ],
+        "properties": {
+          "slug": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]{2,120}$"},
+          "title": {"type": "string", "minLength": 1},
+          "caption": {"type": "string", "minLength": 1, "maxLength": 1024},
+          "theme": {"type": "string"},
+          "jurisdictions": {"type": "string"},
+          "act": {"type": "string"},
+          "sources": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["label", "url"],
+              "properties": {
+                "label": {"type": "string", "minLength": 1},
+                "url": {"type": "string", "format": "uri"}
+              }
+            }
+          },
+          "image_path": {"type": "string"},
+          "image_credit": {"type": "string"},
+          "image_rights": {"type": "string"},
+          "image_spec": {
+            "type": "object",
+            "properties": {
+              "badge": {"type": "string"},
+              "color_a": {"$ref": "#/$defs/rgb"},
+              "color_b": {"$ref": "#/$defs/rgb"}
+            }
+          },
+          "channels": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {"enum": ["telegram_channel", "vk", "linkedin", "site", "email"]}
+          },
+          "scheduled_at": {"type": "string", "format": "date-time"},
+          "publish_mode": {"enum": ["draft", "schedule", "now"]},
+          "item_type": {"type": "string"},
+          "court": {"type": "boolean"},
+          "lead": {"type": "boolean"},
+          "primary_source_verified": {"type": "boolean"},
+          "approval": {
+            "type": "object",
+            "required": ["status", "by", "evidence"],
+            "properties": {
+              "status": {"const": "approved"},
+              "by": {"type": "string", "minLength": 1},
+              "evidence": {"type": "string", "minLength": 1}
+            }
+          }
+        },
+        "oneOf": [
+          {"required": ["image_path", "image_credit", "image_rights"]},
+          {"required": ["image_spec"]}
+        ]
+      }
+    }
+  },
+  "$defs": {
+    "rgb": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {"type": "integer", "minimum": 0, "maximum": 255}
+    }
+  }
+}

@@ -1,0 +1,193 @@
+# Источники для поиска новостей ИИ в юридической работе
+# config/sources_ai.yaml
+
+sources:
+
+  # ========================
+  # МИРОВЫЕ / LEGALTECH
+  # ========================
+  - id: artificial_lawyer
+    name: Artificial Lawyer
+    url: "https://www.artificiallawyer.com/"
+    rss: "https://www.artificiallawyer.com/feed/"
+    lang: en
+    region: global
+    priority: P0
+    topics: [legaltech, AI_tools, law_firms, case_studies]
+
+  - id: legal_technology
+    name: LegalTechnology.com
+    url: "https://legaltechnology.com/"
+    rss: "https://legaltechnology.com/feed/"
+    lang: en
+    region: global
+    priority: P0
+    topics: [AI_tools, law_firms, reports]
+
+  - id: rsgi
+    name: RSGI Research
+    url: "https://rsgi.co/"
+    lang: en
+    region: global
+    priority: P0
+    topics: [legaltech_research, benchmarks]
+
+  - id: gc_ai
+    name: GC AI
+    url: "https://gc.ai/blog/"
+    lang: en
+    region: usa
+    priority: P1
+    topics: [contract_review, AI_tools, inhouse]
+
+  - id: law_com
+    name: Law.com
+    url: "https://www.law.com/"
+    lang: en
+    region: usa
+    priority: P0
+    topics: [law_firms, legal_news, AI]
+
+  - id: global_legal_post
+    name: Global Legal Post
+    url: "https://www.globallegalpost.com/"
+    lang: en
+    region: global
+    priority: P1
+    topics: [law_firms, legaltech, europe]
+
+  # ========================
+  # США
+  # ========================
+  - id: aba_journal
+    name: American Bar Association Journal
+    url: "https://www.abajournal.com/"
+    rss: "https://www.abajournal.com/rss/"
+    lang: en
+    region: usa
+    priority: P0
+    topics: [AI_ethics, professional_responsibility, court_rules]
+
+  - id: legal_ai_compliance
+    name: Legal AI Compliance
+    url: "https://legalaicompliance.help/"
+    lang: en
+    region: usa
+    priority: P1
+    topics: [AI_ethics, state_bar_opinions]
+
+  - id: ai_hallucination_tracker
+    name: AI Hallucination Tracker (Charlotin)
+    url: "https://charlotin.net/"
+    lang: en
+    region: usa
+    priority: P0
+    topics: [AI_hallucinations, court_sanctions]
+
+  # ========================
+  # ЕВРОПА
+  # ========================
+  - id: legartis
+    name: Legartis AI Blog
+    url: "https://legartis.ai/blog/"
+    lang: de/en
+    region: europe_de
+    priority: P1
+    topics: [contract_review, AI_tools, Germany]
+
+  - id: noxtua
+    name: Noxtua
+    url: "https://noxtua.com/blog/"
+    lang: de/en
+    region: europe_de
+    priority: P1
+    topics: [sovereign_AI, GDPR, Germany]
+
+  - id: eu_ai_act_tracker
+    name: EU AI Act Official
+    url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689"
+    lang: en
+    region: europe_eu
+    priority: P0
+    topics: [EU_AI_Act, regulation, compliance]
+
+  - id: european_ai_office
+    name: European AI Office
+    url: "https://digital-strategy.ec.europa.eu/en/policies/ai-office"
+    lang: en
+    region: europe_eu
+    priority: P0
+    topics: [EU_AI_Act, enforcement, compliance]
+
+  # ========================
+  # РОССИЯ
+  # ========================
+  - id: habr_ai_law
+    name: Habr — ИИ и право
+    url: "https://habr.com/ru/hubs/artificial_intelligence/"
+    rss: "https://habr.com/ru/rss/hubs/artificial_intelligence/articles/"
+    lang: ru
+    region: russia
+    priority: P0
+    topics: [AI_cases, legaltech_russia, implementation]
+
+  - id: vc_ru_law
+    name: VC.ru — право и технологии
+    url: "https://vc.ru/legal"
+    rss: "https://vc.ru/rss/legal"
+    lang: ru
+    region: russia
+    priority: P1
+    topics: [AI_regulation, legaltech, business]
+
+  - id: pravo_ru
+    name: Pravo.ru
+    url: "https://pravo.ru/"
+    lang: ru
+    region: russia
+    priority: P0
+    topics: [court_AI, legal_regulation, Supreme_Court]
+
+  - id: garant_ai
+    name: Гарант — новости ИИ
+    url: "https://www.garant.ru/news/"
+    lang: ru
+    region: russia
+    priority: P1
+    topics: [AI_regulation, legislation]
+
+  - id: consultant_ai
+    name: КонсультантПлюс — новости
+    url: "http://www.consultant.ru/law/review/lawnews/"
+    lang: ru
+    region: russia
+    priority: P1
+    topics: [AI_regulation, legislation]
+
+  # ========================
+  # КАЗАХСТАН
+  # ========================
+  - id: gov_kz
+    name: Официальный сайт Правительства РК
+    url: "https://www.gov.kz/news"
+    lang: ru/kz
+    region: kazakhstan
+    priority: P0
+    topics: [AI_regulation, Digital_Code, legal_reform]
+
+  - id: zakon_kz
+    name: Zakon.kz
+    url: "https://www.zakon.kz/"
+    rss: "https://www.zakon.kz/rss/lenta.rss"
+    lang: ru
+    region: kazakhstan
+    priority: P0
+    topics: [AI_regulation, legal_news, Digital_Code]
+
+  - id: minjust_kz
+    name: Министерство юстиции РК
+    url: "https://www.adilet.gov.kz/ru/news"
+    lang: ru
+    region: kazakhstan
+    priority: P0
+    topics: [ZanKomegi, Digital_Justice, legal_AI]

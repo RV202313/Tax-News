@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "url": "https://www.nalog.gov.ru/example/crs-update",
+      "telegram_url": "https://t.me/example_tax/42",
+      "ecli": "",
+      "act": "",
+      "title": "ФНС обновила правила автоматического обмена налоговой информацией CRS",
+      "summary": "Telegram-канал сообщил об обновлении CRS; перед публикацией нужно открыть и проверить официальную ссылку ФНС.",
+      "published_at": "2026-07-18",
+      "item_type": "telegram_lead",
+      "lead": true,
+      "channel": "@example_tax",
+      "message_id": 42,
+      "views": 12000,
+      "reactions": 31,
+      "forwards": 7,
+      "engagement": 50.0,
+      "source_links": [
+        "https://www.nalog.gov.ru/example/crs-update"
+      ]
+    }
+  ]
+}

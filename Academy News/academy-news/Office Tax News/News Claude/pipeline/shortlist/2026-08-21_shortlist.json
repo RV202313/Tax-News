@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-21",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 340,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/maximumbedrag-kosten-naheffingsaanslag-parkeerbelasting-stijgt-naar-84-30-in-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Maximumbedrag kosten naheffingsaanslag parkeerbelasting stijgt naar € 84,30 in 2027",
+      "summary": "",
+      "published_at": "2026-08-21",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

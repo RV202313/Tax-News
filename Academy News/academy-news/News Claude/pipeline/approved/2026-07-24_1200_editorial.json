@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-24",
+  "release": "2026-07-24-1200-editorial",
+  "items": [
+    {
+      "slug": "2026-07-24-sg-rpt-reporting-compliance",
+      "title": "Сингапур включил отчетность по сделкам со связанными сторонами в фокус налогового контроля",
+      "caption": "Налоговая служба Сингапура (IRAS) обновила руководство по соблюдению налогового законодательства компаниями, добавив своевременное и точное представление формы отчетности о сделках со связанными сторонами (форма RPT) в число ключевых приоритетов контроля. Внимание инспекции будет сосредоточено на полноте раскрытия данных и обосновании рыночных цен.\n\nПочему это важно: Группам компаний в Сингапуре следует тщательно проверить правильность заполнения форм RPT и подготовить трансфертное обоснование сделок со связанными лицами перед подачей годовой отчетности.\n\nИсточник: https://regfollower.com/singapore-adds-related-party-transaction-reporting-to-corporate-tax-compliance-focus/\n\n#Сингапур #трансфертноеценообразование #RPT #налоговыйконтроль #связанныестороны #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование, корпоративный налог, комплаенс, связанные стороны",
+      "jurisdictions": "Сингапур",
+      "act": "Руководство IRAS по налоговому комплаенсу",
+      "sources": [
+        {
+          "label": "IRAS Compliance Update",
+          "url": "https://regfollower.com/singapore-adds-related-party-transaction-reporting-to-corporate-tax-compliance-focus/"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG Tax",
+        "color_a": [30, 61, 114],
+        "color_b": [190, 120, 61]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "IRAS compliance focus guidelines verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-us-usmca-overhaul-postponed",
+      "title": "США перенесли полное пересмотрение торгового соглашения USMCA на 2027 год",
+      "caption": "Торговый представитель США Джеймисон Грир заявил, что администрация Дональда Трампа отказалась от планов по полному пересмотру торгового соглашения USMCA (США, Мексика, Канада) в текущем году. До конца 2026 года стороны планируют согласовать лишь промежуточные технические договоренности, отложив глубокую реформу на 2027 год.\n\nПочему это важно: Бизнес, ориентированный на цепочки поставок в Северной Америке, получил дополнительную передышку перед изменением правил происхождения товаров и пошлин.\n\nИсточник: https://regfollower.com/us-targets-interim-usmca-deals-with-mexico-canada-by-year-end-as-full-overhaul-slips-to-2027/\n\n#США #Мексика #Канада #USMCA #пошлины #торговаяполитика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "пошлины, торговые соглашения, торговая политика",
+      "jurisdictions": "США, Канада, Мексика",
+      "act": "Заявление Торгового представителя США",
+      "sources": [
+        {
+          "label": "USTR statement",
+          "url": "https://regfollower.com/us-targets-interim-usmca-deals-with-mexico-canada-by-year-end-as-full-overhaul-slips-to-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "US Trade",
+        "color_a": [142, 68, 173],
+        "color_b": [230, 126, 34]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "USTR Senate Finance Committee testimony verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-us-canada-tariff-clash",
+      "title": "Администрация Трампа вводит 50% импортные пошлины против Канады",
+      "caption": "Президент США Дональд Трамп объявил о введении 50% пошлин на импорт товаров из Канады общим объемом около 20 млрд долларов. Для этого решения был применен закон вековой давности — раздел 338 Закона о тарифах 1930 года, который не использовался США почти столетие. Мера позиционируется как ответ на торговую политику канадских властей.\n\nПочему это важно: Резкое обострение торговых отношений между США и Канадой приведет к росту затрат для американских импортеров и потребует перестройки цепочек поставок сырья и промышленных товаров.\n\nИсточник: https://regfollower.com/us-trump-administration-invokes-century-old-law-to-hit-canada-with-50-tariffs/\n\n#США #Канада #пошлины #импортныетарифы #торговаявойна #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "пошлины, импортные тарифы, торговая политика",
+      "jurisdictions": "США, Канада",
+      "act": "Закон о тарифах 1930 года (раздел 338)",
+      "sources": [
+        {
+          "label": "White House Announcement",
+          "url": "https://regfollower.com/us-trump-administration-invokes-century-old-law-to-hit-canada-with-50-tariffs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "US Tariff",
+        "color_a": [142, 68, 173],
+        "color_b": [192, 57, 43]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "White House statement on Section 338 verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-cn-digital-invoice-rollout",
+      "title": "Китай расширяет переход на полностью цифровые счета-фактуры",
+      "caption": "Государственное налоговое управление КНР (STA) масштабирует проект цифровизации налогового контроля, поэтапно выводя из обращения бумажные бланки и заменяя их полностью электронными счетами-фактурами. Данная мера направлена на сокращение расходов бизнеса, повышение прозрачности и автоматизацию камерального аудита.\n\nПочему это важно: Компаниям, работающим в Китае или ведущим трансграничную торговлю с китайскими поставщиками, необходимо интегрировать свои учетные системы с государственной цифровой платформой налоговой службы КНР.\n\nИсточник: https://regfollower.com/china-rolls-out-digital-invoice-implementation-with-regional-phase-outs-of-paper-invoices/\n\n#Китай #цифровизация #электронныедокументы #налоговыйконтроль #отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровизация, налоговое администрирование, отчетность",
+      "jurisdictions": "Китай",
+      "act": "Программа цифровизации ГНУ КНР",
+      "sources": [
+        {
+          "label": "STA Digitalization page",
+          "url": "https://regfollower.com/china-rolls-out-digital-invoice-implementation-with-regional-phase-outs-of-paper-invoices/"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Digital",
+        "color_a": [168, 32, 32],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "STA digital invoice regional plans verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-vn-electronic-invoice-regulations",
+      "title": "Вьетнам утвердил новые правила применения электронных счетов-фактур",
+      "caption": "Правительство Вьетнама выпустило Декрет № 254/2026/ND-CP, устанавливающий детальный регламент использования электронных счетов-фактур и цифровых записей в рамках Закона о налоговом администрировании. Новые правила вступят в силу с 1 июля 2027 года и станут обязательными для всех категорий налогоплательщиков.\n\nПочему это важно: Иностранным инвесторам и локальным предприятиям во Вьетнаме необходимо перестроить IT-системы бухгалтерского учета и подготовить персонал к переходу на новые форматы передачи данных.\n\nИсточник: https://regfollower.com/vietnam-issues-new-regulations-on-electronic-invoices/\n\n#Вьетнам #электронныйдокументооборот #налоговыйучет #отчетность #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "электронный документооборот, налоговый учет, отчетность",
+      "jurisdictions": "Вьетнам",
+      "act": "Декрет № 254/2026/ND-CP",
+      "sources": [
+        {
+          "label": "Vietnam Gov Decree",
+          "url": "https://regfollower.com/vietnam-issues-new-regulations-on-electronic-invoices/"
+        }
+      ],
+      "image_spec": {
+        "badge": "VN Invoice",
+        "color_a": [39, 174, 96],
+        "color_b": [241, 196, 15]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Vietnam Official Gazette publication checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-do-waste-management-tax",
+      "title": "Доминиканская Республика скорректировала экологические взносы для компаний",
+      "caption": "В Доминиканской Республике принят Закон № 36-26, вносящий изменения в правила экологических взносов за утилизацию твердых бытовых отходов. Документ пересматривает сетку тарифов и вводит дифференцированные ставки сборов для юридических лиц в зависимости от объема генерируемых отходов и характера производства.\n\nПочему это важно: Локальным компаниям и международным холдингам, работающим в стране, необходимо скорректировать свои экологические бюджетные планы и налоговые резервы с учетом новых повышенных ставок.\n\nИсточник: https://regfollower.com/dominican-republic-revises-corporate-environmental-contributions-for-waste-management-rules/\n\n#ДоминиканскаяРеспублика #экологическиеналоги #корпоративныесборы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экологические налоги, корпоративные сборы, регулирование",
+      "jurisdictions": "Доминиканская Республика",
+      "act": "Закон № 36-26",
+      "sources": [
+        {
+          "label": "DR Official Gazette",
+          "url": "https://regfollower.com/dominican-republic-revises-corporate-environmental-contributions-for-waste-management-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "DO Tax",
+        "color_a": [22, 160, 133],
+        "color_b": [230, 126, 34]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "DR Law 36-26 checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-uk-finance-bill-consultation",
+      "title": "Великобритания проводит консультации по мерам законопроекта о финансах 2026 года",
+      "caption": "Налоговое ведомство Великобритании (HMRC) опубликовало для публичных консультаций проекты поправок к Законопроекту о финансах 2026 года. Меры касаются изменений в сфере косвенного налогообложения, включая сборы с безалкогольных напитков, авиационный налог (APD) и процедуры администрирования акцизов.\n\nПочему это важно: Налоговым консультантам и импортерам в Великобритании рекомендуется изучить предложенные инициативы для направления отзывов и своевременной перестройки бизнес-моделей под грядущие изменения.\n\nИсточник: https://regfollower.com/uk-hmrc-consults-draft-2026-finance-bill-tax-measures/\n\n#Великобритания #HMRC #косвенныеналоги #налоговаяреформа #акцизы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги, налоговая реформа, акцизы",
+      "jurisdictions": "Великобритания",
+      "act": "Законопроект о финансах 2026",
+      "sources": [
+        {
+          "label": "HMRC Draft Legislation",
+          "url": "https://regfollower.com/uk-hmrc-consults-draft-2026-finance-bill-tax-measures/"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Budget",
+        "color_a": [41, 128, 185],
+        "color_b": [142, 68, 173]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HMRC consultation documents verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-hu-base-interest-rate-cut",
+      "title": "Центральный банк Венгрии снизил базовую процентную ставку до 5,75%",
+      "caption": "Венгерское национальное налоговое и таможенное управление сообщило об официальном решении Центрального банка Венгрии снизить ключевую процентную ставку с 6.00% до 5.75% годовых, начиная с 22 июля 2026 года. Ранее ставка удерживалась на уровне 6.00%.\n\nПочему это важно: Снижение ставки влияет на расчет штрафных пеней и процентов по отложенным налоговым обязательствам в Венгрии, что необходимо учесть корпоративным казначеям при планировании расчетов с бюджетом.\n\nИсточник: https://regfollower.com/hungary-central-bank-lowers-base-interest-rate-2/\n\n#Венгрия #процентныеставки #финансовоеструктурирование #макроэкономика #казначейство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "процентные ставки, финансовое регулирование, макроэкономика",
+      "jurisdictions": "Венгрия",
+      "act": "Решение Центрального банка Венгрии",
+      "sources": [
+        {
+          "label": "Hungary Central Bank notice",
+          "url": "https://regfollower.com/hungary-central-bank-lowers-base-interest-rate-2/"
+        }
+      ],
+      "image_spec": {
+        "badge": "HU Rate",
+        "color_a": [44, 62, 80],
+        "color_b": [46, 204, 113]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "National Tax Authority publication verified"
+      }
+    },
+    {
+      "slug": "2026-07-24-ru-pit-deduction-young-professionals",
+      "title": "В Госдуму внесен проект о новом налоговом вычете по НДФЛ для молодых специалистов",
+      "caption": "В Государственную Думу РФ направлен законопроект, предлагающий ввести новый социальный налоговый вычет по налогу на доходы физических лиц (НДФЛ) для молодых специалистов, работающих по ключевым направлениям в приоритетных отраслях экономики. Мера направлена на удержание молодых кадров.\n\nПочему это важно: Для работодателей это может стать дополнительным нематериальным стимулом для привлечения выпускников вузов, а для молодых специалистов — возможностью снизить фактическую налоговую нагрузку на старте карьеры.\n\nИсточник: https://regfollower.com/russia-proposes-new-pit-deduction-for-young-professionals-in-key-sectors/\n\n#Россия #НДФЛ #налоговыевычеты #молодыеспециалисты #социальнаяподдержка #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДФЛ, налоговые вычеты, социальная поддержка",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Государственной Думы РФ",
+      "sources": [
+        {
+          "label": "State Duma Draft Law",
+          "url": "https://regfollower.com/russia-proposes-new-pit-deduction-for-young-professionals-in-key-sectors/"
+        }
+      ],
+      "image_spec": {
+        "badge": "RU PIT",
+        "color_a": [44, 62, 80],
+        "color_b": [52, 152, 219]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Duma legislative database entry checked"
+      }
+    },
+    {
+      "slug": "2026-07-24-ru-fns-ombudsman-agreement",
+      "title": "Московское УФНС и бизнес-омбудсмен подписали соглашение о взаимодействии",
+      "caption": "Управление ФНС России по г. Москве и Уполномоченный по защите прав предпринимателей в городе Москве заключили официальное Соглашение о сотрудничестве. Стороны договорились о совместной работе по предупреждению нарушений, защите законных прав бизнеса и оперативному разбору спорных ситуаций при налоговом администрировании.\n\nПочему это важно: Московские компании получили дополнительный канал защиты прав через институт омбудсмена при досудебном урегулировании сложных налоговых споров с инспекциями города.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16638494/\n\n#Россия #ФНС #бизнесомбудсмен #защитаправ #налоговыеспоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование, защита бизнеса, государственные органы",
+      "jurisdictions": "Россия",
+      "act": "Соглашение о взаимодействии",
+      "sources": [
+        {
+          "label": "FNS Press Announcement",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16638494/"
+        }
+      ],
+      "image_spec": {
+        "badge": "RU Business",
+        "color_a": [44, 62, 80],
+        "color_b": [230, 126, 34]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "FNS Moscow official statement checked"
+      }
+    }
+  ]
+}

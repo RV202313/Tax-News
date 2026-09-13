@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-04",
+  "release": "2026-08-04-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-08-04-ru-tourism-tax",
+      "title": "Минфин РФ разъяснил порядок уплаты нового туристического налога",
+      "caption": "Минфин подтвердил, что вводимый с 2025 года туристический налог уплачивается на отдельный КБК и не может перечисляться в рамках единого налогового платежа (ЕНП).\n\nИсточник: https://www.garant.ru/news/2188886/\n\n#Минфин #Россия #ТуристическийНалог #ЕНП #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2188886/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-dividends-insurance",
+      "title": "Дивиденды могут исключить из базы расчета льгот по страховым взносам",
+      "caption": "В Госдуму внесен законопроект, предлагающий исключить пассивные доходы в виде дивидендов при расчете права малого бизнеса на пониженные тарифы страховых взносов.\n\nИсточник: https://www.garant.ru/news/2185543/\n\n#Госдума #Россия #СтраховыеВзносы #дивиденды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Госдумы",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2185543/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-tax-monitoring-oez",
+      "title": "Налоговый мониторинг планируют сделать обязательным для резидентов ОЭЗ",
+      "caption": "Подготовлены поправки в Налоговый кодекс РФ, обязывающие всех резидентов особых экономических зон перейти на систему налогового мониторинга.\n\nИсточник: https://www.garant.ru/news/2185544/\n\n#Минфин #Россия #ОЭЗ #НалоговыйМониторинг #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2185544/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-at-ch-dta-protocol",
+      "title": "Австрия и Швейцария подписали протокол изменений к налоговому соглашению",
+      "caption": "Подписан протокол, изменяющий СОДН 1974 года для внедрения минимальных стандартов BEPS по предотвращению налоговых злоупотреблений.\n\nИсточник: https://regfollower.com/austria-switzerland-sign-amending-protocol-to-1974-tax-treaty/\n\n#Австрия #Швейцария #СОДН #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Австрия / Швейцария",
+      "act": "Протокол изменений к СОДН",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/austria-switzerland-sign-amending-protocol-to-1974-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-nl-bdo-liability",
+      "title": "Суд в Нидерландах признал BDO ответственной за ошибку в налоговой схеме",
+      "caption": "Апелляционный суд признал BDO ответственной за убытки клиентов, возникшие из-за некорректно разработанной структуры с использованием иностранных холдингов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/bdo-nederland-aansprakelijk-voor-mislukte-internationale-belastingconstructie-supermarktzussen/\n\n#Нидерланды #BDO #суд #холдинги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/bdo-nederland-aansprakelijk-voor-mislukte-internationale-belastingconstructie-supermarktzussen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-nl-barbados-company",
+      "title": "Налоговая служба Нидерландов классифицировала компании из Барбадоса",
+      "caption": "Опубликована официальная позиция налогового ведомства о приравнивании барбадосских компаний с ограниченной ответственностью к голландскому закрытому акционерному обществу (BV).\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/\n\n#Нидерланды #Барбадос #классификация #BV #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "классификация rechtsvormen",
+      "jurisdictions": "Нидерланды / Барбадос",
+      "act": "Разъяснения налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-au-pillar2-guidance",
+      "title": "Австралия уточнила правила применения минимального налога Pillar 2",
+      "caption": "Выпущено руководство, разъясняющее порядок учета отложенных налоговых активов и взаимодействия правил GloBE с налогообложением контролируемых иностранных компаний (CFC).\n\nИсточник: https://regfollower.com/australia-updates-globe-minimum-tax-provisions-on-cfc-interaction-deferred-tax-assets-flow-through-entities/\n\n#Австралия #минимальныйналог #Pillar2 #GloBE #CFC #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "Австралия",
+      "act": "Анонс Налоговой службы Австралии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/australia-updates-globe-minimum-tax-provisions-on-cfc-interaction-deferred-tax-assets-flow-through-entities/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-sa-crs-agreement",
+      "title": "Саудовская Аравия присоединилась к соглашению об автоматическом обмене CRS",
+      "caption": "Королевство подписало дополнение к Многостороннему соглашению об автоматическом обмене финансовой информацией (CRS MCAA) для расширения состава обмениваемых сведений.\n\nИсточник: https://regfollower.com/saudi-arabia-joins-jurisdictions-adopting-addendum-to-crs-mcaa/\n\n#СаудовскаяАравия #CRS #MCAA #автообмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "обмен информацией",
+      "jurisdictions": "Саудовская Аравия",
+      "act": "Подписание соглашения",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/saudi-arabia-joins-jurisdictions-adopting-addendum-to-crs-mcaa/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-vn-bi-tax-treaty",
+      "title": "Вьетнам и Бурунди ускорят подготовку соглашения об избежании двойного налогообложения",
+      "caption": "Стороны договорились ускорить согласование проекта СОДН для стимулирования взаимной торговли и инвестиций.\n\nИсточник: https://regfollower.com/vietnam-burundi-advance-income-tax-treaty-negotiations/\n\n#Вьетнам #Бурунди #СОДН #переговоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Вьетнам / Бурунди",
+      "act": "Межправительственные переговоры",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/vietnam-burundi-advance-income-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-az-employee-meals",
+      "title": "Азербайджан разъяснил правила налогообложения расходов на питание работников",
+      "caption": "Налоговые органы Азербайджана установили лимит в размере 5 манат в день на человека, в пределах которого расходы компании на питание сотрудников освобождаются от налогообложения.\n\nИсточник: https://regfollower.com/azerbaijan-clarifies-tax-treatment-of-employee-meal-expenses-azn-5-daily-threshold/\n\n#Азербайджан #питание #льготы #расходы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "льготы по налогам",
+      "jurisdictions": "Азербайджан",
+      "act": "Разъяснения Налоговой службы Азербайджана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/azerbaijan-clarifies-tax-treatment-of-employee-meal-expenses-azn-5-daily-threshold/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

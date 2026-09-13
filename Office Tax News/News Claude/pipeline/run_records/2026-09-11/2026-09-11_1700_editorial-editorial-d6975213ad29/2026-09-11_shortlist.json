@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-11",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 450,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/finland-updates-list-of-participating-jurisdictions-for-automatic-financial-account-information-exchange/",
+      "ecli": "",
+      "act": "",
+      "title": "Finland updates list of participating jurisdictions for automatic financial account information exchange",
+      "summary": "Finland’s tax administration published an updated list of participating jurisdictions for the automatic exchange of financial account information under DAC2, the CRS MCAA, and bilateral automatic exchange agreements on 9 September 2026. The list of 121 participating jurisdictions are: Netherlands, Andorra, Anguilla, Antigua and Barbuda, United Arab Emirates, Argentina, Aruba, Australia, Azerbaijan, Bahamas, Bahrain, Barbados,...",
+      "published_at": "2026-09-11",
+      "score": 12.0,
+      "topics": [
+        "exchange_info"
+      ],
+      "jurisdictions": [
+        "nl",
+        "ae",
+        "az"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды",
+        "ОАЭ",
+        "Азербайджан"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 451,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/fiscus-publiceert-uitlegvideo-over-herstel-box-3/",
+      "ecli": "",
+      "act": "",
+      "title": "Fiscus publiceert uitlegvideo over herstel box 3",
+      "summary": "",
+      "published_at": "2026-09-11",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 452,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/namibia-nipdb-investment-guide-highlights-corporate-tax-measures-transfer-pricing-updated-tax-framework/",
+      "ecli": "",
+      "act": "",
+      "title": "Namibia: NIPDB investment guide highlights corporate tax measures, transfer pricing, updated tax framework",
+      "summary": "The Namibia Investment Promotion and Development Board (NIPDB) released the Namibia Investment Guide: Tax Laws in Namibia, Volume 5, on 4 September 2026, detailing the tax laws, compliance framework, and financial regulations governing investors and entities in Namibia. It details the obligations for various taxpayers, including corporations, individuals, and non-residents, while clarifying the role of...",
+      "published_at": "2026-09-11",
+      "score": 11.0,
+      "topics": [
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

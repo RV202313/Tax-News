@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-17",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 306,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/uitdrukkelijk-standpunt-inspecteur-wekt-vertrouwen-woonplaats/",
+      "ecli": "",
+      "act": "",
+      "title": "Uitdrukkelijk standpunt inspecteur wekt vertrouwen woonplaats",
+      "summary": "De Hoge Raad oordeelt dat een beroep op het vertrouwensbeginsel objectief moet worden beoordeeld, niet subjectief. De inspecteur heeft bij de man het gerechtvaardigd vertrouwen gewekt dat hij in het begin van 2016 geen fiscaal inwoner van Nederland was.",
+      "published_at": "2026-08-17",
+      "score": 10.6,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 307,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/franse-premier-houdt-crisisoverleg-over-hack-bij-belastingdienst/",
+      "ecli": "",
+      "act": "",
+      "title": "Franse premier houdt crisisoverleg over hack bij belastingdienst",
+      "summary": "",
+      "published_at": "2026-08-17",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 308,
+      "source": "nl_belastingdienst_rulings",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221206-apa-000015",
+      "ecli": "",
+      "act": "",
+      "title": "Advance pricing agreement 20221602 APA 000015",
+      "summary": "",
+      "published_at": "",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

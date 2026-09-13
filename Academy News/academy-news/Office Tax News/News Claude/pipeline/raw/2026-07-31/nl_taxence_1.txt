@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 31 Jul 2026 07:15:54 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vergeten behandelvoornemen is fout die navordering toestaat</title>
+		<link>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/</link>
+					<comments>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166235</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat het niet stoppen van het geautomatiseerde proces bij het opleggen van de primitieve aanslag een fout in de ruime en neutrale zin van art. 16, lid 2, letter c AWR is. Omdat de te weinig geheven belasting meer dan 30% bedraagt, is de fout kenbaar en mag de inspecteur navorderen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat het niet stoppen van het geautomatiseerde proces bij het opleggen van de primitieve aanslag een fout in de ruime en neutrale zin van art. 16, lid 2, letter c AWR is. Omdat de te weinig geheven belasting meer dan 30% bedraagt, is de fout kenbaar en mag de inspecteur navorderen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is tot 2016 enig aandeelhouder van een holding-bv, die op haar beurt alle aandelen houdt in een dochtervennootschap. In 2016 vervreemdt hij de aandelen in de holding voor € 604.000, waarbij de koper de koopprijs schuldig blijft. De man krijgt uitstel voor het doen van zijn aangifte IB/PVV 2016. Via zijn gemachtigde vraagt hij de inspecteur in augustus 2018 om een standpuntbepaling over de vervreemding en stelt hij een vervreemdingsvoordeel van € 501.000 voor. De inspecteur gaat daar in september 2018 mee akkoord. Toch dient de man nooit een aangifte in. In januari 2019 legt de inspecteur ambtshalve een primitieve aanslag over 2016 op zonder het voordeel uit aanmerkelijk belang, doordat de aanslagregelend ambtenaar geen behandelvoornemen in het systeem heeft opgenomen. In juni 2020 legt de inspecteur een navorderingsaanslag op. In geschil is of hij dat mag op grond van een kenbare fout.</p>
+
+
+
+<h2 class="wp-block-heading">Hof merkt fout aan als beoordelingsfout</h2>
+
+
+
+<p class="wp-block-paragraph">Hof Den Haag oordeelt dat de inspecteur bij het opleggen van de primitieve aanslag een fout heeft gemaakt in de ruime en neutrale zin van het woord. Volgens het hof gaat het echter om een verwijtbaar onjuist inzicht in de feiten die bepalend zijn voor de belastingplicht. De aanslagregelend ambtenaar heeft nagelaten kennis te nemen van de bij de Belastingdienst aanwezige informatie over de vervreemding van de aandelen en heeft daardoor niet onderkend dat die zich had voorgedaan. Bij een zorgvuldige dossiervorming en -raadpleging was dat niet gebeurd. Dat weinig tijd is ingeruimd voor ambtshalve aanslagen komt volgens het hof voor rekening van de Belastingdienst. Er is dus sprake van een beoordelingsfout die aan navordering op grond van art. 16, lid 2, letter c AWR in de weg staat. Wel acht het hof de man te kwader trouw, zodat navordering op grond van art. 16, lid 1 AWR mogelijk is.</p>
+
+
+
+<h2 class="wp-block-heading">Nalaten is fout, geen onjuist inzicht</h2>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat het begrip fout in art. 16, lid 2, letter c AWR neutraal en ruim is bedoeld. Daaronder valt elke misslag bij de aanslagregeling, zoals schrijf-, reken- en intoetsfouten, maar ook fouten door de geautomatiseerde verwerking van aangiften, als de belastingschuld daardoor te laag wordt vastgesteld. Dat de ambtenaar heeft nagelaten een behandelvoornemen op te nemen, is zo&#8217;n fout en geen verwijtbaar onjuist inzicht in de feiten. Bepalend is het moment waarop het geautomatiseerde proces niet is gestopt. Dat bij de aanslag geen kennis is genomen van de akkoordverklaring over de vervreemdingswinst, doet er dan niet toe. De primitieve aanslag is dus te laag vastgesteld door een fout die navordering rechtvaardigt. Het incidentele beroep van de staatssecretaris slaagt en het principale beroep van de man is ongegrond, zodat de navorderingsaanslag in stand blijft.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: art. 16, lid 1 en art. 16, lid 2, aanhef en letter c AWR <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar#c-NDFR-BWBR0002320-16_commentary-text" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1296" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1296" target="_blank" rel="noreferrer noopener">Hoge Raad 17 juli 2026, ECLI:NL:HR:2026:1296, 23/03413</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/Correctie.1.jpg" length="50898" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Spaans FCR</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:55:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166237</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Spaans Fondo de Capital Riesgo vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Spaans Fondo de Capital Riesgo vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Spaans FCR is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 niet vergelijkbaar met een Nederlandse rechtsvorm als bedoeld in artikel 1, tweede lid, onderdeel b, onder 1<sup>e</sup> tot en met 9<sup>e</sup>, Besluit vergelijking buitenlandse rechtsvormen. De vraag of een Spaans FCR vergelijkbaar is met een fonds voor gemene rekening als bedoeld in artikel 2, vierde lid, Wet Vpb of een transparant fonds als bedoeld in artikel 2.14bis, zevende lid, van de Wet IB is afhankelijk van de relevante feiten en omstandigheden van het geval. De beoordeling hiervan is voorbehouden aan de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-spaans-fcr/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-spaans-fcr/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Spanje-straat.jpg" length="80636" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie bouwterrein</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:55:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166246</guid>
+
+					<description><![CDATA[De Kennisgroep omzetbelasting heeft de vraag beantwoord of het voor de kwalificatie als bouwterrein noodzakelijk is dat het omgevingsplan bebouwing toestaat.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep omzetbelasting heeft de vraag beantwoord of het voor de kwalificatie als bouwterrein noodzakelijk is dat het omgevingsplan bebouwing toestaat.</strong></p>
+
+
+
+<p class="wp-block-paragraph">X is eigenaar van landbouwgrond die deel uitmaakt van zijn onderneming. In jaar 1 neemt de gemeente de percelen op in een omgevingsvisie, waarin de toekomstige ontwikkeling van het gebied wordt geschetst. De gronden behouden echter jarenlang hun agrarische bestemming.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 10 verkoopt X de percelen aan een projectontwikkelaar, die woningbouw wil realiseren. Hoewel de bestemming op dat moment nog agrarisch is, staat de gemeente positief tegenover de plannen, mits aan bepaalde voorwaarden wordt voldaan.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 11 dient de projectontwikkelaar een formeel ontwikkelverzoek in. De gemeente bevestigt schriftelijk haar positieve houding ten opzichte van woningbouw op deze locatie.</p>
+
+
+
+<p class="wp-block-paragraph">De levering van de grond vindt plaats in april van jaar 12; dit is ook het btw-relevante leveringsmoment. Pas in jaar 15 wijzigt de gemeente het omgevingsplan, waardoor woningbouw daadwerkelijk mogelijk wordt.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 17 wordt een projectwebsite geopend waar geïnteresseerden zich kunnen inschrijven. Op dat moment zijn er nog geen woningen in verkoop, zijn nog geen omgevingsvergunningen aangevraagd en is de daadwerkelijke bouw nog niet gestart.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is voor de kwalificatie als bouwterrein noodzakelijk dat het omgevingsplan op het moment dat de grond wordt geleverd reeds bebouwing toestaat?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, voor de kwalificatie als bouwterrein is niet noodzakelijk dat het omgevingsplan reeds op het moment van levering bebouwing toestaat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-bouwterrein/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-bouwterrein/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens het congres gaan ervaren btw‑specialisten in op actuele thema’s, zoals recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma biedt verdieping voor de btw‑specialist die zijn kennis wil bijhouden én actualiseren, en tegelijkertijd handvatten voor de generalist die zijn btw‑kennis verder wil versterken. </p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29" href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style class="advgb-styles-renderer">.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Landbouw-nieuw.jpg" length="49564" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Curaçaose naamloze vennootschap</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:39:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166239</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Curaçaose naamloze vennootschap vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Curaçaose naamloze vennootschap vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Curaçaose nv is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse nv of Nederlandse bv.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-curacaose-naamloze-vennootschap/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-curacaose-naamloze-vennootschap/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/Curacao3.jpg" length="73696" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt Schots co-invest fonds en carried interest fonds</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:01:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166243</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord of voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 een co-invest fonds en een carried interest fonds kunnen worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord of voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 een co-invest fonds en een carried interest fonds kunnen worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht. </strong></p>
+
+
+
+<p class="wp-block-paragraph">De beoordeling vindt plaats in verband met de belastingheffing ten aanzien van een tweetal Schotse Private Fund Limited Partnerships. Deze partnerships treden op als co-invest fonds en carried interest fonds binnen een groepsstructuur rond een groter investeringsfonds.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Kunnen een co-invest fonds en een carried interest fonds, beide onderdeel uitmakend van een groepsstructuur rond een groter investeringsfonds, op basis van artikel 2, vierde lid, Wet Vpb 1969worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht, en dus als fonds voor gemene rekening, mits ook aan de overige voorwaarden is voldaan?</li>
+
+
+
+<li>In het onderhavige geval gaat het om naar Schots recht georganiseerde en in Schotland gevestigde Private Fund Limited Partnerships (PFLP). Schotland maakt, als onderdeel van het Verenigd Koninkrijk, geen onderdeel meer uit van de EU. In het Fondsenbesluit 2025 is nog geen aandacht besteed aan buiten de EU gevestigde fondsen. Daarom luidt nu de vraag: kan een Schots fonds worden aangemerkt als beleggingsfonds als bedoeld in artikel 1:1 Wft?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja. Een co-invest fonds en een carried interest fonds, onderdeel uitmakend van een groepsstructuur rond een groter investeringsfonds, kunnen voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 worden aangemerkt als een beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wft. Als ook aan de overige voorwaarden wordt voldaan, kunnen deze fondsen dus worden aangemerkt als FGR.</li>
+
+
+
+<li>Ja. Schotland heeft de abi-richtlijn (Richtlijn 2011/61/EU) in de wetgeving geïmplementeerd toen het Verenigd Koninkrijk nog lid was van de Europese Unie. De Financial Conduct Authority (FCA) heeft aldaar de toezichthoudende rol die de Autoriteit Financiële Markten in Nederland. De situatie in Schotland is daardoor vergelijkbaar met de situatie in Nederland. Het is daardoor aannemelijk dat een in Schotland gevestigd fonds, met een fundmanager die beschikt over een door de FCA afgegeven beheerdersvergunning, kan worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wft.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-schots-co-invest-fonds-en-carried-interest-fonds-optredend-binnen-grotere-investeringsgroepsstructuur-zijn-aan-te-merken-als-beleggingsfondsen-als-bedoeld/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-schots-co-invest-fonds-en-carried-interest-fonds-optredend-binnen-grotere-investeringsgroepsstructuur-zijn-aan-te-merken-als-beleggingsfondsen-als-bedoeld/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/07/glasgow.jpg" length="99542" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Barbados Limited Company</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166241</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Barbados Limited Company vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Barbados Limited Company vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Barbados Limited Company is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse  nv of Nederlandse bv.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-barbados-limited-company/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-barbados-limited-company/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Barbados.jpg" length="50306" type="image/jpeg" />	</item>
+		<item>
+		<title>Vpb-aangifte bv levert nieuw feit op voor navordering dga</title>
+		<link>https://www.taxence.nl/nieuws/vpb-aangifte-bv-levert-nieuw-feit-op-voor-navordering-dga/</link>
+					<comments>https://www.taxence.nl/nieuws/vpb-aangifte-bv-levert-nieuw-feit-op-voor-navordering-dga/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2026 05:05:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166181</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur pas via de aangifte vennootschapsbelasting van de bv over de gegevens beschikt die tot navordering leiden. Omdat de inspecteur het dossier van de bv niet hoeft te raadplegen, beschikt hij over een nieuw feit en mag hij over 2018 tot en met 2020 navorderen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat de inspecteur pas via de aangifte vennootschapsbelasting van de bv over de gegevens beschikt die tot navordering leiden. Omdat de inspecteur het dossier van de bv niet hoeft te raadplegen, beschikt hij over een nieuw feit en mag hij over 2018 tot en met 2020 navorderen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De man houdt sinds 2 december 2003 alle aandelen in een bv en is daarvan ook bestuurder. In het verleden verzekerde hij bij de bv een lijfrenteaanspraak; de uitkeringen daaruit zijn ingegaan op 21 april 2016 en bedragen € 11.182 per jaar. Daarnaast heeft hij een pensioentoezegging van de bv op 22 december 2017 omgezet in een oudedagsverplichting (ODV), met een uitkering van € 40.095 bij aanvang. De man heeft een rekening-courantschuld aan de bv; ultimo 2019 bedraagt de vordering van de bv op hem € 547.354. In zijn aangifte over 2018 neemt hij een ODV-uitkering van € 17.650 op, in 2019 en 2020 geeft hij geen lijfrente- of ODV-uitkering aan. De inspecteur legt over 2018, 2019 en 2020 navorderingsaanslagen IB/PVV op. In geschil is of de inspecteur beschikt over een nieuw feit.</p>
+
+
+
+<h2 class="wp-block-heading">Nieuw feit door vpb-aangifte van de bv</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat de inspecteur bij het opleggen van een aanslag mag uitgaan van de juistheid van de aangifte. Hij is pas tot nader onderzoek gehouden als hij bij normale zorgvuldigheid in redelijkheid aan een gegeven moet twijfelen. Bovendien hoeft hij het dossier van een andere belastingplichtige of van een andere belasting niet te raadplegen, tenzij de eigen gegevens daartoe aanleiding geven. Volgens de rechtbank beschikt de inspecteur pas via de aangifte vennootschapsbelasting van de bv over 2020 over de gegevens die tot de navordering leiden: gegevens uit de jaarrekening over de verrekening van de uitkeringen en over de ODV- en lijfrenteaanspraak. De inspecteur hoeft niet aan de aangiften IB/PVV te twijfelen en beschikt voor elk jaar over een nieuw feit. Aan de vraag of sprake is van een kenbare fout komt de rechtbank niet toe.</p>
+
+
+
+<h2 class="wp-block-heading">Beroep op vertrouwensbeginsel faalt</h2>
+
+
+
+<p class="wp-block-paragraph">Als de inspecteur bevoegd is tot navordering, staat niet ter discussie dat hij de aanslagen volgens de wettelijke regels oplegt. De man beroept zich dan op het vertrouwensbeginsel en verwijst naar het Besluit van de Staatssecretaris van 18 maart 2013, omdat volgens hem sprake is van niet voor verwezenlijking vatbare rechten. De rechtbank overweegt dat de man niet duidelijk maakt op welk onderdeel van het Besluit hij zich beroept. Het Besluit ziet bovendien alleen op de vermindering van pensioenaanspraken op de ingangsdatum, kent allerlei voorwaarden en wordt alleen op voorafgaand verzoek toegepast. De rechtbank ziet dan ook geen gewekt vertrouwen. De beroepen zijn ongegrond: de navorderingsaanslagen, de belastingrente en de revisierente over 2020 blijven in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-30i?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 30i – Algemene wet inzake rijksbelastingen | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_6362" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_6362" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant 13 juli 2026 (gepubliceerd 24 juli 2026), ECLI:NL:RBZWB:2026:6362, BRE 25/1993, 25/1994 en 25/1995</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vpb-aangifte-bv-levert-nieuw-feit-op-voor-navordering-dga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/02/Administratie-controle.jpg" length="35227" type="image/jpeg" />	</item>
+		<item>
+		<title>VEH vraagt oplossing voor dubbele btw op laadpalen bij VvE&#8217;s</title>
+		<link>https://www.taxence.nl/nieuws/veh-vraagt-oplossing-voor-dubbele-btw-op-laadpalen-bij-vves/</link>
+					<comments>https://www.taxence.nl/nieuws/veh-vraagt-oplossing-voor-dubbele-btw-op-laadpalen-bij-vves/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2026 04:35:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166183</guid>
+
+					<description><![CDATA[Vereniging Eigen Huis (VEH) roept staatssecretaris Eerenberg op om een einde te maken aan de onbedoelde dubbele btw-heffing bij het opladen van elektrische auto's via laadpalen van verenigingen van eigenaars (VvE's). ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Vereniging Eigen Huis (VEH) roept staatssecretaris Eerenberg op om een einde te maken aan de onbedoelde dubbele btw-heffing bij het opladen van elektrische auto&#8217;s via laadpalen van verenigingen van eigenaars (VvE&#8217;s). </strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens de belangenorganisatie betalen appartementseigenaren hierdoor aanzienlijk meer voor het opladen van hun auto dan bewoners van een grondgebonden woning met een eigen laadpaal.</p>
+
+
+
+<p class="wp-block-paragraph">De problematiek speelt doordat een VvE met een gezamenlijke elektriciteitsaansluiting door de energieleverancier als eindverbruiker wordt aangemerkt. Over de ingekochte stroom betaalt de VvE 21% btw. Vervolgens verkoopt een laadpaalexploitant (charge point operator) de elektriciteit aan de gebruiker van de laadpaal en brengt daar opnieuw 21% btw over in rekening. Hierdoor ontstaat volgens VEH een onbedoelde btw-cumulatie. Uit een rekenvoorbeeld blijkt dat een gebruiker hierdoor circa € 190 per jaar extra betaalt bij een gemiddeld stroomverbruik van 2.500 kWh.</p>
+
+
+
+<h2 class="wp-block-heading">Uitgebreide administratie</h2>
+
+
+
+<p class="wp-block-paragraph">Hoewel er manieren zijn om deze dubbele heffing te voorkomen, vindt VEH deze in de praktijk weinig aantrekkelijk. Een VvE kan de stroom zelf administreren en zonder btw doorbelasten aan bewoners, maar dat vergt een uitgebreide administratie. Een andere mogelijkheid is registratie als btw-ondernemer, waardoor de VvE de betaalde btw kan terugvragen. Daar staan echter extra administratieve verplichtingen tegenover, zoals het voeren van een btw-administratie en het doen van periodieke aangiften. Volgens VEH beschikken veel VvE-besturen niet over de benodigde capaciteit of fiscale kennis en leidt uitbesteding tot extra kosten. Ook voor de Belastingdienst betekent deze route meer uitvoerings- en handhavingslasten.</p>
+
+
+
+<h2 class="wp-block-heading">Drempel</h2>
+
+
+
+<p class="wp-block-paragraph">Volgens VEH vormt de huidige fiscale behandeling een drempel voor de aanleg van laadinfrastructuur bij appartementencomplexen. Dat staat haaks op het overheidsbeleid om elektrisch rijden en de verduurzaming van VvE&#8217;s te stimuleren. De organisatie pleit daarom voor een specifieke uitzondering of coulanceregeling, bijvoorbeeld via een beleidsgoedkeuring of een btw-teruggaveregeling voor de doorlevering van elektriciteit binnen VvE&#8217;s. Daarnaast vraagt VEH de Belastingdienst om duidelijkere informatie over de fiscale behandeling van laadpalen en de doorlevering van elektriciteit binnen VvE&#8217;s, zodat besturen en bewoners beter inzicht krijgen in hun fiscale positie.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.eigenhuis.nl/nieuws/laden-bij-vve-twee-keer-btw" data-type="link" data-id="https://www.eigenhuis.nl/nieuws/laden-bij-vve-twee-keer-btw" target="_blank" rel="noreferrer noopener">VEH, 29 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/veh-vraagt-oplossing-voor-dubbele-btw-op-laadpalen-bij-vves/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/01/Laadpaal-auto.jpg" length="35994" type="image/jpeg" />	</item>
+		<item>
+		<title>Adviseur schendt waarschuwingsplicht bij schijnconstructie</title>
+		<link>https://www.taxence.nl/nieuws/adviseur-schendt-waarschuwingsplicht-bij-schijnconstructie/</link>
+					<comments>https://www.taxence.nl/nieuws/adviseur-schendt-waarschuwingsplicht-bij-schijnconstructie/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Adviseur]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166166</guid>
+
+					<description><![CDATA[Rechtbank Oost-Brabant oordeelt dat een fiscaal adviseur die welbewust een internationale schijnconstructie opzet en uitvoert zonder ondubbelzinnig te waarschuwen voor de ernstige risico's, tekortschiet in zijn zorgplicht. De adviseur is daarom aansprakelijk voor de schade die drie zussen lijden nu de Spaanse fiscus de gebruikte Beckham-regeling weigert.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Oost-Brabant oordeelt dat een fiscaal adviseur die welbewust een internationale schijnconstructie opzet en uitvoert zonder ondubbelzinnig te waarschuwen voor de ernstige risico&#8217;s, tekortschiet in zijn zorgplicht. De adviseur is daarom aansprakelijk voor de schade die drie zussen lijden nu de Spaanse fiscus de gebruikte Beckham-regeling weigert.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Drie zussen ontvangen in 2014 samen ongeveer 45 miljoen euro uit de verkoop van de familieonderneming, een supermarktformule. Om dividendbelasting over de winstreserves te voorkomen, kloppen zij aan bij een adviseur, die vervolgens BDO inschakelt. BDO adviseert een internationale constructie met een Nederlandse, Luxemburgse en Spaanse component: de vennootschappen verhuizen naar Luxemburg en de zussen emigreren naar Spanje, waar zij gebruikmaken van de Beckham-regeling. Die expatregeling belast alleen Spaans inkomen, mits de emigratie voortvloeit uit een echte Spaanse dienstbetrekking. De zussen zijn echter nooit van plan om in Spanje te werken. Als de Spaanse fiscus de regeling weigert, volgen aanslagen, boetes en zelfs strafvervolging. De zussen stellen BDO aansprakelijk. In geschil is of BDO is tekortgeschoten door deze constructie te adviseren, op te zetten en uit te voeren.</p>
+
+
+
+<h2 class="wp-block-heading">Schijnconstructie zonder echte arbeid</h2>
+
+
+
+<p class="wp-block-paragraph">Rechtbank Oost-Brabant stelt vast dat BDO de regie voert over de constructie: zij organiseert de arbeidsovereenkomsten van de zussen, regelt de geldstromen naar de Spaanse vennootschap om de salarissen te financieren en houdt de voortgang in de gaten. Over de feitelijke invulling van het werk gaat het echter nergens. De rechtbank leidt uit de communicatie af dat BDO wist dat de zussen niet echt zouden gaan werken. Zo laat BDO het marktonderzoek naar een supermarktformule niet door de zussen maar door de spaanse BDO-organisatie uitvoeren, terwijl het logo van BDO Spanje later van het rapport blijkt te zijn verwijderd. Ook ondertekenen de zussen een verklaring met onjuistheden over salarisonderhandelingen en functies. Volgens de rechtbank is de opzet alleen bedoeld om op papier aan de Beckham-voorwaarden te voldoen.</p>
+
+
+
+<h2 class="wp-block-heading">Exoneratie en vervalbeding stranden</h2>
+
+
+
+<p class="wp-block-paragraph">Wie een schijnconstructie opzet en begeleidt terwijl er geen echte arbeidsrelatie bestaat, handelt niet zoals een redelijk bekwaam en redelijk handelend fiscaal adviseur betaamt, aldus de rechtbank. BDO had ondubbelzinnig moeten waarschuwen voor het simulatieverbod en de fiscale en strafrechtelijke risico&#8217;s, en is toerekenbaar tekortgeschoten. Voor fouten van BDO Spanje als hulppersoon is BDO Nederland op grond van art. 6:76 BW aansprakelijk. Het beroep op het vervalbeding en op het exoneratiebeding strandt: gelet op de ernst van de verwijten is dat naar maatstaven van redelijkheid en billijkheid onaanvaardbaar. Wel neemt de rechtbank enige eigen schuld van de zussen aan, omdat zij wisten dat zij alleen op papier aan de voorwaarden voldeden. De rechtbank verwijst de zaak naar de schadestaatprocedure en wijst beide vrijwaringsvorderingen van BDO af.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: art. 6:76 BW <a href="https://www.ndfr.nl/content/BWBR0005289-20260716#BWBR0005289-20260716_2906314" target="_blank" rel="noreferrer noopener">Burgerlijk Wetboek Boek 6 | NDFR</a> en art. 6:101 BW <a href="https://www.ndfr.nl/content/BWBR0005289-20260716#BWBR0005289-20260716_2906614" target="_blank" rel="noreferrer noopener">Burgerlijk Wetboek Boek 6 | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBOBR_2026_5234#ECLI_NL_RBOBR_2026_5234_inhoudsindicatie" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_RBOBR_2026_5234#ECLI_NL_RBOBR_2026_5234_inhoudsindicatie" target="_blank" rel="noreferrer noopener">Rechtbank Oost-Brabant 1 juli 2026 (gepubliceerd 24 juli 2026), ECLI:NL:RBOBR:2026:5234, 396562 / HA ZA 23-578 e.a. | NLF 2026/1503</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/adviseur-schendt-waarschuwingsplicht-bij-schijnconstructie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/11/Spanje-villa.jpg" length="38500" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt samenloopvrijstelling bij beherend vennoot CV</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-samenloopvrijstelling-bij-beherend-vennoot-cv/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-samenloopvrijstelling-bij-beherend-vennoot-cv/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2026 04:38:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166172</guid>
+
+					<description><![CDATA[De Kennisgroep overdrachtsbelasting beantwoordt de vraag of de samenloopvrijstelling geldt bij de verkrijging van aandelen in een beherend vennoot van een CV met de (economische) eigendom van een bouwterrein.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep overdrachtsbelasting beantwoordt de vraag of de samenloopvrijstelling geldt bij de verkrijging van aandelen in een beherend vennoot van een CV met de (economische) eigendom van een bouwterrein.</strong></p>
+
+
+
+<p class="wp-block-paragraph">HoldCo B BV treedt op als beherend vennoot van C CV. HoldCo B BV heeft de eigendom van een onroerende zaak die kwalificeert als bouwterrein (artikel 11, zesde lid, van de Wet op de omzetbelasting 1968) en 0,01% van het belang in C CV. Het economische belang bij de onroerende zaak is ingebracht in C CV, die de onroerende zaak aanwendt in het kader van projectontwikkeling.</p>
+
+
+
+<p class="wp-block-paragraph">Vaststaat dat C CV in verband met de projectontwikkeling kwalificeert als btw-ondernemer. HoldCo B BV is een onroerendezaakrechtspersoon als bedoeld in artikel 4, eerste lid, onderdeel a, WBR. De aandelen in HoldCo B BV kwalificeren als fictieve onroerende zaken waardoor bij verkrijging van die aandelen onder omstandigheden sprake is van een belastbaar feit voor de overdrachtsbelasting. HoldCo B BV kwalificeert niet als btw-ondernemer omdat de exploitatie plaatsvindt in C CV.</p>
+
+
+
+<p class="wp-block-paragraph">NewCo A BV verkrijgt 50% van de aandelen in HoldCo B BV en daarmee indirect een belang van 0,005% in C CV.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de samenloopvrijstelling van toepassing op de verkrijging door NewCo A BV van de aandelen in HoldCo B BV (fictieve onroerende zaken) vanwege de zogenoemde doorkijkbenadering, die volgt uit het arrest van de Hoge Raad van 10 juni 2011,&nbsp;<a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2011:BQ7580&amp;showbutton=true&amp;keyword=ECLI%253aNL%253a2011%253aBQ7580&amp;idx=1" target="_blank" rel="noreferrer noopener">ECLI:NL:2011:BQ7580</a>?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. De samenloopvrijstelling is niet van toepassing op de verkrijging van de aandelen in HoldCo B BV. De doorkijkbenadering geldt niet, omdat HoldCo B BV niet kwalificeert als btw-ondernemer. Daardoor is de samenloopvrijstelling niet van toepassing op de verkrijging van de aandelen in HoldCo B BV (fictieve onroerende zaken).</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-geen-toepassing-van-de-samenloopvrijstelling-bij-verkrijging-van-aandelen-in-een-beherend-vennoot-van-een-cv-die-de-economische-eigendom-houdt-van-een-bouwterrein/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-geen-toepassing-van-de-samenloopvrijstelling-bij-verkrijging-van-aandelen-in-een-beherend-vennoot-van-een-cv-die-de-economische-eigendom-houdt-van-een-bouwterrein/" target="_blank" rel="noreferrer noopener">Belastingdienst, 28 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-samenloopvrijstelling-bij-beherend-vennoot-cv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/08/Bouw-kantoor.jpg" length="62122" type="image/jpeg" />	</item>
+	</channel>
+</rss>

@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-21",
+  "release": "2026-08-21_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-21-uk-hmrc-foreign-pe-reform",
+      "title": "Великобритания реформирует налогообложение зарубежных постоянных представительств компаний",
+      "caption": "Налоговая служба Великобритании (HMRC) опубликовала проект реформы правил налогообложения зарубежных постоянных представительств (PE). Предлагается сделать освобождение прибыли и убытков PE от британского корпоративного налога обязательным с 2027 года, отменив действующую заявительную систему.\n\nИсточник: https://www.gov.uk/government/organisations/hm-revenue-customs\n\n#Великобритания #HMRC #ПостоянноеПредставительство #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / международное налогообложение",
+      "jurisdictions": "Великобритания",
+      "act": "Законопроект HMRC о реформе зарубежных PE",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/organisations/hm-revenue-customs"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HMRC draft consultation"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-poland-cit-pit-amendments-draft",
+      "title": "Польша подготовила пакет поправок в законы о корпоративном и подоходном налогах",
+      "caption": "Министерство финансов Польши опубликовало законопроект с поправками в законы CIT и PIT. Изменения вводят ограничения на корректировку норм амортизации после подачи декларации, уточняют правила вычета расходов при продаже акций после реструктуризации и правила «эстонского CIT».\n\nИсточник: https://www.gov.pl/web/finanse\n\n#Польша #КорпоративныйНалог #CIT #Реструктуризация #Законодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое законодательство / корпоративный налог",
+      "jurisdictions": "Польша",
+      "act": "Законопроект Министерства финансов Польши по поправкам CIT/PIT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.pl/web/finanse"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Poland Gov CIT draft"
+      },
+      "score": 10.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-us-irs-unitedhealth-transfer-pricing",
+      "title": "США: Налоговая служба оспаривает цены по внутригрупповым сделкам UNITEDHEALTH GROUP",
+      "caption": "Налоговая служба США (IRS) ведет крупный спор с корпорацией UNITEDHEALTH GROUP касательно цен в сделках с зарубежным подразделением за 2017-2020 годы. Ведомство требует существенно скорректировать налогооблагаемую базу в связи с нарушением правил трансфертного ценообразования.\nНе является налоговой консультацией.\n\nИсточник: https://www.irs.gov/\n\n#США #IRS #ТрансфертноеЦенообразование #UnitedHealth #СудебныйСпор #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование / судебные споры",
+      "jurisdictions": "США",
+      "act": "Налоговое уведомление IRS в отношении UnitedHealth Group",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.irs.gov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "IRS public updates"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-us-treasury-cfc-section-987-rules",
+      "title": "США: Минфин предложил новые правила учета курсовых разниц для контролируемых иностранных компаний",
+      "caption": "Министерство финансов США и IRS представили проект правил в рамках раздела 987. Документ направлен на упрощение расчетов и декларирования прибыли и убытков от курсовых разниц для контролируемых иностранных корпораций (CFC), ведущих деятельность в иностранной валюте.\n\nИсточник: https://www.irs.gov/\n\n#США #МинфинСША #CFC #КурсовыеРазницы #Отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "контролируемые иностранные компании / курсовые разницы",
+      "jurisdictions": "США",
+      "act": "Проект правил Министерства финансов США по разделу 987",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.irs.gov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Federal Register Treasury draft"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-eu-commission-vat-state-aid-clarification",
+      "title": "Еврокомиссия разъяснила условия признания налоговых льгот по НДС незаконной госпомощью",
+      "caption": "Европейская комиссия опубликовала аналитическое разъяснение по вопросам соблюдения правил конкуренции. Отклонения от общеевропейских стандартов НДС на уровне отдельных стран, предоставляющие избирательные преимущества бизнесу, могут признаваться незаконной государственной помощью (STATE AID).\n\nИсточник: https://ec.europa.eu/\n\n#Евросоюз #Еврокомиссия #НДС #Госпомощь #STATEAID #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги / правила конкуренции",
+      "jurisdictions": "Европейский Союз",
+      "act": "Разъяснение Европейской комиссии по правилам STATE AID в отношении НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "EC Competition guidelines"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-eu-commission-cbam-guidance-non-eu",
+      "title": "Еврокомиссия опубликовала руководства по углеродному налогу CBAM для внешних экспортеров",
+      "caption": "Европейская комиссия выпустила 10 руководящих документов для операторов из стран, не входящих в ЕС, с разъяснениями по практическому расчету выбросов и подаче отчетности в рамках механизма углеродной корректировки импорта (CBAM) при переходе к постоянному режиму.\n\nИсточник: https://ec.europa.eu/\n\n#Евросоюз #CBAM #ЭкологическийНалог #Экспорт #РегулированиеЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экологические налоги / международная торговля",
+      "jurisdictions": "Европейский Союз",
+      "act": "Руководящие документы Европейской комиссии по CBAM",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "EC Taxation and Customs Union Portal"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-uae-fta-corporate-tax-registration-deadlines",
+      "title": "ОАЭ утвердили точные сроки и санкции за задержку корпоративной налоговой регистрации",
+      "caption": "Федеральная налоговая служба ОАЭ (FTA) опубликовала решение № 12, устанавливающее окончательные сроки для прохождения регистрации плательщиками корпоративного налога, а также штрафы за несоблюдение требований по своевременной подаче заявок.\n\nИсточник: https://tax.gov.ae/\n\n#ОАЭ #FTA #КорпоративныйНалог #Регистрация #Дедлайны #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / корпоративный налог",
+      "jurisdictions": "ОАЭ",
+      "act": "Решение Федеральной налоговой службы ОАЭ № 12",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://tax.gov.ae/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "UAE FTA Portal decision publication"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-india-taxation-amendment-bill-funds",
+      "title": "Индия готовит налоговые послабления для офшорных инвестиционных фондов",
+      "caption": "Правительство Индии планирует рассмотреть законопроект об изменениях в налоговом законодательстве. Проект направлен на упрощение режима налогообложения доходов иностранных инвесторов и офшорных фондов, переносящих свою деятельность на территорию Индии.\n\nИсточник: https://www.incometax.gov.in/\n\n#Индия #ИнвестиционныеФонды #Законопроект #Офшоры #НалоговыеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные инвестиции / налоговое законодательство",
+      "jurisdictions": "Индия",
+      "act": "Законопроект Правительства Индии о внесении изменений в налоговое законодательство",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.incometax.gov.in/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "India Parliament schedule"
+      },
+      "score": 10.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-hungary-tax-amendments-eu-funds",
+      "title": "Венгрия рассматривает налоговый пакет поправок для доступа к финансированию ЕС",
+      "caption": "Правительство Венгрии направило в парламент пакет поправок к налоговому законодательству, необходимых для разблокировки средств из европейских фондов восстановления (RRF). Дедлайн для принятия изменений установлен на 31 августа 2026 года.\n\nИсточник: https://kormany.hu/\n\n#Венгрия #Евросоюз #RRF #НалоговаяРеформа #Бюджет #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая реформа / бюджетная политика",
+      "jurisdictions": "Венгрия",
+      "act": "Законопроект Правительства Венгрии о налоговых реформах",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kormany.hu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Hungary Gov announcement"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-21"
+    },
+    {
+      "slug": "2026-08-21-un-tax-convention-treaty-negotiations",
+      "title": "ООН: Продолжаются переговоры по созданию Рамочной налоговой конвенции",
+      "caption": "В штаб-квартире ООН продолжается обсуждение проекта первой в истории Глобальной налоговой конвенции. Стороны согласовывают вопросы соотношения конвенции с существующими двусторонними налоговыми соглашениями и соблюдения суверенитета стран.\n\nИсточник: https://www.un.org/\n\n#ООН #НалоговаяКонвенция #НалоговыйСуверенитет #BEPS #Реформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международная налоговая политика / соглашения",
+      "jurisdictions": "ООН / Глобальный",
+      "act": "Проект Рамочной конвенции ООН о международном налоговом сотрудничестве",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.un.org/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "UN Committee of Experts updates"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-21"
+    }
+  ]
+}

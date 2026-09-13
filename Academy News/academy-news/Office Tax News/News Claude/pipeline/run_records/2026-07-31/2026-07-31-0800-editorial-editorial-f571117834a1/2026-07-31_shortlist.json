@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-31",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 231,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/belastingrente-terecht-bij-tijdige-maar-onjuiste-aangifte-erfbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingrente terecht bij tijdige maar onjuiste aangifte erfbelasting",
+      "summary": "",
+      "published_at": "2026-07-30",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 232,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/aantal-mensen-met-alleen-digitale-post-van-belastingdienst-groeit-naar-4-miljoen/",
+      "ecli": "",
+      "act": "",
+      "title": "Aantal mensen met alleen digitale post van Belastingdienst groeit naar 4 miljoen",
+      "summary": "",
+      "published_at": "2026-07-30",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 233,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/belgium-clarifies-extension-of-pillar-two-gir-filing-notification-deadline-for-2024-25/",
+      "ecli": "",
+      "act": "",
+      "title": "Belgium clarifies extension of Pillar Two GIR filing notification deadline for 2024–25",
+      "summary": "Belgium’s Federal Public Service Finance has published a release clarifying the extension of the deadline for notifying the entity responsible for filing the GloBE Information Return (GIR) on 29 July 2026. Previously, the notification deadline for the 2024 and 2025 assessment years was extended to 30 September 2026. The 30 September 2026 deadline applies to...",
+      "published_at": "2026-07-30",
+      "score": 7.5,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

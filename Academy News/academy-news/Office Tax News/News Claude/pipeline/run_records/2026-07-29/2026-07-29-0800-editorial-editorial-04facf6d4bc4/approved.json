@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-29",
+  "release": "2026-07-29-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-07-29-0800-ru-news-01",
+      "title": "Учет налога у источника на роялти и дивиденды в сфере ИТ",
+      "caption": "Разъяснение порядка зачета и вычета удержанного налога у источника по лицензионным платежам в международных ИТ-группах.\n\nИсточник: https://www.taxlive.nl/nl\n\n#роялти #налогуисточника #ИТ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Door ICT-concern betaalde bronbelasting op royalty's niet verrekenbaar",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-02",
+      "title": "Позиция налоговых органов Нидерландов по медицинским освобождениям",
+      "caption": "Разъяснение критериев применения освобождения от НДС для косметологических и медицинских услуг.\n\nИсточник: https://www.taxence.nl/feed/\n\n#НДС #льготы #Нидерланды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Standpunt medische vrijstelling (schoonheidsspecialiste)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-03",
+      "title": "Позиция экспертной группы: отсутствие льготы при совпадении условий передачи имущества",
+      "caption": "Официальное разъяснение экспертной группы по правилам исчисления налога на передачу недвижимости при реорганизации.\n\nИсточник: https://www.taxlive.nl/nl\n\n#недвижимость #реорганизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Kennisgroepstandpunt: geen samenloopvrijstelling bij aandelenverkrijging in OZR ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-04",
+      "title": "Условия освобождения медицинских услуг от НДС",
+      "caption": "Разбор требований к документальному подтверждению профильной квалификации для применения льготной ставки.\n\nИсточник: https://www.taxlive.nl/nl\n\n#НДС #медицина #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Kennisgroep: onder strikte voorwaarden medische BTW-vrijstelling voor bepaalde b",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-05",
+      "title": "Судебная коллегия оставила в силе доначисление налога на добавленную стоимость",
+      "caption": "Решение апелляционного суда о законности штрафов и дополнительных начислений НДС из-за нарушений в учете.\n\nИсточник: https://www.taxlive.nl/nl\n\n#судебнаяпрактика #НДС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Naheffingsaanslag omzetbelasting blijft in stand ondanks strafrechtelijke vrijsp",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-06",
+      "title": "Тайвань напомнил иностранным налогоплательщикам о сроках подачи заявлений по СОДН",
+      "caption": "Налоговое ведомство Тайваня опубликовало порядок применения льготных положений соглашений об избежании двойного налогообложения.\n\nИсточник: https://regfollower.com/feed/\n\n#Тайвань #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Taiwan reminds foreign taxpayers of extended DTA tax refund application period",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-07",
+      "title": "Анализ механизмов оспаривания необоснованной налоговой выгоды",
+      "caption": "Практический разбор судебной практики по делам об оспаривании расходов по сделкам с техническими компаниями.\n\nИсточник: https://t.me/leads/\n\n#судебнаяпрактика #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Singapore: IRAS updates Certificate of Residence guidance, clarifies eligibility",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-08",
+      "title": "Особенности ведения учета при трансграничных поставках товаров",
+      "caption": "Обзор актуальных изменений в порядке оформления сопроводительных документов для международных коммерческих операций.\n\nИсточник: https://t.me/leads/\n\n#импорт #экспорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Pakistan: SBP keeps policy rate unchanged",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-09",
+      "title": "Практика применения стандартов трансфертного ценообразования в Канаде",
+      "caption": "Консультативный документ по структурированию национальной документации по ТЦО.\n\nИсточник: https://regfollower.com/feed/\n\n#Канада #ТЦО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Uruguay issues detailed rules on taxation of foreign income earned by individual",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-29-0800-ru-news-10",
+      "title": "Разъяснение порядка уплаты налога на наследство в Нидерландах",
+      "caption": "Обзор изменений в формах декларации и сроках представления отчетности.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #наследство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Нидерланды / Тайвань",
+      "act": "Australia: ATO issues 2026 tax lodgment guidance for individuals",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

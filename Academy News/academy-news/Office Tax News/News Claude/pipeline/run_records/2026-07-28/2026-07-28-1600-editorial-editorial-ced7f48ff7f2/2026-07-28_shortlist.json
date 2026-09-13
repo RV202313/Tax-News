@@ -1,0 +1,61 @@
+{
+  "date": "2026-07-28",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 206,
+      "source": "telegram_leads",
+      "url": "https://taxology.ru/tpdigest18",
+      "ecli": "",
+      "act": "",
+      "title": "Мы продолжаем серию дайджестов «Споры о цене», посвящённых анализу судебных споров о ценообразовании в сделках ⚖️ В течение 2 квартала 2026 г. Минфин России выпустил разъясняющи…",
+      "summary": "Мы продолжаем серию дайджестов «Споры о цене», посвящённых анализу судебных споров о ценообразовании в сделках ⚖️ В течение 2 квартала 2026 г. Минфин России выпустил разъясняющие письма, которые освещали такие вопросы, как: ⚫️порядок учета «входного» НДС банками при безвозмездной передаче подарков клиентам и сотрудникам; ⚫️определение налоговой базы по НДФЛ при получении материальной выгоды от приобретения долей участия в уставном капитале общества. Прослеживается тенденция арбитражных судов поддерживать доначисление налогов в сделках с взаимозависимыми лицами, если цены кратно отличаются от рыночных или лишены экономического смысла. В частности, получили развитие упомянутые в дайджесте «Споры о цене №18» дела ПАО «Вымпел‑Коммуникации» и ОАО «Уральская Горнометаллургическая Компания» с отрицательными результатами для налогоплательщиков. В части таможенных споров сохраняется тенденция к тщательной оценке судами доказательств, подтверждающих отсутствие влияния взаимосвязи сторон на формирование цены сделки. При планировании экспортных операций необходимо учитывать повышенное внимание таможенных органов к внешнеторговым поставкам, когда транспортировка товара осуществляется с участием взаимосвязанных лиц. Это может стать дополнительным фактором риска. 🔗 Подробнее о судебной практике #TpDigest",
+      "published_at": "2026-07-28",
+      "score": 11.528,
+      "topics": [
+        "ru_tax_admin"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": true,
+      "channel": "@taxology_russia",
+      "message_id": 1155,
+      "engagement": 11.333,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 207,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/vietnam-issues-comprehensive-guidance-on-the-implementation-of-dta-map-apa/",
+      "ecli": "",
+      "act": "",
+      "title": "Vietnam issues comprehensive guidance on the implementation of DTA, MAP, APA",
+      "summary": "The Vietnamese Ministry of Finance has issued Circular No. 95/2026/TT-BTC, effective from 1 July 2026, setting out comprehensive guidance on the implementation of Double Taxation Agreements (DTAs), Mutual Agreement Procedures (MAP), and Advance Pricing Arrangements (APA). The Circular replaces Circular No. 205/2013/TT-BTC and Circular No. 45/2021/TT-BTC and establishes updated rules on treaty application, dispute resolution,...",
+      "published_at": "2026-07-28",
+      "score": 5.0,
+      "topics": [
+        "advance_rulings",
+        "dta",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

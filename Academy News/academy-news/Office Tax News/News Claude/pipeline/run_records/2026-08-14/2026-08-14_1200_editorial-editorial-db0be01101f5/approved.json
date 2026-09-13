@@ -1,0 +1,379 @@
+{
+  "date": "2026-08-14",
+  "release": "2026-08-14_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-14-nl-tax-family-loan",
+      "title": "Суд Нидерландов: проценты по семейному займу на нерыночных условиях подлежат налогообложению как иной доход",
+      "caption": "Апелляционный суд Нидерландов постановил, что предоставление займа члену семьи на условиях, существенно отличающихся от рыночных, квалифицируется как нетипичное управление активами, а проценты по нему подлежат налогообложению как иной доход (ROW).\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/ongebruikelijke-terbeschikkingstelling-binnen-familie-rente-belast-als-row\n\nНе является налоговой консультацией.\n\n#Нидерланды #семейныйЗайм #налогообложениеФизлиц #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/ongebruikelijke-terbeschikkingstelling-binnen-familie-rente-belast-als-row"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-nl-tax-birth-costs-deduction",
+      "title": "Суд Нидерландов отказал в вычете расходов на роды в качестве специфических медицинских затрат",
+      "caption": "Апелляционный суд Нидерландов отклонил жалобу налогоплательщика, пытавшегося заявить налоговый вычет на расходы, связанные с родами, подтвердив, что такие затраты не относятся к категории чрезвычайных специфических медицинских расходов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/kosten-van-bevalling-niet-aftrekbaar-als-specifieke-zorgkosten\n\nНе является налоговой консультацией.\n\n#Нидерланды #налоговыеВычеты #медицинскиеРасходы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kosten-van-bevalling-niet-aftrekbaar-als-specifieke-zorgkosten"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-nl-tax-vat-shelter-funding",
+      "title": "Нидерланды: опубликовано руководство по влиянию новой схемы финансирования приютов на НДС",
+      "caption": "Налоговые органы Нидерландов выпустили разъяснительный меморандум, детализирующий последствия по НДС в связи с внедрением новой государственной схемы компенсации расходов на содержание и обустройство приютов.\n\nИсточник: https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting\n\n#Нидерланды #НДС #косвенныеНалоги #финансирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Нидерланды",
+      "act": "Информационный меморандум Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-fns-fssp-webinar-deductions",
+      "title": "ФНС России провела вебинар по порядку заполнения платежных документов и получению налоговых вычетов",
+      "caption": "Федеральная налоговая служба РФ провела совместный обучающий вебинар для сотрудников службы судебных приставов, разъяснив актуальные правила оформления расчетных документов и форматы подачи заявлений на вычеты.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16640581\n\n#Россия #ФНС #налоговыеВычеты #администрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Федеральной налоговой службы РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16640581"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-minfin-budget-execution",
+      "title": "Минфин России опубликовал оценку исполнения федерального бюджета за январь–июль 2026 года",
+      "caption": "Министерство финансов РФ обнародовало предварительный отчет об исполнении доходов и расходов федерального бюджета за первые семь месяцев 2026 года, отметив устойчивую динамику поступления налоговых сборов.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40530-predvaritelnaya_otsenka_ispolneniya_federalnogo_byudzheta_za_yanvar-iyul_2026_goda\n\n#Россия #Минфин #бюджет #налоговыеПоступления #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Предварительный отчет Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40530-predvaritelnaya_otsenka_ispolneniya_federalnogo_byudzheta_za_yanvar-iyul_2026_goda"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 minfin confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-vs-pensioner-social-payments",
+      "title": "Верховный Суд РФ подтвердил право пенсионерки на сохранение назначенной социальной выплаты",
+      "caption": "Верховный Суд РФ встал на сторону пожилой гражданки, подтвердив незаконность лишения ее региональной социальной доплаты к пенсии при изменении статуса проживания, защитив базовые права застрахованных лиц.\n\nИсточник: https://vsrf.ru/press_center/news/36248\n\nНе является налоговой консультацией.\n\n#Россия #ВерховныйСуд #социальныеВыплаты #праваПенсионеров #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Определение Верховного Суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vsrf.ru/press_center/news/36248"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 vsrf confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-14-us-treasury-savers-match",
+      "title": "Минфин и Налоговая служба США опубликовали руководство по программе пенсионной сооплаты",
+      "caption": "Органы исполнительной власти США представили план подготовки к запуску в 2027 году государственной программы сооплаты сбережений граждан с низким и средним доходом, заменившей прежний пенсионный вычет.\n\nИсточник: https://regfollower.com/us-treasury-irs-begin-implementing-executive-order-14403-by-announcing-intent-to-issue-proposed-regulations-on-savers-match-which-will-benefit-millions-of-low-and-moderate-income-taxpayers/\n\n#США #пенсии #налоговыеЛьготы #пенсионныеСбережения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы",
+      "jurisdictions": "США",
+      "act": "Информационное сообщение Министерства финансов США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-treasury-irs-begin-implementing-executive-order-14403-by-announcing-intent-to-issue-proposed-regulations-on-savers-match-which-will-benefit-millions-of-low-and-moderate-income-taxpayers/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-us-irs-family-medical-leave",
+      "title": "США: опубликовано руководство Минфина и IRS по постоянному расширению оплачиваемых семейных отпусков",
+      "caption": "Налоговая служба США (IRS) и Минфин опубликовали разъяснения о порядке применения работодателями постоянных налоговых кредитов за предоставление сотрудникам оплачиваемых медицинских и семейных отпусков.\n\nИсточник: https://regfollower.com/us-treasury-irs-issue-guidance-on-the-permanent-expansion-of-paid-family-and-medical-leave-under-the-working-families-tax-cuts/\n\n#США #IRS #налоговыеКредиты #семейныйОтпуск #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "США",
+      "act": "Руководство Налогового управления США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-treasury-irs-issue-guidance-on-the-permanent-expansion-of-paid-family-and-medical-leave-under-the-working-families-tax-cuts/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-it-tax-collaborative-compliance",
+      "title": "Италия выпустила подробное руководство по режиму кооперативного комплаенса для крупных компаний",
+      "caption": "Налоговая служба Италии опубликовала первый масштабный свод правил, регулирующий параметры участия транснациональных корпораций в национальном режиме совместного комплаенса и снижения штрафов.\n\nИсточник: https://regfollower.com/italy-revenue-agency-issues-first-comprehensive-guidance-on-collaborative-compliance-regime/\n\n#Италия #комплаенс #крупныеНалогоплательщики #администрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Италия",
+      "act": "Руководство Налоговой службы Италии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/italy-revenue-agency-issues-first-comprehensive-guidance-on-collaborative-compliance-regime/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-pl-tax-digital-services",
+      "title": "Польша представила законопроект о введении 3% налога на цифровые услуги",
+      "caption": "Министерство цифровизации Польши разработало и вынесло на обсуждение законопроект, предусматривающий введение 3% налога на доходы крупных транснациональных компаний от оказания цифровых услуг в стране.\n\nИсточник: https://regfollower.com/poland-ministry-of-digital-affairs-unveils-draft-3-digital-services-tax/\n\n#Польша #цифровойНалог #налогообложениеИТ #косвенныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Польша",
+      "act": "Законопроект Министерства цифровизации Польши",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/poland-ministry-of-digital-affairs-unveils-draft-3-digital-services-tax/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

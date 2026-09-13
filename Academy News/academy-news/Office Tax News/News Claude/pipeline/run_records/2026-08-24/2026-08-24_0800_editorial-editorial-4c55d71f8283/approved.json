@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-24",
+  "release": "2026-08-24_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-24-nl-box-3-tax-allocation-change",
+      "title": "Нидерланды: Суд разрешил менять распределение налоговой базы Box 3 после массового возражения",
+      "caption": "Окружной суд Гааги вынес важное решение в пользу налогоплательщиков. Суд установил, что фискальные партнеры имеют право скорректировать распределение своей налоговой базы по категории сбережений и инвестиций (Box 3) за 2017 год после процедуры коллективного оспаривания, даже если налоговое начисление одного из партнеров уже приобрело окончательный и необратимый статус.\n\nИсточник: https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/\n\n#Нидерланды #Box3 #НалоговоеСоглашение #ПраваНалогоплательщиков #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги физических лиц / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Окружного суда Гааги",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-nl-box-3-final-ruling-distribution",
+      "title": "Нидерланды: Опубликовано окончательное судебное решение по делу о перераспределении базы Box 3",
+      "caption": "Опубликовано финальное судебное постановление относительно возможности изменения долей распределения доходов от активов в категории Box 3 между супругами. Судебный вердикт подтверждает правовую позицию о допустимости гибкого перераспределения налогооблагаемой базы после вынесения решения по коллективной жалобе.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/einduitspraak-inzake-wijziging-box-3-verdeling-na-collectieve-uitspraak-op-bezwaar/\n\n#Нидерланды #Box3 #СудебнаяПрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги физических лиц / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Итоговое судебное решение по делу о распределении базы Box 3",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/einduitspraak-inzake-wijziging-box-3-verdeling-na-collectieve-uitspraak-op-bezwaar/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-nl-reduced-transfer-tax-barns",
+      "title": "Нидерланды: Суд признал право на пониженную ставку налога на передачу недвижимости для прилегающих объектов",
+      "caption": "В Нидерландах вынесено судебное решение, расширяющее применение пониженной ставки налога на передачу недвижимости. Суд подтвердил, что сараи, конный манеж и пастбище, приобретаемые вместе с жилым домом, классифицируются как часть жилого объекта и подлежат налогообложению по сниженной ставке.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/verlaagd-tarief-overdrachtsbelasting-voor-schuren-paardenbak-en-weiland-bij-woning/\n\n#Нидерланды #НалогНаПередачуИмущества #Недвижимость #СудебнаяПрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги на имущество / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда по налогу на передачу недвижимости для прилегающих объектов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verlaagd-tarief-overdrachtsbelasting-voor-schuren-paardenbak-en-weiland-bij-woning/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-de-pillar-two-jurisdictions-list",
+      "title": "Германия утвердила официальный список юрисдикций под правила Pillar Two",
+      "caption": "Министерство финансов Германии опубликовало постановление, официально утверждающее перечень стран и юрисдикций, подпадающих под требования и соответствующие стандарты глобального минимального налога Pillar Two. Список определяет юрисдикции с квалифицированными внутренними налогами (QDMTT) для применения немецкими группами.\n\nИсточник: https://regfollower.com/germany-beps-pillar-two-jurisdictions-list/\n\n#Германия #МинимальныйНалог #PillarTwo #QDMTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "Германия",
+      "act": "Постановление Министерства финансов Германии об утверждении списка юрисдикций",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/germany-beps-pillar-two-jurisdictions-list/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-mu-qdmtt-regulations-published",
+      "title": "Маврикий опубликовал правила применения квалифицированного внутреннего налога QDMTT",
+      "caption": "Налоговые органы Маврикия официально опубликовали правила и стандарты применения Квалифицированного внутреннего минимального доначисляемого налога (QDMTT) в соответствии с правилами Pillar Two. Нормы будут ретроспективно применяться к налоговым периодам, начиная с 1 июля 2025 года.\n\nИсточник: https://regfollower.com/mauritius-beps-qdmtt-regulations-published/\n\n#Маврикий #МинимальныйНалог #PillarTwo #QDMTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "Маврикий",
+      "act": "Регламент Налоговой службы Маврикия о введении QDMTT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/mauritius-beps-qdmtt-regulations-published/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-se-minimum-tax-safe-harbours",
+      "title": "Швеция предложила изменения в закон о минимальном налоге для внедрения безопасных гаваней",
+      "caption": "Правительство Швеции опубликовало законопроект о внесении изменений в Закон о минимальном доначисляемом налоге с целью интеграции четырех ключевых упрощений (безопасных гаваней) из пакета SBS, согласованного в январе 2026 года, а также правил для нестандартных налоговых периодов (52/53 недели).\n\nИсточник: https://regfollower.com/sweden-beps-minimum-tax-safe-harbours/\n\n#Швеция #МинимальныйНалог #PillarTwo #SBS #SafeHarbour #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "Швеция",
+      "act": "Законопроект Правительства Швеции о внесении изменений в Закон о минимальном налоге",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/sweden-beps-minimum-tax-safe-harbours/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-kr-tax-reform-pillar-two-sbs",
+      "title": "Южная Корея представила налоговую реформу 2026 года с правилами SBS Pillar Two",
+      "caption": "Министерство планирования и финансов Южной Кореи представило проект масштабной налоговой реформы на 2026 год. Документ содержит законодательные поправки для интеграции правил пакета SBS, включая упрощенные правила расчета эффективной налоговой ставки для трансграничных групп под Pillar Two.\n\nИсточник: https://regfollower.com/south-korea-beps-tax-reform-pillar-two-sbs/\n\n#ЮжнаяКорея #НалоговаяРеформа #PillarTwo #SBS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / Pillar Two",
+      "jurisdictions": "Южная Корея",
+      "act": "Проект налоговой реформы Южной Кореи на 2026 год",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/south-korea-beps-tax-reform-pillar-two-sbs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-un-tax-convention-negotiations-round5",
+      "title": "ООН: В Нью-Йорке завершился пятый раунд переговоров по Рамочной налоговой конвенции",
+      "caption": "В штаб-квартире ООН завершилась пятая сессия Комитета по разработке Рамочной конвенции о международном налоговом сотрудничестве. Страны перешли к постатейному обсуждению проекта конвенции и двух протоколов: о налогообложении трансграничных услуг и о разрешении споров.\n\nИсточник: https://regfollower.com/un-beps-tax-convention-negotiations-round5/\n\n#ООН #НалоговаяКонвенция #МеждународноеСотрудничество #Услуги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налоговое сотрудничество",
+      "jurisdictions": "ООН",
+      "act": "Протокол пятой сессии Комитета ООН по налоговому сотрудничеству",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/un-beps-tax-convention-negotiations-round5/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-lu-vida-draft-law-submitted",
+      "title": "Люксембург направил в Парламент законопроект о внедрении европейской реформы НДС VIDA",
+      "caption": "Правительство Люксембурга передало в Палату депутатов законопроект № 8812 для имплементации первой фазы директивы ЕС «НДС в цифровую эпоху» (VIDA). Законопроект расширяет действие системы «единого окна» (OSS) и вносит изменения в правила уплаты НДС с 1 января 2027 года.\n\nИсточник: https://regfollower.com/luxembourg-beps-vida-draft-law-submitted/\n\n#Люксембург #НДС #VIDA #OneStopShop #Законопроект #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС / VIDA",
+      "jurisdictions": "Люксембург",
+      "act": "Законопроект № 8812 Правительства Люксембурга о внедрении норм VIDA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/luxembourg-beps-vida-draft-law-submitted/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    },
+    {
+      "slug": "2026-08-24-ro-new-transfer-pricing-documentation-rules",
+      "title": "Румыния ужесточила правила подготовки документации по трансфертному ценообразованию",
+      "caption": "Налоговые органы Румынии ввели в действие приказ № 828/2026, устанавливающий новые, более жесткие требования к подготовке локальных файлов документации по трансфертному ценообразованию (TP). Вводятся пониженные пороговые значения объемов сделок для обязательного отчета крупных налогоплательщиков.\n\nИсточник: https://regfollower.com/romania-beps-new-transfer-pricing-documentation-rules/\n\n#Румыния #ТрансфертноеЦенообразование #TP #НалоговыйКонтроль #Комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование / комплаенс",
+      "jurisdictions": "Румыния",
+      "act": "Приказ Налогового управления Румынии № 828/2026 о правилах TP",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/romania-beps-new-transfer-pricing-documentation-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "web search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-23"
+    }
+  ]
+}

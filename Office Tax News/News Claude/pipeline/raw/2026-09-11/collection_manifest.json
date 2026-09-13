@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-11",
+  "sources": {
+    "telegram_leads": {
+      "state": "manual",
+      "detail": "Telegram disabled for local collection"
+    },
+    "nl_rechtspraak": {
+      "state": "ok",
+      "files": [
+        "nl_rechtspraak_1.txt",
+        "nl_rechtspraak_2.txt"
+      ],
+      "detail": "collector=scripts/collect_rechtspraak.py; [rechtspraak] 2026-09-11: HTTP 200, ~31 entries → C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\raw\\2026-09-11\\nl_rechtspraak_1.txt\n[rechtspraak] 2026-09-10: HTTP 200, ~0 entries → C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\raw\\2026-09-11\\nl_rechtspraak_2.txt"
+    },
+    "ru_ras": {
+      "state": "manual",
+      "files": [],
+      "detail": "collector=scripts/collect_ru_ras.js; [ras] CDP_UNAVAILABLE: Failed to fetch browser webSocket URL from http://127.0.0.1:9223/json/version: fetch failed"
+    },
+    "ru_garant": {
+      "state": "ok",
+      "files": [
+        "ru_garant_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_garant_1.txt",
+          "transport": "html",
+          "url": "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/",
+          "status": 200,
+          "content_type": "text/html; charset=windows-1251",
+          "bytes": 232332
+        }
+      ],
+      "detail": ""
+    },
+    "ru_fns": {
+      "state": "ok",
+      "files": [
+        "ru_fns_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_fns_1.txt",
+          "transport": "html",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 97931
+        }
+      ],
+      "detail": ""
+    },
+    "ru_minfin": {
+      "state": "ok",
+      "files": [
+        "ru_minfin_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_minfin_1.txt",
+          "transport": "html",
+          "url": "https://minfin.gov.ru/ru/press-center/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 177656
+        }
+      ],
+      "detail": ""
+    },
+    "ru_vs": {
+      "state": "failed",
+      "files": [],
+      "detail": "collector=scripts/collect_vs.py; [vs] https://vsrf.ru/documents/reviews/: HTTPError: 404 Client Error: Not Found for url: https://www.vsrf.ru/documents/reviews?init=y&year=2026\n[vs] https://vsrf.ru/press_center/news/: HTTPError: 404 Client Error: Not Found for url: https://www.vsrf.ru/press_center/news?init=y&year=2026&keyword=%D0%BD%D0%B0%D0%BB%D0%BE%D0%B3\n[vs] ошибка: ни один официальный endpoint ВС РФ не собран"
+    },
+    "intl_regfollower": {
+      "state": "ok",
+      "files": [
+        "intl_regfollower_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_regfollower_1.txt",
+          "transport": "rss",
+          "url": "https://regfollower.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 2161384
+        }
+      ],
+      "detail": ""
+    },
+    "nl_fd": {
+      "state": "manual",
+      "detail": "нужна браузерная сессия (Chrome), автосбор не выполняется"
+    },
+    "nl_taxlive": {
+      "state": "ok",
+      "files": [
+        "nl_taxlive_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxlive_1.txt",
+          "transport": "html",
+          "url": "https://www.taxlive.nl/nl",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 43959
+        }
+      ],
+      "detail": ""
+    },
+    "nl_taxence": {
+      "state": "ok",
+      "files": [
+        "nl_taxence_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxence_1.txt",
+          "transport": "rss",
+          "url": "https://www.taxence.nl/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 39217
+        }
+      ],
+      "detail": ""
+    },
+    "nl_belastingdienst_rulings": {
+      "state": "ok",
+      "files": [
+        "nl_belastingdienst_rulings_1.txt",
+        "nl_belastingdienst_rulings_2.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_belastingdienst_rulings_1.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 336830
+        },
+        {
+          "file": "nl_belastingdienst_rulings_2.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 161170
+        }
+      ],
+      "detail": ""
+    }
+  },
+  "_summary": {
+    "ok": [
+      "intl_regfollower",
+      "nl_belastingdienst_rulings",
+      "nl_rechtspraak",
+      "nl_taxence",
+      "nl_taxlive",
+      "ru_fns",
+      "ru_garant",
+      "ru_minfin"
+    ],
+    "failed": [
+      "ru_vs"
+    ],
+    "incomplete": [
+      "nl_fd:manual",
+      "ru_ras:manual",
+      "telegram_leads:manual"
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 10 Sep 2026 08:21:35 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Online Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 13:09:50 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=159881</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op 14 december&nbsp;wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/2987/online-basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Geen verzuimboete zonder bewijs juist toezendadres</title>
+		<link>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 08:21:32 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167301</guid>
+
+					<description><![CDATA[Hof Amsterdam vernietigt een verzuimboete omdat de inspecteur niet overtuigend aantoont dat de aanmaning op het juiste adres is aangeboden of ontvangen. Ook is er geen grond voor omkering en verzwaring van de bewijslast.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam vernietigt een verzuimboete omdat de inspecteur niet overtuigend aantoont dat de aanmaning op het juiste adres is aangeboden of ontvangen. Ook is er geen grond voor omkering en verzwaring van de bewijslast.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw is sinds 2014 dakloos en werkt als sekswerker. Het adres van haar voormalige boekhouder staat bij de inspecteur geregistreerd als verplicht toezendadres. Hoewel de boekhouder in september 2021 meldt dat de vrouw geen klant meer is, stuurt de inspecteur de aanmaning voor haar aangifte inkomstenbelasting 2020 in januari 2022 naar dit adres. De vrouw dient haar aangifte op 25 juni 2022 in. Zij krijgt vervolgens een verzuimboete van € 385. Volgens haar heeft de aanmaning haar nooit bereikt. In geschil is of de boete terecht is opgelegd en of de bewijslast mag worden omgekeerd en verzwaard.</p>
+
+
+
+<h3 class="wp-block-heading">Juiste toezendadres niet bewezen</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur overtuigend moet aantonen dat de aanmaning op het juiste adres is aangeboden of ontvangen. De inspecteur beroept zich op de registratie van het adres in zijn eigen systemen, maar kan de schriftelijke volmacht waarop die registratie zou berusten niet overleggen. Daarmee is onvoldoende bewezen dat het adres van de voormalige boekhouder het juiste adres was. De verzuimboete vervalt.</p>
+
+
+
+<h3 class="wp-block-heading">Geen omkering van de bewijslast</h3>
+
+
+
+<p class="wp-block-paragraph">Ook omkering en verzwaring van de bewijslast is niet aan de orde. De aangifte is weliswaar te laat ingediend, maar ruim negen maanden vóór het opleggen van de aanslagen. De inspecteur kon de aangifte dus nog meenemen. Bovendien is niet aannemelijk dat de vrouw behoorlijk is aangemaand. De normale bewijslast blijft daarom gelden.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67a?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67a AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2025_3764" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 23-12-2025, ECLI:NL:GHAMS:2025:3764, 25/772 en 25/773 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/belastingenveloppe.jpg" length="44465" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen arbeidskorting over ziektewetuitkering na einde dienstverband</title>
+		<link>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 08:19:09 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167284</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat een ziektewetuitkering geen inkomen uit tegenwoordige dienstbetrekking vormt als de dienstbetrekking door de ziekmelding is geëindigd. De man heeft daarom over de ziektewetuitkering geen recht op arbeidskorting.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat een ziektewetuitkering geen inkomen uit tegenwoordige dienstbetrekking vormt als de dienstbetrekking door de ziekmelding is geëindigd. De man heeft daarom over de ziektewetuitkering geen recht op arbeidskorting.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man werkt in 2022 via een uitzendovereenkomst. Daarin staat dat de arbeidsovereenkomst bij een ziekmelding van rechtswege eindigt. De man werkt eerst zes weken en ontvangt na een ziekmelding over week 7 een ziektewetuitkering. Daarna gaat hij opnieuw voor het uitzendbedrijf werken. Op 4 april 2022 meldt hij zich opnieuw ziek en ontvangt hij tot het einde van het jaar een ziektewetuitkering. In zijn aangifte ib/pvv 2022 berekent hij een arbeidskorting van € 4.008 over zijn volledige inkomen. De inspecteur stelt de arbeidskorting vast op € 915. In geschil is of de ziektewetuitkeringen inkomen uit tegenwoordige dienstbetrekking vormen en daarmee recht geven op arbeidskorting.</p>
+
+
+
+<h3 class="wp-block-heading">Ziekmelding beëindigt dienstverband</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat een ziektewetuitkering sinds 1 januari 2020 alleen als arbeidsinkomen geldt als deze tijdens een bestaande dienstbetrekking wordt ontvangen. De eerste ziekmelding beëindigt de arbeidsovereenkomst. Over de ziektewetuitkering van week 7 bestaat daarom geen recht op arbeidskorting. Als de man daarna weer gaat werken, ontstaat volgens de rechtbank feitelijk een nieuwe arbeidsovereenkomst onder dezelfde voorwaarden. Ook deze eindigt door zijn ziekmelding op 4 april 2022. De ziektewetuitkeringen die hij daarna ontvangt, vormen dus evenmin inkomen uit tegenwoordige dienstbetrekking.</p>
+
+
+
+<h3 class="wp-block-heading">Beroep op arrest Hoge Raad slaagt niet</h3>
+
+
+
+<p class="wp-block-paragraph">Het beroep van de man op een arrest van de Hoge Raad van 15 november 2024 slaagt niet. Dat arrest gaat over werkhervattingsuitkeringen voor gedeeltelijk arbeidsgeschikten en niet over ziektewetuitkeringen. Volgens de rechtbank gaat het daarom niet om een vergelijkbaar geval. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-8.1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8.1 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6778" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 02-09-2026, ECLI:NL:RBGEL:2026:6778, ARN 25/140 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Ziek-werknemer.jpg" length="36418" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Naar een EU-belasting voor cryptoactiva?</title>
+		<link>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 07:54:49 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167283</guid>
+
+					<description><![CDATA[In deze NTFR Opinie bespreekt prof. mr. dr. Dennis Post het onderzoek van de Europese Commissie naar een EU-belasting op cryptoactiva. De auteur bespreekt de twee onderzochte varianten (een transactiebelasting en een vermogenswinstbelasting) en plaatst deze in de context van belastingheffing over cryptoactiva in Nederland.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">In deze NTFR Opinie bespreekt prof. mr. dr. Dennis Post het onderzoek van de Europese Commissie naar een EU-belasting op cryptoactiva. De auteur bespreekt de twee onderzochte varianten (een transactiebelasting en een vermogenswinstbelasting) en plaatst deze in de context van belastingheffing over cryptoactiva in Nederland.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <a href="https://www.ndfr.nl/content/p1-1193042" data-type="link" data-id="https://www.ndfr.nl/content/p1-1193042" target="_blank" rel="noreferrer noopener">NDFR</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/04/crypto-jongere.jpg" length="27263" type="image/jpeg" />	</item>
+		<item>
+		<title>Minister Vijlbrief informeert Kamer over pensioenonderwerpen</title>
+		<link>https://www.taxence.nl/nieuws/minister-vijlbrief-informeert-kamer-over-pensioenonderwerpen/</link>
+					<comments>https://www.taxence.nl/nieuws/minister-vijlbrief-informeert-kamer-over-pensioenonderwerpen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 06:10:26 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167277</guid>
+
+					<description><![CDATA[Minister Vijlbrief informeert de Tweede Kamer over verschillende pensioenonderwerpen, waaronder de verrekening van pensioen met uitkeringen, de informatierechten van gepensioneerden bij internationale waardeoverdracht en buitenlandse pensioenuitvoerders. Ook loopt de evaluatie van werknemers zonder pensioen vertraging op.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Minister Vijlbrief informeert de Tweede Kamer over verschillende pensioenonderwerpen, waaronder de verrekening van pensioen met uitkeringen, de informatierechten van gepensioneerden bij internationale waardeoverdracht en buitenlandse pensioenuitvoerders. Ook loopt de evaluatie van werknemers zonder pensioen vertraging op.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een van de onderwerpen betreft het verschil in behandeling tussen pensioenuitkeringen en ontslagvergoedingen uit een vaststellingsovereenkomst (VSO) binnen de socialezekerheidswetgeving. De minister deelt niet het standpunt dat dit leidt tot benadeling van mensen die pensioen hebben opgebouwd en tot strijd met het gelijkheids- en evenredigheidsbeginsel . Pensioenuitkeringen en ontslagvergoedingen verschillen naar hun aard, doel en juridische behandeling en zijn daarom niet zonder meer als gelijke gevallen aan te merken.</p>
+
+
+
+<p class="wp-block-paragraph">Pensioenuitkeringen worden binnen de Werkloosheidswet (WW) aangemerkt als periodiek inkomen ter voorziening in het levensonderhoud en daarom met een WW-uitkering verrekend. Een eenmalige ontslagvergoeding blijft bij een WW-uitkering in beginsel buiten beschouwing, omdat deze wordt gezien als compensatie voor ontslag. Volgens de minister is de verschillende behandeling binnen het socialezekerheidsstelsel daarmee objectief gerechtvaardigd.</p>
+
+
+
+<h2 class="wp-block-heading">Informatierechten bij internationale waardeoverdracht</h2>
+
+
+
+<p class="wp-block-paragraph">De minister gaat ook in op een oproep om de informatierechten van gepensioneerden bij internationale collectieve waardeoverdracht te versterken. De Europese IORP II-richtlijn bepaalt dat een meerderheid van deelnemers en pensioengerechtigden, of hun vertegenwoordigers, een overdracht moet goedkeuren. Ook moet informatie over de voorwaarden tijdig beschikbaar worden gesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens de minister bevatten de Europese en nationale regelgeving al diverse voorschriften voor het betrekken en informeren van deelnemers, gewezen deelnemers en pensioengerechtigden. Nationale toezichthouders zien toe op de uitvoering. Aanvullende wet- en regelgeving om dit bestaande kader te versterken is volgens hem daarom niet nodig.</p>
+
+
+
+<h2 class="wp-block-heading">Buitenlandse pensioeninstellingen</h2>
+
+
+
+<p class="wp-block-paragraph">Naar aanleiding van berichtgeving in de <em>Financial Times</em> gaat de minister daarnaast in op buitenlandse pensioenuitvoerders. Er wordt wetgeving voorbereid om een belemmering van het zogenoemde stichtingsvereiste weg te nemen. Dat vereiste moet niet gelden voor pensioeninstellingen uit een andere EU-lidstaat die als verplichtgesteld bedrijfstakpensioenfonds actief zijn op de Nederlandse markt. Zij moeten wel een rechtspersoon zonder winstoogmerk zijn en mogen geen uitkeringen aan oprichters doen.</p>
+
+
+
+<p class="wp-block-paragraph">De minister benadrukt dat het ook na aanpassing van de wet aan sociale partners is om een pensioenregeling af te spreken en te bepalen waar deze wordt ondergebracht. Daarbij moeten zij rekening houden met de belangen van deelnemers en gepensioneerden en de consequenties van onderbrenging bij een buitenlandse instelling beoordelen.</p>
+
+
+
+<p class="wp-block-paragraph">Tot slot is het CBS-onderzoek naar werknemers zonder pensioen over 2024 vertraagd doordat de benodigde gegevensaanlevering door pensioenfondsen niet volledig was. Publicatie wordt nu in het eerste kwartaal van 2027 verwacht. Daardoor kan ook de tussenevaluatie van de wettelijke reductiedoelstelling niet in 2026 naar de Kamer worden gestuurd. Na publicatie wordt bezien of aanvullende stappen nodig zijn om de doelstelling te behalen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18379&amp;did=2026D42067" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18379&amp;did=2026D42067" target="_blank" rel="noreferrer noopener">Verzamelbrief pensioenonderwerpen najaar 2026, nr. 2026 -0000214238, Ministerie SZW, 9 september 2026</a><a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18379&amp;did=2026D42067" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18379&amp;did=2026D42067">.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/minister-vijlbrief-informeert-kamer-over-pensioenonderwerpen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Pensioen-vrouw-computer.jpg" length="30121" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet wil bijtelling zakelijke auto niet tussentijds aanpassen</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-wil-bijtelling-zakelijke-auto-niet-tussentijds-aanpassen/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-wil-bijtelling-zakelijke-auto-niet-tussentijds-aanpassen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 05:50:35 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167275</guid>
+
+					<description><![CDATA[Het kabinet ziet geen aanleiding om de fiscale bijtellingsregeling voor de auto van de zaak gedurende het kalenderjaar aan te passen. Staatssecretaris Eerenberg houdt vast aan de eenvoudige benadering waarbij bepalend is of op jaarbasis meer dan 500 kilometer privé wordt gereden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet ziet geen aanleiding om de fiscale bijtellingsregeling voor de auto van de zaak gedurende het kalenderjaar aan te passen. Staatssecretaris Eerenberg houdt vast aan de eenvoudige benadering waarbij bepalend is of op jaarbasis meer dan 500 kilometer privé wordt gereden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De vaste Kamercommissie voor Financiën heeft het kabinet gevraagd te reageren op een verzoekschrift over de fiscale bijtellingsregels voor de auto van de zaak. Volgens de schrijver van het verzoekschrift is het disproportioneel dat een aanpassing van privégebruik naar enkel zakelijk gebruik gedurende het jaar er niet toe leidt dat vanaf dat moment geen sprake meer is van bijtelling.</p>
+
+
+
+<h2 class="wp-block-heading">Keuze geldt voor het hele jaar</h2>
+
+
+
+<p class="wp-block-paragraph">Voor privégebruik van een auto van de zaak geldt een bijtelling bij het belastbare inkomen van de werknemer of ondernemer. Deze bijtelling is niet nodig wanneer met een sluitende kilometeradministratie kan worden aangetoond dat op kalenderjaarbasis minder dan 500 kilometer privé met de auto wordt gereden.</p>
+
+
+
+<p class="wp-block-paragraph">Als in de eerste maanden van het jaar al meer dan 500 kilometer privé is gereden, geldt de bijtelling voor het hele jaar, wanneer het hele jaar een auto ter beschikking wordt gesteld. De keuze voor wel of geen bijtelling geldt daarmee voor het gehele jaar. Het is daarbij niet van belang of de werknemer of ondernemer van auto wisselt.</p>
+
+
+
+<h2 class="wp-block-heading">Geen wisselmoment gedurende het jaar</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet hecht aan de eenvoudige benadering van de regeling, waarbij alleen van belang is of meer dan 500 kilometer op jaarbasis privé is gereden, ongeacht de periode en ongeacht de auto wanneer een wisseling heeft plaatsgevonden. Een werknemer of ondernemer dient per kalenderjaar een keuze te maken voor wel of geen privégebruik.</p>
+
+
+
+<p class="wp-block-paragraph">Het toestaan van één wisselmoment gedurende het jaar wordt daarom niet overwogen. Zo’n wisselmoment betekent dat ook de 500-kilometergrens moet worden aangepast. Een overstap naar privégebruik kan er bovendien toe leiden dat met terugwerkende kracht bijtelling over het gehele jaar moet plaatsvinden. Dat acht het kabinet onwenselijk.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18424&amp;did=2026D42202" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18424&amp;did=2026D42202" target="_blank" rel="noreferrer noopener">Reactie m.b.t. disproportionele toepassing fiscale bijtellingsregeling voor zakelijke auto, nr. 2026-0000351771, Ministerie van Financiën,, 9 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-wil-bijtelling-zakelijke-auto-niet-tussentijds-aanpassen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/09/Auto-bestuurder3.jpg" length="46259" type="image/jpeg" />	</item>
+		<item>
+		<title>Vouchers in de btw volgens wetgeving en rechtspraak</title>
+		<link>https://www.taxence.nl/nieuws/vouchers-in-de-btw-volgens-wetgeving-en-rechtspraak/</link>
+					<comments>https://www.taxence.nl/nieuws/vouchers-in-de-btw-volgens-wetgeving-en-rechtspraak/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 05:30:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167271</guid>
+
+					<description><![CDATA[Sinds de invoering van de Europese btw-voucherregels in 2019 lijkt het wettelijke kader voor vouchers op het eerste gezicht helder. Er wordt onderscheid gemaakt tussen vouchers voor enkelvoudig gebruik (SPV’s) en vouchers voor meervoudig gebruik (MPV’s), waarbij elk type een eigen btw-behandeling kent. Ook heeft de Staatssecretaris van Financiën een uitgebreid besluit gepubliceerd over de<a class="read-more" href="https://www.taxence.nl/nieuws/vouchers-in-de-btw-volgens-wetgeving-en-rechtspraak/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Sinds de invoering van de Europese btw-voucherregels in 2019 lijkt het wettelijke kader voor vouchers op het eerste gezicht helder. Er wordt onderscheid gemaakt tussen vouchers voor enkelvoudig gebruik (SPV’s) en vouchers voor meervoudig gebruik (MPV’s), waarbij elk type een eigen btw-behandeling kent. Ook heeft de Staatssecretaris van Financiën een uitgebreid besluit gepubliceerd over de btw-behandeling van vouchers en vergelijkbare instrumenten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Toch blijven in de praktijk belangrijke vragen bestaan. Wanneer is een instrument eigenlijk een voucher voor de btw? Denk daarbij aan loyaliteitspunten, prepaidkaarten en vergelijkbare systemen. Ook is niet altijd duidelijk wanneer sprake is van een SPV of een MPV.</p>
+
+
+
+<h2 class="wp-block-heading">Europese rechtspraak geeft nadere richting</h2>
+
+
+
+<p class="wp-block-paragraph">Diverse arresten van het Hof van Justitie van de EU hebben nadere richting gegeven aan de toepassing van de voucherregels.</p>
+
+
+
+<p class="wp-block-paragraph">In <em>DSAB Destination Stockholm</em> stond de kwalificatie van een city-pass centraal. In <em>M-GbR</em> ging het om de vraag of bepaalde instrumenten als SPV of MPV moesten worden aangemerkt en welke gevolgen dat heeft voor de btw-heffing binnen een distributieketen.</p>
+
+
+
+<p class="wp-block-paragraph">Ook loyaliteitsprogramma’s zijn onderwerp van rechtspraak. In <em>Lyko Operations</em> kwam aan de orde of gratis spaarpunten die kunnen worden ingewisseld voor bonusartikelen als vouchers kwalificeren.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast hebben Nederlandse rechters relevante uitspraken gedaan. Hoewel deze jurisprudentie meer duidelijkheid biedt, blijven er onzekerheden bestaan.</p>
+
+
+
+<h2 class="wp-block-heading">Praktische gevolgen voor ondernemers</h2>
+
+
+
+<p class="wp-block-paragraph">Voor ondernemers is het daarom van belang om te begrijpen wanneer sprake is van een vouchertransactie, hoe deze voor de btw moet worden behandeld en welke gevolgen dit heeft voor loyaliteitsprogramma’s en andere promotionele systemen.</p>
+
+
+
+<p class="wp-block-paragraph">Tijdens het <strong>Nationaal Btw Congres 2026</strong> bespreekt Jeroen Bijl in zijn workshop de belangrijkste ontwikkelingen, recente rechtspraak en praktische aandachtspunten rond de btw-behandeling van vouchers.</p>
+
+
+
+<p class="wp-block-paragraph">Ervaren btw-specialisten bespreken op het Nationaal Btw Congres actuele thema’s, zoals recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma biedt verdieping voor de btw‑specialist die zijn kennis wil bijhouden én actualiseren, en tegelijkertijd handvatten voor de generalist die zijn btw‑kennis verder wil versterken. </p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" data-type="link" data-id="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noreferrer noopener">Bekijk het programma van het Nationaal Btw Congres 2026 en meld je aan</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vouchers-in-de-btw-volgens-wetgeving-en-rechtspraak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/btw.png" length="398861" type="image/png" />	</item>
+		<item>
+		<title>Kwartaalrapportage lopende EU-wetgevingsvoorstellen Financiën Q2 2026</title>
+		<link>https://www.taxence.nl/nieuws/kwartaalrapportage-lopende-eu-wetgevingsvoorstellen-financien-q2-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/kwartaalrapportage-lopende-eu-wetgevingsvoorstellen-financien-q2-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 04:30:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167281</guid>
+
+					<description><![CDATA[Minister Heinen heeft de Kwartaalrapportage Q2 2026 van Financiën naar de Tweede Kamer gestuurd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Minister Heinen heeft de Kwartaalrapportage Q2 2026 van Financiën naar de Tweede Kamer gestuurd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bij verschillende voorstellen lopen de onderhandelingen nog. Zo wordt in de Raad gesproken over de herziening van de Richtlijn energiebelastingen en over de herziening van het eigenmiddelenbesluit, met vijf nieuwe eigen middelen voor de EU-begroting. Ook over de btw-regels voor de Invoer One Stop Shop (IOSS) en de richtlijn Business in Europe: Framework for Income Taxation (BEFIT) wordt nog onderhandeld.</p>
+
+
+
+<p class="wp-block-paragraph">Tot de actuele onderhandelingsdossiers behoren verder de tabaksaccijnsrichtlijn, het Kapitaalmarktintegratie- en Toezichtcentralisatiepakket (KTP) en de Europese Finaliteitsverordening. Voor de tabaksaccijnzen streeft het Ierse voorzitterschap naar een akkoord in 2026.</p>
+
+
+
+<h2 class="wp-block-heading">Onderhandelingen liggen stil</h2>
+
+
+
+<p class="wp-block-paragraph">De onderhandelingen over belastingheffing in de digitale economie en het richtlijnvoorstel over comitologie in de btw liggen stil. Bij de SBBS-verordening zijn de onderhandelingen in de Raad nog niet gestart. Ook de onderhandelingen over de uitvoeringsregels voor nieuwe EU-eigen middelen (MAR/IMSOR) en het Head Office Tax-systeem voor het mkb liggen stil.</p>
+
+
+
+<h2 class="wp-block-heading">Overeenstemming bereikt</h2>
+
+
+
+<p class="wp-block-paragraph">Op diverse dossiers is inmiddels wel overeenstemming bereikt. Bij de herziening van het Crisis Management and Deposit Insurance-raamwerk (CMDI) werd in het najaar van 2025 een politiek akkoord bereikt. Voor het nieuwe EU-Douanewetboek volgde in het voorjaar van 2026 een politiek akkoord.</p>
+
+
+
+<p class="wp-block-paragraph">Ook over het Pakket retailbeleggen (RIS) bereikten Raad en Europees Parlement in mei 2026 een triloogakkoord. Bij PSD3 en PSR, de nieuwe regels voor betaaldiensten, was eind 2025 al een politiek akkoord bereikt en zijn de definitieve teksten inmiddels door zowel Raad als Europees Parlement goedgekeurd.</p>
+
+
+
+<p class="wp-block-paragraph">Bij de digitale euro, contant geld als wettig betaalmiddel en de SFDR-herziening is wel een Raadsakkoord bereikt, maar nog geen definitief akkoord met het Europees Parlement. Deze dossiers zijn dus nog niet volledig afgerond.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18405&amp;did=2026D42119" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18405&amp;did=2026D42119" target="_blank" rel="noreferrer noopener">Kwartaalrapportage lopende EU-wetgevingsvoorstellen op het terrein van Financiën Q2 2026, Ministerie van Financiën, 9 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kwartaalrapportage-lopende-eu-wetgevingsvoorstellen-financien-q2-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/EU-Brussel.jpg" length="73852" type="image/jpeg" />	</item>
+		<item>
+		<title>Hogere oliewinsten, maar geen nationale overwinstbelasting</title>
+		<link>https://www.taxence.nl/nieuws/hogere-oliewinsten-maar-geen-nationale-overwinstbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/hogere-oliewinsten-maar-geen-nationale-overwinstbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 03:13:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167279</guid>
+
+					<description><![CDATA[De winstmarges bij olieproductie en raffinage zijn sterk toegenomen, maar het kabinet kiest vooralsnog niet voor een nationale overwinstbelasting. De voorkeur blijft uitgaan naar een Europese analyse en aanpak.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De winstmarges bij olieproductie en raffinage zijn sterk toegenomen, maar het kabinet kiest vooralsnog niet voor een nationale overwinstbelasting. De voorkeur blijft uitgaan naar een Europese analyse en aanpak.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Minister Heinen van Financiën erkent dat olie- en gasbedrijven wereldwijd hogere winsten maken. Dat betekent volgens hem niet automatisch dat zij ook in Nederland meer winst maken, omdat deze bedrijven wereldwijd opereren en Nederland slechts in zeer beperkte mate olie wint.</p>
+
+
+
+<p class="wp-block-paragraph">Wel zijn er duidelijke signalen dat de commerciële winstmarges in de oliesector zijn toegenomen. Vooral de Nederlandse raffinagesector is daarbij relevant. De zogenoemde crack spread, het prijsverschil tussen ruwe olie en geraffineerde producten als benzine, diesel en kerosine, bedraagt in 2026 26,90 dollar per vat. Dat is beduidend hoger dan het gemiddelde van 6,3 dollar over de afgelopen tien jaar en de 11,30 dollar tijdens de energiecrisis in 2022.</p>
+
+
+
+<h2 class="wp-block-heading">Voorkeur voor Europese aanpak</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet begrijpt het ongemak dat bedrijven profiteren van de oorlog in het Midden-Oosten. Tegelijkertijd is de energiesector sterk cyclisch en volgen de huidige marges op periodes waarin raffinaderijen aanzienlijk slechtere tijden kenden. Een nationale overwinstbelasting moet daarom zorgvuldig worden gewogen. Ingrijpen kan de prikkel om te investeren verminderen en mogelijk een negatief effect hebben op het investeringsklimaat. Bovendien worden hogere winsten al belast via de vennootschapsbelasting.</p>
+
+
+
+<h2 class="wp-block-heading">Opbrengst nieuwe solidariteitsbijdrage</h2>
+
+
+
+<p class="wp-block-paragraph">De tijdelijke solidariteitsbijdrage over 2022 bracht € 2,7 miljard op, waarvan het grootste deel afkomstig was van de gassector. Van een vergelijkbare heffing over gas en oliewinning wordt in 2026 geen substantiële opbrengst verwacht. Bij raffinaderijen ligt dat anders.</p>
+
+
+
+<p class="wp-block-paragraph">Een nieuwe solidariteitsbijdrage vanaf 1 januari 2026 zou volgens een grove inschatting ongeveer € 500 tot € 700 miljoen kunnen opleveren. Bij invoering vanaf bijvoorbeeld 1 oktober gaat het om circa € 125 tot € 175 miljoen. De raming is onzeker. Het kabinet acht terugwerkende kracht bij belastende maatregelen bovendien in beginsel niet wenselijk. Voor een nieuwe heffing is ook nader onderzoek nodig naar de uitvoerbaarheid door de Belastingdienst. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16847&amp;did=2026D42111" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16847&amp;did=2026D42111" target="_blank" rel="noreferrer noopener">Antwoord op Kamervragen over de toegenomen winsten in de fossiele energiesector, Ministerie van Financien, 9 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/hogere-oliewinsten-maar-geen-nationale-overwinstbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Olieplatform.jpg" length="54982" type="image/jpeg" />	</item>
+		<item>
+		<title>Vervalste administratie webshop leidt tot schatting winst</title>
+		<link>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/</link>
+					<comments>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2026 09:04:57 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167265</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een administratie met ernstige gebreken geen betrouwbare grondslag vormt voor de winstberekening. De inspecteur mag daarom volstaan met een gemotiveerde schatting, waarna de ondernemer aannemelijk moet maken dat zijn winst lager is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een administratie met ernstige gebreken geen betrouwbare grondslag vormt voor de winstberekening. De inspecteur mag daarom volstaan met een gemotiveerde schatting, waarna de ondernemer aannemelijk moet maken dat zijn winst lager is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man exploiteert van 2013 tot en met 2016 een webwinkel in verlichting en woonaccessoires en ontvangt daarnaast looninkomsten. Naar aanleiding van een boekenonderzoek constateert de inspecteur ernstige gebreken in zijn administratie. De man heeft onder meer bankafschriften gemanipuleerd en inkoopfacturen vervalst. Ook ontbreken een opbrengstverantwoording, voorraadadministratie en deugdelijke debiteuren- en crediteurenadministratie. De inspecteur corrigeert daarop de aangiften IB/PVV 2013 tot en met 2016. In bezwaar verstrekt de man een herziene administratie die achteraf door zijn broer is opgesteld. Rechtbank Gelderland vermindert de (navorderings)aanslagen op basis van een aangepaste schatting van de inspecteur. In hoger beroep is de hoogte van de winst uit onderneming over 2013 tot en met 2016 in geschil.</p>
+
+
+
+<h3 class="wp-block-heading">Inspecteur mag winst schatten</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de administratie door de ernstige gebreken niet als betrouwbare grondslag voor de winstberekening kan dienen. Ook de herziene administratie is onvoldoende betrouwbaar. De man maakt niet met achterliggende stukken inzichtelijk waarop deze administratie is gebaseerd. Bij een ondeugdelijke administratie kan de inspecteur volgens het hof op grond van een redelijke bewijslastverdeling in eerste instantie volstaan met een gemotiveerde schatting. De inspecteur baseert zijn aangepaste omzetberekening op ontvangen bancaire betalingen en houdt daarbij rekening met 7% retourzendingen. Voor de inkoopkosten gebruikt hij de auditfile, gecorrigeerd voor onder meer vervalste facturen. Het hof vindt deze schatting voldoende gemotiveerd.</p>
+
+
+
+<h3 class="wp-block-heading">Ondernemer weerlegt schatting niet</h3>
+
+
+
+<p class="wp-block-paragraph">De man maakt niet aannemelijk dat zijn omzet en winst lager zijn dan de inspecteur heeft geschat. Bij zijn herziene administratie en Excel-overzichten ontbreken achterliggende administratieve stukken en berekeningen. Daardoor is niet te controleren of de omzet te hoog, het retourpercentage te laag of de kosten te laag zijn vastgesteld. Het hof sluit daarom aan bij de schatting van de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-52?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 52 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.76?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.76 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5444" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 18-08-2026, ECLI:NL:GHARL:2026:5444, 24/2088 tot en met 24/2092 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vervalste-administratie-webshop-leidt-tot-schatting-winst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/02/Webshop3.jpg" length="36009" type="image/jpeg" />	</item>
+	</channel>
+</rss>

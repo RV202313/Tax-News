@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 26 Aug 2026 07:53:35 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aanhorigheden boerderij vallen onder verlaagde 2%-tarief</title>
+		<link>https://www.taxence.nl/nieuws/aanhorigheden-boerderij-vallen-onder-verlaagde-2-tarief/</link>
+					<comments>https://www.taxence.nl/nieuws/aanhorigheden-boerderij-vallen-onder-verlaagde-2-tarief/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2026 07:53:17 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166926</guid>
+
+					<description><![CDATA[Gerechtshof 's-Hertogenbosch oordeelt dat schuren, een paardenbak en een weiland op een boerenerf allemaal als aanhorigheden bij de woning kwalificeren, waardoor het verlaagde 2%-tarief overdrachtsbelasting van toepassing is op de volledige verkrijging.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof &#8216;s-Hertogenbosch oordeelt dat schuren, een paardenbak en een weiland op een boerenerf allemaal als aanhorigheden bij de woning kwalificeren, waardoor het verlaagde 2%-tarief overdrachtsbelasting van toepassing is op de volledige verkrijging.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man koopt samen met zijn partner een woonboerderij met bijbehorende schuren, een paardenbak en weiland, in totaal ruim 1,4 hectare. Voor het woonperceel past de notaris het verlaagde tarief van 2% overdrachtsbelasting toe, voor de overige percelen het algemene tarief van 10,4%. De onroerende zaken zijn vroeger bedrijfsmatig gebruikt door twee vennootschappen onder firma, waaronder een zorgboerderij, en de schuren zijn aanzienlijk groter dan de woning zelf. De man stelt dat alle percelen aanhorigheden zijn: ze zijn bereikbaar via één gezamenlijke oprit, het object is aangekocht als woonboerderij en de bestemming wijzigt van agrarisch naar wonen. De inspecteur meent dat de schuren, paardenbak en het weiland zelfstandig bedrijfsmatig werden gebruikt en dus geen aanhorigheden zijn. Rechtbank Zeeland-West-Brabant verklaart het beroep ongegrond, met uitzondering van een klein tuingedeelte. In geschil is of de man voor de volledige verkrijging recht heeft op het verlaagde tarief van artikel 14, lid 2, WBR.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Boerenerf vormt geheel met de woning</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Het hof stelt voorop dat voor het aanhorigheidsbegrip beoordeeld moet worden of de onroerende zaken bij de woning behoren, daarbij in gebruik zijn en daaraan dienstbaar zijn. De percelen liggen tegen elkaar aan en zijn met elkaar vervlochten tot een klassiek boerenerf, bereikbaar via één gezamenlijke oprit. Dat de schuur een andere bouwstijl heeft dan de woning is daarbij niet ongebruikelijk. Bepalend is verder het beoogde gebruik door de koper op het moment van verkrijging, niet het historische bedrijfsmatige gebruik door de verkopers. De onroerende zaken zijn als geheel verkocht en gekocht en gepresenteerd als woonboerderij met ruimte voor hobbydieren, met één gezamenlijke aansluiting op nutsvoorzieningen via de woning.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Volledig verlaagd tarief van toepassing</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Omdat de schuren, de paardenbak en het weiland uitsluitend voor privédoeleinden worden gebruikt zonder betrokkenheid van derden, en de schuren de opslagruimte van de woning vergroten en onderdak bieden aan hobbymatig gehouden paarden, zijn ze naar het oordeel van het hof in gebruik bij en dienstbaar aan de woning. De man is dan ook geslaagd in het bewijs dat alle onroerende zaken aanhorigheden zijn. Het hof vermindert de verschuldigde overdrachtsbelasting naar 2% over de volledige koopsom.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-14?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14, lid 2 en lid 6 WBR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.111?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.111 Wet IB 2001</a><br>Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1802" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 08-07-2026, ECLI:NL:GHSHE:2026:1802, 25/1182 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/aanhorigheden-boerderij-vallen-onder-verlaagde-2-tarief/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/190725101719.Boerderij-Hoog.resized.2880x2880_cropped-25-0-0-0-0.png" length="864032" type="image/png" />	</item>
+		<item>
+		<title>Kapitalisatiefactor geldt ook bij tijdelijk vruchtgebruik</title>
+		<link>https://www.taxence.nl/nieuws/kapitalisatiefactor-geldt-ook-bij-tijdelijk-vruchtgebruik/</link>
+					<comments>https://www.taxence.nl/nieuws/kapitalisatiefactor-geldt-ook-bij-tijdelijk-vruchtgebruik/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 08:07:50 +0000</pubDate>
+				<category><![CDATA[Erf- en schenkbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166924</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat de kapitalisatiefactor uit het Uitvoeringsbesluit Successiewet ook geldt voor een vruchtgebruik dat na uiterlijk één jaar eindigt. Toch wordt het beroep van de zoon gegrond verklaard, omdat de inspecteur tijdens de procedure alsnog rekening houdt met eigenaarslasten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat de kapitalisatiefactor uit het Uitvoeringsbesluit Successiewet ook geldt voor een vruchtgebruik dat na uiterlijk één jaar eindigt. Toch wordt het beroep van de zoon gegrond verklaard, omdat de inspecteur tijdens de procedure alsnog rekening houdt met eigenaarslasten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vader legateert zijn zoon bij testament het recht om na zijn overlijden gedurende één jaar de woning, tuin en overige gebouwen op het erf te blijven gebruiken. De zoon woont met zijn gezin al bij zijn vader op het erf en hoeft voor het gebruik niets te betalen, maar moet wel alle eigenaarslasten zoals gemeentelijke belastingen, hypotheekrente en de opstalverzekering dragen. De woning heeft in het overlijdensjaar een WOZ-waarde van € 512.000 en wordt later verkocht voor € 635.042. De inspecteur waardeert het legaat aanvankelijk op de volledige WOZ-waarde, maar vermindert dit bij de uitspraak op bezwaar tot € 23.040 met toepassing van een kapitalisatiefactor van 0,75. De zoon vindt dat deze factor niet mag worden toegepast omdat het om een tijdelijk gebruiksrecht van maximaal één jaar gaat, en wil het legaat gewaardeerd zien op een nettovoordeel van ongeveer € 10.000 tot € 12.000.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Geen levenslang vereist voor factor</strong></h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank volgt de inspecteur in het standpunt dat artikel 6 UBSW ook geldt voor het legaat van de zoon. Het zinsdeel over een recht dat afhankelijk is van het leven van een persoon betekent niet dat het vruchtgebruik levenslang moet duren, maar dat het eindigt bij een eventueel eerder overlijden van de vruchtgebruiker. Omdat de waarde van de woning van € 512.000 niet in geschil is, wordt het vruchtgebruik op grond van artikel 10 UBSW gewaardeerd op 6% daarvan. Gelet op de leeftijd van de zoon, 63 jaar bij het overlijden van zijn vader, past de inspecteur daarop terecht een kapitalisatiefactor van 0,75 toe.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Eigenaarslasten verlagen waarde alsnog</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens de procedure erkent de inspecteur dat op de waarde van het vruchtgebruik nog € 2.310 aan eigenaarslasten in mindering moet worden gebracht. De rechtbank sluit zich hierbij aan en stelt de waarde van het legaat vast op 512.000 x 0,06 x 0,75 -/- 2.310 = € 20.730. Daardoor komt de belaste verkrijging uit op € 142.713. Omdat de aanslag hierdoor alsnog wordt verminderd, verklaart de rechtbank het beroep gegrond en vernietigt zij de uitspraak op bezwaar.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-21?tab=commentaar#c-NDFR-BWBR0002226-21_commentary-text_4" target="_blank" rel="noreferrer noopener">art. 21, lid 5</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-21?tab=commentaar#c-NDFR-BWBR0002226-21_commentary-text_13" target="_blank" rel="noreferrer noopener">art. 21, lid 14 Successiewet 1956</a> en <a href="https://www.ndfr.nl/content/BWBR0002227#BWBR0002227-20260101_989664" target="_blank" rel="noreferrer noopener">art. 5, 6 en 10 Uitvoeringsbesluit Successiewet 1956</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_7687" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 18-06-2026, ECLI:NL:RBNHO:2026:7687, AWB &#8211; 25 _ 5831 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kapitalisatiefactor-geldt-ook-bij-tijdelijk-vruchtgebruik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Woning-taxatie.jpg" length="25780" type="image/jpeg" />	</item>
+		<item>
+		<title>Aangepaste Modellen opgaaf gegevens voor de loonheffingen beschikbaar</title>
+		<link>https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/</link>
+					<comments>https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2026 07:47:31 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166906</guid>
+
+					<description><![CDATA[De Belastingdienst heeft de formulieren Model opgaaf gegevens voor de loonheffingen aangepast en gepubliceerd. Met deze aanpassing wil de Belastingdienst voorkomen dat werknemers en uitkeringsgerechtigden de loonheffingskorting door meer dan één werkgever of uitkeringsinstantie tegelijk laten toepassen en hierdoor na de aangifte inkomstenbelasting mogelijk moeten bijbetalen. Het gaat om de volgende formulieren: Deze formulieren zijn<a class="read-more" href="https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst heeft de formulieren Model opgaaf gegevens voor de loonheffingen aangepast en gepubliceerd. Met deze aanpassing wil de Belastingdienst voorkomen dat werknemers en uitkeringsgerechtigden de loonheffingskorting door meer dan één werkgever of uitkeringsinstantie tegelijk laten toepassen en hierdoor na de aangifte inkomstenbelasting mogelijk moeten bijbetalen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om de volgende formulieren:</p>
+
+
+
+<ul class="wp-block-list">
+<li>voor werknemers en uitkeringsgerechtigden: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen">Model opgaaf gegevens voor de loonheffingen</a>;</li>
+
+
+
+<li>voor studenten en scholieren: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/model_opgaaf_gegevens_voor_de_loonheffingen_studenten_en_scholierenregeling">Model opgaaf gegevens voor de loonheffingen (studenten- en scholierenregeling)</a></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Deze formulieren zijn bedoeld om gegevens van de werknemer die van belang zijn voor de loonheffingen, door te geven aan de werkgever of uitkeringsinstantie. En om aan te geven of deze de loonheffingskorting moet toepassen. Studenten en scholieren kunnen met het formulier ook aangeven of zij de studenten- en scholierenregeling willen gebruiken of willen stopzetten.</p>
+
+
+
+<h2 class="wp-block-heading">Voorkomen van dubbele loonheffingskorting</h2>
+
+
+
+<p class="wp-block-paragraph">Met de aangepaste formulieren kunnen werknemers en uitkeringsgerechtigden bewuster kiezen om de loonheffingskorting te laten toepassen. Ze mogen die korting maar door één werkgever of uitkeringsinstantie laten toepassen. De loonheffingskorting dubbel laten toepassen betekent vaak dat de werknemer of uitkeringsgerechtigde na de aangifte inkomstenbelasting moet bijbetalen.</p>
+
+
+
+<p class="wp-block-paragraph">De formulieren zijn als volgt aangepast:</p>
+
+
+
+<ul class="wp-block-list">
+<li>De vragen zijn verduidelijkt om te voorkomen dat werknemers en uitkeringsgerechtigden de loonheffingskorting dubbel laten toepassen;</li>
+
+
+
+<li>De toelichtingen zijn uitgebreid en leggen uit hoe werknemers en uitkeringsgerechtigden kunnen controleren of een andere werkgever of uitkeringsinstantie de loonheffingskorting al toepast;</li>
+
+
+
+<li>Uitgelegd wordt hoe werknemers en uitkeringsgerechtigden kunnen stopzetten dat een andere werkgever of uitkeringsinstantie de loonheffingskorting toepast.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=nws">Lees hier meer nieuwsberichten van de Belastingdienst</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-gepubliceerd" target="_blank" rel="noreferrer noopener">Aangepaste Modellen opgaaf gegevens voor de loonheffingen gepubliceerd, Belastingdienst, 24 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Aangifte-Belastingdienst-2048x1366-1.jpg" length="49415" type="image/jpeg" />	</item>
+		<item>
+		<title>Documenten openbaar over voorbereiding Belastingdienst op nieuwe regels voor digitale gegevensuitwisseling</title>
+		<link>https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/</link>
+					<comments>https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 16:50:02 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal en Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166901</guid>
+
+					<description><![CDATA[De Belastingdienst heeft documenten openbaar gemaakt over de voorbereiding op nieuwe Europese en nationale regels voor digitale gegevensuitwisseling en meldplichten. De openbaarmaking volgt op een Woo-verzoek en geeft inzicht in de invoering van DAC8 en het Crypto-Asset Reporting Framework (CARF), die vanaf 1 januari 2026 nieuwe rapportageverplichtingen introduceerden voor aanbieders van cryptoactivadiensten. DAC8 verplicht cryptodienstverleners<a class="read-more" href="https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst heeft documenten openbaar gemaakt over de voorbereiding op nieuwe Europese en nationale regels voor digitale gegevensuitwisseling en meldplichten. De openbaarmaking volgt op een Woo-verzoek en geeft inzicht in de invoering van DAC8 en het Crypto-Asset Reporting Framework (CARF), die vanaf 1 januari 2026 nieuwe rapportageverplichtingen introduceerden voor aanbieders van cryptoactivadiensten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">DAC8 verplicht cryptodienstverleners om gegevens over hun klanten en cryptotransacties te verzamelen en aan de Belastingdienst te rapporteren. Deze gegevens worden vervolgens automatisch uitgewisseld met andere EU-lidstaten. Via CARF vindt ook gegevensuitwisseling plaats met landen buiten de EU. Daarnaast bevat DAC8 wijzigingen op bestaande internationale uitwisselingsregelingen, waaronder DAC2, DAC3 en CRS.</p>
+
+
+
+<h2 class="wp-block-heading">Grote impact op systemen en uitvoering</h2>
+
+
+
+<p class="wp-block-paragraph">Uit de documenten blijkt dat de Belastingdienst DAC8 beschouwt als een omvangrijk verandertraject met grote gevolgen voor systemen, toezicht en uitvoering. Er moeten nieuwe gegevensstromen worden verwerkt, toezichtprocessen worden ingericht en verschillende nieuwe voorzieningen worden ontwikkeld, zoals registratie- en analyseomgevingen, dashboards en systemen voor risicoanalyse. De geraamde kosten bedragen circa € 8,3 miljoen incidenteel en € 17,6 miljoen structureel. Daarnaast is een structurele uitbreiding van ruim 126 fte voorzien.</p>
+
+
+
+<h2 class="wp-block-heading">Toezicht op cryptobedrijven centraal</h2>
+
+
+
+<p class="wp-block-paragraph">Een belangrijk aandachtspunt is het toezicht op cryptobedrijven. De Belastingdienst constateert dat nog onvoldoende duidelijk is welke partijen precies onder de nieuwe regels vallen en dat veel aanbieders weinig ervaring hebben met gegevensleveringen aan belastingautoriteiten. Daarom wordt ingezet op doelgroeponderzoek, actieve voorlichting en toezicht op de kwaliteit en volledigheid van rapportages.</p>
+
+
+
+<h2 class="wp-block-heading">Beperkte bruikbaarheid DAC8-gegevens</h2>
+
+
+
+<p class="wp-block-paragraph">De DAC8-gegevens moeten onder meer worden gebruikt voor risicoselectie binnen de inkomstenbelasting, invordering en onderzoek naar mogelijk niet-aangegeven vermogen. Tegelijkertijd wijzen de documenten op beperkingen: het gaat vooral om geaggregeerde transactiegegevens, persoonlijke wallets vallen buiten de rapportageplicht en de gegevens kunnen niet rechtstreeks worden vooringevuld in belastingaangiften. Aanvullende analyse met gespecialiseerde blockchainsoftware blijft noodzakelijk.</p>
+
+
+
+<h2 class="wp-block-heading">Risico’s en aandachtspunten</h2>
+
+
+
+<p class="wp-block-paragraph">De documenten noemen ook risico’s, waaronder vertragingen bij de ontwikkeling van systemen, afhankelijkheid van Europese specificaties en de complexiteit van de implementatie. Volgens de Belastingdienst zal DAC8 naar verwachting bijdragen aan betere fiscale naleving, maar vergt de invoering aanzienlijke investeringen in ICT, personeel en toezicht.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/0588767d-532e-4035-9cfa-1d8408f6e029">Woo-besluit voorbereiding Belastingdienst op nieuwe Europese en nationale regelgeving over digitale gegevensuitwisseling en meldplichten, Ministerie van Financiën, 19 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/11/crypto.jpg" length="85557" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 28 augustus 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-28-augustus-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-28-augustus-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 10:49:03 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166886</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 28 augustus 2026 aanstaande de volgende arresten in genoemde zaken wijzen. De met toepassing van art. 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen. Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 28 augustus 2026 aanstaande de volgende arresten in genoemde zaken wijzen. De met toepassing van art. 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<table class="wp-block-advgb-table advgb-table-frontend"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>26/00771</td><td>Gerechtshof Amsterdam, nr. nr. 25/199</td></tr><tr><td>26/00772</td><td>Gerechtshof Amsterdam, nr. 25/202</td></tr><tr><td>26/00773</td><td>Gerechtshof Amsterdam, nr. 25/197</td></tr><tr><td>26/00774</td><td>Gerechtshof Amsterdam, nr. 25/198</td></tr><tr><td>26/00775</td><td>Gerechtshof Amsterdam, nr. 25/184</td></tr><tr><td>26/00776</td><td>Gerechtshof Amsterdam, nr. 25/183</td></tr><tr><td>26/00778</td><td>Gerechtshof Amsterdam, nr. 25/203</td></tr><tr><td>26/00791</td><td>Gerechtshof Amsterdam, nrs. 25/200 en 25/201</td></tr><tr><td>26/00793</td><td>Gerechtshof Amsterdam, nrs. 25/195 en 25/196</td></tr><tr><td>26/00794</td><td>Gerechtshof Amsterdam, nrs. 25/185 en 25/191</td></tr><tr><td>26/00797</td><td>Gerechtshof Amsterdam, nr. 25/175</td></tr><tr><td>26/00798</td><td>Gerechtshof Amsterdam, nrs. 25/192 en 25/194</td></tr><tr><td>26/00814</td><td>Gerechtshof Amsterdam, nrs. 25/381 t/m 25/389</td></tr><tr><td>26/00815</td><td>Gerechtshof Amsterdam, nrs. 5/213 t/m 25/216</td></tr><tr><td>26/00818</td><td>Gerechtshof Amsterdam, nr. 25/391</td></tr><tr><td>26/00821</td><td>Gerechtshof Amsterdam, nr. 25/206</td></tr><tr><td>26/00823</td><td>Gerechtshof Amsterdam, nr. 25/207</td></tr><tr><td>26/00824</td><td>Gerechtshof Amsterdam, nr. 25/205</td></tr><tr><td>26/00825</td><td>Gerechtshof Amsterdam, nr. 25/392</td></tr><tr><td>26/00826</td><td>Gerechtshof Amsterdam, nr. 25/390</td></tr><tr><td>26/00830</td><td>Gerechtshof Amsterdam, nr. 25/208</td></tr></tbody></table>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-28-augustus-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Rechtspraak-10.jpg" length="23314" type="image/jpeg" />	</item>
+		<item>
+		<title>Besluit btw-aftrek aangepast: nieuwe voorwaarden voor VvE’s en herziening investeringsdiensten</title>
+		<link>https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/</link>
+					<comments>https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 10:05:41 +0000</pubDate>
+				<category><![CDATA[BTW]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166877</guid>
+
+					<description><![CDATA[Het besluit btw-aftrek is aangepast. Het besluit wijzigt het Besluit Omzetbelasting. De wijzigingen zien vooral op de aftrek van btw door leden van een vereniging van eigenaren (VvE) en op de verwerking van de per 1 januari 2026 ingevoerde herzieningsregeling voor investeringsdiensten. Het wijzigingsbesluit bevat diverse technische actualisaties van het besluit over de aftrek van<a class="read-more" href="https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Het besluit btw-aftrek is aangepast. Het besluit wijzigt het Besluit Omzetbelasting. </strong></p>
+
+
+
+<p class="wp-block-paragraph">De wijzigingen zien vooral op de aftrek van btw door leden van een vereniging van eigenaren (VvE) en op de verwerking van de per 1 januari 2026 ingevoerde herzieningsregeling voor investeringsdiensten. Het wijzigingsbesluit bevat diverse technische actualisaties van het besluit over de aftrek van omzetbelasting, maar bevat ook enkele inhoudelijk relevante wijzigingen voor de praktijk.</p>
+
+
+
+<p class="wp-block-paragraph">De belangrijkste wijziging betreft de goedkeuring voor btw-aftrek bij een VvE. In het bestaande beleid konden bij een VvE aangesloten ondernemers onder voorwaarden de door de VvE niet in aftrek gebrachte btw alsnog in aftrek brengen, om cumulatie van btw te voorkomen. Voorheen gold daarbij als voorwaarde dat de VvE niet als ondernemer kwalificeerde. Deze voorwaarde wordt vervangen.</p>
+
+
+
+<p class="wp-block-paragraph">Voortaan geldt als voorwaarde dat de VvE de betreffende goederen en diensten niet als ondernemer heeft aangeschaft. Hiermee wordt rekening gehouden met de praktijk waarin VvE’s steeds vaker als ondernemer optreden, bijvoorbeeld door de exploitatie van laadpalen of de verhuur van ruimten. Ook wanneer een VvE ondernemer is, kan de goedkeuring daardoor van toepassing blijven voor goederen en diensten die niet voor de belaste activiteiten van de VvE zijn aangeschaft. Deze wijziging geldt als een verduidelijking en is ook relevant voor bestaande situaties.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast is het besluit aangepast aan de nieuwe wettelijke regeling voor de herziening van btw-aftrek op investeringsdiensten. De herzieningsregels, die al golden voor investeringsgoederen, zijn uitgebreid naar investeringsdiensten aan onroerende zaken met een vergoeding van ten minste € 30.000. Om die reden zijn diverse onderdelen van het besluit aangepast en is het begrip ‘investeringsdienst’ opgenomen. Hierdoor kan de aftrek van btw op dergelijke diensten gedurende meerdere jaren worden herzien wanneer het gebruik van de dienst wijzigt.</p>
+
+
+
+<p class="wp-block-paragraph">Verder bevat het besluit enkele technische wijzigingen, waaronder actualisering van verwijzingen, een correctie van een wetsverwijzing en een aanvulling van jurisprudentieverwijzingen. Deze wijzigingen hebben geen zelfstandige materiële gevolgen voor belastingplichtigen. </p>
+
+
+
+<p class="wp-block-paragraph">Het besluit treedt in werking met ingang van 25 augustus 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-29217.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-29217.html">Besluit van de Staatssecretaris van Financiën van 20 augustus 2026, nr. 2026-14418, tot wijziging van het besluit van 24 november 2020, nr. 2020-167584, Omzetbelasting. Aftrek van omzetbelasting, Stcrt. 2026, 29217</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/06/btw-ondernemer.jpg" length="33516" type="image/jpeg" />	</item>
+		<item>
+		<title>Gevolgen Omnibusvoorstel voor het Nederlandse belastingstelsel</title>
+		<link>https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/</link>
+					<comments>https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 24 Aug 2026 08:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166861</guid>
+
+					<description><![CDATA[Het fiscale Omnibusvoorstel van de Europese Commissie kan grote gevolgen hebben voor de Nederlandse belastingopbrengsten. Het voorstel, gepubliceerd op 24 juni 2026, heeft als doel de Europese belastingregelgeving voor bedrijven te vereenvoudigen en het concurrentievermogen van de EU te vergroten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het fiscale Omnibusvoorstel van de Europese Commissie kan grote gevolgen hebben voor de Nederlandse belastingopbrengsten. Het voorstel, gepubliceerd op 24 juni 2026, heeft als doel de Europese belastingregelgeving voor bedrijven te vereenvoudigen en het concurrentievermogen van de EU te vergroten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens onderzoekers Jan van de Streek en Jan Vleggeert van de Universiteit Leiden leidt het voorstel echter tot een structureel budgettair verlies voor Nederland van maximaal circa € 3 miljard vanaf 2029 en circa € 8 miljard vanaf 2037.</p>
+
+
+
+<h2 class="wp-block-heading">Dividendbelasting</h2>
+
+
+
+<p class="wp-block-paragraph">De grootste derving betreft de dividendbelasting. Vanaf 2037 wil de Europese Commissie het bestaande verbod op bronheffing op dividenden tussen moeder- en dochterbedrijven uitbreiden tot alle dividenden tussen bedrijven binnen de EU. Daardoor zou Nederland geen dividendbelasting meer kunnen heffen over dividenden die Nederlandse beursvennootschappen betalen aan beleggingsvennootschappen in andere lidstaten. Van de Streek en Vleggeert vermoeden dat hiermee feitelijk de afschaffing van de dividendbelasting wordt ingeluid. Zij wijzen erop dat beleggingen bovendien via andere EU-landen kunnen worden gestructureerd om Nederlandse dividendbelasting te vermijden. Hierdoor dreigt volgens hen nagenoeg de gehele netto-opbrengst weg te vallen. De geschatte derving bedraagt vanaf 2037 circa € 4 miljard. Als alternatief noemen zij een uitdelingsbelasting die wordt geheven van de uitkerende vennootschap zelf.</p>
+
+
+
+<h2 class="wp-block-heading">Box 3</h2>
+
+
+
+<p class="wp-block-paragraph">Een tweede gevolg betreft box 3. Het voorstel houdt in dat Nederland in beginsel geen vennootschapsbelasting meer kan heffen over beleggingsdividenden die een Nederlandse NV of BV ontvangt van bedrijven uit andere EU-lidstaten. Hierdoor kan een directeur-grootaandeelhouder die via zijn BV in Europese aandelen belegt, het dividendrendement binnen die BV vooralsnog onbelast genieten. Pas wanneer het rendement door de BV wordt uitgekeerd, is inkomstenbelasting in box 2 verschuldigd.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens Van de Streek en Vleggeert kan deze mogelijkheid een aanzuigende werking hebben. Aandelenbeleggers zouden van box 3 naar een eigen BV kunnen overstappen. Als dit in 2037 massaal gebeurt, ramen zij de derving in box 3 op circa € 1 miljard. Mogelijke beleidsopties zijn het jaarlijks belasten van de waardeaangroei van aandelenbeleggingen in BV’s of het in box 2 in aanmerking nemen van een fictieve winstuitkering.</p>
+
+
+
+<h2 class="wp-block-heading">Vennootschapsbelasting</h2>
+
+
+
+<p class="wp-block-paragraph">Ten slotte voorziet het Omnibusvoorstel in een verruiming van de renteaftrek in de vennootschapsbelasting. Onder de huidige earningsstrippingmaatregel is de aftrek van rente beperkt. De Europese Commissie stelt onder meer voor om bankrente in beginsel uit te zonderen, het toegestane strippercentage vanaf 2029 op 30% te stellen en de mkb-drempel vanaf 2032 te verhogen naar € 3 miljoen. De onderzoekers schatten dat hierdoor een belastingopbrengst van circa € 2 tot € 3 miljard grotendeels kan verdwijnen. Zij noemen een alternatieve renteaftrekbeperking als mogelijke flankerende maatregel.</p>
+
+
+
+<p class="wp-block-paragraph">Het volledige artikel verschijnt in het augustusnummer van het <a href="https://www.sdu.nl/shop/maandblad-belasting-beschouwingen-abonnement.html" data-type="link" data-id="https://www.sdu.nl/shop/maandblad-belasting-beschouwingen-abonnement.html">Maandblad Belasting Beschouwingen</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/rechtsgeleerdheid/omnibusvoorstel" data-type="link" data-id="https://www.universiteitleiden.nl/onderzoek/onderzoeksprojecten/rechtsgeleerdheid/omnibusvoorstel" target="_blank" rel="noreferrer noopener">Universiteit Leiden, 21 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/EU-Brussel.jpg" length="73852" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingplichtige mag verdeling box 3-grondslag wijzigen na massaal bezwaar</title>
+		<link>https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Sun, 23 Aug 2026 23:30:23 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166864</guid>
+
+					<description><![CDATA[Rechtbank Den Haag oordeelt dat een man en zijn fiscale partner de verdeling van hun gezamenlijke grondslag sparen en beleggen over 2017 alsnog kunnen wijzigen, ook al staat de aanslag van de partner al onherroepelijk vast.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Den Haag oordeelt dat een man en zijn fiscale partner de verdeling van hun gezamenlijke grondslag sparen en beleggen over 2017 alsnog kunnen wijzigen, ook al staat de aanslag van de partner al onherroepelijk vast.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn partner doen aangifte IB/PVV 2017 met een gezamenlijke grondslag sparen en beleggen van 514.833. De man geeft daarvan zelf een aandeel van 284.258 aan. De aanslag van de partner staat al op 7 mei 2018 onherroepelijk vast. De inspecteur legt de man vervolgens een aanslag op naar een aandeel in de grondslag van 291.837. De man maakt bezwaar, trekt het individuele deel daarvan in en het overige bezwaar loopt mee in de massaalbezwaarprocedure over box 3 voor 2017. De staatssecretaris verklaart deze bezwaren op 4 februari 2022 gegrond. Als rechtsherstel ontvangt de man een verminderingsbeschikking, nog steeds op basis van een aandeel van 291.837. De man en de partner verzoeken daarna om de verdeling te wijzigen naar een aandeel van 49.330 voor de man. De inspecteur wijst dit af. In geschil is of de verdeling na de collectieve uitspraak nog gewijzigd kan worden.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Hoge Raad staat wijziging verdeling toe</strong></h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank had de Hoge Raad hierover eerder prejudiciële vragen gesteld. De Hoge Raad oordeelt op 27 maart 2026 dat een belastingplichtige van wie de aanslag onherroepelijk is geworden door een collectieve uitspraak als bedoeld in art. 25e AWR, de verdeling met zijn fiscale partner nog kan wijzigen. Dit kan tot zes weken nadat de inspecteur de aanslag ter uitwerking van die collectieve uitspraak heeft verminderd, mits de inspecteur ten aanzien van de aangewezen rechtsvraag geheel of gedeeltelijk in het ongelijk is gesteld. De inspecteur volgt dit oordeel en de man verzet zich er niet tegen, waarna de rechtbank het beroep gegrond verklaart. Het aandeel van de man in de grondslag wordt vastgesteld op 49.330 en dat van de partner op 465.507. De aanslag IB/PVV 2017 van de man wordt dienovereenkomstig verminderd en de inspecteur moet het griffierecht van 50 aan hem vergoeden.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-2.17?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 2.17 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-25e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 25e AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBDHA_2026_15458" target="_blank" rel="noreferrer noopener">Rechtbank Den Haag, 02-06-2026, ECLI:NL:RBDHA:2026:15458, AWB &#8211; 23 _ 4225 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingplichtige-mag-verdeling-box-3-grondslag-wijzigen-na-massaal-bezwaar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/04/Box-3-rendement.jpg" length="32306" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt afkoopregeling lijfrenten bij langdurige arbeidsongeschiktheid</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-afkoopregeling-lijfrenten-bij-langdurige-arbeidsongeschiktheid/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-afkoopregeling-lijfrenten-bij-langdurige-arbeidsongeschiktheid/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 21 Aug 2026 13:16:38 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166857</guid>
+
+					<description><![CDATA[De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord over de werking van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord over de werking van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belastingplichtige heeft een lijfrente afgesloten waarvoor de betaalde bedragen binnen de aftrekruimten van de Wet IB 2001 aftrekbaar zijn. De belastingplichtige is langdurig arbeidsongeschikt in de zin van artikel 3.133, negende lid, Wet IB 2001 en artikel 18 van de Uitvoeringsregeling inkomstenbelasting 2001. Er wordt voldaan aan de voorwaarden voor de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid. De belastingplichtige wil gebruikmaken van deze afkoopregeling en zijn lijfrente zonder heffing van revisierente afkopen.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<p class="wp-block-paragraph">1.&nbsp;&nbsp;&nbsp; Is de belastingplichtige bij gebruikmaking van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid verplicht om zijn lijfrente in één keer en voor het geheel af te kopen?</p>
+
+
+
+<p class="wp-block-paragraph">2.&nbsp;&nbsp;&nbsp; Geldt er een beperking voor het aantal keren dat de belastingplichtige gebruik mag maken van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<p class="wp-block-paragraph">1.&nbsp;&nbsp;&nbsp; Nee. De belastingplichtige kan gebruikmaken van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid zowel bij een gehele als ook bij een gedeeltelijke afkoop van een lijfrente. De belastingplichtige is niet verplicht de lijfrente in één keer af te kopen.</p>
+
+
+
+<p class="wp-block-paragraph">2.&nbsp;&nbsp;&nbsp;Nee. De belastingplichtige kan meerdere keren in de tijd gebruikmaken van de afkoopregeling voor lijfrenten bij langdurige arbeidsongeschiktheid. Voor de toepassing van de regeling in een bepaald jaar moet het gezamenlijke bedrag van de (gehele of gedeeltelijke) afkoop die onder de regeling vallen, worden getoetst aan de voor de regeling geldende afkoopgrens.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-afkoopregeling-lijfrenten-bij-langdurige-arbeidsongeschiktheid/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-afkoopregeling-lijfrenten-bij-langdurige-arbeidsongeschiktheid/" target="_blank" rel="noreferrer noopener">Belastingdienst, 21 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-afkoopregeling-lijfrenten-bij-langdurige-arbeidsongeschiktheid/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/11/werknemer-ziek2.jpg" length="33756" type="image/jpeg" />	</item>
+		<item>
+		<title>Arbeidsongeschiktheidsuitkering geldt als pensioen, heffingsrecht bij Nederland</title>
+		<link>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/</link>
+					<comments>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 20 Aug 2026 15:21:26 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166813</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en een voormalige werkgever gelden als pensioen onder het belastingverdrag met België, waardoor Nederland het heffingsrecht heeft.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en een voormalige werkgever gelden als pensioen onder het belastingverdrag met België, waardoor Nederland het heffingsrecht heeft.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man woont van 2020 tot en met 2023 in België en heeft tot medio 2020 een dienstbetrekking bij zijn werkgever. Daarna ontvangt hij een UWV-uitkering, arbeidsongeschiktheidsuitkeringen van een pensioenfonds, een bv en zijn voormalige werkgever, en een particuliere uitkering van een verzekeringsmaatschappij. Hij geeft deze inkomsten aan en de inspecteur legt de aanslagen conform op. Naar aanleiding van vrijstellingsverzoeken die de man in 2024 indient, onderzoekt de inspecteur de aangiften opnieuw en legt navorderingsaanslagen IB/PVV 2020 tot en met 2023 op. Partijen zijn verdeeld over de vraag of navordering mag en of Nederland heffingsrecht heeft over de uitkeringen.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Vrijstellingsverzoek is nieuw feit</strong></h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de inspecteur mag uitgaan van de juistheid van de aangiften, tenzij hij redelijkerwijs moet twijfelen. Dat is hier niet zo, omdat het niet ongebruikelijk is dat heffingsrechten aan het woonland toekomen. Dat in voorlopige aanslagen staat dat gegevens nog worden gecontroleerd, betekent niet dat dit ook is gebeurd; de aangiften doorlopen alsnog (deels) het geautomatiseerde proces. Pas de vrijstellingsverzoeken uit 2024 vormen daarom het nieuwe feit dat navordering rechtvaardigt.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Uitkering telt als pensioen</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Voor de UWV-uitkering in de periode voor de beëindiging van het dienstverband wijst het verdrag het heffingsrecht toe aan Nederland op grond van artikel 18, zesde lid. Voor de uitkeringen van het pensioenfonds, de bv en de werkgever oordeelt de rechtbank dat dit pensioenen zijn in de zin van artikel 19, tweede lid van het verdrag. Omdat het verdrag geen omschrijving van pensioen geeft, kijkt de rechtbank naar de Wet op de loonbelasting 1964. Een arbeidsongeschiktheidsuitkering die langer dan een jaar duurt en niet uitgaat boven wat redelijk is, geldt daarin als pensioenuitkering. Dat is hier het geval, en het heffingsrecht komt daarom toe aan Nederland. Voor de particuliere uitkering van de verzekeringsmaatschappij heeft België echter het heffingsrecht op grond van artikel 18, eerste lid. De navorderingsaanslagen IB/PVV 2021 tot en met 2023 worden daarom verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-18?lid=BWBV0001563&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 18</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-19?lid=BWBV0001563&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">19 Verdrag Nederland-België</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_7356" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 07-08-2026, ECLI:NL:RBZWB:2026:7356, BRE 25/4832 tot en met BRE 25/4835 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/arbeidsongeschiktheidsuitkering-geldt-als-pensioen-heffingsrecht-bij-nederland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/pensioen-Belgie.jpg" length="35129" type="image/jpeg" />	</item>
+	</channel>
+</rss>

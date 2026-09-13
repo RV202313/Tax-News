@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 03 Aug 2026 13:47:05 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Online cursus CV en bedrijfsopvolging</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 08:33:18 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[bedrijfsoverdracht]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Familiebedrijven]]></category>
+		<category><![CDATA[Notariaat]]></category>
+		<category><![CDATA[Online cursus]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166311</guid>
+
+					<description><![CDATA[Leer de voordelen van overdracht van een onderneming via cv Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt. De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Leer de voordelen van overdracht van een onderneming via cv</p>
+<p>Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt.</p>
+<p>De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze manier tal van voordelen kan bieden ten opzichte van de meer traditionele manieren van bedrijfsopvolging. Na het volgen van deze online cursus is de adviseur in staat om adequaat te kunnen adviseren over de cv.&nbsp;In deze online cursus staat de bedrijfsoverdracht van ouder op kind centraal.</p>
+<p><strong>Praktijktool</strong><br />De tool bestaat uit een handige checklist met alle belangrijke overwegingen op een rij.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/agenda-2/3119/de-commanditaire-vennootschap-en-bedrijfsopvolging" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Verkapte uitdeling in 2019 belast, herstel faalt in 2023</title>
+		<link>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/</link>
+					<comments>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 07:35:02 +0000</pubDate>
+				<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166314</guid>
+
+					<description><![CDATA[Gerechtshof Den Haag oordeelt dat de dga van een holding-bv in 2019 een regulier voordeel uit aanmerkelijk belang van € 116.324 heeft genoten. De rechtstreekse betaling uit de agioreserve is een verkapte uitdeling door de holding, die de dga niet ongedaan maakt met herstelacties in 2023.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof Den Haag oordeelt dat de dga van een holding-bv in 2019 een regulier voordeel uit aanmerkelijk belang van € 116.324 heeft genoten. De rechtstreekse betaling uit de agioreserve is een verkapte uitdeling door de holding, die de dga niet ongedaan maakt met herstelacties in 2023.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De dga is enig bestuurder en aandeelhouder van een holding-bv. Die holding is op haar beurt enig aandeelhouder van een uitzendbureau-bv. In oktober 2019 besluit de algemene vergadering van aandeelhouders van de holding tot een uitkering van € 116.324 uit de agioreserve van het uitzendbureau. Het uitzendbureau doet aangifte dividendbelasting zonder inhouding en maakt het bedrag rechtstreeks over aan de dga. In zijn oorspronkelijke aangifte IB/PVV 2019 geeft de dga dit bedrag niet aan, maar in een herziene aangifte uit 2022 verantwoordt hij € 116.324 als inkomen uit aanmerkelijk belang. De inspecteur legt daarop een navorderingsaanslag IB/PVV 2019 op. In 2023 probeert de dga de uitkering alsnog om te zetten in een onbelaste kapitaalterugbetaling. In geschil is of de navorderingsaanslag terecht is en of de dga in 2019 een regulier voordeel uit aanmerkelijk belang heeft genoten.</p>
+
+
+
+<h2 class="wp-block-heading">Verkapte uitdeling is regulier voordeel</h2>
+
+
+
+<p class="wp-block-paragraph">Uit de notulen van de algemene vergadering van aandeelhouders en de aangifte dividendbelasting blijkt dat het uitzendbureau € 116.324 aan de holding heeft uitgekeerd. De dga trad daarbij op als notulist en voorzitter en ondertekende de aangifte dividendbelasting. De holding laat dit bedrag, waarop zij als enig aandeelhouder recht heeft, rechtstreeks toekomen aan haar enig aandeelhouder, de dga. Zo&#8217;n verkapte uitdeling is belast als aan twee voorwaarden is voldaan: er vindt een vermogensverschuiving naar de aandeelhouder plaats met de bedoeling hem te bevoordelen, en zowel de holding als de dga was zich daarvan bewust of had dat moeten zijn. Volgens het hof is aan beide voorwaarden voldaan. Het hof vindt hiervoor onder meer steun in de herziene aangifte van 2022, waarin de dga het bedrag zelf als voordeel uit aanmerkelijk belang opgaf en in het feit dat het winstgevende uitzendbureau een oplopende winstreserve had.</p>
+
+
+
+<h2 class="wp-block-heading">Herstel in 2023 helpt de dga niet</h2>
+
+
+
+<p class="wp-block-paragraph">De dga betoogt dat het in 2019 de bedoeling was hem een onbelaste uitkering uit de agioreserve te doen toekomen. Voor zo&#8217;n onbelaste terugbetaling van kapitaal moet volgens art. 4.13 Wet IB 2001 vóór de uitkering de algemene vergadering van aandeelhouders daartoe hebben besloten en moet de nominale waarde van de aandelen bij statutenwijziging met een gelijk bedrag zijn verminderd. In 2019 is aan geen van beide voorwaarden voldaan. De herstelacties van juni 2023 baten de dga niet: die vinden plaats in het verkeerde jaar en op het verkeerde niveau, namelijk bij het uitzendbureau in plaats van bij de holding. Ook het beroep op dwaling faalt, omdat de terugwerkende kracht van een civielrechtelijke vernietiging fiscaal niet geldt. Het hof bevestigt de uitspraak van de rechtbank en verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 4.12 – Wet inkomstenbelasting 2001 | NDFR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.13?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 4.13 – Wet inkomstenbelasting 2001 | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2169" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2169" target="_blank" rel="noreferrer noopener">Hof Den Haag 30 juni 2026 (gepubliceerd 27 juli 2026), ECLI:NL:GHDHA:2026:2169, BK-25/842</a></p>
+
+
+
+<h2 class="wp-block-heading">Verdiepingscursus DGA-advisering | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Als dga-adviseur ken je de directeur-grootaandeelhouder in al zijn hoedanigheden en heb je een advies paraat voor de meest voorkomende adviesthema&#8217;s. Maar hoe kan jij je advies nog verder optimaliseren? Hoe zet jij de volgende stap in je rol als trusted advisor van de dga?</p>
+
+
+
+<p class="wp-block-paragraph"> In deze opleiding geven vier ervaren specialisten hun tips en tricks over hoe advieskansen te herkennen en optimaal te benutten. Zij nemen je aan de hand van casuïstiek mee in de praktische begeleiding van de dga op alle relevante adviesthema&#8217;s:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Optimale houdsterstructuur</li>
+
+
+
+<li>Aanmerkelijk belang</li>
+
+
+
+<li>Gebruikelijk loon &amp; Sociale verzekeringsplicht</li>
+
+
+
+<li>Lenen van en aan de bv</li>
+
+
+
+<li>Vermogensstructurering</li>
+
+
+
+<li>Huwelijk &amp; Echtscheiding</li>
+
+
+
+<li>Pensioen</li>
+
+
+
+<li>Bedrijfsoverdracht</li>
+</ul>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364" href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2958/verdiepingscursus-dga-advisering" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 7 augustus 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 07:18:03 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166312</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 7 augustus 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 7 augustus 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/01880</td><td>Gerechtshof Den Haag 9 april 2024, nrs. 23/440 en 23/441<br>ECLI:NL:GHDHA:2024:828 <em>Pensioen niet in aanmerking genomen bij bepaling drempel giftenaftrek</em></td><td>NTFR 2024/1057</td></tr><tr><td>24/02814</td><td>Gerechtshof Amsterdam 25 juni 2024, nrs. 23/9 en 23/17<br>ECLI:NL:GHAMS:2024:2285 <em>Vrijgestelde EU-pensioenuitkering telt mee voor recht op hoge ouderenkorting, aftrek zorgkosten en giftenaftrek</em></td><td>NTFR 2024/1556</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/04646</td><td>Gerechtshof Arnhem-Leeuwarden 17 oktober 2023, nr. 22/466<br>ECLI:NL:GHARL:2023:8794 <em>WOZ-waarde van kantoorvilla met parkeerplaatsen niet te hoog vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>24/03206</td><td>Gerechtshof ’s-Hertogenbosch 10 juli 2024, nr. 22/1088<br>ECLI:NL:GHSHE:2024:2230 <em>Cash bonus en RSU’s terecht belast omdat belanghebbende heel 2016 in Nederland woonde/ uitlatingen inspecteur wekten geen vertrouwen</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 25 april 2025, nr. 24/03206<br>ECLI:NL:PHR:2025:500</td><td>NTFR 2025/857</td></tr><tr><td>24/04259</td><td>Gerechtshof Arnhem-Leeuwarden 15 oktober 2024, nr. 23/2340<br>ECLI:NL:GHARL:2024:6432 <em>WOZ-waarde van winkelpand in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>25/01110</td><td>Gerechtshof ’s-Hertogenbosch 12 februari 2025, nrs. 23/1639 en 23/1640<br>ECLI:NL:GHSHE:2025:335 <em>WOZ-waarde van geschakelde bungalow in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>25/01111</td><td>Gerechtshof ’s-Hertogenbosch 12 februari 2025, nrs. 23/681 t/m 23/683<br>ECLI:NL:GHSHE:2025:336 <em>Opbrengstlimiet van watersysteemheffing, rioolheffing en afvalstoffenheffing niet overschreden</em></td><td>&nbsp;</td></tr><tr><td>25/01694</td><td>Gerechtshof ’s-Hertogenbosch 26 maart 2025, nr. 23/407<br>ECLI:NL:GHSHE:2025:836 <em>Redelijke schatting van inkomen uit werk en woning / detentie maakt omkering en verzwaring bewijslast niet onterecht</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 28 november 2025, nr. 25/01694<br>ECLI:NL:PHR:2025:1303</td><td>NTFR 2026/135</td></tr><tr><td>26/00420</td><td>Gerechtshof Den Haag 19 november 2025, nr. 24/852<br>ECLI:NL:GHDHA:2025:3016</td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/01613</td><td>Gerechtshof ’s-Hertogenbosch, nr. 24/389</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Rechtspraak-10.jpg" length="23314" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt thuiswerkdrempel in Verdrag Nederland-Duitsland</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 04:58:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166344</guid>
+
+					<description><![CDATA[De Kennisgroep IBR IB niet-winst/LB/PH aanslag heeft vragen beantwoord over de thuiswerkdrempel in het verdrag Nederland – Duitsland, die sinds 1 januari 2026 van kracht is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep IBR IB niet-winst/LB/PH aanslag heeft vragen beantwoord over de thuiswerkdrempel in het verdrag Nederland – Duitsland, die sinds 1 januari 2026 van kracht is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Met ingang van 1 januari 2026 kent het verdrag <a href="https://wetten.overheid.nl/jci1.3:c:BWBV0005862&amp;z=2025-12-31&amp;g=2025-12-31" target="_blank" rel="noreferrer noopener">Nederland-Duitsland 2012</a> een zogenoemde thuiswerkregeling. Er geldt een regeling voor zowel reguliere werknemers als overheidswerknemers.  De regelingen maken het kort gezegd mogelijk dat een werknemer in een kalenderjaar maximaal 34 dagen kan thuiswerken zonder dat dit gevolgen heeft voor het heffingsrecht over het inkomen.</p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om drempelregelingen. Zodra de drempel van 34 dagen wordt overschreden gelden de gebruikelijke toewijsregels voor het totale arbeidspatroon in het betreffende jaar.</p>
+
+
+
+<p class="wp-block-paragraph">Hoewel de regelingen worden aangeduid als thuiswerkregeling is van belang dat het in de regeling van artikel 14 Verdrag gaat om in het woonland of in derde landen (dus buiten het reguliere werkland) gewerkte werkdagen (ook als dit niet vanuit het huisadres is). In artikel 18 Verdrag zijn afhankelijk van de situatie de werkdagen in of buiten de woonstaat relevant. De 34-dagen drempel heeft tot enkele vragen geleid.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen/casussen</h2>
+
+
+
+<p class="wp-block-paragraph">Alle vragen gaan over een inwoner van Duitsland, de antwoorden gelden echter ook in een spiegelbeeldsituatie.</p>
+
+
+
+<ol class="wp-block-list">
+<li>Een werknemer werkt voor meerdere Nederlandse private werkgevers deels (thuis) in Duitsland. Geldt de drempel per werknemer (belastingplichtige) of per dienstbetrekking?</li>
+
+
+
+<li>Een werknemer werkt voor een Nederlandse private werkgever minder dan 34 dagen (thuis) in Duitsland. Daarnaast werkt hij ook voor een Duitse private werkgever uitsluitend in Duitsland. Tellen dagen waarop enkel voor de Duitse werkgever wordt gewerkt mee voor de drempel?</li>
+
+
+
+<li>Een werknemer werkt voor een Nederlandse werkgever en werkt incidenteel op locatie in Duitsland (bijvoorbeeld als gevolg van congresbezoek of een kortdurende detachering). Tellen de op locatie (dus niet thuis) gewerkte dagen mee voor de drempel?</li>
+
+
+
+<li>Een werknemer werkt zowel voor een Nederlandse private werkgever als voor een Nederlandse overheidswerkgever. Geldt de drempel per werknemer (belastingplichtige) of per verdragsartikel (soort inkomen)?</li>
+
+
+
+<li>De werknemer uit casus 4 maakt een ééndaagse dienstreis naar een derde land. Op deze dag wordt ten minste 30 minuten voor zowel de private als de overheidswerkgever gewerkt. Telt deze dag mee voor zowel de drempel in artikel 14 als de drempels in artikel 18?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>De drempel geldt per werknemer (belastingplichtige). Alle werkdagen in Duitsland worden opgeteld om te bepalen of het er 34 of meer zijn. Het maakt daarbij geen verschil of er gelijktijdig voor meerdere werkgevers (in deeltijd) wordt gewerkt, of dat er volgtijdig voor verschillende werkgevers wordt gewerkt.</li>
+
+
+
+<li>Nee, de dagen waarop enkel gewerkt wordt voor de Duitse werkgever tellen niet mee voor de drempel.</li>
+
+
+
+<li>Ja, ook de dagen die op locatie in Duitsland worden gewerkt tellen mee voor de drempel.</li>
+
+
+
+<li>De drempel dient per verdragsartikel te worden toegepast.</li>
+
+
+
+<li>De dag van de dienstreis telt mee voor de drempel van artikel 14 Verdrag én voor de drempel van artikel 18, eerste lid, onderdeel b, Verdrag. Voor de drempel van artikel 18, eerste lid, onderdeel c, Verdrag is deze dag niet relevant aangezien niet in de woonstaat wordt gewerkt.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-thuiswerkdrempel-in-het-verdrag-nederland-duitsland/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-thuiswerkdrempel-in-het-verdrag-nederland-duitsland/" target="_blank" rel="noreferrer noopener">Belastingdienst, 3 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/zzp-vrouw-thuis2.jpg" length="35725" type="image/jpeg" />	</item>
+		<item>
+		<title>Vergeten behandelvoornemen is fout die navordering toestaat</title>
+		<link>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/</link>
+					<comments>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166235</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat het niet stoppen van het geautomatiseerde proces bij het opleggen van de primitieve aanslag een fout in de ruime en neutrale zin van art. 16, lid 2, letter c AWR is. Omdat de te weinig geheven belasting meer dan 30% bedraagt, is de fout kenbaar en mag de inspecteur navorderen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat het niet stoppen van het geautomatiseerde proces bij het opleggen van de primitieve aanslag een fout in de ruime en neutrale zin van art. 16, lid 2, letter c AWR is. Omdat de te weinig geheven belasting meer dan 30% bedraagt, is de fout kenbaar en mag de inspecteur navorderen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is tot 2016 enig aandeelhouder van een holding-bv, die op haar beurt alle aandelen houdt in een dochtervennootschap. In 2016 vervreemdt hij de aandelen in de holding voor € 604.000, waarbij de koper de koopprijs schuldig blijft. De man krijgt uitstel voor het doen van zijn aangifte IB/PVV 2016. Via zijn gemachtigde vraagt hij de inspecteur in augustus 2018 om een standpuntbepaling over de vervreemding en stelt hij een vervreemdingsvoordeel van € 501.000 voor. De inspecteur gaat daar in september 2018 mee akkoord. Toch dient de man nooit een aangifte in. In januari 2019 legt de inspecteur ambtshalve een primitieve aanslag over 2016 op zonder het voordeel uit aanmerkelijk belang, doordat de aanslagregelend ambtenaar geen behandelvoornemen in het systeem heeft opgenomen. In juni 2020 legt de inspecteur een navorderingsaanslag op. In geschil is of hij dat mag op grond van een kenbare fout.</p>
+
+
+
+<h2 class="wp-block-heading">Hof merkt fout aan als beoordelingsfout</h2>
+
+
+
+<p class="wp-block-paragraph">Hof Den Haag oordeelt dat de inspecteur bij het opleggen van de primitieve aanslag een fout heeft gemaakt in de ruime en neutrale zin van het woord. Volgens het hof gaat het echter om een verwijtbaar onjuist inzicht in de feiten die bepalend zijn voor de belastingplicht. De aanslagregelend ambtenaar heeft nagelaten kennis te nemen van de bij de Belastingdienst aanwezige informatie over de vervreemding van de aandelen en heeft daardoor niet onderkend dat die zich had voorgedaan. Bij een zorgvuldige dossiervorming en -raadpleging was dat niet gebeurd. Dat weinig tijd is ingeruimd voor ambtshalve aanslagen komt volgens het hof voor rekening van de Belastingdienst. Er is dus sprake van een beoordelingsfout die aan navordering op grond van art. 16, lid 2, letter c AWR in de weg staat. Wel acht het hof de man te kwader trouw, zodat navordering op grond van art. 16, lid 1 AWR mogelijk is.</p>
+
+
+
+<h2 class="wp-block-heading">Nalaten is fout, geen onjuist inzicht</h2>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat het begrip fout in art. 16, lid 2, letter c AWR neutraal en ruim is bedoeld. Daaronder valt elke misslag bij de aanslagregeling, zoals schrijf-, reken- en intoetsfouten, maar ook fouten door de geautomatiseerde verwerking van aangiften, als de belastingschuld daardoor te laag wordt vastgesteld. Dat de ambtenaar heeft nagelaten een behandelvoornemen op te nemen, is zo&#8217;n fout en geen verwijtbaar onjuist inzicht in de feiten. Bepalend is het moment waarop het geautomatiseerde proces niet is gestopt. Dat bij de aanslag geen kennis is genomen van de akkoordverklaring over de vervreemdingswinst, doet er dan niet toe. De primitieve aanslag is dus te laag vastgesteld door een fout die navordering rechtvaardigt. Het incidentele beroep van de staatssecretaris slaagt en het principale beroep van de man is ongegrond, zodat de navorderingsaanslag in stand blijft.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: art. 16, lid 1 en art. 16, lid 2, aanhef en letter c AWR <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar#c-NDFR-BWBR0002320-16_commentary-text" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1296" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1296" target="_blank" rel="noreferrer noopener">Hoge Raad 17 juli 2026, ECLI:NL:HR:2026:1296, 23/03413</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vergeten-behandelvoornemen-is-fout-die-navordering-toestaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/Correctie.1.jpg" length="50898" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Spaans FCR</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:55:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166237</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Spaans Fondo de Capital Riesgo vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Spaans Fondo de Capital Riesgo vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Spaans FCR is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 niet vergelijkbaar met een Nederlandse rechtsvorm als bedoeld in artikel 1, tweede lid, onderdeel b, onder 1<sup>e</sup> tot en met 9<sup>e</sup>, Besluit vergelijking buitenlandse rechtsvormen. De vraag of een Spaans FCR vergelijkbaar is met een fonds voor gemene rekening als bedoeld in artikel 2, vierde lid, Wet Vpb of een transparant fonds als bedoeld in artikel 2.14bis, zevende lid, van de Wet IB is afhankelijk van de relevante feiten en omstandigheden van het geval. De beoordeling hiervan is voorbehouden aan de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-spaans-fcr/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-spaans-fcr/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-spaans-fcr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Spanje-straat.jpg" length="80636" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie bouwterrein</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:55:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166246</guid>
+
+					<description><![CDATA[De Kennisgroep omzetbelasting heeft de vraag beantwoord of het voor de kwalificatie als bouwterrein noodzakelijk is dat het omgevingsplan bebouwing toestaat.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep omzetbelasting heeft de vraag beantwoord of het voor de kwalificatie als bouwterrein noodzakelijk is dat het omgevingsplan bebouwing toestaat.</strong></p>
+
+
+
+<p class="wp-block-paragraph">X is eigenaar van landbouwgrond die deel uitmaakt van zijn onderneming. In jaar 1 neemt de gemeente de percelen op in een omgevingsvisie, waarin de toekomstige ontwikkeling van het gebied wordt geschetst. De gronden behouden echter jarenlang hun agrarische bestemming.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 10 verkoopt X de percelen aan een projectontwikkelaar, die woningbouw wil realiseren. Hoewel de bestemming op dat moment nog agrarisch is, staat de gemeente positief tegenover de plannen, mits aan bepaalde voorwaarden wordt voldaan.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 11 dient de projectontwikkelaar een formeel ontwikkelverzoek in. De gemeente bevestigt schriftelijk haar positieve houding ten opzichte van woningbouw op deze locatie.</p>
+
+
+
+<p class="wp-block-paragraph">De levering van de grond vindt plaats in april van jaar 12; dit is ook het btw-relevante leveringsmoment. Pas in jaar 15 wijzigt de gemeente het omgevingsplan, waardoor woningbouw daadwerkelijk mogelijk wordt.</p>
+
+
+
+<p class="wp-block-paragraph">In jaar 17 wordt een projectwebsite geopend waar geïnteresseerden zich kunnen inschrijven. Op dat moment zijn er nog geen woningen in verkoop, zijn nog geen omgevingsvergunningen aangevraagd en is de daadwerkelijke bouw nog niet gestart.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is voor de kwalificatie als bouwterrein noodzakelijk dat het omgevingsplan op het moment dat de grond wordt geleverd reeds bebouwing toestaat?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, voor de kwalificatie als bouwterrein is niet noodzakelijk dat het omgevingsplan reeds op het moment van levering bebouwing toestaat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-bouwterrein/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-bouwterrein/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens het congres gaan ervaren btw‑specialisten in op actuele thema’s, zoals recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma biedt verdieping voor de btw‑specialist die zijn kennis wil bijhouden én actualiseren, en tegelijkertijd handvatten voor de generalist die zijn btw‑kennis verder wil versterken. </p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29" href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-e71a4aa0-271f-47f5-88a8-8c491d37fd29 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-bouwterrein/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Landbouw-nieuw.jpg" length="49564" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Curaçaose naamloze vennootschap</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:39:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166239</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Curaçaose naamloze vennootschap vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Curaçaose naamloze vennootschap vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Curaçaose nv is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse nv of Nederlandse bv.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-curacaose-naamloze-vennootschap/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-curacaose-naamloze-vennootschap/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-curacaose-naamloze-vennootschap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/Curacao3.jpg" length="73696" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt Schots co-invest fonds en carried interest fonds</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:01:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166243</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord of voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 een co-invest fonds en een carried interest fonds kunnen worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord of voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 een co-invest fonds en een carried interest fonds kunnen worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht. </strong></p>
+
+
+
+<p class="wp-block-paragraph">De beoordeling vindt plaats in verband met de belastingheffing ten aanzien van een tweetal Schotse Private Fund Limited Partnerships. Deze partnerships treden op als co-invest fonds en carried interest fonds binnen een groepsstructuur rond een groter investeringsfonds.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Kunnen een co-invest fonds en een carried interest fonds, beide onderdeel uitmakend van een groepsstructuur rond een groter investeringsfonds, op basis van artikel 2, vierde lid, Wet Vpb 1969worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wet op het Financieel Toezicht, en dus als fonds voor gemene rekening, mits ook aan de overige voorwaarden is voldaan?</li>
+
+
+
+<li>In het onderhavige geval gaat het om naar Schots recht georganiseerde en in Schotland gevestigde Private Fund Limited Partnerships (PFLP). Schotland maakt, als onderdeel van het Verenigd Koninkrijk, geen onderdeel meer uit van de EU. In het Fondsenbesluit 2025 is nog geen aandacht besteed aan buiten de EU gevestigde fondsen. Daarom luidt nu de vraag: kan een Schots fonds worden aangemerkt als beleggingsfonds als bedoeld in artikel 1:1 Wft?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja. Een co-invest fonds en een carried interest fonds, onderdeel uitmakend van een groepsstructuur rond een groter investeringsfonds, kunnen voor de toepassing van artikel 2, vierde lid, Wet Vpb 1969 worden aangemerkt als een beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wft. Als ook aan de overige voorwaarden wordt voldaan, kunnen deze fondsen dus worden aangemerkt als FGR.</li>
+
+
+
+<li>Ja. Schotland heeft de abi-richtlijn (Richtlijn 2011/61/EU) in de wetgeving geïmplementeerd toen het Verenigd Koninkrijk nog lid was van de Europese Unie. De Financial Conduct Authority (FCA) heeft aldaar de toezichthoudende rol die de Autoriteit Financiële Markten in Nederland. De situatie in Schotland is daardoor vergelijkbaar met de situatie in Nederland. Het is daardoor aannemelijk dat een in Schotland gevestigd fonds, met een fundmanager die beschikt over een door de FCA afgegeven beheerdersvergunning, kan worden aangemerkt als beleggingsfonds of fonds voor collectieve belegging in effecten als bedoeld in artikel 1:1 Wft.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-schots-co-invest-fonds-en-carried-interest-fonds-optredend-binnen-grotere-investeringsgroepsstructuur-zijn-aan-te-merken-als-beleggingsfondsen-als-bedoeld/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-schots-co-invest-fonds-en-carried-interest-fonds-optredend-binnen-grotere-investeringsgroepsstructuur-zijn-aan-te-merken-als-beleggingsfondsen-als-bedoeld/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-schots-co-invest-fonds-en-carried-interest-fonds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/07/glasgow.jpg" length="99542" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Barbados Limited Company</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 31 Jul 2026 04:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166241</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Barbados Limited Company vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Barbados Limited Company vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een Barbados Limited Company is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse  nv of Nederlandse bv.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-barbados-limited-company/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-barbados-limited-company/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-barbados-limited-company/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Barbados.jpg" length="50306" type="image/jpeg" />	</item>
+	</channel>
+</rss>

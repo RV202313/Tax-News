@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\portal\server.py", line 259, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\portal\server.py", line 254, in main
+    print(f"\u041f\u043e\u0440\u0442\u0430\u043b: http://{args.host}:{args.port}  (Ctrl+C \u0434\u043b\u044f \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438)")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-5: character maps to <undefined>

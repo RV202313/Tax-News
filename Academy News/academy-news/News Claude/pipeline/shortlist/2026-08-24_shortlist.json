@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-24",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 344,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/nieuwe-kritiek-op-europees-omnibusplan-dividendbelasting-dreigt-te-verdwijnen/",
+      "ecli": "",
+      "act": "",
+      "title": "Nieuwe kritiek op Europees omnibusplan: dividendbelasting dreigt te verdwijnen",
+      "summary": "",
+      "published_at": "2026-08-24",
+      "score": 9.9,
+      "topics": [
+        "nl_fiscaal",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 345,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/besluit-btw-aftrek-aangepast-nieuwe-voorwaarden-voor-vves-en-herziening-investeringsdiensten/",
+      "ecli": "",
+      "act": "",
+      "title": "Besluit btw-aftrek aangepast: nieuwe voorwaarden voor VvE’s en herziening investeringsdiensten",
+      "summary": "Het besluit btw-aftrek is aangepast. Het besluit wijzigt het Besluit Omzetbelasting. De wijzigingen zien vooral op de aftrek van btw door leden van een vereniging van eigenaren (VvE) en op de verwerking van de per 1 januari 2026 ingevoerde herzieningsregeling voor investeringsdiensten. Het wijzigingsbesluit bevat diverse technische actualisaties van het besluit over de aftrek van ... lees verder",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 346,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/",
+      "ecli": "",
+      "act": "",
+      "title": "Gevolgen Omnibusvoorstel voor het Nederlandse belastingstelsel",
+      "summary": "Het fiscale Omnibusvoorstel van de Europese Commissie kan grote gevolgen hebben voor de Nederlandse belastingopbrengsten. Het voorstel, gepubliceerd op 24 juni 2026, heeft als doel de Europese belastingregelgeving voor bedrijven te vereenvoudigen en het concurrentievermogen van de EU te vergroten.",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl",
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды",
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 347,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/dochter-van-25-en-moeder-zijn-geen-fiscale-partners-geen-aftrek-dieetkosten-moeder-voor-dochter/",
+      "ecli": "",
+      "act": "",
+      "title": "Dochter van 25 en moeder zijn geen fiscale partners: geen aftrek dieetkosten moeder voor dochter",
+      "summary": "",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 348,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-teruggaaf-verbruiksbelasting-alcoholvrije-dranken-wegens-niet-betaling-en-onbewezen-overbrenging/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen teruggaaf verbruiksbelasting alcoholvrije dranken wegens niet-betaling en onbewezen overbrenging",
+      "summary": "",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 349,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/amsterdam-verhoogt-toeristenbelasting-naar-recordhoogte-om-massatoerisme-tegen-te-gaan/",
+      "ecli": "",
+      "act": "",
+      "title": "Amsterdam verhoogt toeristenbelasting naar recordhoogte om massatoerisme tegen te gaan",
+      "summary": "",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 350,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/chinees-belastingbeleid-moet-kapitaaluitstroom-tegengaan/",
+      "ecli": "",
+      "act": "",
+      "title": "Chinees belastingbeleid moet kapitaaluitstroom tegengaan",
+      "summary": "",
+      "published_at": "2026-08-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

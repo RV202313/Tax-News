@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\vakhi\.gemini\antigravity\brain\38781fbf-94ab-4116-ba07-189e4bd4bd2b\scratch\get_shortlist_candidates.py", line 24, in <module>
+    rows = conn.execute("SELECT id, source, url, title, run_date, score, jurisdictions, topics FROM items WHERE run_date >= '2026-07-28' ORDER BY score DESC").fetchall()
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: jurisdictions

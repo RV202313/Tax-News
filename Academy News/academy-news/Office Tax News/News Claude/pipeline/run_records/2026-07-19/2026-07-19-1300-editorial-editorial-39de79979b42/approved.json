@@ -1,0 +1,281 @@
+{
+  "date": "2026-07-19",
+  "release": "2026-07-19-1300-editorial",
+  "items": [
+    {
+      "slug": "2026-07-19-uk-cbam-draft-notice",
+      "title": "HMRC раскрыла проект обязательных правил по CBAM: регистрация, отчётность и исправления через онлайн-сервис",
+      "caption": "HMRC 13 июля 2026 года опубликовала проект уведомления с обязательными правилами по механизму углеродной корректировки на границе (CBAM). В документе закреплены цифровая регистрация и снятие с регистрации, подача деклараций и исправление ошибок через сервис CBAM, а для первого годового отчёта за 2027 год отдельно требуется указать квартал ввоза. Там же описаны допустимые способы оплаты и требования к проверяющим организациям по международным стандартам ISO.\n\nПочему это важно: импортёрам товаров, подпадающих под CBAM, уже сейчас нужно выстраивать процесс регистрации, сбора данных и исправления ошибок, иначе к старту режима в 2027 году возрастёт риск сбоев в отчётности и расчёте платежа.\n\nИсточник: https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document/the-carbon-border-adjustment-mechanism-force-of-law-notice-draft\n\n#Великобритания #CBAM #углеродноерегулирование #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CBAM,углеродное регулирование,импорт,отчётность",
+      "jurisdictions": "Великобритания",
+      "act": "The Carbon Border Adjustment Mechanism Force of Law Notice (Draft), published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document/the-carbon-border-adjustment-mechanism-force-of-law-notice-draft"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK CBAM Rules",
+        "color_a": [22, 62, 120],
+        "color_b": [116, 144, 77]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "regulation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "HMRC CBAM draft notice checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-cbam-boundaries",
+      "title": "HMRC определила границы выбросов для CBAM-товаров и товаров-предшественников",
+      "caption": "HMRC 13 июля 2026 года опубликовала документ версии 1.00 о границах выбросов для британского CBAM. В нём описано, какие прямые выбросы и какие производственные процессы относятся к конкретным товарам, как учитывать товары-предшественники в составе сложного товара и какие данные должен получить плательщик от операторов производственных установок. Эти же границы применяются и для фактического мониторинга выбросов, и для расчёта на базе стандартных значений.\n\nПочему это важно: импортёрам и их поставщикам придётся заранее выстроить поток производственных данных по всей цепочке, иначе подтвердить фактические выбросы для расчёта CBAM будет трудно или невозможно.\n\nИсточник: https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document/carbon-border-adjustment-mechanism-system-boundaries-document-version-100\n\n#Великобритания #CBAM #выбросы #импорт #цепочкипоставок #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CBAM,выбросы,импорт,цепочки поставок",
+      "jurisdictions": "Великобритания",
+      "act": "Carbon Border Adjustment Mechanism: System boundaries document, version 1.00, published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document/carbon-border-adjustment-mechanism-system-boundaries-document-version-100"
+        }
+      ],
+      "image_spec": {
+        "badge": "CBAM Emissions",
+        "color_a": [32, 84, 92],
+        "color_b": [155, 122, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "HMRC CBAM system boundaries checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-india-codes-n954-9001",
+      "title": "HMRC обновила коды N954 и 9001 для применения торгового соглашения с Индией с 15 июля",
+      "caption": "HMRC 13 июля 2026 года обновила два справочника кодов документов в системе CDS. Союзный код документа N954 и национальный код 9001 теперь прямо отражают применение торгового соглашения между Великобританией и Индией с 15 июля 2026 года. Это означает, что участники торговли должны сверять, какие подтверждающие документы и реквизиты нужно заявлять в декларации для работы по новому преференциальному режиму.\n\nПочему это важно: если коды и подтверждающие документы будут заявлены неверно, компания рискует потерять тарифную льготу или столкнуться с задержкой выпуска товара.\n\nИсточники: https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds ; https://www.gov.uk/guidance/data-element-23-documents-and-other-reference-codes-national-of-the-customs-declaration-service-cds\n\n#Великобритания #Индия #таможня #льготы #декларирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,льготы,декларирование,торговые соглашения",
+      "jurisdictions": "Великобритания,Индия",
+      "act": "HMRC Data Element 2/3 updates for document codes N954 and 9001, 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC Union codes",
+          "url": "https://www.gov.uk/government/publications/data-element-23-documents-and-other-reference-codes-union-of-the-customs-declaration-service-cds"
+        },
+        {
+          "label": "GOV.UK / HMRC National codes",
+          "url": "https://www.gov.uk/guidance/data-element-23-documents-and-other-reference-codes-national-of-the-customs-declaration-service-cds"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK-IN Codes",
+        "color_a": [29, 60, 120],
+        "color_b": [182, 126, 46]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "HMRC DE 2/3 updates checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-procedure31-eu-eori",
+      "title": "HMRC разрешила указывать EU EORI в части полей серии кодов процедуры 31",
+      "caption": "HMRC 13 июля 2026 года обновила приложение с экспортными кодами процедуры и прямо указала, что с 4 июля в серии кодов процедуры 31 можно заявлять EU EORI в отдельных элементах данных. Речь идёт о реэкспорте или отправке неевропейских товаров после специальных таможенных процедур, где точность идентификаторов критична для корректного оформления.\n\nПочему это важно: компаниям, которые закрывают специальные процедуры через британскую декларацию, нужно немедленно обновить шаблоны заполнения и программные настройки, иначе возрастёт риск ошибок в экспортном сообщении.\n\nИсточник: https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes\n\n#Великобритания #EORI #таможня #экспорт #декларирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,экспорт,декларирование,EORI",
+      "jurisdictions": "Великобритания,ЕС",
+      "act": "Appendix 1: DE 1/10: Requested and Previous Procedure Codes, update 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/appendix-1-de-110-requested-and-previous-procedure-codes"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU EORI",
+        "color_a": [17, 66, 118],
+        "color_b": [133, 151, 64]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "HMRC procedure code 31 update checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-etsf-marchwood-code-removed",
+      "title": "HMRC убрала код ETSF для площадки Тэбс Лоджистикс в Марчвуде",
+      "caption": "HMRC 13 июля 2026 года обновила перечень внешних складов временного хранения для поля 5/23 декларации и исключила код GBAUTLQSOUTAL1 для площадки Тэбс Лоджистикс в Марчвуде. Это точечное изменение в приложении 16F, но оно сразу влияет на корректность указания места, где товар может быть предъявлен для контроля.\n\nПочему это важно: брокерам, перевозчикам и импортёрам нужно немедленно убрать старый код из шаблонов и внутренних справочников, иначе декларация может уйти с неверной локацией товара и вызвать лишние вопросы на границе.\n\nИсточник: https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service\n\n#Великобритания #ETSF #таможня #импорт #склады #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,импорт,склады,логистика",
+      "jurisdictions": "Великобритания",
+      "act": "External temporary storage facilities codes for Data Element 5/23, update 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/external-temporary-storage-facilities-codes-for-data-element-523-of-the-customs-declaration-service"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK ETSF",
+        "color_a": [35, 74, 109],
+        "color_b": [171, 116, 67]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "list_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "HMRC ETSF code update checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-duty-suspensions-v36",
+      "title": "HMRC и Казначейство обновили перечень приостановок ввозных пошлин с вводом 5 августа",
+      "caption": "HMRC и Казначейство Великобритании 15 июля 2026 года добавили в справочный пакет версию 3.6 документа о приостановках ввозных пошлин. Сама версия датирована 7 июля 2026 года и должна вступить в силу 5 августа 2026 года. Речь идёт о рабочем наборе ссылок и таблиц, на которые опираются компании при проверке права на временную приостановку ввозной пошлины.\n\nПочему это важно: импортёрам и консультантам нужно заранее пересмотреть товарные позиции и расчёт себестоимости, чтобы не пропустить новую или изменённую льготу при поставках после 5 августа.\n\nИсточник: https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020\n\n#Великобритания #таможня #ввозныепошлины #льготы #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,ввозные пошлины,льготы,импорт",
+      "jurisdictions": "Великобритания",
+      "act": "Suspensions of Import Duty Rates, version 3.6, dated 07.07.2026, entry into force 05.08.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC and HM Treasury",
+          "url": "https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-suspension-of-import-duty-rates-eu-exit-regulations-2020"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Duty Relief",
+        "color_a": [22, 79, 107],
+        "color_b": [149, 141, 54]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "UK duty suspension reference update checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-ch-enhanced-fta-summary",
+      "title": "Британия опубликовала итог по расширенному соглашению со Швейцарией: безбумажная торговля и упрощение происхождения",
+      "caption": "Департамент по бизнесу и торговле Великобритании 13 июля 2026 года опубликовал итоговую справку по расширенному соглашению о свободной торговле со Швейцарией. В ней отдельно выделены безбумажные торговые процессы, упрощение таможенных и происхождённых деклараций, а также обязательства по более прозрачным и предсказуемым таможенным процедурам на границе.\n\nПочему это важно: для групп с потоками Великобритания-Швейцария это сигнал заранее готовить электронный документооборот, пересматривать правила подтверждения происхождения и убирать лишние барьеры в трансграничных поставках.\n\nИсточник: https://www.gov.uk/government/publications/uk-switzerland-enhanced-free-trade-agreement-conclusion-summary/uk-switzerland-enhanced-free-trade-agreement-conclusion-summary\n\n#Великобритания #Швейцария #ССТ #таможня #происхождение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "торговые соглашения,таможня,происхождение,документооборот",
+      "jurisdictions": "Великобритания,Швейцария",
+      "act": "UK-Switzerland enhanced Free Trade Agreement: conclusion summary, published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / Department for Business and Trade",
+          "url": "https://www.gov.uk/government/publications/uk-switzerland-enhanced-free-trade-agreement-conclusion-summary/uk-switzerland-enhanced-free-trade-agreement-conclusion-summary"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK CH FTA",
+        "color_a": [30, 66, 122],
+        "color_b": [177, 83, 72]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "UK-Switzerland FTA summary checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-india-chapter2-in-force",
+      "title": "Глава о торговле товарами в соглашении Великобритания-Индия вступила в силу 15 июля",
+      "caption": "Правительство Великобритании 15 июля 2026 года обновило официальную страницу главы о торговле товарами по соглашению с Индией и прямо указало, что соглашение вступило в силу в этот день. Глава охватывает тарифные обязательства, таможенную стоимость, импортное лицензирование, режим для товаров после ремонта или переработки и обмен данными об использовании преференций.\n\nПочему это важно: импортёрам и экспортёрам пора переходить от чтения проекта к реальному запуску тарифных льгот, проверке условий для ремонта и переработки и настройке доказательств для преференциального режима.\n\nИсточник: https://www.gov.uk/government/publications/uk-india-ceta-chapter-2-trade-in-goods\n\n#Великобритания #Индия #ССТ #таможня #тарифы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "торговые соглашения,таможня,тарифы,преференции",
+      "jurisdictions": "Великобритания,Индия",
+      "act": "UK-India CETA Chapter 2: Trade in Goods, updated 15.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / Department for Business and Trade",
+          "url": "https://www.gov.uk/government/publications/uk-india-ceta-chapter-2-trade-in-goods"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK IN Goods",
+        "color_a": [38, 68, 128],
+        "color_b": [190, 118, 54]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "international_treaty",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "UK-India goods chapter checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-india-conclusion-summary",
+      "title": "Британия обновила итоговую справку по сделке с Индией: выпуск товаров обещают ускорять до 48 часов",
+      "caption": "Департамент по бизнесу и торговле Великобритании 15 июля 2026 года обновил итоговую справку по торговой сделке с Индией. В разделе о таможне указано, что процедуры должны быть прозрачными и предсказуемыми, а товары при выполнении всех требований стороны будут стремиться выпускать как можно быстрее, ориентируясь на 48 часов, если физический досмотр не нужен. Также подчёркнуты отсрочка уплаты пошлин для допущенных участников и сокращение бумажных документов при наличии электронных копий.\n\nПочему это важно: для компаний, торгующих с Индией, это практический ориентир по будущему ускорению границы, электронному документообороту и настройке статуса для упрощённых процедур.\n\nИсточник: https://www.gov.uk/government/publications/uk-india-trade-deal-conclusion-summary/uk-india-trade-deal-conclusion-summary\n\n#Великобритания #Индия #таможня #торговыесоглашения #электронныедокументы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "торговые соглашения,таможня,электронные документы,упрощения",
+      "jurisdictions": "Великобритания,Индия",
+      "act": "UK-India trade deal: conclusion agreement summary, updated 15.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / Department for Business and Trade",
+          "url": "https://www.gov.uk/government/publications/uk-india-trade-deal-conclusion-summary/uk-india-trade-deal-conclusion-summary"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK IN Customs",
+        "color_a": [28, 76, 119],
+        "color_b": [163, 109, 67]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "UK-India conclusion summary checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-nl-bpm-proceskosten-1246",
+      "title": "Верховный суд Нидерландов не дал автоматически урезать процессуальные расходы в BPM-споре",
+      "caption": "Верховный суд Нидерландов 17 июля 2026 года по делу ECLI:NL:HR:2026:1246 рассмотрел спор по налогу на легковые автомобили и мотоциклы (BPM) и модели возмещения процессуальных расходов. Суд подтвердил, что одной лишь ссылки на дорогую модель представительства недостаточно для повышенной компенсации сверх обычного порядка, но при этом признал кассационную жалобу обоснованной, направил спор на новое рассмотрение и присудил 421 евро расходов по кассации.\n\nПочему это важно: импортёрам автомобилей из других стран ЕС и их представителям в BPM-спорах нужно отдельно доказывать особые обстоятельства, если они хотят взыскать расходы выше стандартного уровня.\n\nСудебный материал. Этот обзор не является налоговой консультацией.\n\nИсточник: https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1246&return=DOC\n\n#Нидерланды #ЕС #BPM #импорт #суды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "BPM,импорт,процессуальные расходы,суды",
+      "jurisdictions": "Нидерланды,ЕС",
+      "act": "ECLI:NL:HR:2026:1246, 17.07.2026",
+      "sources": [
+        {
+          "label": "Rechtspraak",
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI%3ANL%3AHR%3A2026%3A1246&return=DOC"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL BPM Costs",
+        "color_a": [25, 72, 129],
+        "color_b": [170, 93, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "court_decision",
+      "court": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Rechtspraak decision ECLI:NL:HR:2026:1246 checked 2026-07-19"
+      }
+    }
+  ]
+}

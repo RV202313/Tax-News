@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-07",
+  "release": "2026-09-07_1700_editorial",
+  "items": [
+    {
+      "slug": "2026-09-07-nl-taxence-box3-loss-heffingskorting",
+      "title": "Нидерланды: Преюдициальный вопрос в Верховный Суд о потере налоговых скидок в Box 3",
+      "caption": "Апелляционный суд направил преюдициальный вопрос в Верховный Суд Нидерландов о том, нарушает ли национальный порядок зачета иностранного налога у источника принцип свободного движения капитала ЕС. Действующая последовательность зачета приводит к потере личных налоговых скидок при инвестициях в иностранные акции.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/\n\nПочему это важно: Инвесторы с международными портфелями ценных бумаг в Нидерландах могут получить право на перерасчет налоговых обязательств и сохранение льгот.\n\n#Нидерланды #ВерховныйСуд #НалогНаКапитал #ЕвропейскоеПраво #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / налог на капитал",
+      "jurisdictions": "Нидерланды",
+      "act": "Запрос Апелляционного суда в Верховный Суд Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/prejudiciele-vraag-hr-over-verlies-heffingskorting-box-3/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Taxence news verification"
+      }
+    },
+    {
+      "slug": "2026-09-07-nl-taxlive-parking-tax-costs-limit",
+      "title": "Нидерланды: Разъяснен лимит возмещаемых расходов по спорам о муниципальном налоге",
+      "caption": "Налоговый суд Нидерландов вынес решение по делу о доначислении муниципального налога на парковку. Суд указал, что оспариваемые статьи судебных издержек подлежат возмещению строго в пределах установленного законом лимита расходов на правовую помощь.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/betwiste-kostenposten-naheffingsaanslag-parkeerbelasting-vallen-binnen-verhaalbarekostenlimiet/\n\nПочему это важно: Решение подтверждает жесткие рамки компенсации судебных издержек при оспаривании местных налоговых решений.\n\n#Нидерланды #СудебнаяПрактика #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / муниципальные налоги",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Налогового суда Нидерландов по парковочному налогу",
+      "court": "Налоговый суд Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/betwiste-kostenposten-naheffingsaanslag-parkeerbelasting-vallen-binnen-verhaalbarekostenlimiet/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "TaxLive decision verification"
+      }
+    },
+    {
+      "slug": "2026-09-07-iceland-mof-tax-law-amendments-consultation",
+      "title": "Исландия: Минфин вынес на обсуждение законопроект о вычете процентов и налоговых решениях",
+      "caption": "Министерство финансов и экономических дел Исландии 4 сентября 2026 года вынесло на публичные консультации законопроект о поправках в налоговое законодательство с вступлением в силу с 1 января 2027 года. Проект уточняет правила вычета процентов, порядок выдачи предварительных налоговых решений и акцизы.\n\nИсточник: https://regfollower.com/iceland-mof-consults-tax-law-changes-on-interest-deductions-charities-rulings-and-nicotine-products/\n\nПочему это важно: Корпоративным налогоплательщикам в Исландии необходимо учитывать планируемые ограничения по процентным вычетам при планировании финансирования.\n\n#Исландия #Минфин #ВычетПроцентов #НалоговыеРешения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "законодательство / вычет процентов",
+      "jurisdictions": "Исландия",
+      "act": "Законопроект Минфина Исландии от 4 сентября 2026 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/iceland-mof-consults-tax-law-changes-on-interest-deductions-charities-rulings-and-nicotine-products/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "MoF Iceland consultation"
+      }
+    },
+    {
+      "slug": "2026-09-07-brazil-rfb-wht-settlement-program-nonresidents",
+      "title": "Бразилия: Налоговая служба запустила программу урегулирования споров по налогу у источника",
+      "caption": "Федеральная налоговая служба Бразилии (RFB) объявила о старте специальной программы урегулирования налоговых споров по налогу у источника (WHT) для иностранных инвесторов. Программа позволяет урегулировать задолженность со скидками по штрафам и процентам.\n\nИсточник: https://regfollower.com/brazil-rfb-launch-withholding-tax-settlement-program-for-non-resident-investor-disputes/\n\nПочему это важно: Иностранные инвесторы в бразильские активы получают возможность закрыть давние налоговые споры на льготных условиях.\n\n#Бразилия #НалогУИсточник #ИностранныеИнвестиции #НалоговыеСпоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / налог у источника",
+      "jurisdictions": "Бразилия",
+      "act": "Программа урегулирования RFB Бразилии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/brazil-rfb-launch-withholding-tax-settlement-program-for-non-resident-investor-disputes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "RFB Brazil announcement"
+      }
+    },
+    {
+      "slug": "2026-09-07-lithuania-vmi-updated-tax-treaty-relief-forms",
+      "title": "Литва: Государственная налоговая инспекция обновила формы льгот по соглашениям СИДН",
+      "caption": "Государственная налоговая инспекция Литвы (VMI) утвердила обновленные формы заявлений на освобождение от налога и снижение ставок налога у источника по международным налоговым соглашениям. Обновление упрощает подтверждение статуса налогового резидента.\n\nИсточник: https://regfollower.com/lithuania-vmi-updates-treaty-tax-relief-forms/\n\nПочему это важно: Международным компаниям, выплачивающим доходы из Литвы, необходимо использовать новые образцы сертификатов и заявлений.\n\n#Литва #СИДН #НалогУИсточника #НалоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения / налоговые формы",
+      "jurisdictions": "Литва",
+      "act": "Приказ ГНИ Литвы (VMI) об обновлении форм",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/lithuania-vmi-updates-treaty-tax-relief-forms/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "VMI Lithuania release"
+      }
+    },
+    {
+      "slug": "2026-09-07-russia-expands-tax-monitoring-successors-september",
+      "title": "Россия: С сентября 2026 года расширен доступ правопреемников к налоговому мониторингу",
+      "caption": "С сентября 2026 года вступают в силу нормативные изменения, расширяющие право реорганизуемых организаций и их правопреемников на переход на режим налогового мониторинга. Упрощен порядок передачи налоговых данных через информационные системы.\n\nИсточник: https://regfollower.com/russia-expands-tax-monitoring-access-for-legal-successors-from-september-2026/\n\nПочему это важно: Крупные группы компаний при реструктуризации в РФ смогут сохранять непрерывность налогового контроля без повторных проверок.\n\n#Россия #НалоговыйМониторинг #Реорганизация #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль / налоговый мониторинг",
+      "jurisdictions": "Россия",
+      "act": "Федеральный закон о поправках в Налоговый кодекс РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/russia-expands-tax-monitoring-access-for-legal-successors-from-september-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Tax monitoring amendment verification"
+      }
+    },
+    {
+      "slug": "2026-09-07-hong-kong-slovenia-sign-dta-agreement",
+      "title": "Гонконг и Словения: Подписано двустороннее соглашение об избежании двойного налогообложения",
+      "caption": "Правительство Специального административного района Гонконг и Правительство Словении подписали двустороннее соглашение об избежании двойного налогообложения (СИДН). Соглашение устанавливает предельные ставки налога у источника на дивиденды, проценты и роялти.\n\nИсточник: https://regfollower.com/hong-kong-slovenia-sign-income-tax-agreement/\n\nПочему это важно: Бизнес получает сниженные ставки удержания налогов и юридическую защиту инвестиций между Гонконгом и ЕС.\n\n#Гонконг #Словения #СИДН #МеждународноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения / СИДН",
+      "jurisdictions": "Гонконг, Словения",
+      "act": "Соглашение об избежании двойного налогообложения между Гонконгом и Словенией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/hong-kong-slovenia-sign-income-tax-agreement/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Hong Kong Slovenia DTA signing"
+      }
+    },
+    {
+      "slug": "2026-09-07-singapore-iras-clarifies-loan-waiver-taxation",
+      "title": "Сингапур: Налоговое управление (IRAS) разъяснило порядок налогообложения прощения долга",
+      "caption": "Налоговое управление Сингапура (IRAS) выпустило руководство по налоговому учету сумм при прощении коммерческих займов между связанными компаниями. Ведомство уточнило условия, при которых прощенный долг признается налогооблагаемым доходом.\n\nИсточник: https://regfollower.com/singapore-iras-clarifies-tax-treatment-of-loan-waiver/\n\nПочему это важно: Холдинговым структурам в Сингапуре следует аккуратно оформлять соглашения о прощении долга во избежание начисления налога на прибыль.\n\n#Сингапур #ПрощениеДолга #НалогНаПрибыль #ТрансфертноеЦенообразование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / прощение долга",
+      "jurisdictions": "Сингапур",
+      "act": "Разъяснение Налогового управления Сингапура (IRAS)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/singapore-iras-clarifies-tax-treatment-of-loan-waiver/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "IRAS Singapore guidance"
+      }
+    },
+    {
+      "slug": "2026-09-07-brazil-senate-approves-redata-tax-incentives",
+      "title": "Бразилия: Сенат одобрил программу налоговых льгот REDATA для дата-центров",
+      "caption": "Сенат Бразилии утвердил законопроект REDATA, вводящий специальные налоговые льготы по импортным пошлинам и федеральным налогам для компаний, инвестирующих в инфраструктуру центров обработки данных и технологические кластеры.\n\nИсточник: https://regfollower.com/brazil-senate-approves-redata-tax-incentives-for-data-centre-investment/\n\nПочему это важно: IT-компании и инвесторы в инфраструктуру ЦОД смогут существенно сократить капитальные затраты в Бразилии.\n\n#Бразилия #НалоговыеЛьготы #REDATA #Инвестиции #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы / инвестиции",
+      "jurisdictions": "Бразилия",
+      "act": "Законопроект Сената Бразилии REDATA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/brazil-senate-approves-redata-tax-incentives-for-data-centre-investment/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Brazil Senate approval"
+      }
+    },
+    {
+      "slug": "2026-09-07-hong-kong-ird-etax-system-overhaul",
+      "title": "Гонконг: Налоговое управление пересматривает систему электронного декларирования",
+      "caption": "Налоговое управление Гонконга (IRD) объявило о масштабной модернизации онлайн-портала налоговых услуг после расследования омбудсмена по фактам сбоев при подаче деклараций. Вводятся дополнительные гарантии приема отчетности.\n\nИсточник: https://regfollower.com/hong-kong-ird-overhauls-e-tax-system-after-ombudsman-investigation-into-failed-submissions/\n\nПочему это важно: Налогоплательщики в Гонконге получат более надежный механизм подтверждения своевременной подачи деклараций.\n\n#Гонконг #НалоговоеАдминистрирование #ЭлектроннаяОтчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / электронная отчетность",
+      "jurisdictions": "Гонконг",
+      "act": "Заявление Налогового управления Гонконга (IRD)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/hong-kong-ird-overhauls-e-tax-system-after-ombudsman-investigation-into-failed-submissions/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "IRD Hong Kong notice"
+      }
+    }
+  ]
+}

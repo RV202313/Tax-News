@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 05 Aug 2026 06:49:47 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Navordering mag ondanks ontbreken uitnodiging aangifte</title>
+		<link>https://www.taxence.nl/nieuws/navordering-mag-ondanks-ontbreken-uitnodiging-aangifte/</link>
+					<comments>https://www.taxence.nl/nieuws/navordering-mag-ondanks-ontbreken-uitnodiging-aangifte/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 05 Aug 2026 06:49:21 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166404</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat de inspecteur bevoegd is om over 2016 na te vorderen, ook al is de man niet uitgenodigd tot het doen van aangifte en heeft hij die aangifte niet ingediend. Op de inspecteur rust in dit geval geen onderzoeksplicht. Een man woont in Zweden en is sinds 2010 eigenaar van een aantal<a class="read-more" href="https://www.taxence.nl/nieuws/navordering-mag-ondanks-ontbreken-uitnodiging-aangifte/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat de inspecteur bevoegd is om over 2016 na te vorderen, ook al is de man niet uitgenodigd tot het doen van aangifte en heeft hij die aangifte niet ingediend. Op de inspecteur rust in dit geval geen onderzoeksplicht.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man woont in Zweden en is sinds 2010 eigenaar van een aantal in Nederland gelegen onroerende zaken. Door die panden is hij van 2011 tot en met 2016 buitenlands belastingplichtig voor de IB/PVV. In 2017 verhuist hij naar Nederland. De inspecteur nodigt hem over de jaren 2010 tot en met 2016 niet uit om aangifte te doen. Toch dient de man over vrijwel al die jaren spontaan een aangifte in, behalve over 2016. Die aangifte staat klaar in de software, maar wordt per abuis niet verstuurd. De inspecteur legt daarom eind 2021 een navorderingsaanslag IB/PVV 2016 op. In geschil is of de inspecteur bevoegd is na te vorderen en of hij een onderzoeksplicht had.</p>
+
+
+
+<h2 class="wp-block-heading">Geen onderzoeksplicht bij navordering</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof toetst of de inspecteur beschikt over een nieuw feit. Dat beoordeelt het hof naar het moment waarop uiterlijk een primitieve aanslag kon worden opgelegd: 31 december 2019. Het hof merkt het bezit van de Nederlandse onroerende zaken op 1 januari 2016 aan als nieuw feit. De man betoogt dat zijn aanmelding voor de becon-regeling geldt als een verzoek om een uitnodiging tot het doen van aangifte, waardoor de inspecteur een onderzoeksplicht heeft. Het hof volgt dit niet. Aanmelding voor de becon-regeling is uitsluitend een verzoek om uitstel, niet een verzoek om een uitnodiging tot het doen van aangifte. De man kiest er steeds voor spontaan aangifte te doen zonder een uitnodiging te vragen. Het risico dat de aangifte niet wordt verzonden, komt voor zijn rekening. De inspecteur hoeft dan geen nader onderzoek te doen.</p>
+
+
+
+<h2 class="wp-block-heading">Geen toezegging, aanslag verlaagd</h2>
+
+
+
+<p class="wp-block-paragraph">De man doet subsidiair een beroep op het vertrouwensbeginsel. Volgens hem heeft de aanslagregelaar tijdens een telefoongesprek in januari 2021 toegezegd dat over 2016 niet zou worden nagevorderd. Het hof acht die toezegging niet aannemelijk. De handgeschreven notitie en de e-mail van januari 2021 leggen alleen summier de afspraken over de IB/PVV 2017 vast; over 2016 staat daarin niets. Het principaal hoger beroep van de inspecteur is gegrond en het incidenteel hoger beroep van de man over de proceskosten ongegrond. Het hof vernietigt de uitspraak van de rechtbank. Het hof vermindert wel de navorderingsaanslag nog omdat partijen het er over eens zijn dat deze te hoog is. De eerder toegekende integrale kostenvergoeding voor de bezwaarfase blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-8?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 8 – Algemene wet inzake rijksbelastingen | NDFR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-6?tab=commentaar" target="_blank" rel="noreferrer noopener">Art. 6 – Algemene wet inzake rijksbelastingen | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_4496#ECLI_NL_GHARL_2026_4496_uitspraak" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_4496#ECLI_NL_GHARL_2026_4496_uitspraak" target="_blank" rel="noreferrer noopener">Hof Arnhem-Leeuwarden 7 juli 2026 (gepubliceerd 30 juli 2026), ECLI:NL:GHARL:2026:4496, 24/1583</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/navordering-mag-ondanks-ontbreken-uitnodiging-aangifte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Belastingdienst-online.jpg" length="56889" type="image/jpeg" />	</item>
+		<item>
+		<title>Invorderingskosten terecht ondanks bezwaar over 2017</title>
+		<link>https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/</link>
+					<comments>https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 05:02:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166338</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat de ontvanger de invorderingskosten terecht in rekening heeft gebracht. De man had geen uitstel van betaling voor de voorlopige aanslagen IB/PVV 2023 en 2024, ondanks zijn bezwaar tegen de aanslag over 2017. Een man die in de Filipijnen woont, maakt bezwaar tegen zijn aanslag IB/PVV 2017 over box 3 en schrijft<a class="read-more" href="https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat de ontvanger de invorderingskosten terecht in rekening heeft gebracht. De man had geen uitstel van betaling voor de voorlopige aanslagen IB/PVV 2023 en 2024, ondanks zijn bezwaar tegen de aanslag over 2017.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man die in de Filipijnen woont, maakt bezwaar tegen zijn aanslag IB/PVV 2017 over box 3 en schrijft daarbij dat hij ook voor alle volgende jaren bezwaar maakt. De inspecteur bevestigt dat hij uitstel van betaling krijgt en laat later weten dat zijn bezwaar meeloopt in de massaalbezwaarplus-procedure. Beide berichten gaan over het jaar 2017. Ondertussen legt de inspecteur voorlopige aanslagen IB/PVV op over 2024 (€ 3.739) en 2023 (€ 1.242). De man betaalt deze niet op tijd en verzoekt ook niet om uitstel. De ontvanger stuurt daarom aanmaningen en vaardigt dwangbevelen uit, waarbij hij aanmanings- en betekeningskosten in rekening brengt. De man en de ontvanger verschillen van mening over de vraag of de ontvanger deze invorderingskosten terecht in rekening heeft gebracht.</p>
+
+
+
+<h2 class="wp-block-heading">Geen uitstel voor aanslagen 2023 en 2024</h2>
+
+
+
+<p class="wp-block-paragraph">Rechtbank Gelderland oordeelt dat de ontvanger terecht invorderingskosten in rekening heeft gebracht. De man heeft de voorlopige aanslagen IB/PVV 2023 en 2024 niet op tijd betaald en heeft ook niet om uitstel van betaling verzocht. Daarom zijn de aanmanings- en dwangbevelkosten terecht opgelegd. Dat de man bezwaar had gemaakt tegen de aanslag over 2017 en daarbij ook bezwaar wilde maken voor alle volgende jaren, verandert dat niet. Tegen voorlopige aanslagen kan namelijk geen bezwaar worden gemaakt. Bovendien blijkt uit de brieven van de inspecteur en de website van de Belastingdienst duidelijk dat het uitstel van betaling alleen gold voor de belastingjaren 2017 tot en met 2020. De man had dus moeten weten dat hij voor de aanslagen over 2023 en 2024 geen uitstel had, ook zonder dat de inspecteur hem daar apart op wees.</p>
+
+
+
+<h2 class="wp-block-heading">Geen vertrouwen door Belastingtelefoon</h2>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het vertrouwensbeginsel slaagt niet. De man stelt dat een medewerker van de Belastingtelefoon heeft bevestigd dat hij uitstel van betaling had en niet hoefde te reageren op de aanmaningen en dwangbevelen. De rechtbank vindt dat de man niet aannemelijk maakt dat er een ongeclausuleerde toezegging is gedaan waaraan hij vertrouwen kon ontlenen. Zijn verklaring over het telefoongesprek is namelijk veel te vaag: hij weet niet meer met wie hij sprak of waar het gesprek precies over ging. Daarbij heeft de ontvanger onderzoek gedaan en alleen een registratie gevonden van een telefoongesprek op 19 november 2024, dus ná het opleggen van de invorderingskosten. De beroepen zijn ongegrond en de invorderingskosten blijven in stand. De man krijgt het griffierecht niet terug en krijgt ook geen vergoeding van zijn proceskosten.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0004770-11?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 11 – Invorderingswet 1990 | NDFR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0004770-12?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 12 – Invorderingswet 1990 | NDFR</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.5?tab=commentaar">Artikel 9.5 – Wet inkomstenbelasting 2001 | NDFR</a> <a href="https://www.ndfr.nl/content/BWBR0011353-20260221#BWBR0011353-20260221_7744844"></a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-6:10?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 6.10 – Algemene wet bestuursrecht | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_5958" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_5958" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland 22 juli 2026 (gepubliceerd 28 juli 2026), ECLI:NL:RBGEL:2026:5958, ARN 25/1277 en 25/5835</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/02/Filipijnen.jpg" length="81887" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt bijgeschreven vergoeding cumulatief preferente aandelen en financieringstoets lucratief belang</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-bijgeschreven-vergoeding-cumulatief-preferente-aandelen-en-financieringstoets-lucratief-belang/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-bijgeschreven-vergoeding-cumulatief-preferente-aandelen-en-financieringstoets-lucratief-belang/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 04:59:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166346</guid>
+
+					<description><![CDATA[De kennisgroep ROW heeft de vraag beantwoord of de bijgeschreven vergoeding op de cumulatief preferente aandelen meetelt voor de financieringstoets van artikel 3.92b, vierde lid, Wet IB 2001.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De kennisgroep ROW heeft de vraag beantwoord of de bijgeschreven vergoeding op de cumulatief preferente aandelen meetelt voor de financieringstoets van artikel 3.92b, vierde lid, Wet IB 2001.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het geplaatste kapitaal van X Holding BV bestaat uit gewone aandelen en cumulatief preferente aandelen.</p>
+
+
+
+<p class="wp-block-paragraph">Het management van Target BV participeert via STAK X in X Holding BV, de houdstermaatschappij boven Target BV. De participatie van het management wijkt af van die van de overige aandeelhouders doordat STAK X relatief meer gewone aandelen (achtergesteld en risicodragend) houdt en relatief minder cumulatief preferente aandelen ten opzichte van de investeerder A Investment BV.</p>
+
+
+
+<p class="wp-block-paragraph">De vennootschappelijke structuur (voor zover relevant voor het standpunt) ziet er als volgt uit:</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://kennisgroepen.belastingdienst.nl/wp-content/uploads/2026/08/image-1.png" alt="A Investment BV houdt via X Holding BV Target BV. Het management van Target BV participeert via STAK X in X Holding BV." class="wp-image-22054"/></figure>
+
+
+
+<p class="wp-block-paragraph">De voordelen die door het management worden behaald met de via Stak X gehouden aandelen zijn mede beoogd als beloning als bedoeld in artikel 3.92b, eerste lid, onderdeel a, Wet IB 2001.</p>
+
+
+
+<p class="wp-block-paragraph">Ten aanzien van de financieringstoets van artikel 3.92b Wet IB 2001 is het volgende relevant. Bij aanvang vertegenwoordigen de gewone aandelen net meer dan 10% van het totale geplaatste aandelenkapitaal, zodat op dat moment niet wordt voldaan aan de in artikel 3.92b, tweede lid, Wet IB 2001 bedoelde 10/90-verhouding.</p>
+
+
+
+<p class="wp-block-paragraph">De cumulatief preferente aandelen geven recht op een jaarlijkse vergoeding van 12%. Deze vergoeding wordt niet uitgekeerd, maar jaarlijks bijgeschreven bij het cumulatief preferente aandelenkapitaal en gaat vervolgens meedelen in toekomstige vergoedingen. Een zakelijke vergoeding op de cumulatief preferente aandelen zou hoger zijn.</p>
+
+
+
+<p class="wp-block-paragraph">Na jaar 1 en bijschrijving van het dividend op de cumulatief preferente aandelen van 12% wordt het geplaatst kapitaal van de gewone aandelen minder dan 10% van het totaal geplaatste aandelenkapitaal.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Telt de bijgeschreven vergoeding op de cumulatief preferente aandelen mee voor de financieringstoets van artikel 3.92b, vierde lid, Wet IB 2001?</li>
+
+
+
+<li>Indien het antwoord op vraag 1 ja is, moet dan voor het bepalen van de verhouding tussen de gewone aandelen en de cumulatief preferente aandelen ook de waardeontwikkeling van de gewone aandelen worden meegenomen?</li>
+
+
+
+<li>Als de vergoeding op de cumulatief preferente aandelen onzakelijk is, moet dan voor de bepaling van de verhouding worden uitgegaan van de economische waarde van de cumulatief preferente aandelen, herberekend op basis van een zakelijke vergoeding?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja. De bijgeschreven vergoeding op de cumulatief preferente aandelen telt mee voor het bepalen van de jaarlijkse omvang van de vergoeding en fungeert daarmee feitelijk als gestort kapitaal. Onder deze omstandigheden telt de bijgeschreven vergoeding mee voor het bepalen van de verhouding tussen de gewone aandelen en de cumulatief preferente aandelen.</li>
+
+
+
+<li>Nee. De waardeontwikkeling van de gewone aandelen speelt geen rol in het bepalen van de verhouding.</li>
+
+
+
+<li>Nee. Er is weliswaar sprake van een waardeverschuiving tussen de verschillende soorten aandelen, maar dat beïnvloedt niet de omvang van het gestorte kapitaal per soort.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-bijgeschreven-vergoeding-cumulatief-preferente-aandelen-en-financieringstoets-lucratief-belang/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-bijgeschreven-vergoeding-cumulatief-preferente-aandelen-en-financieringstoets-lucratief-belang/" target="_blank" rel="noreferrer noopener">Belastingdienst, 3 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-bijgeschreven-vergoeding-cumulatief-preferente-aandelen-en-financieringstoets-lucratief-belang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/04/Belangen_aandelen.jpg" length="50436" type="image/jpeg" />	</item>
+		<item>
+		<title>Vragen en antwoorden formulier Opgaaf werkelijk rendement geactualiseerd</title>
+		<link>https://www.taxence.nl/nieuws/vragen-en-antwoorden-formulier-opgaaf-werkelijk-rendement-geactualiseerd/</link>
+					<comments>https://www.taxence.nl/nieuws/vragen-en-antwoorden-formulier-opgaaf-werkelijk-rendement-geactualiseerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 04:53:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166335</guid>
+
+					<description><![CDATA[Op het Forum Fiscaal Dienstverleners is een nieuwe versie geplaatst van het Vraag en antwoorden formulier Opgaaf werkelijk rendement.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Op het Forum Fiscaal Dienstverleners is een nieuwe versie geplaatst van het Vraag en antwoorden formulier Opgaaf werkelijk rendement</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">In juni 2024 heeft de Hoge Raad meerdere uitspraken gedaan over de manier waarop de Belastingdienst het box 3-inkomen berekent. Volgens de uitspraken moet de Belastingdienst uitgaan van het werkelijk behaalde rendement als dat lager is dan het fictieve rendement.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst beschikt niet over de gegevens die nodig zijn om het werkelijke rendement te berekenen. Daarom wordt gevraagd deze gegevens aan te leveren via het formulier Opgaaf werkelijk rendement (OWR). Dit formulier berekent het werkelijke rendement automatisch. Het formulier is beschikbaar in Mijn Belastingdienst en kan ook worden ingevuld door een belastingconsulent (becon). Op belastingdienst.nl/box3 staat een overzicht van de gegevens die nodig zijn om het formulier in te vullen.</p>
+
+
+
+<p class="wp-block-paragraph">Over het formulier OWR en de berekening van het werkelijke rendement zijn inmiddels diverse vragen gesteld. De vragen en antwoorden zijn onlangs geactualiseerd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://ffd.pleio.nl/page/view/464f75f8-6fe5-462c-a7dc-3397323fcbfd/vragen-en-antwoorden-formulier-opgaaf-werkelijk-rendement" data-type="link" data-id="https://ffd.pleio.nl/page/view/464f75f8-6fe5-462c-a7dc-3397323fcbfd/vragen-en-antwoorden-formulier-opgaaf-werkelijk-rendement" target="_blank" rel="noreferrer noopener">Forum Fiscaal Dienstverleners, 31 juli 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vragen-en-antwoorden-formulier-opgaaf-werkelijk-rendement-geactualiseerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/08/planning-tax.jpg" length="31330" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt medische vrijstelling (doktersassistente)</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 04:07:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166340</guid>
+
+					<description><![CDATA[De Kennisgroep omzetbelasting heeft de vraag beantwoord of de diensten van een doktersassistente zijn vrijgesteld.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep omzetbelasting heeft de vraag beantwoord of de diensten van een doktersassistente zijn vrijgesteld.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Ondernemer X verricht als zelfstandige zonder personeel de activiteiten van een doktersassistente. X is werkzaam voor een zorgcentrum en als waarnemend doktersassistente bij meerdere huisartsenpraktijken.</p>
+
+
+
+<p class="wp-block-paragraph">De diensten verricht door X als doktersassistente bestaan uit medische handelingen zoals bloedafname, vaccineren, verwijderen van hechtingen.</p>
+
+
+
+<p class="wp-block-paragraph">X heeft een gezondheidskundige MBO-4-opleiding tot doktersassistente afgerond en meer dan tien jaar relevante kennis en ervaring in haar beroepsuitoefening opgedaan. X volgt ieder jaar een relevante bij- en nascholing.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Zijn de diensten van X vrijgesteld op grond van artikel 11, eerste lid, aanhef en onderdeel g, onder 1º, van de Wet op de omzetbelasting 1968?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, de diensten van X zijn vrijgesteld op grond van de medische vrijstelling.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-medische-vrijstelling-2/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-medische-vrijstelling-2/" target="_blank" rel="noreferrer noopener">Belastingdienst, 3 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/griepprik.jpg" length="27217" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt vergoeding ERE-certificaten opladen elektrische auto van de zaak</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 04 Aug 2026 03:39:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166342</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen naar aanleiding van de vraag of een vergoeding voor ERE-certificaten loon vormt voor de werknemer die een elektrische auto van de zaak thuis oplaadt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen naar aanleiding van de vraag of een vergoeding voor ERE-certificaten loon vormt voor de werknemer die een elektrische auto van de zaak thuis oplaadt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Vanaf 2026 kunnen particulieren met een elektrische auto onder bepaalde voorwaarden een vergoeding ontvangen voor de stroom die zij thuis via hun eigen laadpaal laden. Dit gebeurt via zogenoemde ERE-certificaten (Emissiereductie-eenheden), die aantonen dat er CO₂-uitstoot is bespaard. De vergoeding voor de ERE-certificaten wordt betaald door bedrijven die fossiele brandstoffen verkopen. De hoogte van de vergoeding is afhankelijk van het aantal geladen kilowatturen (hierna: kWh) en de marktwaarde van de certificaten.</p>
+
+
+
+<p class="wp-block-paragraph">Werknemers die hun elektrische auto van de zaak thuis opladen, kunnen voor die geladen stroom ook een vergoeding voor de ERE-certificaten krijgen.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Vormt de vergoeding die ziet op de geladen stroom voor de elektrische auto van de zaak loon in de zin van <a href="https://wetten.overheid.nl/jci1.3:c:BWBR0002471&amp;hoofdstuk=II&amp;artikel=10&amp;z=2026-02-21&amp;g=2026-02-21" target="_blank" rel="noreferrer noopener">artikel 10</a> van de Wet LB 1964?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. De vergoeding vormt geen loon in de zin van de Wet LB 1964.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-over-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-over-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 3 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/05/Opladen_auto.jpg" length="78025" type="image/jpeg" />	</item>
+		<item>
+		<title>Online cursus CV en bedrijfsopvolging</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 08:33:18 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[bedrijfsoverdracht]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Familiebedrijven]]></category>
+		<category><![CDATA[Notariaat]]></category>
+		<category><![CDATA[Online cursus]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166311</guid>
+
+					<description><![CDATA[Leer de voordelen van overdracht van een onderneming via cv Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt. De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Leer de voordelen van overdracht van een onderneming via cv</p>
+<p>Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt.</p>
+<p>De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze manier tal van voordelen kan bieden ten opzichte van de meer traditionele manieren van bedrijfsopvolging. Na het volgen van deze online cursus is de adviseur in staat om adequaat te kunnen adviseren over de cv.&nbsp;In deze online cursus staat de bedrijfsoverdracht van ouder op kind centraal.</p>
+<p><strong>Praktijktool</strong><br />De tool bestaat uit een handige checklist met alle belangrijke overwegingen op een rij.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/agenda-2/3119/de-commanditaire-vennootschap-en-bedrijfsopvolging" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Verkapte uitdeling in 2019 belast, herstel faalt in 2023</title>
+		<link>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/</link>
+					<comments>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 07:35:02 +0000</pubDate>
+				<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166314</guid>
+
+					<description><![CDATA[Gerechtshof Den Haag oordeelt dat de dga van een holding-bv in 2019 een regulier voordeel uit aanmerkelijk belang van € 116.324 heeft genoten. De rechtstreekse betaling uit de agioreserve is een verkapte uitdeling door de holding, die de dga niet ongedaan maakt met herstelacties in 2023.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof Den Haag oordeelt dat de dga van een holding-bv in 2019 een regulier voordeel uit aanmerkelijk belang van € 116.324 heeft genoten. De rechtstreekse betaling uit de agioreserve is een verkapte uitdeling door de holding, die de dga niet ongedaan maakt met herstelacties in 2023.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De dga is enig bestuurder en aandeelhouder van een holding-bv. Die holding is op haar beurt enig aandeelhouder van een uitzendbureau-bv. In oktober 2019 besluit de algemene vergadering van aandeelhouders van de holding tot een uitkering van € 116.324 uit de agioreserve van het uitzendbureau. Het uitzendbureau doet aangifte dividendbelasting zonder inhouding en maakt het bedrag rechtstreeks over aan de dga. In zijn oorspronkelijke aangifte IB/PVV 2019 geeft de dga dit bedrag niet aan, maar in een herziene aangifte uit 2022 verantwoordt hij € 116.324 als inkomen uit aanmerkelijk belang. De inspecteur legt daarop een navorderingsaanslag IB/PVV 2019 op. In 2023 probeert de dga de uitkering alsnog om te zetten in een onbelaste kapitaalterugbetaling. In geschil is of de navorderingsaanslag terecht is en of de dga in 2019 een regulier voordeel uit aanmerkelijk belang heeft genoten.</p>
+
+
+
+<h2 class="wp-block-heading">Verkapte uitdeling is regulier voordeel</h2>
+
+
+
+<p class="wp-block-paragraph">Uit de notulen van de algemene vergadering van aandeelhouders en de aangifte dividendbelasting blijkt dat het uitzendbureau € 116.324 aan de holding heeft uitgekeerd. De dga trad daarbij op als notulist en voorzitter en ondertekende de aangifte dividendbelasting. De holding laat dit bedrag, waarop zij als enig aandeelhouder recht heeft, rechtstreeks toekomen aan haar enig aandeelhouder, de dga. Zo&#8217;n verkapte uitdeling is belast als aan twee voorwaarden is voldaan: er vindt een vermogensverschuiving naar de aandeelhouder plaats met de bedoeling hem te bevoordelen, en zowel de holding als de dga was zich daarvan bewust of had dat moeten zijn. Volgens het hof is aan beide voorwaarden voldaan. Het hof vindt hiervoor onder meer steun in de herziene aangifte van 2022, waarin de dga het bedrag zelf als voordeel uit aanmerkelijk belang opgaf en in het feit dat het winstgevende uitzendbureau een oplopende winstreserve had.</p>
+
+
+
+<h2 class="wp-block-heading">Herstel in 2023 helpt de dga niet</h2>
+
+
+
+<p class="wp-block-paragraph">De dga betoogt dat het in 2019 de bedoeling was hem een onbelaste uitkering uit de agioreserve te doen toekomen. Voor zo&#8217;n onbelaste terugbetaling van kapitaal moet volgens art. 4.13 Wet IB 2001 vóór de uitkering de algemene vergadering van aandeelhouders daartoe hebben besloten en moet de nominale waarde van de aandelen bij statutenwijziging met een gelijk bedrag zijn verminderd. In 2019 is aan geen van beide voorwaarden voldaan. De herstelacties van juni 2023 baten de dga niet: die vinden plaats in het verkeerde jaar en op het verkeerde niveau, namelijk bij het uitzendbureau in plaats van bij de holding. Ook het beroep op dwaling faalt, omdat de terugwerkende kracht van een civielrechtelijke vernietiging fiscaal niet geldt. Het hof bevestigt de uitspraak van de rechtbank en verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 4.12 – Wet inkomstenbelasting 2001 | NDFR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.13?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 4.13 – Wet inkomstenbelasting 2001 | NDFR</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2169" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2169" target="_blank" rel="noreferrer noopener">Hof Den Haag 30 juni 2026 (gepubliceerd 27 juli 2026), ECLI:NL:GHDHA:2026:2169, BK-25/842</a></p>
+
+
+
+<h2 class="wp-block-heading">Verdiepingscursus DGA-advisering | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Als dga-adviseur ken je de directeur-grootaandeelhouder in al zijn hoedanigheden en heb je een advies paraat voor de meest voorkomende adviesthema&#8217;s. Maar hoe kan jij je advies nog verder optimaliseren? Hoe zet jij de volgende stap in je rol als trusted advisor van de dga?</p>
+
+
+
+<p class="wp-block-paragraph"> In deze opleiding geven vier ervaren specialisten hun tips en tricks over hoe advieskansen te herkennen en optimaal te benutten. Zij nemen je aan de hand van casuïstiek mee in de praktische begeleiding van de dga op alle relevante adviesthema&#8217;s:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Optimale houdsterstructuur</li>
+
+
+
+<li>Aanmerkelijk belang</li>
+
+
+
+<li>Gebruikelijk loon &amp; Sociale verzekeringsplicht</li>
+
+
+
+<li>Lenen van en aan de bv</li>
+
+
+
+<li>Vermogensstructurering</li>
+
+
+
+<li>Huwelijk &amp; Echtscheiding</li>
+
+
+
+<li>Pensioen</li>
+
+
+
+<li>Bedrijfsoverdracht</li>
+</ul>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364" href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2958/verdiepingscursus-dga-advisering" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-d135c958-142a-4691-bd1c-a406a7c16364 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/verkapte-uitdeling-in-2019-belast-herstel-faalt-in-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 7 augustus 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 07:18:03 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166312</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 7 augustus 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 7 augustus 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/01880</td><td>Gerechtshof Den Haag 9 april 2024, nrs. 23/440 en 23/441<br>ECLI:NL:GHDHA:2024:828 <em>Pensioen niet in aanmerking genomen bij bepaling drempel giftenaftrek</em></td><td>NTFR 2024/1057</td></tr><tr><td>24/02814</td><td>Gerechtshof Amsterdam 25 juni 2024, nrs. 23/9 en 23/17<br>ECLI:NL:GHAMS:2024:2285 <em>Vrijgestelde EU-pensioenuitkering telt mee voor recht op hoge ouderenkorting, aftrek zorgkosten en giftenaftrek</em></td><td>NTFR 2024/1556</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/04646</td><td>Gerechtshof Arnhem-Leeuwarden 17 oktober 2023, nr. 22/466<br>ECLI:NL:GHARL:2023:8794 <em>WOZ-waarde van kantoorvilla met parkeerplaatsen niet te hoog vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>24/03206</td><td>Gerechtshof ’s-Hertogenbosch 10 juli 2024, nr. 22/1088<br>ECLI:NL:GHSHE:2024:2230 <em>Cash bonus en RSU’s terecht belast omdat belanghebbende heel 2016 in Nederland woonde/ uitlatingen inspecteur wekten geen vertrouwen</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 25 april 2025, nr. 24/03206<br>ECLI:NL:PHR:2025:500</td><td>NTFR 2025/857</td></tr><tr><td>24/04259</td><td>Gerechtshof Arnhem-Leeuwarden 15 oktober 2024, nr. 23/2340<br>ECLI:NL:GHARL:2024:6432 <em>WOZ-waarde van winkelpand in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>25/01110</td><td>Gerechtshof ’s-Hertogenbosch 12 februari 2025, nrs. 23/1639 en 23/1640<br>ECLI:NL:GHSHE:2025:335 <em>WOZ-waarde van geschakelde bungalow in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>25/01111</td><td>Gerechtshof ’s-Hertogenbosch 12 februari 2025, nrs. 23/681 t/m 23/683<br>ECLI:NL:GHSHE:2025:336 <em>Opbrengstlimiet van watersysteemheffing, rioolheffing en afvalstoffenheffing niet overschreden</em></td><td>&nbsp;</td></tr><tr><td>25/01694</td><td>Gerechtshof ’s-Hertogenbosch 26 maart 2025, nr. 23/407<br>ECLI:NL:GHSHE:2025:836 <em>Redelijke schatting van inkomen uit werk en woning / detentie maakt omkering en verzwaring bewijslast niet onterecht</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 28 november 2025, nr. 25/01694<br>ECLI:NL:PHR:2025:1303</td><td>NTFR 2026/135</td></tr><tr><td>26/00420</td><td>Gerechtshof Den Haag 19 november 2025, nr. 24/852<br>ECLI:NL:GHDHA:2025:3016</td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/01613</td><td>Gerechtshof ’s-Hertogenbosch, nr. 24/389</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-7-augustus-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Rechtspraak-10.jpg" length="23314" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt thuiswerkdrempel in Verdrag Nederland-Duitsland</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 03 Aug 2026 04:58:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166344</guid>
+
+					<description><![CDATA[De Kennisgroep IBR IB niet-winst/LB/PH aanslag heeft vragen beantwoord over de thuiswerkdrempel in het verdrag Nederland – Duitsland, die sinds 1 januari 2026 van kracht is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep IBR IB niet-winst/LB/PH aanslag heeft vragen beantwoord over de thuiswerkdrempel in het verdrag Nederland – Duitsland, die sinds 1 januari 2026 van kracht is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Met ingang van 1 januari 2026 kent het verdrag <a href="https://wetten.overheid.nl/jci1.3:c:BWBV0005862&amp;z=2025-12-31&amp;g=2025-12-31" target="_blank" rel="noreferrer noopener">Nederland-Duitsland 2012</a> een zogenoemde thuiswerkregeling. Er geldt een regeling voor zowel reguliere werknemers als overheidswerknemers.  De regelingen maken het kort gezegd mogelijk dat een werknemer in een kalenderjaar maximaal 34 dagen kan thuiswerken zonder dat dit gevolgen heeft voor het heffingsrecht over het inkomen.</p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om drempelregelingen. Zodra de drempel van 34 dagen wordt overschreden gelden de gebruikelijke toewijsregels voor het totale arbeidspatroon in het betreffende jaar.</p>
+
+
+
+<p class="wp-block-paragraph">Hoewel de regelingen worden aangeduid als thuiswerkregeling is van belang dat het in de regeling van artikel 14 Verdrag gaat om in het woonland of in derde landen (dus buiten het reguliere werkland) gewerkte werkdagen (ook als dit niet vanuit het huisadres is). In artikel 18 Verdrag zijn afhankelijk van de situatie de werkdagen in of buiten de woonstaat relevant. De 34-dagen drempel heeft tot enkele vragen geleid.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen/casussen</h2>
+
+
+
+<p class="wp-block-paragraph">Alle vragen gaan over een inwoner van Duitsland, de antwoorden gelden echter ook in een spiegelbeeldsituatie.</p>
+
+
+
+<ol class="wp-block-list">
+<li>Een werknemer werkt voor meerdere Nederlandse private werkgevers deels (thuis) in Duitsland. Geldt de drempel per werknemer (belastingplichtige) of per dienstbetrekking?</li>
+
+
+
+<li>Een werknemer werkt voor een Nederlandse private werkgever minder dan 34 dagen (thuis) in Duitsland. Daarnaast werkt hij ook voor een Duitse private werkgever uitsluitend in Duitsland. Tellen dagen waarop enkel voor de Duitse werkgever wordt gewerkt mee voor de drempel?</li>
+
+
+
+<li>Een werknemer werkt voor een Nederlandse werkgever en werkt incidenteel op locatie in Duitsland (bijvoorbeeld als gevolg van congresbezoek of een kortdurende detachering). Tellen de op locatie (dus niet thuis) gewerkte dagen mee voor de drempel?</li>
+
+
+
+<li>Een werknemer werkt zowel voor een Nederlandse private werkgever als voor een Nederlandse overheidswerkgever. Geldt de drempel per werknemer (belastingplichtige) of per verdragsartikel (soort inkomen)?</li>
+
+
+
+<li>De werknemer uit casus 4 maakt een ééndaagse dienstreis naar een derde land. Op deze dag wordt ten minste 30 minuten voor zowel de private als de overheidswerkgever gewerkt. Telt deze dag mee voor zowel de drempel in artikel 14 als de drempels in artikel 18?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>De drempel geldt per werknemer (belastingplichtige). Alle werkdagen in Duitsland worden opgeteld om te bepalen of het er 34 of meer zijn. Het maakt daarbij geen verschil of er gelijktijdig voor meerdere werkgevers (in deeltijd) wordt gewerkt, of dat er volgtijdig voor verschillende werkgevers wordt gewerkt.</li>
+
+
+
+<li>Nee, de dagen waarop enkel gewerkt wordt voor de Duitse werkgever tellen niet mee voor de drempel.</li>
+
+
+
+<li>Ja, ook de dagen die op locatie in Duitsland worden gewerkt tellen mee voor de drempel.</li>
+
+
+
+<li>De drempel dient per verdragsartikel te worden toegepast.</li>
+
+
+
+<li>De dag van de dienstreis telt mee voor de drempel van artikel 14 Verdrag én voor de drempel van artikel 18, eerste lid, onderdeel b, Verdrag. Voor de drempel van artikel 18, eerste lid, onderdeel c, Verdrag is deze dag niet relevant aangezien niet in de woonstaat wordt gewerkt.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-thuiswerkdrempel-in-het-verdrag-nederland-duitsland/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-thuiswerkdrempel-in-het-verdrag-nederland-duitsland/" target="_blank" rel="noreferrer noopener">Belastingdienst, 3 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-thuiswerkdrempel-in-verdrag-nederland-duitsland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/zzp-vrouw-thuis2.jpg" length="35725" type="image/jpeg" />	</item>
+	</channel>
+</rss>

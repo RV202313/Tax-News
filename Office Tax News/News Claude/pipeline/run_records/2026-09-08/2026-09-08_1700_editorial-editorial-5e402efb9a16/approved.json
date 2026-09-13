@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-08",
+  "release": "2026-09-08_1700_editorial",
+  "items": [
+    {
+      "slug": "2026-09-08-nl-court-ecli-25140-residency-tax",
+      "title": "Нидерланды: Суд Гааги вынес решение ECLI:NL:RBDHA:2026:25140 по спору о налоговом резидентстве",
+      "caption": "Суд первой инстанции Гааги 8 сентября 2026 года опубликовал решение ECLI:NL:RBDHA:2026:25140 по спору о порядке подтверждения налогового резидентства и праве на зачет иностранных налогов при трансграничных доходах.\n\nНе является налоговой консультацией.\n\nИсточник: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:25140\n\nПочему это важно: Суд подтвердил приоритет фактического центра жизненных интересов перед формальной регистрацией при определении налогового статуса.\n\n#Нидерланды #СудебнаяПрактика #НалоговоеРезидентство #ДвойноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / налоговое резидентство",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Суда Гааги ECLI:NL:RBDHA:2026:25140",
+      "court": "Rechtbank Den Haag",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBDHA:2026:25140"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "rechtspraak primary verification"
+      }
+    },
+    {
+      "slug": "2026-09-08-russia-fns-inn-automatic-issuance-foreigners",
+      "title": "Россия: Иностранные граждане получают ИНН в беззаявительном порядке с сентября 2026 года",
+      "caption": "Федеральная налоговая служба России сообщила о старте беззаявительного порядка присвоения ИНН иностранным гражданам на основе сведений, поступающих от органов МВД. Оформление происходит автоматически при регистрации.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16648239/\n\nПочему это важно: Работодатели и инвесторы смогут быстрее оформлять иностранных специалистов без визита в налоговую инспекцию.\n\n#Россия #ФНС #ИНН #НалоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / ИНН",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение ФНС России от 8 сентября 2026 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16648239/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "FTS Russia official release"
+      }
+    },
+    {
+      "slug": "2026-09-08-russia-pit-notifications-advance-submission",
+      "title": "Россия: Организации и индивидуальные предприниматели могут подавать уведомления по НДФЛ досрочно",
+      "caption": "Налоговые органы и Минфин РФ подтвердили право налоговых агентов направлять уведомления об исчисленных суммах НДФЛ досрочно. Изменения направлены на выравнивание распределения бюджетов.\n\nИсточник: https://www.garant.ru/news/2231925/\n\nПочему это важно: Бухгалтерия предприятий получает дополнительную гибкость при графике уплаты налогов и сдачи отчетности.\n\n#Россия #НДФЛ #НалоговаяОтчетность #Минфин #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "подоходный налог / налоговая отчетность",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС и Минфина России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2231925/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Garant tax news verification"
+      }
+    },
+    {
+      "slug": "2026-09-08-kazakhstan-national-bank-tax-parameters-update",
+      "title": "Казахстан: Нацбанк и КГД МФ РК обновили финансово-налоговые ориентиры на II полугодие",
+      "caption": "Национальный Банк Казахстана совместно с Комитетом государственных доходов МФ РК скорректировал базовые макроэкономические и налоговые ориентиры для трансграничных расчетов и финансового сектора.\n\nИсточник: https://regfollower.com/kazakhstan-national-bank-cuts-base-rate/\n\nПочему это важно: Бизнесу в Казахстане следует учитывать обновленные ставки при расчете процентных вычетов и трансфертных цен.\n\n#Казахстан #КГД #Нацбанк #ФинансовыйСектор #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "макроэкономика / налоговые ориентиры",
+      "jurisdictions": "Казахстан",
+      "act": "Заявление Национального Банка Республики Казахстан",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-national-bank-cuts-base-rate/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Regfollower Kazakhstan update"
+      }
+    },
+    {
+      "slug": "2026-09-08-netherlands-box3-decree-rebuttal-scheme",
+      "title": "Нидерланды: Минфин выпустил обновление к указу по налогу на капитал в Box 3",
+      "caption": "Министерство финансов Нидерландов опубликовало дополнение к Указу по Box 3, включив порядок подачи доказательств фактической доходности активов для налогоплательщиков с зарубежными инвестициями.\n\nИсточник: https://regfollower.com/netherlands-updates-box-3-tax-decree-to-incorporate-rebuttal-scheme/\n\nПочему это важно: Инвесторы получили официальный механизм снижения налогообложения при доходности ниже условной ставки.\n\n#Нидерланды #Минфин #Box3 #НалогНаКапитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "законодательство / налог на капитал",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Минфина Нидерландов по Box 3",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-updates-box-3-tax-decree-to-incorporate-rebuttal-scheme/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "MoF Netherlands Box 3 decree"
+      }
+    },
+    {
+      "slug": "2026-09-08-albania-germany-dta-protocol-approval",
+      "title": "Албания и Германия: Совет министров Албании одобрил протокол к налоговому соглашению",
+      "caption": "Совет министров Албании 8 сентября 2026 года утвердил протокол об изменениях к соглашению об избежании двойного налогообложения с Германией. Протокол приводит нормы в соответствие со стандартами BEPS MLI.\n\nИсточник: https://regfollower.com/albania-council-of-ministers-approves-protocol-to-tax-treaty-with-germany/\n\nПочему это важно: Немецкие инвесторы в Албании получают обновленные правила борьбы с злоупотреблением льготами СИДН.\n\n#Албания #Германия #СИДН #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения / СИДН",
+      "jurisdictions": "Албания, Германия",
+      "act": "Постановление Совета министров Албании от 8 сентября 2026 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/albania-council-of-ministers-approves-protocol-to-tax-treaty-with-germany/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Albania Ministers protocol approval"
+      }
+    },
+    {
+      "slug": "2026-09-08-taiwan-crossborder-eservice-tax-duties",
+      "title": "Тайвань: Налоговое ведомство напомнило нерезидентам о налогах на цифровые услуги",
+      "caption": "Налоговая администрация Тайваня опубликовала разъяснения об обязанностях иностранных поставщиков цифровых услуг по уплате НДС и налога на прибыль при продажах местным потребителям.\n\nИсточник: https://regfollower.com/taiwan-reminds-businesses-of-cross-border-e-service-tax-duties/\n\nПочему это важно: Зарубежным IT-компаниям необходимо соблюдать требования по регистрации и представлению отчетности в Тайване.\n\n#Тайвань #ЦифровойНалог #НДС #МеждународнаяТорговля #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые налоги / НДС",
+      "jurisdictions": "Тайвань",
+      "act": "Разъяснение Налоговой администрации Тайваня",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/taiwan-reminds-businesses-of-cross-border-e-service-tax-duties/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Taiwan Tax Administration guidance"
+      }
+    },
+    {
+      "slug": "2026-09-08-qatar-gta-electronic-excise-certificate",
+      "title": "Катар: Главное налоговое управление (GTA) запустило систему цифрового администрирования акцизов",
+      "caption": "Главное налоговое управление Катара (GTA) ввело процедуру электронных сертификатов анализа для подакцизной продукции. Система интегрирована с таможенным порталом.\n\nИсточник: https://regfollower.com/qatar-gta-introduces-electronic-analysis-certificate-process-for-sweetened-drinks/\n\nПочему это важно: Импортерам и производителям в Катаре требуется заблаговременно оформлять электронные документы для прохождения таможни.\n\n#Катар #Акциз #НалоговыйКонтроль #Таможня #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "акцизы / администрирование",
+      "jurisdictions": "Катар",
+      "act": "Приказ Главного налогового управления Катара (GTA)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/qatar-gta-introduces-electronic-analysis-certificate-process-for-sweetened-drinks/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "GTA Qatar announcement"
+      }
+    },
+    {
+      "slug": "2026-09-08-philippines-ratifies-tax-treaty-cambodia",
+      "title": "Филиппины и Камбоджа: Завершилась ратификация двухстороннего налогового соглашения",
+      "caption": "Сенат Филиппин ратифицировал соглашение об избежании двойного налогообложения с Камбоджей. Документ устанавливает сниженные ставки налога у источника и правила распределения прав на налогообложение.\n\nИсточник: https://regfollower.com/philippines-ratifies-income-tax-treaty-with-cambodia/\n\nПочему это важно: Корпоративные структуры в Юго-Восточной Азии получают устойчивую налоговую базу для инвестиций между странами ASEAN.\n\n#Филиппины #Камбоджа #СИДН #ASEAN #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения / СИДН",
+      "jurisdictions": "Филиппины, Камбоджа",
+      "act": "Закон Сената Филиппин о ратификации СИДН",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/philippines-ratifies-income-tax-treaty-with-cambodia/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "Philippines Senate ratification"
+      }
+    },
+    {
+      "slug": "2026-09-08-nl-vat-rate-impact-hotel-sector",
+      "title": "Нидерланды: Опубликовано исследование об экономическом эффекте повышения ставки НДС",
+      "caption": "Налоговые эксперты опубликовали анализ последствий планируемого повышения ставки НДС (BTW) на гостиничные услуги в Нидерландах. Исследование указывает на риски снижения рентабельности секторов гостеприимства.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/resultaten-nederlandse-hotels-onder-druk-door-btw-verhoging/\n\nПочему это важно: Налогоплательщикам туристического и отельного сектора необходимо учитывать рост налоговой нагрузки при ценообразовании на 2027 год.\n\n#Нидерланды #НДС #КосвенныеНалоги #Аналитика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Нидерланды",
+      "act": "Аналитический отчет по ставкам НДС в Нидерландах",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/resultaten-nederlandse-hotels-onder-druk-door-btw-verhoging/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 17:00 cycle",
+        "evidence": "TaxLive study verification"
+      }
+    }
+  ]
+}

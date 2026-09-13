@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-22",
+  "sources": {
+    "telegram_leads": {
+      "state": "ok",
+      "files": [
+        "telegram_leads_1.txt"
+      ],
+      "detail": "collector=scripts/collect_telegram.py; [telegram] 28 лидов → C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\pipeline\\raw\\2026-07-22\\telegram_leads_1.txt"
+    }
+  },
+  "_summary": {
+    "ok": [
+      "telegram_leads"
+    ],
+    "failed": [],
+    "incomplete": []
+  }
+}

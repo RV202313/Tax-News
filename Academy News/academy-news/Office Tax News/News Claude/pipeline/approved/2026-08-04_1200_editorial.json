@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-04",
+  "release": "2026-08-04-1200-editorial",
+  "items": [
+    {
+      "slug": "2026-08-04-ru-tax-notifications",
+      "title": "ФНС начнет рассылку налоговых уведомлений для физических лиц с 21 сентября",
+      "caption": "Федеральная налоговая служба объявила о плановом начале рассылки налоговых уведомлений по имущественным налогам за 2025 год во второй половине сентября.\n\nИсточник: https://www.garant.ru/news/2190014/\n\n#ФНС #Россия #налоги #имущество #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Анонс ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2190014/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-nko-tax-exemption",
+      "title": "Правительство расширит перечень НКО для освобождения грантов от НДФЛ",
+      "caption": "Кабинет министров подготовил законопроект, расширяющий перечень некоммерческих организаций, чьи гранты и премии полностью освобождаются от подоходного налога.\n\nИсточник: https://www.garant.ru/news/2187557/\n\n#НДФЛ #льготы #Россия #НКО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Правительства РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2187557/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-ru-foreigner-income-control",
+      "title": "В России введены новые правила налогового контроля доходов иностранных граждан",
+      "caption": "Вступили в силу законодательные поправки, ужесточающие валютный и налоговый контроль в отношении доходов и банковских операций иностранных граждан в РФ.\n\nИсточник: https://www.garant.ru/news/2187552/\n\n#ФНС #контроль #Россия #иностранцы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2187552/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-cz-mt-tax-treaty",
+      "title": "Сенат Чехии одобрил новое налоговое соглашение с Мальтой",
+      "caption": "Верхняя палата парламента Чехии проголосовала за ратификацию нового соглашения об избежании двойного налогообложения с Мальтой, заменяющего старый договор 1996 года.\n\nИсточник: https://regfollower.com/czech-republic-senate-approves-income-tax-treaty-with-malta/\n\n#Чехия #Мальта #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Чехия / Мальта",
+      "act": "Решение Сената Чехии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/czech-republic-senate-approves-income-tax-treaty-with-malta/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-uk-pillar2-gir-filing",
+      "title": "Великобритания приняла временные правила подачи отчетности Pillar 2",
+      "caption": "Налоговая служба Великобритании (HMRC) подтвердила применение переходного подхода ОЭСР к централизованной подаче и международному обмену декларациями GIR.\n\nИсточник: https://regfollower.com/uk-updates-guidance-on-transitional-approach-to-pillar-two-gir-filing-exchange/\n\n#Великобритания #HMRC #Pillar2 #GIR #ОЭСР #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "Великобритания",
+      "act": "Руководство HMRC",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uk-updates-guidance-on-transitional-approach-to-pillar-two-gir-filing-exchange/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-nl-electric-car-charging",
+      "title": "В Нидерландах разъяснили налоги на компенсацию зарядки служебных авто",
+      "caption": "Налоговая служба Нидерландов представила официальную позицию по вопросу квалификации выплат за ERE-сертификаты при домашней зарядке корпоративного транспорта.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/\n\n#Нидерланды #электромобили #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-in-crypto-reporting-obligations",
+      "title": "Индия обновила правила отчетности по криптоактивам для FATCA и CRS",
+      "caption": "Министерство финансов Индии опубликовало руководство для криптовалютных бирж и финансовых посредников по идентификации и раскрытию информации о криптоактивах клиентов.\n\nИсточник: https://regfollower.com/india-issues-revised-fatca-crs-guidance-detailing-crypto-reporting-obligations/\n\n#Индия #криптовалюта #FATCA #CRS #финансы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "обмен информацией",
+      "jurisdictions": "Индия",
+      "act": "Руководство Минфина Индии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/india-issues-revised-fatca-crs-guidance-detailing-crypto-reporting-obligations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-oecd-cbc-signatories-update",
+      "title": "ОЭСР обновила список стран, обменивающихся отчетами CbC",
+      "caption": "Опубликован актуальный реестр подписантов Многостороннего соглашения об автоматическом обмене отчетами по странам в рамках Плана BEPS. На текущий момент число участников достигло 118.\n\nИсточник: https://regfollower.com/oecd-updates-signatories-list-for-mcaa-cbc-4/\n\n#ОЭСР #CbC #автообмен #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "ОЭСР",
+      "act": "Анонс ОЭСР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oecd-updates-signatories-list-for-mcaa-cbc-4/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-oecd-transparency-peer-reviews",
+      "title": "ОЭСР представила обзоры налоговой прозрачности трех юрисдикций",
+      "caption": "Глобальный форум ОЭСР опубликовал отчеты о соблюдении стандартов обмена информацией по запросу для Островов Кука, Намибии и Танзании.\n\nИсточник: https://regfollower.com/oecd-releases-peer-review-reports-on-tax-information-exchange-transparency-for-the-cook-islands-namibia-and-tanzania/\n\n#ОЭСР #прозрачность #обменинформацией #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "обмен информацией",
+      "jurisdictions": "ОЭСР / Острова Кука / Намибия / Танзания",
+      "act": "Отчеты Глобального форума ОЭСР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oecd-releases-peer-review-reports-on-tax-information-exchange-transparency-for-the-cook-islands-namibia-and-tanzania/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-08-04-by-import-vat-deferral",
+      "title": "Беларусь продлила отсрочку уплаты импортного НДС до середины 2027 года",
+      "caption": "Правительство Республики Беларусь продлило действие механизма отсрочки по уплате налога на добавленную стоимость при ввозе отдельных категорий товаров для поддержки бизнеса.\n\nИсточник: https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/\n\n#Беларусь #НДС #импорт #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги при трансграничной торговле",
+      "jurisdictions": "Беларусь",
+      "act": "Постановление Правительства Беларуси",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belarus-extends-vat-payment-deferral-on-imported-goods-through-mid-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

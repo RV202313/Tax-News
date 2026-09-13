@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-04",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 258,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/invorderingskosten-terecht-ondanks-bezwaar-over-2017/",
+      "ecli": "",
+      "act": "",
+      "title": "Invorderingskosten terecht ondanks bezwaar over 2017",
+      "summary": "Rechtbank Gelderland oordeelt dat de ontvanger de invorderingskosten terecht in rekening heeft gebracht. De man had geen uitstel van betaling voor de voorlopige aanslagen IB/PVV 2023 en 2024, ondanks zijn bezwaar tegen de aanslag over 2017. Een man die in de Filipijnen woont, maakt bezwaar tegen zijn aanslag IB/PVV 2017 over box 3 en schrijft ... lees verder",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 259,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-medische-vrijstelling-doktersassistente/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt medische vrijstelling (doktersassistente)",
+      "summary": "De Kennisgroep omzetbelasting heeft de vraag beantwoord of de diensten van een doktersassistente zijn vrijgesteld.",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 260,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verkorting-looptijd-30-regeling-en-beperkt-overgangsrecht-zijn-rechtmatig/",
+      "ecli": "",
+      "act": "",
+      "title": "Verkorting looptijd 30%-regeling en beperkt overgangsrecht zijn rechtmatig",
+      "summary": "",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 261,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/bulgaria-enacts-state-budget-act-2026-introducing-gambling-affiliate-tax-expanded-child-tax-relief/",
+      "ecli": "",
+      "act": "",
+      "title": "Bulgaria enacts State Budget Act 2026 introducing gambling affiliate tax, expanded child tax relief",
+      "summary": "Bulgaria’s National Assembly has enacted the State Budget Act for 2026, setting the country’s strategic financial direction. It was passed by the National Assembly on 24 July 2026, approved by the President on 29 July 2026, and officially published in the State Gazette on 31 July 2026. Corporate taxes and transfer pricing updates The 2026...",
+      "published_at": "2026-08-04",
+      "score": 11.0,
+      "topics": [
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

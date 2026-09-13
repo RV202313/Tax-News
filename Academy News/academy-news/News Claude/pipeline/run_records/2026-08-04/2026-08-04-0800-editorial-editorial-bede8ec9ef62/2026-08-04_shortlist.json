@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-04",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 257,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-vergoeding-ere-certificaten-opladen-elektrische-auto-van-de-zaak/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt vergoeding ERE-certificaten opladen elektrische auto van de zaak",
+      "summary": "De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen naar aanleiding van de vraag of een vergoeding voor ERE-certificaten loon vormt voor de werknemer die een elektrische auto van de zaak thuis oplaadt.",
+      "published_at": "2026-08-04",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

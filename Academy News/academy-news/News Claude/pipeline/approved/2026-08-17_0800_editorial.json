@@ -1,0 +1,377 @@
+{
+  "date": "2026-08-17",
+  "release": "2026-08-17_0800_editorial",
+  "items": [
+    {
+      "slug": "2026-08-17-de-tax-annual-act-safe-harbors",
+      "title": "Германия одобрила законопроект JAHRESSTEUERGESETZ 2026 с правилами безопасных гаваней Pillar 2",
+      "caption": "Правительство Германии утвердило проект Ежегодного налогового закона 2026 года (JAHRESSTEUERGESETZ 2026), включающий внедрение упрощенных правил безопасных гаваней (SAFE HARBORS на основе концепций SBS и UPE) по рекомендациям ОЭСР (OECD).\n\nИсточник: https://www.taxathand.com/\n\n#Германия #Pillar2 #безопасныеГавани #налоговоеЗаконодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог",
+      "jurisdictions": "Германия",
+      "act": "Законопроект JAHRESSTEUERGESETZ 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxathand.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "OECD Safe Harbors confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-17-qa-tax-minimum-registration",
+      "title": "Катар запустил онлайн-регистрацию для глобального и национального минимального налога",
+      "caption": "Налоговые органы Катара активировали сервис регистрации для целей глобального и квалифицированного национального минимального налога (QDMTT) на государственной платформе DHAREEBA с трехмесячным дедлайном.\n\nИсточник: https://regfollower.com/\n\n#Катар #Dhareeba #QDMTT #регистрация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог",
+      "jurisdictions": "Катар",
+      "act": "Постановление Налогового управления Катара",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Dhareeba system verified"
+      }
+    },
+    {
+      "slug": "2026-08-17-ae-tax-minimum-deadlines",
+      "title": "ОАЭ установили сроки регистрации для целей правил глобального минимального налога",
+      "caption": "Министерство финансов ОАЭ опубликовало Решение № 12 от 2026 года, зафиксировавшее дедлайны уведомления и регистрации: для структур с финансовым годом до 30 апреля 2026 года крайний срок регистрации — 30 ноября 2026 года.\n\nИсточник: https://regfollower.com/\n\n#ОАЭ #регистрация #дедлайны #минимальныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог",
+      "jurisdictions": "ОАЭ",
+      "act": "Решение Министерства финансов ОАЭ № 12",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "MoF Decision 12 confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-17-mu-tax-qdmtt-regulations",
+      "title": "Маврикий ввел национальный доначисляемый налог QDMTT с ретроспективной силой",
+      "caption": "В правительственном вестнике Маврикия опубликованы правила национального минимального налога (QDMTT) 2026 года, вводящие доначисление налога на прибыль крупных групп с ретроспективной силой с 1 июля 2025 года.\n\nИсточник: https://regfollower.com/\n\n#Маврикий #QDMTT #ретроспективность #законодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог",
+      "jurisdictions": "Маврикий",
+      "act": "Income Tax (QDMTT) Regulations 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Regulations 2026 verified"
+      }
+    },
+    {
+      "slug": "2026-08-17-oecd-beps-mli-matching-upgrade",
+      "title": "ОЭСР обновила базу данных сопоставления многосторонней конвенции BEPS MLI",
+      "caption": "ОЭСР (OECD) модернизировала аналитический сервис сопоставления Многосторонней конвенции (BEPS MLI MATCHING DATABASE), внедрив детализированные исторические срезы применения конвенции к двусторонним налоговым договорам.\n\nИсточник: https://oecd.org/\n\n#ОЭСР #MLI #налоговыеСоглашения #базаДанных #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "ОЭСР",
+      "act": "Обновление базы данных ОЭСР",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecd.org/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "OECD MLI Portal verified"
+      }
+    },
+    {
+      "slug": "2026-08-17-oecd-beps-action-5-update",
+      "title": "ОЭСР опубликовала результаты обзора 347 льготных налоговых режимов по BEPS ACTION 5",
+      "caption": "В рамках реализации Действия 5 BEPS (ACTION 5) ОЭСР (OECD) представила отчет об оценке 347 преференциальных режимов налогообложения, направленный на борьбу с вредоносной налоговой практикой юрисдикций.\n\nИсточник: https://oecd.org/\n\n#ОЭСР #BEPS #Action5 #преференциальныеРежимы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "противодействие размыванию базы",
+      "jurisdictions": "ОЭСР",
+      "act": "Отчет ОЭСР по Действию 5 BEPS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://oecd.org/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Action 5 Report confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-17-ru-vs-tax-criminal-75days-limit",
+      "title": "Верховный Суд РФ: дела по налоговым преступлениям нельзя возбуждать до истечения 75 дней",
+      "caption": "Верховный Суд РФ подтвердил позицию о запрете преждевременного возбуждения уголовных дел следственными органами до истечения 75-дневного срока на добровольную уплату недоимки после вступления решения ФНС в силу.\n\nИсточник: https://vsrf.ru/\n\nНе является налоговой консультацией.\n\n#Россия #ВерховныйСуд #уголовноеПреследование #недоимка #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Определение Верховного Суда РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://vsrf.ru/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "VSRF precedent verified"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-17-ru-tax-administration-agricultural-migration",
+      "title": "ФНС РФ усилила контроль за формальной сменой адреса ради низких ставок ЕСХН",
+      "caption": "Налоговые органы доначисляют налоги агропредприятиям, которые формально регистрируются в регионах с льготной ставкой единого сельскохозяйственного налога (ЕСХН), фактически ведя деятельность в других субъектах РФ.\n\nИсточник: https://www.garant.ru/\n\n#Россия #ФНС #ЕСХН #налоговаяМиграция #администрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение Федеральной налоговой службы РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Garant database verified"
+      }
+    },
+    {
+      "slug": "2026-08-17-kz-tax-litigation-investigations-ban",
+      "title": "В Казахстане запретили силовое вмешательство в гражданско-правовые и налоговые споры",
+      "caption": "Вступили в силу законодательные поправки в РК, блокирующие возбуждение уголовных дел и проведение следственных действий силовыми структурами до полного завершения апелляционного оспаривания налоговых доначислений.\n\nИсточник: https://zakon.kz/\n\n#Казахстан #силовики #налоговыеСпоры #защитаБизнеса #законодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Казахстан",
+      "act": "Закон Республики Казахстан об изменениях в уголовно-процессуальный кодекс",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://zakon.kz/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Zakon.kz database verified"
+      }
+    },
+    {
+      "slug": "2026-08-17-kz-tax-collections-travel-ban-limits",
+      "title": "В РК действуют новые правила ограничения выезда руководителей за долги",
+      "caption": "Казахстан ужесточил порядок выезда за границу для индивидуальных предпринимателей и руководителей юридических лиц при наличии налоговой задолженности свыше 27 000 МРП после применения принудительных мер взыскания.\n\nИсточник: https://www.gov.kz/\n\n#Казахстан #выездЗаГраницу #долги #взыскание #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Казахстан",
+      "act": "Приказ Министерства финансов Республики Казахстан",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.kz/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "KGD MF RK database verified"
+      }
+    }
+  ]
+}

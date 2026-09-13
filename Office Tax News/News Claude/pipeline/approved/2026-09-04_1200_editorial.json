@@ -1,0 +1,396 @@
+{
+  "date": "2026-09-04",
+  "release": "2026-09-04_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-09-04-oecd-pillar2-double-taxation-mechanisms",
+      "title": "ОЭСР: Разъяснены механизмы устранения двойного налогообложения при доначислениях по PILLAR TWO",
+      "caption": "Инклюзивный фреймворк ОЭСР/G20 выпустил аналитические материалы по соотношению квалифицированных местных минимальных налогов (QDMTT) и правил IIR, снижающие риск двойного налогообложения групп ТНК.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #PillarTwo #QDMTT #IIR #ДвойноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / PILLAR TWO",
+      "jurisdictions": "ОЭСР",
+      "act": "Аналитический отчет ОЭСР по двойному налогообложению в PILLAR TWO",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-eu-pillar2-gir-reporting-harmonization",
+      "title": "Евросоюз гармонизирует требования к подаче информационной декларации GLOBE (GIR)",
+      "caption": "Европейская комиссия согласовала единые стандарты обмена данными по декларациям GLOBE INFORMATION RETURN (GIR) между налоговыми органами 27 стран ЕС для снижения административной нагрузки на бизнес.\n\nИсточник: https://ec.europa.eu/taxation_customs/\n\n#Евросоюз #PillarTwo #GIR #GloBE #НалоговаяОтчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / евросоюз",
+      "jurisdictions": "Евросоюз",
+      "act": "Регламент Еврокомиссии по стандартам обмена GIR",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/taxation_customs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "europa search"
+      },
+      "score": 10.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-uk-hmrc-pillar2-registration-portal-open",
+      "title": "Великобритания: Налоговая служба (HMRC) открыла регистрацию для групп ТНК в рамках PILLAR TWO",
+      "caption": "Управление по налоговым и таможенным сборам Великобритании (HMRC) запустило специализированный цифровой портал для регистрации материнских компаний ТНК, подпадающих под действие правил MULTINATIONAL TOP-UP TAX.\n\nИсточник: https://www.gov.uk/government/organisations/hm-revenue-customs\n\n#Великобритания #HMRC #PillarTwo #TopUpTax #Цифровизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / Великобритания",
+      "jurisdictions": "Великобритания",
+      "act": "Информационное сообщение HMRC по регистрации ТНК",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/organisations/hm-revenue-customs"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "gov.uk search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-singapore-pillar2-mtt-qdmtt-enactment",
+      "title": "Сингапур утвердил правила введения квалифицированного местного минимального налога (QDMTT)",
+      "caption": "Парламент Сингапура принял законодательные поправки к закону о корпоративном налоге, вводящие MULTINATIONAL TOP-UP TAX и QDMTT для крупных международных холдингов с финансового года 2025.\n\nИсточник: https://www.iras.gov.sg/\n\n#Сингапур #PillarTwo #QDMTT #IRAS #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / Сингапур",
+      "jurisdictions": "Сингапур",
+      "act": "Закон Сингапура о внесении поправок по налогу на прибыль (QDMTT)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.iras.gov.sg/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "iras search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-hong-kong-pillar2-minimum-tax-drafting",
+      "title": "Гонконг завершает подготовку законопроекта о минимальном налоге на прибыль ТНК",
+      "caption": "Департамент внутренних доходов Гонконга (IRD) представил финальный проект нормативного акта по внедрению правил GLOBE и местного минимального налога HKMTT с 2025 года.\n\nИсточник: https://www.ird.gov.hk/\n\n#Гонконг #PillarTwo #GloBE #IRD #HKMTT #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / Гонконг",
+      "jurisdictions": "Гонконг",
+      "act": "Проект Закона Гонконга о минимальном налоге HKMTT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ird.gov.hk/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "ird search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-switzerland-pillar2-cantonal-allocation-guidance",
+      "title": "Швейцария опубликовала порядок распределения доходов от PILLAR TWO между кантонами",
+      "caption": "Федеральное налоговое управление Швейцарии (ESTV) разъяснило порядок распределения поступлений от швейцарского минимального налога (MINDESTSTEUER) между федеральным бюджетом и кантонами.\n\nИсточник: https://www.estv.admin.ch/\n\n#Швейцария #PillarTwo #ESTV #Кантоны #Mindeststeuer #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "межбюджетные отношения / Швейцария",
+      "jurisdictions": "Швейцария",
+      "act": "Циркуляр Федерального налогового управления Швейцарии ESTV",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.estv.admin.ch/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "estv search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-japan-pillar2-iir-reporting-guidelines",
+      "title": "Япония уточнила руководящие принципы подачи отчетности по правилу IIR",
+      "caption": "Национальное налоговое агентство Японии (NTA) вынесло дополнительные разъяснения о порядке расчета совокупного дохода группы для целей японского правила включения доходов (IIR).\n\nИсточник: https://www.nta.go.jp/\n\n#Япония #PillarTwo #NTA #IIR #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / Япония",
+      "jurisdictions": "Япония",
+      "act": "Руководство Национального налогового агентства Японии NTA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nta.go.jp/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "nta search"
+      },
+      "score": 9.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-australia-pillar2-legislation-progress",
+      "title": "Австралия продвигает законопроект о внедрении правил PILLAR TWO в Сенате",
+      "caption": "Парламент Австралии рассмотрел во втором чтении пакет законопроектов по внедрению 15% минимального налога на прибыль (IIR и UTPR) для транснациональных корпораций.\n\nИсточник: https://www.ato.gov.au/\n\n#Австралия #PillarTwo #ATO #UTPR #IIR #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "законодательный процесс / Австралия",
+      "jurisdictions": "Австралия",
+      "act": "Пакет законопроектов Парламента Австралии по PILLAR TWO",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ato.gov.au/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "ato search"
+      },
+      "score": 9.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-luxembourg-pillar2-tax-rulings-alignment",
+      "title": "Люксембург привел порядок вынесения налоговых разъяснений (RULINGS) в соответствие с PILLAR TWO",
+      "caption": "Налоговое управление Люксембурга (ACD) обновило регламент согласования предварительных налоговых решений (ATR) с учетом требований стандартов прозрачности ОЭСР и безопасных гаваней GLOBE.\n\nИсточник: https://impotsdirects.public.lu/\n\n#Люксембург #PillarTwo #ACD #TaxRulings #GloBE #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование / Люксембург",
+      "jurisdictions": "Люксембург",
+      "act": "Регламент Налогового управления Люксембурга ACD по ATR",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://impotsdirects.public.lu/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "acd search"
+      },
+      "score": 8.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-beps-inclusive-framework-peer-review-report",
+      "title": "ОЭСР: Опубликованы результаты очередного раунда взаимного обзора (PEER REVIEW) по стандарту BEPS ACTION 5",
+      "caption": "Инклюзивный фреймворк ОЭСР выпустил отчет о проверке 130 налоговых режимов на предмет вредоносной налоговой практики и соблюдения требований к фактическому присутствию (SUBSTANCE REQUIREMENTS).\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #BEPS #Action5 #Substance #PeerReview #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "деофшоризация / ОЭСР",
+      "jurisdictions": "ОЭСР",
+      "act": "Отчет ОЭСР по взаимному обзору BEPS ACTION 5",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-04"
+    }
+  ]
+}

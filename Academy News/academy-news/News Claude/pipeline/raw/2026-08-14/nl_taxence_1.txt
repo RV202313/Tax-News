@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 13 Aug 2026 09:06:45 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bloedverwant in rechte lijn krijgt geen partnervrijstelling</title>
+		<link>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/</link>
+					<comments>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 13 Aug 2026 09:06:43 +0000</pubDate>
+				<category><![CDATA[Erfbelasting en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166618</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat de vader als bloedverwant in de rechte lijn geen recht heeft op de partnervrijstelling. Het van de zoon verkregen aandeel in de woning, gefinancierd met smartengeld, behoort ook tot de grondslag van de erfbelasting.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat de vader als bloedverwant in de rechte lijn geen recht heeft op de partnervrijstelling. Het van de zoon verkregen aandeel in de woning, gefinancierd met smartengeld, behoort ook tot de grondslag van de erfbelasting.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vader is de erfgenaam van zijn zoon, die zijn leven lang ongewild partner- en kinderloos is gebleven als gevolg van medische fouten. De zoon ontving hiervoor smartengeld en kocht daarmee in 2015 een aandeel in de woning van zijn vader, dat hij liet verbouwen tot aanleunwoning met eigen woonunit. Bij testament legateerde de zoon het recht van gebruik en bewoning van zijn aandeel aan zijn vader. Tot het overlijden van de zoon verleenden de vader en zijn dochter mantelzorg. Na het overlijden legt de inspecteur een aanslag erfbelasting op over het aandeel in de woning. In geschil is of dit aandeel tot de grondslag van de erfbelasting behoort en of de vader recht heeft op de partnervrijstelling.</p>
+
+
+
+<h2 class="wp-block-heading">Aandeel in woning belast met erfbelasting </h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat alles wat krachtens erfrecht wordt verkregen belast is met erfbelasting, ook het aandeel in de woning dat met smartengeld is gefinancierd. De wet biedt geen ruimte om onderscheid te maken naar de herkomst van het verkregen vermogen. Dat is een bewuste keuze van de wetgever, omdat de rechtvaardiging voor de erfbelasting ligt in de vermeerdering van de draagkracht van de verkrijger.</p>
+
+
+
+<h2 class="wp-block-heading">Geen partnervrijstelling voor de vader </h2>
+
+
+
+<p class="wp-block-paragraph">Het beroep op het discriminatieverbod van artikel 14 EVRM verwerpt de rechtbank, omdat de Hoge Raad al heeft geoordeeld dat uitsluiting van bloedverwanten in de rechte lijn als partner niet discriminerend is. Ook het beroep op artikel 8 EVRM (family life) slaagt niet: de vader stelt geen feiten die zien op een beperking van zijn eigen gezinsleven, alleen op de situatie van zijn overleden zoon. Tot slot verwerpt de rechtbank het beroep op het evenredigheidsbeginsel, omdat de wetgever de uitsluiting van bloedverwanten bewust en volledig heeft afgewogen. Het beroep is ongegrond en de aanslag blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 1 Successiewet 1956</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-8?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-14?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 EVRM</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6244" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 29-07-2026, ECLI:NL:RBGEL:2026:6244, ARN 24/7924 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/erfbelasting-man.jpg" length="31725" type="image/jpeg" />	</item>
+		<item>
+		<title>Correctie box 3-vermogen wegens overtollige liquiditeiten in eenmanszaak</title>
+		<link>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/</link>
+					<comments>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 07:58:04 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166576</guid>
+
+					<description><![CDATA[Rechtbank Den Haag oordeelt dat de inspecteur het box 3-vermogen van de man terecht heeft gecorrigeerd wegens duurzaam overtollige liquiditeiten in zijn eenmanszaak. Slechts €165.000 van de bank- en spaartegoeden geldt als werkkapitaal; het restant is overtollig en valt in box 3.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Den Haag oordeelt dat de inspecteur het box 3-vermogen van de man terecht heeft gecorrigeerd wegens duurzaam overtollige liquiditeiten in zijn eenmanszaak. Slechts € 165.000 van de bank- en spaartegoeden geldt als werkkapitaal; het restant is overtollig en valt in box 3.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man drijft een eenmanszaak in advies en consultancy en heeft daarnaast vermogen in box 2 en box 3. In zijn aangifte IB/PVV 2020 geeft hij een verzamelinkomen aan van 27.109, met onder meer zelfstandigenaftrek. De inspecteur wijkt bij de aanslag af van de aangifte, omdat uit de jaarrekening van een fonds voor gemene rekening blijkt dat de man meer bank- en spaartegoeden bezit dan aangegeven. In bezwaar corrigeert de inspecteur het ondernemingsvermogen ook wegens duurzaam overtollige liquiditeiten, onder verwijzing naar een eerdere procedure over 2018.</p>
+
+
+
+<h2 class="wp-block-heading">Werkkapitaal werkt door naar latere jaren</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank leidt uit de procedure over 2018 af dat destijds € 165.000 aan liquide middelen als werkkapitaal is aangemerkt (€ 95.000 voor de fiscale oudedagsreserve, € 60.000 voor een bedrijfsauto en €10.000 voor zonnepanelen). Die overheveling naar box 3 werkt door naar latere jaren, dus ook naar 2020. Van de € 451.050 aan bank- en spaartegoeden van de eenmanszaak is daarom slechts € 165.000 werkkapitaal; het restant van € 286.051 is duurzaam overtollig en valt in box 3. De gestelde plannen voor eigen kantoorruimte zijn niet concreet genoeg onderbouwd, mede gelet op de beperkte omzet van de onderneming.</p>
+
+
+
+<p class="wp-block-paragraph">De man maakt verder niet aannemelijk dat hij in 2020 aan het urencriterium voldeed: zijn urenadministratie beslaat slechts drie maanden en ontbreekt aan controleerbare onderliggende stukken. De zelfstandigenaftrek is daarom terecht geweigerd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.6</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.76?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.76 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBDHA_2026_11616" target="_blank" rel="noreferrer noopener">Rechtbank Den Haag, 24-04-2026 (gepubliceerd 31-07-2026), ECLI:NL:RBDHA:2026:11616, AWB &#8211; 25 _ 4024 | NDFR</a>, </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/04/Verlies_ondernemer.jpg" length="18772" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt box 3 en terugstorting betaalde lijfrentepremies en/of -inleg na opzegging of ontbinding lijfrenteverzekeringen</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 12 Aug 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166574</guid>
+
+					<description><![CDATA[De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord op welke wijze het bedrag van de terugstorting van betaalde lijfrentepremies en/of   - inleg na opzegging of ontbinding van een lijfrenteproduct in aanmerking wordt genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord op welke wijze het bedrag van de terugstorting van betaalde lijfrentepremies en/of   &#8211; inleg na opzegging of ontbinding van een lijfrenteproduct in aanmerking wordt genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tevens is het standpunt <a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg20220248-box-3-en-geruisloze-terugstorting-te-veel-betaalde-lijfrentepremies-en-of-inleg/" target="_blank" rel="noreferrer noopener">KG:202:2024:8</a>, dat ziet op de geruisloze terugstorting van te veel betaalde premies voor een lijfrente in box 3, ingetrokken in verband met het vervallen van onderdeel 2.5 van het Verzamelbesluit lijfrenten en overige periodieke uitkeringen. Het nieuwe standpunt komt tot dezelfde uitkomst als het ingetrokken standpunt.</p>
+
+
+
+<p class="wp-block-paragraph">Naar aanleiding van de invoering van de herstelwetgeving (Wet rechtsherstel box 3) en de overbruggingswetgeving met betrekking tot hoofdstuk 5 van de Wet IB 2001) komen diverse vragen op over de kwalificatie van vermogensbestanddelen, zoals het recht op terugbetaling van de betaalde lijfrentepremies en/of -inleg na opzegging van het lijfrenteproduct op grond van de (wettelijke) bedenktijd.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Op welke wijze wordt het bedrag van premie(s) die vóór de peildatum in box 3 zijn betaald, maar door opzegging of ontbinding van een lijfrenteproduct na de peildatum in box 3 worden terug ontvangen, op de peildatum in aanmerking genomen onder de Wet rechtsherstel box 3 en de box 3-wetgeving met ingang van 1 januari 2023?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">In geval van een terugbetaling van premie(s) wegens opzegging of ontbinding van een lijfrenteproduct, wordt &#8211; als voorwaarde van goedkeurend beleid &#8211; de premiestorting geacht niet te hebben plaatsgevonden. Wanneer de premiestorting heeft plaatsgevonden vóór de peildatum in box 3 en het bedrag na de peildatum in box 3 wordt teruggestort, wordt alsdan het teruggestorte bedrag als overige bezitting opgenomen in de rendementsgrondslag van box 3 van het betreffende kalenderjaar. Dit geldt zowel onder de Wet rechtsherstel box 3 als onder de box 3-wetgeving met ingang van 1 januari 2023.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/" target="_blank" rel="noreferrer noopener">Belastingdienst, 11 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-box-3-en-terugstorting-betaalde-lijfrentepremies-en-of-inleg-na-opzegging-of-ontbinding-lijfrenteverzekeringen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Aangifte bepaalt hoogte overbedelingsschuld erfbelasting</title>
+		<link>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 08:39:25 +0000</pubDate>
+				<category><![CDATA[Erf- en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166569</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat bij de waardering van een overbedelingsschuld in een nalatenschap moet worden aangesloten bij de aangifte erfbelasting van de nalatenschap van de vader, in plaats van bij de schattingen van de man of de inspecteur.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat bij de waardering van een overbedelingsschuld in een nalatenschap moet worden aangesloten bij de aangifte erfbelasting van de nalatenschap van de vader, in plaats van bij de schattingen van de man of de inspecteur.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man gaat in 1991 een maatschap aan met zijn vader. Na het overlijden van de vader in 2013 wordt destijds geen aangifte erfbelasting ingediend, waarna de inspecteur ambtshalve aanslagen oplegt. In een eerdere procedure bij rechtbank Oost-Brabant wordt geoordeeld dat de onroerende zaken zijn ingebracht in de maatschap en dat de maatschap in 2013 is ontbonden. Via een vaststellingsovereenkomst ontvangen de overige erfgenamen samen € 180.000 en komt het restant van de nalatenschappen toe aan de man. In 2018 overlijdt ook de moeder van de man. Voor deze verkrijging legt de inspecteur de man een aanslag erfbelasting op. Partijen verschillen van mening over de hoogte van de overbedelingsschuld van de moeder aan de erfgenamen in verband met de nalatenschap van de vader.</p>
+
+
+
+<h2 class="wp-block-heading">Schattingen bieden geen houvast</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank overweegt dat de nalatenschap moet worden gewaardeerd naar de waarde in het economisch verkeer op het moment van de verkrijging. Overbedelingsvorderingen moeten daarbij worden gewaardeerd naar de werkelijke, civielrechtelijke waarde. Het bedrag van € 268.405 dat de man voorstaat, is gebaseerd op de geschatte bedragen die de inspecteur destijds ambtshalve hanteerde bij het opleggen van de aanslagen over de nalatenschap van de vader en biedt daarom geen goede maatstaf. Ook het bedrag van € 112.500 dat de inspecteur voorstaat, berust op een schatting: bij gebrek aan informatie gaat de inspecteur ervan uit dat de helft van het bedrag uit de vaststellingsovereenkomst van € 180.000 toerekenbaar is aan de nalatenschap van de vader. Beide bedragen zijn volgens de rechtbank onvoldoende onderbouwd.</p>
+
+
+
+<h2 class="wp-block-heading">Aangifte geeft beste indicatie</h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank sluit aan bij het bedrag van € 193.960 dat volgt uit de aangifte erfbelasting die op 27 november 2024 namens de overige erfgenamen van de vader is ingediend. Weliswaar ontbreekt een nadere onderbouwing van dit bedrag en is niet zeker of de inspecteur de aangifte zal volgen, maar dit bedrag geeft volgens de rechtbank een betere indicatie van de werkelijke waarde van de overbedelingsschuld dan de schattingen van partijen. De rechtbank weegt mee dat de man niet betrokken was bij deze aangifte en er dus geen belang bij had. Andere concrete gegevens over de werkelijke waarde van de nalatenschap van de vader zijn er niet. De belaste verkrijging komt hiermee uit op € 27.739. De rechtbank verklaart het beroep gegrond en vermindert de aanslag erfbelasting dienovereenkomstig.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-21?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 21 Successiewet 1956 </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_6742" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 20-07-2026, ECLI:NL:RBZWB:2026:6742, BRE 24/7297 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">Basiscursus Estate planning | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">In een dag alle aspecten van estate planning</p>
+
+
+
+<p class="wp-block-paragraph">Maak kennis met de estate planning en weet hoe je jouw client civiel en fiscaal bij kunt staan.&nbsp;<br>In deze basiscursus worden alle relevante aspecten van de estate planning (schenking, huwelijkse voorwaarden, testament, levensverzekeringen, internationaal) vanuit zowel een civielrechtelijk als fiscaal perspectief behandeld.</p>
+
+
+
+<p class="wp-block-paragraph">De cursus biedt de mogelijkheid om kennis te maken met het ‘denken’ als estate planner, en is een uitstekende voorbereiding op de Specialisatieopleiding Estate planning.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d" href="https://www.licentacademy.nl/opleidingen/basisopleidingen/2914/basiscursus-estate-planning" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+<style class="advgb-styles-renderer">.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-ed2ef773-a052-4b3e-aa1a-15502103622d > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/aangifte-bepaalt-hoogte-overbedelingsschuld-erfbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/06/estate_planning.jpg" length="27826" type="image/jpeg" />	</item>
+		<item>
+		<title>Memo verduidelijkt btw-gevolgen nieuwe bekostigingsregeling opvang en huisvesting</title>
+		<link>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/</link>
+					<comments>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 06:26:42 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166554</guid>
+
+					<description><![CDATA[De Belastingdienst heeft samen met de Vereniging van Nederlandse Gemeenten (VNG) een memo gepubliceerd over de btw- en btw-compensatiefonds (BCF)-aspecten van de Regeling tijdelijke bekostiging opvang en huisvesting gemeenten, die op 1 juli 2026 in werking is getreden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst heeft samen met de Vereniging van Nederlandse Gemeenten (VNG) een memo gepubliceerd over de btw- en btw-compensatiefonds (BCF)-aspecten van de Regeling tijdelijke bekostiging opvang en huisvesting gemeenten, die op 1 juli 2026 in werking is getreden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Met de regeling heeft het ministerie van Justitie en Veiligheid verschillende bestaande financiële regelingen voor de opvang en huisvesting van asielzoekers, vergunninghouders, Oekraïense ontheemden en andere vreemdelingen samengevoegd tot één uniform bekostigingskader. Gemeenten ontvangen via een specifieke uitkering een vergoeding voor de daadwerkelijk gemaakte kosten van de realisatie, exploitatie en uitvoering van opvang- en huisvestingsvoorzieningen. Daarnaast bevat de regeling vergoedingen voor bijzondere kosten, verstrekkingen aan ontheemden en voorbereidingskosten.</p>
+
+
+
+<p class="wp-block-paragraph">Het nieuwe memo geeft gemeenten vooraf duidelijkheid over de fiscale gevolgen van deze bekostigingsregeling voor de omzetbelasting en de toepassing van het btw-compensatiefonds. Het document is opgesteld op verzoek van het ministerie van Justitie en Veiligheid en de VNG en is in gezamenlijk overleg met deze partijen tot stand gekomen.</p>
+
+
+
+<p class="wp-block-paragraph">Het memo is bedoeld als een uniform kader voor de uitvoeringspraktijk, zodat gemeenten de btw- en BCF-regels op een consistente wijze kunnen toepassen bij de uitvoering van de regeling.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://vng.nl/media/60090">Memo btw- en BCF-aspecten bekostigingsregeling opvang en huisvesting </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://vng.nl/nieuws/btw-aspecten-bekostigingsregeling-opvang-en-huisvesting" data-type="link" data-id="https://vng.nl/nieuws/btw-aspecten-bekostigingsregeling-opvang-en-huisvesting" target="_blank" rel="noreferrer noopener">VNG, 10 augustus 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/memo-verduidelijkt-btw-gevolgen-nieuwe-bekostigingsregeling-opvang-en-huisvesting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/08/ANP-tijdelijkeopvang-768x368.jpg" length="131364" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingdienst actualiseert V&#038;A Wet minimumbelasting 2024</title>
+		<link>https://www.taxence.nl/nieuws/belastingdienst-actualiseert-va-wet-minimumbelasting-2024/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingdienst-actualiseert-va-wet-minimumbelasting-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 05:40:44 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166552</guid>
+
+					<description><![CDATA[De Belastingdienst heeft een geactualiseerde versie gepubliceerd van het vraag- en antwoorddocument (V&#038;A) over de Wet minimumbelasting 2024 (WMB 2024).]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst heeft een geactualiseerde versie gepubliceerd van het vraag- en antwoorddocument (V&amp;A) over de Wet minimumbelasting 2024 (WMB 2024).</strong></p>
+
+
+
+<p class="wp-block-paragraph">In juli en augustus zijn een aantal vragen toegevoegd en aangepast naar aanleiding van ontwikkelingen rondom de indiening van de kennisgeving, de bijheffing-informatieaangifte en de belastingaangifte WMB 2024. De aanpassingen hebben met name betrekking op de manier waarop de Belastingdienst omgaat met het opleggen van boetes. De vragen hebben betrekking op Artikel 12.1, Artikel 13.1 en 13.3, 13,1 lid 5, Artikel 13.3 lid 2.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://ffd.pleio.nl/page/view/bb2aead6-c22d-465f-896d-028fa69db4b2/va-wet-minimumbelasting-2024-v2" data-type="link" data-id="https://ffd.pleio.nl/page/view/bb2aead6-c22d-465f-896d-028fa69db4b2/va-wet-minimumbelasting-2024-v2" target="_blank" rel="noreferrer noopener">Forum Fiscaal Dienstverleners, 10 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingdienst-actualiseert-va-wet-minimumbelasting-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/geld-minimumbelasting.jpg" length="64117" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingdienst stopt pilot OWR-formulier</title>
+		<link>https://www.taxence.nl/nieuws/belastingdienst-stopt-pilot-owr-formulier/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingdienst-stopt-pilot-owr-formulier/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 11 Aug 2026 03:43:00 +0000</pubDate>
+				<category><![CDATA[Adviseur]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166557</guid>
+
+					<description><![CDATA[De Belastingdienst en de koepel- en beroepsorganisaties NBA, NOAB, NOB, RB en SRA zetten de pilot met het OWR-formulier niet voort. De pilot moest inzicht geven in de kwaliteit van aangiften van aangesloten fiscaal dienstverleners en maakte deel uit van het programma VanZelf goed!]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst en de koepel- en beroepsorganisaties NBA, NOAB, NOB, RB en SRA zetten de pilot met het OWR-formulier niet voort. De pilot moest inzicht geven in de kwaliteit van aangiften van aangesloten fiscaal dienstverleners en maakte deel uit van het programma VanZelf goed!</strong></p>
+
+
+
+<p class="wp-block-paragraph">De pilot was erop gericht dat de Belastingdienst meer kon vertrouwen op de kwaliteit van fiscaal dienstverleners die werken volgens een vastgesteld werkprogramma voor het OWR-formulier. De kwaliteit zou worden beoordeeld aan de hand van een representatieve steekproef van ingediende formulieren. Op basis van die resultaten zou worden bepaald of ook andere OWR-formulieren binnen de pilot met minder toezicht konden worden behandeld.</p>
+
+
+
+<p class="wp-block-paragraph">De onderzoeksfase gaat echter niet door. Volgens de betrokken partijen bleek het aantal formulieren dat aan alle voorwaarden voor deelname voldeed in de praktijk te klein. Daardoor was de onderzoekspopulatie onvoldoende groot om de benodigde inzet te rechtvaardigen. Alle ingediende OWR-formulieren worden daarom volgens de reguliere werkwijze afgehandeld.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst benadrukt dat het stopzetten van de pilot geen oordeel is over de kwaliteit van de ingediende formulieren of het werk van fiscaal dienstverleners. De pilot was bedoeld om te onderzoeken of deze nieuwe werkwijze in de praktijk uitvoerbaar was.</p>
+
+
+
+<p class="wp-block-paragraph">De opgedane ervaringen worden wel benut. De Belastingdienst en de betrokken organisaties voeren een gezamenlijke evaluatie uit en analyseren de afgehandelde OWR-formulieren. De resultaten kunnen worden gebruikt bij toekomstige pilots waarin meer wordt gesteund op de kwaliteit van fiscaal dienstverleners.</p>
+
+
+
+<p class="wp-block-paragraph">Een voorbeeld daarvan is de lopende pilot IH/Vpb, waarbij aangiften van cliënten van fiscaal dienstverleners met een convenant Horizontaal Toezicht op dezelfde manier worden behandeld als aangiften die onder Horizontaal Toezicht worden ingediend. Hierdoor krijgen belastingplichtigen sneller duidelijkheid over hun aangifte.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.nob.net/actueel/pilot-owr-niet-voortgezet/" data-type="link" data-id="https://www.nob.net/actueel/pilot-owr-niet-voortgezet/" target="_blank" rel="noreferrer noopener">NOB, 10 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingdienst-stopt-pilot-owr-formulier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/adviseur-box3.jpg" length="37554" type="image/jpeg" />	</item>
+		<item>
+		<title>Nadelig uitpakken box 3-verdeling voor toeslagen redt bezwaartermijn niet</title>
+		<link>https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/</link>
+					<comments>https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 06:18:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166531</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat de termijnoverschrijding bij het bezwaar tegen de aanslagen IB/PVV 2023 niet verschoonbaar is. Ambtshalve vermindering is ook niet mogelijk, omdat de aanslagen al onherroepelijk vaststaan.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat de termijnoverschrijding bij het bezwaar tegen de aanslagen IB/PVV 2023 niet verschoonbaar is. Ambtshalve vermindering is ook niet mogelijk, omdat de aanslagen al onherroepelijk vaststaan.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en een vrouw gaan op 3 oktober 2023 een geregistreerd partnerschap aan en kiezen bij hun aangiften IB/PVV 2023 ervoor om het hele jaar fiscaal partner te zijn. De rendementsgrondslag van €216.754 wordt volledig aan de man toegerekend. De inspecteur volgt de aangiften. Als Dienst Toeslagen daarna €4.810 terugvordert omdat het vermogen van de man te hoog is, maken belanghebbenden alsnog bezwaar en dienen zij gewijzigde aangiften in zonder fiscaal partnerschap over het hele jaar. De inspecteur verklaart de bezwaren niet-ontvankelijk wegens termijnoverschrijding en wijst ook de verzoeken om ambtshalve vermindering af. In geschil is of dat terecht is.</p>
+
+
+
+<h2 class="wp-block-heading">Termijnoverschrijding onverschoonbaar </h2>
+
+
+
+<p class="wp-block-paragraph">De bezwaartermijnen eindigen op 5 en 17 juli 2024, maar de inspecteur ontvangt de bezwaarschriften pas op 29 juli 2024. Belanghebbenden maakten pas bezwaar toen bleek dat hun keuze in de aangifte financieel ongunstig uitpakte. Volgens vaste rechtspraak, recent bevestigd door de Hoge Raad op 25 juni 2026, maakt een pas na afloop van de bezwaartermijn opgekomen reden de overschrijding niet verschoonbaar. Dat belanghebbenden niet deskundig zijn, de overschrijding gering was en zij daarna voortvarend handelden, doet daaraan niet af. De bezwaren zijn terecht niet-ontvankelijk verklaard.</p>
+
+
+
+<h2 class="wp-block-heading">Ambtshalve vermindering afgewezen</h2>
+
+
+
+<p class="wp-block-paragraph">Doordat de aanslagen onherroepelijk vaststaan, kunnen de keuze voor fiscaal partnerschap en de verdeling van de rendementsgrondslag niet meer worden gewijzigd. Op grond van artikel 45aa, letter d, van de Uitvoeringsregeling inkomstenbelasting 2001 wordt dan geen ambtshalve vermindering verleend. De rechtbank verklaart de beroepen ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-6:11?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6:11 Awb</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-2.17?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 2.17</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 9.6 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6005" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 22-07-2026, ECLI:NL:RBGEL:2026:6005, ARN 24/8370 en 24/8370 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">GenIA-L jurisprundentieonderzoek</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Vind en analyseer relevante rechtspraak in minuten. Een uitspraak van vandaag is vanaf morgen te vinden in GenIA-L!&nbsp;</strong></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-6b80b2d2-9c68-48d7-8d2a-8b292468dbea" href="https://www.sdu.nl/genial/probeer?_sp=.1786368213533&amp;utm_source=taxence" target="_blank" rel="noopener noreferrer"><span>Probeer GenIA-L </span></a></div>
+<style class="advgb-styles-renderer">.advgbbtn-6b80b2d2-9c68-48d7-8d2a-8b292468dbea{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-6b80b2d2-9c68-48d7-8d2a-8b292468dbea:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-6b80b2d2-9c68-48d7-8d2a-8b292468dbea > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/deadline-bezwaar.jpg" length="23811" type="image/jpeg" />	</item>
+		<item>
+		<title>Wijziging Besluit Bestuurlijke Boeten Belastingdienst: nieuwe boeteregels voor DAC8, DAC9 en minimumbelasting</title>
+		<link>https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 05:57:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166537</guid>
+
+					<description><![CDATA[Het besluit wijzigt het Besluit Bestuurlijke Boeten Belastingdienst (BBBB) naar aanleiding van de implementatie van de Europese richtlijnen DAC8 en DAC9 en de Wet minimumbelasting 2024. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het besluit wijzigt het Besluit Bestuurlijke Boeten Belastingdienst (BBBB) naar aanleiding van de implementatie van de Europese richtlijnen DAC8 en DAC9 en de Wet minimumbelasting 2024. De wijzigingen bevatten nieuwe boeteregels voor informatieverplichtingen rond cryptoactiva en de wereldwijde minimumbelasting, en voorzien daarnaast in een tijdelijke versoepeling van het boetebeleid tijdens de opstartfase.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Als gevolg van DAC8 en DAC9 zijn de Wet op de internationale bijstandsverlening bij de heffing van belastingen (WIB), de Algemene wet inzake rijksbelastingen (AWR) en de Wet minimumbelasting 2024 aangepast. Omdat deze wetgeving nieuwe informatieverplichtingen en boetegrondslagen introduceert, wordt ook het BBBB aangepast.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de eerste aangifteperiode onder de Wet minimumbelasting 2024 geldt een tijdelijke tegemoetkoming. Vanwege internationale implementatie- en systeemproblemen worden tot en met 31 oktober 2026 geen verzuimboeten opgelegd voor het te laat doen van de aangifte of het te laat betalen van de minimumbelasting. Volgens de toelichting kan belastingplichtigen gedurende deze opstartfase redelijkerwijs geen verwijt worden gemaakt. Vanaf 1 november 2026 vervalt deze uitzondering en kunnen verzuimboeten weer worden opgelegd.<br>Verder worden de boetebepalingen aangepast aan de nieuwe informatieverplichtingen uit DAC8. De maximale vergrijpboete voor het niet naleven van de informatieverplichtingen van artikel 11 WIB wordt verhoogd naar de zesde boetecategorie (€ 1.100.000 in 2026), zodat alle boetegrondslagen binnen artikel 11 WIB gelijk worden getrokken. Daarnaast worden nieuwe beleidsregels opgenomen voor de handhaving van binnenlandse informatieverplichtingen op grond van artikel 67fa AWR (DAC7 en DAC8) en voor overtredingen van de rapportageverplichtingen uit de Wet minimumbelasting 2024, waaronder de DAC9-verplichting om gegevens uit de bijheffing-informatieaangifte met andere staten uit te wisselen. De hoogte van de vergrijpboeten wordt in deze gevallen afgestemd met de vaktechnisch coördinator formeel recht. Daarnaast bevat het besluit enkele technische wijzigingen, waaronder aangepaste verwijzingen in de omzetbelasting en herstel van onjuiste verwijzingen in bestaande bepalingen.</p>
+
+
+
+<p class="wp-block-paragraph">De meeste onderdelen van het besluit treden in werking op 8 augustus 2026. De bepalingen waarmee de tijdelijke boetevrijstelling eindigt, treden op 1 november 2026 in werking. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-27767.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-27767.html" target="_blank" rel="noreferrer noopener">Besluit van 30 juli 2026, nr. 2026-14582, Ministerie van Financien, Stcrt. 2026, 27767</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/12/Cryptohandel.jpg" length="51627" type="image/jpeg" />	</item>
+		<item>
+		<title>Nog jaren minder huurhuizen door verkoopgolf</title>
+		<link>https://www.taxence.nl/nieuws/nog-jaren-minder-huurhuizen-door-verkoopgolf/</link>
+					<comments>https://www.taxence.nl/nieuws/nog-jaren-minder-huurhuizen-door-verkoopgolf/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2026 04:42:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vastgoed]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166539</guid>
+
+					<description><![CDATA[Door het massale verkopen van voormalige huurwoningen door beleggers zijn er waarschijnlijk nog jaren maar heel weinig huurwoningen in Nederland. Dat leidt vooral voor studenten en jonge starters die een huis zoeken tot grote problemen, verwacht vastgoedadviseur CBRE in een onderzoek waarover het FD maandag berichtte.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Door het massale verkopen van voormalige huurwoningen door beleggers zijn er waarschijnlijk nog jaren maar heel weinig huurwoningen in Nederland. Dat leidt vooral voor studenten en jonge starters die een huis zoeken tot grote problemen, verwacht vastgoedadviseur CBRE in een onderzoek waarover het FD berichtte.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens de cijfers van CBRE investeerden institutionele beleggers, zoals verzekeraars en pensioenfondsen, in de eerste helft van dit jaar ruim 2,7 miljard euro in de Nederlandse woningmarkt. Dat is ruim 40 procent meer dan in de eerste zes maanden van vorig jaar. Ze staken geld in 4391 nieuwbouwwoningen en kochten daarnaast 4377 bestaande woningen.</p>
+
+
+
+<p class="wp-block-paragraph">Maar de stijging zorgt nauwelijks voor meer keuze voor huizenzoekers in de vrije huursector. De vastgoedadviseur verwacht dat zo&#8217;n negen op de tien van deze woningen worden verkocht. De daadwerkelijke aantallen liggen volgens CBRE nog hoger, omdat particuliere beleggers ook meedoen aan dit zogeheten uitponden.</p>
+
+
+
+<p class="wp-block-paragraph">Beleggers doen al langer huurwoningen van de hand als de huurders zijn vertrokken. Dat komt omdat strengere regels voor het verhuren van huizen en meer belasting het voor hen minder aantrekkelijk hebben gemaakt om een nieuwe huurder te zoeken.</p>
+
+
+
+<p class="wp-block-paragraph">Het effect van de uitpondgolf is in absolute aantallen vooral in de vijf grootste steden zichtbaar, aldus CBRE. Maar de impact is &#8220;nog schrijnender&#8221; in kleinere steden als Venray en Krimpen aan den IJssel. In Venray verdwijnt naar schatting 19 procent van de huurwoningen die beleggers bezitten en in vergelijkbare kleinere steden loopt dat op tot ruim een vijfde.</p>
+
+
+
+<p class="wp-block-paragraph">De impact blijkt ook uit het huuraanbod op een groot woningplatform als Pararius. In Krimpen aan den IJssel worden daar momenteel geen huurwoningen aangeboden, in Venray één.</p>
+
+
+
+<p class="wp-block-paragraph">De massale verkoop van huurwoningen zorgt er volgens statistiekbureau CBS en makelaarsorganisatie NVM wel voor dat er meer huizen te koop worden gezet op de krappe woningmarkt. Dit drukt de huizenprijzen. De huizen die beleggers verkopen, zijn namelijk vaak goedkoper dan veel andere woningen die op de markt komen. De NVM verwacht wel dat de huizenprijzen verder stijgen als er weer minder voormalige huurhuizen in de verkoop gaan. De vraag naar woningen is nog steeds groot.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://fd.nl/samenleving/1606420/geen-nieuwbouw-veel-verkoop-de-private-huurmarkt-in-kleinere-steden-dreigt-te-verdwijnen" data-type="link" data-id="https://fd.nl/samenleving/1606420/geen-nieuwbouw-veel-verkoop-de-private-huurmarkt-in-kleinere-steden-dreigt-te-verdwijnen" target="_blank" rel="noreferrer noopener">FD, via ANP, 10 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nog-jaren-minder-huurhuizen-door-verkoopgolf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/11/Makelaar.jpg" length="38101" type="image/jpeg" />	</item>
+	</channel>
+</rss>

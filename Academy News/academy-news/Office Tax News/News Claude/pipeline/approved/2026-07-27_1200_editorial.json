@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-27",
+  "release": "2026-07-27-1200-editorial",
+  "items": [
+    {
+      "slug": "2026-07-27-1200-ru-news-01",
+      "title": "Дайджест международных налоговых новостей за неделю",
+      "caption": "Выпущен еженедельный обзор ключевых изменений в сфере международного налогового планирования и трансфертного ценообразования.\n\nИсточник: https://t.me/leads/\n\n#налоги #дайджест #финансы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "🗣 Дайджест новостей за 20 — 26 июля 2026 г.: 🟧Россия 🇷🇺 : Минфин 14 июля 2026 го",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-02",
+      "title": "Нидерланды уменьшили размер консервативного налогового оклада при эмиграции",
+      "caption": "Суд в Нидерландах вынес решение о снижении начисленного налогового оклада в связи с истечением срока рентных прав при переезде налогоплательщика.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #налоги #эмиграция #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Conserverende aanslag verminderd wegens vervallen lijfrenteaanspraak na emigrati",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-03",
+      "title": "Нидерланды уточнили правила определения момента получения налоговой выгоды",
+      "caption": "Налоговые органы подтвердили отсутствие необходимости введения отдельной нормы для фиксации момента налогообложения по ряду трудовых выплат.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #налогнадоходы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Afzonderlijke bepaling voor genietingsmoment box 3 niet vereist",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-04",
+      "title": "Введены новые формы декларации по налогу на наследство в Нидерландах",
+      "caption": "Налоговая служба Нидерландов обновила бланки налоговых деклараций при двухэтапном оформлении наследственных прав.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #налогнанаследство #декларация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Nieuw formulier voor aangifte erfbelasting bij tweetrapsmaking",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-05",
+      "title": "Британские миллионеры выступили за введение налога на роскошь и имущество",
+      "caption": "Группа состоятельных граждан Великобритании призвала правительство ввести прогрессивный налог на сверхкрупный капитал.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Великобритания #налогнаимущество #финансы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Britse miljonairs pleiten voor vermogensbelasting",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-06",
+      "title": "Опросы общественного мнения становятся новым инструментом в налоговом праве",
+      "caption": "В Нидерландах обсуждается методология применения социологических опросов для оценки налоговых правонарушений.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #налоговоеправо #практика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "De voxpop nu ook in het belastingrecht",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-07",
+      "title": "Нидерланды вводят прогрессивные штрафы за нарушения в реестре бенефициаров трастов",
+      "caption": "Министерство финансов Нидерландов утвердило порядок наложения административных штрафов на управляющих трастами за отсутствие сведений о бенефициарах.\n\nИсточник: https://regfollower.com/netherlands-consults-bill/\n\n#Нидерланды #трасты #бенефициары #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Netherlands sets escalating fines for trust UBO registration failures",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-consults-bill/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-08",
+      "title": "Румыния вынесла на обсуждение новые формы регистрации для электронных счетов",
+      "caption": "Национальное агентство налогового администрирования Румынии обновило регламент электронной системы выставления счетов.\n\nИсточник: https://regfollower.com/romania-consults-draft/\n\n#Румыния #НДС #электронныесчета #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Romania: ANAF consults new e-invoicing registration forms",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/romania-consults-draft/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-09",
+      "title": "Сейм Польши принял законопроект о режиме складских помещений и ужесточении норм",
+      "caption": "Парламент Польши утвердил комплексные изменения в законодательстве для предотвращения злоупотреблений в налоговых схемах.\n\nИсточник: https://regfollower.com/poland-enacts-bill/\n\n#Польша #законодательство #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Poland: Sejm introduces new VAT warehousing regime, tightens abuse rules",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/poland-enacts-bill/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-1200-ru-news-10",
+      "title": "ОЭСР опубликовала результаты рецензирования льготных налоговых режимов",
+      "caption": "ОЭСР обнародовала итоги проверки преференциальных режимов налогообложения стран в рамках 5 действия инициативы BEPS.\n\nИсточник: https://regfollower.com/oecd-releases-outcomes/\n\n#ОЭСР #BEPS #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международное налогообложение",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "OECD publishes new BEPS Action 5 peer review findings",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/oecd-releases-outcomes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

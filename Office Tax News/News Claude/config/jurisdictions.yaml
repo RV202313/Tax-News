@@ -1,0 +1,287 @@
+# География отбора. Главный принцип: тема важна только в связке со страной.
+# Ядро: Россия, Беларусь, Казахстан, Узбекистан, Нидерланды, ОАЭ. Вторая линия: бывший СССР,
+# кроме Беларуси и Украины, с учётом того, что RU/KZ/UZ уже в ядре. Третья
+# линия: всё остальное, включая Китай, США, Европу, Иран.
+
+defaults:
+  unscoped_cap: 1
+  third_line_cap: 2
+
+jurisdictions:
+  - id: kz
+    name: Казахстан
+    tier: core
+    weight: 8.0
+    keywords:
+      - Казахстан
+      - Казахстана
+      - РК
+      - Kazakhstan
+      - Kazakh
+      - Astana
+      - Астана
+      - КГД
+      - Комитет государственных доходов
+
+  - id: ru
+    name: Россия
+    tier: core
+    weight: 8.0
+    source_ids: [ru_garant, ru_ras, ru_fns, ru_minfin, ru_vs]
+    keywords:
+      - Россия
+      - России
+      - РФ
+      - Российская Федерация
+      - Russian
+      - Russia
+      - ФНС
+      - Минфин
+
+  - id: tj
+    name: Таджикистан
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Таджикистан
+      - Таджикистана
+      - РТ
+      - Tajikistan
+      - Tajik
+      - Душанбе
+      - Dushanbe
+      - Налоговый комитет Таджикистана
+
+  - id: by
+    name: Беларусь
+    tier: core
+    weight: 8.0
+    keywords:
+      - Беларусь
+      - Беларуси
+      - Республика Беларусь
+      - Belarus
+      - Belarusian
+      - Минск
+      - Minsk
+      - МНС
+      - Министерство по налогам и сборам
+
+  - id: uz
+    name: Узбекистан
+    tier: core
+    weight: 8.0
+    keywords:
+      - Узбекистан
+      - Узбекистана
+      - Uzbekistan
+      - Uzbek
+      - Ташкент
+      - Tashkent
+      - Налоговый комитет Узбекистана
+
+  - id: ae
+    name: ОАЭ
+    tier: core
+    weight: 8.0
+    keywords:
+      - ОАЭ
+      - Эмираты
+      - Объединенные Арабские Эмираты
+      - Объединённые Арабские Эмираты
+      - UAE
+      - United Arab Emirates
+      - Emirates
+      - Dubai
+      - Дубай
+      - Abu Dhabi
+      - Абу-Даби
+
+  - id: tm
+    name: Туркменистан
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Туркменистан
+      - Туркменистана
+      - Turkmenistan
+      - Turkmen
+      - Ашхабад
+      - Ashgabat
+
+  - id: az
+    name: Азербайджан
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Азербайджан
+      - Азербайджана
+      - Azerbaijan
+      - Azerbaijani
+      - Баку
+      - Baku
+
+  - id: am
+    name: Армения
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Армения
+      - Армении
+      - Armenia
+      - Armenian
+      - Ереван
+      - Yerevan
+
+  - id: ir
+    name: Иран
+    tier: third_line
+    weight: 1.0
+    keywords:
+      - Иран
+      - Ирана
+      - Iran
+      - Iranian
+      - Tehran
+      - Тегеран
+
+  - id: ua
+    name: Украина
+    tier: third_line
+    weight: 1.0
+    keywords:
+      - Украина
+      - Украины
+      - Ukraine
+      - Ukrainian
+      - Киев
+      - Kyiv
+      - ГНС Украины
+
+  - id: md
+    name: Молдова
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Молдова
+      - Молдовы
+      - Moldova
+      - Moldovan
+      - Кишинев
+      - Кишинёв
+      - Chisinau
+
+  - id: kg
+    name: Кыргызстан
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Кыргызстан
+      - Кыргызстана
+      - Киргизия
+      - Киргизии
+      - Kyrgyzstan
+      - Kyrgyz
+      - Bishkek
+      - Бишкек
+
+  - id: ge
+    name: Грузия
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Грузия
+      - Грузии
+      - Georgia
+      - Georgian
+      - Tbilisi
+      - Тбилиси
+
+  - id: ee
+    name: Эстония
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Эстония
+      - Эстонии
+      - Estonia
+      - Estonian
+      - Tallinn
+      - Таллин
+
+  - id: lv
+    name: Латвия
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Латвия
+      - Латвии
+      - Latvia
+      - Latvian
+      - Riga
+      - Рига
+
+  - id: lt
+    name: Литва
+    tier: second_line
+    weight: 4.0
+    keywords:
+      - Литва
+      - Литвы
+      - Lithuania
+      - Lithuanian
+      - Vilnius
+      - Вильнюс
+
+  - id: nl
+    name: Нидерланды
+    tier: core
+    weight: 8.0
+    source_ids: [nl_rechtspraak, nl_fd, nl_taxlive, nl_taxence]
+    keywords:
+      - Нидерланды
+      - Нидерландах
+      - Dutch
+      - Netherlands
+      - Nederland
+      - Belastingdienst
+
+  - id: cn
+    name: Китай
+    tier: third_line
+    weight: 1.0
+    keywords:
+      - Китай
+      - Китая
+      - China
+      - Chinese
+      - Beijing
+      - Пекин
+
+  - id: eu
+    name: Евространы
+    tier: third_line
+    weight: 1.0
+    keywords:
+      - EU
+      - Евросоюз
+      - Европейский союз
+      - European Union
+      - Germany
+      - France
+      - Italy
+      - Spain
+      - Poland
+
+  - id: us
+    name: США
+    tier: third_line
+    weight: 1.0
+    keywords:
+      - США
+      - Соединенные Штаты
+      - Соединённые Штаты
+      - United States
+      - US
+      - USA
+      - American

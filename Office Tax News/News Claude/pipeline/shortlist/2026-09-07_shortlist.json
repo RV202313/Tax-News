@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 396,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/japan-paraguay-ipa-to-enter-into-force/",
+      "ecli": "",
+      "act": "",
+      "title": "Japan, Paraguay IPA to enter into force",
+      "summary": "The Agreement between Japan and Paraguay for the Investment Protection Agreement (IPA), signed on 5 December 2025, will enter into force on 26 September 2026, following completion of Paraguay’s required internal procedures. The Government of Japan received notification from the Government of the Republic of Paraguay on 28 August 2026 (August 27 local time), confirming...",
+      "published_at": "2026-09-07",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

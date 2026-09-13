@@ -1,0 +1,16 @@
+﻿{
+    "issues":  [
+                   "SLA: Нет манифеста сбора за сегодня"
+               ],
+    "actions_taken":  [
+
+                      ],
+    "timestamp":  "2026-09-14T00:40:06.4909676+02:00",
+    "warnings":  [
+                     "НейроЮрист не имеет подтверждённого выпуска за сегодня"
+                 ],
+    "portal_healthy":  true,
+    "tasks_healthy":  true,
+    "release_sla_healthy":  false,
+    "healthy":  false
+}

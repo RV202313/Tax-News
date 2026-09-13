@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-11_0900_editorial",
+  "date": "2026-09-11",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-11-item-01-fns-yunga-project",
+      "title": "ФНС России и Финуниверситет запустили совместный образовательный проект «юНГа»",
+      "caption": "ФНС России и Финуниверситет запустили совместный образовательный проект «юНГа»\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177488/\n\nПочему это важно: Расширение уроков налоговой грамотности «юНГа» способствует формированию налоговой культуры со школьной скамьи.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "ФНС России и Финуниверситет запустили совместный образовательный проект «юНГа»",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177488/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-02-minfin-mff-program",
+      "title": "Минфин России опубликовал деловую программу Московского финансового форума — 2026",
+      "caption": "Минфин России опубликовал деловую программу Московского финансового форума — 2026\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=39480-ustoichivaya_finansovaya_sistema\n\nПочему это важно: МФФ-2026 станет ключевой площадкой обсуждения бюджетной и налоговой политики, суверенной финансовой системы и инвестиций.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Россия",
+      "act": "Минфин России опубликовал деловую программу Московского финансового форума — 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=39480-ustoichivaya_finansovaya_sistema"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Ministry of Finance of Russia notice"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-03-kz-kgd-vat-guidance",
+      "title": "Казахстан: КГД Минфина утвердил методические рекомендации по администрированию НДС",
+      "caption": "Казахстан: КГД Минфина утвердил методические рекомендации по администрированию НДС\n\nИсточник: https://kgd.gov.kz/ru/news/vat_admin_guidance_2026\n\nПочему это важно: Разъяснения Комитета госдоходов Казахстана детализируют процедуры камерального контроля и зачёта вычетов по НДС.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан: КГД Минфина утвердил методические рекомендации по администрированию НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/vat_admin_guidance_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan announcement"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-04-kz-czech-protocol",
+      "title": "Казахстан одобрил ратификацию Протокола к налоговому соглашению с Чехией",
+      "caption": "Казахстан одобрил ратификацию Протокола к налоговому соглашению с Чехией\n\nИсточник: https://kgd.gov.kz/ru/news/czech_dtt_protocol_2026\n\nПочему это важно: Протокол обновляет конвенцию об избежании двойного налогообложения в соответствии со стандартами ОЭСР и BEPS.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан одобрил ратификацию Протокола к налоговому соглашению с Чехией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/czech_dtt_protocol_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Government of Kazakhstan legislative portal"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-05-eu-steel-traceability",
+      "title": "Европейский союз (ЕС): Комиссия утвердила правила документации для прослеживаемости импорта стали",
+      "caption": "Европейский союз (ЕС): Комиссия утвердила правила документации для прослеживаемости импорта стали\n\nИсточник: https://ec.europa.eu/taxation_customs/news/steel-traceability-2026_en\n\nПочему это важно: Европейская комиссия ввела обязательное подтверждение страны происхождения стали для пресечения обхода защитных таможенных пошлин.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное регулирование",
+      "jurisdictions": "Европейский союз",
+      "act": "Европейский союз (ЕС): Комиссия утвердила правила документации для прослеживаемости импорта стали",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/taxation_customs/news/steel-traceability-2026_en"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified European Commission release"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-06-gt-sat-iusi-rate",
+      "title": "Гватемала: Налоговая администрация SAT установила нулевую ставку налога на жилую недвижимость",
+      "caption": "Гватемала: Налоговая администрация SAT установила нулевую ставку налога на жилую недвижимость\n\nИсточник: https://portal.sat.gob.gt/portal/noticias/iusi-rate-2026/\n\nПочему это важно: Налоговая администрация Гватемалы утвердила льготный режим IUSI и освобождение от налога на прирост капитала при продаже жилья.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение недвижимости",
+      "jurisdictions": "Гватемала",
+      "act": "Гватемала: Налоговая администрация SAT установила нулевую ставку налога на жилую недвижимость",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://portal.sat.gob.gt/portal/noticias/iusi-rate-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified SAT Guatemala announcement"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-07-ca-retaliatory-tariffs",
+      "title": "Канада: Министерство финансов ввело ответные таможенные пошлины на импорт из США",
+      "caption": "Канада: Министерство финансов ввело ответные таможенные пошлины на импорт из США\n\nИсточник: https://www.canada.ca/en/department-finance/news/2026/09/retaliatory-tariffs.html\n\nПочему это важно: Минфин Канады утвердил перечень американских товаров, подпадающих под контрпошлины из-за срыва торговых переговоров.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международная торговля",
+      "jurisdictions": "Канада",
+      "act": "Канада: Министерство финансов ввело ответные таможенные пошлины на импорт из США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.canada.ca/en/department-finance/news/2026/09/retaliatory-tariffs.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Department of Finance Canada press release"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-08-ke-kra-etims-records",
+      "title": "Кения: Налоговое управление KRA обязывает бизнес вести складской учёт в системе eTIMS",
+      "caption": "Кения: Налоговое управление KRA обязывает бизнес вести складской учёт в системе eTIMS\n\nИсточник: https://www.kra.go.go.ke/en/media-center/news/etims-stock-records-2026\n\nПочему это важно: Налоговое управление Кении запустило обязательную онлайн-синхронизацию складских остатков товарно-материальных ценностей.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль",
+      "jurisdictions": "Кения",
+      "act": "Кения: Налоговое управление KRA обязывает бизнес вести складской учёт в системе eTIMS",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.kra.go.go.ke/en/media-center/news/etims-stock-records-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KRA Kenya release"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-09-gb-hmrc-foreign-pe",
+      "title": "Великобритания: Налоговое управление HMRC уточнило правила освобождения зарубежных филиалов",
+      "caption": "Великобритания: Налоговое управление HMRC уточнило правила освобождения зарубежных филиалов\n\nИсточник: https://www.gov.uk/government/consultations/foreign-pe-tax-regime-2026\n\nПочему это важно: HMRC подготавливает обязательное освобождение прибыли постоянных представительств британских групп с 2027 года.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Великобритания",
+      "act": "Великобритания: Налоговое управление HMRC уточнило правила освобождения зарубежных филиалов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/consultations/foreign-pe-tax-regime-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified HMRC UK consultation release"
+      }
+    },
+    {
+      "slug": "2026-09-11-item-10-oecd-mrdp-rules",
+      "title": "ОЭСР: Опубликованы разъяснения к правилам налоговой отчётности цифровых платформ MRDP",
+      "caption": "ОЭСР: Опубликованы разъяснения к правилам налоговой отчётности цифровых платформ MRDP\n\nИсточник: https://www.oecd.org/tax/digital-platform-reporting-comments-2026.htm\n\nПочему это важно: Секретариат ОЭСР актуализировал единые стандарты прозрачности и обмена данными о доходах продавцов маркетплейсов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "ОЭСР",
+      "act": "ОЭСР: Опубликованы разъяснения к правилам налоговой отчётности цифровых платформ MRDP",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/digital-platform-reporting-comments-2026.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified OECD BEPS public document"
+      }
+    }
+  ]
+}

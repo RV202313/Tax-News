@@ -1,0 +1,72 @@
+# Интеграция публикации через Postiz (self-hosted).
+# Используется ПРОМТ 4 — только после явного подтверждения по каждому посту.
+#
+# ВАЖНО про доступность:
+# Ваш Postiz поднят на http://localhost:4007 (docker-compose в папке postiz/).
+# На маке publish_batch.py и publishers.py ходят на localhost напрямую.
+# Для облачной Cowork-сессии остаётся fallback через вкладку Chrome; рецепт — в
+# scripts/postiz_publish.md.
+
+connection:
+  transport: localhost_http       # прямой Public API с мака; chrome_localhost — fallback
+  base_url: http://localhost:4007
+  api_key_file: .env.postiz        # POSTIZ_API_KEY=...; взять в Postiz UI → Settings → Developers → Public API → API Key (это НЕ MCP-токен той же страницы)
+  endpoints:
+    integrations: /api/public/v1/integrations   # GET
+    create_post: /api/public/v1/posts           # POST
+    upload: /api/public/v1/upload               # POST multipart (поле "file")
+    upload_from_url: /api/public/v1/upload-from-url  # POST { "url": "https://..." } — практичнее из браузерного JS, чем multipart
+  auth_header: "Authorization: <ключ без префикса Bearer>"  # подтверждено кодом (public.auth.middleware.ts) и докс (docs.postiz.com/public-api)
+  verified_against: |
+    Исходники gitroomhq/postiz-app (клон в песочнице, commit 6b2e77f, 2026-07-02:
+    apps/backend/src/public-api/routes/v1/public.integrations.controller.ts,
+    apps/backend/src/services/auth/public.auth.middleware.ts,
+    libraries/nestjs-libraries/src/dtos/posts/create.post.dto.ts,
+    var/docker/nginx.conf) + независимо перепроверено по docs.postiz.com/public-api
+    (совпало по всем полям). Живой первый вызов на этой инсталляции — см.
+    scripts/postiz_publish.md, Шаг 1.
+
+# Перед первым использованием выполнить discovery (Шаг 1 в scripts/postiz_publish.md)
+# и вписать реальные id ниже:
+#   открыть http://localhost:4007 в Chrome → javascript_tool → GET /api/public/v1/integrations
+#   с заголовком Authorization: <ключ> — вернёт id всех подключённых каналов.
+#
+# В Postiz подключаются только не-TG каналы. Telegram идёт через Telethon
+# в редакционный поток и никогда не дублируется через Postiz.
+
+# Маппинг: канал конвейера -> Postiz integration id
+channel_map:
+  telegram_channel:
+    enabled: false                    # защита от дублирования TG через Postiz
+    postiz_integration_id: ""      # TODO: id из integrations:list (identifier=telegram)
+    default: schedule              # schedule | draft | now
+  vk:
+    postiz_integration_id: ""      # TODO: id (identifier=vk)
+    provider_identifier: vk
+    default: schedule
+  linkedin:
+    postiz_integration_id: ""      # TODO: если LinkedIn ведём через Postiz
+    provider_identifier: linkedin   # discovery заменит на linkedin-page для страницы
+    default: draft
+  # telegram_chats: НЕ через Postiz — рассылка через ваш антиспам-контакт/бот.
+  # site, email: НЕ через Postiz — сайт и рассылка публикуются отдельно.
+
+rules:
+  - Публиковать/планировать ТОЛЬКО после явного «да» по каждому посту (ПРОМТ 4).
+  - "Дата (-s, ISO 8601) обязательна: для планирования — будущее время; для «сейчас» — текущее."
+  - "Медиа сначала загрузить: postiz upload <файл> -> взять .path -> в -m."
+  - По умолчанию LinkedIn создаём как draft (проверка перед отправкой).
+  - "После публикации записать в log/pipeline_log.md: «опубликовано: канал, дата, ссылка/post-id»."
+
+# Примеры команд для npm-CLI `postiz` (не сверено с текущей версией живым
+# запуском в этой сессии — сверена только сама REST-схема, которую CLI
+# оборачивает; синтаксис флагов взят из документации CLI-скилла postiz).
+# Работает только там, где есть сетевой доступ к localhost:4007, т.е. на
+# машине пользователя, не в песочнице Cowork. Основной путь на маке —
+# publish_batch.py; chrome_localhost — резерв, см. scripts/postiz_publish.md.
+# Примеры команд (подставить реальные id):
+#   Черновик в VK (в Telegram через Postiz не дублируем):
+#     postiz posts:create -c "<текст>" -s "2026-07-03T09:00:00Z" -t draft -i "<vk-id>"
+#   С картинкой:
+#     IMG=$(postiz upload cover.png | jq -r '.path'); \
+#     postiz posts:create -c "<текст>" -m "$IMG" -s "2026-07-03T09:00:00Z" -i "<tg-id>"

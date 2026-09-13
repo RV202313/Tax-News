@@ -1,0 +1,397 @@
+{
+  "date": "2026-08-26",
+  "release": "2026-08-26_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-08-26-china-norway-dta-enters-force",
+      "title": "Вступило в силу новое налоговое соглашение между Китаем и Норвегией",
+      "caption": "Государственное налоговое управление Китая объявило о вступлении в силу нового соглашения об избежании двойного налогообложения с Норвегией. Документ заменяет собой устаревшее налоговое соглашение 1986 года.\n\nИсточник: https://regfollower.com/china-norway-income-tax-treaty-enters-into-force/\n\n#Китай #Норвегия #НалоговоеСоглашение #ИзбежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налоговое соглашение",
+      "jurisdictions": "Китай / Норвегия",
+      "act": "Соглашение об избежании двойного налогообложения между КНР и Норвегией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/china-norway-income-tax-treaty-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-finland-france-dta-enters-force",
+      "title": "Новое налоговое соглашение между Финляндией и Францией вступает в силу",
+      "caption": "Новое соглашение об избежании двойного налогообложения между Финляндией и Францией вступает в силу 28 августа 2026 года. Оно заменяет старую налоговую конвенцию 1970 года и регулирует налоги на доходы и корпоративные налоги в обеих странах.\n\nИсточник: https://regfollower.com/finland-france-income-tax-treaty-enters-into-force/\n\n#Финляндия #Франция #НалоговоеСоглашение #ИзбежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налоговое соглашение",
+      "jurisdictions": "Финляндия / Франция",
+      "act": "Соглашение об избежании двойного налогообложения между Финляндией и Францией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/finland-france-income-tax-treaty-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.5,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-farm-appurtenances-reduced-rate",
+      "title": "Нидерланды: Суд распространил пониженную ставку налога 2% на все хозяйственные постройки фермы",
+      "caption": "Апелляционный суд Хертогенбоса постановил, что сараи, манеж для лошадей и пастбище на территории фермерского двора квалифицируются как хозяйственные постройки, относящиеся к жилому дому. Это позволяет применить пониженную ставку налога на передачу недвижимости в размере 2% ко всей сделке.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxence.nl/nieuws/aanhorigheden-boerderij-vallen-onder-verlaagde-2-tarief/\n\n#Нидерланды #НалогНаПередачуИмущества #СудебныйСпор #ЛьготнаяСтавка #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги на имущество / судебные споры",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Хертогенбоса по делу о налоге на передачу имущества",
+      "court": "Gerechtshof 's-Hertogenbosch",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/aanhorigheden-boerderij-vallen-onder-verlaagde-2-tarief/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-updated-payroll-tax-forms",
+      "title": "Нидерланды: Налоговая служба обновила формы декларации по налогу на заработную плату",
+      "caption": "Налоговая служба Нидерландов опубликовала скорректированные формы деклараций по налогу на заработную плату. Изменения направлены на предотвращение одновременного применения налоговой скидки несколькими работодателями, что часто приводило к необходимости доплат по итогам года.\n\nИсточник: https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/\n\n#Нидерланды #НалогНаЗарплату #НалоговаяСкидка #ФормыДеклараций #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги с физических лиц / налог на заработную плату",
+      "jurisdictions": "Нидерланды",
+      "act": "Формы деклараций по налогу на заработную плату (Model opgaaf gegevens loonheffingen)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/aangepaste-modellen-opgaaf-gegevens-voor-de-loonheffingen-beschikbaar/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-ryanair-criticizes-aviation-tax",
+      "title": "Нидерланды: RYANAIR раскритиковала правительство за повышение «псевдозеленого» налога на пассажиров",
+      "caption": "Авиакомпания RYANAIR выступила с резкой критикой планов правительства Нидерландов по повышению экологического сбора на авиапассажиров. Руководство компании назвало налог «псевдозеленым» и заявило, что он не решает экологические проблемы, а лишь вредит конкурентоспособности страны.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/ryanair-haalt-hard-uit-naar-kabinet-om-nep-groene-belasting/\n\n#Нидерланды #Ryanair #ЭкологическийНалог #Авиаперевозки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / экологические налоги",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение правительства Нидерландов о повышении налога на авиапассажиров",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/ryanair-haalt-hard-uit-naar-kabinet-om-nep-groene-belasting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-tax-interest-rates-discussion",
+      "title": "Нидерланды: Дискуссия о справедливости текущих ставок налоговых процентов",
+      "caption": "В налоговом сообществе Нидерландов развернулась дискуссия о том, соответствуют ли текущие ставки налоговых процентов рыночным условиям. Эксперты обсуждают, является ли процентная ставка слишком высокой или низкой для различных категорий налогоплательщиков.\n\nИсточник: https://www.taxlive.nl/nl/documenten/opinie/columns/belastingrente-te-hoog-of-juist-te-laag/\n\n#Нидерланды #НалоговыеПроценты #СтавкиНалога #Дискуссия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль / налоговые проценты",
+      "jurisdictions": "Нидерланды",
+      "act": "Дискуссия о ставках налоговых процентов в Нидерландах",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/opinie/columns/belastingrente-te-hoog-of-juist-te-laag/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-data-exchange-dac8-carf-documents",
+      "title": "Нидерланды: Опубликованы документы о подготовке налоговой службы к правилам DAC8 и CARF",
+      "caption": "Налоговые органы Нидерландов раскрыли документы, касающиеся подготовки к внедрению европейских правил обмена данными DAC8 и глобального стандарта CARF. Документы демонстрируют процесс запуска новых обязательств по отчетности для криптоплатформ, вступивших в силу в 2026 году.\n\nИсточник: https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/\n\n#Нидерланды #DAC8 #CARF #Криптоактивы #ОбменДанными #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международный обмен информацией / DAC8 / CARF",
+      "jurisdictions": "Нидерланды / ЕС",
+      "act": "Документы по подготовке к правилам DAC8 и CARF в Нидерландах",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/documenten-openbaar-over-voorbereiding-belastingdienst-op-nieuwe-regels-voor-digitale-gegevensuitwisseling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 8.7,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-tax-education-high-schools-proposal",
+      "title": "Нидерланды: Таможенный эксперт предложила преподавать налоговое право в школах",
+      "caption": "Известный таможенный эксперт Фелиция Монне высказала мнение, что базовое обучение налоговому праву необходимо ввести в программу средних школ. По ее мнению, это повысит финансовую грамотность будущих налогоплательщиков и улучшит комплаенс.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/douane-expert-felicia-moenne-eigenlijk-is-het-raar-dat-je-op-de-middelbare-school-geen-belastingrecht-krijgt/\n\n#Нидерланды #НалоговоеПраво #ФинансоваяГрамотность #Образование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое право / финансовое образование",
+      "jurisdictions": "Нидерланды",
+      "act": "Инициатива по интеграции налогового права в школьную программу",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/douane-expert-felicia-moenne-eigenlijk-is-het-raar-dat-je-op-de-middelbare-school-geen-belastingrecht-krijgt/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 8.7,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-nl-objective-tax-liability-comparison",
+      "title": "Нидерланды: Анализ объективной налоговой обязанности индивидуальных предпринимателей и юрлиц",
+      "caption": "Опубликован детальный аналитический материал, сравнивающий условия объективной налоговой обязанности для индивидуальных предпринимателей и юридических лиц, облагаемых налогом на прибыль в Нидерландах. Рассматриваются особенности квалификации доходов.\n\nИсточник: https://www.taxlive.nl/nl/documenten/opinie/uitvergroot/de-objectieve-belastingplicht-van-een-ib-ondernemer-en-een-vpb-plichtig-lichaam/\n\n#Нидерланды #КорпоративныйНалог #ПодоходныйНалог #НалоговыйАнализ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прибыль / подоходный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Сравнительный анализ объективной налоговой обязанности в Нидерландах",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/opinie/uitvergroot/de-objectieve-belastingplicht-van-een-ib-ondernemer-en-een-vpb-plichtig-lichaam/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 8.7,
+      "published_at": "2026-08-26"
+    },
+    {
+      "slug": "2026-08-26-morocco-chad-dta-ratification",
+      "title": "Марокко ратифицировало соглашение об избежании двойного налогообложения с Чадом",
+      "caption": "Правительство Марокко опубликовало Королевский указ № 1.26.39 об утверждении закона о ратификации соглашения об избежании двойного налогообложения с Чадом. Документ направлен на развитие двусторонней торговли и предотвращение уклонения от налогов.\n\nИсточник: https://regfollower.com/morocco-ratifies-income-tax-treaty-with-chad/\n\n#Марокко #Чад #НалоговоеСоглашение #ИзбежаниеДвойногоНалогообложения #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / налоговое соглашение",
+      "jurisdictions": "Марокко / Чад",
+      "act": "Закон о ратификации соглашения об избежании двойного налогообложения между Марокко и Чадом",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/morocco-ratifies-income-tax-treaty-with-chad/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-08-26"
+    }
+  ]
+}

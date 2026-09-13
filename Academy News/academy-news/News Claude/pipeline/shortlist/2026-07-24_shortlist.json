@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-24",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 170,
+      "source": "telegram_leads",
+      "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16636978/",
+      "ecli": "",
+      "act": "",
+      "title": "🟩🟩🟩 Резиденты с зарубежными счетами в странах ЕАЭС не отчитываются перед ФНС при обороте до 600 тыс. руб. Отчет также не требуется, если гражданин проживает за границей более 18…",
+      "summary": "🟩🟩🟩 Резиденты с зарубежными счетами в странах ЕАЭС не отчитываются перед ФНС при обороте до 600 тыс. руб. Отчет также не требуется, если гражданин проживает за границей более 183 дней. Это следует из разъяснений заместителя руководителя ФНС Юлии Шепелевой. В остальных случаях налогоплательщики-резиденты ежегодно до 1 июня отчитываются перед ФНС о движении средств по зарубежным счетам, электронным кошелькам, брокерским счетам и договорам страхования жизни. При пропуске срока подачи отчета налоговая служба в первый раз выносит предупреждение, а не штраф.",
+      "published_at": "2026-07-24",
+      "score": 11.684,
+      "topics": [
+        "ru_tax_admin"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": true,
+      "channel": "@offshorechannel",
+      "message_id": 9273,
+      "engagement": 21.983,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 171,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/hoogleraar-in-fd-verrekenprijzen-shell-zijn-onzakelijk-en-daarmee-illegaal/",
+      "ecli": "",
+      "act": "",
+      "title": "Hoogleraar in FD: 'Verrekenprijzen Shell zijn onzakelijk en daarmee illegaal'",
+      "summary": "",
+      "published_at": "2026-07-24",
+      "score": 11.5,
+      "topics": [
+        "transfer_pricing"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 172,
+      "source": "telegram_leads",
+      "url": "https://t.me/BEPSAcademyRU/999",
+      "ecli": "",
+      "act": "",
+      "title": "🇳🇱 Нидерланды: налог по КИК не гарантирует освобождение дивидендов В Нидерландах налогообложение прибыли по правилам КИК и последующее применение participation exemption рассмат…",
+      "summary": "🇳🇱 Нидерланды: налог по КИК не гарантирует освобождение дивидендов В Нидерландах налогообложение прибыли по правилам КИК и последующее применение participation exemption рассматриваются как два самостоятельных этапа. Уплата налога по правилам КИК сама по себе не означает, что дивиденды, позднее полученные от этой компании, автоматически будут освобождены от налогообложения. ⚠️ Если условия participation exemption не выполняются, дивиденды могут снова попасть под налог в Нидерландах. При этом пока не вполне ясно, можно ли будет зачесть ранее уплаченный налог по КИК против налога, возникающего при фактическом распределении прибыли. Позиция налоговых органов осторожная: заранее автоматического освобождения или зачёта никто не обещает. 📌 Риск особенно актуален при владении компаниями: — в низконалоговых юрисдикциях; — в юрисдикциях со специальными налоговыми режимами. Такие структуры требуют отдельного анализа не только на этапе применения правил КИК, но и при последующем распределении дивидендов, чтобы заранее оце",
+      "published_at": "2026-07-24",
+      "score": 11.081,
+      "topics": [
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": true,
+      "channel": "@BEPSAcademyRU",
+      "message_id": 999,
+      "engagement": 1.062,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 173,
+      "source": "telegram_leads",
+      "url": "https://t.me/BEPSAcademyRU/1000",
+      "ecli": "",
+      "act": "",
+      "title": "🇺🇿 Узбекистан расширяет международный обмен налоговой информацией Присоединение к многосторонней системе административной помощи создаёт основу не только для обмена информацией …",
+      "summary": "🇺🇿 Узбекистан расширяет международный обмен налоговой информацией Присоединение к многосторонней системе административной помощи создаёт основу не только для обмена информацией по запросу, но и для автоматического обмена финансовыми данными по стандарту CRS. Это не означает, что обмен начнётся сразу со всеми странами: необходимо определить перечень государств-партнёров и активировать соответствующие отношения по обмену. 🌍 При этом некоторые страны могут передавать информацию в одностороннем порядке, не ожидая полноценной взаимности. Поэтому Узбекистан потенциально сможет получать сведения об иностранных счетах своих налоговых резидентов. ⚠️ Нельзя исключать и передачу данных за предыдущие периоды. Подобная практика уже встречалась при подключении других стран к международному обмену. Это не повод для паники, но повод заранее проверить иностранные счета, активы и выполнение требований по их декларированию. Возможны сюрпризы — лучше подготовиться к ним заранее.",
+      "published_at": "2026-07-24",
+      "score": 9.88,
+      "topics": [
+        "exchange_info"
+      ],
+      "jurisdictions": [
+        "uz"
+      ],
+      "jurisdiction_names": [
+        "Узбекистан"
+      ],
+      "lead": true,
+      "channel": "@BEPSAcademyRU",
+      "message_id": 1000,
+      "engagement": 1.057,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 174,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-aftrek-voorbelasting-zonder-deugdelijke-onderbouwing/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen aftrek voorbelasting zonder deugdelijke onderbouwing",
+      "summary": "",
+      "published_at": "2026-07-24",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 175,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/door-verrekening-belastingkorting-geen-recht-op-verhoging-gecombineerde-heffingskorting-bij-partner/",
+      "ecli": "",
+      "act": "",
+      "title": "Door verrekening belastingkorting geen recht op verhoging gecombineerde heffingskorting bij partner",
+      "summary": "",
+      "published_at": "2026-07-24",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 176,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/opbrengsten-winstbelasting-in-oeso-landen-stabiel-hoog/",
+      "ecli": "",
+      "act": "",
+      "title": "Opbrengsten winstbelasting in Oeso-landen stabiel hoog",
+      "summary": "",
+      "published_at": "2026-07-24",
+      "score": 9.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 8,
+      "item_id": 177,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/belgium-introduces-pillar-two-mandate-for-professional-tax-representatives/",
+      "ecli": "",
+      "act": "",
+      "title": "Belgium introduces Pillar Two mandate for professional tax representatives",
+      "summary": "Belgium’s Federal Public Service (SPF) Finance has updated its Pillar Two guidance on 23 July 2026 to introduce a new Pillar Two mandate, allowing companies to formally appoint a professional representative, such as an accounting firm or an independent proxy, to manage their Pillar Two global minimum tax obligations. Once the mandate is activated through...",
+      "published_at": "2026-07-24",
+      "score": 3.5,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 27 Jul 2026 08:31:11 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Opinie &#124; Zit er AI in processtukken of hallucineer ik?</title>
+		<link>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-zit-er-ai-in-processtukken-of-hallucineer-ik/</link>
+					<comments>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-zit-er-ai-in-processtukken-of-hallucineer-ik/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 07:31:34 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166120</guid>
+
+					<description><![CDATA[AI speelt een steeds grotere rol in de rechtspraktijk, met name bij het opstellen van processtukken. Na een afbakening van de begrippen ‘AI’ en ‘processtukken’ gaat mr. J. Hollander in deze NTFR Opinie in op het bredere debat in literatuur en jurisprudentie over het gebruik van AI. De conclusie is dat het huidige gebruik van<a class="read-more" href="https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-zit-er-ai-in-processtukken-of-hallucineer-ik/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">AI speelt een steeds grotere rol in de rechtspraktijk, met name bij het opstellen van processtukken. Na een afbakening van de begrippen ‘AI’ en ‘processtukken’ gaat mr. J. Hollander in deze NTFR Opinie in op het bredere debat in literatuur en jurisprudentie over het gebruik van AI. De conclusie is dat het huidige gebruik van AI in processtukken problematisch is. Vervolgens worden mogelijke oplossingen besproken, waaronder een verbod op AI in processtukken. Omdat een dergelijk verbod niet wenselijk en naar huidig recht niet haalbaar wordt geacht, ligt de nadruk uiteindelijk op minder ingrijpende alternatieven.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <strong><a href="https://www.ndfr.nl/content/p1-1183870" data-type="link" data-id="https://www.ndfr.nl/content/p1-1183870" target="_blank" rel="noreferrer noopener">NDFR</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/fiscaal-nieuws/opinie-zit-er-ai-in-processtukken-of-hallucineer-ik/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/AI-Ron-Meijer.jpg" length="37965" type="image/jpeg" />	</item>
+		<item>
+		<title>Gepensioneerde dga ontkomt niet aan gebruikelijk loon</title>
+		<link>https://www.taxence.nl/nieuws/gepensioneerde-dga-ontkomt-niet-aan-gebruikelijk-loon/</link>
+					<comments>https://www.taxence.nl/nieuws/gepensioneerde-dga-ontkomt-niet-aan-gebruikelijk-loon/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 06:13:04 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166099</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat de dga geen feiten en omstandigheden aannemelijk maakt die een lager gebruikelijk loon dan het normbedrag van € 47.000 rechtvaardigen. Dat hij met pensioen is en de bedrijfsactiviteiten zijn afgebouwd, is daarvoor onvoldoende.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat de dga geen feiten en omstandigheden aannemelijk maakt die een lager gebruikelijk loon dan het normbedrag van € 47.000 rechtvaardigen. Dat hij met pensioen is en de bedrijfsactiviteiten zijn afgebouwd, is daarvoor onvoldoende.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man, geboren in 1946, is tot 27 december 2021 houder van alle aandelen in twee bv&#8217;s. Die bv&#8217;s houden in 2021 belangen van meer dan 5% in meerdere vennootschappen en behalen een fiscale winst van € 61.510 respectievelijk € 21.068. De man doet aangifte IB/PVV 2021 naar een belastbaar inkomen uit werk en woning van € 45.088. De inspecteur ontdekt dat in de bv omzet is gegenereerd, terwijl er geen andere werknemers zijn dan de man zelf. De inspecteur stelt daarom een gebruikelijk loon vast van € 47.000 en legt een aanslag op naar een inkomen van € 109.036. De man vindt een gebruikelijk loon van € 12.000 per jaar billijk: het forfait staat volgens hem niet in verhouding tot de resultaten en tot zijn tijdbeslag van één dag per maand. Bovendien is hij met pensioen en zijn de bedrijfsactiviteiten afgebouwd. In geschil is de correctie gebruikelijk loon.</p>
+
+
+
+<h2 class="wp-block-heading">Aandelen vormen aanmerkelijk belang </h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de aandelen die de man houdt in beide bv&#8217;s een aanmerkelijk belang vormen in de zin van de Wet IB 2001. Dat geldt ook voor de indirect gehouden belangen in de vennootschappen onder die bv&#8217;s. Ook die aandelen hebben dus te gelden als een (indirect gehouden) aanmerkelijk belang. Daarmee is de gebruikelijkloonregeling op de man van toepassing.</p>
+
+
+
+<h2 class="wp-block-heading">Man maakt lager loon niet aannemelijk </h2>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de man, op wie de bewijslast rust, onvoldoende feiten en omstandigheden stelt waaruit volgt dat met een lager gebruikelijk loon dan het normbedrag van € 47.000 kan worden volstaan. Dat hij in 2021 de leeftijd van 74/75 jaar bereikt, kan een indicatie zijn dat hij niet meer voltijd maar in deeltijd werkt. Zonder nadere toelichting, die de man niet geeft, bestaat hierover echter geen duidelijkheid. Bovendien betekent deeltijdwerk niet automatisch dat van het normbedrag in het voordeel van de man moet worden afgeweken. Ook een toelichting op de bedrijfsactiviteiten van de vennootschappen in 2021 en het daarmee gemoeide tijdsbeslag ontbreekt. Het gelijk is aan de inspecteur en het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" data-type="link" data-id="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 12a, eerste lid Wet LB 1964</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.6?tab=commentaar" data-type="link" data-id="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.6 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.81?tab=commentaar" data-type="link" data-id="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.81?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.81 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_5528" data-type="link" data-id="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_5528" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland 10 juli 2026 (gepubliceerd 21 juli 2026), ECLI:NL:RBGEL:2026:5528, AWB 25/1416</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-88b85323-ca02-4184-acb7-4c18c7a7792c" href="https://www.licentacademy.nl/agenda-2/3015/online-cursus-gebruikelijk-loon-2025" target="_blank" rel="noopener noreferrer"><span>Online cursus Gebruikelijk loon 2026</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-88b85323-ca02-4184-acb7-4c18c7a7792c{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-88b85323-ca02-4184-acb7-4c18c7a7792c:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-88b85323-ca02-4184-acb7-4c18c7a7792c > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/gepensioneerde-dga-ontkomt-niet-aan-gebruikelijk-loon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt budget arbovoorzieningen</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-budget-arbovoorzieningen/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-budget-arbovoorzieningen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 05:55:30 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166096</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de gerichte vrijstelling voor arbovoorzieningen in het geval de werkgever een (maximaal) budget ter beschikking stelt voor de aanschaf van arbovoorzieningen door de werknemer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de gerichte vrijstelling voor arbovoorzieningen in het geval de werkgever een (maximaal) budget ter beschikking stelt voor de aanschaf van arbovoorzieningen door de werknemer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een werkgever heeft in zijn arboplan opgenomen dat thuiswerken op een arboverantwoorde manier moet plaatsvinden. De werkgever stelt in dit kader iedere werknemer in de gelegenheid om tot een bedrag van €&nbsp;500 aan arbovoorzieningen voor thuis aan te schaffen. De kosten van deze arbovoorzieningen worden op declaratiebasis vergoed. De werknemer moet dus aantonen wat hij heeft aangeschaft voor de inrichting van zijn thuiswerkplek.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de gerichte vrijstelling voor arbovoorzieningen van toepassing op de vergoeding?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, mits de aangeschafte voorziening voldoet aan de arbowettelijke eisen en de vergoeding kostendekkend is. Als de vergoeding niet kostendekkend is, bijvoorbeeld omdat een deel van de kosten vanwege een overschrijding van het budget niet wordt uitbetaald, is de gerichte vrijstelling in beginsel niet van toepassing. Dit is alleen anders als de werkgever aannemelijk kan maken dat de werknemer voor het gedeclareerde bedrag een goedkopere arbovoorziening met een vergelijkbare functionaliteit had kunnen kopen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg204202615-budget-arbovoorzieningen/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/publicaties/kg204202615-budget-arbovoorzieningen/" target="_blank" rel="noreferrer noopener">Belastingdienst, 23 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-budget-arbovoorzieningen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/08/Thuiswerken-arbo.jpg" length="44820" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleidsbesluit hybridemismatches 2026 gepubliceerd</title>
+		<link>https://www.taxence.nl/nieuws/beleidsbesluit-hybridemismatches-2026-gepubliceerd/</link>
+					<comments>https://www.taxence.nl/nieuws/beleidsbesluit-hybridemismatches-2026-gepubliceerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 05:30:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166112</guid>
+
+					<description><![CDATA[De staatssecretaris van Financiën heeft het Beleidsbesluit hybridemismatches 2026 gepubliceerd. Het besluit vervangt het eerdere beleidsbesluit en bevat nieuwe standpunten en voorbeelden over de toepassing van de hybridemismatchmaatregelen van afdeling 2.2A Wet Vpb 1969, met name ten aanzien van Amerikaanse CFC-regimes, vaste inrichtingen en cost-plusstructuren.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De staatssecretaris van Financiën heeft het Beleidsbesluit hybridemismatches 2026 gepubliceerd. Het besluit vervangt het eerdere beleidsbesluit en bevat nieuwe standpunten en voorbeelden over de toepassing van de hybridemismatchmaatregelen van afdeling 2.2A Wet Vpb 1969, met name ten aanzien van Amerikaanse CFC-regimes, vaste inrichtingen en cost-plusstructuren.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het besluit bevat voornamelijk verduidelijkingen van de toepassing van de hybridemismatchmaatregelen en vervangt het eerdere Besluit Hybridemismatches. De belangrijkste inhoudelijke wijzigingen betreffen nieuwe beleidsstandpunten en voorbeelden.</p>
+
+
+
+<p class="wp-block-paragraph">Nieuw is de uitleg over het Amerikaanse NCTI-regime, dat vanaf 2026 het GILTI-regime vervangt. Net als onder het GILTI-regime leidt de aanvullende Amerikaanse CFC-heffing volgens de staatssecretaris niet tot ‘betrekking in de heffing’, omdat een grondslagvermindering van toepassing blijft. Evenmin kan toepassing van het NCTI-regime leiden tot een dubbele aftrek.</p>
+
+
+
+<p class="wp-block-paragraph">Verder verduidelijkt het besluit dat betalingen voor de aanschaf van bedrijfsmiddelen, inventaris en voorraad bij activering nog niet onder de hybridemismatchmaatregelen vallen. Pas afschrijvingen, afwaarderingen of verliezen bij verkoop kunnen aanleiding geven tot een hybride mismatch. Daarbij worden timingverschillen buiten beschouwing gelaten.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast is een nieuw standpunt opgenomen over buiten beschouwing blijvende vaste inrichtingen. Of sprake is van een vaste inrichting wordt beoordeeld aan de hand van het nationale recht van beide betrokken staten. Ook wordt verduidelijkt dat een stakingsverlies van een vaste inrichting in beginsel geen dubbele aftrek vormt, omdat het alleen ziet op definitieve, elders niet meer verrekenbare verliezen.</p>
+
+
+
+<p class="wp-block-paragraph">Een uitbreiding betreft de behandeling van dubbel in aanmerking genomen inkomen in cost-plusstructuren. Aan de hand van meerdere nieuwe voorbeelden wordt toegelicht wanneer in dergelijke situaties, in lijn met doel en strekking van ATAD2 en ter voorkoming van dubbele belastingheffing, toch sprake kan zijn van dubbel in aanmerking genomen inkomen. Hierdoor blijft de aftrekbeperking van de hybridemismatchregels onder specifieke omstandigheden buiten toepassing. De belastingplichtige moet aannemelijk maken dat zijn situatie overeenkomt met de beschreven voorbeelden.</p>
+
+
+
+<p class="wp-block-paragraph">Tot slot is de eerder opgenomen afwijkende regeling over dubbel in aanmerking genomen inkomen vervallen omdat deze haar belang heeft verloren. Voor het overige zijn uitsluitend redactionele wijzigingen aangebracht. Het besluit is in werking getreden met ingang van 25 juli 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron:<a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-26405.pdf" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-26405.pdf"> </a><a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-26405.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-26405.html" target="_blank" rel="noreferrer noopener">Beleidsbesluit hybridemismatches 2026, Stcrt. 2026, 26405</a>.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/beleidsbesluit-hybridemismatches-2026-gepubliceerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/balans-winst.jpg" length="39486" type="image/jpeg" />	</item>
+		<item>
+		<title>Wijziging Uitvoeringsregeling loonbelasting 2011 en Regeling loonbelastingen premietabellen 1990</title>
+		<link>https://www.taxence.nl/nieuws/wijziging-uitvoeringsregeling-loonbelasting-2011-en-regeling-loonbelastingen-premietabellen-1990/</link>
+					<comments>https://www.taxence.nl/nieuws/wijziging-uitvoeringsregeling-loonbelasting-2011-en-regeling-loonbelastingen-premietabellen-1990/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 05:30:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166117</guid>
+
+					<description><![CDATA[Deze regeling wijzigt de Uitvoeringsregeling loonbelasting 2011 en de Regeling loonbelasting- en premietabellen 1990. De belangrijkste wijzigingen betreffen de introductie van een eindheffing voor de eenmalige WIA-vergoeding wegens een onjuist dagloon en de aanpassing van de samenvoegbepaling voor socialezekerheidsuitkeringen die via de werkgever worden uitbetaald.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Deze regeling wijzigt de Uitvoeringsregeling loonbelasting 2011 en de Regeling loonbelasting- en premietabellen 1990. De belangrijkste wijzigingen betreffen de introductie van een eindheffing voor de eenmalige WIA-vergoeding wegens een onjuist dagloon en de aanpassing van de samenvoegbepaling voor socialezekerheidsuitkeringen die via de werkgever worden uitbetaald.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De regeling introduceert een eindheffing voor de eenmalige vergoeding die het UWV verstrekt aan personen die in het verleden een te lage WIA-uitkering ontvingen als gevolg van fouten bij de vaststelling van het dagloon. Door deze vergoeding als eindheffingsbestanddeel aan te wijzen, is niet de ontvanger maar het UWV de loonbelasting en premie volksverzekeringen verschuldigd. De vergoeding behoort daardoor niet tot het verzamelinkomen en heeft geen gevolgen voor toeslagen of andere inkomensafhankelijke regelingen.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast wordt de zogenoemde samenvoegbepaling aangepast naar aanleiding van het arrest van de Hoge Raad van 15 november 2024. Vanaf 1 januari 2027 blijven socialezekerheidsuitkeringen die via de werkgever worden uitbetaald kwalificeren als loon uit vroegere dienstbetrekking. Hierdoor wordt over deze uitkeringen geen arbeidskorting en – indien van toepassing – geen inkomensafhankelijke combinatiekorting (IACK) meer berekend. De wijziging beëindigt het onderscheid tussen uitkeringen die rechtstreeks door het UWV worden betaald en uitkeringen die via de werkgever worden uitbetaald, waarmee de geconstateerde strijd met het discriminatieverbod wordt weggenomen. De samenvoegbepaling blijft uitsluitend bestaan om loon en uitkering samen te nemen voor de berekening van de loonbelasting volgens de progressieve tariefstructuur.</p>
+
+
+
+<p class="wp-block-paragraph">Voor circa 11.000 uitkeringsgerechtigden leidt deze wijziging doorgaans tot een lager netto-inkomen; gemiddeld wordt een inkomensdaling van ongeveer € 3.000 per jaar verwacht. Werkgevers moeten loon en socialezekerheidsuitkeringen voortaan afzonderlijk administreren en verwerken in de loonadministratie. Verder wordt de Regeling loonbelasting- en premietabellen 1990 technisch aangepast door de verwijzing naar loon dat met loon uit tegenwoordige arbeid wordt gelijkgesteld te vereenvoudigen, zonder inhoudelijke gevolgen.</p>
+
+
+
+<p class="wp-block-paragraph">De regeling treedt in werking op 1 januari 2027. De bepaling over de eindheffing voor de eenmalige WIA-vergoeding treedt in werking op het tijdstip waarop de Tijdelijke regeling eenmalige vergoeding correctie dagloon WIA in werking treedt. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://urldefense.com/v3/__https://zoek.officielebekendmakingen.nl/stcrt-2026-25913.html__;!!KEc074MNZw!emj365mGkGllOhRzXS0WDpzg0Pl3Xj4ElEqV8cXFNoeXLAF_JFCIeavxyvfwEVuPk51oVSzPXuVXf_VhxQ9lQZleaA$" data-type="link" data-id="https://urldefense.com/v3/__https://zoek.officielebekendmakingen.nl/stcrt-2026-25913.html__;!!KEc074MNZw!emj365mGkGllOhRzXS0WDpzg0Pl3Xj4ElEqV8cXFNoeXLAF_JFCIeavxyvfwEVuPk51oVSzPXuVXf_VhxQ9lQZleaA$" target="_blank" rel="noreferrer noopener">Regeling van 10 juli 2026 tot wijziging van de Uitvoeringsregeling loonbelasting 2011 en de Regeling loonbelasting- en premietabellen 1990, Stcrt. 2026, 25913.</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wijziging-uitvoeringsregeling-loonbelasting-2011-en-regeling-loonbelastingen-premietabellen-1990/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/12/Loonkloof.jpg" length="38703" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt verlaging WOZ-waarde als onroerende zaak uit afzonderlijk verhuurde woningen bestaat</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-verlaging-woz-waarde-als-onroerende-zaak-uit-afzonderlijk-verhuurde-woningen-bestaat/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-verlaging-woz-waarde-als-onroerende-zaak-uit-afzonderlijk-verhuurde-woningen-bestaat/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 05:18:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166103</guid>
+
+					<description><![CDATA[De Kennisgroep onroerende zaken en de Kennisgroep successiewet hebben de vraag beantwoord of de verlaging van de WOZ-waarde met € 20.000 ook van toepassing is bij de waardering van afzonderlijk verhuurde woningen die onderdeel uitmaken van een onroerende zaak die kadastraal of in appartementsrechten kan worden gesplitst.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep onroerende zaken en de Kennisgroep successiewet hebben de vraag beantwoord of de verlaging van de WOZ-waarde met € 20.000 ook van toepassing is bij de waardering van afzonderlijk verhuurde woningen die onderdeel uitmaken van een onroerende zaak die kadastraal of in appartementsrechten kan worden gesplitst.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een belastingplichtige heeft een onroerende zaak die uit afzonderlijk verhuurde woningen bestaat. Voor de woningen geldt het volgende:</p>
+
+
+
+<ul class="wp-block-list">
+<li>volgens hun indeling zijn de woningen bestemd om als een afzonderlijk geheel te worden gebruikt. Op grond van artikel 16, onderdeel c, van de Wet WOZ worden de woningen voor de toepassing van die wet als zelfstandige onroerende zaken aangemerkt. Op basis hiervan is voor elk van de woningen een afzonderlijke WOZ-waarde vastgesteld;</li>
+
+
+
+<li>het gebouw is niet betrokken in een splitsing, maar de belastingplichtige kan de onroerende zaak wel splitsen;</li>
+
+
+
+<li>de verhuur van de woningen valt onder de huurbescherming;</li>
+
+
+
+<li>de verhuur is voor onbepaalde tijd; en</li>
+
+
+
+<li>er is geen sprake van gelieerde partijen die een zodanige huurprijs zijn overeengekomen dat deze tussen willekeurige derden niet zou zijn overeengekomen.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">De woningen vallen voor de belastingplichtige voor de inkomstenbelasting in box 3 en worden in zijn testament gelegateerd aan één van zijn kinderen, die niet de huurder is.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de vermindering van € 20.000 als bedoeld in artikel 17a, vierde lid, van het Uitvoeringsbesluit inkomstenbelasting 2001 en artikel 10a, vierde lid, van het Uitvoeringsbesluit Successiewet 1956 ook van toepassing op een woning die onderdeel uitmaakt van een gebouw (of een groep van gebouwen) dat niet is gesplitst, maar waarvoor splitsing wel mogelijk is?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja. Bij de beoordeling of de woningen niet als afzonderlijke zaak kunnen worden vervreemd in de zin van artikel 17a, vierde lid, UBIB 2001 en artikel 10a, vierde lid, UBSW 1956 is niet van belang of de woningen kunnen worden gesplitst, maar of de woningen zijn gesplitst.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg05120262-verlaging-woz-waarde-als-een-onroerende-zaak-uit-afzonderlijk-verhuurde-woningen-bestaat/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/publicaties/kg05120262-verlaging-woz-waarde-als-een-onroerende-zaak-uit-afzonderlijk-verhuurde-woningen-bestaat/" target="_blank" rel="noreferrer noopener">Belastingdienst, 21 juli 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-verlaging-woz-waarde-als-onroerende-zaak-uit-afzonderlijk-verhuurde-woningen-bestaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/appartement-luxe.jpg" length="44447" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt ruilarresten</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-ruilarresten/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-ruilarresten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 05:14:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166101</guid>
+
+					<description><![CDATA[De Kennisgroep winstbepaling heeft een standpunt ingenomen met betrekking tot de ruilarresten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep winstbepaling heeft een standpunt ingenomen met betrekking tot de ruilarresten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een financiële instelling biedt discretionair portefeuillebeheer aan haar klanten (rechtspersonen) aan. Zij is voornemens om dit beheer anders vorm te gaan geven. Klanten beleggen dan niet langer rechtstreeks in individuele effecten (aandelen, obligaties etc.), maar verkrijgen participaties in fondsen die de financiële instelling aanbiedt. De inbreng van de effecten geschiedt tegen de marktwaarde en de klanten krijgen voor hetzelfde bedrag participaties in de fondsen toegekend. De individuele effecten worden overgeheveld naar een (niet-transparante) fonds met een fbi-status. De fondsen maken gebruik van de herbeleggingsreserve.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kunnen de ruilarresten worden toegepast op het gerealiseerde resultaat dat de klanten behalen met de vervreemding van de effecten?&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, de ruilarresten kunnen niet worden toegepast op het gerealiseerde resultaat, aangezien een rechtstreeks gehouden effectenportefeuille niet van geheel gelijke aard is als een participatie in een fbi.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-ruilarresten/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-ruilarresten/" target="_blank" rel="noreferrer noopener">Belastingdienst, 23 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-ruilarresten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/07/groene-beleggingen.jpg" length="30687" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt vrijstelling scholingskosten studietoelagen kinderen</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-vrijstelling-scholingskosten-studietoelagen-kinderen/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-vrijstelling-scholingskosten-studietoelagen-kinderen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 04:32:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166109</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen naar aanleiding van de vraag of een werkgever de gerichte vrijstelling voor scholingskosten kan toepassen op een studietoelage aan het kind van de werknemer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen naar aanleiding van de vraag of een werkgever de gerichte vrijstelling voor scholingskosten kan toepassen op een studietoelage aan het kind van de werknemer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een werkgever heeft een zelfstandig recht op een studietoelage toegekend aan de kinderen van zijn werknemers. De werkgever betaalt de toelage rechtstreeks uit aan het kind. De toelage bestaat uit twee onderdelen:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Een eenmalige jaarlijkse toelage voor ondersteuning in de betaling van het wettelijke lesgeld of collegegeld;</li>
+
+
+
+<li>Een maandelijkse toelage als bijdrage in andere studie- of opleidingskosten.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">De hoogte van de toelage is afhankelijk van het onderwijs dat de kinderen volgen en het dienstverband van de werknemer. Te veel eigen inkomen bij het kind leidt tot verlies van de aanspraak op de toelage. De kinderen ontvangen de toelage alleen als ze een betalingsbewijs (hoger onderwijs) of inschrijvingsbewijs (lager onderwijs) aanleveren.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan de werkgever de gerichte vrijstelling voor scholingskosten op grond van&nbsp;<a href="https://wetten.overheid.nl/jci1.3:c:BWBR0002471&amp;hoofdstuk=V&amp;afdeling=1&amp;artikel=31&amp;z=2026-02-21&amp;g=2026-02-21" target="_blank" rel="noreferrer noopener">artikel 31</a>, eerste lid, onderdeel g, onder 2º, van de Wet op de loonbelasting 1964 (hierna: Wet LB 1964) toepassen op de studietoelage?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. Artikel 31, eerste lid, onderdeel g, onder 2º, Wet LB 1964 is niet van toepassing, omdat geen sprake is van vroegere arbeid; het kind is immers geen postactieve werknemer. Bovendien is dit artikel volgens de wetsgeschiedenis niet bedoeld voor scholingskosten van kinderen van werknemers.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-vrijstelling-scholingskosten-studietoelagen-kinderen-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-vrijstelling-scholingskosten-studietoelagen-kinderen-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 23 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-vrijstelling-scholingskosten-studietoelagen-kinderen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/09/Studenten-overleg.jpg" length="39682" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt gebruikelijk loon niet reële overeenkomst van opdracht bij toepassing doorbetaaldloonregeling</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 04:27:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166107</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de doorbetaaldloonregeling en de gebruikelijkloonregeling als sprake is van een niet reële overeenkomst van opdracht. Het standpunt KG:204:2022:21 wordt hierbij ingetrokken.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de doorbetaaldloonregeling en de gebruikelijkloonregeling als sprake is van een niet reële overeenkomst van opdracht. Het standpunt <a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg204202221-gebruikelijkloonregeling-bij-doorbetaaldloonregeling/" target="_blank" rel="noreferrer noopener">KG:204:2022:21</a> wordt hierbij ingetrokken.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>X (natuurlijk persoon) is enig bestuurder en enig aandeelhouder van een bv. X is de enige persoon die werkzaamheden verricht voor en namens de holding-bv.</li>
+
+
+
+<li>De holding-bv houdt 6% van de aandelen in een werk-bv.</li>
+
+
+
+<li>De werk-bv sluit een overeenkomst van opdracht met de holding-bv. Op basis van die overeenkomst van opdracht verricht X werkzaamheden voor de werk-bv.</li>
+
+
+
+<li>De holding-bv factureert conform de overeenkomst € 120.000 op jaarbasis aan de werk-bv. Van het gefactureerde bedrag heeft € 20.000 betrekking op kosten, lasten en afschrijvingen.</li>
+
+
+
+<li>De arbeidsrelatie tussen X en de holding-bv kwalificeert als een echte dienstbetrekking in de zin van artikel 2 van de Wet LB 1964. Het overeengekomen loon bedraagt € 5.000.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>De arbeidsrelatie tussen X en de werk-bv kwalificeert ook als een echte dienstbetrekking in de zin van artikel 2 Wet LB 1964; er is geen sprake van een reële overeenkomst van opdracht tussen de holding-bv en de werk-bv.</li>
+
+
+
+<li>De doorbetaaldloonregeling van artikel 32d Wet LB 1964 is van toepassing, waardoor X uitsluitend door de holding-bv wordt verloond.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de toepassing van de doorbetaaldloonregeling van invloed op de vaststelling van het (gebruikelijk) loon voor de door X verrichte werkzaamheden?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, als de doorbetaaldloonregeling van toepassing is, moet de gebruikelijkloonregeling op concernniveau worden toegepast (artikel 12a, derde lid, Wet LB 1964). De uit hoofde van de doorbetaaldloonregeling afgedragen bedragen door de werk-bv naar de holding-bv spelen geen rol bij het bepalen van het (gebruikelijk) loon.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 20 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Directeur-dga-nieuw.jpg" length="29956" type="image/jpeg" />	</item>
+		<item>
+		<title>Nieuw V&#038;A 26-006 Invaren ongehuwd ouderdomspensioen</title>
+		<link>https://www.taxence.nl/nieuws/nieuw-va-26-006-invaren-ongehuwd-ouderdomspensioen-gepubliceerd/</link>
+					<comments>https://www.taxence.nl/nieuws/nieuw-va-26-006-invaren-ongehuwd-ouderdomspensioen-gepubliceerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2026 04:25:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=166127</guid>
+
+					<description><![CDATA[Het Centraal Aanspreekpunt Pensioenen heeft V&#038;A 26-006 gepubliceerd waarin twee vragen over het invaren van een opgebouwd ongehuwd ouderdomspensioen worden behandeld.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Centraal Aanspreekpunt Pensioenen heeft V&amp;A 26-006 gepubliceerd waarin twee vragen over het invaren van een opgebouwd ongehuwd ouderdomspensioen worden behandeld.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit V&amp;A 26-006 behandelt twee vragen over het invaren van een opgebouwd ongehuwd ouderdomspensioen:<br>1. Is het mogelijk om op de pensioeningangsdatum het ouderdomspensioen te verhogen met een ongehuwd ouderdomspensioen als de gepensioneerde geen partner heeft.<br>2. Is het mogelijk om na de pensioeningangsdatum het ouderdomspensioen te verhogen met het ongehuwd ouderdomspensioen als de partner wegvalt.</p>
+
+
+
+<p class="wp-block-paragraph">Tot 1 januari 1999 was het fiscaal mogelijk om een ongehuwd ouderdomspensioen (OOP) op te bouwen. Dit is een voorwaardelijk ouderdomspensioen dat alleen uitkeert als de gepensioneerde niet gehuwd is of geen partner heeft. De opbouw van dit OOP werd gebaseerd op het verschil in franchise op basis van tweemaal AOW gehuwd en op basis van eenmaal AOW ongehuwd.</p>
+
+
+
+<p class="wp-block-paragraph">Bij het aanpassen van de pensioenregeling aan de voorwaarden van de Wet toekomst pensioenen kan de wens bestaan om het in het verleden opgebouwd ongehuwd ouderdomspensioen zoveel mogelijk aan te laten sluiten bij de oude situatie.</p>
+
+
+
+<h2 class="wp-block-heading">Toetsing OOP alleen op pensioeningangsdatum</h2>
+
+
+
+<h3 class="wp-block-heading">Vraag 1:</h3>
+
+
+
+<p class="wp-block-paragraph">Is fiscaal het volgende toegestaan?</p>
+
+
+
+<p class="wp-block-paragraph">De toetsing of een deelnemer met een OOP-aanspraak een partner heeft, vindt alleen plaats op de pensioeningangsdatum. Is er een partner op het moment van pensionering, dan wordt niet voldaan aan de voorwaarde voor uitkering van een OOP. Wanneer de gepensioneerde na de pensioeningangsdatum zijn of haar partner verliest, gaat het OOP niet alsnog in. Is er géén partner bij pensionering, dan ontvangt de deelnemer naast het ouderdomspensioen ook een OOP.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Antwoord 1:</h3>
+
+
+
+<p class="wp-block-paragraph">Ja, fiscaal is het toegestaan dat alleen op de pensioeningangsdatum de toetsing plaatsvindt of een deelnemer met een OOP-aanspraak een partner heeft. Voorwaarde hierbij is dat het OOP levenslang wordt uitgekeerd aan de deelnemer.</p>
+
+
+
+<h2 class="wp-block-heading">Toetsing OOP ook na pensioeningangsdatum</h2>
+
+
+
+<h3 class="wp-block-heading">Vraag 2:</h3>
+
+
+
+<p class="wp-block-paragraph">Is fiscaal het volgende toegestaan?</p>
+
+
+
+<p class="wp-block-paragraph">De toetsing of een deelnemer met een OOP-aanspraak een partner heeft, vindt op twee momenten plaats. Het eerste moment is de pensioeningangsdatum. Als de deelnemer op dat moment een partner heeft, wordt er geen OOP uitgekeerd. De volgende toetsing vindt plaats tijdens de looptijd van het ingegane ouderdomspensioen. Als de gepensioneerde na de ingangsdatum zijn of haar partner verliest, gaat op dat moment het OOP in.</p>
+
+
+
+<h3 class="wp-block-heading">Antwoord 2:</h3>
+
+
+
+<p class="wp-block-paragraph">Nee, het is fiscaal niet toegestaan dat na de ingangsdatum van het ouderdomspensioen een tweede toetsing plaatsvindt met als gevolg dat het OOP ook na de ingangsdatum van het ouderdomspensioen kan ingaan. Als dit in het pensioenreglement is opgenomen dan leidt dit tot fiscale onzuiverheid van de gehele pensioenaanspraak.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://centraalaanspreekpuntpensioenen.belastingdienst.nl/nieuw-va-26-006-invaren-ongehuwd-ouderdomspensioen-gepubliceerd/" data-type="link" data-id="https://centraalaanspreekpuntpensioenen.belastingdienst.nl/nieuw-va-26-006-invaren-ongehuwd-ouderdomspensioen-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 20 juli 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nieuw-va-26-006-invaren-ongehuwd-ouderdomspensioen-gepubliceerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/pensioenberekening-1.jpg" length="36356" type="image/jpeg" />	</item>
+	</channel>
+</rss>

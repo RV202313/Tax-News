@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-28",
+  "release": "2026-07-28-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-07-28-1600-ru-news-01",
+      "title": "Дайджест судебной практики: споры о рыночных ценах и необоснованной налоговой выгоде",
+      "caption": "Анализ ключевых судебных решений по оспариванию рыночных цен в сделках и доначислениям по статье 54.1 НК РФ.\n\nИсточник: https://t.me/leads/\n\n#судебнаяпрактика #ТЦО #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Мы продолжаем серию дайджестов «Споры о цене», посвящённых анализу судебных спор",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-02",
+      "title": "Вьетнам выпустил руководство по применению соглашений об избежании двойного налогообложения",
+      "caption": "Министерство финансов Вьетнама обновило комплексные инструкции по применению льготных ставок СОДН и процедурам подтверждения налогового резидентства.\n\nИсточник: https://regfollower.com/feed/\n\n#Вьетнам #СОДН #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Vietnam issues comprehensive guidance on the implementation of DTA, MAP, APA",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-03",
+      "title": "Освобождение от налога на передачу недвижимости при внесении в уставный капитал",
+      "caption": "Официальное разъяснение налогового ведомства по порядку применения налоговых льгот при реорганизации.\n\nИсточник: https://www.taxence.nl/feed/\n\n#Нидерланды #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Hong Kong consults proposed enhancements to tax concession regime for corporate ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-04",
+      "title": "Анализ механизмов применения международного частного права в судах",
+      "caption": "Обзор актуальной судебной практики по спорам с участием иностранных элементов и трансграничных структур.\n\nИсточник: https://t.me/leads/\n\n#международноеправо #суд #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Brazil: RFB, CGIBS to publish joint act on mandatory electronic tax document dat",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-05",
+      "title": "Требования к автоматическому обмену данными маркетплейсов в ЕС",
+      "caption": "Практические аспекты соблюдения требований регламента DAC7 платформами электронной коммерции.\n\nИсточник: https://t.me/leads/\n\n#DAC7 #eCommerce #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Italy: Temporary diesel excise cut returns as inflation pressures mount",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-06",
+      "title": "Регулирование цепочек поставок и контроль импорта",
+      "caption": "Обзор изменений в требованиях таможенных и налоговых органов к документальному подтверждению импортных операций.\n\nИсточник: https://regfollower.com/feed/\n\n#импорт #таможня #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Bulgaria adopts civil servant contributions, raises insurance thresholds in 2026",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-07",
+      "title": "Обновление кодификации операций по НДС в Италии",
+      "caption": "Разбор структуры новых кодов для применения налоговых вычетов и декларирования косвенных налогов.\n\nИсточник: https://regfollower.com/feed/\n\n#Италия #НДС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Taiwan clarifies CFC exemption criteria under anti-avoidance rules",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-08",
+      "title": "Консультации по структурированию документации трансфертного ценообразования",
+      "caption": "Анализ требований к представлению трехуровневой документации по ТЦО.\n\nИсточник: https://regfollower.com/feed/\n\n#Канада #ТЦО #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "EU: European Commission updates public CbC reporting taxonomy, technical guidanc",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-09",
+      "title": "Порядок распределения корпоративных расходов между филиалами",
+      "caption": "Рекомендации регулятора по отнесению общехозяйственных расходов на зарубежные подразделения.\n\nИсточник: https://regfollower.com/feed/\n\n#корпоративныйналог #вычеты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "UK expands bicycle anti-dumping duties in major trade defence action",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-1600-ru-news-10",
+      "title": "Изменения в порядке декларирования налога на наследство",
+      "caption": "Обзор обновившихся форм отчетности при передаче активов в рамках наследственных правоотношений.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #наследство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "EU pivots from farm tariffs to major anti-dumping action on Chinese industrial g",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          20,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          130,
+          40
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-14",
+  "release": "2026-08-14_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-08-14-nl-tax-hybrid-mismatch-us",
+      "title": "Нидерланды обновили руководство по гибридным несоответствиям с учетом налоговых правил США",
+      "caption": "Министерство финансов Нидерландов обновило официальные разъяснения по применению правил борьбы с гибридными несоответствиями, уточнив порядок квалификации налоговых режимов США и правил учета постоянных представительств.\n\nИсточник: https://regfollower.com/netherlands-updates-hybrid-mismatch-guidance-with-new-rules-on-us-tax-regimes-permanent-establishments/\n\n#Нидерланды #гибридныеНесоответствия #международноеНалогообложение #США #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Нидерланды",
+      "act": "Указ Министерства финансов Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-updates-hybrid-mismatch-guidance-with-new-rules-on-us-tax-regimes-permanent-establishments/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-nl-tax-trust-ubo-penalties",
+      "title": "Нидерланды ввели прогрессивные штрафы за нарушения при регистрации бенефициаров трастов",
+      "caption": "Правительство Нидерландов утвердило изменения в законодательство о прозрачности, установив возрастающие штрафы для доверительных собственников за задержку или отказ от внесения сведений о конечных бенефициарах в государственный реестр.\n\nИсточник: https://regfollower.com/netherlands-sets-escalating-fines-for-trust-ubo-registration-failures/\n\n#Нидерланды #реестрБенефициаров #штрафы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Постановление Правительства Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-sets-escalating-fines-for-trust-ubo-registration-failures/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-nl-fi-tax-beps-mli-arbitration",
+      "title": "Нидерланды и Финляндия согласовали арбитражные процедуры в рамках Многосторонней конвенции BEPS MLI",
+      "caption": "Налоговые ведомства Нидерландов и Финляндии заключили соглашение, детально регламентирующее порядок проведения взаимного согласования и арбитража при разрешении трансграничных налоговых споров в рамках правил конвенции MLI.\n\nИсточник: https://regfollower.com/netherlands-finland-establish-arbitration-procedures-under-beps-mli-tax-treaty-framework/\n\n#Нидерланды #Финляндия #MLI #арбитраж #налоговыеСпоры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Двустороннее соглашение компетентных органов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-finland-establish-arbitration-procedures-under-beps-mli-tax-treaty-framework/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-fns-land-tax-calculation",
+      "title": "ФНС России разъяснила особенности расчета и уплаты земельного налога для юридических лиц",
+      "caption": "Федеральная налоговая служба РФ опубликовала разъяснения по порядку исчисления земельного налога в отношении участков, используемых в коммерческих целях, напомнив о критериях применения кадастровой стоимости.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16641508/\n\n#Россия #ФНС #земельныйНалог #имущественныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги",
+      "jurisdictions": "Россия",
+      "act": "Официальное разъяснение Федеральной налоговой службы РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16641508/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-minfin-dms-tax-deduction",
+      "title": "Минфин России разъяснил порядок учета расходов на добровольное медицинское страхование работников",
+      "caption": "Департамент налоговой политики Министерства финансов РФ в официальном письме напомнил правила отнесения затрат работодателей на ДМС сотрудников к расходам, уменьшающим базу по налогу на прибыль.\n\nИсточник: https://www.garant.ru/products/ipo/prime/doc/40540-pismo-departamenta-nalogovoy-politiki/\n\n#Россия #Минфин #налогНаПрибыль #ДМС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прибыль",
+      "jurisdictions": "Россия",
+      "act": "Письмо Департамента налоговой политики Минфина РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/products/ipo/prime/doc/40540-pismo-departamenta-nalogovoy-politiki/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 garant confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-ru-fns-kfh-property-exemption",
+      "title": "ФНС России разъяснила правила применения льготы по налогу на имущество членов фермерских хозяйств",
+      "caption": "Федеральная налоговая служба РФ детализировала условия освобождения глав и членов крестьянских хозяйств от уплаты налога на имущество физлиц в отношении объектов недвижимости, задействованных в сельхозпроизводстве.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16641398/\n\n#Россия #ФНС #фермерскиеХозяйства #имущественныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги",
+      "jurisdictions": "Россия",
+      "act": "Пресс-релиз Федеральной налоговой службы РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16641398/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-us-irs-business-tax-account",
+      "title": "Налоговая служба США расширила возможности личных кабинетов налогоплательщика для бизнеса",
+      "caption": "Налоговое управление США (IRS) представило новые функции безопасности и администрирования в персональных кабинетах юридических лиц, позволяя компаниям более оперативно взаимодействовать с ведомством онлайн.\n\nИсточник: https://regfollower.com/us-business-tax-account-gives-eligible-taxpayers-more-secure-convenient-ways-to-manage-federal-tax-obligations-online/\n\n#США #IRS #администрирование #личныйКабинет #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "США",
+      "act": "Информационное сообщение Налогового управления США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-business-tax-account-gives-eligible-taxpayers-more-secure-convenient-ways-to-manage-federal-tax-obligations-online/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-us-irs-phishing-warning",
+      "title": "Налоговые органы США предупредили консультантов о росте фишинговых атак",
+      "caption": "Налоговое управление США (IRS) совместно с экспертами по безопасности выпустило срочное предупреждение для сертифицированных специалистов и налоговых консультантов в связи со всплеском целевых хакерских рассылок.\n\nИсточник: https://regfollower.com/us-irs-security-summit-warns-tax-pros-to-watch-out-for-phishing-emails-and-other-attacks/\n\n#США #IRS #кибербезопасность #фишинг #налоговыеСпециалисты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "США",
+      "act": "Совместное заявление Налогового управления США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-irs-security-summit-warns-tax-pros-to-watch-out-for-phishing-emails-and-other-attacks/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-dk-tax-dividend-refund-period",
+      "title": "Дания продлила срок давности для подачи заявлений о возврате налога у источника по дивидендам",
+      "caption": "Правительство Дании приняло решение увеличить период ограничения по времени, в течение которого иностранные инвесторы имеют право подавать требования на возмещение излишне удержанного налога на дивиденды.\n\nИсточник: https://regfollower.com/denmark-extends-limitation-period-for-claiming-dividend-tax-refunds/\n\n#Дания #налогУисточника #дивиденды #возвратНалога #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог у источника",
+      "jurisdictions": "Дания",
+      "act": "Законодательные изменения Дании",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/denmark-extends-limitation-period-for-claiming-dividend-tax-refunds/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-14-de-ru-tax-treaty-suspension",
+      "title": "Германия объявила о приостановлении действия соглашения об избежании двойного налогообложения с Россией",
+      "caption": "Министерство финансов Германии официально известило о приостановке выполнения обязательств по ключевым статьям двустороннего соглашения об избежании двойного налогообложения с Российской Федерацией.\n\nИсточник: https://regfollower.com/germany-announces-suspension-of-double-taxation-treaty-with-russia/\n\n#Германия #Россия #СИДН #двойноеНалогообложение #международноеПраво #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Германия / Россия",
+      "act": "Официальное уведомление Министерства финансов Германии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/germany-announces-suspension-of-double-taxation-treaty-with-russia/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-14",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 299,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/bangladesh-estonia-advance-talks-on-signing-income-tax-treaty/",
+      "ecli": "",
+      "act": "",
+      "title": "Bangladesh, Estonia advance talks on signing income tax treaty",
+      "summary": "Bangladesh and Estonia agreed to strengthen bilateral relations during the 2nd Foreign Office Consultations held in Tallinn on 10 August 2026, according to a post by Bangladesh’s Ministry of Foreign Affairs. Both sides also discussed concluding a double taxation avoidance agreement as part of broader bilateral cooperation. The DTAA, which will prevent companies from facing...",
+      "published_at": "2026-08-13",
+      "score": 15.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "ee"
+      ],
+      "jurisdiction_names": [
+        "Эстония"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 300,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/france-sweden-tax-treaty-protocol-enters-into-force/",
+      "ecli": "",
+      "act": "",
+      "title": "France, Sweden tax treaty protocol enters into force",
+      "summary": "The amending protocol to the 1990 income and capital tax treaty between France and Sweden will enter into force on 29 August 2026. It updates the treaty’s preamble and provisions on the Mutual Agreement Procedure and treaty benefits. The protocol replaces the preamble in line with OECD/G20 Base Erosion and Profit Shifting (BEPS) minimum standards...",
+      "published_at": "2026-08-13",
+      "score": 12.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 301,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/us-fincen-permanently-removes-beneficial-ownership-reporting-requirement-for-small-companies/",
+      "ecli": "",
+      "act": "",
+      "title": "US: FinCEN permanently removes beneficial ownership reporting requirement for small companies",
+      "summary": "The US Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) announced on 11 August 2026 that it has issued a final rule permanently removing the requirement for US companies and US persons to report beneficial ownership information (BOI) to FinCEN under the Corporate Transparency Act (CTA). The final rule takes effect upon publication in...",
+      "published_at": "2026-08-13",
+      "score": 12.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "us"
+      ],
+      "jurisdiction_names": [
+        "США"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 302,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/btw-aspecten-bekostigingsregeling-opvang-en-huisvesting-gemeenten/",
+      "ecli": "",
+      "act": "",
+      "title": "BTW-aspecten bekostigingsregeling opvang en huisvesting gemeenten",
+      "summary": "",
+      "published_at": "2026-08-13",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 303,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/slovak-republic-consults-on-income-tax-treaty-with-rwanda/",
+      "ecli": "",
+      "act": "",
+      "title": "Slovak Republic consults on income tax treaty with Rwanda",
+      "summary": "The Slovak Republic has launched a public consultation on a draft income tax treaty with Rwanda. The tax treaty aims to establish a legal framework to eliminate double taxation on income between the two countries. The draft agreement is heavily aligned with the OECD/G20 Base Erosion and Profit Shifting (BEPS) standards, specifically focusing on treaty...",
+      "published_at": "2026-08-13",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

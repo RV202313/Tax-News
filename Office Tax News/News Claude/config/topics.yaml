@@ -1,0 +1,89 @@
+# Целевые темы контент-конвейера. Качество отбора (ПРОМТ 2) зависит от
+# ключевых слов — правьте этот файл в первые дни отладки.
+# priority: 1 = высший (проходит всегда), 2 = высокий, 3 = обычный.
+
+topics:
+  - id: dta
+    name: Избежание двойного налогообложения
+    priority: 1
+    keywords_ru: [двойное налогообложение, СИДН, фактическое право на доход, налоговое резидентство]
+    keywords_nl: [dubbele belasting, belastingverdrag, woonplaats, verdragstoepassing]
+    keywords_en: [double taxation, tax treaty, beneficial owner, MLI, BEPS]
+
+  - id: nl_ru
+    name: Налоговые отношения NL–RU, приостановка СИДН, санкции
+    priority: 1
+    keywords_ru: [приостановка соглашения, СИДН Нидерланды, выплаты за рубеж, санкции налоги]
+    keywords_nl: [verdrag Rusland, opschorting belastingverdrag, sancties]
+    keywords_en: [Russia tax treaty suspension, sanctions withholding]
+
+  - id: substance_migration
+    name: Сабстенс, редомициляция, переезд бизнеса и людей
+    priority: 2
+    keywords_ru: [сабстенс, редомициляция, экзит-налог, переезд бизнеса]
+    keywords_nl: [substance, exit tax, 30% ruling, emigratie, zetelverplaatsing]
+    keywords_en: [substance, exit tax, 30 percent ruling, corporate migration]
+
+  - id: transfer_pricing
+    name: Трансфертное ценообразование
+    priority: 1
+    keywords_ru: [трансфертное ценообразование, контролируемые сделки, ТЦО, взаимозависимые лица, рыночный уровень цен, сопоставимые сделки, документация по ТЦО]
+    keywords_nl: [verrekenprijzen, transfer pricing, arm's length]
+    keywords_en: [transfer pricing, arm's length, APA, TP documentation, controlled transactions, related-party transactions]
+
+  - id: advance_rulings
+    name: Advance tax rulings / advance pricing agreements
+    priority: 1
+    keywords_ru: [предварительное налоговое решение, предварительное согласование цен, налоговый рулинг, APA, ATR]
+    keywords_nl: [advance tax ruling, advance pricing agreement, vooroverleg, ruling, APA, ATR, vooraf zekerheid, samenvatting]
+    keywords_en: [advance tax ruling, advance pricing agreement, tax ruling, APA, ATR, prior consultation, certainty in advance]
+
+  - id: pillar2
+    name: Pillar 2 / глобальный минимальный налог
+    priority: 2
+    keywords_ru: [глобальный минимальный налог, Pillar 2, второй компонент]
+    keywords_nl: [Pijler 2, minimumbelasting, wet minimumbelasting]
+    keywords_en: [Pillar Two, global minimum tax, GloBE, top-up tax]
+
+  - id: withholding_dividend
+    name: Налог у источника, дивиденды, проценты, роялти
+    priority: 2
+    keywords_ru: [налог у источника, дивиденды, проценты роялти, условный доход]
+    keywords_nl: [dividendbelasting, bronbelasting, conditionele bronbelasting]
+    keywords_en: [withholding tax, dividend tax, conditional withholding, interest royalty]
+
+  - id: exchange_info
+    name: Обмен информацией, DAC, прозрачность
+    priority: 3
+    keywords_ru: [обмен налоговой информацией, DAC7, автоматический обмен, CRS]
+    keywords_nl: [gegevensuitwisseling, DAC7, DAC8, CRS, mandatory disclosure]
+    keywords_en: [exchange of information, DAC7, DAC8, CRS, DAC6]
+
+  - id: crypto_tax
+    name: Налогообложение криптоактивов
+    priority: 3
+    keywords_ru: [налогообложение криптовалют, криптоактивы, майнинг налог]
+    keywords_nl: [belasting cryptovaluta, crypto box 3]
+    keywords_en: [crypto taxation, digital assets, DAC8 crypto]
+
+  - id: cross_border_trade_tax
+    name: Налоги при трансграничной торговле и импорте
+    priority: 2
+    keywords_ru: [СПОТ, ДОПП, импорт из ЕАЭС, косвенные налоги ЕАЭС, обеспечительный платёж при импорте, трансграничная торговля]
+    keywords_nl: [grensoverschrijdende handel, invoer-btw]
+    keywords_en: [cross-border trade tax, import VAT, destination principle]
+
+  # Добавлено 2026-07-02 по итогам первого живого прогона: без широких
+  # тем RU-администрирование и общие фискальные новости NL не проходят отбор.
+  - id: ru_tax_admin
+    name: Налоговое администрирование РФ (ФНС, Минфин, НК РФ, практика ВС/КС)
+    priority: 2
+    keywords_ru: [ФНС, Минфин, НК РФ, УСН, НДФЛ, НДС, налог на прибыль, налоговый контроль, судебная практика, Верховный Суд, Конституционный Суд, маркетплейс, обзор правовых позиций, налоговая декларация, КБК]
+
+  - id: nl_fiscaal
+    name: Фискальные новости NL (широкая тема)
+    priority: 3
+    # ВАЖНО: не добавлять сюда названия судов (rechtbank/gerechtshof/Hoge Raad) —
+    # иначе каждое решение любого суда матчится в тему. Только налоговая лексика.
+    keywords_nl: [belasting, Belastingdienst, box 3, vennootschapsbelasting, dividendbelasting, BTW, omzetbelasting, loonheffing, inkomstenbelasting, bedrijfsopvolging, hypotheekrenteaftrek, belastingrente, eindheffing, fiscale, 30%-regeling]
+    keywords_en: [Dutch tax, Netherlands tax]

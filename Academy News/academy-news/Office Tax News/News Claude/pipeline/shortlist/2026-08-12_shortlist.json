@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-12",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 295,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/vastzitten-in-lift-geen-onvoorziene-omstandigheid-voor-verlaagd-tarief-overdrachtsbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Vastzitten in lift geen onvoorziene omstandigheid voor verlaagd tarief overdrachtsbelasting",
+      "summary": "",
+      "published_at": "2026-08-12",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

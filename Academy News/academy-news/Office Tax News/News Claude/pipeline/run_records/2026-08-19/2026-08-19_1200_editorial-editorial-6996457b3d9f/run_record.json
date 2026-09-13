@@ -1,0 +1,71 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-08-19_1200_editorial-editorial-6996457b3d9f",
+  "release": "2026-08-19_1200_editorial",
+  "date": "2026-08-19",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-08-20T11:52:24.768427+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "6996457b3d9fb0c9133b87c413408fbbc85b50c3f10ec3ebfa6f7320ba5b201e",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 8,
+    "missing_post_ids": [
+      "705",
+      "708"
+    ]
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 20807,
+      "sha256": "6996457b3d9fb0c9133b87c413408fbbc85b50c3f10ec3ebfa6f7320ba5b201e"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-19_shortlist.json",
+      "bytes": 13463,
+      "sha256": "43d03977da0271387182ce9b2e46cd013466e5bcf6593eb63c5f136a8966ac82",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-08-19_digest.md",
+      "bytes": 9320,
+      "sha256": "fd35eeaa26f156b65998196f4cea786d6da1ef3aa608027d500a925a8128b2d2",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 5203,
+      "sha256": "8f56c2604c170ad43b26670b14e026603466b760daccda5fb166f8f7ecbe6a1c",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 3013,
+      "sha256": "b24eb6c32732506a594f6c9923a4b05f42861d68e2687d124a9db64ba1448198",
+      "records": 10
+    }
+  }
+}

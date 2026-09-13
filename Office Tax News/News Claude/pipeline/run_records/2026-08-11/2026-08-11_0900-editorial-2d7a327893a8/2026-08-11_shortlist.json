@@ -1,0 +1,296 @@
+{
+  "date": "2026-08-11",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 270,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/estonia-qatar-income-tax-treaty-enters-into-force/",
+      "ecli": "",
+      "act": "",
+      "title": "Estonia, Qatar income tax treaty enters into force",
+      "summary": "The income tax treaty between Estonia and Qatar entered into force on 26 June 2026. The treaty was signed on 7 March 2024 and applies to Estonian income tax and Qatar income tax and corporation tax. Dividends are subject to a 0% withholding tax rate when the beneficial owner is a company or the dividends...",
+      "published_at": "2026-08-10",
+      "score": 15.0,
+      "topics": [
+        "dta",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "ee"
+      ],
+      "jurisdiction_names": [
+        "Эстония"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 271,
+      "source": "ru_vs",
+      "url": "https://vsrf.ru/press_center/news/36244/",
+      "ecli": "",
+      "act": "",
+      "title": "Реконфигурация воздушного судна может повлечь наложение таможенных платежей",
+      "summary": "",
+      "published_at": "2026-08-07",
+      "score": 12.0,
+      "topics": [
+        "ru_tax_admin"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "court_news",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 272,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/wijziging-besluit-bestuurlijke-boeten-belastingdienst-nieuwe-boeteregels-voor-dac8-dac9-en-minimumbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Wijziging Besluit Bestuurlijke Boeten Belastingdienst: nieuwe boeteregels voor DAC8, DAC9 en minimumbelasting",
+      "summary": "Het besluit wijzigt het Besluit Bestuurlijke Boeten Belastingdienst (BBBB) naar aanleiding van de implementatie van de Europese richtlijnen DAC8 en DAC9 en de Wet minimumbelasting 2024.",
+      "published_at": "2026-08-10",
+      "score": 9.9,
+      "topics": [
+        "exchange_info",
+        "nl_fiscaal",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 273,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/update-fiscus-over-wet-minimumbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Update fiscus over Wet minimumbelasting",
+      "summary": "",
+      "published_at": "2026-08-10",
+      "score": 9.9,
+      "topics": [
+        "nl_fiscaal",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 274,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/nadelig-uitpakken-box-3-verdeling-voor-toeslagen-redt-bezwaartermijn-niet/",
+      "ecli": "",
+      "act": "",
+      "title": "Nadelig uitpakken box 3-verdeling voor toeslagen redt bezwaartermijn niet",
+      "summary": "Rechtbank Gelderland oordeelt dat de termijnoverschrijding bij het bezwaar tegen de aanslagen IB/PVV 2023 niet verschoonbaar is. Ambtshalve vermindering is ook niet mogelijk, omdat de aanslagen al onherroepelijk vaststaan.",
+      "published_at": "2026-08-10",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 275,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-pensioenvrijstelling-vpb-2/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt pensioenvrijstelling Vpb",
+      "summary": "De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord of de mogelijkheid van een vrijwillige aanvullende inleg door een deelnemer (werknemer) in een buitenlandse pensioenregeling voor het pensioenlichaam de toepassing van de pensioenvrijstelling (artikel 5, eerste lid, onderdeel b, Wet Vpb 1969) verhindert.",
+      "published_at": "2026-08-10",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 276,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/heffingvrij-vermogen-niet-in-mindering-op-werkelijk-rendement-box-3/",
+      "ecli": "",
+      "act": "",
+      "title": "Heffingvrij vermogen niet in mindering op werkelijk rendement box 3",
+      "summary": "",
+      "published_at": "",
+      "score": 8.7,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 8,
+      "item_id": 277,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/france-adopts-standard-deadline-for-withholding-tax-claims/",
+      "ecli": "",
+      "act": "",
+      "title": "France adopts standard deadline for withholding tax claims",
+      "summary": "France has published Decree No. 2026-692 of 27 July 2026, removing the shorter deadline for taxpayers to file claims concerning withholding taxes. The decree was signed on 27 July 2026 and published on 29 July 2026 in the Journal officiel de la République française. It follows French Council of State Decision No. 500909 of 16...",
+      "published_at": "2026-08-10",
+      "score": 8.5,
+      "topics": [
+        "withholding_dividend"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 9,
+      "item_id": 278,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/taiwan-issues-withholding-tax-ruling-for-p2p-platforms/",
+      "ecli": "",
+      "act": "",
+      "title": "Taiwan issues withholding tax Ruling for P2P platforms",
+      "summary": "Taiwan’s Ministry of Finance issued an interpretive ruling on 6 August 2026 clarifying that online lending platform businesses (P2P platform operators) must withhold tax on interest income paid to lenders when they manage the transfer of loan funds. The ruling requires P2P platform operators to comply with the withholding, reporting and certificate-issuance requirements under Articles...",
+      "published_at": "2026-08-10",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings",
+        "withholding_dividend"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 10,
+      "item_id": 279,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/serbia-national-assembly-reviews-ratification-of-tax-treaty-with-angola/",
+      "ecli": "",
+      "act": "",
+      "title": "Serbia: National Assembly reviews ratification of tax treaty with Angola",
+      "summary": "The Serbian National Assembly is currently in the process of reviewing legislation to ratify the income tax treaty with Angola...",
+      "published_at": "2026-08-10",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "rs"
+      ],
+      "jurisdiction_names": [
+        "Сербия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

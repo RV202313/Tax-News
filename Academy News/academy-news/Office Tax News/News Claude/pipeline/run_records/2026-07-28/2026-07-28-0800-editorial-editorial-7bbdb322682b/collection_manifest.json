@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-28",
+  "sources": {
+    "nl_rechtspraak": {
+      "state": "ok",
+      "files": [
+        "nl_rechtspraak_1.txt",
+        "nl_rechtspraak_2.txt"
+      ],
+      "detail": "collector=scripts/collect_rechtspraak.py; [rechtspraak] 2026-07-28: HTTP 200, ~0 entries â†’ C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\pipeline\\raw\\2026-07-28\\nl_rechtspraak_1.txt\n[rechtspraak] 2026-07-27: HTTP 200, ~0 entries â†’ C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\pipeline\\raw\\2026-07-28\\nl_rechtspraak_2.txt"
+    },
+    "ru_ras": {
+      "state": "manual",
+      "files": [],
+      "detail": "collector=scripts/collect_ru_ras.js; [ras] CDP_UNAVAILABLE: Failed to fetch browser webSocket URL from http://127.0.0.1:9223/json/version: fetch failed"
+    },
+    "ru_garant": {
+      "state": "ok",
+      "files": [
+        "ru_garant_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_garant_1.txt",
+          "transport": "html",
+          "url": "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/",
+          "status": 200,
+          "content_type": "text/html; charset=windows-1251",
+          "bytes": 231915
+        }
+      ],
+      "detail": ""
+    },
+    "ru_fns": {
+      "state": "ok",
+      "files": [
+        "ru_fns_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_fns_1.txt",
+          "transport": "html",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 98077
+        }
+      ],
+      "detail": ""
+    },
+    "ru_minfin": {
+      "state": "ok",
+      "files": [
+        "ru_minfin_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_minfin_1.txt",
+          "transport": "html",
+          "url": "https://minfin.gov.ru/ru/press-center/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 188661
+        }
+      ],
+      "detail": ""
+    },
+    "ru_vs": {
+      "state": "failed",
+      "files": [
+        "ru_vs_1.txt",
+        "ru_vs_2.txt"
+      ],
+      "detail": "collector=scripts/collect_vs.py; Traceback (most recent call last):\n  File \"C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\scripts\\collect_vs.py\", line 78, in <module>\n    raise SystemExit(main())\n                     ~~~~^^\n  File \"C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\scripts\\collect_vs.py\", line 73, in main\n    print(f\"[vs] \\u0441\\u043e\\u0445\\u0440\\u0430\\u043d\\u0435\\u043d\\u043e: {', '.join(path.name for path in files)}\")\n    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Python314\\Lib\\encodings\\cp1252.py\", line 19, in encode\n    return codecs.charmap_encode(input,self.errors,encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode characters in position 5-13: character maps to <undefined>"
+    },
+    "intl_regfollower": {
+      "state": "ok",
+      "files": [
+        "intl_regfollower_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_regfollower_1.txt",
+          "transport": "rss",
+          "url": "https://regfollower.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 2148996
+        }
+      ],
+      "detail": ""
+    },
+    "nl_fd": {
+      "state": "manual",
+      "detail": "Ð½ÑƒÐ¶Ð½Ð° Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð½Ð°Ñ ÑÐµÑÑÐ¸Ñ (Chrome), Ð°Ð²Ñ‚Ð¾ÑÐ±Ð¾Ñ€ Ð½Ðµ Ð²Ñ‹Ð¿Ð¾Ð»Ð½ÑÐµÑ‚ÑÑ"
+    },
+    "nl_taxlive": {
+      "state": "ok",
+      "files": [
+        "nl_taxlive_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxlive_1.txt",
+          "transport": "html",
+          "url": "https://www.taxlive.nl/nl",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 42672
+        }
+      ],
+      "detail": ""
+    },
+    "nl_taxence": {
+      "state": "ok",
+      "files": [
+        "nl_taxence_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxence_1.txt",
+          "transport": "rss",
+          "url": "https://www.taxence.nl/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 41339
+        }
+      ],
+      "detail": ""
+    },
+    "nl_belastingdienst_rulings": {
+      "state": "ok",
+      "files": [
+        "nl_belastingdienst_rulings_1.txt",
+        "nl_belastingdienst_rulings_2.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_belastingdienst_rulings_1.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 328381
+        },
+        {
+          "file": "nl_belastingdienst_rulings_2.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 159719
+        }
+      ],
+      "detail": ""
+    },
+    "telegram_leads": {
+      "state": "failed",
+      "files": [
+        "telegram_leads_1.txt"
+      ],
+      "detail": "collector=scripts/collect_telegram.py; Traceback (most recent call last):\n  File \"C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\scripts\\collect_telegram.py\", line 231, in <module>\n    raise SystemExit(main())\n                     ~~~~^^\n  File \"C:\\Users\\vakhi\\Downloads\\Academy News\\academy-news\\News Claude\\scripts\\collect_telegram.py\", line 226, in main\n    print(f\"[telegram] {len(items)} \\u043b\\u0438\\u0434\\u043e\\u0432 \\u2192 {target}\")\n    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Python314\\Lib\\encodings\\cp1252.py\", line 19, in encode\n    return codecs.charmap_encode(input,self.errors,encoding_table)[0]\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nUnicodeEncodeError: 'charmap' codec can't encode characters in position 14-18: character maps to <undefined>"
+    }
+  },
+  "_summary": {
+    "ok": [
+      "intl_regfollower",
+      "nl_belastingdienst_rulings",
+      "nl_rechtspraak",
+      "nl_taxence",
+      "nl_taxlive",
+      "ru_fns",
+      "ru_garant",
+      "ru_minfin"
+    ],
+    "failed": [
+      "ru_vs",
+      "telegram_leads"
+    ],
+    "incomplete": [
+      "nl_fd:manual",
+      "ru_ras:manual"
+    ]
+  }
+}

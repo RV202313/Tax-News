@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-28",
+  "release": "2026-07-28-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-07-28-0800-ru-news-01",
+      "title": "Особенности применения английского права в процедурах банкротства",
+      "caption": "Разбор судебных прецедентов использования механизмов английского права при оспаривании сделок в процедурах банкротства.\n\nИсточник: https://t.me/leads/\n\n#английскоеправо #банкротство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "#EnglishLaw #Банкроство #Россия Продолжаем тему терминалов В прошлый раз был пор",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-02",
+      "title": "Продажи на торговых площадках ЕС: обязательства по автоматическому обмену информацией",
+      "caption": "Обзор порядка передачи сведений онлайн-платформами в налоговые органы ЕС в рамках директивы DAC7.\n\nИсточник: https://t.me/leads/\n\n#DAC7 #налоги #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "👀 Продаёте на Vinted или Marktplaats? Сдаёте жильё через Airbnb? Налоговая уже в",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://t.me/leads/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-03",
+      "title": "Австралия и Норвегия обновили правила контроля импорта товаров",
+      "caption": "Обзор изменений в регулировании цепочек поставок и соблюдения стандартов международной торговли.\n\nИсточник: https://regfollower.com/feed/\n\n#торговля #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "Australia, Brazil, Norway rejects forced labour justification on Trump’s latest ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-04",
+      "title": "Италия ввела новые налоговые коды для возврата НДС",
+      "caption": "Налоговое агентство Италии обновило кодификацию операций для декларирования и возврата налога на добавленную стоимость.\n\nИсточник: https://regfollower.com/feed/\n\n#Италия #НДС #коды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "Italy introduces new tax codes for VAT recovery, entertainment tax, and air taxi",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-05",
+      "title": "Канада проводит публичные консультации по документации ТЦО",
+      "caption": "Министерство финансов Канады вынесло на обсуждение проект новых требований к местер-файлам и локальным файлам по трансфертному ценообразованию.\n\nИсточник: https://regfollower.com/feed/\n\n#Канада #ТЦО #документация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "Canada consults transfer pricing documentation amendments, various other tax mea",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-06",
+      "title": "Австралия уточняет правила распределения вычетов для подразделений компаний",
+      "caption": "Налоговая служба Австралии выпустила разъяснения по распределению корпоративных расходов между головной компанией и филиалами.\n\nИсточник: https://regfollower.com/feed/\n\n#Австралия #корпоративныйналог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "UK expands bicycle anti-dumping duties in major trade defence action",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-07",
+      "title": "Обновление формы декларации по налогу на наследство в Нидерландах",
+      "caption": "Налоговая служба Нидерландов обновила формы уплаты налога при передаче имущества наследникам.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #налогнанаследство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "EU pivots from farm tariffs to major anti-dumping action on Chinese industrial g",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-08",
+      "title": "Обсуждение введения налога на богатство в Великобритании",
+      "caption": "Эксперты и представители бизнес-сообщества Великобритании ведут дискуссию об изменении налогообложения сверхкрупных капиталов.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Великобритания #налоги #капитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "Netherlands updates hybrid mismatch guidance with new rules on US tax regimes, p",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-09",
+      "title": "Применение соцопросов в налоговом праве Нидерландов",
+      "caption": "Обзор правовой практики использования данных социологических исследований в налоговых спорах.\n\nИсточник: https://www.taxlive.nl/nl\n\n#Нидерланды #судебнаяпрактика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "UK: HMRC publishes GAAR opinions on employee benefit trust IHT arrangements",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-28-0800-ru-news-10",
+      "title": "Обновление реестра бенефициаров трастов в Нидерландах",
+      "caption": "Министерство финансов Нидерландов утвердило новые штрафные санкции за нарушения при подаче сведений о бенефициарах трастов.\n\nИсточник: https://regfollower.com/feed/\n\n#Нидерланды #UBO #трасты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международный комплекс",
+      "act": "Australia: ATO updates guidance on monthly GST reporting, extends authority to m",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/feed/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 08:00",
+        "color_a": [
+          20,
+          70,
+          120
+        ],
+        "color_b": [
+          230,
+          140,
+          45
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

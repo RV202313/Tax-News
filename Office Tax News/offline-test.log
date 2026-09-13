@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_offline.py", line 229, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_offline.py", line 211, in main
+    errors, root = run_tests()
+                   ~~~~~~~~~^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_offline.py", line 86, in run_tests
+    root, probe_ids = setup_root()
+                      ~~~~~~~~~~^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_offline.py", line 59, in setup_root
+    for name in os.listdir(PROBE_DIR):
+                ~~~~~~~~~~^^^^^^^^^^^
+FileNotFoundError: [WinError 3] Системе не удается найти указанный путь: 'C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\raw\\probe'

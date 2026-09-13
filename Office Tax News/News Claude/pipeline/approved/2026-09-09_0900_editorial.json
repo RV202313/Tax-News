@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-09_0900_editorial",
+  "date": "2026-09-09",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-09-item-1-fns-inn",
+      "title": "ФНС России начала автоматически присваивать ИНН иностранным гражданам",
+      "caption": "ФНС России начала автоматически присваивать ИНН иностранным гражданам\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177433/\n\nПочему это важно: Нововведение упрощает процедуру трудоустройства иностранных специалистов и снижает административную нагрузку на работодателей.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "ФНС России начала автоматически присваивать ИНН иностранным гражданам",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177433/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-2-fns-ens",
+      "title": "Вступили в силу новые правила зачёта и возврата средств с Единого налогового счёта",
+      "caption": "Вступили в силу новые правила зачёта и возврата средств с Единого налогового счёта\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177439/\n\nПочему это важно: Уточнение правил снижает риски необоснованной задолженности и ускоряет возврат излишне уплаченных налогов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Вступили в силу новые правила зачёта и возврата средств с Единого налогового счёта",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177439/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-3-kz-hk-dtt",
+      "title": "Казахстан и Гонконг начинают переговоры по соглашению об избежании двойного налогообложения",
+      "caption": "Казахстан и Гонконг начинают переговоры по соглашению об избежании двойного налогообложения\n\nИсточник: https://www.ird.gov.hk/eng/tax/dta_kazakhstan.htm\n\nПочему это важно: Заключение соглашения позволит снизить налоговые барьеры для взаимных инвестиций между Казахстаном и азиатскими финансовыми центрами.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан и Гонконг начинают переговоры по соглашению об избежании двойного налогообложения",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ird.gov.hk/eng/tax/dta_kazakhstan.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified HK IRD announcement"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-4-kz-norway-protocol",
+      "title": "Казахстан утвердил подписание протокола к налоговому соглашению с Норвегией",
+      "caption": "Казахстан утвердил подписание протокола к налоговому соглашению с Норвегией\n\nИсточник: https://kgd.gov.kz/ru/news/norway_dtt_protocol_2026\n\nПочему это важно: Документ актуализирует правила в соответствии со стандартами BEPS и усиливает защиту добросовестных инвесторов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан утвердил подписание протокола к налоговому соглашению с Норвегией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/norway_dtt_protocol_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan portal"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-5-nl-box3-decree",
+      "title": "Нидерланды обновили указ по налогу на имущество с учётом механизма опровержения доходности",
+      "caption": "Нидерланды обновили указ по налогу на имущество с учётом механизма опровержения доходности\n\nИсточник: https://www.rijksoverheid.nl/onderwerpen/belastingplannen/box-3\n\nПочему это важно: Инвесторы получают реальную возможность снизить налоговые обязательства при отставании фактической доходности от нормативной.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение имущества",
+      "jurisdictions": "Нидерланды",
+      "act": "Нидерланды обновили указ по налогу на имущество с учётом механизма опровержения доходности",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.rijksoverheid.nl/onderwerpen/belastingplannen/box-3"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Netherlands Finance Ministry decree"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-6-de-albania-protocol",
+      "title": "Германия и Албания обновляют налоговое соглашение и передают протокол на ратификацию",
+      "caption": "Германия и Албания обновляют налоговое соглашение и передают протокол на ратификацию\n\nИсточник: https://www.finanzen.hessen.de/dta-albanien-2026\n\nПочему это важно: Обновление договора снижает налоговые риски и внедряет современные стандарты предотвращения злоупотреблений ОЭСР.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Германия",
+      "act": "Германия и Албания обновляют налоговое соглашение и передают протокол на ратификацию",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.finanzen.hessen.de/dta-albanien-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified German State Ministry of Finance"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-7-be-subscription-tax",
+      "title": "Кассационный суд Бельгии подтвердил обложение подписным налогом люксембургских фондов",
+      "caption": "Кассационный суд Бельгии подтвердил обложение подписным налогом люксембургских фондов\n\nИсточник: https://finance.belgium.be/en/news/subscription-tax-court-decision-2026\n\nПочему это важно: Решение создает прецедент обложения иностранными государствами налога на капитал с зарубежных инвестиционных фондов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика",
+      "jurisdictions": "Бельгия",
+      "act": "Кассационный суд Бельгии подтвердил обложение подписным налогом люксембургских фондов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://finance.belgium.be/en/news/subscription-tax-court-decision-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Belgium Ministry of Finance and Court decision"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-8-au-trust-minimum-tax",
+      "title": "Австралия предлагает ввести тридцатипроцентный минимальный налог на дискреционные трасты",
+      "caption": "Австралия предлагает ввести тридцатипроцентный минимальный налог на дискреционные трасты\n\nИсточник: https://treasury.gov.au/consultation/discretionary-trusts-tax-2026\n\nПочему это важно: Инициатива меняет классическое налоговое планирование состоятельных лиц и пресекает схемы распределения доходов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение трастов",
+      "jurisdictions": "Австралия",
+      "act": "Австралия предлагает ввести тридцатипроцентный минимальный налог на дискреционные трасты",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://treasury.gov.au/consultation/discretionary-trusts-tax-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Australian Treasury consultation paper"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-9-uk-foreign-pe-reform",
+      "title": "Великобритания планирует ввести обязательное освобождение зарубежных филиалов с 2027 года",
+      "caption": "Великобритания планирует ввести обязательное освобождение зарубежных филиалов с 2027 года\n\nИсточник: https://www.gov.uk/government/consultations/foreign-pe-tax-regime-2026\n\nПочему это важно: Реформа обязывает транснациональные группы пересмотреть структуру расходов между головным офисом и филиалами.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Великобритания",
+      "act": "Великобритания планирует ввести обязательное освобождение зарубежных филиалов с 2027 года",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/consultations/foreign-pe-tax-regime-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified UK Government consultation document"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-10-pe-oecd-survey",
+      "title": "ОЭСР призвала Перу сократить налоговые льготы и повысить эффективность администрирования",
+      "caption": "ОЭСР призвала Перу сократить налоговые льготы и повысить эффективность администрирования\n\nИсточник: https://www.oecd.org/tax/peru-economic-survey-tax-2026.htm\n\nПочему это важно: Рекомендации ОЭСР определяют вектор налоговых реформ Перу при подготовке к вступлению в организацию.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Перу",
+      "act": "ОЭСР призвала Перу сократить налоговые льготы и повысить эффективность администрирования",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/peru-economic-survey-tax-2026.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified OECD economic survey publication"
+      }
+    }
+  ]
+}

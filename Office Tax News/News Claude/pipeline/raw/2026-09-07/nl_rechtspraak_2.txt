@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title type="text">Rechtspraak Open Data (Uitspraken)</title><subtitle type="text">Aantal gevonden ECLI's: 0</subtitle><id>uuid:52b0c95e-23ce-4601-989e-0a17eba97fec;id=49024</id><rights type="text">Copyright 2026 Rechtspraak.</rights><updated>2026-09-07T17:02:32+02:00</updated></feed>

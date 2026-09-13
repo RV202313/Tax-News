@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 02 Sep 2026 09:38:56 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Opinie &#124; De Belastingdienst weet het al: over gegevensdeling en informatieplichten</title>
+		<link>https://www.taxence.nl/blogs/opinie-de-belastingdienst-weet-het-al-over-gegevensdeling-en-informatieplichten/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-de-belastingdienst-weet-het-al-over-gegevensdeling-en-informatieplichten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 09:38:35 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167151</guid>
+
+					<description><![CDATA[De Autoriteit Persoonsgegevens (‘AP’) droeg de Belastingdienst op te stoppen met het gebruik van het BSN in betalingskernmerken en vorderingsnummers. In de discussie daarna draaide het steeds om de vraag hoeveel de Belastingdienst van burgers mag weten. Dat is te eenzijdig volgens mr. S. El Oiskhiri want de Belastingdienst beschikt al over burgergegevens. Een andere<a class="read-more" href="https://www.taxence.nl/blogs/opinie-de-belastingdienst-weet-het-al-over-gegevensdeling-en-informatieplichten/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">De Autoriteit Persoonsgegevens (‘AP’) droeg de Belastingdienst op te stoppen met het gebruik van het BSN in betalingskernmerken en vorderingsnummers. In de discussie daarna draaide het steeds om de vraag hoeveel de Belastingdienst van burgers mag weten. Dat is te eenzijdig volgens mr. S. El Oiskhiri want de Belastingdienst beschikt al over burgergegevens. Een andere benadering is nodig.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst ontvangt in de praktijk al gegevens van burgers via verschillende kanalen. Via werkgevers, financiële instellingen en andere organisaties. Daarom is het logisch eerst gebruik te maken van wat al beschikbaar is en de burger te vragen ‘dat te controleren en aan te vullen’. Die aanpak wordt wel toegepast bij het innen van inkomstenbelasting, maar is daar blijven steken. </p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <a href="https://www.ndfr.nl/content/p1-1116676#p1-1116676_article-text">NDFR</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-de-belastingdienst-weet-het-al-over-gegevensdeling-en-informatieplichten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/06/Taxence-Header-11.jpg" length="38441" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet onderzoekt ruimere hypotheekmogelijkheden voor senioren</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-onderzoekt-ruimere-hypotheekmogelijkheden-voor-senioren/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-onderzoekt-ruimere-hypotheekmogelijkheden-voor-senioren/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 07:24:58 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167127</guid>
+
+					<description><![CDATA[Het kabinet wil onnodige financiële belemmeringen voor ouderen die naar een passende woning willen verhuizen zoveel mogelijk wegnemen. Daarbij wordt onder meer gekeken naar overbruggingsfinanciering, een doorstroomhypotheek en de gevolgen van het toezicht op aflossingsvrije hypotheken.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil onnodige financiële belemmeringen voor ouderen die naar een passende woning willen verhuizen zoveel mogelijk wegnemen. Daarbij wordt onder meer gekeken naar overbruggingsfinanciering, een doorstroomhypotheek en de gevolgen van het toezicht op aflossingsvrije hypotheken.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bij een reguliere, langlopende hypotheek blijft het inkomen leidend. Om de hypotheeklasten langdurig te kunnen dragen, moeten voldoende bestendige inkomsten aanwezig zijn. Bij kortlopende financiering die uit de verkoopopbrengst van de huidige woning wordt afgelost, kan volgens het kabinet wel meer gewicht worden toegekend aan vermogen en onderpand. De huidige regels bieden hiervoor al ruimte.</p>
+
+
+
+<p class="wp-block-paragraph">Uit cijfers van het CBS blijkt dat woningeigenaren van 65 jaar en ouder op 1 januari 2024 gemiddeld ongeveer € 374.000 overwaarde hadden. De totale overwaarde van deze groep bedroeg ongeveer € 540 miljard.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Doorstroomhypotheek</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet werkt daarnaast aan de uitvoering van de motie-Steen c.s. om een doorstroomhypotheek mogelijk te maken. Daarbij wordt onderzocht in welke situaties het bestaande hypotheekaanbod onvoldoende aansluit bij de financieringsbehoefte van senioren. Ook worden de kenmerken en randvoorwaarden nader uitgewerkt, waaronder de looptijd, de wijze waarop overwaarde en onderpand kunnen worden betrokken bij de beoordeling, de betaalbaarheid en de aflossing. Uiterlijk in het voorjaar van 2027 ontvangt de Kamer een implementatieplan.</p>
+
+
+
+<p class="wp-block-paragraph">Ook wordt verkend of rentebijschrijving bij tijdelijke doorstroomfinanciering mogelijk is. Dit kan de tijdelijke maandlasten beperken, maar maakt de financiering waarschijnlijk uiteindelijk duurder.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aflossingsvrije hypotheken</strong></p>
+
+
+
+<p class="wp-block-paragraph">DNB heeft banken gewezen op de extra risico&#8217;s van aflossingsvrije hypotheken. Verschillende banken hebben daarop hun beleid aangescherpt. Deze aanscherpingen kunnen gevolgen hebben wanneer consumenten hun hypotheeksituatie willen wijzigen, bijvoorbeeld bij verhuizing. De AFM benadrukt dat bestaande klanten met een aflossingsvrije hypotheek zorgvuldig moeten worden behandeld en niet onevenredig mogen worden getroffen door maatregelen om risico&#8217;s te beheersen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026D40357&amp;did=2026D40357" target="_blank" rel="noreferrer noopener">Antwoorden op Kamervragen over speciale hypotheekregels voor ouderen, nr. 2026Z15958</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-onderzoekt-ruimere-hypotheekmogelijkheden-voor-senioren/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/09/Echtpaar-woning.jpg" length="36935" type="image/jpeg" />	</item>
+		<item>
+		<title>Heffingvrij vermogen verlaagt werkelijk rendement box 3 niet</title>
+		<link>https://www.taxence.nl/nieuws/heffingvrij-vermogen-verlaagt-werkelijk-rendement-box-3-niet/</link>
+					<comments>https://www.taxence.nl/nieuws/heffingvrij-vermogen-verlaagt-werkelijk-rendement-box-3-niet/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 07:18:14 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167125</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat bij box 3-rechtsherstel over het werkelijke rendement geen rekening wordt gehouden met het heffingvrije vermogen. De inspecteur heeft wel de hoorplicht geschonden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat bij box 3-rechtsherstel over het werkelijke rendement geen rekening wordt gehouden met het heffingvrije vermogen. De inspecteur heeft wel de hoorplicht geschonden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De erfgenamen van een in 2022 overleden man maken bezwaar tegen de aanslagen IB/PVV 2020 en 2021 en verzoeken daarbij te worden gehoord. De inspecteur nodigt hun gemachtigde uit voor een hoorgesprek, maar geeft daarvoor slechts enkele dagen de tijd. De gemachtigde heeft ernstige gehoorproblemen, waardoor telefonisch horen of videobellen geen optie is. De inspecteur doet vervolgens uitspraak op bezwaar zonder dat een hoorgesprek heeft plaatsgevonden. In beroep wordt het box 3-inkomen verminderd tot het werkelijke rendement van € 5.102 voor 2020 en € 4.924 voor 2021. In hoger beroep stellen de erfgenamen onder meer dat op dit werkelijke rendement nog het heffingvrije vermogen in mindering moet komen.</p>
+
+
+
+<h3 class="wp-block-heading">Hoorplicht geschonden</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur een onaanvaardbaar korte termijn heeft gegeven voor het hoorgesprek. Daarbij was bekend dat vanwege de gehoorproblemen van de gemachtigde alleen een fysiek gesprek mogelijk was. De inspecteur heeft de hoorplicht daarom geschonden. Het hof wijst de zaak echter niet terug, omdat dit gezien het resterende juridische geschil alleen tot een herhaling van zetten zou leiden.</p>
+
+
+
+<h3 class="wp-block-heading">Geen heffingvrij vermogen</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof volgt de rechtspraak van de Hoge Raad over het box 3-rechtsherstel. Het werkelijke rendement wordt berekend over het gehele vermogen in box 3, zonder aftrek van het heffingvrije vermogen. De inspecteur heeft het box 3-inkomen daarom terecht vastgesteld op het volledige werkelijke rendement. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet:<strong> </strong><a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-7:2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7:2 Awb</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 25 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.1</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.2?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=wettekst" target="_blank" rel="noreferrer noopener">5.2</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.3?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=wettekst" target="_blank" rel="noreferrer noopener">5.3</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.5?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">5.5 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5195" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 04-08-2026, ECLI:NL:GHARL:2026:5195, 25/1152 en 25/1153 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/heffingvrij-vermogen-verlaagt-werkelijk-rendement-box-3-niet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/04/Box-3-rendement.jpg" length="32306" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingdienst pakt verhuld vermogen aan: €139 miljoen opbrengst in 2025</title>
+		<link>https://www.taxence.nl/nieuws/belastingdienst-pakt-verhuld-vermogen-aan-e139-miljoen-opbrengst-in-2025/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingdienst-pakt-verhuld-vermogen-aan-e139-miljoen-opbrengst-in-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2026 07:01:17 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167123</guid>
+
+					<description><![CDATA[Het programma Verhuld Vermogen (VhV) van de Belastingdienst heeft in 2025 voor €139 miljoen aan belastingen, renten en boeten opgehaald. Vooral internationale gegevensuitwisseling en het gebruik van buitenlandse rechtspersonen leverden het meeste op, terwijl klassiek zwartsparen steeds meer plaatsmaakt voor complexere constructies.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Het programma Verhuld Vermogen (VhV) van de Belastingdienst heeft in 2025 voor €139 miljoen aan belastingen, renten en boeten opgehaald. Vooral internationale gegevensuitwisseling en het gebruik van buitenlandse rechtspersonen leverden het meeste op, terwijl klassiek zwartsparen steeds meer plaatsmaakt voor complexere constructies.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Meer signalen, hogere opbrengst per zaak</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het programma VhV richt zich op het tegengaan van het verhullen van inkomen en vermogen door Nederlandse belastingplichtigen, in lijn met de uitvoerings- en handhavingsstrategie van de Belastingdienst. In 2025 zijn 1.495 signalen behandeld (2024: 1.328), waarvan 522 leidden tot een correctie. De gemiddelde opbrengst per gecorrigeerd signaal steeg met 8,5% naar €266.474. In totaal is 150.000 uur aan het programma besteed. De thema&#8217;s internationale gegevensuitwisseling (€40,6 miljoen), gebruik van buitenlandse rechtspersonen (€66,5 miljoen) en vrijwillige verbetering (€16,3 miljoen) zijn samen goed voor meer dan 80% van de correctieresultaten. Ook rekeningprojecten (€5,5 miljoen), woonplaatsonderzoeken (€4,1 miljoen) en virtual assets (€4,3 miljoen) droegen bij.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Sterke stijging bezwaren door Box 3</strong></p>
+
+
+
+<p class="wp-block-paragraph">Als gevolg van box 3-problematiek en belastingrenteproblematiek is de voorraad bezwaren in 2025 voor het eerst in jaren met ruim 40% gestegen. In de beroepsfase wordt de Belastingdienst in circa 60% van de zaken gedeeltelijk in het ongelijk gesteld (2024: 50%), veelal samenhangend met het &#8216;Kerstarrest&#8217;. In de strafrechtketen zijn zestien zaken aangemeld bij FIOD en OM, waarvan drie strafrechtelijk worden vervolgd.</p>
+
+
+
+<p class="wp-block-paragraph">Nieuwe fenomenen die de werkgroep &#8216;Fenomenen &amp; Trends VhV&#8217; signaleert, zijn onder meer beleggingen in goud, whisky en kunst, activiteiten van content-creators en het gebruik van buitenlandse &#8216;professional enablers&#8217;. Vanaf 2026 verplicht de Europese richtlijn DAC8 EU-lidstaten om informatie over cryptovaluta uit te wisselen.</p>
+
+
+
+<p class="wp-block-paragraph">Uit een evaluatie van het programma blijkt dat de programmatische aanpak als essentieel en effectief wordt beschouwd. Voor de periode 2026-2028 is jaarlijks minimaal 149.000 uur aan het programma toegezegd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/overheid/openbaarmakingen/api/v0/attachment/bb01d255-399d-4e66-8e07-b6b30d8a8b78" target="_blank" rel="noreferrer noopener">Belastingdienst, Programma Verhuld Vermogen, Jaarverslag 2025</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingdienst-pakt-verhuld-vermogen-aan-e139-miljoen-opbrengst-in-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/05/Belastingdienst-euro.jpg" length="55775" type="image/jpeg" />	</item>
+		<item>
+		<title>Prinsjesdag 2026: box 3 mogelijk on hold, lastenverzwaring voor hogere inkomens</title>
+		<link>https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/</link>
+					<comments>https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 15:39:01 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167121</guid>
+
+					<description><![CDATA[Uit de uitgelekte Prinsjesdagplannen blijkt dat het nieuwe box 3-stelsel voorlopig lijkt te worden geparkeerd in de Eerste Kamer. Tegelijkertijd draait het kabinet verschillende bezuinigingen op de sociale zekerheid deels terug, trekt het € 1,5 miljard uit voor koopkrachtmaatregelen en gaan hogere inkomens meer belasting betalen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Uit de uitgelekte Prinsjesdagplannen blijkt dat het nieuwe box 3-stelsel voorlopig lijkt te worden geparkeerd in de Eerste Kamer. Tegelijkertijd draait het kabinet verschillende bezuinigingen op de sociale zekerheid deels terug, trekt het € 1,5 miljard uit voor koopkrachtmaatregelen en gaan hogere inkomens meer belasting betalen.</strong></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Box 3 mogelijk geparkeerd</strong></h2>
+
+
+
+<p class="wp-block-paragraph">Het wetsvoorstel voor belasting over het werkelijke rendement, dat per 2028 zou moeten ingaan en waarbij ook ongerealiseerde waardestijgingen zouden meetellen, stuit op politieke bezwaren en lijkt voorlopig niet verder te worden behandeld. De coalitie zou meer tijd willen nemen voor een stelsel waarin belasting pas verschuldigd is bij daadwerkelijk gerealiseerde vermogenswinst. Het uitstel kan de schatkist jaarlijks 2,4 tot 2,5 miljard euro aan begrote inkomsten kosten zolang er geen alternatief is. Over een algemene verhoging van de vermogensbelasting, waar coalitiepartij D66 op aandringt en de VVD zich fel tegen verzet, staat niets concreets in de stukken.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Sociale zekerheid verzacht, hogere inkomens meer belast</strong></h2>
+
+
+
+<p class="wp-block-paragraph">De geplande verhoging van de AOW-leeftijd gaat niet door. Het maximumdagloon voor uitkeringen gaat nog wel omlaag, maar met 7,5 procent in plaats van de eerder voorgenomen 20 procent. De bezuiniging op de WW-duur (van twee naar één jaar) wordt een jaar uitgesteld tot 2029, net als het afschaffen van de tegemoetkoming voor mensen in de WIA. De verhoging van het eigen risico met 60 euro schuift eveneens door naar 2028, wat circa 1 miljard euro kost.</p>
+
+
+
+<p class="wp-block-paragraph">Om dit te dekken, laat het kabinet hogere inkomens meer belasting betalen en wordt bezuinigd op de omvang van de overheid. Daarnaast is 1,5 miljard euro beschikbaar voor koopkrachtreparatie, 1,5 miljard eenmalig voor infrastructuurprojecten, extra geld voor ontwikkelingshulp en een langzamere afbouw van de accijnskorting op diesel en benzine. PRO en de vakbonden zijn nog niet tevreden; op Prinsjesdag worden alle plannen definitief gepresenteerd.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/prinsjesdag-2026-box-3-mogelijk-on-hold-lastenverzwaring-voor-hogere-inkomens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Prinsjesdag-2025_edited.jpg" length="53544" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingdienst zet in op dienstverlening en moderne ICT</title>
+		<link>https://www.taxence.nl/nieuws/belastingdienst-zet-in-op-dienstverlening-en-moderne-ict/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingdienst-zet-in-op-dienstverlening-en-moderne-ict/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 10:50:21 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167119</guid>
+
+					<description><![CDATA[De Belastingdienst wil burgers en ondernemers beter ondersteunen en tegelijkertijd de verouderde ICT verder moderniseren. Staatssecretaris Eerenberg informeert de Tweede Kamer over de koers van de Belastingdienst en de voortgang op actuele onderwerpen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst wil burgers en ondernemers beter ondersteunen en tegelijkertijd de verouderde ICT verder moderniseren. Staatssecretaris Eerenberg informeert de Tweede Kamer over de koers van de Belastingdienst en de voortgang op actuele onderwerpen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De koers voor de Belastingdienst is gericht op een moderne en toekomstbestendige organisatie, die het voor burgers en ondernemers zo eenvoudig mogelijk maakt om aan hun fiscale verplichtingen te voldoen. Daarbij staan het verbeteren van de dienstverlening en vereenvoudiging van fiscale wet- en regelgeving centraal. Modernisering van de ICT is hiervoor een belangrijke randvoorwaarde.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst zet verder in op digitale dienstverlening en meer mogelijkheden voor selfservice. Zo wordt gewerkt aan interactieve hulpmiddelen voor aangiften en checkers waarmee burgers kunnen nagaan of een aftrekpost van toepassing is. Ook wordt het Overzicht Betalen en Ontvangen uitgebreid. Vanaf september 2026 kunnen burgers en ondernemers ervoor kiezen brieven over de omzetbelasting alleen digitaal te ontvangen.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Herstel box 3</strong></p>
+
+
+
+<p class="wp-block-paragraph">De hersteloperatie box 3 loopt ondertussen door. Tot en met 19 augustus 2026 zijn 863.600 formulieren Opgaaf Werkelijk Rendement (OWR) ontvangen en 689.600 verwerkt. De verwerking van circa 474.000 formulieren heeft geleid tot een teruggave van in totaal € 969 miljoen. De realisatiecijfers lijken erop te wijzen dat het totale budgettaire beslag mogelijk lager uitvalt dan eerder geraamd.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Modernisering ICT</strong></p>
+
+
+
+<p class="wp-block-paragraph">De komende jaren worden verschillende omvangrijke ICT-trajecten afgerond. Het jaar 2028 moet daarbij een omslagpunt vormen. Naarmate minder capaciteit nodig is voor het wegwerken van achterstallig onderhoud, ontstaat meer ruimte voor strategische vernieuwing en verbetering van dienstverlening en toezicht.</p>
+
+
+
+<p class="wp-block-paragraph">Ook blijft de Belastingdienst inzetten op het voorkomen van fouten en het gericht bestrijden van fraude en misbruik. Daarbij wordt gekozen voor een structurele aanpak: burgers en bedrijven ondersteunen bij naleving, toezicht gericht inzetten en fraude krachtig aanpakken waar dat nodig is.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: Tweede Kamer, vergaderjaar 2025–2026, Kamerstuk 31066, <a href="https://open.overheid.nl/overheid/openbaarmakingen/api/v0/attachment/888af3d8-52ea-48f8-b247-06ceed7c3397" target="_blank" rel="noreferrer noopener">Stand-van-zakenbrief Belastingdienst</a> en <a href="https://open.overheid.nl/overheid/openbaarmakingen/api/v0/attachment/abc5012e-df8f-466f-b28d-19cccd1ec093" target="_blank" rel="noreferrer noopener">Bijlage 1 Actuele onderwerpen, moties en toezeggingen</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingdienst-zet-in-op-dienstverlening-en-moderne-ict/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Belastingdienst-online.jpg" length="56889" type="image/jpeg" />	</item>
+		<item>
+		<title>Dga is btw-ondernemer bij verhuur werkruimtes aan bv</title>
+		<link>https://www.taxence.nl/nieuws/dga-is-btw-ondernemer-bij-verhuur-werkruimtes-aan-bv/</link>
+					<comments>https://www.taxence.nl/nieuws/dga-is-btw-ondernemer-bij-verhuur-werkruimtes-aan-bv/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 01 Sep 2026 07:09:12 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Omzetbelasting (btw)]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167077</guid>
+
+					<description><![CDATA[Gerechtshof ’s-Hertogenbosch oordeelt dat een dga die werkruimtes in zijn woning tegen vergoeding ter beschikking stelt aan zijn bv, ondernemer is voor de omzetbelasting. De dga kan daarom samen met zijn holding en bv een fiscale eenheid voor de omzetbelasting vormen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof ’s-Hertogenbosch oordeelt dat een dga die werkruimtes in zijn woning tegen vergoeding ter beschikking stelt aan zijn bv, ondernemer is voor de omzetbelasting. De dga kan daarom samen met zijn holding en bv een fiscale eenheid voor de omzetbelasting vormen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een dga is eigenaar van een woning en verhuurt sinds 2009 verschillende ruimtes daarvan aan een bv. Het gaat onder meer om een werkkamer, garage, kantoor- en archiefruimte en sanitaire voorzieningen. Hiervoor is een schriftelijke huurovereenkomst gesloten. De bv betaalt maandelijks € 2.000. De dga is in dienst bij zijn holding en verricht vanuit de woning werkzaamheden voor de bv. In 2021 verzoekt hij om samen met de holding en de bv te worden aangemerkt als fiscale eenheid voor de omzetbelasting. De inspecteur weigert de dga daarin op te nemen, omdat hij volgens de inspecteur geen btw-ondernemer is. In geschil is of de verhuur een zelfstandige economische activiteit vormt en de dga daardoor onderdeel kan zijn van de fiscale eenheid.</p>
+
+
+
+<h3 class="wp-block-heading">Verhuur is economische activiteit</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat sprake is van een economische activiteit. De ruimtes zijn daadwerkelijk ongeveer vijftien jaar verhuurd en de dga ontvangt daarvoor iedere maand € 2.000. Daarmee worden de ruimtes duurzaam geëxploiteerd om opbrengst te verkrijgen. Dat de ruimtes onderdeel zijn van de eigen woning en deels ook toegankelijk zijn voor medebewoners, maakt dat niet anders. Ook hoeft de vergoeding niet gelijk te zijn aan de kostprijs of marktprijs. Van belang is dat een reëel verband bestaat tussen de verhuur en de vergoeding. Dat verband is volgens het hof aanwezig.</p>
+
+
+
+<h3 class="wp-block-heading">Dga handelt zelfstandig bij verhuur</h3>
+
+
+
+<p class="wp-block-paragraph">Ook handelt de dga bij de verhuur zelfstandig. Dat hij directeur en grootaandeelhouder is, de ruimtes voor werkzaamheden van de bv worden gebruikt en de vergoeding voor de loonheffingen als loon is behandeld, betekent niet dat de verhuur onderdeel is van zijn dienstbetrekking. Uit de schriftelijke huurovereenkomst en de maandelijkse betalingen blijkt juist dat hij de ruimtes buiten zijn arbeidsovereenkomst om ter beschikking stelt. De dga is daarom btw-ondernemer. Het hof bevestigt dat hij vanaf 1 juli 2022 samen met de holding en de bv een fiscale eenheid voor de omzetbelasting vormt. Het hoger beroep van de inspecteur is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002629-7-4?lid=BWBR0002629&amp;pid=c-NDFROB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7 lid 1, 2 en 4 Wet OB 1968</a> en <a href="https://www.ndfr.nl/content/CELEX-02006L0112-20240101-NLD#CELEX-02006L0112-20240101-NLD_ART_9" target="_blank" rel="noreferrer noopener">art. 9 en 10 Btw-richtlijn 2006</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1840" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 15-07-2026, ECLI:NL:GHSHE:2026:1840, 24/852 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/dga-is-btw-ondernemer-bij-verhuur-werkruimtes-aan-bv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/06/woning-sleutel.jpg" length="16144" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet kritisch op versoepeling Europese renteaftrekbeperking</title>
+		<link>https://www.taxence.nl/agenda/internationaal-en-europees-recht/kabinet-kritisch-op-versoepeling-europese-renteaftrekbeperking/</link>
+					<comments>https://www.taxence.nl/agenda/internationaal-en-europees-recht/kabinet-kritisch-op-versoepeling-europese-renteaftrekbeperking/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 09:38:31 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal en Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167074</guid>
+
+					<description><![CDATA[Het kabinet steunt de Europese plannen om de regels voor directe belastingen eenvoudiger te maken, maar is kritisch over de forse versoepeling van de renteaftrekbeperking. Volgens het kabinet dreigt hierdoor de bestrijding van belastingontwijking aan effectiviteit te verliezen. De Europese Commissie wil met het Omnibusvoorstel directe belastingen zes bestaande richtlijnen vereenvoudigen. Het voorstel moet de<a class="read-more" href="https://www.taxence.nl/agenda/internationaal-en-europees-recht/kabinet-kritisch-op-versoepeling-europese-renteaftrekbeperking/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet steunt de Europese plannen om de regels voor directe belastingen eenvoudiger te maken, maar is kritisch over de forse versoepeling van de renteaftrekbeperking. Volgens het kabinet dreigt hierdoor de bestrijding van belastingontwijking aan effectiviteit te verliezen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Europese Commissie wil met het Omnibusvoorstel directe belastingen zes bestaande richtlijnen vereenvoudigen. Het voorstel moet de administratieve lasten voor bedrijven verminderen, investeringen stimuleren en het concurrentievermogen van de EU versterken. Het gaat onder meer om de Moeder-dochterrichtlijn, de Interest- en royaltyrichtlijn en de antibelastingontwijkingsrichtlijn ATAD.</p>
+
+
+
+<h2 class="wp-block-heading">Ruimere renteaftrek</h2>
+
+
+
+<p class="wp-block-paragraph">Een belangrijk onderdeel betreft de generieke renteaftrekbeperking uit ATAD. De Commissie wil de drempel harmoniseren op 30% van het bedrijfsresultaat en uiteindelijk € 3 miljoen. Daarnaast komen er verschillende uitzonderingen, onder meer voor bepaalde externe leningen, sociale en betaalbare huisvesting en tijdelijk voor de defensiesector.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet vindt dat deze stapeling van uitzonderingen de renteaftrekbeperking te veel verzwakt. De regeling dreigt daardoor haar functie als robuuste antimisbruikmaatregel grotendeels te verliezen. Nederland wil daarom wel de drempels op Europees niveau harmoniseren, maar lidstaten zelf laten bepalen welke uitzonderingen zij toepassen.</p>
+
+
+
+<h2 class="wp-block-heading">Bronbelastingen binnen EU</h2>
+
+
+
+<p class="wp-block-paragraph">Positiever is het kabinet over het voorstel om bronbelastingen op grensoverschrijdende betalingen tussen EU-entiteiten af te schaffen. De Commissie wil onder meer de huidige eisen aan de mate van gelieerdheid laten vervallen. Daardoor zouden rente, royalty&#8217;s en dividenden tussen EU-entiteiten veel ruimer zonder bronbelasting kunnen worden betaald.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet waarschuwt wel voor fiscale arbitrage. In Nederland geldt voor de deelnemingsvrijstelling en de vrijstelling van dividendbelasting momenteel een belang van minimaal 5%. Als die grens voor EU-situaties verdwijnt, kan een verschil ontstaan met binnenlandse situaties. Dat kan volgens het kabinet zelfs gevolgen hebben voor de verhouding tussen box 2 en box 3.</p>
+
+
+
+<h2 class="wp-block-heading">Miljardenderving</h2>
+
+
+
+<p class="wp-block-paragraph">De financiële gevolgen voor Nederland kunnen aanzienlijk zijn. De aanpassing van de Moeder-dochterrichtlijn kan jaarlijks € 2 tot € 2,5 miljard kosten. De versoepeling van de renteaftrekbeperking leidt naar schatting tot nog eens € 1,5 tot € 2 miljard minder belastingopbrengsten.</p>
+
+
+
+<p class="wp-block-paragraph">De meeste wijzigingen moeten volgens het voorstel vanaf 1 januari 2029 gelden. Voor enkele onderdelen gelden langere overgangstermijnen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z17403&amp;did=2026D39725" rel="noreferrer noopener" target="_blank">Fiche: Omnibusrichtlijn directe belastingen | Tweede Kamer der Staten-Generaal</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/internationaal-en-europees-recht/kabinet-kritisch-op-versoepeling-europese-renteaftrekbeperking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/EU-Brussel.jpg" length="73852" type="image/jpeg" />	</item>
+		<item>
+		<title>Meeste bezwaren massaal bezwaar belastingrente afgehandeld</title>
+		<link>https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/</link>
+					<comments>https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 09:27:37 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167072</guid>
+
+					<description><![CDATA[Bijna alle bezwaren die onder de collectieve uitspraak op het massaal bezwaar vallen, zijn verwerkt. Dat blijkt uit de update herstel belastingrente vennootschapsbelasting die de Belastingdienst heeft gepubliceerd. Het gaat om aanslagen waartegen op tijd bezwaar is gemaakt en die door de staatssecretaris zijn aangemerkt voor massaal bezwaar. De Hoge Raad heeft in de uitspraak<a class="read-more" href="https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Bijna alle bezwaren die onder de collectieve uitspraak op het massaal bezwaar vallen, zijn verwerkt. Dat blijkt uit de update herstel belastingrente vennootschapsbelasting die de Belastingdienst heeft gepubliceerd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om aanslagen waartegen op tijd bezwaar is gemaakt en die door de staatssecretaris zijn aangemerkt voor massaal bezwaar. De Hoge Raad heeft in de uitspraak van 16 januari 2026 beslist dat het belastingrentepercentage inderdaad te hoog is vastgesteld. Op 25 februari 2026 heeft de inspecteur daarop collectief uitspraak gedaan waarbij de Belastingdienst tegemoet komt aan de bezwaren.</p>
+
+
+
+<p class="wp-block-paragraph">De aanslagen die onder het massaal bezwaar vallen, herstelt de Belastingdienst binnen 6 maanden na de collectieve uitspraak. De uitvoering hiervan is inmiddels gestart.</p>
+
+
+
+<h2 class="wp-block-heading">Klein aantal bezwaren nog in behandeling</h2>
+
+
+
+<p class="wp-block-paragraph">Bijna alle bezwaren die onder de collectieve uitspraak op het massaal bezwaar vallen, zijn verwerkt. Een klein aantal is nog in behandeling: vaak complexere situaties, waarbij meerdere bezwaren samen worden beoordeeld. Daardoor is het niet in alle gevallen gelukt om de eerder genoemde termijn te halen. De Belastingdienst wil ook deze dossiers zorgvuldig en zo snel mogelijk afhandelen.</p>
+
+
+
+<h2 class="wp-block-heading">Situaties waarin de belastingrente wordt verminderd</h2>
+
+
+
+<p class="wp-block-paragraph">Het gaat om 2 groepen:</p>
+
+
+
+<ul class="wp-block-list">
+<li>aanslagen die onder het massaal bezwaar vallen<br>Alle op tijd ingediende bezwaren die vallen onder het massaal bezwaar belastingrentepercentage vennootschapsbelasting, waaronder verzoeken om herziening van voorlopige aanslagen en combinatiebrieven.</li>
+
+
+
+<li>aanslagen met een onjuist rentepercentage<br>Aanslagen vennootschapsbelasting met belastingrente met een dagtekening tussen 16 januari 2026 en 14 februari 2026. Deze aanslagen zijn vlak na de uitspraak van de Hoge Raad vastgesteld. Hierbij is nog het oude rentepercentage toegepast. Deze aanslagen worden door ons verminderd.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Gefaseerde aanpak</h2>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst voert het herstel in delen uit. Eerst worden de definitieve aanslagen verminderd. Daarna zijn andere aanslagsoorten en de verminderingen van de belastingrente als gevolg van het massaal bezwaar aan de beurt.</p>
+
+
+
+<p class="wp-block-paragraph">Op de website van de Belastingdienst staat meer <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/belastingrente/massaal-bezwaar-voor-de-hoogte-van-het-belastingrentepercentage">informatie over het massaal bezwaar voor de hoogte van het belastingrentepercentage</a> </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/herstel-belastingrente-vennootschapsbelasting-na-massaal-bezwaar-gestart">Belastingdienst, 28 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/meeste-bezwaren-massaal-bezwaar-belastingrente-afgehandeld/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/rente-lager.jpg" length="27360" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunten Kennisgroep inkomstenbelasting niet-winst ingetrokken wegens arrest partnerverdeling navordering</title>
+		<link>https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 08:44:45 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167062</guid>
+
+					<description><![CDATA[De Kennisgroep inkomstenbelasting niet-winst heeft naar aanleiding van het arrest van de Hoge Raad van 17 juli 2026 (ECLI:NL:HR:2026:1288) enkele standpunten ingetrokken. Het betreft de volgende standpunten: &#8211;KG:202:2023:18&#160;(Toerekening gezamenlijke grondslag sparen en beleggen bij navordering); &#8211;KG:202:2023:19&#160;(Toerekening persoonsgebonden aftrek bij navordering); &#8211;KG:202:2023:20&#160;(Toerekening gezamenlijke bestanddelen als bij navordering eigenwoningschuld naar box 3 gaat); en &#8211;KG:202:2024:28 (Toerekening bij navordering<a class="read-more" href="https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep inkomstenbelasting niet-winst heeft naar aanleiding van het arrest van de Hoge Raad van 17 juli 2026 (<a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1288" target="_blank" rel="noreferrer noopener">ECLI:NL:HR:2026:1288</a>) enkele standpunten ingetrokken.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Het betreft de volgende standpunten:</p>
+
+
+
+<p class="wp-block-paragraph">&#8211;<a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg202202318-toerekening-gezamenlijke-grondslag-sparen-en-beleggen-bij-navordering/">KG:202:2023:18</a>&nbsp;(Toerekening gezamenlijke grondslag sparen en beleggen bij navordering);</p>
+
+
+
+<p class="wp-block-paragraph">&#8211;<a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg202202319-toerekening-persoonsgebonden-aftrek-bij-navordering/">KG:202:2023:19&nbsp;</a>(Toerekening persoonsgebonden aftrek bij navordering);</p>
+
+
+
+<p class="wp-block-paragraph">&#8211;<a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg202202320-toerekening-gezamenlijke-bestanddelen-als-bij-navordering-eigenwoningschuld-naar-box-3-gaat/">KG:202:2023:20</a>&nbsp;(Toerekening gezamenlijke bestanddelen als bij navordering eigenwoningschuld naar box 3 gaat); en</p>
+
+
+
+<p class="wp-block-paragraph">&#8211;<a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg202202428-toerekening-bij-navordering-box-3/">KG:202:2024:28</a> (Toerekening bij navordering box 3).</p>
+
+
+
+<p class="wp-block-paragraph">Anders dan uit deze standpunten volgt, heeft de Hoge Raad geoordeeld dat de in artikel 2.17, vierde lid, Wet IB 2001 voorziene mogelijkheid tot wijziging van de onderlinge verdeling tussen partners in geval van navordering ook betrekking kan hebben op gemeenschappelijke inkomensbestanddelen die al zijn betrokken in de onherroepelijk vaststaande aanslagen. Dit arrest geldt ook voor de verdeling van de gezamenlijke grondslag sparen en beleggen bij navordering. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunten-ingetrokken-over-de-toerekening-van-gemeenschappelijke-inkomensbestanddelen-en-de-gezamenlijke-grondslag-sparen-en-beleggen-bij-navordering/">Belastingdienst, 28 augustus 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunten-kennisgroep-inkomstenbelasting-niet-winst-ingetrokken-wegens-arrest-partnerverdeling-navordering/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/07/schuld-aansprakelijkheid.jpg" length="25273" type="image/jpeg" />	</item>
+	</channel>
+</rss>

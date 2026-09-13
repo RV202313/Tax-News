@@ -1,0 +1,377 @@
+{
+  "date": "2026-08-13",
+  "release": "2026-08-13_1200_editorial",
+  "items": [
+    {
+      "slug": "2026-08-13-ae-excise-e-liquids",
+      "title": "ОАЭ вводят минимальную розничную цену на жидкости для электронных сигарет с сентября 2027 года",
+      "caption": "Кабинет министров ОАЭ утвердил введение минимальной цены на жидкости для электронных сигарет в рамках борьбы с нелегальным рынком и регулирования подакцизных товаров. Новая мера вступит в силу в сентябре 2027 года.\n\nИсточник: https://regfollower.com/uae-announces-new-minimum-excise-price-for-e-liquids-starting-september-2027/\n\n#ОАЭ #акцизы #косвенныеНалоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "ОАЭ",
+      "act": "Постановление Кабинета министров ОАЭ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-announces-new-minimum-excise-price-for-e-liquids-starting-september-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-dta-vital-interests-relocation",
+      "title": "Суд Нидерландов отказал исследователю в освобождении от налогов из-за переноса центра жизненных интересов",
+      "caption": "Апелляционный суд Нидерландов постановил, что иностранный исследователь, перенесший центр своих жизненных интересов в Нидерланды, утрачивает право на налоговое освобождение по соглашению об избежании двойного налогообложения.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-verdragsvrijstelling-voor-onderzoeker-die-levensbelangen-naar-nederland-verplaatst/\n\nНе является налоговой консультацией.\n\n#Нидерланды #СОДН #резидентство #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-verdragsvrijstelling-voor-onderzoeker-die-levensbelangen-naar-nederland-verplaatst/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-nl-tax-minimum-faq-update",
+      "title": "Налоговая служба Нидерландов обновила разъяснения (Q&A) по Закону о минимальном налоге 2024 года",
+      "caption": "Налоговые органы Нидерландов опубликовали обновленный пакет ответов на часто задаваемые вопросы (Q&A) по практическому применению правил Pillar 2 и исчислению топ-ап налога для транснациональных корпораций.\n\nИсточник: https://www.taxence.nl/nieuws/belastingdienst-actualiseert-va-wet-minimumbelasting-2024/\n\n#Нидерланды #Pillar2 #минимальныйНалог #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/belastingdienst-actualiseert-va-wet-minimumbelasting-2024/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxence confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-customs-ecommerce-warning",
+      "title": "Таможня Нидерландов: декларирование в сфере электронной торговли требует наличия надлежащих разрешений",
+      "caption": "Таможенная служба Нидерландов выпустила предупреждение для платформ электронной коммерции, напомнив, что упрощенное декларирование импорта товаров допускается только при наличии соответствующих таможенных лицензий.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/douane-waarschuwt-aangifte-e-commerce-alleen-mogelijk-met-juiste-vergunningen/\n\n#Нидерланды #таможня #импорт #электроннаяКоммерция #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Информационное сообщение Таможенной службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/douane-waarschuwt-aangifte-e-commerce-alleen-mogelijk-met-juiste-vergunningen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-de-dta-annuity-payout",
+      "title": "Налоговые последствия выплаты единовременной суммы по аннуитету в рамках соглашения Нидерланды-Германия",
+      "caption": "Налоговые органы Нидерландов разъяснили порядок квалификации выплат по аннуитетным договорам граждан, переехавших в Германию. Единовременная выплата признается доходом, облагаемым у источника в Нидерландах по нормам двустороннего соглашения.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/afkoopsom-lijfrente-behoort-tot-ninbi-ondanks-inbreng-in-nieuwe-duitse-polis/\n\n#Нидерланды #Германия #СОДН #аннуитет #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды / Германия",
+      "act": "Разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/afkoopsom-lijfrente-behoort-tot-ninbi-ondanks-inbreng-in-nieuwe-duitse-polis/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-us-irs-business-account-expansion",
+      "title": "Налоговая служба США расширила функционал бизнес-аккаунтов для юридических лиц",
+      "caption": "Налоговое управление США (IRS) запустило новые возможности в онлайн-кабинетах налогоплательщиков. Бизнес теперь может запрашивать налоговые выписки, отслеживать платежи и управлять доверенностями в едином цифровом интерфейсе.\n\nИсточник: https://regfollower.com/us-irs-expands-business-tax-account-features-for-eligible-businesses/\n\n#США #IRS #налоговоеАдминистрирование #цифровизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "США",
+      "act": "Сообщение Налогового управления США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-irs-expands-business-tax-account-features-for-eligible-businesses/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-fns-vat-webinar",
+      "title": "ФНС России проведет вебинар по разъяснению последних изменений в законодательстве о НДС",
+      "caption": "Специалисты Федеральной налоговой службы проведут открытый вебинар, посвященный реформе администрирования НДС в 2026 году, включая особенности налогообложения при осуществлении трансграничных операций.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16642042/\n\n#ФНС #НДС #вебинар #налоги #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Россия",
+      "act": "Анонс Федеральной налоговой службы РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642042/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-fns-aviators-notifications",
+      "title": "ФНС России разъяснила порядок получения налоговых уведомлений для работников авиационной отрасли",
+      "caption": "Налоговая служба опубликовала информационное письмо с разъяснениями о рассылке налоговых уведомлений пилотам и бортинженерам гражданской авиации с учетом специфики их трудовых контрактов и резидентства.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16642358/\n\n#ФНС #налоговыеУведомления #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642358/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-minfin-vat-foreign-contractor",
+      "title": "Минфин России напомнил правила вычета удержанного у иностранного контрагента НДС",
+      "caption": "Министерство финансов РФ разъяснило порядок принятия к вычету сумм НДС, уплаченных российским покупателем в качестве налогового агента при приобретении работ или услуг у иностранного лица, не состоящего на учете в РФ.\n\nИсточник: https://www.garant.ru/news/2199878/\n\n#Минфин #НДС #налоговыйАгент #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги",
+      "jurisdictions": "Россия",
+      "act": "Письмо Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2199878/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 garant confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-tourism-tax-ausn-treatment",
+      "title": "Минфин России: туристический налог не учитывается в доходах и расходах при АУСН",
+      "caption": "Министерство финансов РФ уточнило правила учета туристического налога для бизнеса на автоматизированной упрощенной системе налогообложения (АУСН). Данный налог не подлежит включению в базу доходов и расходов.\n\nИсточник: https://www.garant.ru/news/2198179/\n\n#Минфин #АУСН #туристическийНалог #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение малого бизнеса",
+      "jurisdictions": "Россия",
+      "act": "Письмо Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.garant.ru/news/2198179/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 garant confirmed"
+      }
+    }
+  ]
+}

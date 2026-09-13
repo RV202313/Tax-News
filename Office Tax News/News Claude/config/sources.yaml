@@ -1,0 +1,279 @@
+# Источники v2 — только проверенные endpoints (проверка: 2026-07-02).
+# method: chrome (ручной добор) | http (прямой HTTP-сбор)
+# parser: rss | atom | auto | rechtspraak_atom | html_links
+# collector: путь к скрипту прямого сбора (для method: http)
+# prefiltered: true — сервер уже отфильтровал по теме, select_news пропускает
+#   материал в шортлист и без матча ключевых слов (дефолтный приоритет).
+# require_topics_any: хотя бы одна из перечисленных целевых тем обязательна;
+#   широкие служебные теги (ru_tax_admin/nl_fiscaal) сами по себе не проходят.
+#
+# Квирки web_fetch, учтённые ниже (см. ENDPOINTS_REPORT.md за подробностями):
+#  - application/xml (plain) и application/rss+xml рендерятся web_fetch как
+#    [binary data] — реальный RSS/сырой XML нечитаем, поэтому RSS-выглядящие
+#    источники (garant.ru, regfollower.com, taxlive.nl, taxence.nl) отдаются
+#    через их HTML-страницы, а не через /feed или /rss.
+#  - повторяющиеся query-параметры (date=A&date=B) молча схлопываются до
+#    первого — для nl_rechtspraak окно нужно обходить по одному дню за вызов.
+#  - subject=belastingrecht фильтр rechtspraak Open Data РАБОТАЕТ на сервере
+#    при %23-кодировании '#' (проверено живьём 2026-07-17, §5.1 дорожной карты).
+#    Прежний вывод «0 результатов» — артефакт web_fetch (терял фрагмент URL
+#    после '#'). Сбор — прямым HTTP через scripts/collect_rechtspraak.py.
+defaults:
+  window_hours: 48
+
+sources:
+  - id: telegram_leads
+    name: Одноразовые Telegram-лиды из разрешённых налоговых источников
+    lang: ru
+    weight: 0.5
+    method: manual
+    collector: "scripts/collect_telegram.py"
+    parser: json_items
+    window_hours: 48
+    note: >
+      Одноразовый сбор выполняется только как явный шаг планового выпуска.
+      Это не listener и не polling редакционного чата; лид не является
+      первоисточником и требует проверки перед утверждением.
+
+  - id: nl_rechtspraak
+    name: Решения судов NL (Belastingrecht, Open Data)
+    lang: nl
+    weight: 2.0
+    method: http
+    collector: "scripts/collect_rechtspraak.py"
+    prefiltered: true
+    parser: rechtspraak_atom
+    window_hours: 48
+    endpoints:
+      - "https://data.rechtspraak.nl/uitspraken/zoeken?subject=http%3A%2F%2Fpsi.rechtspraak.nl%2Frechtsgebied%23bestuursrecht_belastingrecht&date={FROM}&type=Uitspraak&return=DOC&max=200"
+    content_url: "https://data.rechtspraak.nl/uitspraken/content?id={ECLI}&return=DOC"
+    note: >
+      Формат — Atom 1.0. title = ECLI+суд+дата+номер, summary = краткая
+      аннотация. Сбор — ПРЯМЫМ HTTP через scripts/collect_rechtspraak.py
+      (method: http), НЕ web_fetch: серверный subject-фильтр
+      bestuursrecht_belastingrecht работает при %23-кодировании '#' (проверено
+      живьём 2026-07-17, §5.1 дорожной карты). prefiltered: true — тему уже
+      отобрал сервер, поэтому select_news пропускает материал в шортлист и без
+      матча ключевых слов (дефолтный приоритет 2). Диапазон дат — один date= за
+      вызов, окно 48ч = 2 вызова (сегодня + вчера). Полный текст решения
+      (content_url) читается только прямым HTTP (web_fetch → [binary data]) и
+      только для позиций шортлиста (Фаза 2b).
+
+  - id: ru_ras
+    name: Банк решений арбитражных судов
+    lang: ru
+    weight: 2.0
+    window_hours: 168
+    prefiltered: true
+    default_topic: dta
+    method: chrome
+    collector: "scripts/collect_ru_ras.js"
+    collector_timeout: 300
+    collector_args: ["--browser-url", "http://127.0.0.1:9223"]
+    parser: json_items
+    url: "https://ras.arbitr.ru/"
+    throttle_seconds_min: 15
+    throttle_seconds_max: 25
+    daily_query_limit: 1
+    queries_ru: ["избежании двойного налогообложения"]
+    note: >
+      Сайт работает через обычный Chrome/UI. Не долбить `/Ras/Search` прямыми
+      частыми POST-запросами: это быстро приводит к 451/капче и бану по адресу.
+      Обязательный мониторинг — через вкладку Chrome на странице ras.arbitr.ru,
+      аккуратно: использовать только точный запрос «избежании двойного
+      налогообложения» и выдерживать паузу 15–25 секунд между сетевыми
+      действиями. Добор выполняется до SELECT, не после дайджеста. Если
+      Chrome-добор не выполнен, дайджест помечать как неполный по ru_ras.
+      Коллектор подключается только к уже открытому CDP-Chrome, снимает
+      метаданные и никогда не скачивает PDF.
+
+  - id: ru_garant
+    name: Гарант.ру — новости налогов и бухучёта
+    lang: ru
+    weight: 3.0
+    method: http
+    parser: html_links
+    window_hours: 48
+    require_topics_any: &beps_topics
+      [dta, nl_ru, substance_migration, transfer_pricing, advance_rulings,
+       pillar2, withholding_dividend, exchange_info, crypto_tax,
+       cross_border_trade_tax]
+    endpoints:
+      - "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/"
+    html:
+      base: "https://www.garant.ru/"
+      include: ["garant\\.ru/news/\\d+", "/news/\\d+"]
+      exclude: ["/rss", "/aggregator/[a-z\\-]+/?$", "/search", "/login", "utm_", "#", "/seminar", "/services"]
+      path_hint: "/news/\\d+/?"
+    note: >
+      RSS (/rss/, /rss/all/) отдаёт пустое тело через web_fetch, хотя
+      присутствует в навигации живого сайта — используем HTML-агрегатор
+      категории «Налоги и бухучёт». windows-1251, корректно декодируется.
+      Явной даты публикации в списке нет — при отборе ориентироваться на
+      попадание в текущий прогон (URL/заголовок не встречался ранее в
+      state.sqlite) и при необходимости открывать статью для даты.
+
+  - id: ru_fns
+    name: ФНС России — федеральные налоговые новости
+    lang: ru
+    weight: 3.5
+    method: http
+    parser: html_links
+    window_hours: 72
+    require_topics_any: *beps_topics
+    endpoints:
+      - "https://www.nalog.gov.ru/rn77/news/activities_fts/"
+    html:
+      base: "https://www.nalog.gov.ru/"
+      include: ["nalog\\.gov\\.ru/rn\\d+/news/", "/rn\\d+/news/"]
+      exclude: ["/news/?$", "/search", "/subscribe", "utm_", "#"]
+      path_hint: "/rn\\d+/news/[a-z0-9_\\-/]+"
+    note: >
+      Официальная федеральная лента ФНС. Собирать только новости по
+      налогообложению, разъяснениям, администрированию и международному
+      обмену; региональные бытовые новости отсекаются тематическим скорингом.
+
+  - id: ru_minfin
+    name: Минфин России — пресс-центр и налоговая политика
+    lang: ru
+    weight: 3.2
+    method: http
+    parser: html_links
+    window_hours: 168
+    endpoints:
+      - "https://minfin.gov.ru/ru/press-center/"
+    require_topics_any: *beps_topics
+    html:
+      base: "https://minfin.gov.ru/"
+      include: ["minfin\\.gov\\.ru/ru/press-center/\\?id_4=", "/ru/press-center/\\?id_4="]
+      exclude: ["#", "utm_"]
+      path_hint: "/ru/press-center/\\?id_4="
+    note: >
+      Официальный пресс-центр прямо отвечает с мака (проверено 2026-07-18).
+      Дата — span.news_date; широкий поток проходит только с целевой темой.
+
+  - id: ru_vs
+    name: Верховный Суд РФ — экономическая коллегия и налоговые споры
+    lang: ru
+    weight: 2.0
+    method: http
+    collector: "scripts/collect_vs.py"
+    parser: vs_ajax_json
+    prefiltered: true
+    default_topic: ru_tax_admin
+    window_hours: 720
+    endpoints:
+      - "https://vsrf.ru/documents/reviews/?init=y&year={YEAR}&keyword=налог"
+      - "https://vsrf.ru/press_center/news/?init=y&year={YEAR}&keyword=налог"
+    note: >
+      Официальные XHR-листинги ВС: налоговые обзоры и пресс-материалы по
+      keyword=налог за текущий год. collector сохраняет исходный JSON; это не
+      заменяет RAS Arbitr. Обзоры помечаются item_type=court_review.
+
+  - id: intl_regfollower
+    name: Regfollower — международные налоговые изменения
+    lang: en
+    weight: 3.5
+    method: http
+    parser: auto
+    window_hours: 48
+    endpoints:
+      - "https://regfollower.com/"
+    rss_endpoints:
+      - "https://regfollower.com/feed/"
+    html:
+      base: "https://regfollower.com/"
+      include: ["regfollower\\.com/[a-z0-9\\-]{8,}"]
+      exclude: ["/feed", "/category/", "/tag/", "/regions?/", "/wp-", "/page/\\d+", "/author/", "utm_", "#", "/about", "/contact", "/training", "/regtalks", "/tax-forums?", "regfollower\\.com/?$"]
+      path_hint: "regfollower\\.com/[a-z0-9\\-]{8,}"
+    note: >
+      /feed/ отдаёт application/rss+xml, но web_fetch рендерит [binary data] —
+      используем главную страницу (WordPress, без www). ВНИМАНИЕ: на проверке
+      2026-07-02 новейшие записи на главной были датированы 09 June 2026
+      (~3.5 недели старее) — похоже на закэшированный снапшот у их CDN.
+      Переподтвердить свежесть на первом живом прогоне; не считать это
+      постоянным свойством источника.
+
+  - id: nl_fd
+    name: FD.nl (Het Financieele Dagblad) — открытые анонсы
+    lang: nl
+    weight: 1.0
+    method: chrome
+    parser: none
+    url: "https://fd.nl/"
+    note: >
+      web_fetch вернул пустое тело на ВСЕХ проверенных путях (/, /rss,
+      /economie, /tags/belasting) — ни одного байта контента, даже открытых
+      заголовков. Похоже на полную антибот/пейволл-блокировку небраузерных
+      запросов. Добор, если нужен, только вручную через Claude in Chrome.
+
+  - id: nl_taxlive
+    name: TaxLive (Wolters Kluwer) — VN Vandaag / Laatste Nieuws
+    lang: nl
+    weight: 0.7
+    method: http
+    parser: html_links
+    window_hours: 48
+    endpoints:
+      - "https://www.taxlive.nl/nl"
+    html:
+      base: "https://www.taxlive.nl/"
+      include: ["taxlive\\.nl/nl/documenten/", "/nl/documenten/"]
+      exclude: ["/rss", "/zoeken", "utm_", "#", "/inloggen"]
+      path_hint: "/nl/documenten/[a-z0-9\\-/]+"
+    note: >
+      /nl/actueel/ и /rss пустые через web_fetch — используем голый путь /nl
+      (главная), разделы «VN Vandaag» и «Laatste Nieuws» дают заголовок+дату+
+      тизер+ссылку. На проверке 2026-07-02 новейшие записи датированы
+      17 juni 2026 (~2 недели старее) — тот же паттерн кэш-снапшота, что у
+      regfollower; переподтвердить на живом прогоне.
+
+  - id: nl_taxence
+    name: Taxence (Lefebvre Sdu) — фискальные новости NL
+    lang: nl
+    weight: 0.7
+    method: http
+    parser: auto
+    window_hours: 48
+    endpoints:
+      - "https://www.taxence.nl/"
+    rss_endpoints:
+      - "https://www.taxence.nl/feed"
+    exclude_text:
+      - '\bAI\b.*\bfiscal'
+      - '\bfiscal.*\bAI\b'
+    html:
+      base: "https://www.taxence.nl/"
+      include: ["taxence\\.nl/[a-z0-9\\-]{6,}"]
+      exclude: ["/feed", "/page/\\d+", "/author/", "/tag/", "/categorie", "/thema", "/vacature", "/vakblad", "/agenda", "/partner", "/abonne", "/adverteren", "/nieuwsbrief", "/inloggen", "/e-learning", "utm_", "#", "/wp-", "/over", "/contact", "taxence\\.nl/?$"]
+      path_hint: "taxence\\.nl/[a-z0-9\\-]{6,}"
+    note: >
+      /feed/ (со слэшем) явно заблокирован ("Web fetch was not allowed");
+      /feed (без слэша) резолвится, но application/rss+xml → [binary data].
+      Главная страница — лучший источник из всех семи: на проверке
+      2026-07-02 заголовки датированы СЕГОДНЯШНИМ днём (2 juli 2026),
+      включая прямые судебные материалы (Rechtbank Gelderland, Hof
+      's-Hertogenbosch, Gerechtshof Amsterdam). Пагинация до /page/2446/.
+
+  - id: nl_belastingdienst_rulings
+    name: Belastingdienst — Advance Tax Rulings / Advance Pricing Agreements
+    lang: nl
+    weight: 2.0
+    method: http
+    parser: html_links
+    window_hours: 168
+    endpoints:
+      - "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr"
+      - "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa"
+    html:
+      base: "https://www.belastingdienst.nl/"
+      include: ["belastingdienst\\.nl/.*/brochures_en_publicaties/advance-tax-ruling-", "belastingdienst\\.nl/.*/brochures_en_publicaties/advance-pricing-agreement-", "/wps/wcm/connect/.*/brochures_en_publicaties/advance-tax-ruling-", "/wps/wcm/connect/.*/brochures_en_publicaties/advance-pricing-agreement-"]
+      exclude: ["/rss", "/zoeken", "utm_", "#"]
+      path_hint: "/brochures_en_publicaties/advance-(tax-ruling|pricing-agreement)-"
+      date_from_title: "(20\\d{6})"
+    note: >
+      Официальные страницы Belastingdienst со списками опубликованных
+      samenvattingen по ATR/APA. Мониторить новые advance tax rulings и advance
+      pricing agreements, особенно международные структуры, substance,
+      deelnemingsvrijstelling и transfer pricing.
+

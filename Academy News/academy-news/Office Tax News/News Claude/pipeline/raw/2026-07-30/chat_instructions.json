@@ -1,0 +1,32 @@
+[
+  {
+    "message_id": 447,
+    "sender_id": 1154792726,
+    "sender_name": "EkaO_V",
+    "date": "2026-07-30T08:15:01+00:00",
+    "text": "почему новости только про NL  Дай  и про дпугие страны",
+    "is_reply": false,
+    "replied_to_msg_id": null,
+    "replied_to_text": ""
+  },
+  {
+    "message_id": 436,
+    "sender_id": 1154792726,
+    "sender_name": "EkaO_V",
+    "date": "2026-07-30T04:34:56+00:00",
+    "text": "Не давай мне новости c этого ресурса https://t.me/leads/",
+    "is_reply": false,
+    "replied_to_msg_id": null,
+    "replied_to_text": ""
+  },
+  {
+    "message_id": 415,
+    "sender_id": 1154792726,
+    "sender_name": "EkaO_V",
+    "date": "2026-07-29T08:22:48+00:00",
+    "text": "Опять этот ресурс. Там нет новостей",
+    "is_reply": true,
+    "replied_to_msg_id": 414,
+    "replied_to_text": ""
+  }
+]

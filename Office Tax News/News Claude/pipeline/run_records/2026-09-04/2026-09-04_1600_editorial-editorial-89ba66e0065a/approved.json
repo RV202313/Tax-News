@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-04",
+  "release": "2026-09-04_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-09-04-nl-supreme-court-ecli-1417-tax-credits",
+      "title": "Нидерланды: Верховный Суд вынес прецедентное решение о порядке применения налоговых скидок и избежания двойного налогообложения",
+      "caption": "Верховный Суд Нидерландов (HOGE RAAD) 4 сентября 2026 года вынес решение по делу ECLI:NL:HR:2026:1417, установив, что жесткая последовательность применения налоговых скидок и льгот по избежанию двойного налогообложения не должна приводить к неиспользованию налоговых вычетов.\n\nНе является налоговой консультацией.\n\nИсточник: https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1417\n\n#Нидерланды #ВерховныйСуд #СудебнаяПрактика #ДвойноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / двойное налогообложение",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Верховного Суда Нидерландов ECLI:NL:HR:2026:1417",
+      "court": "Hoge Raad der Nederlanden",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1417"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "rechtspraak search"
+      },
+      "score": 14.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-nl-minfin-updated-box3-decree",
+      "title": "Нидерланды: Минфин выпустил обновленный указ по BOX 3 с новым порядком учета налоговых долгов",
+      "caption": "Министерство финансов Нидерландов опубликовало обновленный Указ по BOX 3, содержащий новые одобрения по вычету налоговых задолженностей, правилам представления встречных доказательств фактической доходности и узуфрукту.\n\nИсточник: https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/\n\n#Нидерланды #Box3 #Минфин #НалогНаКапитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоги с физических лиц / налог на капитал",
+      "jurisdictions": "Нидерланды",
+      "act": "Обновленный Указ Минфина Нидерландов по BOX 3",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/inkomstenbelasting/geactualiseerd-box-3-besluit-bevat-nieuwe-goedkeuringen-voor-belastingschulden-en-vruchtgebruik/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxence search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-nl-court-payroll-tax-alimony-evidence",
+      "title": "Нидерланды: Суд отказал в зачете налога с зарплаты и вычете алиментов при отсутствии надлежащих доказательств",
+      "caption": "Налоговый суд Нидерландов подтвердил позицию инспекции об отказе в зачете налога с заработной платы (LOONHEFFING) и вычете алиментных платежей, если налогоплательщик не представил первичные платежные документы.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-verrekening-loonheffing-en-aftrek-alimentatie-zonder-bewijs/\n\n#Нидерланды #СудебныйСпор #ПодоходныйНалог #НалоговыйКонтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / подоходный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Налогового суда Нидерландов по LOONHEFFING",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-verrekening-loonheffing-en-aftrek-alimentatie-zonder-bewijs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-nl-court-annuity-fair-market-value-box3",
+      "title": "Нидерланды: Суд признал рыночную стоимость ренты релевантной для налогообложения в BOX 3",
+      "caption": "Судебные органы Нидерландов разъяснили, что оценка рыночной стоимости аннуитетных прав (LIJFRENTE) должна учитываться при определении фактической налоговой базы для целей налога на имущество и капитал в BOX 3.\n\nНе является налоговой консультацией.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/waarde-economisch-verkeer-lijfrente-relevant-voor-box-3-heffing/\n\n#Нидерланды #Box3 #СудебнаяПрактика #Рента #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "судебная практика / BOX 3",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Суда Нидерландов по рыночной стоимости LIJFRENTE",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/waarde-economisch-verkeer-lijfrente-relevant-voor-box-3-heffing/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "taxlive search"
+      },
+      "score": 9.2,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-belgium-japan-corporate-defence-tax-dta",
+      "title": "Бельгия подтвердила распространение соглашения с Японией на новый 4% оборонный налог",
+      "caption": "Министерство финансов Бельгии вынесло Циркуляр № 2026/C/80 от 2 сентября 2026 года, подтверждающий, что новый 4% специальный японский корпоративный налог на оборону подпадает под действие Соглашения об избежании двойного налогообложения Бельгия-Япония.\n\nИсточник: https://regfollower.com/belgium-mof-clarifies-treaty-coverage-of-japans-4-corporate-defence-tax/\n\n#Бельгия #Япония #НалоговоеСоглашение #DTA #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / DTA",
+      "jurisdictions": "Бельгия / Япония",
+      "act": "Циркуляр Минфина Бельгии № 2026/C/80",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/belgium-mof-clarifies-treaty-coverage-of-japans-4-corporate-defence-tax/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower search"
+      },
+      "score": 11.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-oecd-globe-information-return-schema-v2",
+      "title": "ОЭСР: Обновлены технические схемы XML для представления информационной декларации GLOBE (GIR)",
+      "caption": "Инклюзивный фреймворк ОЭСР выпустил обновленный комплект XML-схем и руководств по заполнению декларации GLOBE INFORMATION RETURN (GIR) для автоматического обмена между налоговыми ведомствами в 2026 году.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #GIR #GloBE #XML #PillarTwo #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение / GIR",
+      "jurisdictions": "ОЭСР",
+      "act": "Технические XML-схемы ОЭСР для декларации GIR",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 10.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-eu-dac8-crypto-reporting-technical-specs",
+      "title": "Евросоюз опубликует технические спецификации к директиве DAC8 по отчетности о криптоактивах",
+      "caption": "Европейская комиссия подготовила регламент технической реализации директивы DAC8, устанавливающей правила автоматического обмена данными провайдеров криптоуслуг (CASP) с налоговыми органами стран ЕС с 2026 года.\n\nИсточник: https://ec.europa.eu/taxation_customs/\n\n#Евросоюз #DAC8 #CASP #Криптоактивы #АвтоматическийОбмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "криптоактивы / евросоюз",
+      "jurisdictions": "Евросоюз",
+      "act": "Регламент Еврокомиссии по технической реализации DAC8",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://ec.europa.eu/taxation_customs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "europa search"
+      },
+      "score": 10.0,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-spain-beps-pillar2-royal-decree-consultation",
+      "title": "Испания вынесла на обсуждение Королевский декрет по имплементации минимального налога PILLAR TWO",
+      "caption": "Министерство продовольствия и финансов Испании (HACIENDA) опубликовало проект Королевского декрета, регулирующего правила расчета эффективной налоговой ставки и порядок уплаты QDMTT для испанских дочерних структур ТНК.\n\nИсточник: https://www.hacienda.gob.es/\n\n#Испания #PillarTwo #QDMTT #GloBE #Hacienda #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог / Испания",
+      "jurisdictions": "Испания",
+      "act": "Проект Королевского декрета Испании по PILLAR TWO (QDMTT)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.hacienda.gob.es/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "hacienda search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-uk-hmrc-transfer-pricing-documentation-guidance",
+      "title": "Великобритания: HMRC обновила руководящие принципы по документации трансфертного ценообразования",
+      "caption": "Налоговая служба Великобритании (HMRC) выпустила обновленное руководство по подготовке MASTER FILE и LOCAL FILE с учетом требований PILLAR TWO и контролируемых сделок с нематериальными активами.\n\nИсточник: https://www.gov.uk/government/organisations/hm-revenue-customs\n\n#Великобритания #HMRC #ТрансфертноеЦенообразование #MasterFile #LocalFile #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование / Великобритания",
+      "jurisdictions": "Великобритания",
+      "act": "Руководство HMRC по документации MASTER FILE и LOCAL FILE",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.uk/government/organisations/hm-revenue-customs"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "gov.uk search"
+      },
+      "score": 9.5,
+      "published_at": "2026-09-04"
+    },
+    {
+      "slug": "2026-09-04-beps-inclusive-framework-peer-review-report",
+      "title": "ОЭСР: Опубликован обновленный список пар двустороннего обмена страновыми отчетами (CBCR)",
+      "caption": "Секретариат ОЭСР обновил интерактивную карту соглашений по автоматическому обмену страновыми отчетами (COUNTRY-BY-COUNTRY REPORTING, CBCR), зафиксировав более 3500 активных двусторонних связей между 115 юрисдикциями.\n\nИсточник: https://www.oecd.org/tax/beps/\n\n#ОЭСР #OECD #BEPS #Action13 #CbCR #АвтоматическийОбмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "автоматический обмен / ОЭСР",
+      "jurisdictions": "ОЭСР",
+      "act": "Отчет ОЭСР по автоматическому обмену CbCR (BEPS Action 13)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "oecd search"
+      },
+      "score": 10.5,
+      "published_at": "2026-09-04"
+    }
+  ]
+}

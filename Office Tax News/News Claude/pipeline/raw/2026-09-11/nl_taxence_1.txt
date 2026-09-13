@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 11 Sep 2026 07:50:54 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Totale vergoeding bepaalt zakelijkheid concernfinanciering</title>
+		<link>https://www.taxence.nl/nieuws/totale-vergoeding-bepaalt-zakelijkheid-concernfinanciering/</link>
+					<comments>https://www.taxence.nl/nieuws/totale-vergoeding-bepaalt-zakelijkheid-concernfinanciering/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 05:15:09 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167311</guid>
+
+					<description><![CDATA[Hof Den Haag oordeelt dat de totale vergoedingen voor verschillende kredietfaciliteiten binnen een concern te hoog zijn. Bij de beoordeling van de zakelijke rente mag worden uitgegaan van de totale kosten van de faciliteit en van marktgegevens die bij het aangaan van de financiering beschikbaar waren.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Den Haag oordeelt dat de totale vergoedingen voor verschillende kredietfaciliteiten binnen een concern te hoog zijn. Bij de beoordeling van de zakelijke rente mag worden uitgegaan van de totale kosten van de faciliteit en van marktgegevens die bij het aangaan van de financiering beschikbaar waren.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv maakt binnen een internationaal concern gebruik van verschillende kredietfaciliteiten. Over opgenomen bedragen betaalt zij rente en daarnaast betaalt zij commitment fees over de kredietfaciliteiten. De inspecteur vindt de in aftrek gebrachte financieringskosten te hoog en corrigeert de aangiften vennootschapsbelasting over de boekjaren 2012/2013 tot en met 2016/2017. Partijen verschillen onder meer van mening over de vraag welke vergoedingen tussen onafhankelijke partijen zouden zijn overeengekomen. Het hof oordeelde eerder al dat de totale kosten per kredietfaciliteit moeten worden beoordeeld. Daarbij moeten de rente en commitment fees gezamenlijk worden omgerekend naar één renteopslag.</p>
+
+
+
+<h3 class="wp-block-heading">Totale kosten bepalen zakelijke rente</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof houdt vast aan een beoordeling vooraf, op het moment waarop de kredietfaciliteit wordt aangegaan. Daarbij mogen forward rates worden gebruikt om de verwachte ontwikkeling van de variabele rente in te schatten. Een beoordeling achteraf aan de hand van de werkelijke renteontwikkeling zou volgens het hof neerkomen op ongewenst gebruik van kennis achteraf. Voor de vergelijking met onafhankelijke partijen gebruikt het hof geschikte vergelijkbare financieringstransacties. Bij een klein aantal goede vergelijkingen geldt de voor de bv meest gunstige rente als bovengrens van de zakelijke bandbreedte.</p>
+
+
+
+<h3 class="wp-block-heading">Meeste verrekenprijscorrecties blijven staan</h3>
+
+
+
+<p class="wp-block-paragraph">Voor drie kredietfaciliteiten en een afzonderlijke faciliteit blijven de correcties grotendeels in stand. Voor één faciliteit vervalt de correctie volledig en voor een andere wordt deze beperkt. Het hof oordeelt bovendien dat de bv niet de vereiste aangiften heeft gedaan. Haar verrekenprijsdocumentatie vertoonde belangrijke gebreken en zij had zich bewust moeten zijn van de onzakelijkheid van de gehanteerde prijzen. Daarom wordt de bewijslast omgekeerd en verzwaard. Uiteindelijk blijven de door de inspecteur voorgestane correcties voor drie faciliteiten staan, wordt één correctie beperkt en vervalt die voor een andere faciliteit.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-8b?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8b Wet Vpb 1969</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2462" target="_blank" rel="noreferrer noopener">Gerechtshof Den Haag, 05-08-2026, ECLI:NL:GHDHA:2026:2462, BK-23/836, BK-23/837, BK-23/838, BK-23/839, BK-23/840, BK-23/845, BK-23/846, BK-23/847, BK-23/848 en BK-23/849 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/totale-vergoeding-bepaalt-zakelijkheid-concernfinanciering/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/02/rente-pijl.jpg" length="20652" type="image/jpeg" />	</item>
+		<item>
+		<title>Startfee voorkomt no cure no pay-model niet bij WOZ-zaken</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-2/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 05:15:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Heffing lagere overheden]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167309</guid>
+
+					<description><![CDATA[Rechtbank Den Haag oordeelt dat de startfee en besparingsfee van het kantoor niet wegnemen dat het op basis van no cure no pay werkt. De korting op de proceskostenvergoeding van art. 30a Wet WOZ blijft daarom gelden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Den Haag oordeelt dat de startfee en besparingsfee van het kantoor niet wegnemen dat het op basis van no cure no pay werkt. De korting op de proceskostenvergoeding van artikel 30a Wet WOZ blijft daarom gelden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv krijgt voor 22 appartementsrechten op één biljet WOZ-beschikkingen en aanslagen onroerendezaakbelastingen. De heffingsambtenaar komt volledig aan het bezwaar tegemoet en kent met toepassing van de factor 0,125 van artikel 30a Wet WOZ een proceskostenvergoeding van € 80,88 toe. In beroep stelt de bv dat het kantoor dat haar bijstaat sinds 1 januari 2025 niet meer op basis van no cure no pay werkt, omdat cliënten een startfee en/of een percentage van de belastingbesparing betalen. In geschil is of hierdoor sprake is van een bijzonder geval waarin de korting op de proceskostenvergoeding niet geldt.</p>
+
+
+
+<h3 class="wp-block-heading">Besparingsfee is juist no cure no pay</h3>
+
+
+
+<p class="wp-block-paragraph">Vast staat dat eventuele proceskostenvergoedingen aan het kantoor worden afgedragen. Volgens de rechtbank is de besparingsfee juist een vorm van no cure no pay: de cliënt betaalt alleen bij een succesvolle procedure en loopt geen financieel risico. Ook de startfee verandert dit niet. Het kantoor bedingt deze in 2025 slechts bij 58% van de aanslagbiljetten en wijkt regelmatig neerwaarts af van de bedragen in zijn modeloffertes. Bovendien ziet de startfee vooral op werkzaamheden vóór de inhoudelijke behandeling van het bezwaar. De rechtbank oordeelt daarom dat het bedrijfsmodel nog steeds als no cure no pay kwalificeert en dat de factor van artikel 30a Wet WOZ terecht is toegepast.</p>
+
+
+
+<h3 class="wp-block-heading">Motiveringsgebrek zonder gevolgen</h3>
+
+
+
+<p class="wp-block-paragraph">De bv krijgt wel gelijk dat de uitspraak op bezwaar onvoldoende is gemotiveerd. De heffingsambtenaar gaat niet inhoudelijk in op haar standpunt dat artikel 30a Wet WOZ niet van toepassing is en schendt daarmee artikel 7:12 Awb. De rechtbank verklaart het beroep gegrond, maar passeert het gebrek op grond van artikel 6:22 Awb omdat de bv niet is benadeeld. De uitspraak op bezwaar blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/p1-776886?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 30a Wet WOZ</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBDHA_2026_26243" target="_blank" rel="noreferrer noopener">Rechtbank Den Haag, 03-08-2026, ECLI:NL:RBDHA:2026:26243, AWB &#8211; 26 _ 1418 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/08/Appartement-in-kantoorgebouw.jpg" length="67693" type="image/jpeg" />	</item>
+		<item>
+		<title>Stand van zaken Zelfstandigenwet</title>
+		<link>https://www.taxence.nl/nieuws/stand-van-zaken-zelfstandigenwet/</link>
+					<comments>https://www.taxence.nl/nieuws/stand-van-zaken-zelfstandigenwet/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 05:10:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167316</guid>
+
+					<description><![CDATA[Het kabinet wil met een nieuwe Zelfstandigenwet meer rust en duidelijkheid bieden aan zelfstandigen en opdrachtgevers. De wet moet duidelijke spelregels bieden, schijnzelfstandigheid tegengaan en tegelijkertijd de bestaande bescherming van werknemers intact laten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil met een nieuwe Zelfstandigenwet meer rust en duidelijkheid bieden aan zelfstandigen en opdrachtgevers. De wet moet duidelijke spelregels bieden, schijnzelfstandigheid tegengaan en tegelijkertijd de bestaande bescherming van werknemers intact laten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Op dit moment bestaat volgens het kabinet nog te veel onduidelijkheid over de vraag wanneer iemand als zelfstandige kan werken. Dat kan schijnzelfstandigheid in de hand werken, maar ook leiden tot risicomijdend gedrag van opdrachtgevers en het onnodig uitsluiten van zelfstandigen. Ondanks het huidige wettelijke kader en jurisprudentie van de Hoge Raad blijft veel discussie bestaan over de kwalificatie van arbeidsrelaties.</p>
+
+
+
+<p class="wp-block-paragraph">De Zelfstandigenwet moet daarom een ‘veilige haven’ creëren. Wie volgens de nieuwe spelregels werkt, weet zeker dat als zelfstandige kan worden gewerkt. Uitgangspunten zijn dat een zelfstandige onafhankelijk is, ondernemersrisico’s draagt en daarvan kan profiteren en de vrijheid heeft het werk zelf te organiseren. Die ruimte gaat volgens het kabinet samen met de verantwoordelijkheid om de risico’s van zelfstandig werken goed te regelen.</p>
+
+
+
+<h2 class="wp-block-heading">Twee toetsen voor zelfstandigheid</h2>
+
+
+
+<p class="wp-block-paragraph">Het wetsvoorstel werkt met twee toetsen met een beperkt aantal concrete criteria. De zelfstandigentoets ziet op de persoon van de zelfstandige. De werkrelatietoets kijkt naar diens vrijheid en onafhankelijkheid binnen een opdracht en daarmee naar het ontbreken van ‘gezag’. Een toetsingscommissie en sectorale rechtsvermoedens maken geen onderdeel uit van de wet. Het kabinet vindt dat de markt allereerst gebaat is bij duidelijke spelregels.</p>
+
+
+
+<p class="wp-block-paragraph">De bescherming van werknemers mag door de Zelfstandigenwet op geen enkele manier worden aangetast. Daarom wordt een bepaling toegevoegd die regelt wanneer géén sprake is van gezag en iemand dus in ieder geval als zelfstandige kan werken. Het kabinet beoogt niets te wijzigen aan de huidige kwalificatie van werknemers en de bijbehorende bescherming.</p>
+
+
+
+<h2 class="wp-block-heading">Inwerkingtreding beoogd in 2028</h2>
+
+
+
+<p class="wp-block-paragraph">Eind september wordt het wetsvoorstel aangeboden voor uitvoeringstoetsen. Tegelijk starten een tweede internetconsultatie en een nieuwe toets door het Adviescollege toetsing regeldruk. Daarna wil het kabinet het voorstel zo snel mogelijk bij de Raad van State indienen. Behandeling door Tweede en Eerste Kamer is voorzien in 2027, zodat de Zelfstandigenwet op 1 januari 2028 in werking kan treden.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18615&amp;did=2026D42694" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18615&amp;did=2026D42694" target="_blank" rel="noreferrer noopener">Vervolgstappen uitwerking Zelfstandigenwet, nr. 2026-0000306120, Ministerie SZW, 10 september 2026.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/stand-van-zaken-zelfstandigenwet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/zzp-dba.jpg" length="35115" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie wijziging fiscaal verdragsbeleid ten aanzien van betalingen voor diensten</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-wijziging-fiscaal-verdragsbeleid-ten-aanzien-van-betalingen-voor-diensten/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-wijziging-fiscaal-verdragsbeleid-ten-aanzien-van-betalingen-voor-diensten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167305</guid>
+
+					<description><![CDATA[Het ministerie van Financiën is een internetconsultatie gestart over een wijziging van het het fiscaal verdragsbeleid ten aanzien van betalingen voor diensten (op basis van het bruto-inkomen).]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het ministerie van Financiën is een internetconsultatie gestart over een wijziging van het het fiscaal verdragsbeleid ten aanzien van betalingen voor diensten (op basis van het bruto-inkomen).</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belangrijkste punten van de voorgestelde wijziging zijn:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Nederland is bereid om, bij onderhandelingen met alle ontwikkelingslanden (dus niet alleen de armste groep die het minst kwetsbaar is), een bronstaatheffing op betalingen voor diensten overeen te komen.</li>
+
+
+
+<li>Dit geldt niet alleen voor technische diensten, maar voor alle soorten diensten.</li>
+
+
+
+<li>Deze concessie wordt alleen gedaan als het onderdeel is van een acceptabel totaalcompromis en de nadelen zoveel mogelijk worden beperkt door bij het tarief rekening te houden met de winstmarge die verwacht kan worden bij diensten waarbij de kans op verlies minimaal is. Bij voorkeur wordt daarbij de optie geboden aan belastingplichtigen om te kiezen voor belastingheffing op nettobasis.</li>
+
+
+
+<li>Het huidige vereiste dat de dienst daadwerkelijk in het ontwikkelingsland is verricht, vervalt<strong>.</strong></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">De internetconsultatie staat open tot en met 23 oktober 2026</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/verdragsbeleid/b1" data-type="link" data-id="https://www.internetconsultatie.nl/verdragsbeleid/b1" target="_blank" rel="noreferrer noopener">Ministerie van Financiën, 9 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-wijziging-fiscaal-verdragsbeleid-ten-aanzien-van-betalingen-voor-diensten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/vlaggen.jpg" length="51344" type="image/jpeg" />	</item>
+		<item>
+		<title>Afschaffing inhouding huisvestingskosten voor arbeidsmigranten</title>
+		<link>https://www.taxence.nl/nieuws/afschaffing-inhouding-huisvestingskosten-voor-arbeidsmigranten/</link>
+					<comments>https://www.taxence.nl/nieuws/afschaffing-inhouding-huisvestingskosten-voor-arbeidsmigranten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 11 Sep 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167307</guid>
+
+					<description><![CDATA[Het kabinet schaft de mogelijkheid voor werkgevers af om huisvestingskosten in te houden op het minimumloon. Minister Vijlbrief wil de maatregel zoveel mogelijk gelijktijdig invoeren met de Wet passende huurcontracten, die arbeidsmigranten meer huurbescherming moet bieden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet schaft de mogelijkheid voor werkgevers af om huisvestingskosten in te houden op het minimumloon. Minister Vijlbrief wil de maatregel zoveel mogelijk gelijktijdig invoeren met de Wet passende huurcontracten, die arbeidsmigranten meer huurbescherming moet bieden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil de positie van werknemers in de samenleving verbeteren en misstanden bij arbeidsmigranten, zoals onderbetaling en slechte huisvesting, tegengaan. Arbeidsmigranten zijn voor hun huisvesting volgens minister Vijlbrief van Sociale Zaken en Werkgelegenheid nog te vaak afhankelijk van hun werkgever.</p>
+
+
+
+<p class="wp-block-paragraph">Op dit moment mag een werkgever maximaal 25 procent van het brutominimumloon van een werknemer inhouden voor huisvestingskosten. De minister heeft besloten deze mogelijkheid af te schaffen. Daarmee wordt het verdienmodel dat kan ontstaan door het inhouden van huisvestingskosten op het wettelijk minimumloon beëindigd en wordt de ongewenste afhankelijkheid tussen werkgever en arbeidsmigrant verkleind.</p>
+
+
+
+<h2 class="wp-block-heading">Afschaffing gekoppeld aan meer huurbescherming</h2>
+
+
+
+<p class="wp-block-paragraph">De afschaffing wordt zoveel mogelijk gekoppeld aan de invoering van de Wet passende huurcontracten van het ministerie van Volkshuisvesting en Ruimtelijke Ordening (VRO). Met die samenloop wil het kabinet voorkomen dat malafide werkgevers huisvesting en inhoudingen op het minimumloon als verdienmodel kunnen gebruiken. Tegelijkertijd moet worden geborgd dat arbeidsmigranten goede huurbescherming krijgen en niet te veel betalen voor hun huisvesting.</p>
+
+
+
+<p class="wp-block-paragraph">De maatregel maakt deel uit van een bredere beleidsinzet om de huisvestingspositie van arbeidsmigranten te versterken. Met het besluit geeft de minister tevens uitvoering aan verschillende moties van de Tweede Kamer.</p>
+
+
+
+<h2 class="wp-block-heading">Inwerkingtreding voorzien op 1 juli 2028</h2>
+
+
+
+<p class="wp-block-paragraph">De Wet passende huurcontracten is in de zomer van 2026 in internetconsultatie gegaan. Naar verwachting behandelt de Tweede Kamer het wetsvoorstel in de eerste helft van 2027. Het streven is om de wet op 1 juli 2028 in werking te laten treden. Op datzelfde moment moet ook de mogelijkheid verdwijnen om huisvestingskosten op het minimumloon in te houden.</p>
+
+
+
+<p class="wp-block-paragraph">Door beide maatregelen zoveel mogelijk gelijktijdig te laten ingaan, combineert het kabinet de afschaffing van de inhoudingsmogelijkheid met extra bescherming op de huurmarkt. Daarmee wil het kabinet zowel de financiële als de huisvestingspositie van arbeidsmigranten versterken en de afhankelijkheid van de werkgever verkleinen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18578&amp;did=2026D42567" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18578&amp;did=2026D42567" target="_blank" rel="noreferrer noopener">Kamerbrief Samenloop afschaffing inhoudingsmogelijkheid huisvestingskosten minimumloon en wetsvoorstel VRO huurbescherming arbeidsmigranten nr. 2026-0000293074, Ministerie SZW, 10 september 2026.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/afschaffing-inhouding-huisvestingskosten-voor-arbeidsmigranten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/05/Woning-leeg.jpg" length="25062" type="image/jpeg" />	</item>
+		<item>
+		<title>Online cursus Technisch aanmerkelijk belang &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-technisch-aanmerkelijk-belang-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-technisch-aanmerkelijk-belang-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 20:08:48 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[dga]]></category>
+		<category><![CDATA[Internationaal]]></category>
+		<category><![CDATA[PE-Pitstops]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Vpb en dividendbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167270</guid>
+
+					<description><![CDATA[Voorkom ongelukken met de technisch aanmerkelijkbelangregeling Begin 2020 heeft de Hoge Raad voor het eerst uitspraak gedaan in een zaak over het technisch aanmerkelijk belang. Dit arrest onderstreept dat fiscale structuren steeds nadrukkelijker moeten worden opgezet voor hun werkelijke doel. Vennootschappen zonder voldoende substance of economische activiteit lopen risico en moeten worden heroverwogen of ‘aangekleed’.<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-technisch-aanmerkelijk-belang-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Voorkom ongelukken met de technisch aanmerkelijkbelangregeling</p>
+<p>Begin 2020 heeft de Hoge Raad voor het eerst uitspraak gedaan in een zaak over het technisch aanmerkelijk belang. Dit arrest onderstreept dat fiscale structuren steeds nadrukkelijker moeten worden opgezet voor hun werkelijke doel. Vennootschappen zonder voldoende substance of economische activiteit lopen risico en moeten worden heroverwogen of ‘aangekleed’.</p>
+<p>Tijdens deze online cursus bespreekt advocaat-belastingadviseur en specialist internationaal belastingrecht &nbsp; Dick van Sprundel &nbsp; de impact van deze regeling en het arrest op de praktijk. Hij gaat onder andere in op zetelverplaatsingen, omzettingen en grensoverschrijdende fusies.</p>
+<p>Uiteraard zullen onder meer de arresten van de Hoge Raad van 18 juli 2025 (het zogenaamde Belgische oldtimer-arrest en het Belgische feederfund-arrest) eveneens worden besproken.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/pitstops/3152/online-cursus-technisch-aanmerkelijk-belang" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-technisch-aanmerkelijk-belang-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Online Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 13:09:50 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=159881</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op 14 december&nbsp;wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/2987/online-basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Geen verzuimboete zonder bewijs juist toezendadres</title>
+		<link>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 08:21:32 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167301</guid>
+
+					<description><![CDATA[Hof Amsterdam vernietigt een verzuimboete omdat de inspecteur niet overtuigend aantoont dat de aanmaning op het juiste adres is aangeboden of ontvangen. Ook is er geen grond voor omkering en verzwaring van de bewijslast.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam vernietigt een verzuimboete omdat de inspecteur niet overtuigend aantoont dat de aanmaning op het juiste adres is aangeboden of ontvangen. Ook is er geen grond voor omkering en verzwaring van de bewijslast.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw is sinds 2014 dakloos en werkt als sekswerker. Het adres van haar voormalige boekhouder staat bij de inspecteur geregistreerd als verplicht toezendadres. Hoewel de boekhouder in september 2021 meldt dat de vrouw geen klant meer is, stuurt de inspecteur de aanmaning voor haar aangifte inkomstenbelasting 2020 in januari 2022 naar dit adres. De vrouw dient haar aangifte op 25 juni 2022 in. Zij krijgt vervolgens een verzuimboete van € 385. Volgens haar heeft de aanmaning haar nooit bereikt. In geschil is of de boete terecht is opgelegd en of de bewijslast mag worden omgekeerd en verzwaard.</p>
+
+
+
+<h3 class="wp-block-heading">Juiste toezendadres niet bewezen</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur overtuigend moet aantonen dat de aanmaning op het juiste adres is aangeboden of ontvangen. De inspecteur beroept zich op de registratie van het adres in zijn eigen systemen, maar kan de schriftelijke volmacht waarop die registratie zou berusten niet overleggen. Daarmee is onvoldoende bewezen dat het adres van de voormalige boekhouder het juiste adres was. De verzuimboete vervalt.</p>
+
+
+
+<h3 class="wp-block-heading">Geen omkering van de bewijslast</h3>
+
+
+
+<p class="wp-block-paragraph">Ook omkering en verzwaring van de bewijslast is niet aan de orde. De aangifte is weliswaar te laat ingediend, maar ruim negen maanden vóór het opleggen van de aanslagen. De inspecteur kon de aangifte dus nog meenemen. Bovendien is niet aannemelijk dat de vrouw behoorlijk is aangemaand. De normale bewijslast blijft daarom gelden.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67a?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67a AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2025_3764" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 23-12-2025, ECLI:NL:GHAMS:2025:3764, 25/772 en 25/773 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-verzuimboete-zonder-bewijs-juist-toezendadres/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/belastingenveloppe.jpg" length="44465" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen arbeidskorting over ziektewetuitkering na einde dienstverband</title>
+		<link>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 08:19:09 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167284</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat een ziektewetuitkering geen inkomen uit tegenwoordige dienstbetrekking vormt als de dienstbetrekking door de ziekmelding is geëindigd. De man heeft daarom over de ziektewetuitkering geen recht op arbeidskorting.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat een ziektewetuitkering geen inkomen uit tegenwoordige dienstbetrekking vormt als de dienstbetrekking door de ziekmelding is geëindigd. De man heeft daarom over de ziektewetuitkering geen recht op arbeidskorting.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man werkt in 2022 via een uitzendovereenkomst. Daarin staat dat de arbeidsovereenkomst bij een ziekmelding van rechtswege eindigt. De man werkt eerst zes weken en ontvangt na een ziekmelding over week 7 een ziektewetuitkering. Daarna gaat hij opnieuw voor het uitzendbedrijf werken. Op 4 april 2022 meldt hij zich opnieuw ziek en ontvangt hij tot het einde van het jaar een ziektewetuitkering. In zijn aangifte ib/pvv 2022 berekent hij een arbeidskorting van € 4.008 over zijn volledige inkomen. De inspecteur stelt de arbeidskorting vast op € 915. In geschil is of de ziektewetuitkeringen inkomen uit tegenwoordige dienstbetrekking vormen en daarmee recht geven op arbeidskorting.</p>
+
+
+
+<h3 class="wp-block-heading">Ziekmelding beëindigt dienstverband</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat een ziektewetuitkering sinds 1 januari 2020 alleen als arbeidsinkomen geldt als deze tijdens een bestaande dienstbetrekking wordt ontvangen. De eerste ziekmelding beëindigt de arbeidsovereenkomst. Over de ziektewetuitkering van week 7 bestaat daarom geen recht op arbeidskorting. Als de man daarna weer gaat werken, ontstaat volgens de rechtbank feitelijk een nieuwe arbeidsovereenkomst onder dezelfde voorwaarden. Ook deze eindigt door zijn ziekmelding op 4 april 2022. De ziektewetuitkeringen die hij daarna ontvangt, vormen dus evenmin inkomen uit tegenwoordige dienstbetrekking.</p>
+
+
+
+<h3 class="wp-block-heading">Beroep op arrest Hoge Raad slaagt niet</h3>
+
+
+
+<p class="wp-block-paragraph">Het beroep van de man op een arrest van de Hoge Raad van 15 november 2024 slaagt niet. Dat arrest gaat over werkhervattingsuitkeringen voor gedeeltelijk arbeidsgeschikten en niet over ziektewetuitkeringen. Volgens de rechtbank gaat het daarom niet om een vergelijkbaar geval. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-8.1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8.1 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6778" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 02-09-2026, ECLI:NL:RBGEL:2026:6778, ARN 25/140 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-arbeidskorting-over-ziektewetuitkering-na-einde-dienstverband/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Ziek-werknemer.jpg" length="36418" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Naar een EU-belasting voor cryptoactiva?</title>
+		<link>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2026 07:54:49 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167283</guid>
+
+					<description><![CDATA[In deze NTFR Opinie bespreekt prof. mr. dr. Dennis Post het onderzoek van de Europese Commissie naar een EU-belasting op cryptoactiva. De auteur bespreekt de twee onderzochte varianten (een transactiebelasting en een vermogenswinstbelasting) en plaatst deze in de context van belastingheffing over cryptoactiva in Nederland.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">In deze NTFR Opinie bespreekt prof. mr. dr. Dennis Post het onderzoek van de Europese Commissie naar een EU-belasting op cryptoactiva. De auteur bespreekt de twee onderzochte varianten (een transactiebelasting en een vermogenswinstbelasting) en plaatst deze in de context van belastingheffing over cryptoactiva in Nederland.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <a href="https://www.ndfr.nl/content/p1-1193042" data-type="link" data-id="https://www.ndfr.nl/content/p1-1193042" target="_blank" rel="noreferrer noopener">NDFR</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-naar-een-eu-belasting-voor-cryptoactiva/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/04/crypto-jongere.jpg" length="27263" type="image/jpeg" />	</item>
+	</channel>
+</rss>

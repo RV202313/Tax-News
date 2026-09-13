@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-31",
+  "release": "2026-07-31-1600-editorial",
+  "items": [
+    {
+      "slug": "2026-07-31-1600-ru-news-01",
+      "title": "ФНС России разъяснила порядок применения налоговых вычетов по контролируемым сделкам",
+      "caption": "Федеральная налоговая служба выпустила рекомендации по подтверждению рыночного уровня цен при трансфертном ценообразовании.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/\n\n#ФНС #Россия #ТЦО #вычеты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС по ТЦО",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-02",
+      "title": "Минфин РФ подготовил законопроект об уточнении правил учета доходов международных компаний",
+      "caption": "Законопроект предусматривает особый порядок признания внереализационных доходов при редомициляции холдингов в САР.\n\nИсточник: https://minfin.gov.ru/ru/press-center/\n\n#Минфин #Россия #САР #редомициляция #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение холдингов",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Минфина РФ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-03",
+      "title": "Комитет государственных доходов Казахстана обновил требования к отчетности по трансфертному ценообразованию",
+      "caption": "Опубликованы новые формы местной и основной документации по ТЦО для крупных налогоплательщиков Республики Казахстан.\n\nИсточник: https://regfollower.com/kazakhstan-tp-reporting-rules/\n\n#Казахстан #КГД #ТЦО #отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Казахстан",
+      "act": "Приказ КГД РК",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-tp-reporting-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-04",
+      "title": "Европейская комиссия согласовала руководящие принципы применения Pillar 2 в странах ЕС",
+      "caption": "Разъяснения касаются механизма расчета квалифицированного минимального налога (QDMTT) и уплаты доплаты по Pillar 2.\n\nИсточник: https://regfollower.com/eu-commission-pillar-2-guidelines/\n\n#ЕС #Pillar2 #минимальныйналог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "минимальное налогообложение Pillar 2",
+      "jurisdictions": "ЕС / Европа",
+      "act": "Директива ЕК по Pillar 2",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/eu-commission-pillar-2-guidelines/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-05",
+      "title": "IRS США выпустила разъяснения по правилам зачета иностранного налога",
+      "caption": "Налоговая служба США уточнила порядок применения вычетов по иностранным налогам для транснациональных корпораций.\n\nИсточник: https://regfollower.com/irs-foreign-tax-credit-rules/\n\n#США #IRS #FTC #вычеты #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "США",
+      "act": "Руководство IRS США",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/irs-foreign-tax-credit-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-06",
+      "title": "Суд ЕС подтвердил правомерность применения антиуклонительных норм к холдинговым компаниям",
+      "caption": "Решение судебной инстанции касается критериев фактического получателя дохода и требований к экономическому присутствию.\n\nИсточник: https://regfollower.com/ecj-beneficial-ownership-ruling/\n\n#ЕС #СудЕС #субстанция #БенефициарныйВладелец #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "антиуклонительные нормы",
+      "jurisdictions": "ЕС / Европа",
+      "act": "Решение Суда ЕС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/ecj-beneficial-ownership-ruling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-07",
+      "title": "Литва предложила Таиланду возобновить переговоры по соглашению об избежании двойного налогообложения",
+      "caption": "Министерство финансов Литвы направило официальное предложение о согласовании текста налогового соглашения.\n\nИсточник: https://regfollower.com/lithuania-thailand-dta-talks/\n\n#Литва #Таиланд #СОДН #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные налоговые соглашения",
+      "jurisdictions": "Литва / Таиланд",
+      "act": "Инициатива Минфина Литвы",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/lithuania-thailand-dta-talks/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-08",
+      "title": "Федеральная налоговая служба ОАЭ выпустила руководящие указания по корпоративному налогу для свободный зон",
+      "caption": "Опубликованы детализированные правила применения нулевой ставки корпоративного налога для квалифицированных лиц свободных зон в Эмиратах.\n\nИсточник: https://regfollower.com/uae-free-zone-corporate-tax/\n\n#ОАЭ #Дубай #корпоративныйналог #СвободнаяЗона #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог ОАЭ",
+      "jurisdictions": "ОАЭ",
+      "act": "Руководство FTA ОАЭ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-free-zone-corporate-tax/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-09",
+      "title": "Индия продлила льготный период применения налога у источника при выплате роялти иностранным IT-компаниям",
+      "caption": "Министерство финансов Индии установило переходный период для адаптации бизнеса к новым правилам обложения цифровых услуг.\n\nИсточник: https://regfollower.com/india-digital-services-tax-royalty/\n\n#Индия #роялти #цифровойналог #налогуисточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровой налог и роялти",
+      "jurisdictions": "Индия",
+      "act": "Разъяснения Минфина Индии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/india-digital-services-tax-royalty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-31-1600-ru-news-10",
+      "title": "Налоговый комитет Узбекистана утвердил новые правила автоматического обмена финансовой информацией",
+      "caption": "Утверждены технические регламенты передачи сведений в рамках стандарта CRS для финансовых институтов Республики Узбекистан.\n\nИсточник: https://regfollower.com/uzbekistan-crs-reporting-standards/\n\n#Узбекистан #CRS #автообмен #финотчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "автоматический обмен информацией CRS",
+      "jurisdictions": "Узбекистан / СНГ",
+      "act": "Постановление Налогового комитета Узбекистана",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uzbekistan-crs-reporting-standards/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

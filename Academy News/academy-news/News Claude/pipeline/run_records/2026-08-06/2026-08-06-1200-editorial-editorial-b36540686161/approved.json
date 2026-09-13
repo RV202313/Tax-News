@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-06",
+  "release": "2026-08-06-1200-editorial",
+  "items": [
+    {
+      "slug": "2026-08-06-ru-fns-ntv-consultation",
+      "title": "ФНС России провела консультационный пункт по налогам для сотрудников телекомпании НТВ",
+      "caption": "Специалисты ФНС России организовали для сотрудников телекомпании НТВ выездной консультационный пункт, на котором ответили на вопросы об НДФЛ, налоговых вычетах и порядке уплаты имущественных налогов.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16641396/\n\n#ФНС #консультации #НДФЛ #вычеты #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Мероприятие ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16641396/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-fns-kassa-ip-usn",
+      "title": "ФНС России разъяснила порядок регистрации онлайн-кассы для ИП на УСН при развозной торговле",
+      "caption": "Налоговая служба опубликовала разъяснение для индивидуальных предпринимателей на упрощённой системе налогообложения, занимающихся развозной торговлей: порядок регистрации онлайн-кассы имеет особенности по сравнению со стационарными точками.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16639377/\n\n#ФНС #онлайнкасса #ИП #УСН #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16639377/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 nalog.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-ru-minfin-forum-sep21",
+      "title": "Московский финансовый форум — 2026 состоится 21 сентября",
+      "caption": "Министерство финансов России объявило о проведении Московского финансового форума 21 сентября 2026 года. Форум традиционно является ключевой дискуссионной площадкой по вопросам бюджетной и налоговой политики.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40525-moskovskii_finansovyi_forum__2026_sostoitsya_21_sentyabrya\n\n#Минфин #МФФ #форум #налоги #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая политика",
+      "jurisdictions": "Россия",
+      "act": "Анонс Министерства финансов России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40525-moskovskii_finansovyi_forum__2026_sostoitsya_21_sentyabrya"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 minfin.gov.ru confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-hr-us-dta-protocol",
+      "title": "Хорватия одобрила налоговое соглашение и протокол к нему с США",
+      "caption": "Правительство Хорватии утвердило к подписанию договор об избежании двойного налогообложения с США и протокол, вносящий изменения в действующее соглашение, — важный шаг в двусторонних налоговых отношениях.\n\nИсточник: https://regfollower.com/croatia-government-approves-tax-treaty-amending-protocol-with-us/\n\n#Хорватия #США #СОДН #ДТА #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Хорватия / США",
+      "act": "Постановление Правительства Хорватии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/croatia-government-approves-tax-treaty-amending-protocol-with-us/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-cy-vat-filing-extension",
+      "title": "Кипр продлил сроки подачи деклараций по НДС за июнь 2026 года и отчётов по системе обмена НДС",
+      "caption": "Налоговая служба Кипра продлила сроки подачи деклараций по НДС за июнь 2026 года и ежеквартальных отчётов по системе обмена информацией об НДС между странами ЕС.\n\nИсточник: https://regfollower.com/cyprus-extends-filing-deadlines-for-june-2026-vat-returns-july-2026-vies-statements/\n\n#Кипр #НДС #сроки #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Кипр",
+      "act": "Решение Налоговой службы Кипра",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/cyprus-extends-filing-deadlines-for-june-2026-vat-returns-july-2026-vies-statements/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-mt-vat-fiscal-receipts",
+      "title": "Мальта обновила руководство о фискальных чеках для малого бизнеса, освобождённого от НДС",
+      "caption": "Налоговая служба Мальты опубликовала обновлённое руководство о новых требованиях к фискальным чекам для предприятий малого бизнеса, применяющих освобождение от НДС по статье 11 закона об НДС.\n\nИсточник: https://regfollower.com/malta-updates-guidance-on-new-fiscal-receipt-rules-for-article-11-vat-exempt-smes/\n\n#Мальта #НДС #малыйбизнес #чеки #ЕС #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Мальта",
+      "act": "Руководство Налоговой службы Мальты",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/malta-updates-guidance-on-new-fiscal-receipt-rules-for-article-11-vat-exempt-smes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-sn-vat-agriculture",
+      "title": "Сенегал освободил от НДС сельскохозяйственное оборудование",
+      "caption": "Сенегал ввёл освобождение от налога на добавленную стоимость для сельскохозяйственного оборудования и техники в целях стимулирования инвестиций в агропромышленный сектор и снижения нагрузки на аграриев.\n\nИсточник: https://regfollower.com/senegal-exempts-vat-on-agricultural-equipment/\n\n#Сенегал #НДС #сельскоехозяйство #льгота #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение / НДС",
+      "jurisdictions": "Сенегал",
+      "act": "Законодательные изменения Сенегала",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/senegal-exempts-vat-on-agricultural-equipment/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-mx-vat-digital-providers",
+      "title": "Мексика обновила реестр иностранных поставщиков цифровых услуг, уплачивающих НДС",
+      "caption": "Мексиканская налоговая служба (SAT) актуализировала реестр нерезидентных поставщиков цифровых услуг, обязанных уплачивать НДС в соответствии с нормами о налогообложении цифровой экономики.\n\nИсточник: https://regfollower.com/mexico-updates-register-of-non-resident-digital-service-providers-for-vat-purpose/\n\n#Мексика #НДС #цифровыеуслуги #платформы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровая экономика",
+      "jurisdictions": "Мексика",
+      "act": "Обновление реестра Налоговой службы Мексики",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/mexico-updates-register-of-non-resident-digital-service-providers-for-vat-purpose/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-co-dian-invoice-validation",
+      "title": "Колумбия ввела новый порядок проверки личности при поиске электронных счетов-фактур в системе налоговой службы",
+      "caption": "Налоговая служба Колумбии внедрила обновлённый механизм проверки личности налогоплательщиков при доступе к поиску электронных счетов-фактур в целях повышения безопасности и защиты данных.\n\nИсточник: https://regfollower.com/colombia-dian-introduces-new-identity-validation-for-electronic-invoice-searches/\n\n#Колумбия #электронныечеки #цифровизация #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Колумбия",
+      "act": "Изменения Налоговой службы Колумбии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/colombia-dian-introduces-new-identity-validation-for-electronic-invoice-searches/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-06-uz-multilateral-convention",
+      "title": "Узбекистан подписал Многостороннюю конвенцию ОЭСР по противодействию уклонению от уплаты налогов",
+      "caption": "Узбекистан присоединился к Многосторонней конвенции об административной взаимопомощи в налоговых делах ОЭСР/Совета Европы. Документ охватывает широкий круг механизмов международного налогового сотрудничества.\n\nИсточник: https://regfollower.com/uzbekistan-signs-multilateral-convention-to-tackle-tax-evasion-and-avoidance/\n\n#Узбекистан #ОЭСР #конвенция #международноесотрудничество #СНГ #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международный обмен информацией",
+      "jurisdictions": "Узбекистан",
+      "act": "Подписание международного соглашения",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uzbekistan-signs-multilateral-convention-to-tackle-tax-evasion-and-avoidance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 12:00",
+        "color_a": [
+          10,
+          80,
+          50
+        ],
+        "color_b": [
+          60,
+          180,
+          100
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 12:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    }
+  ]
+}

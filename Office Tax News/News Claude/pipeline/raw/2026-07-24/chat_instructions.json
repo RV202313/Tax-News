@@ -1,0 +1,22 @@
+[
+  {
+    "message_id": 311,
+    "sender_id": 1154792726,
+    "sender_name": "EkaO_V",
+    "date": "2026-07-24T06:15:12+00:00",
+    "text": "Где новости???",
+    "is_reply": false,
+    "replied_to_msg_id": null,
+    "replied_to_text": ""
+  },
+  {
+    "message_id": 299,
+    "sender_id": 1154792726,
+    "sender_name": "EkaO_V",
+    "date": "2026-07-23T12:12:43+00:00",
+    "text": "где выпуск новостей????",
+    "is_reply": false,
+    "replied_to_msg_id": null,
+    "replied_to_text": ""
+  }
+]

@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-10_1300_editorial",
+  "date": "2026-09-10",
+  "slot": "1300",
+  "items": [
+    {
+      "slug": "2026-09-10-item-1300-01-ru",
+      "title": "Для воспитанников семейного центра «Горизонт» провели семинар по налоговой грамотности",
+      "caption": "Для воспитанников семейного центра «Горизонт» провели семинар по налоговой грамотности\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16648908/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "Для воспитанников семейного центра «Горизонт» провели семинар по налоговой грамотности",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16648908/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-02-ru",
+      "title": "ФНС России обобщила судебную практику по спорам в сфере налогообложения имущества",
+      "caption": "ФНС России обобщила судебную практику по спорам в сфере налогообложения имущества\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16648816/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "RU",
+      "act": "ФНС России обобщила судебную практику по спорам в сфере налогообложения имущества",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16648816/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-03-kz",
+      "title": "Казахстан обновил НДС ,",
+      "caption": "Казахстан обновил НДС ,\n\nИсточник: https://regfollower.com/kazakhstan-updates-vat-exemptions-reduces-rates-for-healthcare-sector/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "KZ",
+      "act": "Казахстан обновил НДС ,",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-updates-vat-exemptions-reduces-rates-for-healthcare-sector/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-04-kz",
+      "title": "Казахстан НДС IT",
+      "caption": "Казахстан НДС IT\n\nИсточник: https://regfollower.com/kazakhstan-exempts-vat-for-imported-it-goods/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "KZ",
+      "act": "Казахстан НДС IT",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-exempts-vat-for-imported-it-goods/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-05-updates",
+      "title": ": обновил on -up",
+      "caption": ": обновил on -up\n\nИсточник: https://regfollower.com/bahrain-nbr-updates-guidance-on-domestic-minimum-top-up-tax-returns/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "UPDATES",
+      "act": ": обновил on -up",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bahrain-nbr-updates-guidance-on-domestic-minimum-top-up-tax-returns/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-06-sweden",
+      "title": "Швеция предлагает Pillar -up",
+      "caption": "Швеция предлагает Pillar -up\n\nИсточник: https://regfollower.com/sweden-proposes-direct-pillar-two-top-up-tax-liability-for-joint-ventures/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "SWEDEN",
+      "act": "Швеция предлагает Pillar -up",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/sweden-proposes-direct-pillar-two-top-up-tax-liability-for-joint-ventures/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-07-philippines",
+      "title": "Филиппины: консультируется по минимальный налог",
+      "caption": "Филиппины: консультируется по минимальный налог\n\nИсточник: https://regfollower.com/philippines-dof-consults-on-progress-tax-reform-bill-incorporating-global-minimum-tax/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "PHILIPPINES",
+      "act": "Филиппины: консультируется по минимальный налог",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/philippines-dof-consults-on-progress-tax-reform-bill-incorporating-global-minimum-tax/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-08-lithuania",
+      "title": "Литва: НДС меры",
+      "caption": "Литва: НДС меры\n\nИсточник: https://regfollower.com/lithuania-mof-unveils-vat-gap-measures/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "LITHUANIA",
+      "act": "Литва: НДС меры",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/lithuania-mof-unveils-vat-gap-measures/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-09-us",
+      "title": "Австралия ввел - постановил",
+      "caption": "Австралия ввел - постановил\n\nИсточник: https://regfollower.com/australia-enacts-corporate-tax-loss-carry-back-rules/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "US",
+      "act": "Австралия ввел - постановил",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/australia-enacts-corporate-tax-loss-carry-back-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-1300-10-eu",
+      "title": "Комиссия in НДС",
+      "caption": "Комиссия in НДС\n\nИсточник: https://regfollower.com/european-commission-reports-growth-in-oss-vat/\n\nПочему это важно: Материал содержит практические налоговые изменения и разъяснения профильных ведомств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "EU",
+      "act": "Комиссия in НДС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/european-commission-reports-growth-in-oss-vat/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Auto-Publisher",
+        "evidence": "automated candidates selection"
+      }
+    }
+  ]
+}

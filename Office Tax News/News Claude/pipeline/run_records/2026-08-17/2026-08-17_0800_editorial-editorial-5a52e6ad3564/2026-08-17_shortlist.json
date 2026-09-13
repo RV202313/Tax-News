@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-17",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 305,
+      "source": "ru_fns",
+      "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642873/",
+      "ecli": "",
+      "act": "",
+      "title": "ФНС России разъяснила основные ошибки, допускаемые заявителями при заполнении ДОПП",
+      "summary": "",
+      "published_at": "2026-08-14",
+      "score": 15.0,
+      "topics": [
+        "cross_border_trade_tax",
+        "ru_tax_admin"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel",
+        "vk"
+      ]
+    }
+  ]
+}

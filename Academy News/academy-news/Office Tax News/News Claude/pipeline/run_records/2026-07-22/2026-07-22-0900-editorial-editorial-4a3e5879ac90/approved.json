@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-22",
+  "release": "2026-07-22-0900-editorial",
+  "items": [
+    {
+      "slug": "2026-07-22-sg-cbcr-greenland",
+      "title": "Сингапур добавил Гренландию в список партнёров по обмену страновой отчётностью",
+      "caption": "IRAS 21 июля 2026 года обновила страницу по страновой отчётности и отметила Гренландию как нового партнёра по эффективному обмену отчётами. Для неё указан финансовый год, начинающийся 1 мая 2024 года. Это расширяет перечень юрисдикций, с которыми Сингапур ведёт автоматический обмен такими данными.\n\nПочему это важно: международным группам стоит сверить охват своей страновой отчётности и внутренние процедуры обмена, чтобы не пропустить новую юрисдикцию в комплаенс-контуре.\n\nИсточник: https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-%28cbcr%29\n\n#Сингапур #CbCR #страноваяотчётность #международныйобмен #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CbCR,страновая отчетность,международный обмен,налоговый комплаенс",
+      "jurisdictions": "Сингапур,Гренландия",
+      "act": "IRAS Country-by-Country Reporting page, updated 21.07.2026",
+      "sources": [
+        {
+          "label": "IRAS",
+          "url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-%28cbcr%29"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG CbCR",
+        "color_a": [147, 34, 49],
+        "color_b": [232, 170, 72]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "IRAS CbCR page checked 2026-07-22; Greenland marked [NEW!], page last updated 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-22-sg-rpt-form-compliance",
+      "title": "Сингапур усилил акцент на точной и своевременной подаче формы RPT",
+      "caption": "IRAS 17 июля 2026 года обновила раздел по налоговому комплаенсу компаний и отдельно выделила своевременную и точную подачу формы RPT. Если объём связанных сделок, раскрытых в финансовой отчётности за период, превышает 15 млн сингапурских долларов, компания обязана заполнить эту форму как часть корпоративной налоговой декларации. Налоговая прямо указывает, что сведения нужны ей для оценки трансфертных рисков.\n\nПочему это важно: группам с внутригрупповыми сделками в Сингапуре нужно заранее проверить пороги, раскрытия и процесс подготовки корпоративной декларации, иначе возрастает риск вопросов по трансфертному ценообразованию.\n\nИсточник: https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/getting-companies-to-comply\n\n#Сингапур #трансфертноеценообразование #связанныесделки #налоговыйкомплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование,связанные сделки,налоговый комплаенс,раскрытие информации",
+      "jurisdictions": "Сингапур",
+      "act": "IRAS Getting Companies to Comply page, updated 17.07.2026",
+      "sources": [
+        {
+          "label": "IRAS",
+          "url": "https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/getting-companies-to-comply"
+        }
+      ],
+      "image_spec": {
+        "badge": "SG RPT",
+        "color_a": [127, 36, 56],
+        "color_b": [246, 191, 82]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "IRAS compliance page checked 2026-07-22; RPT section and 15m threshold verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-nl-cfc-low-taxed-passive-investments",
+      "title": "Нидерланды не разрешили учитывать CFC-налог при проверке низконалоговых пассивных активов",
+      "caption": "Нидерландская налоговая служба 21 июля 2026 года опубликовала позицию KG:023:2026:4 по участию в контролируемой иностранной компании. Ведомство указало, что налог по правилам CFC у самого налогоплательщика не учитывается при оценке того, являются ли активы низконалоговыми пассивными вложениями. Из-за этого участие не становится квалифицируемым инвестиционным участием и освобождение по участию не применяется к валютной прибыли.\n\nПочему это важно: международным группам с голландскими холдингами стоит отдельно проверять тесты по участию и не рассчитывать, что сам факт начисления CFC-налога исправит статус инвестиционного участия.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg02320264-cfc-heffing-bij-belastingplichtige-telt-niet-mee-bij-de-beoordeling-van-laagbelastheid-vrije-beleggingen/\n\n#Нидерланды #CFC #холдинги #освобождениепоучастию #международноеналогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "CFC,холдинги,освобождение по участию,международное налогообложение",
+      "jurisdictions": "Нидерланды",
+      "act": "KG:023:2026:4, published 21.07.2026",
+      "sources": [
+        {
+          "label": "Kennisgroepen Belastingdienst",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg02320264-cfc-heffing-bij-belastingplichtige-telt-niet-mee-bij-de-beoordeling-van-laagbelastheid-vrije-beleggingen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL CFC",
+        "color_a": [22, 78, 120],
+        "color_b": [232, 145, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KG023 text checked 2026-07-22; answer and publication date verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-nl-belgium-property-debt-relief",
+      "title": "Нидерланды разрешили учитывать связанные долги без ипотеки при льготе по бельгийской недвижимости",
+      "caption": "Нидерландская налоговая служба 20 июля 2026 года выпустила позицию KG:041:2026:6 по соглашению Нидерланды - Бельгия. Ведомство подтвердило, что для расчёта зачёта двойного налогообложения по бельгийской недвижимости не требуется именно ипотечный долг. Достаточно, чтобы долг был связан с этой недвижимостью, даже если обеспечением по займу служит, например, портфель ценных бумаг.\n\nПочему это важно: владельцам зарубежной недвижимости и их консультантам стоит смотреть не только на форму залога, но и на связь долга с активом, потому что это влияет на размер налогового облегчения.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg04120266-verdrag-nl-bel-voorkomingsartikel-onroerende-goederen-en-hypotheekschulden/\n\n#Нидерланды #Бельгия #двойноеналогообложение #недвижимость #международноеналогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "двойное налогообложение,недвижимость,международное налогообложение,частный капитал",
+      "jurisdictions": "Нидерланды,Бельгия",
+      "act": "KG:041:2026:6, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Kennisgroepen Belastingdienst",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg04120266-verdrag-nl-bel-voorkomingsartikel-onroerende-goederen-en-hypotheekschulden/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL-BE Relief",
+        "color_a": [24, 87, 118],
+        "color_b": [211, 126, 51]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KG041 text checked 2026-07-22; answer and publication date verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-nl-customary-salary-group-level",
+      "title": "Нидерланды привязали расчёт обычной зарплаты к уровню группы при сквозной выплате",
+      "caption": "Нидерландская налоговая служба 20 июля 2026 года опубликовала позицию KG:204:2026:13. Если правило сквозной выплаты зарплаты применяется, то правило об обычной зарплате директора нужно оценивать на уровне группы. При этом суммы, которые операционная компания перечисляет холдингу по такому механизму, не определяют размер обычной зарплаты сами по себе.\n\nПочему это важно: структурам с голландскими холдингами и операционными компаниями стоит отделять внутригрупповые расчёты от теста на обычную зарплату, иначе можно ошибиться и в удержаниях, и в защите позиции на проверке.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg204202613-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling/\n\n#Нидерланды #зарплата #директор #налогнасфондоплатытруда #холдинги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "заработная плата,директора,холдинги,налоги на труд",
+      "jurisdictions": "Нидерланды",
+      "act": "KG:204:2026:13, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Kennisgroepen Belastingdienst",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg204202613-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Salary",
+        "color_a": [29, 91, 124],
+        "color_b": [229, 143, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KG204:13 checked 2026-07-22; answer and group-level salary rule verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-nl-no-pay-through-salary-real-contract",
+      "title": "Нидерланды запретили сквозную выплату зарплаты при реальном договоре подряда",
+      "caption": "Нидерландская налоговая служба 15 июля 2026 года опубликовала позицию KG:204:2026:12 и позднее обновила её 20 июля. Ведомство указало, что при реальном договоре подряда между холдингом и рабочей компанией правило сквозной выплаты зарплаты не применяется. Обычная зарплата определяется только на уровне холдинга, а не рабочей компании.\n\nПочему это важно: для управленческих и сервисных структур в Нидерландах реальность договора становится ключевой, потому что от этого зависит, где именно считать зарплатную базу и как выстраивать расчёты внутри группы.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg204202612-doorbetaaldloonregeling-bij-reele-overeenkomst-van-opdracht/\n\n#Нидерланды #зарплата #холдинги #договорподряда #налогинатруд #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "заработная плата,холдинги,договоры,налоги на труд",
+      "jurisdictions": "Нидерланды",
+      "act": "KG:204:2026:12, published 15.07.2026, updated 20.07.2026",
+      "sources": [
+        {
+          "label": "Kennisgroepen Belastingdienst",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg204202612-doorbetaaldloonregeling-bij-reele-overeenkomst-van-opdracht/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Contract",
+        "color_a": [21, 96, 116],
+        "color_b": [220, 129, 52]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KG204:12 checked 2026-07-22; answer and dates verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-nl-temp-workers-fixed-allowance",
+      "title": "Нидерланды разрешили необлагаемую фиксированную компенсацию временным работникам только при полном сопоставлении условий",
+      "caption": "Нидерландская налоговая служба 15 июля 2026 года выпустила позицию KG:204:2026:11 по фиксированным компенсациям расходов временным работникам. Агентство указало, что кадровая компания не может автоматически опираться на соглашение между заказчиком и налоговой о необлагаемой компенсации. Она сможет платить такую компенсацию без налога только если докажет одинаковую функцию работника и сопоставимые условия возникновения расходов.\n\nПочему это важно: работодателям и кадровым посредникам в Нидерландах придётся отдельно документировать сравнимость ролей и расходов, иначе необлагаемая компенсация может не устоять.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg204202611-vaste-kostenvergoeding-uitzendkrachten/\n\n#Нидерланды #кадровыекомпании #компенсации #налогинатруд #документирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "компенсации,кадровые компании,налоги на труд,документирование",
+      "jurisdictions": "Нидерланды",
+      "act": "KG:204:2026:11, published 15.07.2026",
+      "sources": [
+        {
+          "label": "Kennisgroepen Belastingdienst",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg204202611-vaste-kostenvergoeding-uitzendkrachten/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL Allowance",
+        "color_a": [27, 84, 109],
+        "color_b": [236, 149, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "KG204:11 checked 2026-07-22; answer and publication date verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-cl-digital-vat-platforms",
+      "title": "Чили опубликовала список платформ по цифровому НДС и запустила удержание через платёжных операторов",
+      "caption": "SII 15 июля 2026 года сообщила, что после объявления о применении механизма смены налогового агента по цифровому НДС к незарегистрированным платформам онлайн-ставок за один день зарегистрировались 25 платформ. По резолюции № 94 для неисполняющих обязанность площадок налог будет удерживать оператор платёжного средства: он должен удержать 19 процентов НДС с каждой операции и перечислять его ежемесячно.\n\nПочему это важно: иностранным цифровым платформам и их платёжным цепочкам в Чили нужно быстро проверить статус регистрации, иначе сбор НДС перейдёт на платёжного посредника и изменит операционную модель.\n\nИсточник: https://www.sii.cl/noticias/2026/150726noti01smn.htm\n\n#Чили #НДС #цифровыеплатформы #налоговыйагент #онлайнставки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,цифровые платформы,налоговый агент,платежные посредники",
+      "jurisdictions": "Чили",
+      "act": "SII digital VAT platforms notice, published 15.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/150726noti01smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "CL VAT",
+        "color_a": [9, 92, 120],
+        "color_b": [215, 86, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SII 150726 notice checked 2026-07-22; 25 platforms and 19% withholding verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-cl-disaster-tax-relief",
+      "title": "Чили продлила до 30 октября уплату ежемесячных налогов без пеней и процентов для пострадавших коммун",
+      "caption": "SII 19 июля 2026 года объявила, что налогоплательщики из коммун, сильнее всего пострадавших от фронтальной погодной системы, смогут подать и уплатить ежемесячные налоги до 30 октября без штрафов и процентов. Решение принято совместно с Минфином и Государственным казначейством и предусматривает автоматическое списание пеней и процентов по просроченному НДС и другим ежемесячным налогам для затронутых территорий.\n\nПочему это важно: компаниям и предпринимателям в пострадавших районах Чили нужно проверить, попадает ли их муниципалитет под меру поддержки, чтобы корректно перестроить налоговый календарь и денежный поток.\n\nИсточник: https://www.sii.cl/noticias/2026/190726noti01pcr.htm\n\n#Чили #НДС #налоговыельготы #форсмажор #денежныйпоток #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,налоговые льготы,форс-мажор,денежный поток",
+      "jurisdictions": "Чили",
+      "act": "SII relief for affected communes, published 19.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/190726noti01pcr.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "CL Relief",
+        "color_a": [15, 83, 118],
+        "color_b": [207, 101, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "SII 190726 relief notice checked 2026-07-22; 30 October deadline and automatic remission verified"
+      }
+    },
+    {
+      "slug": "2026-07-22-uk-side-hustle-tax-reminder",
+      "title": "Великобритания напомнила о налогах на подработки с доходом свыше 1 000 фунтов",
+      "caption": "HMRC 21 июля 2026 года напомнила, что люди с доходом от подработок свыше 1 000 фунтов в год могут быть обязаны зарегистрироваться для ежегодного декларирования доходов и сообщить этот доход налоговой. Ведомство отдельно указало, что новые участники должны зарегистрироваться за 2025-2026 налоговый год до 5 октября 2026 года, а подать электронную декларацию и уплатить налог нужно до 31 января 2027 года. Для первичной проверки HMRC направляет на бесплатный онлайн-сервис.\n\nПочему это важно: для платформенной занятости, авторов контента и малого побочного бизнеса в Великобритании усиливается практический комплаенс-контур вокруг порога в 1 000 фунтов.\n\nИсточник: https://www.gov.uk/government/news/say-i-do-to-getting-your-side-hustle-tax-right\n\n#Великобритания #самозанятые #декларированиедоходов #платформеннаязанятость #налоговыйкомплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "самозанятые,декларирование доходов,платформенная занятость,налоговый комплаенс",
+      "jurisdictions": "Великобритания",
+      "act": "HMRC side hustle tax reminder, published 21.07.2026",
+      "sources": [
+        {
+          "label": "HMRC",
+          "url": "https://www.gov.uk/government/news/say-i-do-to-getting-your-side-hustle-tax-right"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Income",
+        "color_a": [30, 61, 114],
+        "color_b": [190, 120, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "HMRC news release checked 2026-07-22; 1000 GBP threshold and filing dates verified"
+      }
+    }
+  ]
+}

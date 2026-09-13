@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-19",
+  "release": "2026-07-19-1700-editorial",
+  "items": [
+    {
+      "slug": "2026-07-19-uk-withholding-tax-interest-consultation",
+      "title": "HMRC открыла консультацию по упрощению освобождения по СИДН для процентов за рубеж",
+      "caption": "HMRC 13 июля 2026 года открыла восьминедельную консультацию по упрощению получения льготы по СИДН от британского налога у источника при выплате процентов зарубежным кредиторам. Ведомство прямо признаёт, что нынешний порядок с удержанием налога и предварительным разрешением создаёт административную нагрузку и риск ошибок, и просит рынок предложить варианты упрощения без ослабления защитных механизмов против уклонения.\n\nПочему это важно: группам с внутригрупповым и банковским финансированием через Великобританию стоит заранее оценить, где нынешний процесс предварительного разрешения тормозит денежный поток и документацию, чтобы повлиять на реформу до закрытия консультации 7 сентября 2026 года.\n\nИсточник: https://www.gov.uk/government/consultations/consultation-on-simplifying-treaty-relief-from-withholding-tax-on-interest-paid-overseas/simplifying-treaty-relief-from-withholding-tax-on-interest-paid-overseas\n\n#Великобритания #налогуисточника #СИДН #финансирование #налоговыепроцедуры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "withholding tax,СИДН,финансирование,налоговые процедуры",
+      "jurisdictions": "Великобритания",
+      "act": "Consultation on Simplifying Treaty Relief from Withholding Tax on Interest Paid Overseas, published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/consultations/consultation-on-simplifying-treaty-relief-from-withholding-tax-on-interest-paid-overseas/simplifying-treaty-relief-from-withholding-tax-on-interest-paid-overseas"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK WHT Relief",
+        "color_a": [24, 68, 118],
+        "color_b": [153, 128, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "consultation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC consultation text checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-advance-tax-certainty-service",
+      "title": "HMRC запустила сервис предварительной налоговой определённости для инвестпроектов от 1 млрд фунтов",
+      "caption": "HMRC 16 июля 2026 года объявила о запуске сервиса предварительной налоговой определённости для крупных инвестиционных проектов. Он доступен бизнесу, который планирует вложить не менее 1 млрд фунтов квалифицируемых расходов в Великобритании за срок проекта, и охватывает налог на прибыль, НДС, гербовый сбор на сделки с землёй, подоходный налог, удержания по заработной плате и строительную схему. HMRC заявляет, что будет стремиться выдавать разъяснение в течение 90 дней, а результат станет обязательным на 5 лет с возможностью продления.\n\nПочему это важно: крупные инвесторы получают инструмент, который может снять ключевые налоговые неопределённости ещё до финального инвестиционного решения и заметно ускорить структуру сделки и моделирование доходности после налогов.\n\nИсточник: https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update\n\n#Великобритания #налоговаяопределенность #инвестиции #HMRC #НДС #налогнаприбыль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая определенность,инвестиции,HMRC,VAT,corporate tax",
+      "jurisdictions": "Великобритания",
+      "act": "Issue 145 of Agent Update, HMRC launches Advance Tax Certainty Service for major investment projects, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/agent-update-issue-145/issue-145-of-agent-update"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Tax Certainty",
+        "color_a": [18, 77, 108],
+        "color_b": [120, 153, 78]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC Agent Update 145 checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-cl-digital-vat-betting-base",
+      "title": "SII уточнила базу цифрового НДС для онлайн-ставок и предупредила о смене плательщика",
+      "caption": "Налоговая служба Чили 13 июля 2026 года разъяснила, как рассчитывается база цифрового НДС для платформ онлайн-ставок. Базой признаётся вся сумма ставок, а если оператор может надёжно подтвердить суммы выплаченных призов, налог считается с разницы между ставками и призами. SII отдельно указала, что с 2 июня 2026 года такие платформы должны были зарегистрироваться, но к дате сообщения регистраций ещё не было, поэтому с 15 июля запускается механизм смены плательщика.\n\nПочему это важно: международным платформам ставок и платёжным посредникам в Чили нужно срочно сверить модель расчёта выручки, доказательную базу по выплаченным призам и готовность к удержанию 19% НДС через платёжную инфраструктуру.\n\nИсточник: https://www.sii.cl/noticias/2026/130726noti01smn.htm\n\n#Чили #НДС #цифровыеуслуги #онлайнставки #удержание #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "VAT,digital services,betting,withholding",
+      "jurisdictions": "Чили",
+      "act": "SII news release on digital VAT for online betting platforms, 13.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/130726noti01smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "CL Betting VAT",
+        "color_a": [12, 92, 108],
+        "color_b": [181, 110, 52]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "SII online betting VAT base notice checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-cl-betting-platforms-resolution-94",
+      "title": "SII: за сутки зарегистрировались 25 платформ ставок, а для остальных включён 19% НДС у источника",
+      "caption": "SII 15 июля 2026 года сообщила, что только за один день для целей цифрового НДС зарегистрировались 25 платформ онлайн-ставок. Одновременно Resolución N°94 утвердила перечень незарегистрированных платформ, по которым применяется механизм смены плательщика: оператор платёжного средства удерживает 19% НДС с каждой транзакции и перечисляет его в бюджет ежемесячно.\n\nПочему это важно: для платформ и платёжных операторов это уже не общая угроза контроля, а рабочий механизм принудительного сбора НДС через инфраструктуру платежей, который может резко изменить экономику и договорную модель на чилийском рынке.\n\nИсточник: https://www.sii.cl/noticias/2026/150726noti01smn.htm\n\n#Чили #НДС #онлайнставки #платежи #удержание #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "IVA,betting,платежи,withholding",
+      "jurisdictions": "Чили",
+      "act": "SII news release and Resolución N°94 on online betting platforms, 15.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/150726noti01smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "CL IVA Shift",
+        "color_a": [18, 84, 84],
+        "color_b": [198, 127, 56]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "SII Resolution 94 release checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-hk-d-code-returns-extension",
+      "title": "IRD Гонконга продлила срок деклараций по коду D до 31 августа и 2 октября",
+      "caption": "Налоговая служба Гонконга 14 июля 2026 года выпустила циркулярное письмо по схеме группового продления сроков и отдельно продлила дедлайны для деклараций по коду D. Для бумажной подачи срок перенесён с 17 августа на 31 августа 2026 года, а для электронной подачи — с 17 сентября на 2 октября 2026 года.\n\nПочему это важно: группам и консультантам с гонконгскими структурами и сложной отчётностью по коду D это даёт ограниченное, но ценное окно для дособора данных и проверки расчётов, особенно там, где задействованы трансграничные элементы и консолидация по нескольким потокам дохода.\n\nИсточник: https://www.ird.gov.hk/eng/pdf/bel26ea.pdf\n\n#Гонконг #налоговаяотчетность #дедлайны #контрольсроков #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая отчетность,дедлайны,compliance",
+      "jurisdictions": "Гонконг",
+      "act": "Circular Letter to Tax Representatives - Block Extension Scheme for Lodgement of 2025/26 Tax Returns [Extended Due Date for “D” Code Returns], 14.07.2026",
+      "sources": [
+        {
+          "label": "Inland Revenue Department Hong Kong",
+          "url": "https://www.ird.gov.hk/eng/pdf/bel26ea.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "HK D-Code",
+        "color_a": [12, 70, 122],
+        "color_b": [171, 96, 59]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "deadline_extension",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "IRD D-code extension PDF checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-cn-universiade-tax-relief",
+      "title": "Китай ввёл пакет льгот по НДС, гербовому сбору и таможенным платежам для зимней Универсиады 2027",
+      "caption": "На странице налоговой службы Шанхая опубликовано совместное уведомление Минфина КНР, таможни и налоговой службы о налоговой поддержке подготовки к 33-й зимней Универсиаде в Чанчуне. Документ освобождает от НДС ряд доходов оргкомитета, включая спонсорские поступления, продажу телевизионных прав, доходы от билетов и лицензионные доходы, освобождает от гербового сбора отдельные документы и даёт льготы по пошлинам, ввозному НДС и акцизу по определённым импортным расходным материалам. Мера действует с 31 мая 2026 года по 31 января 2029 года.\n\nПочему это важно: это показательный пример того, как Китай пакетно настраивает косвенные налоги и таможенные льготы под крупные международные мероприятия, что влияет на структурирование спонсорства, медиаправ и импортных потоков.\n\nИсточник: https://shanghai.chinatax.gov.cn/zcfw/zcfgk/zzs/202607/t480903.html\n\n#Китай #НДС #таможня #гербовыйсбор #спорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "VAT,таможня,stamp duty,спорт",
+      "jurisdictions": "Китай",
+      "act": "Joint tax policy notice for the 33rd Winter Universiade in Changchun, issued 01.07.2026, effective 31.05.2026-31.01.2029",
+      "sources": [
+        {
+          "label": "Shanghai Tax / STA China",
+          "url": "https://shanghai.chinatax.gov.cn/zcfw/zcfgk/zzs/202607/t480903.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "CN Games Relief",
+        "color_a": [114, 34, 37],
+        "color_b": [181, 139, 68]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "tax_relief",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "China Universiade tax notice checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-vat-locum-doctors-brief",
+      "title": "HMRC изменила позицию по НДС на поставку временных врачей после решения трибунала",
+      "caption": "HMRC 17 июля 2026 года выпустила информационную записку о режиме НДС для поставок временного медицинского персонала. После решения трибунала по делу одного из фондов NHS ведомство признало, что поставка услуг врачей, зарегистрированных в Генеральном медицинском совете, может подпадать под освобождение от НДС, в том числе когда врачи привлекаются через кадрового посредника. При этом HMRC отдельно предупреждает о последствиях для заявлений на возврат, начисленного налога и ранее принятого к вычету входного налога.\n\nПочему это важно: медорганизациям, частным клиникам и кадровым посредникам теперь нужно заново пересчитать НДС, потенциальные возвраты и корректировки вычетов по спорным периодам.\n\nИсточник: https://www.gov.uk/government/publications/revenue-and-customs-brief-6-2026-vat-liability-of-the-supply-of-temporary-medical-staff-locum-doctors/vat-liability-of-the-supply-of-temporary-medical-staff-2026\n\n#Великобритания #НДС #здравоохранение #медперсонал #суды #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "VAT,healthcare,locum doctors,суды",
+      "jurisdictions": "Великобритания",
+      "act": "Revenue and Customs Brief 6 (2026): VAT liability of the supply of temporary medical staff (locum doctors), published 17.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/revenue-and-customs-brief-6-2026-vat-liability-of-the-supply-of-temporary-medical-staff-locum-doctors/vat-liability-of-the-supply-of-temporary-medical-staff-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Locum VAT",
+        "color_a": [31, 68, 115],
+        "color_b": [143, 116, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC locum doctors VAT brief checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-bank-levy-definitions-2027",
+      "title": "HMRC обновляет определения для банковского сбора под новую финансовую регуляторику",
+      "caption": "HMRC 16 июля 2026 года открыла техническую консультацию по проекту поправок для банковского сбора. Изменения синхронизируют определения в правилах о банковском сборе с новыми нормами пруденциального регулирования после реформ 2021 и 2023 годов, удаляют лишние дефиниции и должны применяться к налоговым периодам, начинающимся с 1 января 2027 года.\n\nПочему это важно: банкам и строительным обществам нужно проверить, не изменится ли классификация регуляторного капитала и инструментов покрытия убытков в расчёте сбора, чтобы не получить неверное налогообложение уже с первого периода 2027 года.\n\nИсточник: https://www.gov.uk/government/consultations/draft-regulations-updating-definitions-in-the-bank-levy-legislation/draft-tax-information-and-impact-note-updating-definitions-in-the-bank-levy-legislation\n\n#Великобритания #банковскийсбор #банки #финансовоерегулирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Bank Levy,банки,финансовое регулирование",
+      "jurisdictions": "Великобритания",
+      "act": "(Draft) Tax information and impact note: Updating definitions in the Bank Levy legislation, published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/consultations/draft-regulations-updating-definitions-in-the-bank-levy-legislation/draft-tax-information-and-impact-note-updating-definitions-in-the-bank-levy-legislation"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Bank Levy",
+        "color_a": [19, 62, 103],
+        "color_b": [96, 142, 93]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "consultation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC Bank Levy consultation checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-benefits-in-kind-rti-2027",
+      "title": "HMRC переводит часть льгот работникам в обязательную отчётность через РТИ с 6 апреля 2027",
+      "caption": "HMRC 13 июля 2026 года опубликовала проект нормы об обязательной отчётности по льготам работникам через систему РТИ. С 6 апреля 2027 года для большинства работодателей в обязательную оперативную отчётность попадут медицинская льгота, служебные автомобили, фургоны, а также топливо для автомобилей и фургонов, а с 6 апреля 2028 года режим должен распространиться на большую часть остальных льгот, кроме отдельных исключений вроде займов и жилья на переходном этапе.\n\nПочему это важно: работодателям, расчётчикам зарплаты и консультантам нужно уже сейчас перестраивать расчётные системы, потоки данных и контрольные процедуры, потому что переход уводит значительную часть льгот из годового процесса по форме P11D в оперативную отчётность.\n\nИсточник: https://www.gov.uk/government/publications/changes-to-reporting-of-benefits-in-kind-from-april-2027/mandatory-reporting-of-benefits-in-kind-in-real-time-information-rti-from-april-2027\n\n#Великобритания #зарплата #РТИ #льготыработникам #P11D #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "payroll,RTI,benefits in kind,P11D",
+      "jurisdictions": "Великобритания",
+      "act": "Mandatory reporting of benefits in kind in Real Time Information (RTI) from April 2027, published 13.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/changes-to-reporting-of-benefits-in-kind-from-april-2027/mandatory-reporting-of-benefits-in-kind-in-real-time-information-rti-from-april-2027"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK BIK RTI",
+        "color_a": [22, 82, 118],
+        "color_b": [176, 120, 57]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "draft_legislation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC BIK RTI measure checked 2026-07-19"
+      }
+    },
+    {
+      "slug": "2026-07-19-uk-cash-isa-limit-under65",
+      "title": "HMRC предлагает снизить лимит пополнения денежных ИСА до 12 000 фунтов для лиц младше 65 лет",
+      "caption": "HMRC 16 июля 2026 года вынесла на техническую консультацию проект поправок к правилам индивидуальных сберегательных счетов. По нему годовой лимит пополнения денежных ИСА для инвесторов младше 65 лет с 6 апреля 2027 года снижается до 12 000 фунтов, тогда как для лиц 65+ сохраняется предел 20 000 фунтов. Проект также запрещает отдельные переводы из инвестиционных ИСА и ИСА финансирования в денежные ИСА для лиц младше 65 лет и вводит антиобходные правила по квази-денежным активам.\n\nПочему это важно: банкам, управляющим капиталом и частным инвесторам придётся пересмотреть продуктовую линейку, механику переводов и коммуникацию с клиентами задолго до начала налогового года 2027/28.\n\nИсточник: https://www.gov.uk/government/consultations/the-individual-savings-account-amendment-regulations-2026\n\n#Великобритания #ИСА #сбережения #управлениекапиталом #налоговаяреформа #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "ISA,сбережения,wealth management,налоговая реформа",
+      "jurisdictions": "Великобритания",
+      "act": "The Individual Savings Account (Amendment) Regulations 2026, technical consultation published 16.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/consultations/the-individual-savings-account-amendment-regulations-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Cash ISA",
+        "color_a": [14, 73, 111],
+        "color_b": [136, 147, 73]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "consultation",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 17:00 cycle",
+        "evidence": "HMRC ISA amendment consultation checked 2026-07-19"
+      }
+    }
+  ]
+}

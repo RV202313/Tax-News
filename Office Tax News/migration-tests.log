@@ -1,0 +1,99 @@
+.................F.s...FFF....F...........F
+======================================================================
+FAIL: test_ras_fixture_filters_noise_and_keeps_act (test_phase2.CollectorIntegrationTests.test_ras_fixture_filters_noise_and_keeps_act)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase2.py", line 312, in test_ras_fixture_filters_noise_and_keeps_act
+    self.assertEqual(result.returncode, 0, result.stderr)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 1 != 0 : [ras] Error: Cannot find module 'C:\Users\vakhi\Downloads\Tax News\Office Tax News\arbitr.ru\ras_title_rules.js'
+Require stack:
+- C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\collect_ru_ras.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
+    at Function._load (node:internal/modules/cjs/loader:1192:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at main (C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\collect_ru_ras.js:185:30)
+    at Object.<anonymous> (C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\collect_ru_ras.js:249:3)
+
+
+======================================================================
+FAIL: test_telegram_fixture_reaches_shortlist_with_lead_warning (test_phase2.CollectorIntegrationTests.test_telegram_fixture_reaches_shortlist_with_lead_warning)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase2.py", line 345, in test_telegram_fixture_reaches_shortlist_with_lead_warning
+    self.assertEqual(parsed["total"], 1)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0 != 1
+
+======================================================================
+FAIL: test_telegram_ownership_check_is_fail_closed_without_lsof (test_phase2.CollectorIntegrationTests.test_telegram_ownership_check_is_fail_closed_without_lsof)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase2.py", line 147, in test_telegram_ownership_check_is_fail_closed_without_lsof
+    with self.assertRaisesRegex(RuntimeError, "lsof не найден"):
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: RuntimeError not raised
+
+======================================================================
+FAIL: test_telegram_refuses_session_used_by_another_process (test_phase2.CollectorIntegrationTests.test_telegram_refuses_session_used_by_another_process)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase2.py", line 142, in test_telegram_refuses_session_used_by_another_process
+    with self.assertRaisesRegex(RuntimeError, "уже используется"):
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: RuntimeError not raised
+
+======================================================================
+FAIL: test_vs_parser_preserves_review_type_and_date (test_phase2.SourceParserTests.test_vs_parser_preserves_review_type_and_date)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase2.py", line 71, in test_vs_parser_preserves_review_type_and_date
+    self.assertEqual(len(items), 1)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+AssertionError: 0 != 1
+
+======================================================================
+FAIL: test_end_to_end_without_external_network (test_phase4_acceptance.EndToEndAcceptance.test_end_to_end_without_external_network)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\tests\test_phase4_acceptance.py", line 122, in test_end_to_end_without_external_network
+    self.assertGreaterEqual(parsed["total"], 13)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 3 not greater than or equal to 13
+
+----------------------------------------------------------------------
+Ran 43 tests in 7.252s
+
+FAILED (failures=6, skipped=1)
+
+[select] Ð´Ð°Ñ‚Ð°=2026-07-17  ÐºÐ°Ð½Ð´Ð¸Ð´Ð°Ñ‚Ð¾Ð²_Ñ_Ñ‚ÐµÐ¼Ð¾Ð¹=1  ÑƒÑÑ‚Ð°Ñ€ÐµÐ»Ð¾_Ð¾Ñ‚ÑÐµÑÐ½Ð¾=0  Ð²Ð½ÑƒÑ‚Ñ€Ð¸Ð¿Ð°Ñ‡_Ð´ÑƒÐ±Ð»ÐµÐ¹=0  Ð½Ð¾Ð²Ñ‹Ñ…=1  Ð²_ÑˆÐ¾Ñ€Ñ‚Ð»Ð¸ÑÑ‚Ðµ=1 (ÐºÐ°Ð¿=15)
+----------------------------------------------------------------------------------------
+ #  source            score  pub         ÑÑ‚Ñ€Ð°Ð½Ñ‹ | Ñ‚ÐµÐ¼Ñ‹
+----------------------------------------------------------------------------------------
+ 1  ru_fns             15.5  2026-07-17  ru | exchange_info,ru_tax_admin
+      ФНС обновила правила автоматического обмена поâ€¦
+----------------------------------------------------------------------------------------
+[select] â†’ C:\Users\vakhi\AppData\Local\Temp\news_phase1_5251q16n\pipeline\shortlist\2026-07-17_shortlist.json
+
+[select] Ð´Ð°Ñ‚Ð°=2026-07-17  ÐºÐ°Ð½Ð´Ð¸Ð´Ð°Ñ‚Ð¾Ð²_Ñ_Ñ‚ÐµÐ¼Ð¾Ð¹=2  ÑƒÑÑ‚Ð°Ñ€ÐµÐ»Ð¾_Ð¾Ñ‚ÑÐµÑÐ½Ð¾=0  Ð²Ð½ÑƒÑ‚Ñ€Ð¸Ð¿Ð°Ñ‡_Ð´ÑƒÐ±Ð»ÐµÐ¹=1  Ð½Ð¾Ð²Ñ‹Ñ…=1  Ð²_ÑˆÐ¾Ñ€Ñ‚Ð»Ð¸ÑÑ‚Ðµ=1 (ÐºÐ°Ð¿=15)
+----------------------------------------------------------------------------------------
+ #  source            score  pub         ÑÑ‚Ñ€Ð°Ð½Ñ‹ | Ñ‚ÐµÐ¼Ñ‹
+----------------------------------------------------------------------------------------
+ 1  ru_fns             15.5  2026-07-17  ru | exchange_info,ru_tax_admin
+      ФНС установила новый порядок автоматического оâ€¦
+----------------------------------------------------------------------------------------
+[select] â†’ C:\Users\vakhi\AppData\Local\Temp\news_phase1_3zcbsnae\pipeline\shortlist\2026-07-17_shortlist.json
+[parse] telegram_leads: Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº (Ð½ÐµÑ‚ Ð² sources.yaml) â€” Ð¿Ñ€Ð¾Ð¿ÑƒÑÐº
+[parse] Ð˜Ð¢ÐžÐ“Ðž 0 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² â†’ C:\Users\vakhi\AppData\Local\Temp\news_phase2__3vteppe\pipeline\inbox\2026-07-18_items.jsonl
+[parse] nl_rechtspraak: 1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] ru_minfin: 1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] ru_ras: 1 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] ru_vs: 0 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² (ok)
+[parse] telegram_leads: Ð½ÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ñ‹Ð¹ Ð¸ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº (Ð½ÐµÑ‚ Ð² sources.yaml) â€” Ð¿Ñ€Ð¾Ð¿ÑƒÑÐº
+[parse] court_registry: 2 Ñ€ÐµÑˆÐµÐ½Ð¸Ð¹ â†’ C:\Users\vakhi\AppData\Local\Temp\news_phase4_0oz0gb21\court_analysis\court_decisions.csv
+[parse] Ð˜Ð¢ÐžÐ“Ðž 3 ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð² â†’ C:\Users\vakhi\AppData\Local\Temp\news_phase4_0oz0gb21\News Claude\pipeline\inbox\2099-01-01_items.jsonl

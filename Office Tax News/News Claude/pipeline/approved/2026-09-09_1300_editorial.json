@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-09_1300_editorial",
+  "date": "2026-09-09",
+  "slot": "1300",
+  "items": [
+    {
+      "slug": "2026-09-09-item-11-fns-tax-monitoring",
+      "title": "ФНС России скорректировала критерии для перехода организаций на налоговый мониторинг",
+      "caption": "ФНС России скорректировала критерии для перехода организаций на налоговый мониторинг\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177445/\n\nПочему это важно: Изменение порога доходов и активов расширяет круг компаний, способных перейти на систему онлайн-взаимодействия с налоговым органом.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый мониторинг",
+      "jurisdictions": "Россия",
+      "act": "ФНС России скорректировала критерии для перехода организаций на налоговый мониторинг",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177445/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-12-fns-mediation",
+      "title": "ФНС России развивает институт медиации при урегулировании споров с налогоплательщиками",
+      "caption": "ФНС России развивает институт медиации при урегулировании споров с налогоплательщиками\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177452/\n\nПочему это важно: Привлечение независимых медиаторов позволяет урегулировать разногласия до стадии выездной налоговой проверки и судебных разбирательств.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Россия",
+      "act": "ФНС России развивает институт медиации при урегулировании споров с налогоплательщиками",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177452/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS announcement"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-13-kz-late-payment-rate",
+      "title": "Казахстан снизил базовую ставку для расчёта пени за несвоевременную уплату налогов",
+      "caption": "Казахстан снизил базовую ставку для расчёта пени за несвоевременную уплату налогов\n\nИсточник: https://kgd.gov.kz/ru/news/base_rate_penalty_2026\n\nПочему это важно: Снижение базовой ставки Нацбанка напрямую уменьшает финансовую нагрузку на бизнес при расчете пеней по налоговой задолженности.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Казахстан",
+      "act": "Казахстан снизил базовую ставку для расчёта пени за несвоевременную уплату налогов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/base_rate_penalty_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan announcement"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-14-oecd-digital-platforms",
+      "title": "ОЭСР опубликовала комментарии к поправкам в правила отчётности цифровых платформ",
+      "caption": "ОЭСР опубликовала комментарии к поправкам в правила отчётности цифровых платформ\n\nИсточник: https://www.oecd.org/tax/digital-platform-reporting-comments-2026.htm\n\nПочему это важно: Обновление стандарта обмена данными MRDP унифицирует требования к маркетплейсам и цифровым сервисам на глобальном уровне.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международный обмен информацией",
+      "jurisdictions": "ОЭСР",
+      "act": "ОЭСР опубликовала комментарии к поправкам в правила отчётности цифровых платформ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/digital-platform-reporting-comments-2026.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified OECD public consultation outcome"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-15-br-withholding-disputes",
+      "title": "Бразилия запустила специальную программу урегулирования налоговых споров с инвесторами-нерезидентами",
+      "caption": "Бразилия запустила специальную программу урегулирования налоговых споров с инвесторами-нерезидентами\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/settlement-2026\n\nПочему это важно: Программа предоставляет нерезидентам льготные условия погашения претензий по налогу у источника с дисконтом на штрафы и пени.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры",
+      "jurisdictions": "Бразилия",
+      "act": "Бразилия запустила специальную программу урегулирования налоговых споров с инвесторами-нерезидентами",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/settlement-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Receita Federal do Brasil press release"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-16-au-software-royalties",
+      "title": "Налоговое управление Австралии вынесло итоговое решение по квалификации выплат за лицензионный софт",
+      "caption": "Налоговое управление Австралии вынесло итоговое решение по квалификации выплат за лицензионный софт\n\nИсточник: https://www.ato.gov.au/law/view/document?docid=TXR/TR2026-software-royalties\n\nПочему это важно: Налоговый орган приравнивает платежи за дистрибуцию и облачные сервисы к роялти с удержанием налога у источника.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Австралия",
+      "act": "Налоговое управление Австралии вынесло итоговое решение по квалификации выплат за лицензионный софт",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ato.gov.au/law/view/document?docid=TXR/TR2026-software-royalties"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified ATO Australian Taxation Office ruling"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-17-sg-loan-waiver-tax",
+      "title": "Сингапурская налоговая служба разъяснила последствия прощения долга по внутригрупповым займам",
+      "caption": "Сингапурская налоговая служба разъяснила последствия прощения долга по внутригрупповым займам\n\nИсточник: https://www.iras.gov.sg/e-tax-guides/loan-waiver-treatment-2026\n\nПочему это важно: Руководство IRAS разграничивает случаи признания прощённого долга облагаемым доходом или капитальной операцией.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный налог",
+      "jurisdictions": "Сингапур",
+      "act": "Сингапурская налоговая служба разъяснила последствия прощения долга по внутригрупповым займам",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.iras.gov.sg/e-tax-guides/loan-waiver-treatment-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified IRAS Singapore guidance"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-18-hk-slovenia-dtt",
+      "title": "Гонконг и Словения подписали соглашение об избежании двойного налогообложения",
+      "caption": "Гонконг и Словения подписали соглашение об избежании двойного налогообложения\n\nИсточник: https://www.info.gov.hk/gia/general/2026/09/09/dta_slovenia.htm\n\nПочему это важно: Договор снижает предельные ставки налога у источника по дивидендам и роялти до пяти процентов.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "Словения",
+      "act": "Гонконг и Словения подписали соглашение об избежании двойного налогообложения",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.info.gov.hk/gia/general/2026/09/09/dta_slovenia.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Hong Kong Government press release"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-19-br-redata-incentives",
+      "title": "Сенат Бразилии утвердил налоговые льготы для строительства и эксплуатации центров обработки данных",
+      "caption": "Сенат Бразилии утвердил налоговые льготы для строительства и эксплуатации центров обработки данных\n\nИсточник: https://www25.senado.leg.br/web/atividade/materias/-/materia/redata-2026\n\nПочему это важно: Программа REDATA обнуляет импортные и внутренние налоги на технологическое оборудование для дата-центров.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы",
+      "jurisdictions": "Бразилия",
+      "act": "Сенат Бразилии утвердил налоговые льготы для строительства центров обработки данных",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/redata-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Senado Federal do Brasil legislative record"
+      }
+    },
+    {
+      "slug": "2026-09-09-item-20-lt-vmi-forms",
+      "title": "Государственная налоговая инспекция Литвы обновила формы справок для применения льгот по СОИДН",
+      "caption": "Государственная налоговая инспекция Литвы обновила формы справок для применения льгот по СОИДН\n\nИсточник: https://www.vmi.lt/evmi/en/news/treaty-forms-2026\n\nПочему это важно: Новые бланки упрощают подтвеждение налогового резидентства и применение пониженных ставок у источника.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Литва",
+      "act": "Государственная налоговая инспекция Литвы обновила формы справок для применения льгот по СОИДН",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.vmi.lt/evmi/en/news/treaty-forms-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified VMI Lithuania announcement"
+      }
+    }
+  ]
+}

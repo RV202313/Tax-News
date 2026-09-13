@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-18",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 313,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/besluit-zuivere-splitsing-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Besluit zuivere splitsing 2026",
+      "summary": "Het Besluit zuivere splitsing 2026 is in de Staatscourant gepubliceerd. Dit besluit bevat het beleid voor de zuivere splitsing in de vennootschapsbelasting en vervangt het besluit van 12 augustus 2022, nr. 2022-188573 (Stcrt 2022, 22292). Wijzigingen Dit besluit treedt in werking met ingang van 19 augustus 2026. Bron: Besluit van 6 augustus 2026 nr. 2026-262957, Ministerie van Financien, ... lees verder",
+      "published_at": "2026-08-18",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

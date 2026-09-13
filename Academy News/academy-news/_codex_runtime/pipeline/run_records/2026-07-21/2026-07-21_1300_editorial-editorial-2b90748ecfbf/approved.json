@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-21",
+  "release": "2026-07-21_1300_editorial",
+  "items": [
+    {
+      "slug": "2026-07-21-br-cnpj-trade-outage",
+      "title": "Бразилия на два дня остановит системы внешней торговли ради перехода на буквенно-цифровой CNPJ",
+      "caption": "Бразильский портал единого окна внешней торговли сообщил 20 июля 2026 года, что из-за перехода Бразилии на буквенно-цифровой CNPJ системы внешней торговли, использующие этот идентификатор, будут недоступны с 07:00 25 июля до 07:00 27 июля 2026 года. В сообщении отдельно сказано, что обновление затронет и сам единый внешнеторговый портал страны.\n\nПочему это важно: импортёрам, экспортёрам и таможенным представителям нужно заранее перенести подачу деклараций, лицензий и иных операций, чтобы не попасть в окно полной недоступности систем.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-020\n\n#Бразилия #CNPJ #внешняяторговля #таможня #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внешняя торговля,CNPJ,таможня,цифровые сервисы",
+      "jurisdictions": "Бразилия",
+      "act": "Exportação n° 020/2026, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex Exportação",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-020"
+        }
+      ],
+      "image_spec": {
+        "badge": "Brazil Trade ID",
+        "color_a": [16, 84, 62],
+        "color_b": [205, 176, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Siscomex Exportação n° 020/2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-aquatic-export-monitoring",
+      "title": "Бразилия вводит экологический мониторинг экспорта рыбы, моллюсков и других водных ресурсов",
+      "caption": "Бразильская система внешнеторгового оформления сообщила, что с 21 июля 2026 года экспорт товаров по ряду кодов NCM из групп 03, 0410, 050400, 05080000 и 0511 будет проходить через экологический мониторинг Ибамы по процедуре TA E0235. Контроль охватывает водные организмы, их продукты и субпродукты.\n\nПочему это важно: экспортёрам продукции рыболовства и смежных товарных групп нужно заранее проверить коды, разрешительные требования и сопроводительные документы, чтобы не получить остановку партии на этапе оформления.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-019\n\n#Бразилия #экспорт #экология #рыбнаяпродукция #таможня #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "экспорт,экология,таможенный контроль,разрешения",
+      "jurisdictions": "Бразилия",
+      "act": "Exportação n° 019/2026, published 15.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex Exportação",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/comunicados/exportacao-no-2026-019"
+        }
+      ],
+      "image_spec": {
+        "badge": "Brazil Export",
+        "color_a": [22, 82, 88],
+        "color_b": [151, 190, 94]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Siscomex Exportação n° 019/2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-mercury-lamps-import-ban",
+      "title": "Бразилия запретила импорт ряда люминесцентных ламп и другой ртутьсодержащей продукции",
+      "caption": "Бразильская система внешнеторгового оформления сообщила, что с 20 июля 2026 года Ибама заблокировал импорт перечисленных в уведомлении компактных и иных люминесцентных ламп, а также части сопоставимой продукции, подпадающей под специальные коды NCM и атрибуты товаров. Ограничение введено как запретительный административный режим по импорту.\n\nПочему это важно: импортёрам и закупочным командам нужно срочно перепроверить товарные коды, остатки контрактов и возможные замены, иначе груз может быть остановлен ещё до выпуска.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-073\n\n#Бразилия #импорт #экология #лампы #таможенныйконтроль #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "импорт,экологический контроль,товарные коды,комплаенс",
+      "jurisdictions": "Бразилия",
+      "act": "Importação nº 073/2026, published 15.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex Importação",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-073"
+        }
+      ],
+      "image_spec": {
+        "badge": "Brazil Import Ban",
+        "color_a": [39, 72, 111],
+        "color_b": [196, 125, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "restriction",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Siscomex Importação nº 073/2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-pop-import-licensing",
+      "title": "Бразилия ужесточает лицензирование импорта стойких органических загрязнителей по Стокгольмской конвенции",
+      "caption": "Бразильская система внешнеторгового оформления сообщила, что с 22 июля 2026 года по ряду кодов NCM вводятся новые требования Ибамы для импорта стойких органических загрязнителей, подпадающих под Стокгольмскую конвенцию. В едином окне появляется модель LPCO I00117 и специальный режим TA I1090 для заявлений по таким товарам.\n\nПочему это важно: импортёрам химической продукции, отходов и масел нужно до отгрузки проверить лицензирование и корректность кодов, иначе оформление может остановиться уже на входе в Бразилию.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-072\n\n#Бразилия #импорт #экология #химическаяпродукция #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "импорт,Стокгольмская конвенция,лицензирование,химическая продукция",
+      "jurisdictions": "Бразилия",
+      "act": "Importação nº 072/2026, published 16.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex Importação",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-072"
+        }
+      ],
+      "image_spec": {
+        "badge": "Brazil POP Import",
+        "color_a": [73, 68, 118],
+        "color_b": [194, 160, 78]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "compliance",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Siscomex Importação nº 072/2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-clile-apa-mining",
+      "title": "Чили продвигает APA для горнодобывающих групп в трансграничных сделках",
+      "caption": "Служба внутренних налогов Чили 20 июля 2026 года сообщила о совместной с Кочилко конференции по продвижению соглашений APA в горнодобывающей отрасли. Ведомство подчеркнуло, что APA позволяет заранее согласовать рыночные цены, показатели доходности и иные критерии для операций с иностранными связанными лицами, а в Чили уже подписано 24 таких соглашения.\n\nПочему это важно: добывающим группам и экспортёрам минерального сырья стоит оценить APA и двусторонние соглашения как способ заранее зафиксировать трансфертные параметры и снизить риск споров по ценам и роялти.\n\nИсточник: https://www.sii.cl/noticias/2026/200726noti02smn.htm\n\n#Чили #APA #трансфертноеценообразование #горнодобыча #налоговаяопределенность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "APA,трансфертное ценообразование,горнодобыча,налоговая определенность",
+      "jurisdictions": "Чили",
+      "act": "SII y Cochilco reúnen a grandes compañías mineras para promover acuerdos anticipados de precios de transferencia, published 20.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/200726noti02smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "Chile Mining APA",
+        "color_a": [128, 38, 41],
+        "color_b": [204, 162, 78]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "program",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "SII Chile APA mining news checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-clile-valuation-methodologies",
+      "title": "Чили раскрывает подходы к оценке активов для налогового контроля и трансфертного ценообразования",
+      "caption": "Служба внутренних налогов Чили 20 июля 2026 года сообщила о работе над резолюцией, которая должна сделать прозрачнее методики оценки, применяемые в налоговом контроле и режиме кооперативного соблюдения. Ведомство прямо указало, что документ опирается на международные стандарты и будет охватывать оценку компаний, материальных и нематериальных активов, а также операций между связанными сторонами.\n\nПочему это важно: группам с нематериальными активами, внутригрупповыми сделками и реорганизациями будет проще заранее понять, какие методы оценки налоговая считает приемлемыми и где ждать споров.\n\nИсточник: https://www.sii.cl/noticias/2026/200726noti01smn.htm\n\n#Чили #оценкаактивов #трансфертноеценообразование #нематериальныеактивы #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "оценка активов,трансфертное ценообразование,налоговый контроль,нематериальные активы",
+      "jurisdictions": "Чили",
+      "act": "SII avanza en resolución que transparenta metodologías de valoración de activos, published 20.07.2026",
+      "sources": [
+        {
+          "label": "SII Chile",
+          "url": "https://www.sii.cl/noticias/2026/200726noti01smn.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "Chile Valuation",
+        "color_a": [33, 67, 117],
+        "color_b": [206, 149, 74]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "SII Chile valuation methodology news checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-it-cross-border-ucits-merger",
+      "title": "Италия признала нейтральной для инвесторов трансграничную реорганизацию фондов UCITS",
+      "caption": "Агентство по доходам Италии в ответе № 149 от 20 июля 2026 года разъяснило, что слияние ирландских фондов с компартментами люксембургского фонда UCITS не создаёт немедленного налогообложения для инвесторов, являющихся налоговыми резидентами Италии. В публикации отдельно указано, что выдача паёв фонда-правопреемника не образует ни дохода от капитала, ни иного облагаемого дохода, поэтому удержание 26% не применяется.\n\nПочему это важно: управляющим компаниям и частным банкам будет проще объединять европейские фонды без мгновенного налогового удара по итальянским инвесторам.\n\nИсточник: https://www.fiscooggi.it/portale/-/fusione-di-fondi-transfrontalieri-fisco-neutrale-per-gli-investitori\n\n#Италия #UCITS #фонды #налогообложениеинвестиций #трансграничныесделки #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "инвестиционные фонды,UCITS,трансграничные сделки,налогообложение инвестиций",
+      "jurisdictions": "Италия,Ирландия,Люксембург,ЕС",
+      "act": "Risposta n. 149 del 20.07.2026",
+      "sources": [
+        {
+          "label": "Fisco Oggi / Agenzia delle Entrate",
+          "url": "https://www.fiscooggi.it/portale/-/fusione-di-fondi-transfrontalieri-fisco-neutrale-per-gli-investitori"
+        }
+      ],
+      "image_spec": {
+        "badge": "UCITS Merger",
+        "color_a": [58, 65, 137],
+        "color_b": [187, 121, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "ruling",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Italy response 149 on cross-border UCITS merger checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-it-postal-bonds-white-list",
+      "title": "Италия освободила от налога проценты по почтовым облигациям для резидентов стран белого списка",
+      "caption": "Агентство по доходам Италии в ответе № 148/2026 от 20 июля подтвердило, что при документально подтверждённом проживании держателя в стране из белого списка на протяжении всего срока владения почтовыми сберегательными облигациями заменяющий налог на проценты не применяется. Рассмотренный ведомством случай касался гражданина Италии, постоянно проживающего в Швейцарии.\n\nПочему это важно: банкам, семейным офисам и консультантам нужно перепроверить удержание налога при погашении почтовых облигаций клиентами-нерезидентами из допустимых юрисдикций.\n\nИсточник: https://www.fiscooggi.it/portale/-/buoni-postali-esenti-gli-interessi-per-i-residenti-in-stati-white-list\n\n#Италия #нерезиденты #проценты #удержаниеналога #частныйкапитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "нерезиденты,процентный доход,удержание налога,частный капитал",
+      "jurisdictions": "Италия,Швейцария",
+      "act": "Risposta n. 148/2026, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Fisco Oggi / Agenzia delle Entrate",
+          "url": "https://www.fiscooggi.it/portale/-/buoni-postali-esenti-gli-interessi-per-i-residenti-in-stati-white-list"
+        }
+      ],
+      "image_spec": {
+        "badge": "Italy Nonresident Tax",
+        "color_a": [26, 91, 79],
+        "color_b": [206, 153, 68]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "ruling",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Italy response 148 on white-list nonresident postal bonds checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-it-june-fx-rates",
+      "title": "Италия опубликовала средние курсы иностранных валют за июнь для налоговых расчётов",
+      "caption": "14 июля 2026 года на сайте налогового ведомства Италии опубликован провведименто со средними курсами иностранных валют за июнь. В публикации подчёркнуто, что значения рассчитываются Банком Италии по рыночным котировкам и используются для компонентов дохода, выраженных в иностранной валюте.\n\nПочему это важно: международным группам и консультантам нужен единый официальный ориентир для июньских налоговых пересчётов, деклараций и сверки валютных доходов и расходов.\n\nИсточник: https://www.fiscooggi.it/portale/-/cambi-delle-valute-estere-disponibili-le-medie-di-giugno\n\n#Италия #валютныекурсы #налоговыйучет #иностраннаявалюта #отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "валютные курсы,налоговый учет,иностранная валюта,отчетность",
+      "jurisdictions": "Италия",
+      "act": "Provvedimento del 14.07.2026 sulle medie dei cambi di giugno",
+      "sources": [
+        {
+          "label": "Fisco Oggi / Agenzia delle Entrate",
+          "url": "https://www.fiscooggi.it/portale/-/cambi-delle-valute-estere-disponibili-le-medie-di-giugno"
+        }
+      ],
+      "image_spec": {
+        "badge": "FX Tax Rates",
+        "color_a": [40, 67, 104],
+        "color_b": [182, 137, 60]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Italy June FX averages publication checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-it-trust-dissolution-return",
+      "title": "Италия разъяснила: возврат активов учредителю при досрочном роспуске траста не облагается налогом на дарение",
+      "caption": "Агентство по доходам Италии в ответе № 146, опубликованном 16 июля 2026 года, указало, что при досрочном прекращении траста возврат учредителю ранее внесённых активов не образует самостоятельного объекта налогообложения, если передача бенефициарам так и не состоялась. В разъяснении рассматривалась обратная передача учредителю голой собственности на доли участия.\n\nПочему это важно: владельцам семейных и холдинговых структур стоит заново оценить сценарии роспуска траста, поскольку сам возврат активов учредителю не должен автоматически вести к налогу на дарение.\n\nИсточник: https://www.fiscooggi.it/portale/-/trust-sciolto-e-rientro-dei-beni-non-c-%C3%A8-imposta-sulle-donazioni\n\n#Италия #траст #налогнадарение #структурирование #семейныйкапитал #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "траст,налог на дарение,структурирование,семейный капитал",
+      "jurisdictions": "Италия",
+      "act": "Risposta n. 146, published 16.07.2026",
+      "sources": [
+        {
+          "label": "Fisco Oggi / Agenzia delle Entrate",
+          "url": "https://www.fiscooggi.it/portale/-/trust-sciolto-e-rientro-dei-beni-non-c-%C3%A8-imposta-sulle-donazioni"
+        }
+      ],
+      "image_spec": {
+        "badge": "Trust Exit",
+        "color_a": [74, 57, 116],
+        "color_b": [176, 128, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "ruling",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 13:00 cycle",
+        "evidence": "Italy response 146 on trust dissolution checked 2026-07-21"
+      }
+    }
+  ]
+}

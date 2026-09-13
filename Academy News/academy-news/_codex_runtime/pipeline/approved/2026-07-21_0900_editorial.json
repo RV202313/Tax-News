@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-21",
+  "release": "2026-07-21_0900_editorial",
+  "items": [
+    {
+      "slug": "2026-07-21-oecd-corporate-tax-statistics",
+      "title": "OECD обновила глобальную статистику по корпоративным налогам и страновой отчётности",
+      "caption": "OECD 21 июля 2026 года выпустила новый обзор по корпоративным налогам, который объединяет данные о ставках, поступлениях и поведении международных групп. В выпуск вошли анонимизированные и агрегированные данные страновой отчётности почти по 9 400 группам, штаб-квартиры которых находятся более чем в 60 юрисдикциях, а также более детальная географическая разбивка по ряду стран.\n\nПочему это важно: налоговым директорам и консультантам будет проще сверять собственный профиль группы с глобальными трендами по BEPS, эффективным ставкам и распределению прибыли между юрисдикциями.\n\nИсточник: https://www.oecd.org/en/publications/corporate-tax-statistics-2026_73af6222-en.html\n\n#OECD #корпоративныеналоги #страноваяотчетность #BEPS #налоговаяаналитика #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративные налоги,CbCR,BEPS,налоговая аналитика",
+      "jurisdictions": "OECD,глобально",
+      "act": "Corporate Tax Statistics 2026, published 21.07.2026",
+      "sources": [
+        {
+          "label": "OECD",
+          "url": "https://www.oecd.org/en/publications/corporate-tax-statistics-2026_73af6222-en.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "OECD Tax Data",
+        "color_a": [22, 57, 107],
+        "color_b": [167, 124, 67]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "report",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "OECD Corporate Tax Statistics 2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uae-qfzp-additional-procedures",
+      "title": "ОАЭ закрепили дополнительные процедуры для QFZP при дистрибуции товаров из обозначенной зоны",
+      "caption": "Федеральная налоговая служба ОАЭ опубликовала 14 июля 2026 года решение № 6 от 2 июня 2026 года о дополнительных процедурах соблюдения режима для квалифицированных лиц свободных зон (QFZP), которые занимаются дистрибуцией товаров или материалов в пределах либо из обозначенной зоны. Документ применяется к налоговым периодам, начинающимся 1 января 2026 года и позже.\n\nПочему это важно: группам с операциями через свободные зоны нужно перепроверить документооборот, маршруты поставок и подтверждение квалифицирующего дохода, чтобы не потерять льготный корпоративный режим.\n\nИсточник: https://tax.gov.ae//Datafolder/Files/Legislation/2026/FTA%20Decision%20No.%206%20of%202026%20on%20Determining%20the%20Additional%20Procedures%20for%20the%20Compliance%20of%20QFZP%20-%20for%20publishing%20-%2007%202026.pdf\n\n#ОАЭ #QFZP #свободныезоны #корпоративныеналоги #комплаенс #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "свободные зоны,корпоративные налоги,комплаенс,дистрибуция",
+      "jurisdictions": "ОАЭ",
+      "act": "FTA Decision No. 6 of 2026 on Determining the Additional Procedures for the Compliance of QFZP, published 14.07.2026",
+      "sources": [
+        {
+          "label": "Federal Tax Authority UAE",
+          "url": "https://tax.gov.ae//Datafolder/Files/Legislation/2026/FTA%20Decision%20No.%206%20of%202026%20on%20Determining%20the%20Additional%20Procedures%20for%20the%20Compliance%20of%20QFZP%20-%20for%20publishing%20-%2007%202026.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "UAE Free Zones",
+        "color_a": [18, 79, 110],
+        "color_b": [173, 130, 62]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "decision",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "FTA Decision No. 6 of 2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uae-vat-life-insurance-fees",
+      "title": "ОАЭ выпустили директиву по НДС для комиссий и сборов в страховании жизни",
+      "caption": "Федеральная налоговая служба ОАЭ 17 июля 2026 года опубликовала Директиву по налоговым операциям № 4/2026 по НДС в отношении комиссий и сборов, которые образуют часть договора страхования жизни и договора перестрахования жизни. Документ формализует подход регулятора именно к структуре платежей внутри таких договоров.\n\nПочему это важно: страховщикам, перестраховщикам и финансовым группам с трансграничными продуктами придётся отдельно перепроверить состав облагаемых и необлагаемых элементов в полисах, счетах и расчётах с клиентами.\n\nИсточник: https://tax.gov.ae//Datafolder/Files/Legislation/2026/2026-04%20-%20VAT%20-%20Life%20Insurance%20-%2007%202026.pdf\n\n#ОАЭ #НДС #страхованиежизни #перестрахование #финансовыйсектор #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,страхование жизни,перестрахование,финансовый сектор",
+      "jurisdictions": "ОАЭ",
+      "act": "Directive on Tax Transactions No. 4 of 2026 for Value Added Tax on Fees and Charges forming part of the Life Insurance Contract and life reinsurance contract, published 17.07.2026",
+      "sources": [
+        {
+          "label": "Federal Tax Authority UAE",
+          "url": "https://tax.gov.ae//Datafolder/Files/Legislation/2026/2026-04%20-%20VAT%20-%20Life%20Insurance%20-%2007%202026.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "UAE VAT Life",
+        "color_a": [25, 72, 122],
+        "color_b": [162, 101, 65]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "vat_directive",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "UAE VAT Directive No. 4 of 2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uae-vat-digital-currency-conversion",
+      "title": "ОАЭ выпустили директиву по пересчёту цифровых валют в дирхамы для целей НДС",
+      "caption": "Федеральная налоговая служба ОАЭ 17 июля 2026 года опубликовала Директиву по налоговым операциям № 3/2026 по НДС о том, как переводить стоимость цифровых валют в дирхамы ОАЭ. Документ посвящён именно методу пересчёта встречного предоставления, полученного в цифровой валюте, в национальную валюту для налоговых целей.\n\nПочему это важно: компаниям, принимающим оплату в цифровых активах, нужно синхронизировать налоговый учёт, выставление счетов и подтверждение курса пересчёта, чтобы снизить риск спора по налоговой базе.\n\nИсточник: https://tax.gov.ae//Datafolder/Files/Legislation/2026/2026-03%20-%20VAT%20-%20Method%20of%20Converting%20Consideration%20Received%20in%20Digital%20Currency%20into%20AED%20-%2007%202026.pdf\n\n#ОАЭ #НДС #цифровыевалюты #криптоактивы #налоговыйучет #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС,цифровые валюты,криптоактивы,налоговый учет",
+      "jurisdictions": "ОАЭ",
+      "act": "Directive on Tax Transactions No. 3 of 2026 for Value Added Tax on the Method of Converting the Value of Digital Currencies into UAE Dirham, published 17.07.2026",
+      "sources": [
+        {
+          "label": "Federal Tax Authority UAE",
+          "url": "https://tax.gov.ae//Datafolder/Files/Legislation/2026/2026-03%20-%20VAT%20-%20Method%20of%20Converting%20Consideration%20Received%20in%20Digital%20Currency%20into%20AED%20-%2007%202026.pdf"
+        }
+      ],
+      "image_spec": {
+        "badge": "UAE Digital VAT",
+        "color_a": [20, 82, 108],
+        "color_b": [135, 139, 70]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "vat_directive",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "UAE VAT Directive No. 3 of 2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uk-em-distance-imported-goods",
+      "title": "Великобритания опубликовала меморандум по временному сбору на дистанционные продажи импортных товаров",
+      "caption": "Казначейство Великобритании 20 июля 2026 года выпустило пояснительный меморандум к делегированному акту ЕС по временной таможенной пошлине 3 евро для дистанционных продаж импортных товаров в отправлениях с внутренней стоимостью до 150 евро. В документе отдельно указано, что речь идёт о новых определениях, декларациях и элементах данных для такого режима.\n\nПочему это важно: продавцам и посредникам, которые оформляют поток малостоимостных отправлений в ЕС, нужно заранее перепроверить таможенные данные, схему декларирования и настройку ИТ-контуров под новый сбор.\n\nИсточник: https://www.gov.uk/government/publications/em-on-customs-duty-on-distance-imported-goods-sales-c20262760\n\n#Великобритания #таможня #электроннаяторговля #импорт #декларирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,электронная торговля,импорт,декларирование",
+      "jurisdictions": "Великобритания,ЕС",
+      "act": "EM on customs duty on distance imported goods sales (C(2026)2760), published 20.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HM Treasury",
+          "url": "https://www.gov.uk/government/publications/em-on-customs-duty-on-distance-imported-goods-sales-c20262760"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Customs Data",
+        "color_a": [20, 63, 119],
+        "color_b": [171, 111, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "policy_paper",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "UK EM on distance imported goods checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-eu-customs-controls-report",
+      "title": "Еврокомиссия предупредила о просадке таможенного контроля из-за роста онлайн-импорта",
+      "caption": "Еврокомиссия 20 июля 2026 года опубликовала отчёт по контролю соответствия товаров на внешних границах ЕС. В нём говорится, что в 2025 году в свободное обращение было выпущено около 6 млрд единиц товара, более 97% всех отправлений пришлись на посылки электронной торговли, а свыше 60% проверенных игрушек, мелкой электроники, косметики, средств защиты и пищевых добавок, купленных онлайн вне ЕС, не соответствовали требованиям безопасности и комплаенса.\n\nПочему это важно: импортёрам и маркетплейсам стоит ожидать усиления риск-аналитики, более точечных проверок и роста требований к доказательствам соответствия товара ещё до выпуска в обращение.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/report-highlights-need-stronger-customs-controls-and-cooperation-protect-eu-citizens-and-businesses-2026-07-20_en\n\n#ЕС #таможня #электроннаяторговля #комплаенс #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,электронная торговля,комплаенс,импорт",
+      "jurisdictions": "ЕС",
+      "act": "Report highlights need for stronger customs controls and cooperation to protect EU citizens and businesses, published 20.07.2026",
+      "sources": [
+        {
+          "label": "European Commission DG TAXUD",
+          "url": "https://taxation-customs.ec.europa.eu/news/report-highlights-need-stronger-customs-controls-and-cooperation-protect-eu-citizens-and-businesses-2026-07-20_en"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU Border Checks",
+        "color_a": [15, 66, 125],
+        "color_b": [140, 133, 63]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "customs_report",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "EU customs controls report checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-eu-low-value-import-guidance-update",
+      "title": "ЕС обновил разъяснения по временному сбору 3 евро для низкостоимостного импорта",
+      "caption": "Еврокомиссия обновила 20 июля 2026 года разъяснения и правовые материалы по временному сбору 3 евро на каждую единицу товара в отправлениях стоимостью до 150 евро при дистанционной продаже из-за пределов ЕС. В обновлённой справке подтверждено, что сбор действует до 1 июля 2028 года, а идентификаторы товаров станут обязательными с 1 ноября 2026 года, хотя их можно передавать добровольно уже с 1 июля 2026 года.\n\nПочему это важно: продавцам, маркетплейсам и таможенным представителям нужно заранее адаптировать мастер-данные по товарам и формат передачи сведений, иначе вырастет риск задержек и ошибок при выпуске.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en\n\n#ЕС #таможня #электроннаяторговля #импорт #маркетплейсы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,электронная торговля,импорт,маркетплейсы",
+      "jurisdictions": "ЕС",
+      "act": "Guidance and legal text on temporary flat fee on low-value imports, last updated 20.07.2026",
+      "sources": [
+        {
+          "label": "European Commission DG TAXUD",
+          "url": "https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en"
+        }
+      ],
+      "image_spec": {
+        "badge": "EU Low Value",
+        "color_a": [22, 71, 115],
+        "color_b": [173, 123, 61]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "EU low-value import guidance update checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-cnpj-trade-systems-outage",
+      "title": "Бразилия остановит внешнеторговые системы на два дня ради перехода на буквенно-цифровой CNPJ",
+      "caption": "Бразильский портал внешней торговли 20 июля 2026 года предупредил, что из-за перехода на буквенно-цифровой CNPJ системы, использующие этот идентификатор, включая единое окно внешней торговли страны, будут недоступны с 7:00 25 июля до 7:00 27 июля. В уведомлении отдельно сказано, что 26 июля будет проводиться обновление всех контуров, использующих CNPJ, и часть систем может восстановиться ещё в воскресенье.\n\nПочему это важно: импортёрам, экспортёрам и брокерам в Бразилии нужно заранее перестроить подачу деклараций, выпуск документов и окна отгрузок, чтобы не упереться в двухдневный цифровой простой.\n\nИсточник: https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-076\n\n#Бразилия #таможня #CNPJ #импорт #экспорт #цифровыесервисы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможня,CNPJ,импорт,экспорт,цифровые сервисы",
+      "jurisdictions": "Бразилия",
+      "act": "Importação nº 076/2026, published 20.07.2026",
+      "sources": [
+        {
+          "label": "Siscomex",
+          "url": "https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-importacao/Comunicados/importacao-no-2026-076"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR Trade Systems",
+        "color_a": [24, 85, 100],
+        "color_b": [181, 128, 58]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "system_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "Brazil Importacao 076/2026 checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-br-tax-settlement-edicts",
+      "title": "Бразилия открыла две новые программы налогового урегулирования для споров в административной стадии",
+      "caption": "Налоговая служба Бразилии 15 июля 2026 года сообщила о публикации двух новых эдиталов Transação Tributária 2026 для долгов в административном налоговом споре. Эдитал № 9 охватывает дела до 50 млн реалов по каждому спору и допускает длительную рассрочку, скидки по процентам, штрафам и сборам, а также использование налоговых убытков и отрицательной базы CSLL в предусмотренных случаях. Для части категорий скидка может доходить до 65%, а для отдельных льготных категорий — до 70%.\n\nПочему это важно: бразильским группам и инвесторам стоит быстро пересчитать экономику споров и резервов, поскольку окно для подачи заявок открыто до 30 октября 2026 года.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/transacao-tributaria-2026-receita-federal-publica-dois-novos-editais-de-negociacao-de-debitos-em-contencioso-administrativo\n\n#Бразилия #налоговыеспоры #комплаенс #CSLL #налоговоерегулирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые споры,комплаенс,CSLL,налоговое регулирование",
+      "jurisdictions": "Бразилия",
+      "act": "Transação Tributária 2026: Editais nº 9 e nº 10, published 15.07.2026",
+      "sources": [
+        {
+          "label": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/julho/transacao-tributaria-2026-receita-federal-publica-dois-novos-editais-de-negociacao-de-debitos-em-contencioso-administrativo"
+        }
+      ],
+      "image_spec": {
+        "badge": "BR Tax Deals",
+        "color_a": [22, 78, 109],
+        "color_b": [154, 129, 69]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "settlement_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "Receita Federal Transacao Tributaria 2026 notice checked 2026-07-21"
+      }
+    },
+    {
+      "slug": "2026-07-21-uk-novalpina-liquidations-guidance",
+      "title": "HMRC выпустила руководство для добровольной ликвидации компаний после решения по делу NOVALPINA",
+      "caption": "HMRC 20 июля 2026 года выпустила бюллетень 2/2026 для специалистов по банкротству и ликвидации о новом руководстве по взаимодействию с налоговой службой при добровольной ликвидации компаний по решению участников. В документе отдельно сказано, что он отражает подход HMRC после судебного решения по делу NOVALPINA и указывает, какой раздел справочника для практиков нужно применять.\n\nПочему это важно: международным группам, которые закрывают британские структуры или перераспределяют активы через ликвидацию, стоит заново проверить порядок расчётов с HMRC, очередность действий и налоговые риски для участников.\n\nИсточник: https://www.gov.uk/government/publications/insolvency-practitioner-bulletin-2-2026-novalpina-judgment-hmrc-guidance-for-insolvency-practitioners\n\n#Великобритания #HMRC #ликвидация #налоговыериски #корпоративныеструктуры #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "ликвидация,налоговые риски,корпоративные структуры,комплаенс",
+      "jurisdictions": "Великобритания",
+      "act": "Insolvency practitioner bulletin 2 (2026): Novalpina judgment, published 20.07.2026",
+      "sources": [
+        {
+          "label": "GOV.UK / HMRC",
+          "url": "https://www.gov.uk/government/publications/insolvency-practitioner-bulletin-2-2026-novalpina-judgment-hmrc-guidance-for-insolvency-practitioners"
+        }
+      ],
+      "image_spec": {
+        "badge": "UK Liquidation",
+        "color_a": [24, 64, 122],
+        "color_b": [161, 108, 69]
+      },
+      "channels": ["telegram_channel"],
+      "item_type": "guidance_update",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex 09:00 cycle",
+        "evidence": "HMRC Novalpina bulletin checked 2026-07-21"
+      }
+    }
+  ]
+}

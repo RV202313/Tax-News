@@ -1,0 +1,75 @@
+{
+  "schema_version": 3,
+  "run_id": "2026-07-29-1200-editorial-editorial-6a29d7486710",
+  "release": "2026-07-29-1200-editorial",
+  "date": "2026-07-29",
+  "scope": "editorial",
+  "capture_kind": "execution",
+  "captured_at": "2026-07-29T08:05:30.395645+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "6a29d74867101fb39defa4c7f4109019681476f4a31e8c26063335414b6836b8",
+  "release_source_of_truth": "approved.json",
+  "daily_build_context_authoritative": false,
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 4,
+    "missing_post_ids": [
+      "405",
+      "406",
+      "407",
+      "408",
+      "410",
+      "411"
+    ]
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "role": "authoritative",
+      "path": "approved.json",
+      "bytes": 15312,
+      "sha256": "6a29d74867101fb39defa4c7f4109019681476f4a31e8c26063335414b6836b8"
+    },
+    "shortlist": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-29_shortlist.json",
+      "bytes": 2561,
+      "sha256": "811586ef8fcac3a3a420efd0e1ecc0764a1362919e63d33f4acf61c8879e5980",
+      "release_lineage": "not_asserted"
+    },
+    "digest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "2026-07-29_digest.md",
+      "bytes": 2620,
+      "sha256": "fde80bd49b463b0e0542bb0dbbb2f5dd322d907b1c0d614213e6802d96d3ff0d",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest": {
+      "state": "copied",
+      "role": "context_only",
+      "path": "collection_manifest.json",
+      "bytes": 7059,
+      "sha256": "af064ff26270da1597f842eb0d573ce598dd41726de7fb1de6b779b4721fa66d",
+      "release_lineage": "not_asserted"
+    },
+    "collection_manifest_court": {
+      "state": "missing",
+      "role": "context_only"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 2830,
+      "sha256": "ea70a3ce33539d7cb03223a1966fec2842939a3549f9e365126bada9880ddcb3",
+      "records": 10
+    }
+  }
+}

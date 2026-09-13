@@ -1,0 +1,335 @@
+[2026-09-08 16:11:23] === Autonomous 3x Daily Auto-Publisher Started ===
+[2026-09-08 16:11:23] Step 1: Fetching Telegram editorial chat instructions...
+[2026-09-08 16:11:26] Telegram comments fetch output: [comments] Новых комментариев не найдено.
+[2026-09-08 16:11:27] Step 2: Found 13070 unpublished candidates in inbox.
+[2026-09-08 16:11:27] Candidates pool: RU=505, KZ=0, Other=12565
+[2026-09-08 16:11:27] Step 3: Final selection count: 10 items.
+[2026-09-08 16:11:27] Step 4: Created approved release JSON: C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\approved\2026-09-08_1600_editorial.json
+[2026-09-08 16:11:27] Step 5: Executing publish_batch.py --execute-editorial to send posts to Telegram...
+[2026-09-08 16:11:28] Publish result stdout: 
+[2026-09-08 16:11:28] Publish result stderr: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: Taiwan, warns, securities, unlisted, shares
+- items[3]: caption содержит непереведённые английские слова: Taiwan, warns, securities, unlisted, shares
+- items[4]: title содержит непереведённые английские слова: Russia, proposes, changes
+- items[4]: caption содержит непереведённые английские слова: Russia, proposes, changes
+- items[5]: title содержит непереведённые английские слова: Peru, urged, expenditures, improve, compliance
+- items[5]: caption содержит непереведённые английские слова: Peru, urged, expenditures, improve, compliance
+- items[6]: title содержит непереведённые английские слова: Taiwan, expands, payment, channels, provisional, corporate, income
+- items[6]: caption содержит непереведённые английские слова: Taiwan, expands, payment, channels, provisional, corporate, income
+- items[7]: title содержит непереведённые английские слова: Bolivia, consults, revised, billing, system, specifications
+- items[7]: caption содержит непереведённые английские слова: Bolivia, consults, revised, billing, system, specifications
+- items[8]: title содержит непереведённые английские слова: Kenya, launches, amnesty, programme, through
+- items[8]: caption содержит непереведённые английские слова: Kenya, launches, amnesty, programme, through
+- items[9]: title содержит непереведённые английские слова: extends, pied, terre, exemption, deadline, October
+- items[9]: caption содержит непереведённые английские слова: extends, pied, terre, exemption, deadline, October
+- items[10]: title содержит непереведённые английские слова: Belgium, Court, Cassation, rules, subscription, applies, Luxembourg, funds
+- items[10]: caption содержит непереведённые английские слова: Belgium, Court, Cassation, rules, subscription, applies, Luxembourg, funds
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: Taiwan, warns, securities, unlisted, shares
+- items[3]: caption содержит непереведённые английские слова: Taiwan, warns, securities, unlisted, shares
+- items[4]: title содержит непереведённые английские слова: Russia, proposes, changes
+- items[4]: caption содержит непереведённые английские слова: Russia, proposes, changes
+- items[5]: title содержит непереведённые английские слова: Peru, urged, expenditures, improve, compliance
+- items[5]: caption содержит непереведённые английские слова: Peru, urged, expenditures, improve, compliance
+- items[6]: title содержит непереведённые английские слова: Taiwan, expands, payment, channels, provisional, corporate, income
+- items[6]: caption содержит непереведённые английские слова: Taiwan, expands, payment, channels, provisional, corporate, income
+- items[7]: title содержит непереведённые английские слова: Bolivia, consults, revised, billing, system, specifications
+- items[7]: caption содержит непереведённые английские слова: Bolivia, consults, revised, billing, system, specifications
+- items[8]: title содержит непереведённые английские слова: Kenya, launches, amnesty, programme, through
+- items[8]: caption содержит непереведённые английские слова: Kenya, launches, amnesty, programme, through
+- items[9]: title содержит непереведённые английские слова: extends, pied, terre, exemption, deadline, October
+- items[9]: caption содержит непереведённые английские слова: extends, pied, terre, exemption, deadline, October
+- items[10]: title содержит непереведённые английские слова: Belgium, Court, Cassation, rules, subscription, applies, Luxembourg, funds
+- items[10]: caption содержит непереведённые английские слова: Belgium, Court, Cassation, rules, subscription, applies, Luxembourg, funds
+[2026-09-08 16:11:28] === Autonomous Auto-Publisher Completed Successfully ===
+[2026-09-08 16:11:42] === Autonomous 3x Daily Auto-Publisher Started ===
+[2026-09-08 16:11:42] Step 1: Fetching Telegram editorial chat instructions...
+[2026-09-08 16:11:44] Telegram comments fetch output: [comments] Новых комментариев не найдено.
+[2026-09-08 16:11:45] Step 2: Found 13070 unpublished candidates in inbox.
+[2026-09-08 16:11:45] Candidates pool: RU=505, KZ=0, Other=12565
+[2026-09-08 16:11:45] Step 3: Final selection count: 10 items.
+[2026-09-08 16:11:45] Step 4: Created approved release JSON: C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\approved\2026-09-08_1600_editorial.json
+[2026-09-08 16:11:45] Step 5: Executing publish_batch.py --execute-editorial to send posts to Telegram...
+[2026-09-08 16:11:55] Publish result stdout: [publish] editorial: 10 новых
+[publish] run_record: C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\run_records\2026-09-08\2026-09-08_1600_editorial-editorial-9bda55eee8be\run_record.json
+[2026-09-08 16:11:55] === Autonomous Auto-Publisher Completed Successfully ===
+[2026-09-08 17:00:03] === Autonomous 3x Daily Auto-Publisher Started ===
+[2026-09-08 17:00:03] Step 1: Fetching Telegram editorial chat instructions...
+[2026-09-08 17:00:06] Telegram comments fetch output: [comments] Новых комментариев не найдено.
+[2026-09-08 17:00:07] Step 2: Found 13059 unpublished candidates in inbox.
+[2026-09-08 17:00:07] Candidates pool: RU=502, KZ=0, Other=12557
+[2026-09-08 17:00:07] Step 3: Final selection count: 10 items.
+[2026-09-08 17:00:07] Step 4: Created approved release JSON: C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\pipeline\approved\2026-09-08_1700_editorial.json
+[2026-09-08 17:00:07] Step 5: Executing publish_batch.py --execute-editorial to send posts to Telegram...
+[2026-09-08 17:00:09] Publish result stdout: 
+[2026-09-08 17:00:09] Publish result stderr: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: Italy, temporary, diesel, excise, duty, reduction, September
+- items[3]: caption содержит непереведённые английские слова: Italy, temporary, diesel, excise, duty, reduction, September
+- items[4]: title содержит непереведённые английские слова: Commission, sets, documentation, steel, import, traceability
+- items[4]: caption содержит непереведённые английские слова: Commission, sets, documentation, steel, import, traceability
+- items[5]: title содержит непереведённые английские слова: Guatemala, zero, rate, residential, properties, capital, gains
+- items[5]: caption содержит непереведённые английские слова: Guatemala, zero, rate, residential, properties, capital, gains
+- items[6]: title содержит непереведённые английские слова: Australia, minimum, discretionary, trusts, curb, income, splitting
+- items[6]: caption содержит непереведённые английские слова: Australia, minimum, discretionary, trusts, curb, income, splitting
+- items[7]: title содержит непереведённые английские слова: requires, maintain, stock, records, eTIMS
+- items[7]: caption содержит непереведённые английские слова: requires, maintain, stock, records, eTIMS
+- items[8]: title содержит непереведённые английские слова: compulsory, foreign, permanent, establishment, from
+- items[8]: caption содержит непереведённые английские слова: compulsory, foreign, permanent, establishment, from
+- items[9]: title содержит непереведённые английские слова: Iceland, budget, financial, institution, hike, measures
+- items[9]: caption содержит непереведённые английские слова: Iceland, budget, financial, institution, hike, measures
+- items[10]: title содержит непереведённые английские слова: Canada, enacts, retaliatory, tariffs, imports, trade, negotiations, collapse
+- items[10]: caption содержит непереведённые английские слова: Canada, enacts, retaliatory, tariffs, imports, trade, negotiations, collapse
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: Italy, temporary, diesel, excise, duty, reduction, September
+- items[3]: caption содержит непереведённые английские слова: Italy, temporary, diesel, excise, duty, reduction, September
+- items[4]: title содержит непереведённые английские слова: Commission, sets, documentation, steel, import, traceability
+- items[4]: caption содержит непереведённые английские слова: Commission, sets, documentation, steel, import, traceability
+- items[5]: title содержит непереведённые английские слова: Guatemala, zero, rate, residential, properties, capital, gains
+- items[5]: caption содержит непереведённые английские слова: Guatemala, zero, rate, residential, properties, capital, gains
+- items[6]: title содержит непереведённые английские слова: Australia, minimum, discretionary, trusts, curb, income, splitting
+- items[6]: caption содержит непереведённые английские слова: Australia, minimum, discretionary, trusts, curb, income, splitting
+- items[7]: title содержит непереведённые английские слова: requires, maintain, stock, records, eTIMS
+- items[7]: caption содержит непереведённые английские слова: requires, maintain, stock, records, eTIMS
+- items[8]: title содержит непереведённые английские слова: compulsory, foreign, permanent, establishment, from
+- items[8]: caption содержит непереведённые английские слова: compulsory, foreign, permanent, establishment, from
+- items[9]: title содержит непереведённые английские слова: Iceland, budget, financial, institution, hike, measures
+- items[9]: caption содержит непереведённые английские слова: Iceland, budget, financial, institution, hike, measures
+- items[10]: title содержит непереведённые английские слова: Canada, enacts, retaliatory, tariffs, imports, trade, negotiations, collapse
+- items[10]: caption содержит непереведённые английские слова: Canada, enacts, retaliatory, tariffs, imports, trade, negotiations, collapse
+[2026-09-08 17:00:09] === Autonomous Auto-Publisher Completed Successfully ===
+[2026-09-08 22:09:51] FAILED 2026-09-08_2200_editorial: К началу доставки Antigravity не подготовил approved-пакет текущего слота
+[2026-09-08 22:09:51] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 141, in main
+    raise RuntimeError("К началу доставки Antigravity не подготовил approved-пакет текущего слота")
+RuntimeError: К началу доставки Antigravity не подготовил approved-пакет текущего слота
+[2026-09-09 08:40:21] SUCCESS 2026-09-09_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-09 09:00:07] FAILED 2026-09-09_0900_editorial: Telegram-доставка завершилась ошибкой: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 656, in main
+    run_record = write_run_record(
+        root, release, approved_path, scope=scope,
+        expected_approved_sha256=approved_sha_at_start,
+    )
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 311, in write_run_record
+    raise RuntimeError(f"run_id уже занят неполным каталогом: {run_id}")
+RuntimeError: run_id уже занят неполным каталогом: 2026-09-09_0900_editorial-editorial-1891cc3cf9b0
+[publish] ошибка: run_id уже занят неполным каталогом: 2026-09-09_0900_editorial-editorial-1891cc3cf9b0
+[2026-09-09 09:00:07] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 162, in main
+    raise RuntimeError("Telegram-доставка завершилась ошибкой: " +
+                       (delivered.stderr or delivered.stdout).strip()[-1800:])
+RuntimeError: Telegram-доставка завершилась ошибкой: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 656, in main
+    run_record = write_run_record(
+        root, release, approved_path, scope=scope,
+        expected_approved_sha256=approved_sha_at_start,
+    )
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 311, in write_run_record
+    raise RuntimeError(f"run_id уже занят неполным каталогом: {run_id}")
+RuntimeError: run_id уже занят неполным каталогом: 2026-09-09_0900_editorial-editorial-1891cc3cf9b0
+[publish] ошибка: run_id уже занят неполным каталогом: 2026-09-09_0900_editorial-editorial-1891cc3cf9b0
+[2026-09-09 13:00:03] FAILED 2026-09-09_1300_editorial: К началу доставки Antigravity не подготовил approved-пакет текущего слота
+[2026-09-09 13:00:03] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 141, in main
+    raise RuntimeError("К началу доставки Antigravity не подготовил approved-пакет текущего слота")
+RuntimeError: К началу доставки Antigravity не подготовил approved-пакет текущего слота
+[2026-09-09 15:40:58] SUCCESS 2026-09-09_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-09 15:43:14] SUCCESS 2026-09-09_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-09 15:43:19] Approved-пакет 2026-09-09_1500_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-09 15:43:22] FAILED 2026-09-09_1500_editorial: Preflight не пройден: ова: Kazakhstan, consults, code, reform, package, investment, climate, administration, simplification
+- items[4]: caption содержит непереведённые английские слова: Kazakhstan, consults, code, reform, package, investment, climate, administration, simplification
+- items[5]: title содержит непереведённые английские слова: Albania, Council, Ministers, approves, protocol, treaty, with, Germany
+- items[5]: caption содержит непереведённые английские слова: Albania, Council, Ministers, approves, protocol, treaty, with, Germany
+- items[6]: title содержит непереведённые английские слова: Qatar, introduces, electronic, analysis, certificate, process, sweetened, drinks
+- items[6]: caption содержит непереведённые английские слова: Qatar, introduces, electronic, analysis, certificate, process, sweetened, drinks
+- items[7]: title содержит непереведённые английские слова: Taiwan, reminds, businesses, cross-border, e-service, duties
+- items[7]: caption содержит непереведённые английские слова: Taiwan, reminds, businesses, cross-border, e-service, duties
+- items[8]: title содержит непереведённые английские слова: Philippines, ratifies, income, treaty, with, Cambodia
+- items[8]: caption содержит непереведённые английские слова: Philippines, ratifies, income, treaty, with, Cambodia
+- items[9]: title содержит непереведённые английские слова: Netherlands, updates, decree, incorporate, rebuttal, scheme
+- items[9]: caption содержит непереведённые английские слова: Netherlands, updates, decree, incorporate, rebuttal, scheme
+- items[10]: title содержит непереведённые английские слова: Brazil, consolidates, customs, storage, rules, opens, public, input, period
+- items[10]: caption содержит непереведённые английские слова: Brazil, consolidates, customs, storage, rules, opens, public, input, period
+[2026-09-09 15:43:22] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 158, in main
+    raise RuntimeError("Preflight не пройден: " + (preflight.stderr or preflight.stdout).strip()[-1800:])
+RuntimeError: Preflight не пройден: ова: Kazakhstan, consults, code, reform, package, investment, climate, administration, simplification
+- items[4]: caption содержит непереведённые английские слова: Kazakhstan, consults, code, reform, package, investment, climate, administration, simplification
+- items[5]: title содержит непереведённые английские слова: Albania, Council, Ministers, approves, protocol, treaty, with, Germany
+- items[5]: caption содержит непереведённые английские слова: Albania, Council, Ministers, approves, protocol, treaty, with, Germany
+- items[6]: title содержит непереведённые английские слова: Qatar, introduces, electronic, analysis, certificate, process, sweetened, drinks
+- items[6]: caption содержит непереведённые английские слова: Qatar, introduces, electronic, analysis, certificate, process, sweetened, drinks
+- items[7]: title содержит непереведённые английские слова: Taiwan, reminds, businesses, cross-border, e-service, duties
+- items[7]: caption содержит непереведённые английские слова: Taiwan, reminds, businesses, cross-border, e-service, duties
+- items[8]: title содержит непереведённые английские слова: Philippines, ratifies, income, treaty, with, Cambodia
+- items[8]: caption содержит непереведённые английские слова: Philippines, ratifies, income, treaty, with, Cambodia
+- items[9]: title содержит непереведённые английские слова: Netherlands, updates, decree, incorporate, rebuttal, scheme
+- items[9]: caption содержит непереведённые английские слова: Netherlands, updates, decree, incorporate, rebuttal, scheme
+- items[10]: title содержит непереведённые английские слова: Brazil, consolidates, customs, storage, rules, opens, public, input, period
+- items[10]: caption содержит непереведённые английские слова: Brazil, consolidates, customs, storage, rules, opens, public, input, period
+[2026-09-09 17:00:15] SUCCESS 2026-09-09_1700_editorial: Telegram delivery 10/10 confirmed
+[2026-09-10 09:00:03] Approved-пакет 2026-09-10_0900_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-10 09:00:05] FAILED 2026-09-10_0900_editorial: Preflight не пройден:  английские слова: corporate, loss, carry-back
+- items[10]: title содержит непереведённые английские слова: European, reports, growth
+- items[10]: caption содержит непереведённые английские слова: European, reports, growth
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: exemptions, reduces, rates, healthcare, sector
+- items[3]: caption содержит непереведённые английские слова: exemptions, reduces, rates, healthcare, sector
+- items[4]: title содержит непереведённые английские слова: exempts, imported, goods
+- items[4]: caption содержит непереведённые английские слова: exempts, imported, goods
+- items[5]: title содержит непереведённые английские слова: Bahrain, guidance, Domestic, Minimum, Top-up, returns
+- items[5]: caption содержит непереведённые английские слова: Bahrain, guidance, Domestic, Minimum, Top-up, returns
+- items[6]: title содержит непереведённые английские слова: direct, top-up, liability, joint, ventures
+- items[6]: caption содержит непереведённые английские слова: direct, top-up, liability, joint, ventures
+- items[7]: title содержит непереведённые английские слова: ProGRESS, reform, bill, incorporating, global
+- items[7]: caption содержит непереведённые английские слова: ProGRESS, reform, bill, incorporating, global
+- items[8]: title содержит непереведённые английские слова: unveils
+- items[8]: caption содержит непереведённые английские слова: unveils
+- items[9]: title содержит непереведённые английские слова: corporate, loss, carry-back
+- items[9]: caption содержит непереведённые английские слова: corporate, loss, carry-back
+- items[10]: title содержит непереведённые английские слова: European, reports, growth
+- items[10]: caption содержит непереведённые английские слова: European, reports, growth
+[2026-09-10 09:00:05] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 158, in main
+    raise RuntimeError("Preflight не пройден: " + (preflight.stderr or preflight.stdout).strip()[-1800:])
+RuntimeError: Preflight не пройден:  английские слова: corporate, loss, carry-back
+- items[10]: title содержит непереведённые английские слова: European, reports, growth
+- items[10]: caption содержит непереведённые английские слова: European, reports, growth
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[3]: title содержит непереведённые английские слова: exemptions, reduces, rates, healthcare, sector
+- items[3]: caption содержит непереведённые английские слова: exemptions, reduces, rates, healthcare, sector
+- items[4]: title содержит непереведённые английские слова: exempts, imported, goods
+- items[4]: caption содержит непереведённые английские слова: exempts, imported, goods
+- items[5]: title содержит непереведённые английские слова: Bahrain, guidance, Domestic, Minimum, Top-up, returns
+- items[5]: caption содержит непереведённые английские слова: Bahrain, guidance, Domestic, Minimum, Top-up, returns
+- items[6]: title содержит непереведённые английские слова: direct, top-up, liability, joint, ventures
+- items[6]: caption содержит непереведённые английские слова: direct, top-up, liability, joint, ventures
+- items[7]: title содержит непереведённые английские слова: ProGRESS, reform, bill, incorporating, global
+- items[7]: caption содержит непереведённые английские слова: ProGRESS, reform, bill, incorporating, global
+- items[8]: title содержит непереведённые английские слова: unveils
+- items[8]: caption содержит непереведённые английские слова: unveils
+- items[9]: title содержит непереведённые английские слова: corporate, loss, carry-back
+- items[9]: caption содержит непереведённые английские слова: corporate, loss, carry-back
+- items[10]: title содержит непереведённые английские слова: European, reports, growth
+- items[10]: caption содержит непереведённые английские слова: European, reports, growth
+[2026-09-10 09:12:55] SUCCESS 2026-09-10_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-10 09:13:57] SUCCESS 2026-09-10_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-10 09:14:12] FAILED 2026-09-10_0900_editorial: Telegram-доставка завершилась ошибкой: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 656, in main
+    run_record = write_run_record(
+        root, release, approved_path, scope=scope,
+        expected_approved_sha256=approved_sha_at_start,
+    )
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 311, in write_run_record
+    raise RuntimeError(f"run_id уже занят неполным каталогом: {run_id}")
+RuntimeError: run_id уже занят неполным каталогом: 2026-09-10_0900_editorial-editorial-9cd1448546ed
+[publish] ошибка: run_id уже занят неполным каталогом: 2026-09-10_0900_editorial-editorial-9cd1448546ed
+[2026-09-10 09:14:12] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 165, in main
+    raise RuntimeError("Telegram-доставка завершилась ошибкой: " +
+                       (delivered.stderr or delivered.stdout).strip()[-1800:])
+RuntimeError: Telegram-доставка завершилась ошибкой: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 656, in main
+    run_record = write_run_record(
+        root, release, approved_path, scope=scope,
+        expected_approved_sha256=approved_sha_at_start,
+    )
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 311, in write_run_record
+    raise RuntimeError(f"run_id уже занят неполным каталогом: {run_id}")
+RuntimeError: run_id уже занят неполным каталогом: 2026-09-10_0900_editorial-editorial-9cd1448546ed
+[publish] ошибка: run_id уже занят неполным каталогом: 2026-09-10_0900_editorial-editorial-9cd1448546ed
+[2026-09-10 13:00:03] Approved-пакет 2026-09-10_1300_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-10 13:00:15] SUCCESS 2026-09-10_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-10 17:00:03] Approved-пакет 2026-09-10_1700_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-10 17:00:07] FAILED 2026-09-10_1700_editorial: Preflight не пройден: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[5]: неверный slug
+- items[6]: неверный slug
+- items[10]: неверный slug
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[5]: неверный slug
+- items[6]: неверный slug
+- items[10]: неверный slug
+[2026-09-10 17:00:07] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 158, in main
+    raise RuntimeError("Preflight не пройден: " + (preflight.stderr or preflight.stdout).strip()[-1800:])
+RuntimeError: Preflight не пройден: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[5]: неверный slug
+- items[6]: неверный slug
+- items[10]: неверный slug
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[5]: неверный slug
+- items[6]: неверный slug
+- items[10]: неверный slug
+[2026-09-11 09:00:16] SUCCESS 2026-09-11_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-11 13:00:04] Approved-пакет 2026-09-11_1300_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-11 13:00:07] FAILED 2026-09-11_1300_editorial: Preflight не пройден: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[9]: неверный slug
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[9]: неверный slug
+[2026-09-11 13:00:07] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 158, in main
+    raise RuntimeError("Preflight не пройден: " + (preflight.stderr or preflight.stdout).strip()[-1800:])
+RuntimeError: Preflight не пройден: Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 631, in main
+    validate_release(release, execution=execution)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\News Claude\scripts\publish_batch.py", line 191, in validate_release
+    raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+ValueError: Выпуск не прошёл валидацию:
+- items[9]: неверный slug
+[publish] ошибка: Выпуск не прошёл валидацию:
+- items[9]: неверный slug
+[2026-09-11 17:00:03] Approved-пакет 2026-09-11_1700_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-11 17:00:16] SUCCESS 2026-09-11_1700_editorial: Telegram delivery 10/10 confirmed
+[2026-09-11 22:10:06] FAILED 2026-09-11_1700_editorial: Неполная Telegram-доставка: доставлено 20/10; отсутствуют []
+[2026-09-11 22:10:06] Traceback (most recent call last):
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 167, in main
+    run_record = verify_delivery(release)
+  File "C:\Users\vakhi\Downloads\Tax News\Office Tax News\auto-publish-release.py", line 111, in verify_delivery
+    raise RuntimeError(
+    ...<2 lines>...
+    )
+RuntimeError: Неполная Telegram-доставка: доставлено 20/10; отсутствуют []
+[2026-09-11 22:10:20] SUCCESS 2026-09-11_1700_editorial: Telegram delivery 10/10 confirmed
+[2026-09-11 22:11:53] SUCCESS 2026-09-11_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-12 09:00:03] Approved-пакет 2026-09-12_0900_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-12 09:00:13] SUCCESS 2026-09-12_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-12 13:00:03] Approved-пакет 2026-09-12_1300_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-12 13:00:15] SUCCESS 2026-09-12_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-12 17:00:03] Approved-пакет 2026-09-12_1700_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-12 17:00:14] SUCCESS 2026-09-12_1700_editorial: Telegram delivery 10/10 confirmed
+[2026-09-13 09:00:02] Approved-пакет 2026-09-13_0900_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-13 09:00:14] SUCCESS 2026-09-13_0900_editorial: Telegram delivery 10/10 confirmed
+[2026-09-13 13:00:02] Approved-пакет 2026-09-13_1300_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-13 13:00:15] SUCCESS 2026-09-13_1300_editorial: Telegram delivery 10/10 confirmed
+[2026-09-13 17:00:02] Approved-пакет 2026-09-13_1700_editorial.json отсутствует. Автоматическая сборка из inbox...
+[2026-09-13 17:00:14] SUCCESS 2026-09-13_1700_editorial: Telegram delivery 10/10 confirmed

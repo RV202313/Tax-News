@@ -1,0 +1,381 @@
+{
+  "date": "2026-08-13",
+  "release": "2026-08-13_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-08-13-nl-tax-partner-exemption",
+      "title": "Суд Нидерландов отказал в предоставлении льготы партнера близкому родственнику",
+      "caption": "Апелляционный суд Нидерландов постановил, что близкие родственники по прямой восходящей или нисходящей линии не могут претендовать на партнерский налоговый вычет при расчете налога на наследство.\n\nИсточник: https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/\n\nНе является налоговой консультацией.\n\n#Нидерланды #налогНаНаследство #налоговыеЛьготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/bloedverwant-in-rechte-lijn-krijgt-geen-partnervrijstelling/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 taxence confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-nl-tax-loss-carryback-assessment",
+      "title": "Нидерланды: дополнительное начисление налога из-за ошибочного зачета убытков признано законным",
+      "caption": "Суд Нидерландов подтвердил право налоговых органов выносить дополнительное налоговое начисление в течение продленного срока, если ранее налогоплательщику был ошибочно предоставлен зачет прошлых убытков.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-wegens-ten-onrechte-verrekend-verlies-binnen-verlengde-termijn-opgelegd/\n\nНе является налоговой консультацией.\n\n#Нидерланды #зачетУбытков #налоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-wegens-ten-onrechte-verrekend-verlies-binnen-verlengde-termijn-opgelegd/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-nl-tax-business-status-risk",
+      "title": "Суд Нидерландов не признал статус предпринимателя при отсутствии коммерческого риска",
+      "caption": "Налоговые органы и суд Нидерландов отказали налогоплательщику в признании статуса индивидуального предпринимателя для целей налогообложения из-за отсутствия реального предпринимательского риска и партнерского договора.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-ondernemerschap-bij-ontbreken-ondernemersrisico-en-vennootschapsovereenkomst/\n\nНе является налоговой консультацией.\n\n#Нидерланды #предпринимательство #налоговыйСтатус #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-ondernemerschap-bij-ontbreken-ondernemersrisico-en-vennootschapsovereenkomst/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 taxlive confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-nl-tax-box3-assets-correction",
+      "title": "Нидерланды: избыточная ликвидность ИП скорректирована в качестве личных активов Бокса 3",
+      "caption": "Верховный суд Нидерландов признал законной корректировку активов предпринимателя. Избыточные денежные средства на банковских счетах индивидуального предприятия были перенесены в категорию Бокса 3.\n\nИсточник: https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/\n\nНе является налоговой консультацией.\n\n#Нидерланды #Бокс3 #налогообложениеФизлиц #ИП #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Верховного суда Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.taxence.nl/nieuws/correctie-box-3-vermogen-wegens-overtollige-liquiditeiten-in-eenmanszaak/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 taxence confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-lu-court-tp-debt-restructuring",
+      "title": "Административный суд Люксембурга вынес решение о трансфертном ценообразовании при реструктуризации долга",
+      "caption": "Суд Люксембурга разъяснил правила соответствия принципу \"вытянутой руки\" при осуществлении внутригрупповой реструктуризации долга, указав на необходимость рыночного обоснования условий списания обязательств.\n\nИсточник: https://regfollower.com/luxembourg-administrative-court-rules-on-transfer-pricing-treatment-of-debt-restructuring/\n\nНе является налоговой консультацией.\n\n#Люксембург #трансфертноеЦенообразование #реструктуризацияДолга #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Люксембург",
+      "act": "Решение Административного суда Люксембурга",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/luxembourg-administrative-court-rules-on-transfer-pricing-treatment-of-debt-restructuring/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "court_news",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      },
+      "court": true
+    },
+    {
+      "slug": "2026-08-13-lu-tax-pillar2-filing-reminder",
+      "title": "Налоговые органы Люксембурга напомнили компаниям о сроках подачи отчетности по правилам Pillar 2",
+      "caption": "Налоговое управление Люксембурга выпустило официальное напоминание о необходимости своевременного предоставления информационных деклараций по глобальному минимальному налогу для транснациональных групп.\n\nИсточник: https://regfollower.com/luxembourg-tax-authorities-remind-taxpayers-of-pillar-two-filing-obligations/\n\n#Люксембург #Pillar2 #минимальныйНалог #отчетность #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Люксембург",
+      "act": "Информационное сообщение Налогового управления Люксембурга",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/luxembourg-tax-authorities-remind-taxpayers-of-pillar-two-filing-obligations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-ru-fns-inheritance-property-taxes",
+      "title": "ФНС России разъяснила порядок уплаты имущественных налогов при наследовании недвижимости и автомобиля",
+      "caption": "Налоговая служба напомнила правила исчисления налога на имущество физических лиц и транспортного налога в случае перехода прав на объекты недвижимости и транспортные средства по наследству.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16642644/\n\n#ФНС #имущественныеНалоги #наследство #Россия #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642644/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 nalog confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-it-tax-superbonus-capital-gains",
+      "title": "Италия разъяснила правила расчета прироста капитала при продаже недвижимости после Супербонуса",
+      "caption": "Налоговое ведомство Италии опубликовало разъяснения о порядке исчисления налога на прирост капитала для совладельцев зданий, прошедших энергоэффективную реновацию по государственной программе Супербонус.\n\nИсточник: https://regfollower.com/italy-clarifies-superbonus-property-capital-gains-rules-for-co-owners/\n\n#Италия #приростКапитала #Супербонус #налоги #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физических лиц",
+      "jurisdictions": "Италия",
+      "act": "Разъяснение Налоговой службы Италии",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/italy-clarifies-superbonus-property-capital-gains-rules-for-co-owners/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 regfollower confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-tax-ruling-atr-000005",
+      "title": "Налоговая служба Нидерландов опубликовала анонимизированное соглашение ATR 000005",
+      "caption": "Опубликован текст предварительного налогового соглашения (ATR), касающегося применения освобождения от налога у источника при выплате дивидендов иностранному холдинговому обществу в рамках международных холдинговых структур.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000005\n\n#Нидерланды #налоговоеСоглашение #дивиденды #налогУисточника #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое соглашение (ATR)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000005"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 belastingdienst confirmed"
+      }
+    },
+    {
+      "slug": "2026-08-13-nl-tax-ruling-atr-000004",
+      "title": "Налоговая служба Нидерландов опубликовала анонимизированное соглашение ATR 000004",
+      "caption": "Опубликовано новое предварительное налоговое соглашение (ATR), регулирующее вопросы применения концепции бенефициарного собственника к процентным доходам, выплачиваемым за рубеж финансовыми посредниками.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000004\n\n#Нидерланды #налоговоеСоглашение #проценты #бенефициарныйСобственник #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое соглашение (ATR)",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260811-atr-000004"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "HTTP 200 belastingdienst confirmed"
+      }
+    }
+  ]
+}

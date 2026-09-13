@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-06",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 268,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/zet-europees-plan-de-nederlandse-soevereiniteit-op-belastinggebied-onder-druk/",
+      "ecli": "",
+      "act": "",
+      "title": "Zet Europees plan de Nederlandse soevereiniteit op belastinggebied onder druk?",
+      "summary": "",
+      "published_at": "2026-08-05",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 269,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/opinie/uitvergroot/het-orakel-dat-het-belastingplan-heet/",
+      "ecli": "",
+      "act": "",
+      "title": "Het orakel dat het Belastingplan heet",
+      "summary": "",
+      "published_at": "",
+      "score": 8.7,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

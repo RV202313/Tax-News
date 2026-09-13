@@ -1,0 +1,396 @@
+{
+  "date": "2026-08-17",
+  "release": "2026-08-17_1600_editorial",
+  "items": [
+    {
+      "slug": "2026-08-17-nl-pillar-two-clarification",
+      "title": "Налоговые органы Нидерландов разъяснили применение Закона о минимальном налоге Pillar Two 2024",
+      "caption": "Налоговое ведомство Нидерландов опубликовало официальные разъяснения по ключевым вопросам применения Закона о минимальном налоге Pillar Two (2024), в том числе в части квалифицированных отечественных дополнительных налогов (QDMTT) и условий безопасных гаваней.\n\nИсточник: https://regfollower.com/netherlands-tax-authorities-clarify-pillar-two-minimum-tax-act-2024/\n\n#Нидерланды #PillarTwo #МинимальныйНалог #BEPS #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснения налоговых органов Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-tax-authorities-clarify-pillar-two-minimum-tax-act-2024/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.5,
+      "published_at": "2026-08-12"
+    },
+    {
+      "slug": "2026-08-17-nl-pillar-two-dac8-dac9-penalties",
+      "title": "Нидерланды ввели прогрессивные штрафы за нарушения в рамках Pillar Two, DAC8 и DAC9",
+      "caption": "Нидерланды внесли поправки в налоговое законодательство об ответственности, чтобы обеспечить введение нового режима санкций в поддержку Pillar Two, DAC8 и DAC9. Поправки устанавливают прогрессивную систему штрафов за несоблюдение требований.\n\nИсточник: https://regfollower.com/netherlands-amends-tax-penalty-rules-to-support-pillar-two-dac8-dac9-rollout/\n\n#Нидерланды #PillarTwo #DAC8 #DAC9 #Штрафы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar Two / GloBE",
+      "jurisdictions": "Нидерланды",
+      "act": "Поправки в налоговое законодательство Нидерландов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/netherlands-amends-tax-penalty-rules-to-support-pillar-two-dac8-dac9-rollout/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.5,
+      "published_at": "2026-08-11"
+    },
+    {
+      "slug": "2026-08-17-ru-fns-dopp-errors",
+      "title": "ФНС России разъяснила основные ошибки при заполнении декларации ДОПП",
+      "caption": "Федеральная налоговая служба России выпустила методические разъяснения о наиболее типичных ошибках, допускаемых налогоплательщиками при заполнении декларации о доходах от продажи имущества (ДОПП).\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16642873/\n\n#Россия #ФНС #ДОПП #НалоговоеАдминистрирование #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16642873/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "nalog.gov.ru confirmed"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-14"
+    },
+    {
+      "slug": "2026-08-17-kz-norway-tax-treaty-protocol",
+      "title": "Казахстан: Правительство одобрило подписание протокола к соглашению об избежании двойного налогообложения с Норвегией",
+      "caption": "Правительство Республики Казахстан одобрило подписание протокола, вносящего изменения в действующее соглашение об избежании двойного налогообложения с Норвегией.\n\nИсточник: https://regfollower.com/kazakhstan-government-approves-signing-of-amending-protocol-to-tax-treaty-with-norway/\n\n#Казахстан #Норвегия #СоглашениеОбИзбежании #Протокол #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Казахстан",
+      "act": "Протокол к налоговому соглашению",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/kazakhstan-government-approves-signing-of-amending-protocol-to-tax-treaty-with-norway/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 19.0,
+      "published_at": "2026-08-04"
+    },
+    {
+      "slug": "2026-08-17-us-fincen-beneficial-ownership",
+      "title": "США: Финансовая разведка отменила требование о раскрытии бенефициаров для малых компаний",
+      "caption": "Сеть по борьбе с финансовыми преступлениями США («Финсеть») на постоянной основе отменила обязательное требование о раскрытии информации о бенефициарных владельцах для малых компаний, введённое в рамках Закона о корпоративной прозрачности.\n\nИсточник: https://regfollower.com/us-fincen-permanently-removes-beneficial-ownership-reporting-requirement-for-small-companies/\n\n#США #FinCEN #БенефициарныйВладелец #CTA #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая прозрачность / CRS / FATCA",
+      "jurisdictions": "США",
+      "act": "Решение FinCEN",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/us-fincen-permanently-removes-beneficial-ownership-reporting-requirement-for-small-companies/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-13"
+    },
+    {
+      "slug": "2026-08-17-france-sweden-treaty-protocol",
+      "title": "Вступил в силу протокол к соглашению об избежании двойного налогообложения между Францией и Швецией",
+      "caption": "Протокол к соглашению об избежании двойного налогообложения между Францией и Швецией официально вступил в силу, обновив ряд ключевых положений налогового соглашения между двумя странами.\n\nИсточник: https://regfollower.com/france-sweden-tax-treaty-protocol-enters-into-force/\n\n#Франция #Швеция #СоглашениеОбИзбежании #Протокол #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Европа",
+      "act": "Протокол к налоговому соглашению",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/france-sweden-tax-treaty-protocol-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 12.0,
+      "published_at": "2026-08-13"
+    },
+    {
+      "slug": "2026-08-17-bangladesh-estonia-tax-treaty",
+      "title": "Бангладеш и Эстония активизировали переговоры о подписании соглашения об избежании двойного налогообложения",
+      "caption": "Бангладеш и Эстония сделали очередной шаг к заключению соглашения об избежании двойного налогообложения, активизировав двусторонние переговоры о подписании договора.\n\nИсточник: https://regfollower.com/bangladesh-estonia-advance-talks-on-signing-income-tax-treaty/\n\n#Бангладеш #Эстония #СоглашениеОбИзбежании #МеждународноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Европа",
+      "act": "Переговоры о налоговом соглашении",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/bangladesh-estonia-advance-talks-on-signing-income-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-13"
+    },
+    {
+      "slug": "2026-08-17-estonia-qatar-treaty-force",
+      "title": "Вступило в силу соглашение об избежании двойного налогообложения между Эстонией и Катаром",
+      "caption": "Соглашение об избежании двойного налогообложения между Эстонией и Катаром официально вступило в силу, создав правовую основу для устранения двойного налогообложения при трансграничных операциях между двумя государствами.\n\nИсточник: https://regfollower.com/estonia-qatar-income-tax-treaty-enters-into-force/\n\n#Эстония #Катар #СоглашениеОбИзбежании #ДвойноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Европа",
+      "act": "Вступление в силу налогового соглашения",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/estonia-qatar-income-tax-treaty-enters-into-force/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-10"
+    },
+    {
+      "slug": "2026-08-17-uae-tp-downward-adjustment",
+      "title": "ОАЭ: Налоговая служба разъяснила правила корректировки цен в сторону понижения при трансфертном ценообразовании",
+      "caption": "Федеральное налоговое ведомство ОАЭ (FTA) опубликовало официальные разъяснения относительно порядка применения корректировок в сторону понижения по правилам трансфертного ценообразования в соответствии с Законом о корпоративном налоге.\n\nИсточник: https://regfollower.com/uae-fta-clarifies-downward-transfer-pricing-adjustment-rules-under-corporate-tax-law/\n\n#ОАЭ #ТрансфертноеЦенообразование #FTA #КорпоративныйНалог #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Ближний Восток",
+      "act": "Разъяснения FTA ОАЭ",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/uae-fta-clarifies-downward-transfer-pricing-adjustment-rules-under-corporate-tax-law/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 13.0,
+      "published_at": "2026-07-17"
+    },
+    {
+      "slug": "2026-08-17-croatia-tajikistan-treaty-negotiations",
+      "title": "Хорватия и Таджикистан начнут переговоры о заключении налогового соглашения",
+      "caption": "Хорватия и Таджикистан договорились о начале переговоров по заключению соглашения об избежании двойного налогообложения, что откроет новую страницу в двусторонних налоговых отношениях между двумя государствами.\n\nИсточник: https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/\n\n#Хорватия #Таджикистан #СоглашениеОбИзбежании #МеждународноеНалогообложение #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "избежание двойного налогообложения",
+      "jurisdictions": "Европа",
+      "act": "Начало переговоров о налоговом соглашении",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://regfollower.com/croatia-tajikistan-to-start-tax-treaty-negotiations/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS 16:00",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 16:00 cycle",
+        "evidence": "regfollower confirmed"
+      },
+      "score": 15.0,
+      "published_at": "2026-08-03"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2026-07-23",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 161,
+      "source": "nl_rechtspraak",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2026:108",
+      "ecli": "ECLI:NL:OGEAC:2026:108",
+      "act": "",
+      "title": "ECLI:NL:OGEAC:2026:108, Gerecht in eerste aanleg van Curaçao, 22-07-2026, CUR202504544",
+      "summary": "Invoerrechten. Verhuisboedelvrijstelling. Het Gerecht komt tot het oordeel dat sprake is van een personenvoertuig, waarop de verhuisboedelvrijstelling van toepassing is.",
+      "published_at": "2026-07-23",
+      "score": 12.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 162,
+      "source": "telegram_leads",
+      "url": "https://ru.beps.academy/w/intertaxnews",
+      "ecli": "",
+      "act": "",
+      "title": "Международные налоговые новости 24 июля 2026 года 11:00 — время Центральной Европы 12:00 — московское время 14:00 — время Астаны В новом выпуске расскажем о приостановлении нало…",
+      "summary": "Международные налоговые новости 24 июля 2026 года 11:00 — время Центральной Европы 12:00 — московское время 14:00 — время Астаны В новом выпуске расскажем о приостановлении налогового соглашения между Россией и Германией с 1 января 2027 года и разберём последствия для дивидендов, процентов, роялти и налоговых зачётов. Обсудим новые требования ОАЭ к понижающим корректировкам по трансфертному ценообразованию, позицию Нидерландов по CFC и participation exemption, а также усиление международного обмена налоговой информацией в Узбекистане. Кроме того, рассмотрим первые оценки эффективности Pillar Two, применение ИИ в налоговом контроле Германии и новые налоговые режимы Мальты и Индонезии. Кто ещё не получает наши новости, подключайтесь: https://ru.beps.academy/w/intertaxnews До встречи в прямом эфире! С Рустамом Вахитовым",
+      "published_at": "2026-07-23",
+      "score": 12.452,
+      "topics": [
+        "dta",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "uz",
+        "ae"
+      ],
+      "jurisdiction_names": [
+        "Узбекистан",
+        "ОАЭ"
+      ],
+      "lead": true,
+      "channel": "@BEPSAcademyRU",
+      "message_id": 992,
+      "engagement": 3.083,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 163,
+      "source": "telegram_leads",
+      "url": "https://beps.academy/intertaxnews",
+      "ecli": "",
+      "act": "",
+      "title": "Международные налоговые новости 24 июля 2026 года 11:00 — время Центральной Европы 12:00 — московское время 14:00 — время Астаны В новом выпуске Обсудим новые требования ОАЭ к п…",
+      "summary": "Международные налоговые новости 24 июля 2026 года 11:00 — время Центральной Европы 12:00 — московское время 14:00 — время Астаны В новом выпуске Обсудим новые требования ОАЭ к понижающим корректировкам по трансфертному ценообразованию, позицию Нидерландов по CFC и participation exemption, а также усиление международного обмена налоговой информацией в Узбекистане. Кроме того, рассмотрим первые оценки эффективности Pillar Two, применение ИИ в налоговом контроле Германии и новые налоговые режимы Мальты и Индонезии. Расскажем о приостановлении налогового соглашения между Россией и Германией с 1 января 2027 года и разберём последствия для дивидендов, процентов, роялти и налоговых зачётов. Кто ещё не получает наши новости, подключайтесь: https://beps.academy/intertaxnews До встречи в прямом эфире! С Рустамом Вахитовым",
+      "published_at": "2026-07-23",
+      "score": 12.378,
+      "topics": [
+        "dta",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "uz",
+        "ae"
+      ],
+      "jurisdiction_names": [
+        "Узбекистан",
+        "ОАЭ"
+      ],
+      "lead": true,
+      "channel": "@BEPSAcademyKZ",
+      "message_id": 768,
+      "engagement": 2.042,
+      "item_type": "telegram_lead",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 164,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/us-trump-signs-aluminium-tariff-adjustment-to-spur-smelter-investment/",
+      "ecli": "",
+      "act": "",
+      "title": "US: Trump signs aluminium tariff adjustment to spur smelter investment",
+      "summary": "US President Donald Trump has signed a new proclamation on 20 July 2026, adjusting tariffs on aluminium imports to address the gap between US demand and domestic production capacity. The administration cited aluminium as critical to the economy and defence industrial base, noting that current US smelting facilities cannot meet demand. This follows after Trump...",
+      "published_at": "2026-07-23",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [
+        "us"
+      ],
+      "jurisdiction_names": [
+        "США"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 165,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/italy-confirms-cross-border-ucits-mergers-are-tax-neutral-for-investors/",
+      "ecli": "",
+      "act": "",
+      "title": "Italy confirms cross-border UCITS mergers are tax-neutral for investors",
+      "summary": "Italian investors holding shares in collective investment funds can now participate in cross-border UCITS (undertakings for collective investment in transferable securities) mergers tax-free. The Italian Revenue Agency confirmed this position on 20 July 2026 in Response no. 149, ruling on a transaction where Irish funds were being absorbed into Luxembourg sub-funds under the same management...",
+      "published_at": "2026-07-23",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 167,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/ireland-publishes-report-on-proposed-ewht-consultation/",
+      "ecli": "",
+      "act": "",
+      "title": "Ireland publishes report on proposed eWHT consultation",
+      "summary": "The Irish Department of Finance and Revenue published the report on the public consultation on the proposed electronic withholding tax (eWHT) model on 22 July 2026. The consultation, which ran from 5 December 2025 , invited views from businesses, taxpayers, representative bodies, software providers, tax professionals and other stakeholders on proposals to modernise the operation...",
+      "published_at": "2026-07-23",
+      "score": 3.5,
+      "topics": [
+        "withholding_dividend"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "date": "2026-07-27",
+  "release": "2026-07-27-0800-editorial",
+  "items": [
+    {
+      "slug": "2026-07-27-ru-news-01",
+      "title": "Нидерланды вводят прогрессивные штрафы за нарушения в реестре трастов UBO",
+      "caption": "Министерство финансов Нидерландов опубликовало новые правила административных штрафов в отношении бенефициарных владельцев трастов и аналогичных юридических структур. Регулирование наделяет налоговые органы полномочиями налагать штрафные санкции на трасти при непредставлении точных сведений.\n\nИсточник: https://regfollower.com/netherlands-consults-bill-targeting-compliance-simplifications-adjustment-of-reorganisation-facilities-hybrid-entity-changes/\n\n#Нидерланды #трасты #UBO #комплаенс #штрафы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Netherlands sets escalating fines for trust UBO registration failures",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/netherlands-consults-bill-targeting-compliance-simplifications-adjustment-of-reorganisation-facilities-hybrid-entity-changes/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-02",
+      "title": "Румыния вынесла на обсуждение новые формы регистрации для электронных счетов",
+      "caption": "Национальное агентство налогового администрирования Румынии вынесло на публичные консультации проекты приказов по обновлению форм регистрации и отмены регистрации в национальной системе электронного выставления счетов.\n\nИсточник: https://regfollower.com/romania-consults-draft-orders-updating-e-invoicing-registration-forms/\n\n#Румыния #НДС #цифровизация #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Romania: ANAF consults new e-invoicing registration forms",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/romania-consults-draft-orders-updating-e-invoicing-registration-forms/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-03",
+      "title": "Сейм Польши принял законопроект о режиме складских помещений и ужесточении норм",
+      "caption": "Нижняя палата парламента Польши приняла законопроект с масштабными поправками в налоговое законодательство, включающий упрощения комплаенса и меры по борьбе с уклонением от уплаты налогов.\n\nИсточник: https://regfollower.com/poland-enacts-bill-introducing-warehousing-regime-tightening-anti-abuse-rules/\n\n#Польша #Сейм #комплаенс #законодательство #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Poland: Sejm introduces new VAT warehousing regime, tightens abuse rules",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/poland-enacts-bill-introducing-warehousing-regime-tightening-anti-abuse-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-04",
+      "title": "ОЭСР опубликовала результаты рецензирования льготных налоговых режимов",
+      "caption": "ОЭСР обнародовала свежие результаты оценки преференциальных налоговых режимов в рамках Действия 5 плана BEPS, утвержденные на заседании Форума по вредоносной налоговой практике.\n\nИсточник: https://regfollower.com/oecd-releases-outcomes-of-beps-action-5-peer-reviews/\n\n#ОЭСР #BEPS #льготныережимы #международноеправо #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "OECD publishes new BEPS Action 5 peer review findings",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/oecd-releases-outcomes-of-beps-action-5-peer-reviews/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-05",
+      "title": "Мексика и США ведут переговоры по торговому спору в автомобильной отрасли",
+      "caption": "Представители США и Мексики провели раунд переговоров по правилам происхождения товаров в автомобилестроении, стали и алюминии в рамках трехстороннего торгового соглашения.\n\nИсточник: https://regfollower.com/us-mexico-trade-dispute-talks-deepen/\n\n#Мексика #США #торговля #пошлины #автопром #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "US, Mexico lock in September USMCA talks as auto content dispute deepens",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/us-mexico-trade-dispute-talks-deepen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-06",
+      "title": "Бельгия переходит на двойную электронную отчетность по счетам-фактурам",
+      "caption": "Совет министров Бельгии одобрил законопроект, обязывающий компании передавать данные электронных счетов-фактур в режиме реального времени в налоговые органы.\n\nИсточник: https://regfollower.com/belgium-approves-draft-bill-on-electronic-invoicing-reporting/\n\n#Бельгия #НДС #электронныесчета #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Belgium moves to dual e-reporting of invoices starting 2028",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/belgium-approves-draft-bill-on-electronic-invoicing-reporting/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-07",
+      "title": "Канада заявила о готовности к ответным пошлинам в случае провала переговоров",
+      "caption": "Премьер-министр Канады заявил о подготовке ответных торговых мер против введения повышенных таможенных пошлин со стороны США.\n\nИсточник: https://regfollower.com/canada-threatens-retaliatory-tariffs/\n\n#Канада #США #пошлины #торговля #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Canada threatens retaliation over Trump’s 50% tariffs",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/canada-threatens-retaliatory-tariffs/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-08",
+      "title": "Венгрия сокращает корпоративные льготы для выполнения требований ЕС",
+      "caption": "Правительство Венгрии внесло в парламент законопроект о реформе корпоративных налоговых вычетов и отмене освобождений для трастов и фондов.\n\nИсточник: https://regfollower.com/hungary-submits-draft-bill-reforming-corporate-allowances/\n\n#Венгрия #ЕС #корпоративныйналог #льготы #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Hungary: NAV cuts corporate allowances and tax types to meet RRF commitments, sc",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/hungary-submits-draft-bill-reforming-corporate-allowances/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-09",
+      "title": "Чили разъяснила правила применения принципа вытянутой руки к нематериальным активам",
+      "caption": "Налоговая служба Чили выпустила официальное разъяснение по методам трансфертного ценообразования при оценке сделок с нематериальными активами.\n\nИсточник: https://regfollower.com/chile-issues-ruling-on-transfer-pricing-for-intangibles/\n\n#Чили #ТЦО #нематериальныеактивы #вытянутаярука #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "Chile: SII clarifies arm’s length pricing for intangibles",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/chile-issues-ruling-on-transfer-pricing-for-intangibles/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    },
+    {
+      "slug": "2026-07-27-ru-news-10",
+      "title": "США объявили итоговые пошлины по результатам расследований в торговле",
+      "caption": "Торговое представительство США объявило о завершении расследований и введении итоговых защитных пошлин в отношении импорта ряда категорий товаров.\n\nИсточник: https://regfollower.com/ustr-announces-final-tariffs-on-forced-labour-imports/\n\n#США #пошлины #торговля #импорт #АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное регулирование, международные налоги",
+      "jurisdictions": "Международное регулирование",
+      "act": "US: USTR announces final tariffs following Section 301 forced labour investigati",
+      "sources": [
+        {
+          "label": "Регуляторный источник",
+          "url": "https://regfollower.com/ustr-announces-final-tariffs-on-forced-labour-imports/"
+        }
+      ],
+      "image_spec": {
+        "badge": "NL TAX",
+        "color_a": [
+          30,
+          60,
+          110
+        ],
+        "color_b": [
+          230,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity 08:00 cycle",
+        "evidence": "Source verified"
+      }
+    }
+  ]
+}

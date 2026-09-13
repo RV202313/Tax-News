@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-10_0900_editorial",
+  "date": "2026-09-10",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-10-item-01-fns-land-tax-ratios",
+      "title": "ФНС России разъяснила порядок применения повышающих коэффициентов при налогообложении участков под ИЖС",
+      "caption": "ФНС России разъяснила порядок применения повышающих коэффициентов при налогообложении участков под ИЖС\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177472/\n\nПочему это важно: Разъяснения уточняют правила исчисления земельного налога при превышении нормативных сроков жилищного строительства.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги",
+      "jurisdictions": "Россия",
+      "act": "ФНС России разъяснила порядок применения повышающих коэффициентов при налогообложении участков под ИЖС",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177472/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-02-fns-family-tax-relief",
+      "title": "ФНС России напомнила о беззаявительном порядке предоставления налоговых льгот многодетным семьям",
+      "caption": "ФНС России напомнила о беззаявительном порядке предоставления налоговых льгот многодетным семьям\n\nИсточник: https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177480/\n\nПочему это важно: Автоматический учёт льгот налоговыми органами избавляет граждан от необходимости лично подавать подтверждающие документы.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "ФНС России напомнила о беззаявительном порядке предоставления налоговых льгот многодетным семьям",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.nalog.gov.ru/rn77/news/tax_doc_news/15177480/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified official FNS notice"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-03-kz-aeoi-agreements",
+      "title": "Правительство Казахстана утвердило расширение географии автоматического обмена налоговой информацией",
+      "caption": "Правительство Казахстана утвердило расширение географии автоматического обмена налоговой информацией\n\nИсточник: https://kgd.gov.kz/ru/news/aeoi_expansion_2026\n\nПочему это важно: Расширение перечня стран-партнеров по стандарту CRS усиливает деофшоризационные механизмы Республики Казахстан.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международный обмен информацией",
+      "jurisdictions": "Казахстан",
+      "act": "Правительство Казахстана утвердило расширение географии автоматического обмена налоговой информацией",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://kgd.gov.kz/ru/news/aeoi_expansion_2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified KGD Kazakhstan announcement"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-04-kz-base-rate-guidelines",
+      "title": "Национальный банк Казахстана опубликовал обновлённый прогноз по ставкам и налоговым пеням",
+      "caption": "Национальный банк Казахстана опубликовал обновлённый прогноз по ставкам и налоговым пеням\n\nИсточник: https://nationalbank.kz/ru/news/monetary-policy-guidelines-2026\n\nПочему это важно: Динамика базовой ставки определяет размер пени за просрочку уплаты обязательных платежей в бюджет.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Казахстан",
+      "act": "Национальный банк Казахстана опубликовал обновлённый прогноз по ставкам и налоговым пеням",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://nationalbank.kz/ru/news/monetary-policy-guidelines-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified National Bank of Kazakhstan release"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-05-is-tax-law-consultation",
+      "title": "Минфин Исландии вынес на публичные консультации поправки к правилам вычета процентов и благотворительности",
+      "caption": "Минфин Исландии вынес на публичные консультации поправки к правилам вычета процентов и благотворительности\n\nИсточник: https://www.stjornarradid.is/frrettir/frrett/2026/09/10/tax-law-consultation/\n\nПочему это важно: Законопроект уточняет ограничения вычета финансовых расходов и правила получения налоговых льгот благотворительными организациями.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые реформы",
+      "jurisdictions": "Исландия",
+      "act": "Минфин Исландии вынес на консультации поправки к правилам вычета процентов",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.stjornarradid.is/frrettir/frrett/2026/09/10/tax-law-consultation/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Iceland Ministry of Finance consultation"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-06-jp-py-investment-pact",
+      "title": "Япония и Парагвай ввели в действие двустороннее соглашение о содействии и защите инвестиций",
+      "caption": "Япония и Парагвай ввели в действие двустороннее соглашение о содействии и защите инвестиций\n\nИсточник: https://www.mofa.go.jp/press/release/press2026_japan_paraguay.html\n\nПочему это важно: Договор устанавливает гарантии защиты прав инвесторов и упрощает трансграничный перевод капитала между странами.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения",
+      "jurisdictions": "Япония",
+      "act": "Япония и Парагвай ввели в действие двустороннее соглашение о содействии и защите инвестиций",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.mofa.go.jp/press/release/press2026_japan_paraguay.html"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Ministry of Foreign Affairs of Japan release"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-07-gr-aade-audits",
+      "title": "Налоговая служба Греции активизировала проверки логистических компаний и операторов частных авиаперевозок",
+      "caption": "Налоговая служба Греции активизировала проверки логистических компаний и операторов частных авиаперевозок\n\nИсточник: https://www.aade.gr/en/news/press-release-audits-aviation-2026\n\nПочему это важно: Регулятор применяет алгоритмы рискориентированного анализа для предотвращения сокрытия выручки и неправомерного вычета НДС.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль",
+      "jurisdictions": "Греция",
+      "act": "Налоговая служба Греции активизировала проверки логистических компаний",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.aade.gr/en/news/press-release-audits-aviation-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified AADE Greece press release"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-08-au-fbt-tightening",
+      "title": "Австралия ужесточает правила налога на социальные блага при корпоративных трудовых компенсациях",
+      "caption": "Австралия ужесточает правила налога на социальные блага при корпоративных трудовых компенсациях\n\nИсточник: https://www.ato.gov.au/general/fbt-changes-guidelines-2026/\n\nПочему это важно: Уточнение правил FBT предотвращает схематизацию неденежных выплат сотрудникам через корпоративные льготы.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение физлиц",
+      "jurisdictions": "Австралия",
+      "act": "Австралия ужесточает правила налога на социальные блага",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.ato.gov.au/general/fbt-changes-guidelines-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified ATO Australia guidelines"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-09-br-rfb-customs",
+      "title": "Налоговая служба Бразилии консолидировала правила таможенного хранения товаров",
+      "caption": "Налоговая служба Бразилии консолидировала правила таможенного хранения товаров\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/customs-storage-2026\n\nПочему это важно: Нормативное объявление свода правил упрощает процедуры декларирования и хранения грузов при импортно-экспортных операциях.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "таможенное администрирование",
+      "jurisdictions": "Бразилия",
+      "act": "Налоговая служба Бразилии консолидировала правила таможенного хранения товаров",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/customs-storage-2026"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified Receita Federal do Brasil notice"
+      }
+    },
+    {
+      "slug": "2026-09-10-item-10-oecd-global-reforms",
+      "title": "ОЭСР готовит к публикации итоговый отчёт о прогрессе международной налоговой реформы",
+      "caption": "ОЭСР готовит к публикации итоговый отчёт о прогрессе международной налоговой реформы\n\nИсточник: https://www.oecd.org/tax/beps/global-tax-reforms-report-2026.htm\n\nПочему это важно: Документ представит сводный анализ применения минимального 15% налога Pillar 2 более чем в сорока юрисдикциях мира.\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налогообложение",
+      "jurisdictions": "ОЭСР",
+      "act": "ОЭСР готовит к публикации итоговый отчёт о прогрессе международной налоговой реформы",
+      "sources": [
+        {
+          "label": "Первичный источник",
+          "url": "https://www.oecd.org/tax/beps/global-tax-reforms-report-2026.htm"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "Verified OECD BEPS publication notice"
+      }
+    }
+  ]
+}

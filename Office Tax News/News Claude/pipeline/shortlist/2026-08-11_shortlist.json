@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-11",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 285,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-amends-tax-penalty-rules-to-support-pillar-two-dac8-dac9-rollout/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands amends tax penalty rules to support Pillar Two, DAC8, DAC9 rollout",
+      "summary": "The Netherlands has gazetted Decision No. 2026-14582 of 30 July 2026 on 7 August 2026, bringing amendments to the Decree on Administrative Fines of the Tax and Customs Administration (BBBB). These changes primarily adapt the administrative penalty rules to support the implementation of three major European directives: the Pillar Two Global Minimum Tax (Directive (EU)...",
+      "published_at": "2026-08-11",
+      "score": 15.5,
+      "topics": [
+        "exchange_info",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl",
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды",
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 286,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/bank-publiceert-middenjaarstips-inkomstenbelasting-2026/",
+      "ecli": "",
+      "act": "",
+      "title": "Bank publiceert 'middenjaarstips' inkomstenbelasting 2026",
+      "summary": "",
+      "published_at": "2026-08-11",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 287,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/luxembourg-administrative-court-rules-on-transfer-pricing-treatment-of-debt-restructuring/",
+      "ecli": "",
+      "act": "",
+      "title": "Luxembourg: Administrative Court rules on transfer pricing treatment of debt restructuring",
+      "summary": "The Luxembourg Administrative Court (Cour administrative) issued its decision in case 53194C on 22 July 2026, concerning the application of the arm’s length principle to an intra-group debt restructuring and the deductibility of interest expenses. The case involved a Luxembourg company that held a 65% interest in a French company and had granted it a...",
+      "published_at": "2026-08-11",
+      "score": 11.0,
+      "topics": [
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

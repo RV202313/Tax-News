@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "run_id": "2026-07-18-1300-editorial-backfill-236f21eeee69",
+  "release": "2026-07-18-1300-editorial",
+  "date": "2026-07-18",
+  "scope": "backfill",
+  "capture_kind": "backfill",
+  "captured_at": "2026-07-18T13:39:32.687807+00:00",
+  "items_count": 10,
+  "approved_source_sha256": "236f21eeee6911fbb90678922e296ca0693e488b1280a6577ec10dd4193b6d2d",
+  "delivery_coverage": {
+    "approved_slugs": 10,
+    "delivered_slugs": 10,
+    "missing_slugs": [],
+    "unexpected_slugs": []
+  },
+  "catalog_coverage": {
+    "post_ids": 10,
+    "matched_post_ids": 10,
+    "missing_post_ids": []
+  },
+  "artifacts": {
+    "approved": {
+      "state": "copied",
+      "path": "approved.json",
+      "bytes": 22519,
+      "sha256": "236f21eeee6911fbb90678922e296ca0693e488b1280a6577ec10dd4193b6d2d"
+    },
+    "shortlist": {
+      "state": "not_backfilled",
+      "reason": "артефакт изменяемый и не был зафиксирован в момент выпуска"
+    },
+    "digest": {
+      "state": "not_backfilled",
+      "reason": "артефакт изменяемый и не был зафиксирован в момент выпуска"
+    },
+    "collection_manifest": {
+      "state": "not_backfilled",
+      "reason": "артефакт изменяемый и не был зафиксирован в момент выпуска"
+    },
+    "collection_manifest_court": {
+      "state": "not_backfilled",
+      "reason": "артефакт изменяемый и не был зафиксирован в момент выпуска"
+    },
+    "published_sidecar": {
+      "state": "generated_release_slice",
+      "path": "published_release.jsonl",
+      "bytes": 2249,
+      "sha256": "96a9431485dd8c32b89c5ffdb7d47a02b2a6fafcc9a1bc4cb236006e51f5c1ab",
+      "records": 10
+    }
+  }
+}
