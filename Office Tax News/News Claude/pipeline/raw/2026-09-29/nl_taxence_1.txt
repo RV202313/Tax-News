@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Tue, 29 Sep 2026 08:15:12 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Liquide middelen vallen onder doorschuifregeling aandelen</title>
+		<link>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/</link>
+					<comments>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 08:15:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167813</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat € 700.000 aan liquide middelen ondernemingsvermogen vormt voor de doorschuifregeling bij schenking van aandelen. Verhuurd vastgoed en een woning met ontwikkelplannen kwalificeren daarentegen als beleggingsvermogen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat € 700.000 aan liquide middelen ondernemingsvermogen vormt voor de doorschuifregeling bij schenking van aandelen. Verhuurd vastgoed en een woning met ontwikkelplannen kwalificeren daarentegen als beleggingsvermogen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn echtgenote bezitten alle aandelen in een bv die een belang van 45% houdt in een andere bv. Deze bv houdt zich onder meer bezig met machineverhuur en bezit daarnaast een pand met verhuurde bedrijfsruimtes en een verhuurde woning. In september 2020 vindt een juridische splitsing plaats, waarna in de bv naast de deelneming € 700.000 aan liquide middelen achterblijft. Diezelfde dag schenken de man en zijn echtgenote hun aandelen aan hun dochter. De man verzoekt om toepassing van de doorschuifregeling van artikel 4.17c Wet IB 2001. De inspecteur wijst dit verzoek gedeeltelijk af. In geschil is welk deel van het vermogen als ondernemingsvermogen kwalificeert voor de doorschuifregeling.</p>
+
+
+
+<h3 class="wp-block-heading">Vastgoed is beleggingsvermogen</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat het verhuurde bedrijfspand geen ondernemingsvermogen vormt. De werkzaamheden van onder meer een beheerder en interieurverzorger gaan niet verder dan gebruikelijk is bij normaal vermogensbeheer. Ook is niet aannemelijk gemaakt dat een hoger rendement wordt nagestreefd dan bij normaal vermogensbeheer. Voor de verhuurde woning geldt hetzelfde. Hoewel bij de aankoop plannen voor projectontwikkeling bestonden, heeft de bv zich niet actief ingezet om die ontwikkeling te realiseren. Zij was daarvoor afhankelijk van een buurman en verrichtte zelf geen ondernemingsactiviteiten. Zowel het bedrijfspand als de woning kwalificeert daarom als beleggingsvermogen.</p>
+
+
+
+<h3 class="wp-block-heading">Liquide middelen zijn ondernemingsvermogen</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de € 700.000 aan liquide middelen komt de rechtbank tot een ander oordeel. Uit notulen blijkt dat geld nodig was voor toekomstige vervangingsinvesteringen in het machinepark. In de jaren 2020 tot en met 2023 zijn vervolgens omvangrijke investeringen gedaan. Mede gelet op deze investeringen, de notulen en de boekhoudkundige verwerking acht de rechtbank aannemelijk dat het geld niet duurzaam overtollig was, maar was bedoeld en uiteindelijk is aangewend voor de materiële onderneming. Het bedrag kwalificeert daarom als ondernemingsvermogen voor de doorschuifregeling. Het belastbaar inkomen uit aanmerkelijk belang wordt hierdoor verlaagd van € 681.872 naar € 192.415.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.12</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.17c?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.17c Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9141" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 21-09-2026, ECLI:NL:RBZWB:2026:9141, BRE 24/1496 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Onderneming-splitsing.jpg" length="28015" type="image/jpeg" />	</item>
+		<item>
+		<title>Bouwkosten privéschuur vormen winstuitdeling aan dga</title>
+		<link>https://www.taxence.nl/nieuws/bouwkosten-priveschuur-vormen-winstuitdeling-aan-dga/</link>
+					<comments>https://www.taxence.nl/nieuws/bouwkosten-priveschuur-vormen-winstuitdeling-aan-dga/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 08:14:46 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167830</guid>
+
+					<description><![CDATA[Hof Amsterdam oordeelt dat een bv haar dga heeft bevoordeeld door € 58.454 aan bouwkosten van een schuur op zijn privéterrein te betalen. Het bedrag vormt een winstuitdeling en daarmee inkomen uit aanmerkelijk belang.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam oordeelt dat een bv haar dga heeft bevoordeeld door € 58.454 aan bouwkosten van een schuur op zijn privéterrein te betalen. Het bedrag vormt een winstuitdeling en daarmee inkomen uit aanmerkelijk belang.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is indirect enig aandeelhouder van een bv die tot 2014 onder meer een benzinestation en wasstraat exploiteert. In 2015 laat hij bij zijn woonboerderij een loods of schuur bouwen. De kosten van de gebruikte materialen worden betaald door de bv en in haar administratie verwerkt. Tijdens een bedrijfsbezoek verklaart de man dat de schuur zowel privé als voor werkzaamheden van de bv wordt gebruikt. Later stelt hij dat de schuur uitsluitend voor de bv is gebouwd als tijdelijke locatie voor de voorbereiding van een nieuwe wasstraat. De inspecteur merkt € 58.454 aan door de bv betaalde bouwkosten aan als een winstuitdeling. In geschil is onder meer of deze correctie terecht is.</p>
+
+
+
+<h3 class="wp-block-heading">Schuur is voor aandeelhouder gebouwd</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof hecht meer waarde aan de eerdere verklaring van de man tijdens het bedrijfsbezoek dan aan zijn latere stelling dat de schuur uitsluitend voor de bv was bestemd. Uit zijn eerdere verklaring volgt dat hij de schuur naar eigen behoefte voor verschillende doeleinden gebruikte. Bovendien waren voor de bedrijfslocatie al andere bedrijfshallen en materialen gekocht. De latere verklaring dat de schuur slechts tijdelijk bij zijn woning stond om uiteindelijk naar de bedrijfslocatie te worden verplaatst, acht het hof daarmee niet te rijmen. Het hof concludeert dat de schuur voor de man zelf is gebouwd.</p>
+
+
+
+<h3 class="wp-block-heading">Betaling is winstuitdeling</h3>
+
+
+
+<p class="wp-block-paragraph">Doordat de bv de bouwkosten voor haar rekening neemt, vindt volgens het hof een vermogensverschuiving plaats van de bv naar haar aandeelhouder zonder zakelijke grondslag. De bv en de man moeten zich bewust zijn geweest van zowel de bevoordeling als de bedoeling daartoe. Het voordeel ontstaat op het moment dat de bv de kosten betaalt die de man zelf had moeten dragen. Het hof acht aannemelijk dat alle in aanmerking genomen facturen verband houden met de bouw van de schuur. De inspecteur heeft daarom terecht € 58.454 als winstuitdeling en inkomen uit aanmerkelijk belang over 2015 aangemerkt. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.12 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?lid=BWBR0002320&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2577" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 30-06-2026, ECLI:NL:GHAMS:2026:2577, 25/2024 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bouwkosten-priveschuur-vormen-winstuitdeling-aan-dga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/04/Loods.jpg" length="49819" type="image/jpeg" />	</item>
+		<item>
+		<title>Antwoorden Kamervragen over vlagregister en woonlandbeginsel</title>
+		<link>https://www.taxence.nl/nieuws/antwoorden-kamervragen-over-vlagregister-en-woonlandbeginsel/</link>
+					<comments>https://www.taxence.nl/nieuws/antwoorden-kamervragen-over-vlagregister-en-woonlandbeginsel/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 06:56:14 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167811</guid>
+
+					<description><![CDATA[Minister Karremans gaat in op de beloningsverschillen tussen zeevarenden en de economische en strategische betekenis van het Nederlandse vlagregister. Aanvullend onderzoek moet meer inzicht geven in de gevolgen van het loslaten van het woonlandbeginsel. Het mondiale beloningssysteem in de zeevaart verschilt volgens de minister aanzienlijk van dat voor werk op het vaste land. De zeevaart<a class="read-more" href="https://www.taxence.nl/nieuws/antwoorden-kamervragen-over-vlagregister-en-woonlandbeginsel/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Minister Karremans gaat in op de beloningsverschillen tussen zeevarenden en de economische en strategische betekenis van het Nederlandse vlagregister. Aanvullend onderzoek moet meer inzicht geven in de gevolgen van het loslaten van het woonlandbeginsel.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Het mondiale beloningssysteem in de zeevaart verschilt volgens de minister aanzienlijk van dat voor werk op het vaste land. De zeevaart kent een geglobaliseerde beroepsbevolking en een internationaal vastgestelde ILO-minimumloonnorm. Deze niet-bindende norm is mede gebaseerd op het prijspeil in het woonland van zeevarenden. Daardoor bestaan loonverschillen tussen bijvoorbeeld zeevarenden die in Indonesië en in de EU wonen. Het loonverschil is volgens de minister niet gebaseerd op nationaliteit, maar op het prijspeil in het land waar de zeevarende woont. Het woonlandbeginsel is in de zeevaart internationaal gangbaar. </p>
+
+
+
+<h2 class="wp-block-heading">Aanvullend onderzoek naar economische gevolgen</h2>
+
+
+
+<p class="wp-block-paragraph">SEO Economisch Onderzoek concludeert in een second opinion dat in een alternatief scenario niet meer dan 20 procent van de zeeschepen uit het Nederlandse register omvlagt en dat HCSS/Deloitte de economische effecten van omvlaggen overschat. De minister wacht aanvullend onderzoek van het Rijksregiebureau Maritieme Maakindustrie af voordat hij inhoudelijk reageert op de methodologische kritiek van SEO. De Kamer wordt hierover naar verwachting in het voorjaar van 2027 geïnformeerd. </p>
+
+
+
+<p class="wp-block-paragraph">Dat onderzoek moet ook inzicht geven in de potentiële kwantitatieve impact op de toekomstige bedrijvigheid en werkgelegenheid bij in Nederland gevestigde rederijen en het bredere maritieme cluster. Uitgangspunt blijft volgens de minister het mondiale gelijke speelveld zo goed mogelijk te bewaken. </p>
+
+
+
+<h2 class="wp-block-heading">Bescherming zeevarenden en strategisch belang</h2>
+
+
+
+<p class="wp-block-paragraph">Nederland zet zich in ILO-verband in voor een continue verbetering van arbeidsvoorwaarden en arbeidsomstandigheden. Omdat de zeevaart mondiaal is gereguleerd, moet volgens de minister vooral op mondiaal niveau worden ingezet op bescherming van zeevarenden en een internationaal gelijk speelveld voor reders. </p>
+
+
+
+<p class="wp-block-paragraph">Het Nederlandse vlagregister heeft daarnaast strategische betekenis. Tijdens internationale crises is het van belang dat de Nederlandse gevlagde vloot kan doorvaren. Verlies van vlootcapaciteit kan gevolgen hebben voor de fysieke weerbaarheid en strategische autonomie. Nederland heeft uitsluitend jurisdictie over Nederlands gevlagde schepen en kan in buitengewone omstandigheden alleen daarover controle uitoefenen. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16887&amp;did=2026D46758" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16887&amp;did=2026D46758" target="_blank" rel="noreferrer noopener">Antwoord op Kamervragen over de Kamerbrief ‘Schriftelijke reactie rapport &#8216;Het vlagregister en het woonlandbeginsel, economische en strategische waarde&#8217;, Ministerie van Infrastructuur en Waterstaat, 28 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/antwoorden-kamervragen-over-vlagregister-en-woonlandbeginsel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/07/Schip-water.jpg" length="46942" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 2 oktober 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-2-oktober-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-2-oktober-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 05:07:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167809</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 2 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 2 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/04825</td><td>Gerechtshof Den Haag 19 november 2024, nrs. 24/262, 24/264 en 24/265<br>ECLI:NL:GHDHA:2024:2424 <em>Terecht (navorderings)aanslagen met vergrijpboeten opgelegd vanwege niet-opgegeven inkomsten uit feesten en partijen</em></td><td>NTFR 2025/343</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/01480</td><td>Gerechtshof Arnhem-Leeuwarden 5 maart 2024, nr. 22/705<br>ECLI:NL:GHARL:2024:1586 <em>Terechte navordering door fictief kenbare fout bij vaststelling hoogte aanslag</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 31 januari 2025, nr. 24/01480<br>ECLI:NL:PHR:2025:130</td><td>NTFR 2025/369</td></tr><tr><td>24/02200</td><td>Gerechtshof Den Haag 1 mei 2024, nrs. 23/597 en 23/598<br>ECLI:NL:GHDHA:2024:716 <em>Correcties voor niet opgegeven inkomen zijn gebaseerd op een redelijke en niet willekeurige schatting</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 31 januari 2025, nr. 24/02200<br>ECLI:NL:PHR:2025:131</td><td>NTFR 2025/370</td></tr><tr><td>24/02707</td><td>Gerechtshof Den Haag 5 juni 2024, nrs. 23/264 en 23/265<br>ECLI:NL:GHDHA:2024:1641 <em>Geen extra leeftijdskorting op basis van Kaderbesluit bpm</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>HR 17 juli 2026, nr. 24/02707<br>ECLI:NL:HR:2026:1297</td><td>NTFR 2026/1374</td></tr><tr><td>24/04331</td><td>Gerechtshof Amsterdam 8 oktober 2024, nr. 23/1263<br>ECLI:NL:GHAMS:2024:3363 <em>Matiging immateriële schadevergoeding</em></td><td>&nbsp;</td></tr><tr><td>25/00369</td><td>Gerechtshof Amsterdam 19 december 2024, nr. 23/122<br>ECLI:NL:GHAMS:2024:3593 <em>Onvoldoende inzicht inkomens/vermogenspositie leidt tot afwijzing BOBOG-verzoek</em></td><td>&nbsp;</td></tr><tr><td>25/00370</td><td>Gerechtshof Amsterdam 19 december 2024, nr. 23/123<br>ECLI:NL:GHAMS:2024:3594 <em>Geen proceskostenvergoeding ondanks immateriële schadevergoeding</em></td><td>&nbsp;</td></tr><tr><td>25/00371</td><td>Gerechtshof Amsterdam 19 december 2024, nr. 23/124<br>ECLI:NL:GHAMS:2024:3595 <em>Toekenning imsv wegens overschrijding redelijke termijn</em></td><td>&nbsp;</td></tr><tr><td>25/02242</td><td>Gerechtshof Den Haag 8 mei 2025, nrs. 24/388 t/m 24/390<br>ECLI:NL:GHDHA:2025:1152 <em>Vooraf heffen van griffierecht is niet in strijd met het Unierecht</em></td><td>&nbsp;</td></tr><tr><td>25/02367</td><td>Gerechtshof Den Haag 21 mei 2025, nr. 24/694<br>ECLI:NL:GHDHA:2025:1093 <em>Hoger beroep terecht kennelijk niet-ontvankelijk verklaard wegens niet tijdig overleggen geldige machtiging</em></td><td>&nbsp;</td></tr><tr><td>25/02368</td><td>Gerechtshof Den Haag 21 mei 2025, nr. 24/690<br>ECLI:NL:GHDHA:2025:1092 <em>Hoger beroep terecht kennelijk niet-ontvankelijk verklaard wegens niet tijdig overleggen geldige machtiging</em></td><td>&nbsp;</td></tr><tr><td>26/01048</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nrs. 24/5001 t/m 24/5005<br>ECLI:NL:RBZWB:2026:1069 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01117</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/4999<br>ECLI:NL:RBZWB:2026:1068 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01118</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/5557<br>ECLI:NL:RBZWB:2026:1073 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01119</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/5000<br>ECLI:NL:RBZWB:2026:1067 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01120</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/3938<br>ECLI:NL:RBZWB:2026:1062 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01121</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/4776<br>ECLI:NL:RBZWB:2026:1064 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01122</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/4778<br>ECLI:NL:RBZWB:2026:1065 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01123</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/4861<br>ECLI:NL:RBZWB:2026:1066 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01124</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/5358<br>ECLI:NL:RBZWB:2026:1070 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01126</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nrs. 24/5359 t/m 24/5361<br>ECLI:NL:RBZWB:2026:1071 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betaling griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01127</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/3931<br>ECLI:NL:RBZWB:2026:1061 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01130</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/5507<br>ECLI:NL:RBZWB:2026:1072 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr><tr><td>26/01131</td><td>Rechtbank Zeeland-West-Brabant 23 februari 2026, nr. 24/5782<br>ECLI:NL:RBZWB:2026:1074 <em>Verzet tegen niet-ontvankelijkverklaring wegens niet-betalen griffierecht ongegrond</em></td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>26/01026</td><td>Rechtbank Noord-Holland, nr. 25/3795</td></tr><tr><td>26/01125</td><td>Rechtbank Zeeland-West-Brabant, nr. 24/4304</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-2-oktober-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Rechtspraak-2021.jpg" length="22758" type="image/jpeg" />	</item>
+		<item>
+		<title>Waarom belastingramingen in de begroting ten onrechte centraal staan</title>
+		<link>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/</link>
+					<comments>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 09:23:32 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167807</guid>
+
+					<description><![CDATA[Een raming is nog geen belastingopbrengst. Toch worden in Den Haag miljarden aan verwachte fiscale inkomsten ingeboekt alsof het geld al binnen is. Vervolgens worden diezelfde ramingen gebruikt als argument om belastingwetgeving door te zetten, aan te passen of juist tegen te houden. Box 3 laat volgens mr. dr. Ineke Koele zien hoe riskant dat<a class="read-more" href="https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Een raming is nog geen belastingopbrengst. Toch worden in Den Haag miljarden aan verwachte fiscale inkomsten ingeboekt alsof het geld al binnen is. Vervolgens worden diezelfde ramingen gebruikt als argument om belastingwetgeving door te zetten, aan te passen of juist tegen te houden. Box 3 laat volgens mr. dr. Ineke Koele zien hoe riskant dat mechanisme is: gedragseffecten, juridische procedures en tegenvallende opbrengsten laten zich nu eenmaal niet netjes in een begrotingsmodel vangen. Wanneer verandert een onzekere raming eigenlijk in een politiek feit — en wie kijkt achteraf nog of die raming ooit is uitgekomen?<br>Koele, oprichter van Stichting The Floris dat zich inzet voor een fair fiscaal debat, betoogt dat fiscale ramingen veel minder houvast bieden dan politiek en media suggereren en dat de huidige begrotingssystematiek daarmee de inhoudelijke discussie over belastingwetgeving kan gaan dicteren.</p>
+
+
+
+<p class="wp-block-paragraph">Het hele artikel is <strong><a href="https://www.thefloris.nl/opinie/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/" data-type="link" data-id="https://www.thefloris.nl/opinie/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/" target="_blank" rel="noreferrer noopener">hier</a></strong> te lezen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Regering-DenHaag.jpg" length="79694" type="image/jpeg" />	</item>
+		<item>
+		<title>Brandweermanarrest is geen nieuwe jurisprudentie</title>
+		<link>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/</link>
+					<comments>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 07:47:21 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167803</guid>
+
+					<description><![CDATA[Hof Den Haag oordeelt dat het Brandweermanarrest geen nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest. Een brandweervrijwilliger heeft daarom alsnog recht op ambtshalve vermindering van zijn aanslag over 2020.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Den Haag oordeelt dat het Brandweermanarrest geen nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest. Een brandweervrijwilliger heeft daarom alsnog recht op ambtshalve vermindering van zijn aanslag over 2020.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrijwilliger bij de brandweer raakt in 2012 betrokken bij een ongeval en houdt daaraan 4% blijvende invaliditeit aan zijn schouder over. Op grond van een ongevallenverzekering ontvangt hij via de veiligheidsregio in 2020 € 2.037 en in 2021 € 51. Hij geeft de bedragen aan als loon uit vroegere dienstbetrekking. Na het Brandweermanarrest van de Hoge Raad uit 2022 verzoekt hij om ambtshalve vermindering. De inspecteur wijst het verzoek voor 2020 af, omdat het arrest volgens hem nieuwe jurisprudentie is die dateert van nadat de aanslag onherroepelijk vaststaat. In geschil is of het Brandweermanarrest inderdaad als nieuwe jurisprudentie geldt.</p>
+
+
+
+<h2 class="wp-block-heading">Brandweermanarrest verduidelijkt hoofdregel</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof vergelijkt het Brandweermanarrest met het Smeerkuilarrest uit 1983. Daarin oordeelde de Hoge Raad al dat vergoedingen van een werkgever wegens immateriële schade en verlies aan arbeidskracht in beginsel geen loon zijn. In het Brandweermanarrest herhaalt de Hoge Raad deze hoofdregel en verduidelijkt hij wanneer daarop een uitzondering geldt. Die uitzondering doet zich voor als de werkgever een hogere vergoeding toekent dan rechtstreeks uit zijn aansprakelijkheid voortvloeit. Volgens het hof wijkt deze uitleg niet af van de rechtsregel uit het Smeerkuilarrest. Het Brandweermanarrest vormt daarom geen nieuwe jurisprudentie.</p>
+
+
+
+<h2 class="wp-block-heading">Ambtshalve vermindering voor 2020</h2>
+
+
+
+<p class="wp-block-paragraph">De inspecteur erkent dat de werkgever niet meer heeft uitgekeerd dan uit zijn aansprakelijkheid voortvloeit en dat de ontvangen vergoeding volgens het Brandweermanarrest geen belastbaar loon vormt. Omdat geen sprake is van nieuwe jurisprudentie, staat art. 45aa UR IB 2001 niet aan ambtshalve vermindering in de weg. Het hoger beroep van de man is gegrond. Het hof verlaagt zijn belastbare inkomen uit werk en woning over 2020 met € 2.037 van € 66.629 naar € 64.592.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 9.6 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2777" target="_blank" rel="noreferrer noopener">Gerechtshof Den Haag, 01-09-2026, ECLI:NL:GHDHA:2026:2777, BK-25/751 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Brandweerman.jpg" length="50694" type="image/jpeg" />	</item>
+		<item>
+		<title>Saneringskosten privégrond vormen winstuitdeling aan dga</title>
+		<link>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/</link>
+					<comments>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 07:45:41 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167801</guid>
+
+					<description><![CDATA[Hof Amsterdam oordeelt dat € 123.872 aan saneringskosten die een bv betaalt voor privégrond van haar dga een winstuitdeling vormt. De saneringsplicht rust op de dga en een zakelijke reden voor betaling door de bv ontbreekt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam oordeelt dat € 123.872 aan saneringskosten die een bv betaalt voor privégrond van haar dga een winstuitdeling vormt. De saneringsplicht rust op de dga en een zakelijke reden voor betaling door de bv ontbreekt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is indirect enig aandeelhouder van een bv die een benzinestation en autowasstraat exploiteert op grond die privé van hem is. Bij de aankoop van de grond in 2000 verplicht de man zich om deze voor eigen rekening en risico te saneren. Ook in een huurovereenkomst die hij in 2013 met een nieuwe exploitant sluit, neemt hij de verplichting op om het perceel voor eigen rekening te saneren en bouwrijp op te leveren. In 2014 vindt de sanering plaats. De kosten worden echter door de bv betaald en in haar boekhouding verwerkt. De inspecteur merkt uiteindelijk € 123.872 aan saneringskosten aan als een uitdeling en belast dit bedrag in box 2. In geschil is of dat terecht is.</p>
+
+
+
+<h2 class="wp-block-heading">Saneringsplicht rust op dga</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur aannemelijk maakt dat sprake is van een winstuitdeling. De man heeft zich bij aankoop van de grond persoonlijk verplicht tot sanering. Nergens blijkt uit dat de bv deze verplichting later heeft overgenomen. Ook uit de huurovereenkomst uit 2013 volgt dat de sanering voor rekening en risico van de man komt. Voor het betalen van de saneringskosten door de bv bestaat daarom geen zakelijke grond. Door deze kosten toch te dragen, verschuift vermogen van de bv naar haar aandeelhouder. Zowel de bv als de man moet zich bewust zijn geweest van deze bevoordeling.</p>
+
+
+
+<h2 class="wp-block-heading">Voordeel ontstaat bij betaling kosten</h2>
+
+
+
+<p class="wp-block-paragraph">De winstuitdeling wordt genoten op het moment dat de bv de kosten betaalt die de man zelf had moeten dragen. Zijn voordeel is gelijk aan het bedrag dat hij daardoor aan kosten bespaart. Het hof acht ook voldoende aannemelijk dat de meegenomen facturen verband houden met de sanering of het bouwrijp maken van het perceel. De inspecteur maakt daarmee volgens de normale bewijslastverdeling aannemelijk dat de man € 123.872 als winstuitkering en inkomen uit aanmerkelijk belang geniet. Omkering en verzwaring van de bewijslast is daarvoor niet nodig. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.12 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2576" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 30-06-2026, ECLI:NL:GHAMS:2026:2576, 25/2022 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Grond-graaf.jpg" length="67260" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleidsbesluit Wet minimumbelasting 2024</title>
+		<link>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/</link>
+					<comments>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167789</guid>
+
+					<description><![CDATA[De staatssecretaris van Financiën heeft het Beleidsbesluit minimumbelasting 2024 gepubliceerd. Het besluit bevat beleid en verduidelijkingen over de toepassing van de Wet minimumbelasting 2024 (WMB 2024), mede gebaseerd op eerder gepubliceerde kennisgroep- en beleidsstandpunten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De staatssecretaris van Financiën heeft het Beleidsbesluit minimumbelasting 2024 gepubliceerd. Het besluit bevat beleid en verduidelijkingen over de toepassing van de Wet minimumbelasting 2024 (WMB 2024), mede gebaseerd op eerder gepubliceerde kennisgroep- en beleidsstandpunten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De WMB 2024 beoogt dat multinationale en omvangrijke binnenlandse groepen met een omzet van ten minste € 750 miljoen effectief minimaal 15% belasting over hun winst betalen. Het besluit verduidelijkt onder meer verschillende kernbegrippen. Zo kwalificeert een Nederlandse commanditaire vennootschap die afzonderlijke financiële verslaggeving opstelt als entiteit, ook zonder publicatieplicht. Voor het begrip overheid zijn met name overheidscontrole en het optreden als niet-marktproducent relevant; de actuele CBS-lijst van instellingen in de sector overheid kan daarbij als praktisch richtsnoer dienen. Vooroverleg blijft mogelijk.</p>
+
+
+
+<h2 class="wp-block-heading">Doorkijkentiteit</h2>
+
+
+
+<p class="wp-block-paragraph">Verder wordt het begrip doorkijkentiteit toegelicht. Een entiteit kan partieel als doorkijkentiteit kwalificeren. Daarbij is niet doorslaggevend of zij voor de vennootschapsbelasting subjectief belastingplichtig is; bepalend is of inkomsten, uitgaven, winsten of verliezen fiscaal worden behandeld alsof zij door de belanghouders zijn verworven of gemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Het besluit verduidelijkt ook wanneer organisaties als non-profitorganisatie kwalificeren. Een APV voldoet niet aan de vereiste doelstelling. Onder voorwaarden kunnen zorgverzekeraars wel kwalificeren. Passief aan derden verhuurd vastgoed vormt op zichzelf geen vaste inrichting volgens art. 1.2 lid 1 onderdeel d WMB 2024.</p>
+
+
+
+<p class="wp-block-paragraph">Bij een interne overdracht van een laagbelaste groepsentiteit gedurende het verslagjaar wordt de inkomen-inclusiebijheffing tijdsevenredig toegerekend aan de betrokken moederentiteiten. Verder kwalificeren onder meer de opbrengst- en vastgoedbelasting op de BES-eilanden als betrokken belastingen.</p>
+
+
+
+<h2 class="wp-block-heading">Veiligehavenregels</h2>
+
+
+
+<p class="wp-block-paragraph">Ten slotte geeft het besluit uitleg over de veiligehavenregels. Zakelijke leningen binnen een Nederlandse fiscale eenheid vormen niet zonder meer een gestructureerde hybride regeling waarop de antimisbruikbepaling van art. 8.8a WMB 2024 van toepassing is. Bij een incidenteel afwijkend verslagjaar, bijvoorbeeld door fusie, liquidatie of oprichting, kan de kwalificerende binnenlandse bijheffing onder voorwaarden op basis van de lokale verslaggevingsstandaard berekend blijven worden. Het besluit treedt in werking met ingang van 26 september 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html" target="_blank" rel="noreferrer noopener">Beleidsbesluit van 22 september 2026, nr. 2026-15692, Ministerie van Financiën, <em>Staatscourant</em> 2026, nr. 32160</a></p>
+
+
+
+<h2 class="wp-block-heading">Standpunten Kennisgroep Pijler 2 ingetrokken wegens opname in Beleidsbesluit minimumbelasting 2024</h2>
+
+
+
+<p class="wp-block-paragraph">De Kennisgroep Pijler 2 heeft <a href="https://kennisgroepen.belastingdienst.nl/standpunten-kennisgroep-pijler-2-ingetrokken-wegens-opname-in-beleidsbesluit-minimumbelasting-2024/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunten-kennisgroep-pijler-2-ingetrokken-wegens-opname-in-beleidsbesluit-minimumbelasting-2024/" target="_blank" rel="noreferrer noopener">twee standpunten ingetrokken </a>in verband met de inwerkingtreding van het dit besluit. Het betreft de volgende twee standpunten:</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg91120241-invulling-begrip-overheid-binnen-de-wet-minimumbelasting-2024/">KG:911:2024:1</a> Invulling begrip overheid binnen de Wet minimumbelasting 2024</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg91120254-berekening-van-inkomen-inclusieheffing-bij-interne-overdracht-van-een-laagbelaste-groepsentiteit/">KG:911:2025:4</a> Berekening van inkomen-inclusieheffing bij interne overdracht van een laagbelaste groepsentiteit</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Pillar 2 &#8211; Wet minimumbelasting 2024 (Pijler 2) | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Na het volgen van deze Masterclass heb je een goed beeld van de inhoud en de structuur van de Pillar 2-regels, het concept van de berekening van de Pillar 2 effectieve winstbelastingdruk (inclusief een basisbegrip van Tax Accounting), zodat je in de praktijk de relevante verplichtingen alsmede de vraagpunten kunt herkennen en de regels kunt toepassen.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93" href="https://www.licentacademy.nl/opleidingen/masterclasses/2979/masterclass-pillar-2" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/geld-minimumbelasting.jpg" length="64117" type="image/jpeg" />	</item>
+		<item>
+		<title>Grote erfenis leidt vaker tot verhuizing en investering in woning</title>
+		<link>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/</link>
+					<comments>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 05:22:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167799</guid>
+
+					<description><![CDATA[Mensen die € 50.000 of meer erven van hun ouders, verhuizen vaker en komen na een verhuizing vaker in een koopwoning, vrijstaande woning of grotere woning terecht. Ook investeren zij vaker in zonnepanelen, terwijl het effect van de erfenis op extra hypotheekaflossingen relatief beperkt is. Dat blijkt uit onderzoek van het Centraal Bureau voor de<a class="read-more" href="https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Mensen die € 50.000 of meer erven van hun ouders, verhuizen vaker en komen na een verhuizing vaker in een koopwoning, vrijstaande woning of grotere woning terecht. Ook investeren zij vaker in zonnepanelen, terwijl het effect van de erfenis op extra hypotheekaflossingen relatief beperkt is. Dat blijkt uit onderzoek van het Centraal Bureau voor de Statistiek (CBS).</strong></p>
+
+
+
+<p class="wp-block-paragraph">Voor het onderzoek volgde het CBS ruim 30.500 kinderen van wie de laatste ouder uit de geboortegeneratie 1936-1945 in 2018 overleed. Hun woonsituatie werd vergeleken met die van kinderen van ouders uit dezelfde generatie die vier jaar later overleden. Op die manier onderzocht het CBS in hoeverre veranderingen op de woningmarkt samenhangen met het ontvangen van een erfenis.</p>
+
+
+
+<h3 class="wp-block-heading">Bijna een derde ontvangt geregistreerde erfenis</h3>
+
+
+
+<p class="wp-block-paragraph">Van de onderzochte kinderen van wie de laatste ouder in 2018 overleed, ontving 31% een bij de Belastingdienst geregistreerde erfenis. De mediane netto-erfenis bedroeg € 43.000. Van alle onderzochte kinderen ontving 14% ten minste € 50.000 en 6% € 100.000 of meer.</p>
+
+
+
+<p class="wp-block-paragraph">Vooral bij erfenissen vanaf € 50.000 is een duidelijk verschil in verhuisgedrag zichtbaar. Van deze erfgenamen verhuisde 21% in de drie jaar na het overlijden van de ouder. In de controlegroep, die pas vier jaar later een vergelijkbare erfenis ontving, was dat 14%.</p>
+
+
+
+<h3 class="wp-block-heading">Vaker naar grotere en vrijstaande koopwoning</h3>
+
+
+
+<p class="wp-block-paragraph">Erfgenamen die na ontvangst van minimaal € 50.000 verhuisden, kwamen bovendien vaker in een grotere woning terecht. Het aandeel dat in een vrijstaande woning woonde, steeg binnen drie jaar van 15% naar 29%. Bij de controlegroep ging het om een stijging van 17% naar 25%.</p>
+
+
+
+<p class="wp-block-paragraph">Ook het woonoppervlak nam relatief sterk toe. Het aandeel erfgenamen met een woning van minimaal 150 vierkante meter steeg van 27% naar 46%. In de controlegroep was de toename beperkter, van 30% naar 39%. Tegelijkertijd daalde bij de erfgenamen het aandeel dat in een appartement woonde van 25% naar 17%.</p>
+
+
+
+<p class="wp-block-paragraph">Ook de stap naar een koopwoning werd vaker gezet. Onder verhuizende ontvangers van een erfenis van minimaal € 50.000 nam het eigenwoningbezit toe van 72% naar 83%. Bij de controlegroep steeg dit slechts van 71% naar 73%. Een deel van de erfgenamen ging in de voormalige woning van de overleden ouder wonen.</p>
+
+
+
+<h3 class="wp-block-heading">Meer zonnepanelen, beperkt extra aflossen</h3>
+
+
+
+<p class="wp-block-paragraph">Een grote erfenis hangt ook samen met investeringen in de bestaande woning. Het aandeel ontvangers van minimaal € 50.000 dat in een woning met zonnepanelen woonde, steeg van 10% naar 25%. In de controlegroep nam dit aandeel toe van 10% naar 21%.</p>
+
+
+
+<p class="wp-block-paragraph">Het effect op de hypotheekschuld was kleiner. Bij ontvangers van minimaal € 50.000 daalde de gemiddelde hypotheekschuld tussen 2018 en 2020 van € 186.000 naar € 173.000, een afname van € 13.000. In de controlegroep daalde de schuld met ongeveer € 3.000. Het CBS wijst erop dat erfgenamen hun geld mogelijk ook aan andere verbeteringen van de eigen woning hebben besteed.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.cbs.nl/nl-nl/nieuws/2026/40/mensen-met-grote-erfenis-verhuizen-vaker-en-investeren-meer-in-woning" data-type="link" data-id="https://www.cbs.nl/nl-nl/nieuws/2026/40/mensen-met-grote-erfenis-verhuizen-vaker-en-investeren-meer-in-woning" target="_blank" rel="noreferrer noopener">CBS, 28 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/05/Verhuizen.jpg" length="30377" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt over terugkomen op keuze om lening als eigenwoningschuld aan te merken</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 04:13:00 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167795</guid>
+
+					<description><![CDATA[De Kennisgroep onroerende zaken heeft de vraag beantwoord of een belastingplichtige kan terugkomen op de keuze om een lening als (bestaande) eigenwoningschuld aan te merken in box 1.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep onroerende zaken heeft de vraag beantwoord of een belastingplichtige kan terugkomen op de keuze om een lening als (bestaande) eigenwoningschuld aan te merken in box 1.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De vraag is voorgelegd of een belastingplichtige kan terugkomen op een gemaakte keuze over de lening die hij als bestaande eigenwoningschuld in box 1 heeft aangegeven. Daartoe is ter illustratie het volgende voorbeeld gegeven.</p>
+
+
+
+<p class="wp-block-paragraph">Een belastingplichtige koopt een nieuwe woning, waarvoor de maximale eigenwoningschuld €&nbsp;800.000 bedraagt. Hij financiert deze aankoop met twee aflossingsvrije leningen van € 400.000. Voor een bedrag van € 400.000 heeft de belastingplichtige recht op het overgangsrecht voor bestaande eigenwoningschulden. In de aangifte van het belastingjaar van aankoop geeft hij aflossingsvrije lening 1 van €&nbsp;400.000 als BEWS in box 1 aan en aflossingsvrije lening 2 van €&nbsp;400.000 in box 3. Na de aankoop hebben zich geen gewijzigde omstandigheden met betrekking tot de woning voorgedaan.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan de belastingplichtige in de aangifte van een belastingjaar volgend op het jaar van aankoop aflossingsvrije lening 1 die hij aanvankelijk als BEWS in box 1 heeft aangegeven als box 3-schuld aangeven en omgekeerd aflossingsvrije lening 2 die aanvankelijk in box 3 viel als BEWS in box 1 aangeven?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, tenzij de aanslag van het belastingjaar van aankoop nog niet onherroepelijk vaststaat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-belastingplichtige-kan-terugkomen-op-de-keuze-om-een-lening-als-eigenwoningschuld-aan-te-merken/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-belastingplichtige-kan-terugkomen-op-de-keuze-om-een-lening-als-eigenwoningschuld-aan-te-merken/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Fiscaliteiten in de Eigenwoningregeling | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens deze masterclass worden de volgende onderwerpen besproken en toegelicht met praktische voorbeelden:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Oud recht en nieuw recht</li>
+
+
+
+<li>Gevolgen van het renteaftrekverleden</li>
+
+
+
+<li>Volgorde in de samenstelling van een eigenwoningschuld</li>
+
+
+
+<li>Toepassing van het overgangsrecht en de aflossingsstand</li>
+
+
+
+<li>Wettelijke regeling en draagplichtovereenkomst</li>
+
+
+
+<li>Verkrijging van het eigendom van de woning van de (ex-)partner</li>
+
+
+
+<li>Gevolgen van aflossingen op oud of op nieuw recht</li>
+</ul>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b" href="https://www.licentacademy.nl/opleidingen/masterclasses/2982/masterclass-in-de-eigenwoningregeling" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/woning-waarde.jpg" length="25883" type="image/jpeg" />	</item>
+	</channel>
+</rss>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 02 Oct 2026 12:22:47 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Online cursus BTW, factuurvereisten en ViDA &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 12:22:46 +0000</pubDate>
+				<category><![CDATA[Actualiteiten]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[BTW]]></category>
+		<category><![CDATA[BTW en overdrachtsbelasting]]></category>
+		<category><![CDATA[omzetbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167907</guid>
+
+					<description><![CDATA[Nieuwe BTW-regels en digitale rapportageverplichtingen Nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA) komen eraan. ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA). ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de interne markt.&#160;Ben je er<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Nieuwe BTW-regels en digitale rapportageverplichtingen</p>
+<p>Nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA) komen eraan. ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA). ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de interne markt.&nbsp;Ben je er klaar voor om aan alle eisen te voldoen? Een fout op een factuur kan leiden tot verlies van BTW-aftrek, en hoge boetes bij de verkoopfactuur.</p>
+<p>Tijdens dit webinar ontvang je praktische handvatten waarmee je direct aan de slag kunt. Je ontdekt hoe je ervoor zorgt dat jouw facturen voldoen aan de BTW-vereisten, hoe je inkomende facturen kritisch beoordeelt en hoe je je tijdig voorbereidt op e-facturering.</p>
+<p>Daarnaast gaan we in op de impact van ViDA, verplichte e-facturatie en digitale rapportage. Zo beperk je risico’s en ben je goed voorbereid op wat komen gaat.</p>
+<p>Ben je er klaar voor om aan alle eisen te voldoen? Een fout op een factuur kan leiden tot verlies van BTW-aftrek, en hoge boetes bij de verkoopfactuur.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/actualiteiten/3078/online-cursus-btw-factuurvereisten" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Levensloopuitkering terecht belast als loon in 2021</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-7/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 07:52:42 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167921</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een uitkering uit een levensloopregeling terecht in 2021 tot het belastbaar inkomen uit werk en woning is gerekend. Omdat de aanspraak niet vóór 1 november 2021 als loon in aanmerking is genomen, geldt op grond van het overgangsrecht een fictief genietingsmoment.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een uitkering uit een levensloopregeling terecht in 2021 tot het belastbaar inkomen uit werk en woning is gerekend. Omdat de aanspraak niet vóór 1 november 2021 als loon in aanmerking is genomen, geldt op grond van het overgangsrecht een fictief genietingsmoment.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw neemt deel aan een levensloopregeling. Eind 2020 bedraagt het saldo van haar polis € 6.491,93. In november 2021 keert de verzekeraar bruto € 8.631,62 uit, waarop € 3.202,33 loonheffing wordt ingehouden. In haar aangifte IB/PVV 2021 neemt de vrouw de uitkering niet op als inkomen. De inspecteur corrigeert haar belastbaar inkomen uit werk en woning daarom met € 8.631 en verhoogt de in aanmerking genomen loonheffing met € 3.203. De vrouw is het niet eens met deze correctie. In geschil is of de uitkering uit de levensloopregeling terecht tot haar inkomen over 2021 is gerekend.</p>
+
+
+
+<h3 class="wp-block-heading">Levensloopaanspraak belast in 2021</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof volgt het oordeel van de rechtbank. De levensloopregeling is per 1 januari 2012 afgeschaft, waarbij voor bestaande deelnemers overgangsrecht gold. Omdat de aanspraak van de vrouw niet vóór 1 november 2021 als loon in aanmerking is genomen, schrijft artikel 39d lid 4 Wet LB 1964 voor dat de waarde van de aanspraak op die datum als loon wordt belast. De vrouw ontvangt de uitkering bovendien daadwerkelijk in november 2021. Het door de inspecteur in aanmerking genomen bedrag van € 8.631 sluit aan bij zowel de gegevens van de verzekeraar als het overzicht van de Belastingdienst. Er bestaat daarom geen aanleiding aan de juistheid daarvan te twijfelen. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-39d?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 39d lid 4 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5748">Gerechtshof Arnhem-Leeuwarden, 01-09-2026, ECLI:NL:GHARL:2026:5748, 25/2465 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/vrouw-rekenen.jpg" length="49179" type="image/jpeg" />	</item>
+		<item>
+		<title>Minister moet breder zoeken naar fraudesignalen</title>
+		<link>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/</link>
+					<comments>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 07:39:30 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Fiscaal procesrecht]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167917</guid>
+
+					<description><![CDATA[De minister van Financiën heeft een AVG-inzageverzoek naar mogelijke ‘zwarte lijsten’ bij de Belastingdienst te beperkt opgevat. Volgens de Afdeling bestuursrechtspraak moet ook worden gezocht in de datakluis en andere systemen waarin fraudesignalen over personen zijn verwerkt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De minister van Financiën heeft een AVG-inzageverzoek naar mogelijke ‘zwarte lijsten’ bij de Belastingdienst te beperkt opgevat. Volgens de Afdeling bestuursrechtspraak moet ook worden gezocht in de datakluis en andere systemen waarin fraudesignalen over personen zijn verwerkt.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Twee personen vragen de minister op grond van artikel 15 AVG om inzage in hun persoonsgegevens. Naar aanleiding van berichtgeving over de Fraude Signalering Voorziening (FSV) willen zij weten of zij voorkomen op ‘zwarte lijsten’ van de Belastingdienst. Zij vermoeden dat sprake is van zo&#8217;n registratie, omdat de Belastingdienst zonder nadere motivering geen vaststellingsovereenkomst met hen wilde sluiten. De minister laat weten dat hun persoonsgegevens niet in de FSV voorkomen. Voor andere systemen wijst hij het verzoek af, omdat onderzoek naar met de FSV vergelijkbare systemen nog loopt. Rechtbank Den Haag gaat daarin mee. In hoger beroep stellen de twee dat onvoldoende is gezocht en dat hun verzoek veel ruimer is dan alleen de FSV.</p>
+
+
+
+<h3 class="wp-block-heading">Datakluis had moeten worden doorzocht</h3>
+
+
+
+<p class="wp-block-paragraph">De Afdeling bestuursrechtspraak van de Raad van State wijst erop dat de Belastingdienst beschikt over een afgeschermde digitale omgeving met ongeveer 25 miljoen bestanden: de datakluis. Deze is niet betrokken bij de zoekacties naar aanleiding van informatieverzoeken van burgers. De datakluis bevat onder meer bestanden die verband houden met de FSV en het Risico Analyse Model. Omdat de datakluis en mogelijk andere afgeschermde digitale omgevingen niet zijn doorzocht, kan de mededeling dat de persoonsgegevens niet in de FSV voorkomen niet zonder meer geloofwaardig worden geacht.</p>
+
+
+
+<h3 class="wp-block-heading">Begrip ‘zwarte lijsten’ ruim uitleggen</h3>
+
+
+
+<p class="wp-block-paragraph">Ook heeft de minister het verzoek te beperkt uitgelegd. Onder ‘zwarte lijsten’ moeten volgens de Afdeling alle gegevensbestanden, applicaties en systemen vallen waarin fraudesignalen over personen zijn of worden verwerkt. De minister had daarom niet alleen naar met de FSV vergelijkbare systemen mogen kijken. Het hoger beroep is gegrond en de minister moet nieuwe besluiten nemen. Daarbij moet hij ook zoeken in de datakluis en, voor zover relevant, andere afgeschermde digitale omgevingen van de Belastingdienst.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/CELEX-32016R0679-20160524-NLD#CELEX-32016R0679-20160524-NLD_ART_15" target="_blank" rel="noreferrer noopener">art. 15 AVG</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RVS_2026_5793">Raad van State, 30-09-2026, ECLI:NL:RVS:2026:5793, 202300231/1/A3 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/08/Onderzoek-administratie.jpg" length="45863" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingregels maken reparatie elektronica onnodig duur</title>
+		<link>https://www.taxence.nl/nieuws/belastingregels-maken-reparatie-elektronica-onnodig-duur/</link>
+					<comments>https://www.taxence.nl/nieuws/belastingregels-maken-reparatie-elektronica-onnodig-duur/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 05:14:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167910</guid>
+
+					<description><![CDATA[Onderzoekers van de Erasmus School of Law hebben onderzocht hoe belastingregels reparatie van consumentenelektronica onbedoeld kunnen bemoeilijken. Aanleiding is dat consumenten een kapot apparaat vaak vervangen, terwijl reparatie mogelijk duurzamer is doordat minder grondstoffen nodig zijn en minder afval ontstaat.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onderzoekers van de Erasmus School of Law hebben onderzocht hoe belastingregels reparatie van consumentenelektronica onbedoeld kunnen bemoeilijken. Aanleiding is dat consumenten een kapot apparaat vaak vervangen, terwijl reparatie mogelijk duurzamer is doordat minder grondstoffen nodig zijn en minder afval ontstaat. </strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens de onderzoekers is niet één fiscale ingreep voldoende om reparatie aantrekkelijker te maken. Zij pleiten voor een breder pakket aan maatregelen, waaronder aanpassingen van btw- en douaneregels, strengere productontwerpeisen en duidelijkere garantievoorwaarden.</p>
+
+
+
+<p class="wp-block-paragraph">Een belangrijk probleem is dat de huidige fiscale regels onvoldoende aansluiten bij de complexe reparatieketens van consumentenelektronica. Een winkel voert een reparatie bijvoorbeeld vaak niet zelf uit, maar stuurt een product door naar een fabrikant of andere partij, die de werkzaamheden weer kan uitbesteden. Onderdelen kunnen daarbij tussen verschillende landen worden verplaatst en reparaties vinden soms buiten de Europese Unie plaats.</p>
+
+
+
+<h2 class="wp-block-heading">Onverwachte kosten</h2>
+
+
+
+<p class="wp-block-paragraph">Dat kan onverwachte fiscale kosten en administratieve lasten veroorzaken. Zo kan een fabrikant die onderdelen voor reparaties tussen EU-landen verplaatst, verplicht worden zich in meerdere landen voor de btw te registreren. De kosten daarvan zijn eerder door de Europese Commissie geraamd op 2.400 tot 8.000 euro per registratie per jaar. Ook het omruilen van een defect apparaat voor een reeds gerepareerd exemplaar kan tot verschuldigde btw leiden, terwijl de consument niets extra&#8217;s betaalt. Bij reparaties buiten de EU kunnen invoerrechten en invoer-btw een kostenpost vormen. Bovendien bestaat volgens de onderzoekers onduidelijkheid over de douanewaarde van gerepareerde producten.</p>
+
+
+
+<p class="wp-block-paragraph">Zij adviseren daarom onder meer het aantal btw-registratieverplichtingen terug te dringen, de btw-regels rond het omruilen van defecte producten aan te passen en het recht op teruggaaf van invoer-btw te verruimen. Ook zouden duidelijkere richtlijnen moeten komen voor het bepalen van de douanewaarde na reparatie.</p>
+
+
+
+<p class="wp-block-paragraph">Een lager btw-tarief voor reparaties zien de onderzoekers niet als dé oplossing. Europese regels bieden daarvoor slechts beperkte ruimte en bij reparaties onder garantie is al geen btw verschuldigd. Bovendien blijkt uit hun consumentenenquête dat veel mensen pas voor reparatie kiezen als de kosten ongeveer halveren. Een verlaging van 21 naar 9 procent is daarvoor onvoldoende.</p>
+
+
+
+<p class="wp-block-paragraph">Meer verwachten de onderzoekers van een combinatie van fiscale aanpassingen, gerichte reparatiesubsidies, duidelijkere wettelijke garantietermijnen en productregels die reparatie vergemakkelijken. Het uiteindelijke doel is dat repareren voor consumenten een vanzelfsprekender alternatief wordt voor het kopen van een nieuw apparaat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.eur.nl/nieuws/waarom-belastingregels-reparatie-van-consumentenelektronica-belemmeren" data-type="link" data-id="https://www.eur.nl/nieuws/waarom-belastingregels-reparatie-van-consumentenelektronica-belemmeren" target="_blank" rel="noreferrer noopener">EUR, 29 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/belastingregels-maken-reparatie-elektronica-onnodig-duur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/reparatie.jpg" length="49064" type="image/jpeg" />	</item>
+		<item>
+		<title>Heinen wil grens box 3 aanpassen om kleine spaarder te ontzien</title>
+		<link>https://www.taxence.nl/nieuws/heinen-wil-grens-box-3-aanpassen-om-kleine-spaarder-te-ontzien/</link>
+					<comments>https://www.taxence.nl/nieuws/heinen-wil-grens-box-3-aanpassen-om-kleine-spaarder-te-ontzien/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 11:29:41 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167908</guid>
+
+					<description><![CDATA[Minister Heinen staat open voor een andere ondergrens voor de vermogensbelasting in box 3 om de kleine spaarder te ontzien. Dat zei de VVD-bewindsman op de tweede dag van de algemene financiële beschouwingen. "Ik had de inschatting gemaakt dat met de huidige grens de kleine spaarder wordt ontzien, maar de Kamer ziet dat anders."]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Minister Heinen staat open voor een andere ondergrens voor de vermogensbelasting in box 3 om de kleine spaarder te ontzien. Dat zei de VVD-bewindsman op de tweede dag van de algemene financiële beschouwingen. &#8220;Ik had de inschatting gemaakt dat met de huidige grens de kleine spaarder wordt ontzien, maar de Kamer ziet dat anders.&#8221;</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil de ondergrens voor de belasting in box 3 verlagen om de aanpassing van de vermogensbelasting te betalen. Veel oppositiepartijen en ook coalitiepartijen VVD en CDA waren hier niet blij mee. In 2027 zou de grens verlaagd worden, waardoor meer mensen belasting gaan betalen over hun spaargeld of beleggingen. Heinen wil nu overleggen met de Tweede Kamer over een andere ondergrens. &#8220;Maar daar komt wel veel rekenwerk aan te pas&#8221;, waarschuwt de minister.</p>
+
+
+
+<p class="wp-block-paragraph">Partijen zijn het echter niet eens over een oplossing voor kleine spaarders in box 3. VVD, CDA, JA21, SGP en ChristenUnie willen extra belasting ophalen bij grootaandeelhouders, om te voorkomen dat mensen met een kleinere spaarpot volgend jaar en het jaar daarop vermogensbelasting moeten gaan betalen. Linkse oppositiepartij PRO wil dat de extra belasting in ieder geval wordt gehaald bij vermogenden en winst van bedrijven. Staatssecretaris Eerenberg  verwelkomde alle alternatieven uit de Kamer, maar gaf geen voorkeur aan. De Tweede Kamer praat over twee weken verder over de belastingen voor volgend jaar. Een meerderheid voor dat belastingplan is nog niet in zicht.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: ANP, 1 oktober 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/heinen-wil-grens-box-3-aanpassen-om-kleine-spaarder-te-ontzien/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/07/Spaarvarken-roze.jpg" length="29755" type="image/jpeg" />	</item>
+		<item>
+		<title>Te laat beroep inspecteur houdt aftrek in stand</title>
+		<link>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/</link>
+					<comments>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:52:31 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167885</guid>
+
+					<description><![CDATA[Hof Amsterdam verklaart het incidentele hoger beroep van de inspecteur over de lijfrenteaftrek niet-ontvankelijk omdat het te laat is ingediend. De garagehouder krijgt echter geen extra lijfrenteaftrek vanwege de hogere stakingswinst.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam verklaart het incidentele hoger beroep van de inspecteur over de lijfrenteaftrek niet-ontvankelijk omdat het te laat is ingediend. De garagehouder krijgt echter geen extra lijfrenteaftrek vanwege de hogere stakingswinst.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man exploiteert jarenlang een garagebedrijf. Per 1 september 2017 brengt hij de onderneming ruisend in een later opgerichte bv in. Daarbij ontstaat € 704.296 aan stakingswinst en neemt de fiscale oudedagsreserve met € 46.434 af. In april 2018 sluit hij met de bv een lijfrenteovereenkomst met een koopsom van € 374.004. In zijn oorspronkelijke aangifte IB/PVV 2017 vermeldt hij de staking echter niet. Pas na het opleggen van de aanslag dient hij herziene aangiften in waarin hij de stakingswinst en de lijfrenteaftrek verwerkt. De inspecteur legt vervolgens een navorderingsaanslag op. Rechtbank Noord-Holland staat de aftrek van € 374.004 toe. In hoger beroep wil de man daarnaast extra lijfrenteaftrek vanwege een hogere stakingswinst. De inspecteur bestrijdt met incidenteel hoger beroep juist de al toegestane aftrek.</p>
+
+
+
+<h3 class="wp-block-heading">Herziene aangifte komt te laat</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof bevestigt dat de vereiste aangifte niet is gedaan. Voor die beoordeling is de oorspronkelijke aangifte bepalend, omdat beide herziene aangiften pas na het opleggen van de primitieve aanslag zijn ingediend. De inspecteur kon daarmee bij het vaststellen van die aanslag dus geen rekening houden. Door de staking en de aanzienlijke stakingswinst niet op te nemen, is zowel absoluut als relatief te weinig belasting aangegeven. De bewijslast wordt daarom omgekeerd en verzwaard.</p>
+
+
+
+<h3 class="wp-block-heading">Geen aanvullende lijfrenteaftrek</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de extra lijfrenteaftrek komt het hof tot een andere afweging dan de rechtbank. De feiten wijzen erop dat de ondernemer ten tijde van de inbreng al van plan was het garagebedrijf binnen afzienbare tijd af te bouwen en te staken. Zo was het bedrijfsvastgoed verkocht en teruggehuurd en halveerde de omzet in het laatste jaar. Bovendien staat de oprichtingsakte volgens het hof aan een verhoging van de lijfrente in de weg. De al door de rechtbank toegestane aftrek blijft wel in stand, omdat het incidentele hoger beroep van de inspecteur te laat is ingediend.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.126?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.126</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.128?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.128</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.129?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.129 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2134" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 30-06-2026, ECLI:NL:GHAMS:2026:2134, 25/727 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/06/Autogarage.jpg" length="64917" type="image/jpeg" />	</item>
+		<item>
+		<title>Buitenlandse gift zonder anbi-status niet aftrekbaar</title>
+		<link>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/</link>
+					<comments>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:40:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167897</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat giften aan buitenlandse instellingen zonder anbi-status niet aftrekbaar zijn. De anbi-eis is volgens de rechtbank niet in strijd met het Unierecht en eerdere acceptatie van de giften wekt geen gerechtvaardigd vertrouwen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat giften aan buitenlandse instellingen zonder anbi-status niet aftrekbaar zijn. De anbi-eis is volgens de rechtbank niet in strijd met het Unierecht en eerdere acceptatie van de giften wekt geen gerechtvaardigd vertrouwen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw trekt in haar aangiften IB/PVV 2020 en 2021 giften af aan verschillende buitenlandse instellingen. De inspecteur staat alleen de giften toe aan instellingen die als anbi zijn geregistreerd. De vrouw stelt dat de regeling voor buitenlandse instellingen in strijd is met het vrije verkeer van kapitaal en diensten. Ook beroept zij zich op het vertrouwensbeginsel, omdat vergelijkbare giften in eerdere jaren wel zijn geaccepteerd.</p>
+
+
+
+<h3 class="wp-block-heading">Anbi-eis is toegestaan</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de giftenregeling niet in strijd is met het Unierecht. Buitenlandse instellingen kunnen een anbi-status verkrijgen en de vrouw heeft in beide jaren ook daadwerkelijk aan een buitenlandse anbi geschonken. De giften aan instellingen zonder anbi-status zijn daarom terecht geweigerd. Dat de inspecteur vergelijkbare giften in eerdere jaren heeft geaccepteerd, wekt evenmin gerechtvaardigd vertrouwen. Daarvoor zijn bijkomende omstandigheden nodig waaruit een bewuste standpuntbepaling blijkt. Die ontbreken, mede omdat de eerdere aangiften geautomatiseerd zijn vastgesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-5b?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5b AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.32?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;pid=c-NDFRWOZLOKAAL&amp;tab=wettekst" target="_blank" rel="noreferrer noopener">art. 6.32</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.35?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.35 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_7140" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 18-09-2026, ECLI:NL:RBGEL:2026:7140, ARN 24/5464 en 25/1431 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/02/MuseumJapan.jpg" length="59105" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Van buitenlandse naar binnenlandse belastingplicht</title>
+		<link>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:36:01 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167902</guid>
+
+					<description><![CDATA[Bij aanvang van de subjectieve belastingplicht moet een fiscale openingsbalans worden opgesteld waarop alle vermogensbestanddelen worden gewaardeerd tegen de waarde in het economische verkeer. Uiteraard zijn er ten aanzien van de fiscale openingsbalans nog genoeg vraagpunten. Het concept is echter duidelijk. Maar wat gebeurt er bij een verschuiving van de buitenlandse belastingplicht naar de binnenlandse<a class="read-more" href="https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Bij aanvang van de subjectieve belastingplicht moet een fiscale openingsbalans worden opgesteld waarop alle vermogensbestanddelen worden gewaardeerd tegen de waarde in het economische verkeer. Uiteraard zijn er ten aanzien van de fiscale openingsbalans nog genoeg vraagpunten. Het concept is echter duidelijk. Maar wat gebeurt er bij een verschuiving van de buitenlandse belastingplicht naar de binnenlandse belastingplicht in de vennootschapsbelasting?  In deze NTFR Opinie gaat mr. Brenda Coebergh daar op in.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele <a href="https://www.ndfr.nl/content/p1-1197582" data-type="link" data-id="https://www.ndfr.nl/content/p1-1197582" target="_blank" rel="noreferrer noopener">NTFR/NDFR Opinie gratis via NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/wereldhandel.jpg" length="41072" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie nieuwe Zelfstandigenwet</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 06:17:29 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167880</guid>
+
+					<description><![CDATA[Het ministerie van Sociale Zaken en Werkgelegenheid is een internetconsultatie gestart over de nieuwe Zelfstandigenwet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil met de nieuwe Zelfstandigenwet duidelijker maken wanneer iemand in ieder geval als zelfstandige kan werken. Het wetsvoorstel, dat nu als concept voor internetconsultatie voorligt, moet onzekerheid over arbeidsrelaties verminderen, schijnzelfstandigheid tegengaan en ondernemerschap een expliciete plek geven bij de beoordeling van arbeidsrelaties. </strong></p>
+
+
+
+<p class="wp-block-paragraph">Artikel 7:610 BW over de arbeidsovereenkomst wordt aangevuld met twee toetsen: de zelfstandigentoets en de werkrelatietoets. Voldoet een arbeidsrelatie aan alle criteria van beide toetsen, dan staat vast dat geen sprake is van gezag en daarmee ook niet van een arbeidsovereenkomst. Wordt niet aan alle voorwaarden voldaan, dan betekent dat niet automatisch dat iemand werknemer is. De arbeidsrelatie moet dan, net als nu, worden beoordeeld aan de hand van alle feiten en omstandigheden volgens artikel 7:610 BW. </p>
+
+
+
+<h2 class="wp-block-heading">Zelfstandigentoets</h2>
+
+
+
+<p class="wp-block-paragraph">De zelfstandigentoets kijkt naar de werkende zelf en bevat drie hoofdcriteria. Een zelfstandige moet in het lopende en voorgaande kalenderjaar in totaal minimaal drie opdrachtgevers hebben gehad. Daarnaast moet hij een nog vast te stellen minimumbedrag besteden aan voorzieningen tegen ondernemersrisico’s. Daarbij kan worden gedacht aan een arbeidsongeschiktheidsvoorziening, pensioen, een bedrijfsaansprakelijkheidsverzekering of zakelijke rechtsbijstand. Het minimumbedrag wordt later bij algemene maatregel van bestuur vastgesteld. </p>
+
+
+
+<p class="wp-block-paragraph">Verder moet de zelfstandige zijn bedrijfsvoering op orde hebben. Het kabinet denkt onder meer aan een KvK-inschrijving, een btw-identificatienummer, een aparte rekening voor zakelijke transacties, eigen facturering en het hanteren van betalingstermijnen. De precieze voorwaarden volgen eveneens in lagere regelgeving. </p>
+
+
+
+<h2 class="wp-block-heading">Werkrelatietoets</h2>
+
+
+
+<p class="wp-block-paragraph">De werkrelatietoets beoordeelt vervolgens de concrete opdracht. Hiervoor gelden vier criteria: beide partijen willen buiten dienstbetrekking werken, de zelfstandige heeft vrijheid bij de organisatie van het werk, kan in beginsel zelf werktijden en werkplek bepalen en werkt voor eigen rekening en risico. </p>
+
+
+
+<p class="wp-block-paragraph">Vooral dat laatste criterium kan gevolgen hebben voor de manier waarop opdrachten worden ingericht. Een zelfstandige moet economische baten kunnen genieten én financiële risico’s dragen. Uitsluitend per uur betaald werk waarbij geen noemenswaardig ondernemersrisico bestaat, past volgens de toelichting moeilijk bij dit criterium. Een concrete resultaatsverantwoordelijkheid tegen een vooraf bepaalde vergoeding kan daar juist wel bij passen. </p>
+
+
+
+<p class="wp-block-paragraph">De feitelijke uitvoering blijft doorslaggevend: ‘wezen gaat voor schijn’. Afspraken op papier zijn dus onvoldoende wanneer in de praktijk anders wordt gewerkt. </p>
+
+
+
+<p class="wp-block-paragraph">De Zelfstandigenwet wijzigt het fiscale ondernemersbegrip niet. Iemand die volgens de nieuwe toetsen arbeidsrechtelijk als zelfstandige kan werken, is daarmee niet automatisch ondernemer voor de inkomsten- of omzetbelasting. Ook blijven de regels voor fictieve dienstbetrekkingen bestaan. </p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet onderzoekt ten slotte een vrijwillige derdenverklaring, bijvoorbeeld van een belastingadviseur of accountant, waarmee een zelfstandige kan onderbouwen dat hij aan de zelfstandigentoets voldoet. Zo’n verklaring krijgt geen wettelijke of bindende status. </p>
+
+
+
+<p class="wp-block-paragraph">De beoogde inwerkingtreding is 1 januari 2028, mits het voorstel uitvoerbaar is. Er komt geen overgangsrecht: de regels krijgen direct werking voor zowel bestaande als nieuwe arbeidsrelaties.</p>
+
+
+
+<p class="wp-block-paragraph">De internetconsultatie staat open tot en met 29 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/verduidelijkingzelfstandigenwet/b1" data-type="link" data-id="https://www.internetconsultatie.nl/verduidelijkingzelfstandigenwet/b1" target="_blank" rel="noreferrer noopener">Ministerie SZW, 29 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/11/zzp-vrouw-schort.jpg" length="35372" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt toepassing artiestenregeling</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167900</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de artiestenregeling.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de artiestenregeling.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een stichting behartigt de belangen van een muziekband. De individuele bandleden maken geen deel uit van de stichting. De stichting heeft een overeenkomst afgesloten met een professioneel boekingskantoor die de boekingen voor de band verzorgt. Zowel het boekingskantoor als de stichting beschikken over een inhoudingsplichtigenverklaring waardoor de inhoudingsplicht over de gage feitelijk wordt verlegd van het boekingskantoor naar de stichting. De individuele bandleden willen echter voor enkele optredens buiten de artiestenregeling om opereren. Voor deze optredens factureren zij de gage rechtstreeks aan de stichting. De bandleden zijn buiten (fictieve) dienstbetrekking werkzaam.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Kan de opting-outregeling voor de betreffende optredens worden toegepast?</li>
+
+
+
+<li>Zo ja, welke partijen moeten de opting-outregeling overeenkomen?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja.</li>
+
+
+
+<li>De stichting en de artiest.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-over-toepassing-artiestenregeling-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-over-toepassing-artiestenregeling-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 1 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/06/Artiesten-podium.jpg" length="30138" type="image/jpeg" />	</item>
+	</channel>
+</rss>

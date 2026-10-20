@@ -1,0 +1,798 @@
+{
+  "date": "2026-10-06",
+  "release": "2026-10-06_1700_editorial",
+  "items": [
+    {
+      "title": "Казахстан: КГД объяснил, когда проверяют таможенную стоимость",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru",
+          "label": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "label": "Датированная публикация КГД"
+        }
+      ],
+      "theme": "Таможенная стоимость и документальное подтверждение импортных поставок",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснение КГД о контроле таможенной стоимости от 06.10.2026",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+        "source_quote": "06 октября 2026 Контроль таможенной стоимости: в каких случаях проводится проверка документов и сведений"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "kz-customs-valuation-risk-guidance-20261006",
+        "cross_border_relevance": "Подтверждение стоимости импортируемых товаров определяет базу таможенных пошлин и налогов на трансграничные поставки."
+      },
+      "slug": "2026-10-06_1700_-kz-customs-valuation-risk-guidance-20261006",
+      "caption": "Казахстан: КГД объяснил, когда проверяют таможенную стоимость\n\nРазъяснение опубликовано 6 октября 2026 года. Комитет государственных доходов разъяснил, что проверку таможенной стоимости назначают при признаках недостоверного декларирования, в том числе при несоответствиях в документах или отсутствии подтверждения отдельных составляющих стоимости.\n\nПочему это важно: Импортерам следует заранее подготовить согласованный комплект документов по цене и расходам, включаемым в таможенную стоимость. Разъяснение помогает оценить риск дополнительной проверки; оно не вводит новую пошлину.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru",
+          "checked_at": "2026-10-06T13:11:42.286102+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru",
+          "evidence": [
+            {
+              "claim": "Комитет государственных доходов разъяснил, что проверку таможенной стоимости назначают при признаках недостоверного декларирования, в том числе при несоответствиях в документах или отсутствии подтверждения отдельных составляющих стоимости.",
+              "source_quote": "Проверка документов и сведений по таможенной стоимости назначается при наличии признаков возможного недостоверного декларирования таможенной стоимости. В частности, основанием для проведения проверки могут являться выявленные несоответствия между представленными документами, существенное отклонение заявленной стоимости от стоимости идентичных или однородных товаров, отсутствие документального подтверждения отдельных составляющих таможенной стоимости, а также иные обстоятельства, свидетельствующие о возможном несоблюдении требований таможенного законодательства."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "checked_at": "2026-10-06T13:11:58.047132+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение опубликовано 6 октября 2026 года.",
+              "source_quote": "06 октября 2026 Контроль таможенной стоимости: в каких случаях проводится проверка документов и сведений"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru",
+            "checked_at": "2026-10-06T13:11:42.286102+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1305668?lang=ru",
+            "evidence": [
+              {
+                "claim": "Комитет государственных доходов разъяснил, что проверку таможенной стоимости назначают при признаках недостоверного декларирования, в том числе при несоответствиях в документах или отсутствии подтверждения отдельных составляющих стоимости.",
+                "source_quote": "Проверка документов и сведений по таможенной стоимости назначается при наличии признаков возможного недостоверного декларирования таможенной стоимости. В частности, основанием для проведения проверки могут являться выявленные несоответствия между представленными документами, существенное отклонение заявленной стоимости от стоимости идентичных или однородных товаров, отсутствие документального подтверждения отдельных составляющих таможенной стоимости, а также иные обстоятельства, свидетельствующие о возможном несоблюдении требований таможенного законодательства."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "checked_at": "2026-10-06T13:11:58.047132+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение опубликовано 6 октября 2026 года.",
+                "source_quote": "06 октября 2026 Контроль таможенной стоимости: в каких случаях проводится проверка документов и сведений"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-kz-customs-valuation-risk-guidance-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: Карагандинский ДГД напомнил о подробном описании товара в декларации",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru",
+          "label": "ДГД Карагандинской области"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "label": "Датированная публикация ДГД"
+        }
+      ],
+      "theme": "Описание товаров для таможенно-тарифного контроля",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснение ДГД Карагандинской области о графе 31 декларации от 30.09.2026",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+        "source_quote": "30 сентября 2026 ПРАВИЛЬНОСТЬ И ПОЛНОТА ЗАПОЛНЕНИЯ ГРАФЫ 31 ДЕКЛАРАЦИИ НА ТОВАРЫ (ДТ)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "kz-karaganda-customs-goods-description-20260930",
+        "cross_border_relevance": "Описание импортируемых товаров позволяет определить применимые тарифные меры и проверить декларации международных поставок."
+      },
+      "slug": "2026-10-06_1700_-kz-karaganda-customs-goods-description-20260930",
+      "caption": "Казахстан: Карагандинский ДГД напомнил о подробном описании товара в декларации\n\nРазъяснение опубликовано 30 сентября 2026 года. Департамент государственных доходов по Карагандинской области напомнил участникам внешнеэкономической деятельности: описание товара в декларации должно быть полным, достоверным и однозначным.\n\nПочему это важно: Перед подачей декларации импортерам и брокерам стоит сверить описание товара с коммерческими и транспортными документами. Конкретное описание облегчает идентификацию товара и снижает риск задержек при оформлении.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru",
+          "checked_at": "2026-10-06T13:11:42.287610+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru",
+          "evidence": [
+            {
+              "claim": "Департамент государственных доходов по Карагандинской области напомнил участникам внешнеэкономической деятельности: описание товара в декларации должно быть полным, достоверным и однозначным.",
+              "source_quote": "При декларировании товара участнику ВЭД необходимо обеспечить полноту, достоверность и однозначность его описания."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "checked_at": "2026-10-06T13:11:58.045357+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение опубликовано 30 сентября 2026 года.",
+              "source_quote": "30 сентября 2026 ПРАВИЛЬНОСТЬ И ПОЛНОТА ЗАПОЛНЕНИЯ ГРАФЫ 31 ДЕКЛАРАЦИИ НА ТОВАРЫ (ДТ)"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru",
+            "checked_at": "2026-10-06T13:11:42.287610+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1301631?lang=ru",
+            "evidence": [
+              {
+                "claim": "Департамент государственных доходов по Карагандинской области напомнил участникам внешнеэкономической деятельности: описание товара в декларации должно быть полным, достоверным и однозначным.",
+                "source_quote": "При декларировании товара участнику ВЭД необходимо обеспечить полноту, достоверность и однозначность его описания."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+            "checked_at": "2026-10-06T13:11:58.045357+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение опубликовано 30 сентября 2026 года.",
+                "source_quote": "30 сентября 2026 ПРАВИЛЬНОСТЬ И ПОЛНОТА ЗАПОЛНЕНИЯ ГРАФЫ 31 ДЕКЛАРАЦИИ НА ТОВАРЫ (ДТ)"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-kz-karaganda-customs-goods-description-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия и ЕАЭС: с Узбекистаном согласован проект обмена таможенной информацией",
+      "sources": [
+        {
+          "url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+          "label": "Евразийская экономическая комиссия"
+        }
+      ],
+      "theme": "Проект международного обмена таможенной информацией",
+      "jurisdictions": "Россия, ЕАЭС, Узбекистан",
+      "act": "Согласование проекта обмена таможенной информацией ЕАЭС — Узбекистан 30.09.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+        "source_quote": "01.10.2026 Таможенное сотрудничество"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "ru-eaeu-uzbekistan-customs-data-draft-20260930",
+        "cross_border_relevance": "Будущий обмен данными между ЕАЭС и Узбекистаном касается контроля таможенных платежей и деклараций российских участников внешней торговли."
+      },
+      "slug": "2026-10-06_1700_-ru-eaeu-uzbekistan-customs-data-draft-20260930",
+      "caption": "Россия и ЕАЭС: с Узбекистаном согласован проект обмена таможенной информацией\n\nСообщение ЕЭК опубликовано 1 октября 2026 года. Евразийская экономическая комиссия сообщила: по итогам первого раунда переговоров делегации ЕАЭС и Узбекистана согласовали проект соглашения об обмене таможенной информацией и договорились начать внутригосударственное согласование.\n\nПочему это важно: Для российских участников торговли с Узбекистаном это подготовительный шаг к обмену сведениями о товарах и транспорте. Проект еще не стал действующим соглашением и сам по себе не меняет обязанности декларантов.\n\nИсточник: https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+          "checked_at": "2026-10-06T13:11:42.288734+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+          "evidence": [
+            {
+              "claim": "Евразийская экономическая комиссия сообщила: по итогам первого раунда переговоров делегации ЕАЭС и Узбекистана согласовали проект соглашения об обмене таможенной информацией и договорились начать внутригосударственное согласование.",
+              "source_quote": "Благодаря проведению масштабной подготовительной работы и серии предварительных консультаций с заинтересованными уполномоченными органами стран Союза и Узбекистана переговорным делегациям удалось согласовать проект соглашения об обмене информацией уже по итогам первого раунда. Участники диалога также достигли договоренности о начале процедур внутригосударственного согласования документа."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+            "checked_at": "2026-10-06T13:11:42.288734+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/eaes-i-uzbekistan-soglasovali-proekt-soglasheniya-ob-obmene-tamozhennoy-informatsiey/",
+            "evidence": [
+              {
+                "claim": "Евразийская экономическая комиссия сообщила: по итогам первого раунда переговоров делегации ЕАЭС и Узбекистана согласовали проект соглашения об обмене таможенной информацией и договорились начать внутригосударственное согласование.",
+                "source_quote": "Благодаря проведению масштабной подготовительной работы и серии предварительных консультаций с заинтересованными уполномоченными органами стран Союза и Узбекистана переговорным делегациям удалось согласовать проект соглашения об обмене информацией уже по итогам первого раунда. Участники диалога также достигли договоренности о начале процедур внутригосударственного согласования документа."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-ru-eaeu-uzbekistan-customs-data-draft-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия и ЕАЭС: ЕЭК решила прекратить ценовые обязательства производителя задвижек",
+      "sources": [
+        {
+          "url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+          "label": "Евразийская экономическая комиссия"
+        }
+      ],
+      "theme": "Антидемпинговая пошлина на китайские стальные задвижки",
+      "jurisdictions": "Россия, ЕАЭС, Китай",
+      "act": "Прекращение ценовых обязательств Neway Valve, сообщение ЕЭК 29.09.2026",
+      "source_published_at": "2026-09-29",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+        "source_quote": "29.09.2026 Торговля"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "ru-eaeu-neway-valve-price-undertaking-end-20260929",
+        "cross_border_relevance": "Антидемпинговая пошлина при ввозе китайских задвижек в ЕАЭС непосредственно влияет на таможенные расходы российских импортеров."
+      },
+      "slug": "2026-10-06_1700_-ru-eaeu-neway-valve-price-undertaking-end-20260929",
+      "caption": "Россия и ЕАЭС: ЕЭК решила прекратить ценовые обязательства производителя задвижек\n\nСообщение ЕЭК опубликовано 29 сентября 2026 года. Коллегия ЕЭК решила прекратить ценовые обязательства китайского производителя стальных клиновых задвижек «Ньюэй Валв (Сучжоу)». В отношении всех её стальных клиновых задвижек будет применяться антидемпинговая пошлина 25,57%. Решение вступит в силу через 30 календарных дней с даты официального опубликования.\n\nПочему это важно: Российским импортерам задвижек этого производителя нужно учитывать предстоящую пошлину в стоимости поставок. Сообщение ЕЭК не дает основания считать меру уже действующей на дату публикации.\n\nИсточник: https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+          "checked_at": "2026-10-06T13:11:42.289641+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+          "evidence": [
+            {
+              "claim": "Коллегия ЕЭК решила прекратить ценовые обязательства китайского производителя стальных клиновых задвижек «Ньюэй Валв (Сучжоу)». В отношении всех её стальных клиновых задвижек будет применяться антидемпинговая пошлина 25,57%. Решение вступит в силу через 30 календарных дней с даты официального опубликования.",
+              "source_quote": "Коллегия Евразийской экономической комиссии приняла решение прекратить ценовые обязательства китайского производителя стальных клиновых задвижек Neway Valve (Suzhou) Co., Ltd, принятые в рамках применения соответствующей антидемпинговой меры. Теперь в отношении всех стальных клиновых задвижек производства указанной компании будет применяться установленная для неё антидемпинговая пошлина в размере 25,57%. Решение вступит в силу по истечении 30 календарных дней с даты его официального опубликования."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+            "checked_at": "2026-10-06T13:11:42.289641+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/kollegiya-eek-prekratila-tsenovye-obyazatelstva-kitayskoy-kompanii-v-ramkakh-antidempingovoy-mery-v-/",
+            "evidence": [
+              {
+                "claim": "Коллегия ЕЭК решила прекратить ценовые обязательства китайского производителя стальных клиновых задвижек «Ньюэй Валв (Сучжоу)». В отношении всех её стальных клиновых задвижек будет применяться антидемпинговая пошлина 25,57%. Решение вступит в силу через 30 календарных дней с даты официального опубликования.",
+                "source_quote": "Коллегия Евразийской экономической комиссии приняла решение прекратить ценовые обязательства китайского производителя стальных клиновых задвижек Neway Valve (Suzhou) Co., Ltd, принятые в рамках применения соответствующей антидемпинговой меры. Теперь в отношении всех стальных клиновых задвижек производства указанной компании будет применяться установленная для неё антидемпинговая пошлина в размере 25,57%. Решение вступит в силу по истечении 30 календарных дней с даты его официального опубликования."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-ru-eaeu-neway-valve-price-undertaking-end-20260929.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: два кода стальной проволоки исключены из тарифной меры",
+      "sources": [
+        {
+          "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+          "label": "Правительство Великобритании"
+        }
+      ],
+      "theme": "Изменение охвата тарифной меры на импорт стали",
+      "jurisdictions": "Великобритания",
+      "act": "Изменение товарного охвата UK steel trade measure от 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+        "source_quote": "On 1 October 2026 the product scope of the steel trade measure was amended to remove 2 non-alloy wire commodity codes (72173049 and 72173090), reducing the tariff rate for these codes from 50% to 0%. The relevant quota volumes within Category 28 have remained unchanged."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "uk-steel-wire-two-codes-removal-20261001",
+        "cross_border_relevance": "Изменение ставки непосредственно влияет на стоимость ввоза проволоки в Великобританию."
+      },
+      "slug": "2026-10-06_1700_-uk-steel-wire-two-codes-removal-20261001",
+      "caption": "Великобритания: два кода стальной проволоки исключены из тарифной меры\n\nОфициальный документ фиксирует изменение, действующее с 1 октября 2026 года. С 1 октября 2026 года из охвата британской меры по импорту стали исключены два товарных кода нелегированной проволоки — 72173049 и 72173090. Ставка для них снижена с 50% до 0%; объёмы квот категории 28 не изменились.\n\nПочему это важно: Импортерам такой проволоки стоит сверить классификацию товара и расчёт платежей. Изменение касается двух указанных кодов, поэтому переносить нулевую ставку на всю категорию проволоки нельзя.\n\nИсточник: https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+          "checked_at": "2026-10-06T13:11:42.290611+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+          "evidence": [
+            {
+              "claim": "С 1 октября 2026 года из охвата британской меры по импорту стали исключены два товарных кода нелегированной проволоки — 72173049 и 72173090. Ставка для них снижена с 50% до 0%; объёмы квот категории 28 не изменились.",
+              "source_quote": "On 1 October 2026 the product scope of the steel trade measure was amended to remove 2 non-alloy wire commodity codes (72173049 and 72173090), reducing the tariff rate for these codes from 50% to 0%. The relevant quota volumes within Category 28 have remained unchanged."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+            "checked_at": "2026-10-06T13:11:42.290611+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+            "evidence": [
+              {
+                "claim": "С 1 октября 2026 года из охвата британской меры по импорту стали исключены два товарных кода нелегированной проволоки — 72173049 и 72173090. Ставка для них снижена с 50% до 0%; объёмы квот категории 28 не изменились.",
+                "source_quote": "On 1 October 2026 the product scope of the steel trade measure was amended to remove 2 non-alloy wire commodity codes (72173049 and 72173090), reducing the tariff rate for these codes from 50% to 0%. The relevant quota volumes within Category 28 have remained unchanged."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-uk-steel-wire-two-codes-removal-20261001.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Канада: начат пересмотр меры по малым силовым трансформаторам",
+      "sources": [
+        {
+          "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+          "label": "Канадское пограничное агентство (CBSA)"
+        }
+      ],
+      "theme": "Пересмотр антидемпинговой меры на трансформаторы",
+      "jurisdictions": "Канада, Тайвань, Южная Корея",
+      "act": "SPT 2026 ER; NQ-2021-003",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+        "source_quote": "Ottawa, October 2, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "ca-small-power-transformers-expiry-review-initiation-20261002",
+        "cross_border_relevance": "Пересмотр касается антидемпинговых платежей при импорте трансформаторов из двух иностранных юрисдикций."
+      },
+      "slug": "2026-10-06_1700_-ca-small-power-transformers-expiry-review-initiation-20261002",
+      "caption": "Канада: начат пересмотр меры по малым силовым трансформаторам\n\nУведомление о начале расследования опубликовано 2 октября 2026 года. Канадское пограничное агентство начало расследование в рамках пересмотра истекающей антидемпинговой меры по малым силовым трансформаторам из Тайваня и Южной Кореи. Оно проверит, приведёт ли отмена меры к продолжению или возобновлению демпинга.\n\nПочему это важно: Производителям, экспортерам и импортерам следует проверить своё участие в пересмотре и подготовить сведения для анкет агентства. Начало расследования само по себе не означает отмену действующей меры.\n\nИсточник: https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+          "checked_at": "2026-10-06T13:11:42.359960+00:00",
+          "status_code": 200,
+          "final_url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+          "evidence": [
+            {
+              "claim": "Канадское пограничное агентство начало расследование в рамках пересмотра истекающей антидемпинговой меры по малым силовым трансформаторам из Тайваня и Южной Кореи. Оно проверит, приведёт ли отмена меры к продолжению или возобновлению демпинга.",
+              "source_quote": "On October 1, 2026, the Canadian International Trade Tribunal (CITT), pursuant to subsection 76.03(1) of the Special Import Measures Act (SIMA), initiated an expiry review of its finding made on December 24, 2021, in inquiry NQ-2021-003, concerning the dumping of certain small power transformers originating in or exported from the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu (Chinese Taipei) and the Republic of Korea (South Korea) (subject goods). As a result of the CITT’s expiry review, the Canada Border Services Agency (CBSA) has today initiated an expiry review investigation to determine, pursuant to paragraph 76.03(7)(a) of SIMA, whether the expiry of the finding is likely to result in the continuation or resumption of dumping of the subject goods."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+            "checked_at": "2026-10-06T13:11:42.359960+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/spt2026/spt2026-ni-eng.html",
+            "evidence": [
+              {
+                "claim": "Канадское пограничное агентство начало расследование в рамках пересмотра истекающей антидемпинговой меры по малым силовым трансформаторам из Тайваня и Южной Кореи. Оно проверит, приведёт ли отмена меры к продолжению или возобновлению демпинга.",
+                "source_quote": "On October 1, 2026, the Canadian International Trade Tribunal (CITT), pursuant to subsection 76.03(1) of the Special Import Measures Act (SIMA), initiated an expiry review of its finding made on December 24, 2021, in inquiry NQ-2021-003, concerning the dumping of certain small power transformers originating in or exported from the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu (Chinese Taipei) and the Republic of Korea (South Korea) (subject goods). As a result of the CITT’s expiry review, the Canada Border Services Agency (CBSA) has today initiated an expiry review investigation to determine, pursuant to paragraph 76.03(7)(a) of SIMA, whether the expiry of the finding is likely to result in the continuation or resumption of dumping of the subject goods."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-ca-small-power-transformers-expiry-review-initiation-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг: за ввоз сигарет без декларирования назначено лишение свободы",
+      "sources": [
+        {
+          "url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+          "label": "Правительство Гонконга"
+        }
+      ],
+      "theme": "Судебное дело об уплате пошлин и декларировании сигарет",
+      "jurisdictions": "Гонконг",
+      "act": "Сообщение таможни Гонконга P2026100600366; Dutiable Commodities Ordinance",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+        "source_quote": "Ends/Tuesday, October 6, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "hk-duty-unpaid-cigarettes-incoming-passenger-sentence-20261006",
+        "cross_border_relevance": "Дело касается обязанности декларировать облагаемые пошлинами товары при пересечении границы Гонконга."
+      },
+      "item_type": "court",
+      "court": "West Kowloon Magistrates Courts",
+      "slug": "2026-10-06_1700_-hk-duty-unpaid-cigarettes-incoming-passenger-sentence-20261006",
+      "caption": "Гонконг: за ввоз сигарет без декларирования назначено лишение свободы\n\nОфициальное сообщение о приговоре опубликовано 6 октября 2026 года. 6 октября суд назначил прибывшему пассажиру шесть месяцев лишения свободы и штраф в 2 000 гонконгских долларов за ввоз сигарет без уплаты пошлин и их недекларирование таможне.\n\nПочему это важно: Пассажирам международных рейсов стоит заранее проверить правила ввоза подакцизных товаров и необходимость декларирования. Судебное сообщение показывает последствия нарушения; материал носит информационный характер и не является налоговой консультацией.\n\nИсточник: https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+          "checked_at": "2026-10-06T13:11:57.816590+00:00",
+          "status_code": 200,
+          "final_url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+          "evidence": [
+            {
+              "claim": "6 октября суд назначил прибывшему пассажиру шесть месяцев лишения свободы и штраф в 2 000 гонконгских долларов за ввоз сигарет без уплаты пошлин и их недекларирование таможне.",
+              "source_quote": "An incoming male passenger was sentenced to six months' imprisonment and fined $2,000 by the West Kowloon Magistrates' Courts today (October 6) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO)."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+            "checked_at": "2026-10-06T13:11:57.816590+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.info.gov.hk/gia/general/202610/06/P2026100600366.htm",
+            "evidence": [
+              {
+                "claim": "6 октября суд назначил прибывшему пассажиру шесть месяцев лишения свободы и штраф в 2 000 гонконгских долларов за ввоз сигарет без уплаты пошлин и их недекларирование таможне.",
+                "source_quote": "An incoming male passenger was sentenced to six months' imprisonment and fined $2,000 by the West Kowloon Magistrates' Courts today (October 6) for importing duty-not-paid cigarettes and failing to declare them to Customs officers, in contravention of the Dutiable Commodities Ordinance (DCO)."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-hk-duty-unpaid-cigarettes-incoming-passenger-sentence-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: опубликованы окончательные результаты пересмотра пошлин на турецкую фольгу",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+          "label": "Federal Register, Правительственное издательское управление США"
+        }
+      ],
+      "theme": "Окончательный административный пересмотр компенсационных пошлин",
+      "jurisdictions": "США, Турция",
+      "act": "C-489-845; FR Doc. 2026-20272; Assan Aluminyum Sanayi ve Ticaret A.S.; Panda Aluminyum A.S.",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+        "source_quote": "[Federal Register Volume 91, Number 190 (Friday, October 2, 2026)]"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "us-turkey-aluminium-foil-cvd-final-review-2023-20261002",
+        "cross_border_relevance": "Пересмотр определяет компенсационные платежи при импорте турецкой алюминиевой фольги в США."
+      },
+      "slug": "2026-10-06_1700_-us-turkey-aluminium-foil-cvd-final-review-2023-20261002",
+      "caption": "США: опубликованы окончательные результаты пересмотра пошлин на турецкую фольгу\n\nОкончательные результаты опубликованы в Федеральном реестре США и применяются с 2 октября 2026 года. Минторг США завершил административный пересмотр компенсационных пошлин на определённую алюминиевую фольгу из Турции за 2023 год. Итоговая ставка субсидирования для «Ассан Алюминьюм» составляет 2,65%, для «Панда Алюминьюм» — 3,82%.\n\nПочему это важно: Импортерам стоит сверить производителя и экспортера в документах поставки с результатами пересмотра. Это окончательные результаты конкретного дела, поэтому указанные ставки нельзя автоматически применять к любой турецкой фольге.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+          "checked_at": "2026-10-06T13:11:58.517535+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+          "evidence": [
+            {
+              "claim": "Минторг США завершил административный пересмотр компенсационных пошлин на определённую алюминиевую фольгу из Турции за 2023 год. Итоговая ставка субсидирования для «Ассан Алюминьюм» составляет 2,65%, для «Панда Алюминьюм» — 3,82%.",
+              "source_quote": "Certain Aluminum Foil From the Republic of T[uuml]rkiye: Final Results of Countervailing Duty Administrative Review; 2023 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to producers and exporters of certain aluminum foil (aluminum foil) from the Republic of T[uuml]rkiye (T[uuml]rkiye), during the period of review (POR) January 1, 2023, through December 31, 2023. DATES: Applicable October 2, 2026. FOR FURTHER INFORMATION CONTACT: Ian Riggs or Caroline Carroll, AD/CVD Operations, Office IX, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-3810 and (202) 482-4948, respectively. SUPPLEMENTARY INFORMATION: Background On May 6, 2026, Commerce published the Preliminary Results of this administrative review in the Federal Register and invited interested parties to comment.\\1\\ On August 19, 2026, Commerce extended the deadline for the final results of this review to no later than September 25, 2026.\\2\\ For a complete description of the events that occurred since the Preliminary Results, see the Issues and Decision Memorandum.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Aluminum Foil from Republic of T[uuml]rkiye: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023, 91 FR 24513 (May 6, 2026) (Preliminary Results), and accompanying Preliminary Decision Memorandum (PDM). \\2\\ See Memorandum, ``Extension of Deadline for Final Results of 2023 Countervailing Administrative Review,'' dated August 19, 2026. \\3\\ See Memorandum, ``Issues and Decision Memorandum for the Final Results of the Countervailing Duty Administrative Review of Certain Aluminum Foil from the Republic of T[uuml]rkiye; 2023,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order \\4\\ --------------------------------------------------------------------------- \\4\\ See Certain Aluminum Foil from the Sultanate of Oman and the Republic of T[uuml]rkiye: Countervailing Duty Orders, 86 FR 62782 (November 12, 2021) (Order). --------------------------------------------------------------------------- The merchandise covered by this Order is aluminum foil from T[uuml]rkiye. For a complete description of the scope [[Page 62699]] of the Order, see Issues and Decision Memorandum. Analysis of Comments Received All issues raised in the case briefs and rebuttal briefs are addressed in the Issues and Decision Memorandum. A list of the issues addressed is attached as an appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . Methodology Commerce conducted this review in accordance with section 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each of the subsidy programs found to be countervailable, we find that there is a subsidy, i.e., a government-provided financial contribution that gives rise to a benefit to the recipient, and that the subsidy is specific.\\5\\ For a full description of the methodology underlying all of Commerce's conclusions, see the Issues and Decision Memorandum. --------------------------------------------------------------------------- \\5\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Analysis of Comments Received All issues raised in the case and rebuttal briefs by parties in these inquiries are addressed in the Issues and Decision Memorandum. A list of the issues raised is attached as an appendix to this notice. Based on our analysis of the comments received from interested parties, we made no changes to the Preliminary Results. Final Results of Review As a result of this review, we determine the following net countervailable subsidy rates exist for the period January 1, 2023, through December 31, 2023: ------------------------------------------------------------------------ Subsidy rate Producer/exporter (percent ad valorem) ------------------------------------------------------------------------ Assan Aluminyum Sanayi ve Ticaret A.S.\\6\\............... 2.65 Panda Aluminyum A.S.\\7\\................................. 3.82"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+            "checked_at": "2026-10-06T13:11:58.517535+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/html/2026-20272.htm",
+            "evidence": [
+              {
+                "claim": "Минторг США завершил административный пересмотр компенсационных пошлин на определённую алюминиевую фольгу из Турции за 2023 год. Итоговая ставка субсидирования для «Ассан Алюминьюм» составляет 2,65%, для «Панда Алюминьюм» — 3,82%.",
+                "source_quote": "Certain Aluminum Foil From the Republic of T[uuml]rkiye: Final Results of Countervailing Duty Administrative Review; 2023 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to producers and exporters of certain aluminum foil (aluminum foil) from the Republic of T[uuml]rkiye (T[uuml]rkiye), during the period of review (POR) January 1, 2023, through December 31, 2023. DATES: Applicable October 2, 2026. FOR FURTHER INFORMATION CONTACT: Ian Riggs or Caroline Carroll, AD/CVD Operations, Office IX, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-3810 and (202) 482-4948, respectively. SUPPLEMENTARY INFORMATION: Background On May 6, 2026, Commerce published the Preliminary Results of this administrative review in the Federal Register and invited interested parties to comment.\\1\\ On August 19, 2026, Commerce extended the deadline for the final results of this review to no later than September 25, 2026.\\2\\ For a complete description of the events that occurred since the Preliminary Results, see the Issues and Decision Memorandum.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Aluminum Foil from Republic of T[uuml]rkiye: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023, 91 FR 24513 (May 6, 2026) (Preliminary Results), and accompanying Preliminary Decision Memorandum (PDM). \\2\\ See Memorandum, ``Extension of Deadline for Final Results of 2023 Countervailing Administrative Review,'' dated August 19, 2026. \\3\\ See Memorandum, ``Issues and Decision Memorandum for the Final Results of the Countervailing Duty Administrative Review of Certain Aluminum Foil from the Republic of T[uuml]rkiye; 2023,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order \\4\\ --------------------------------------------------------------------------- \\4\\ See Certain Aluminum Foil from the Sultanate of Oman and the Republic of T[uuml]rkiye: Countervailing Duty Orders, 86 FR 62782 (November 12, 2021) (Order). --------------------------------------------------------------------------- The merchandise covered by this Order is aluminum foil from T[uuml]rkiye. For a complete description of the scope [[Page 62699]] of the Order, see Issues and Decision Memorandum. Analysis of Comments Received All issues raised in the case briefs and rebuttal briefs are addressed in the Issues and Decision Memorandum. A list of the issues addressed is attached as an appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . Methodology Commerce conducted this review in accordance with section 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each of the subsidy programs found to be countervailable, we find that there is a subsidy, i.e., a government-provided financial contribution that gives rise to a benefit to the recipient, and that the subsidy is specific.\\5\\ For a full description of the methodology underlying all of Commerce's conclusions, see the Issues and Decision Memorandum. --------------------------------------------------------------------------- \\5\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Analysis of Comments Received All issues raised in the case and rebuttal briefs by parties in these inquiries are addressed in the Issues and Decision Memorandum. A list of the issues raised is attached as an appendix to this notice. Based on our analysis of the comments received from interested parties, we made no changes to the Preliminary Results. Final Results of Review As a result of this review, we determine the following net countervailable subsidy rates exist for the period January 1, 2023, through December 31, 2023: ------------------------------------------------------------------------ Subsidy rate Producer/exporter (percent ad valorem) ------------------------------------------------------------------------ Assan Aluminyum Sanayi ve Ticaret A.S.\\6\\............... 2.65 Panda Aluminyum A.S.\\7\\................................. 3.82"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-us-turkey-aluminium-foil-cvd-final-review-2023-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Япония и Монголия договорились начать переговоры о налоговом соглашении",
+      "sources": [
+        {
+          "url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+          "label": "Канцелярия премьер-министра Японии"
+        }
+      ],
+      "theme": "Переговоры о двустороннем налоговом соглашении",
+      "jurisdictions": "Япония, Монголия",
+      "act": "Japan-Mongolia Summit and Working Dinner, 29.09.2026: начало переговоров о налоговой конвенции",
+      "source_published_at": "2026-09-29",
+      "publication_date_evidence": {
+        "url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+        "source_quote": "Japan-Mongolia Summit and Working Dinner(Summary) September 29, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "jp-mongolia-bilateral-tax-convention-negotiations-20260929",
+        "cross_border_relevance": "Будущее соглашение будет регулировать налогообложение операций и доходов между Японией и Монголией; текущая стадия — договорённость начать переговоры."
+      },
+      "slug": "2026-10-06_1700_-jp-mongolia-bilateral-tax-convention-negotiations-20260929",
+      "caption": "Япония и Монголия договорились начать переговоры о налоговом соглашении\n\nДоговорённость зафиксирована в официальном сообщении о встрече 29 сентября 2026 года. Лидеры Японии и Монголии договорились оперативно начать переговоры о двусторонней налоговой конвенции. Пока речь идёт о переговорной стадии.\n\nПочему это важно: Компаниям с операциями в обеих странах стоит следить за дальнейшими этапами переговоров. До появления и вступления в силу согласованного документа рассчитывать на новые льготные ставки нельзя.\n\nИсточник: https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+          "checked_at": "2026-10-06T13:11:58.568654+00:00",
+          "status_code": 200,
+          "final_url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+          "evidence": [
+            {
+              "claim": "Лидеры Японии и Монголии договорились оперативно начать переговоры о двусторонней налоговой конвенции. Пока речь идёт о переговорной стадии.",
+              "source_quote": "Furthermore, the two leaders concurred in deepening discussions utilizing the Japan-Mongolia Government and Business Sector Joint Committee scheduled for November this year, in order to promote the improvement of the business environment championed by Prime Minister Uchral, and to promptly commence negotiations with a view to concluding a bilateral tax convention in order to develop cooperation in the economic field."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+            "checked_at": "2026-10-06T13:11:58.568654+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://japan.kantei.go.jp/105/diplomatic/202609/0929meeting.html",
+            "evidence": [
+              {
+                "claim": "Лидеры Японии и Монголии договорились оперативно начать переговоры о двусторонней налоговой конвенции. Пока речь идёт о переговорной стадии.",
+                "source_quote": "Furthermore, the two leaders concurred in deepening discussions utilizing the Japan-Mongolia Government and Business Sector Joint Committee scheduled for November this year, in order to promote the improvement of the business environment championed by Prime Minister Uchral, and to promptly commence negotiations with a view to concluding a bilateral tax convention in order to develop cooperation in the economic field."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-jp-mongolia-bilateral-tax-convention-negotiations-20260929.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС: оспорены условия освобождения нерезидентов от налога по итальянским облигациям",
+      "sources": [
+        {
+          "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+          "label": "Еврокомиссия, представительство на Мальте"
+        }
+      ],
+      "theme": "Налог у источника по облигациям и свобода трансграничных финансовых услуг",
+      "jurisdictions": "ЕС, Италия",
+      "act": "INFR(2026)4015; официальное уведомление Италии от 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+        "source_quote": "Publication date 1 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "eu-italy-nonresident-bond-withholding-exemption-infringement-20261001",
+        "cross_border_relevance": "Условия освобождения от налога у источника влияют на нерезидентов и выбор финансовых посредников из других стран ЕС и ЕЭЗ."
+      },
+      "slug": "2026-10-06_1700_-eu-italy-nonresident-bond-withholding-exemption-infringement-20261001",
+      "caption": "ЕС: оспорены условия освобождения нерезидентов от налога по итальянским облигациям\n\nУведомление включено в пакет решений Еврокомиссии от 1 октября 2026 года. Еврокомиссия направила Италии официальное уведомление по делу INFR(2026)4015: она считает, что условия освобождения некоторых нерезидентов от налога на доходы по итальянским облигациям нарушают свободу оказания услуг. Претензия касается привязки льготы к определённым посредникам.\n\nПочему это важно: Инвесторам и финансовым посредникам стоит проверить условия применяемого освобождения. Начало процедуры не отменяет итальянские правила и не даёт автоматического права на возврат налога.\n\nИсточник: https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+          "checked_at": "2026-10-06T13:11:59.127992+00:00",
+          "status_code": 200,
+          "final_url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+          "evidence": [
+            {
+              "claim": "Еврокомиссия направила Италии официальное уведомление по делу INFR(2026)4015: она считает, что условия освобождения некоторых нерезидентов от налога на доходы по итальянским облигациям нарушают свободу оказания услуг. Претензия касается привязки льготы к определённым посредникам.",
+              "source_quote": "The European Commission decided to open an infringement procedure by sending a letter of formal notice to Italy ( INFR(2026)4015 ) for failing to bring its legislation on the tax treatment of interest and other income from Italian bonds in line with the rules on freedom to provide services (Article 56 TFEU and Article 36 EEA). Under Italian tax legislation, interest and other income from Italian corporate and government bonds are generally subject to withholding tax. Certain non-resident investors may benefit from a tax exemption. This is only the case when the bonds are deposited with an Italian resident financial intermediary, the Italian permanent establishment of a non-resident intermediary or, in some cases, a non-resident intermediary that has appointed an Italian tax representative. These conditions make safekeeping and administration services provided by financial intermediaries established in other EU Member States or EEA countries without a permanent establishment in Italy less attractive than equivalent services provided by Italian financial intermediaries and discourage non-resident investors from using such financial intermediaries."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+            "checked_at": "2026-10-06T13:11:59.127992+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://malta.representation.ec.europa.eu/news/october-infringements-package-key-decisions-2026-10-01_en",
+            "evidence": [
+              {
+                "claim": "Еврокомиссия направила Италии официальное уведомление по делу INFR(2026)4015: она считает, что условия освобождения некоторых нерезидентов от налога на доходы по итальянским облигациям нарушают свободу оказания услуг. Претензия касается привязки льготы к определённым посредникам.",
+                "source_quote": "The European Commission decided to open an infringement procedure by sending a letter of formal notice to Italy ( INFR(2026)4015 ) for failing to bring its legislation on the tax treatment of interest and other income from Italian bonds in line with the rules on freedom to provide services (Article 56 TFEU and Article 36 EEA). Under Italian tax legislation, interest and other income from Italian corporate and government bonds are generally subject to withholding tax. Certain non-resident investors may benefit from a tax exemption. This is only the case when the bonds are deposited with an Italian resident financial intermediary, the Italian permanent establishment of a non-resident intermediary or, in some cases, a non-resident intermediary that has appointed an Italian tax representative. These conditions make safekeeping and administration services provided by financial intermediaries established in other EU Member States or EEA countries without a permanent establishment in Italy less attractive than equivalent services provided by Italian financial intermediaries and discourage non-resident investors from using such financial intermediaries."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1700_-eu-italy-nonresident-bond-withholding-exemption-infringement-20261001.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

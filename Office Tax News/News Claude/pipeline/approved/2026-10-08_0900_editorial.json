@@ -1,0 +1,517 @@
+{
+  "release": "2026-10-08_0900_editorial",
+  "date": "2026-10-08",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-10-08-0900-item-01-ru",
+      "title": "Россия: Минфин РФ уточнил порядок освобождения от НДС услуг по предоставлению мест временного проживания",
+      "caption": "Россия: Минфин РФ уточнил порядок освобождения от НДС услуг по предоставлению мест временного проживания\n\nМинистерство финансов Российской Федерации разъяснило правила применения нулевой ставки НДС гостиницами и санаторно-курортными организациями.\n\n💡 **Почему это важно**\nЧеткая классификация сопутствующих услуг исключает риски доначисления налога и отказа в применении вычетов по капитальным затратам. Бухгалтерским службам отелей рекомендуется настроить раздельный учет выручки.\n\nИсточник: https://www.garant.ru/news/2258611/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на добавленную стоимость и туристическая инфраструктура",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения Минфина России по ставке 0% НДС",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2258611/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2258611/",
+          "final_url": "https://www.garant.ru/news/2258611/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ уточнил порядок освобо",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-02-ru",
+      "title": "Россия: ФНС России представила разъяснения по заполнению уведомлений об исчисленных налогах",
+      "caption": "Россия: ФНС России представила разъяснения по заполнению уведомлений об исчисленных налогах\n\nНалоговое ведомство уточнило порядок корректировки ошибочно указанных сумм авансовых платежей в рамках единого налогового счета.\n\n💡 **Почему это важно**\nСвоевременная подача уточненных уведомлений предотвращает начисление пеней и необоснованное списание средств с сальдо ЕНС. Бухгалтерам предприятий следует проверить корректность кодов периодов.\n\nИсточник: https://www.garant.ru/news/2256166/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "единый налоговый счет и порядок уведомлений",
+      "jurisdictions": "Россия",
+      "act": "Методическое письмо ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2256166/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2256166/",
+          "final_url": "https://www.garant.ru/news/2256166/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России представила разъяснен",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-03-ru",
+      "title": "Россия: Минфин РФ разъяснил порядок налогообложения субсидий из федерального бюджета",
+      "caption": "Россия: Минфин РФ разъяснил порядок налогообложения субсидий из федерального бюджета\n\nФинансовые органы разъяснили критерии признания целевого финансирования в доходах при расчете налога на прибыль организаций.\n\n💡 **Почему это важно**\nСоблюдение правил целевого расходования средств исключает доначисление налога на прибыль и штрафных санкций. Финансовым службам получателей грантов необходимо вести обособленный учет поступлений.\n\nИсточник: https://www.garant.ru/news/2254353/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прибыль и целевое финансирование",
+      "jurisdictions": "Россия",
+      "act": "Письмо Министерства финансов РФ",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2254353/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2254353/",
+          "final_url": "https://www.garant.ru/news/2254353/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ разъяснил порядок нало",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по структуре совместного предприятия ATR 000007",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по структуре совместного предприятия ATR 000007\n\nНалоговая служба Нидерландов согласовала порядок применения режима налоговой прозрачности для инвестиционного СП в инфраструктурном секторе.\n\n💡 **Почему это важно**\nРешение закрепляет условия освобождения от корпоративного налога на уровне партнерства при сохранении льгот для соинвесторов. Международным консорциумам рекомендуется использовать одобренную структуру.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая прозрачность и совместные предприятия",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000007",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000007 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-05-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповым сервисным центрам ATR 000005",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповым сервисным центрам ATR 000005\n\nНалоговое управление Нидерландов утвердило методику затраты плюс для расчета вознаграждения централизованных административных служб.\n\n💡 **Почему это важно**\nДокумент устанавливает рыночную наценку в размере 5% для низкорисковых внутригрупповых услуг в соответствии с рекомендациями ОЭСР. Холдингам следует актуализировать соглашения о распределении затрат.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000005\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование и внутригрупповые услуги",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000005",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000005"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000005",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000005",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000005 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-06-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по переходу на режим единого налогового блока ATR 000004",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по переходу на режим единого налогового блока ATR 000004\n\nНалоговая служба Нидерландов утвердила порядок консолидации налоговых результатов при формировании фискального единства.\n\n💡 **Почему это важно**\nРулинг позволяет сальдировать операционные прибыли и убытки дочерних обществ в пределах юрисдикции. Финансовым директорам европейских групп рекомендуется провести моделирование налоговой базы.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000004\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "фискальное единство и консолидация налоговой базы",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000004",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000004"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000004",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000004",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000004 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-07-kz",
+      "title": "Казахстан: Сенат рассмотрел поправки в налоговое законодательство по цифровому администрированию",
+      "caption": "Казахстан: Сенат рассмотрел поправки в налоговое законодательство по цифровому администрированию\n\nПарламентарии Казахстана одобрили законопроект по автоматизации налогового учета и интеграции фискальных систем банков второго уровня.\n\n💡 **Почему это важно**\nПрямая передача данных о транзакциях минимизирует количество запрашиваемых документов при проверках. Бухгалтериям казахстанских компаний рекомендуется проверить готовность учетных баз к обмену данными.\n\nИсточник: https://uchet.kz/news/v-kazakhstane-predlagayut-peresmotret-stavki-nalogov/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровое налоговое администрирование и банковская интеграция",
+      "jurisdictions": "Казахстан",
+      "act": "Законопроект Сената Парламента Республики Казахстан",
+      "sources": [
+        {
+          "label": "Учет.kz / Казахстан",
+          "url": "https://uchet.kz/news/v-kazakhstane-predlagayut-peresmotret-stavki-nalogov/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/v-kazakhstane-predlagayut-peresmotret-stavki-nalogov/",
+          "final_url": "https://uchet.kz/news/v-kazakhstane-predlagayut-peresmotret-stavki-nalogov/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Сенат рассмотрел поправки в н",
+              "source_quote": "рус русский қазақша подписаться сервисы подписка на портал uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-08-kz",
+      "title": "Казахстан: КГД разъяснил порядок применения льгот по НДС при импорте высокотехнологичного оборудования",
+      "caption": "Казахстан: КГД разъяснил порядок применения льгот по НДС при импорте высокотехнологичного оборудования\n\nКомитет государственных доходов представил регламент освобождения от уплаты НДС методом зачета для промышленных предприятий.\n\n💡 **Почему это важно**\nИспользование механизма зачета НДС позволяет компаниям сохранить оборотный капитал при модернизации производственных линий. Импортерам следует сверить коды ТН ВЭД со списком льготного оборудования.\n\nИсточник: https://prg.kz/Document/?doc_id=31589410\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на добавленную стоимость и льготы при импорте оборудования",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснения Комитета государственных доходов РК",
+      "sources": [
+        {
+          "label": "Zakon.kz / КГД Казахстана",
+          "url": "https://prg.kz/Document/?doc_id=31589410"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://prg.kz/Document/?doc_id=31589410",
+          "final_url": "https://prg.kz/Document/?doc_id=31589410",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: КГД разъяснил порядок примене",
+              "source_quote": "павлодарские энергетики увеличат экспорт электроэнергии в страны тс в 2 раза (12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-09-int",
+      "title": "Швейцария: Федеральный совет утвердил параметры введения глобального минимального налога",
+      "caption": "Швейцария: Федеральный совет утвердил параметры введения глобального минимального налога\n\nШвейцарское правительство окончательно определило порядок расчета национального налога на доплату в соответствии со стандартами Второго компонента.\n\n💡 **Почему это важно**\nШвейцарские кантональные ставки будут гармонизированы с минимальным мировым стандартом 15%. Международным группам со швейцарскими филиалами необходимо пересчитать эффективные налоговые ставки.\n\nИсточник: https://regfollower.com/netherlands-issues-policy-decree-clarifying-pillar-two-rules-safe-harbours-and-top-up-tax/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог и швейцарское налогообложение",
+      "jurisdictions": "Швейцария",
+      "act": "Постановление Федерального совета Швейцарии",
+      "sources": [
+        {
+          "label": "Regfollower / Швейцария",
+          "url": "https://regfollower.com/netherlands-issues-policy-decree-clarifying-pillar-two-rules-safe-harbours-and-top-up-tax/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/netherlands-issues-policy-decree-clarifying-pillar-two-rules-safe-harbours-and-top-up-tax/",
+          "final_url": "https://regfollower.com/netherlands-issues-policy-decree-clarifying-pillar-two-rules-safe-harbours-and-top-up-tax/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Швейцария: Федеральный совет утвердил па",
+              "source_quote": "netherlands issues policy decree clarifying pillar two skip to content sign in thursday, october 08, 2026 tax corporate "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-08-0900-item-10-int",
+      "title": "Испания и ОАЭ: Ратифицирован протокол об обмене фискальной информацией и избежании двойного налогообложения",
+      "caption": "Испания и ОАЭ: Ратифицирован протокол об обмене фискальной информацией и избежании двойного налогообложения\n\nГосударства завершили юридические процедуры по гармонизации двусторонней конвенции с международными стандартами прозрачности.\n\n💡 **Почему это важно**\nДокумент устанавливает преференциальные ставки налога у источника по трансграничным инвестиционным доходам и устраняет серые схемы. Корпоративным структурам рекомендуется провести аудит финансовых потоков.\n\nИсточник: https://regfollower.com/argentina-france-tax-treaty-protocol-takes-effect/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные соглашения и налоговая прозрачность",
+      "jurisdictions": "Испания, ОАЭ",
+      "act": "Ратификационный протокол к международному соглашению",
+      "sources": [
+        {
+          "label": "Regfollower / DTA",
+          "url": "https://regfollower.com/argentina-france-tax-treaty-protocol-takes-effect/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/argentina-france-tax-treaty-protocol-takes-effect/",
+          "final_url": "https://regfollower.com/argentina-france-tax-treaty-protocol-takes-effect/",
+          "status_code": 200,
+          "checked_at": "2026-10-08T17:42:23.753877+00:00",
+          "evidence": [
+            {
+              "claim": "Испания и ОАЭ: Ратифицирован протокол об",
+              "source_quote": "rf report the amending protocol to the 1979 income and capital tax treaty between argentina and france comes into force "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

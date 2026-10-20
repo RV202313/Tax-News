@@ -1,0 +1,517 @@
+{
+  "release": "2026-10-14_1300_editorial",
+  "date": "2026-10-14",
+  "slot": "1300",
+  "items": [
+    {
+      "slug": "2026-10-14-1300-item-01-ru",
+      "title": "Россия: ФНС России разъяснила особенности заполнения декларации по косвенным налогам при импорте",
+      "caption": "Россия: ФНС России разъяснила особенности заполнения декларации по косвенным налогам при импорте\n\nНалоговая служба представила практические рекомендации по отражению сумм НДС при ввозе товаров из государств Евразийского экономического союза.\n\n💡 **Почему это важно**\nКорректное заполнение разделов декларации и своевременное представление заявления о ввозе гарантируют право на налоговый вычет. Импортерам рекомендуется сопоставить данные с учетными регистрами.\n\nИсточник: https://www.garant.ru/news/2267542/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенные налоги и декларирование импорта из ЕАЭС",
+      "jurisdictions": "Россия",
+      "act": "Письмо ФНС России по косвенным налогам",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2267542/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2267542/",
+          "final_url": "https://www.garant.ru/news/2267542/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России разъяснила особенност",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-02-ru",
+      "title": "Россия: Предельная величина базы для исчисления страховых взносов увеличится более чем на 11 процентов",
+      "caption": "Россия: Предельная величина базы для исчисления страховых взносов увеличится более чем на 11 процентов\n\nПодготовлен проект постановления об индексации единой предельной базы по обязательным социальным страховым взносам на 2027 год.\n\n💡 **Почему это важно**\nРост предельного значения увеличивает совокупную фискальную нагрузку на фонд оплаты труда высококвалифицированных специалистов. Финансовым директорам необходимо заложить изменения в корпоративный бюджет.\n\nИсточник: https://www.garant.ru/news/2267541/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "страховые взносы и единая предельная величина базы",
+      "jurisdictions": "Россия",
+      "act": "Проект постановления Правительства РФ",
+      "sources": [
+        {
+          "label": "Минтруд России / Гарант",
+          "url": "https://www.garant.ru/news/2267541/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2267541/",
+          "final_url": "https://www.garant.ru/news/2267541/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Предельная величина базы для исч",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-03-ru",
+      "title": "Россия: ФНС России прокомментировала изменения в форме декларации по налогу на прибыль",
+      "caption": "Россия: ФНС России прокомментировала изменения в форме декларации по налогу на прибыль\n\nФедеральная налоговая служба утвердила обновленный бланк налоговой отчетности с учетом новых инвестиционных налоговых вычетов.\n\n💡 **Почему это важно**\nИспользование обновленной структуры декларации обязательно начиная с отчетности за текущий налоговый период. Главным бухгалтерам следует заблаговременно обновить учетные конфигурации.\n\nИсточник: https://www.garant.ru/news/2266418/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прибыль и инвестиционный налоговый вычет",
+      "jurisdictions": "Россия",
+      "act": "Приказ ФНС России о форме декларации",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2266418/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2266418/",
+          "final_url": "https://www.garant.ru/news/2266418/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России прокомментировала изм",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому факторингу ATR 000009",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому факторингу ATR 000009\n\nНалоговая служба Нидерландов утвердила размер дисконта при переуступке краткосрочной торговой дебиторской задолженности.\n\n💡 **Почему это важно**\nДокумент подтверждает обоснованность процентных и дисконтных расходов специализированного финансового подразделения. Казначействам холдингов целесообразно использовать утвержденную схему.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000009\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внутригрупповой факторинг и дисконтирование долга",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000009",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000009"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000009",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000009",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260929 atr 000009 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-05-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по партнерской инвестиционной платформе ATR 000004",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по партнерской инвестиционной платформе ATR 000004\n\nНалоговое управление Нидерландов подтвердило налоговую прозрачность закрытого инвестиционного фонда коммерческой недвижимости.\n\n💡 **Почему это важно**\nУтвержденный статус исключает возникновение корпоративного налога на уровне фонда, обеспечивая прямое налогообложение инвесторов. Управляющим инвестиционными активами рекомендуется учитывать согласованные критерии.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000004\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая прозрачность и инвестиционные фонды недвижимости",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000004",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000004"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000004",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000004",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260929 atr 000004 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-06-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по сервисному центру и надбавке к затратам ATR 000001",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по сервисному центру и надбавке к затратам ATR 000001\n\nНалоговая служба Нидерландов согласовала процент рыночной наценки на операционные расходы для общеевропейского центра услуг.\n\n💡 **Почему это важно**\nРулинг гарантирует безопасность трансфертного ценообразования при распределении общекорпоративных управленческих расходов. Финансовым службам групп следует применять согласованный процент рентабельности.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000001\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование и сервисные центры",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000001",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000001"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000001",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000001",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260929 atr 000001 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-07-kz",
+      "title": "Казахстан: Налогоплательщики вправе представить дополнительный расчет по авансовым платежам КПН до 31 декабря",
+      "caption": "Казахстан: Налогоплательщики вправе представить дополнительный расчет по авансовым платежам КПН до 31 декабря\n\nКомитет государственных доходов напомнил о порядке корректировки сумм авансовых платежей по корпоративному подоходному налогу.\n\n💡 **Почему это важно**\nСвоевременная подача скорректированного расчета исключает риск начисления пени и административной ответственности за занижение авансов. Финансовым менеджерам рекомендуется пересчитать фактические финансовые результаты.\n\nИсточник: https://uchet.kz/news/dopolnitelnyy-raschyet-po-avansam-kpn-mozhno-sdat-do-31-dekabrya/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративный подоходный налог и авансовые платежи",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснения Комитета государственных доходов РК",
+      "sources": [
+        {
+          "label": "Учет.kz / КГД Казахстана",
+          "url": "https://uchet.kz/news/dopolnitelnyy-raschyet-po-avansam-kpn-mozhno-sdat-do-31-dekabrya/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/dopolnitelnyy-raschyet-po-avansam-kpn-mozhno-sdat-do-31-dekabrya/",
+          "final_url": "https://uchet.kz/news/dopolnitelnyy-raschyet-po-avansam-kpn-mozhno-sdat-do-31-dekabrya/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Налогоплательщики вправе пред",
+              "source_quote": "дополнительный расчёт по авансам кпн можно сдать до 31 декабря — uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-08-kz",
+      "title": "Казахстан: Разъяснен порядок начисления импортного НДС при невозврате временно ввезенных товаров из ЕАЭС",
+      "caption": "Казахстан: Разъяснен порядок начисления импортного НДС при невозврате временно ввезенных товаров из ЕАЭС\n\nФискальные органы разъяснили налоговые последствия нарушения сроков обратного вывоза оборудования и выставочных образцов.\n\n💡 **Почему это важно**\nПревышение установленных сроков временного ввоза влечет признание реализации и обязанность уплаты НДС с начислением пеней. Участникам внешнеэкономической деятельности следует строго контролировать таможенные сроки.\n\nИсточник: https://uchet.kz/news/vremenno-vvezyennye-iz-strany-eaes-tovary-kogda-nachislyayut-nds-na-import/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "импортный НДС и временный ввоз товаров ЕАЭС",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснения налоговых органов Казахстана",
+      "sources": [
+        {
+          "label": "Учет.kz / Казахстан",
+          "url": "https://uchet.kz/news/vremenno-vvezyennye-iz-strany-eaes-tovary-kogda-nachislyayut-nds-na-import/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/vremenno-vvezyennye-iz-strany-eaes-tovary-kogda-nachislyayut-nds-na-import/",
+          "final_url": "https://uchet.kz/news/vremenno-vvezyennye-iz-strany-eaes-tovary-kogda-nachislyayut-nds-na-import/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Разъяснен порядок начисления ",
+              "source_quote": "kz рус русский қазақша подписаться сервисы подписка на портал uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-09-int",
+      "title": "Швейцария: Федеральный налоговый орган расширил перечень государств автоматического обмена CRS до 116 стран",
+      "caption": "Швейцария: Федеральный налоговый орган расширил перечень государств автоматического обмена CRS до 116 стран\n\nШвейцарская налоговая администрация утвердила актуализированный список юрисдикций, с которыми осуществляется обмен финансовой информацией.\n\n💡 **Почему это важно**\nВключение новых юрисдикций влечет автоматическое раскрытие сведений о банковских счетах и конечных бенефициарах фондов. Частным инвесторам и управляющим семейными офисами необходимо провести аудит структур владения.\n\nИсточник: https://regfollower.com/switzerland-updates-crs-partner-list-to-include-116-states/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "автоматический обмен налоговой информацией и стандарт CRS",
+      "jurisdictions": "Швейцария",
+      "act": "Постановление Федеральной налоговой администрации Швейцарии",
+      "sources": [
+        {
+          "label": "Regfollower / Швейцария",
+          "url": "https://regfollower.com/switzerland-updates-crs-partner-list-to-include-116-states/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/switzerland-updates-crs-partner-list-to-include-116-states/",
+          "final_url": "https://regfollower.com/switzerland-updates-crs-partner-list-to-include-116-states/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Швейцария: Федеральный налоговый орган р",
+              "source_quote": "switzerland updates crs partner list to include 116 states skip to content sign in wednesday, october 14, 2026 tax corpo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-1300-item-10-int",
+      "title": "Словения: Подготовлены поправки в закон о НДС для внедрения европейских правил цифровой торговли",
+      "caption": "Словения: Подготовлены поправки в закон о НДС для внедрения европейских правил цифровой торговли\n\nМинистерство финансов Словении обнародовало законопроект о цифровизации НДС-отчетности и гармонизации с директивами ЕС.\n\n💡 **Почему это важно**\nПереход на электронные счета-фактуры в режиме реального времени потребует технической модернизации систем учета у экспортеров услуг. Компаниям, работающим в регионе, следует спланировать интеграцию учетных баз.\n\nИсточник: https://regfollower.com/slovenia-proposes-vat-act-amendments-to-implement-vida-measures/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "электронное администрирование НДС и европейские директивы",
+      "jurisdictions": "Словения, ЕС",
+      "act": "Законопроект Министерства финансов Словении",
+      "sources": [
+        {
+          "label": "Regfollower / Словения",
+          "url": "https://regfollower.com/slovenia-proposes-vat-act-amendments-to-implement-vida-measures/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/slovenia-proposes-vat-act-amendments-to-implement-vida-measures/",
+          "final_url": "https://regfollower.com/slovenia-proposes-vat-act-amendments-to-implement-vida-measures/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Словения: Подготовлены поправки в закон ",
+              "source_quote": "slovenia proposes vat act amendments to implement vida skip to content sign in wednesday, october 14, 2026 tax corporate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

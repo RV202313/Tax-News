@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Department of Finance</title>
+	<atom:link href="https://www.dof.gov.ph/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.dof.gov.ph/</link>
+	<description></description>
+	<lastBuildDate>Wed, 14 Oct 2026 08:56:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.dof.gov.ph/wp-content/uploads/2024/02/cropped-DOF-32x32.png</url>
+	<title>Department of Finance</title>
+	<link>https://www.dof.gov.ph/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Secretary Frederick Go leads PH intervention, calls for flexible development financing at IMF-ASEAN meeting</title>
+		<link>https://www.dof.gov.ph/secretary-frederick-go-leads-ph-intervention-calls-for-flexible-development-financing-at-imf-asean-meeting/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 08:54:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52445</guid>
+
+					<description><![CDATA[<p>ASEAN Finance Track Chair and Finance Secretary Frederick D. Go called for more flexible financing solutions from multilateral development banks (MDBs) to support countries transitioning to Upper Middle-Income Country (UMIC) status and meet their evolving development needs, as he delivered the first intervention at the IMF Managing Director’s Strategic Dialogue with ASEAN Authorities on the [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/secretary-frederick-go-leads-ph-intervention-calls-for-flexible-development-financing-at-imf-asean-meeting/">Secretary Frederick Go leads PH intervention, calls for flexible development financing at IMF-ASEAN meeting</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PH hosts ASEAN Finance Ministers and World Bank Group Dialogue at the 2026 WBG-IMF Annual Meetings</title>
+		<link>https://www.dof.gov.ph/ph-hosts-asean-finance-ministers-and-world-bank-group-dialogue-at-the-2026-wbg-imf-annual-meetings/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 04:10:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52438</guid>
+
+					<description><![CDATA[<p>The Philippines, through the Department of Finance (DOF), convened the first-of-its-kind ASEAN Finance Ministers–World Bank Group (WBG) Dialogue with WBG President Ajay Banga on the sidelines of the 2026 Annual Meetings of the World Bank Group and the International Monetary Fund (IMF) in Bangkok, Thailand, to advance shared priorities for resilient and sustainable growth. Organized [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/ph-hosts-asean-finance-ministers-and-world-bank-group-dialogue-at-the-2026-wbg-imf-annual-meetings/">PH hosts ASEAN Finance Ministers and World Bank Group Dialogue at the 2026 WBG-IMF Annual Meetings</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mitsubishi’s additional PHP44.5-billion in Ayala Corp. to strengthen PH industries, boost opportunities</title>
+		<link>https://www.dof.gov.ph/mitsubishis-additional-php44-5-billion-in-ayala-corp-to-strengthen-ph-industries-boost-opportunities/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2026 06:29:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52408</guid>
+
+					<description><![CDATA[<p>President Ferdinand R. Marcos Jr., together with Finance Secretary Frederick D. Go and Trade and Industry Secretary Cristina A. Roque, met with senior executives of Mitsubishi Corporation and Ayala Corporation in Singapore. In the meeting, Mitsubishi reaffirmed its continuing confidence in the Philippine economy and its long-term growth prospects with its PHP 44.5-billion investment expansion [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/mitsubishis-additional-php44-5-billion-in-ayala-corp-to-strengthen-ph-industries-boost-opportunities/">Mitsubishi’s additional PHP44.5-billion in Ayala Corp. to strengthen PH industries, boost opportunities</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Clean and accessible water for Filipinos in underserved areas with EUR212.7 million World Bank financing</title>
+		<link>https://www.dof.gov.ph/clean-and-accessible-water-for-filipinos-in-underserved-areas-with-eur212-7-million-world-bank-financing/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 05:55:22 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52404</guid>
+
+					<description><![CDATA[<p>The Department of Finance (DOF) has secured EUR212.7 million (around PHP 14.98 billion) worth of financing from the World Bank &#8211; International Bank for Reconstruction and Development (WB-IBRD) to improve water security, supply, and sanitation in underserved areas in the Philippines. The financing will support the Accelerated Water and Sanitation Project in Selected Areas (AWSPSA) [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/clean-and-accessible-water-for-filipinos-in-underserved-areas-with-eur212-7-million-world-bank-financing/">Clean and accessible water for Filipinos in underserved areas with EUR212.7 million World Bank financing</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Credit Information Corporation remits first-ever dividend, generating resources for national development</title>
+		<link>https://www.dof.gov.ph/credit-information-corporation-remits-first-ever-dividend-generating-resources-for-national-development/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 08:31:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52394</guid>
+
+					<description><![CDATA[<p>The Credit Information Corporation (CIC) has remitted a total of PHP 169.64 million in dividends to the National Government, marking its first-ever dividend contribution since its establishment in 2008 and demonstrating its improved financial performance and ability to generate returns for the government. “Government resources must create value for the people. In line with Secretary [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/credit-information-corporation-remits-first-ever-dividend-generating-resources-for-national-development/">Credit Information Corporation remits first-ever dividend, generating resources for national development</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Toshiba to invest billions in PH, expand electronics production capacity</title>
+		<link>https://www.dof.gov.ph/toshiba-to-invest-billions-in-ph-expand-electronics-production-capacity/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 07:19:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52382</guid>
+
+					<description><![CDATA[<p>MANILA, Philippines — Toshiba Corporation is set to expand its production capacity in the Philippines through a multi-billion-peso investment over the next three years, generating around 3,000 jobs and strengthening the country’s position in global technology supply chains. Investment czar and Finance Secretary Frederick D. Go met with Toshiba Corporation officials, led by Chief Operating [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/toshiba-to-invest-billions-in-ph-expand-electronics-production-capacity/">Toshiba to invest billions in PH, expand electronics production capacity</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DOF, ADB boost financial protections for Filipinos, businesses from financial crime</title>
+		<link>https://www.dof.gov.ph/dof-adb-boost-financial-protections-for-filipinos-businesses-from-financial-crime/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 02:34:12 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52380</guid>
+
+					<description><![CDATA[<p>Combat illicit finance, strengthen the implementation of anti-money laundering and counter-terrorism financing measures—that’s the main goal of the regional technical assistance to be financed by the Asian Development Bank (ADB) with the Philippine Government. Finance Secretary Frederick D. Go has expressed full support of the implementation on behalf of the government. “Through this assistance, we [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/dof-adb-boost-financial-protections-for-filipinos-businesses-from-financial-crime/">DOF, ADB boost financial protections for Filipinos, businesses from financial crime</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PH, ADB advance more responsive Universal Health Care for Filipinos</title>
+		<link>https://www.dof.gov.ph/ph-adb-advance-more-responsive-universal-health-care-for-filipinos/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 06:12:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52366</guid>
+
+					<description><![CDATA[<p>The Philippine Government, through Finance Secretary Frederick D. Go, has signed a JPY119.745-billion (around PHP48 billion) financing agreement with the Asian Development Bank (ADB) that will unlock funding support for reforms to strengthen the country’s universal health care system and expand access to quality and responsive health services. The financing will support the Build Universal [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/ph-adb-advance-more-responsive-universal-health-care-for-filipinos/">PH, ADB advance more responsive Universal Health Care for Filipinos</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PH-Singapore conclude tax treaty negotiations to support investment, economic growth</title>
+		<link>https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 02:05:03 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52330</guid>
+
+					<description><![CDATA[<p>The Philippines and Singapore have just concluded the negotiations for its updated tax treaty, paving the way for a modernized tax framework governing cross-border economic activities between the two countries. The modernization will provide clearer and more predictable tax rules for cross-border income, strengthen cooperation between tax authorities, and ensure fair taxation between the two [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/">PH-Singapore conclude tax treaty negotiations to support investment, economic growth</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PhilHealth, private insurers build on YAKAP to maximize primary care coverage</title>
+		<link>https://www.dof.gov.ph/philhealth-private-insurers-build-on-yakap-to-maximize-primary-care-coverage/</link>
+		
+		<dc:creator><![CDATA[Katrina Lo]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 06:03:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.dof.gov.ph/?p=52327</guid>
+
+					<description><![CDATA[<p>The Philippine Health Insurance Corporation (PhilHealth) and major health maintenance organizations (HMOs) and private health insurers (PHIs) have joined hands to make primary healthcare more affordable and accessible for Filipinos. PhilHealth, together with Maxicare Healthcare Corporation, MediCard Philippines, Inc., PhilhealthCare, Inc., Health Plan Philippines, Inc., United Coconut Planters Life Assurance Corporation, Asalus Corporation (Intellicare), Medicare [&#8230;]</p>
+<p>The post <a href="https://www.dof.gov.ph/philhealth-private-insurers-build-on-yakap-to-maximize-primary-care-coverage/">PhilHealth, private insurers build on YAKAP to maximize primary care coverage</a> appeared first on <a href="https://www.dof.gov.ph">Department of Finance</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

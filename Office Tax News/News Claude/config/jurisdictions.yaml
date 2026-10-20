@@ -4,14 +4,15 @@
 # линия: всё остальное, включая Китай, США, Европу, Иран.
 
 defaults:
-  unscoped_cap: 1
-  third_line_cap: 2
+  unscoped_cap: 5
+  third_line_cap: 20
 
 jurisdictions:
   - id: kz
     name: Казахстан
     tier: core
     weight: 8.0
+    source_ids: [kz_kgd, kz_kgd_almaty, kz_kgd_karaganda, kz_minfin]
     keywords:
       - Казахстан
       - Казахстана
@@ -237,7 +238,7 @@ jurisdictions:
     name: Нидерланды
     tier: core
     weight: 8.0
-    source_ids: [nl_rechtspraak, nl_fd, nl_taxlive, nl_taxence]
+    source_ids: [nl_rechtspraak, nl_fd, nl_taxlive, nl_taxence, nl_douane]
     keywords:
       - Нидерланды
       - Нидерландах
@@ -277,6 +278,7 @@ jurisdictions:
     name: США
     tier: third_line
     weight: 1.0
+    source_ids: [intl_irs]
     keywords:
       - США
       - Соединенные Штаты

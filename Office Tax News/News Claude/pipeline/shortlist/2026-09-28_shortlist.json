@@ -1,0 +1,34 @@
+{
+  "date": "2026-09-28",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 618,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/ook-nob-ziet-complexere-regels-in-belastingpakket-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Ook NOB ziet complexere regels in Belastingpakket 2027",
+      "summary": "",
+      "published_at": "2026-09-28",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

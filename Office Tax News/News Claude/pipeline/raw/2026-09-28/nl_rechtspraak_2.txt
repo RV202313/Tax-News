@@ -1,0 +1,1 @@
+[collect_rechtspraak] сбой за 2026-09-27: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 30 Sep 2026 08:17:30 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Miskoop rechtvaardigt geen laag tarief overdrachtsbelasting</title>
+		<link>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 07:17:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167849</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat het 2%-tarief voor de overdrachtsbelasting niet geldt als een woning na slechts enkele dagen bewoning weer wordt verlaten. Dat de woning achteraf als miskoop wordt ervaren, is geen onvoorziene omstandigheid die toepassing van het lage tarief alsnog rechtvaardigt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat het 2%-tarief voor de overdrachtsbelasting niet geldt als een woning na slechts enkele dagen bewoning weer wordt verlaten. Dat de woning achteraf als miskoop wordt ervaren, is geen onvoorziene omstandigheid die toepassing van het lage tarief alsnog rechtvaardigt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man koopt op 6 september 2022 een woning voor € 565.000, die op 1 december 2022 aan hem wordt geleverd. Hij verklaart dat hij de woning anders dan tijdelijk als hoofdverblijf gaat gebruiken en voldoet daarom 2% overdrachtsbelasting. De man en zijn partner wonen echter slechts enkele dagen in de woning. Zij vinden de woning, met name de slaapvertrekken, kleiner en benauwder dan verwacht en ervaren verkeers- en omgevingsgeluid. Volgens de man leidt dit onder meer tot slaapproblemen en psychische klachten. Zijn partner stelt hem uiteindelijk voor de keuze de woning te verkopen of uit elkaar te gaan. De woning wordt in maart 2023 verkocht. De inspecteur legt een naheffingsaanslag op, berekend naar het destijds geldende algemene tarief van 8%.</p>
+
+
+
+<h3 class="wp-block-heading">Enkele dagen bewoning onvoldoende</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank gelooft dat de man bij de verkrijging daadwerkelijk van plan was de woning duurzaam als hoofdverblijf te gebruiken. Die intentie alleen is echter onvoldoende. Aan het voornemen moet ook feitelijk uitvoering worden gegeven. Omdat de man en zijn partner slechts enkele dagen in de woning wonen, is geen sprake van gebruik anders dan tijdelijk als hoofdverblijf. Daarmee bestaat in beginsel geen recht op het 2%-tarief.</p>
+
+
+
+<h3 class="wp-block-heading">Kenmerken woning waren al kenbaar</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op onvoorziene omstandigheden slaagt niet. De omvang van de woning en het verkeersgeluid waren volgens de rechtbank bij de aankoop al aanwezig en kenbaar of hadden dat kunnen zijn. De man heeft bewust volstaan met één korte bezichtiging en zijn partner heeft de woning vooraf niet bekeken. Dat pas na de aankoop duidelijk wordt dat de woning niet bij hen past, komt daarom voor zijn rekening en risico. Ook de later ontstane klachten en het ultimatum van zijn partner maken dit niet anders. De rechtbank laat de naheffingsaanslag in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-14?lid=BWBR0002740&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 lid 2</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-15a?lid=BWBR0002740&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 15a lid 5 WBR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9134">Rechtbank Zeeland-West-Brabant, 22-09-2026, ECLI:NL:RBZWB:2026:9134, BRE 24/8353 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Huistekoop.jpg" length="28467" type="image/jpeg" />	</item>
+		<item>
+		<title>Onjuiste waarderingsmethode leidt tot lagere WOZ-waarden</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-6/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-6/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 07:10:00 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Heffing lagere overheden]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167851</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat de heffingsambtenaar de WOZ-waarden van een woning niet mag onderbouwen met alleen een geïndexeerde eerdere waarde en een afschrijvingscorrectie. Voor woningen moet de waarde worden bepaald met de vergelijkingsmethode.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat de heffingsambtenaar de WOZ-waarden van een woning niet mag onderbouwen met alleen een geïndexeerde eerdere waarde en een afschrijvingscorrectie. Voor woningen moet de waarde worden bepaald met de vergelijkingsmethode.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is eigenaar van een vrijstaande woning uit 2014. De heffingsambtenaar stelt de WOZ-waarden voor de belastingjaren 2022, 2023 en 2024 vast op respectievelijk € 532.000, € 597.000 en € 637.000. In beroep onderbouwt hij de waarderingen met taxatiematrices. Daarbij wordt telkens de waarde van het voorgaande jaar geïndexeerd naar de nieuwe waardepeildatum, waarna een vaste afschrijvingscorrectie wordt toegepast. Volgens de man leidt deze methode tot te hoge waarden. Hij bepleit voor alle drie de jaren een waarde van € 475.000. Rechtbank Zeeland-West-Brabant moet beoordelen of de heffingsambtenaar aannemelijk maakt dat de vastgestelde WOZ-waarden niet te hoog zijn.</p>
+
+
+
+<h3 class="wp-block-heading">Vergelijkingsmethode moet worden gebruikt</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank verwerpt de gebruikte waarderingsmethode. Voor woningen schrijft de Wet WOZ in samenhang met de Uitvoeringsregeling voor dat de waarde wordt bepaald door systematische vergelijking met woningen waarvan marktgegevens beschikbaar zijn. Een berekening die alleen bestaat uit indexering van een eerdere waarde en een afschrijvingscorrectie past niet binnen die systematiek. De heffingsambtenaar maakt daarom niet aannemelijk dat de vastgestelde waarden niet te hoog zijn. Dat in een procedure over een eerder jaar anders is geoordeeld, verandert dit niet. De WOZ-waarde moet ieder jaar opnieuw worden vastgesteld.</p>
+
+
+
+<h3 class="wp-block-heading">Rechtbank stelt waarden zelf vast</h3>
+
+
+
+<p class="wp-block-paragraph">De man maakt de door hem bepleite waarde van € 475.000 evenmin aannemelijk. Hij overlegt geen taxatierapport of andere controleerbare berekening. Omdat geen van beide partijen de eigen waardering aannemelijk maakt, stelt de rechtbank de waarden in goede justitie vast op € 510.000 voor 2022, € 517.000 voor 2023 en € 525.000 voor 2024. De aanslagen OZB worden overeenkomstig verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0007119-17?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 17 lid 2 Wet WOZ</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9143" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 21-09-2026, ECLI:NL:RBZWB:2026:9143, BRE 24/5874, 24/5875 en 24/5876 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Woning-taxatie.jpg" length="25780" type="image/jpeg" />	</item>
+		<item>
+		<title>Kamer wil meer professionele ruimte voor belastinginspecteurs</title>
+		<link>https://www.taxence.nl/nieuws/kamer-wil-meer-professionele-ruimte-voor-belastinginspecteurs/</link>
+					<comments>https://www.taxence.nl/nieuws/kamer-wil-meer-professionele-ruimte-voor-belastinginspecteurs/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 05:56:20 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167843</guid>
+
+					<description><![CDATA[Belastinginspecteurs moeten binnen de grenzen van wet en jurisprudentie voldoende ruimte houden om in individuele zaken tot redelijke oplossingen te komen. De Tweede Kamer heeft een motie aangenomen die het kabinet vraagt te voorkomen dat standpunten van kennisgroepen binnen de Belastingdienst die ruimte onnodig beperken. Kennisgroepen spelen binnen de Belastingdienst een belangrijke rol bij de<a class="read-more" href="https://www.taxence.nl/nieuws/kamer-wil-meer-professionele-ruimte-voor-belastinginspecteurs/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Belastinginspecteurs moeten binnen de grenzen van wet en jurisprudentie voldoende ruimte houden om in individuele zaken tot redelijke oplossingen te komen. De Tweede Kamer heeft een motie  aangenomen die het kabinet vraagt te voorkomen dat standpunten van kennisgroepen binnen de Belastingdienst die ruimte onnodig beperken.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Kennisgroepen spelen binnen de Belastingdienst een belangrijke rol bij de toepassing van belastingwetgeving. In deze groepen wordt kennis over specifieke fiscale onderwerpen gebundeld en worden standpunten ingenomen over de manier waarop de wet in bepaalde situaties moet worden uitgelegd.</p>
+
+
+
+<p class="wp-block-paragraph">In de motie wordt erop gewezen dat deze kennisgroepstandpunten geen wet of formeel beleid zijn. Volgens de indieners vraagt een zorgvuldige belastingheffing daarnaast om professionele oordeelsvorming en maatwerk.</p>
+
+
+
+<h3 class="wp-block-heading">Ruimte voor individuele beoordeling</h3>
+
+
+
+<p class="wp-block-paragraph">De Kamer vraagt de regering daarom te waarborgen dat kennisgroepstandpunten niet onnodig beperkend werken op de professionele beoordelingsruimte van belastinginspecteurs. Inspecteurs moeten binnen de kaders van de wet en de jurisprudentie ruimte houden om rekening te houden met de omstandigheden van een individueel geval en tot een redelijke oplossing te komen.</p>
+
+
+
+<p class="wp-block-paragraph">Ook een motie met het verzoek aan het kabinet om de <strong>l</strong>aagdrempelige fiscale rechtsbescherming te verbeteren door geschillen vroegtijdig op te lossen, bijvoorbeeld via mediation, en terughoudend te zijn met hoger beroep is aangenomen. Hiermee moet worden voorkomen dat geschillen uitgroeien tot langdurige en complexe procedures.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&amp;did=2026P15513" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&amp;did=2026P15513" target="_blank" rel="noreferrer noopener">Tweede Kamer, 29 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kamer-wil-meer-professionele-ruimte-voor-belastinginspecteurs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Belastingdienst-kantoor2.jpg" length="57270" type="image/jpeg" />	</item>
+		<item>
+		<title>Regeling berichtenverkeer Belastingdienst gepubliceerd</title>
+		<link>https://www.taxence.nl/nieuws/regeling-berichtenverkeer-belastingdienst-gepubliceerd/</link>
+					<comments>https://www.taxence.nl/nieuws/regeling-berichtenverkeer-belastingdienst-gepubliceerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 05:05:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167870</guid>
+
+					<description><![CDATA[De nieuwe Regeling berichtenverkeer Belastingdienst werkt het keuzerecht uit voor de wijze waarop belastingplichtigen en toeslaggerechtigden berichten met de Belastingdienst uitwisselen. De regeling bepaalt tevens voor welke groepen en berichten van dit keuzerecht kan worden afgeweken.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De nieuwe Regeling berichtenverkeer Belastingdienst werkt het keuzerecht uit voor de wijze waarop belastingplichtigen en toeslaggerechtigden berichten met de Belastingdienst uitwisselen. De regeling bepaalt tevens voor welke groepen en berichten van dit keuzerecht kan worden afgeweken.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Op grond van de AWR, Invorderingswet 1990 en Awir bestaat een keuzerecht voor het berichtenverkeer met de Belastingdienst. De nieuwe regeling geeft hieraan nadere uitvoering en vervangt de Regeling elektronisch berichtenverkeer Belastingdienst.</p>
+
+
+
+<p class="wp-block-paragraph">Voor een aantal groepen geldt het keuzerecht niet. Het berichtenverkeer kan voor hen verplicht uitsluitend elektronisch of juist niet-elektronisch plaatsvinden. Het gaat om belanghebbenden jonger dan 14 jaar en nabestaanden van overleden belanghebbenden, voor zover het berichten betreft over belastingen, invordering of inkomensafhankelijke regelingen van de overledene.</p>
+
+
+
+<p class="wp-block-paragraph">Ook geldt een uitzondering voor personen die onder bewind, mentorschap of curatele zijn gesteld. Hetzelfde geldt voor personen in staat van faillissement voor wie een curator is aangesteld en personen op wie de wettelijke schuldsaneringsregeling van toepassing is en voor wie een bewindvoerder is aangesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast kan van het keuzerecht worden afgeweken wanneer het niet mogelijk is een bericht te adresseren overeenkomstig de door de belanghebbende gemaakte keuze.</p>
+
+
+
+<p class="wp-block-paragraph">De wijze waarop het elektronische berichtenverkeer concreet plaatsvindt, wordt geregeld in een bijlage bij de regeling. Daarin worden tevens de berichten aangewezen die verplicht uitsluitend elektronisch of uitsluitend anders dan elektronisch worden verzonden. Daarmee blijft voor bepaalde soorten berichten dus een voorgeschreven communicatiekanaal gelden.</p>
+
+
+
+<p class="wp-block-paragraph">De regeling is gebaseerd op de artikelen 3a en 3b AWR, 7c en 7d Invorderingswet 1990 en 13 en 13a Awir. Voor de fiscale praktijk is met name van belang dat voortaan het keuzerecht het uitgangspunt vormt, behoudens de expliciet aangewezen groepen en berichten waarvoor een verplichte wijze van communicatie geldt.</p>
+
+
+
+<p class="wp-block-paragraph">De regeling treedt in werking met ingang van 1 oktober 2026. Op die datum wordt de Regeling elektronisch berichtenverkeer Belastingdienst ingetrokken.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html" target="_blank" rel="noreferrer noopener">Regeling van 29 september 2026, nr. 2026-0000373661, Ministerie van Financiën, Stcrt, 2026, 33871</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/regeling-berichtenverkeer-belastingdienst-gepubliceerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Belastingdienst-online.jpg" length="56889" type="image/jpeg" />	</item>
+		<item>
+		<title>Hersteloperatie box 3 tot nu toe goedkoper dan geraamd</title>
+		<link>https://www.taxence.nl/nieuws/hersteloperatie-box-3-tot-nu-toe-goedkoper-dan-geraamd/</link>
+					<comments>https://www.taxence.nl/nieuws/hersteloperatie-box-3-tot-nu-toe-goedkoper-dan-geraamd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 04:34:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167847</guid>
+
+					<description><![CDATA[De verminderingen van de box 3-heffing blijven tot nu toe achter bij de oorspronkelijke raming, maar staatssecretaris Eerenberg vindt het te vroeg om conclusies te trekken. Tot begin september 2026 is € 1,38 miljard aan verminderingen doorgevoerd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De verminderingen van de box 3-heffing blijven tot nu toe achter bij de oorspronkelijke raming, maar staatssecretaris Eerenberg vindt het te vroeg om conclusies te trekken. Tot begin september 2026 is € 1,38 miljard aan verminderingen doorgevoerd.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Bij de behandeling van de Wet tegenbewijsregeling box 3 werd rekening gehouden met ruim 2,75 miljoen verzoeken om teruggaaf over 2017 tot en met 2027. Naar verwachting zouden 1,56 miljoen verzoeken betrekking hebben op de jaren 2017 tot en met 2024. Per 9 september 2026 waren voor deze jaren 882.297 formulieren Opgaaf Werkelijk Rendement (OWR) ingediend. Dat aantal is lager dan oorspronkelijk verwacht. </p>
+
+
+
+<p class="wp-block-paragraph">Van de ingediende formulieren waren er 153.200 niet behandelbaar of niet verwerkbaar. Er zijn 554.231 formulieren inhoudelijk verwerkt, waarvan 403.065 hebben geleid tot een vermindering van de inkomstenbelasting in box 3. In totaal gaat het om € 1,38 miljard. Het gemiddelde bedrag aan lagere inkomstenbelasting bedraagt circa € 3.425. </p>
+
+
+
+<h2 class="wp-block-heading">Nog veel aanvragen verwacht</h2>
+
+
+
+<p class="wp-block-paragraph">Volgens Eerenberg betreft dit een tussenstand. Voor belastingjaren vanaf 2021 kunnen nog OWR-formulieren worden ingediend en er worden nog veel uitnodigingsbrieven verstuurd, met name voor 2023 en 2024. Bovendien moet de volledige voorraad voor belastingjaar 2024 nog worden verwerkt. </p>
+
+
+
+<p class="wp-block-paragraph">De staatssecretaris vindt het daarom niet mogelijk om al een verantwoorde inschatting te maken van de uiteindelijke budgettaire derving. Wel lijken de realisaties achter te blijven bij eerdere verwachtingen. De relatief gunstige economische ontwikkelingen van de afgelopen jaren kunnen ertoe leiden dat het beroep op de tegenbewijsregeling lager uitvalt dan geraamd. </p>
+
+
+
+<h2 class="wp-block-heading">Geen ruimte voor lastenverlichting</h2>
+
+
+
+<p class="wp-block-paragraph">Een lagere derving dan geraamd levert geen budgettaire ruimte op. Inkomstenmeevallers komen volgens het principe van automatische stabilisatie ten gunste van het EMU-saldo en kunnen niet worden gebruikt voor lastenverlichting of extra uitgaven. Omgekeerd hoeft een hogere derving niet binnen het inkomstenkader te worden gedekt. </p>
+
+
+
+<p class="wp-block-paragraph">De Kamer ontvangt jaarlijks een voortgangsrapportage over het box 3-herstel. Daarnaast informeert Eerenberg de Kamer komend jaar in het voorjaar en najaar over de voortgang. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z18194&amp;did=2026D47198" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z18194&amp;did=2026D47198" target="_blank" rel="noreferrer noopener">Antwoord op Kamervragen over het bericht ‘Hersteloperatie box 3 tot nu toe veel goedkoper voor de staat dan verwacht’, nr. 2026-0000392714, Ministerie van Financien, 29 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/hersteloperatie-box-3-tot-nu-toe-goedkoper-dan-geraamd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Ministerie-van-Financien-.jpg" length="84237" type="image/jpeg" />	</item>
+		<item>
+		<title>Fiscale Verzamelwet 2027: aanpassing WBSO en betaalbare koop</title>
+		<link>https://www.taxence.nl/nieuws/fiscale-verzamelwet-2027-aanpassing-wbso-en-betaalbare-koop/</link>
+					<comments>https://www.taxence.nl/nieuws/fiscale-verzamelwet-2027-aanpassing-wbso-en-betaalbare-koop/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 04:27:00 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167856</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg stuurt de Tweede Kamer zijn antwoorden op vragen over de Fiscale verzamelwet 2027. Daarnaast geeft hij zijn appreciatie bij een ingediend amendement.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg stuurt de Tweede Kamer zijn antwoorden op vragen over de Fiscale verzamelwet 2027. Daarnaast geeft hij zijn appreciatie bij een ingediend amendement.&nbsp;</strong></p>
+
+
+
+<p class="wp-block-paragraph">Voor de S&amp;O-afdrachtvermindering, ook bekend als de WBSO, wordt gebruikgemaakt van het S&amp;O-uurloon van twee jaar eerder. Als een inhoudingsplichtige daar niet over beschikt, geldt een forfaitair uurloon. In de Fiscale Verzamelwet 2027 stelt het kabinet voor dit bedrag te verhogen van € 29 naar € 33. Het forfaitaire uurloon is sinds 2008 niet gewijzigd.</p>
+
+
+
+<p class="wp-block-paragraph">Een amendement beoogt toekomstige aanpassingen sneller mogelijk te maken. De verhoging naar € 33 zou in 2027 doorgaan, maar vanaf 1 januari 2028 zou het forfaitaire uurloon bij algemene maatregel van bestuur kunnen worden vastgesteld en gewijzigd. Daarvoor wordt een wettelijke delegatiegrondslag voorgesteld. Eerenberg laat het oordeel over dit amendement aan de Kamer.</p>
+
+
+
+<h2 class="wp-block-heading">Fiscale voorwaarden betaalbare koopwoningen</h2>
+
+
+
+<p class="wp-block-paragraph">De staatssecretaris reageert ook op vragen naar aanleiding van een brief van brancheorganisatie Neprom. Bij koopovereenkomsten voor betaalbare koopwoningen worden afspraken gemaakt over onder meer doorverkoop, verkoopprijs en waardedeling. Volgens Neprom bestaat onduidelijkheid over de gevolgen daarvan voor de eigenwoningregeling.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de fiscale tegemoetkoming voor betaalbare koopwoningen moet het belang van de koper bij iedere waardeverandering uiterlijk binnen tien jaar ten minste lineair toenemen tot 100%. Ook mag geen ander beding de belastingplichtige of diens partner bij een waardeverandering beperken. Daarmee wordt voorkomen dat een groter dan toegestaan deel van de waardeverandering of verkoopopbrengst aan een ander toekomt.</p>
+
+
+
+<p class="wp-block-paragraph">Of afspraken het belang van de belastingplichtige te veel beperken, hangt af van de vormgeving. Als voorbeeld noemt Eerenberg een instandhoudingstermijn waarbij de verkoopprijs op een bepaald maximumbedrag wordt vastgesteld. Daarnaast blijft voor toepassing van de eigenwoningregeling vereist dat sprake is van eigendom.</p>
+
+
+
+<p class="wp-block-paragraph">Partijen kunnen vooraf met de Belastingdienst overleggen om zekerheid te krijgen over de fiscale gevolgen van een overeenkomst. Ook over bestaande situaties is overleg mogelijk. Verder wordt met het veld gesproken over praktische oplossingen, bijvoorbeeld met de Belastingdienst afgestemde modelovereenkomsten.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/259f5ddb-9394-45e8-ac99-e4f16d0de69c" data-type="link" data-id="https://open.overheid.nl/details/259f5ddb-9394-45e8-ac99-e4f16d0de69c" target="_blank" rel="noreferrer noopener">Kamerbrief Fiscale Verzamelwet 2027, Ministerie van Financiën, 29 september 2026, nr. 2026-0000389815</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/fiscale-verzamelwet-2027-aanpassing-wbso-en-betaalbare-koop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/milieu-investering.jpg" length="40095" type="image/jpeg" />	</item>
+		<item>
+		<title>Inwerkingtredingsbesluit voor keuzerecht berichtenverkeer</title>
+		<link>https://www.taxence.nl/nieuws/inwerkingtredingsbesluit-voor-keuzerecht-berichtenverkeer/</link>
+					<comments>https://www.taxence.nl/nieuws/inwerkingtredingsbesluit-voor-keuzerecht-berichtenverkeer/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 04:15:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167872</guid>
+
+					<description><![CDATA[Met ingang van 1 oktober 2026 krijgen belastingplichtigen, inhoudingsplichtigen, belastingschuldigen en toeslaggerechtigden in beginsel het recht te kiezen of zij formele berichten met de Belastingdienst en Dienst Toeslagen elektronisch of op papier uitwisselen. Het inwerkingtredingsbesluit activeert hiervoor bepalingen uit Overige fiscale maatregelen 2020.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Met ingang van 1 oktober 2026 krijgen belastingplichtigen, inhoudingsplichtigen, belastingschuldigen en toeslaggerechtigden in beginsel het recht te kiezen of zij formele berichten met de Belastingdienst en Dienst Toeslagen elektronisch of op papier uitwisselen. Het inwerkingtredingsbesluit activeert hiervoor bepalingen uit Overige fiscale maatregelen 2020.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tot de inwerkingtreding is het uitgangspunt dat het berichtenverkeer tussen een belanghebbende en de inspecteur of ontvanger in beginsel elektronisch plaatsvindt. De Keuzeregeling elektronisch berichtenverkeer (KEBV) draait dit om naar een wettelijk keuzerecht. Dit geldt zowel voor berichten die de belanghebbende ontvangt, zoals een belastingaanslag, als voor berichten die hij zelf verstuurt, waaronder een aangifte.</p>
+
+
+
+<p class="wp-block-paragraph">Daartoe worden bepalingen in de Algemene wet inzake rijksbelastingen (AWR), Invorderingswet 1990 (IW 1990) en Algemene wet inkomensafhankelijke regelingen (Awir) gewijzigd en aangevuld. De wijzigingen sluiten aan bij de per 1 januari 2026 gewijzigde regels over elektronisch bestuurlijk verkeer in de Algemene wet bestuursrecht. De Belastingdienst en Dienst Toeslagen krijgen tot 1 januari 2030 om voor alle berichtenstromen volledig aan deze regels te voldoen.</p>
+
+
+
+<p class="wp-block-paragraph">Het keuzerecht is niet absoluut. De nieuwe wettelijke bepalingen bevatten een delegatiegrondslag om bij ministeriële regeling uitzonderingen te maken voor bepaalde berichten, groepen belanghebbenden of omstandigheden. Daarbij kan worden voorgeschreven dat berichten uitsluitend elektronisch of juist uitsluitend op papier worden verzonden en ontvangen. Deze uitzonderingen worden uitgewerkt in de gelijktijdig in werking tredende Regeling berichtenverkeer Belastingdienst.</p>
+
+
+
+<p class="wp-block-paragraph">Met de invoering wordt het keuzerecht, dat voor bepaalde berichten al bij ministeriële regeling was geregeld, als hoofdregel op wetsniveau vastgelegd. Volgens de toelichting biedt dit meer duidelijkheid en rechtszekerheid. Om die reden wordt afgeweken van de vaste verandermomenten en de gebruikelijke minimuminvoeringstermijn. Het besluit treedt in werking met ingang van 1 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bron:</strong> <a href="https://zoek.officielebekendmakingen.nl/stb-2026-293.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stb-2026-293.html" target="_blank" rel="noreferrer noopener">Besluit van 3 september 2026, Ministerie van Financiën, Stb. 2026, 3293</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/inwerkingtredingsbesluit-voor-keuzerecht-berichtenverkeer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Aangifte-Belastingdienst-2048x1366-1.jpg" length="49415" type="image/jpeg" />	</item>
+		<item>
+		<title>Hoeveel miljonairs in Nederland betalen geen of nauwelijks inkomstenbelasting?</title>
+		<link>https://www.taxence.nl/nieuws/hoeveel-miljonairs-in-nederland-betalen-geen-of-nauwelijks-inkomstenbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/hoeveel-miljonairs-in-nederland-betalen-geen-of-nauwelijks-inkomstenbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 04:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167845</guid>
+
+					<description><![CDATA[De Tweede Kamer wil dat het kabinet onderzoekt hoeveel miljonairs in Nederland geen of nauwelijks inkomstenbelasting betalen. De Tweede Kamer heeft een motie van Stultiens aangenomen waarin om actuele cijfers over deze groep wordt gevraagd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer wil dat het kabinet onderzoekt hoeveel miljonairs in Nederland geen of nauwelijks inkomstenbelasting betalen. De Tweede Kamer heeft een motie van Stultiens aangenomen waarin om actuele cijfers over deze groep wordt gevraagd.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Aanleiding voor de motie is onderzoek in Frankrijk. Daaruit is volgens de motie gebleken dat een grote groep Franse miljonairs geen inkomstenbelasting betaalt. Stultiens wijst erop dat de staatssecretaris heeft aangegeven dat een vergelijkbaar onderzoek ook in Nederland mogelijk is. </p>
+
+
+
+<p class="wp-block-paragraph">Met het onderzoek moet duidelijk worden hoeveel miljonairs in Nederland geen of nauwelijks inkomstenbelasting betalen<strong>.</strong> Het kabinet wordt gevraagd de resultaten vervolgens met de Tweede Kamer te delen. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z19603&amp;did=2026D45436" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z19603&amp;did=2026D45436" target="_blank" rel="noreferrer noopener">Tweede Kamer, 29 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/hoeveel-miljonairs-in-nederland-betalen-geen-of-nauwelijks-inkomstenbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/09/Belastingontwijking-wolk.jpg" length="26233" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet kiest in box 3 grotendeels voor vermogenswinstbelasting</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-kiest-in-box-3-grotendeels-voor-vermogenswinstbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-kiest-in-box-3-grotendeels-voor-vermogenswinstbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 17:09:31 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167836</guid>
+
+					<description><![CDATA[Het kabinet wil de belastingheffing in box 3 ingrijpend aanpassen en zo snel mogelijk overstappen naar een stelsel waarin vooral gerealiseerde vermogenswinsten worden belast. Daarvoor wordt een novelle ingediend op het wetsvoorstel Wet werkelijk rendement box 3. Het kabinet noemt dit de snelste route naar een definitieve oplossing voor box 3 en wil daarmee ook<a class="read-more" href="https://www.taxence.nl/nieuws/kabinet-kiest-in-box-3-grotendeels-voor-vermogenswinstbelasting/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de belastingheffing in box 3 ingrijpend aanpassen en zo snel mogelijk overstappen naar een stelsel waarin vooral gerealiseerde vermogenswinsten worden belast. Daarvoor wordt een novelle ingediend op het wetsvoorstel Wet werkelijk rendement box 3. Het kabinet noemt dit de snelste route naar een definitieve oplossing voor box 3 en wil daarmee ook tegemoetkomen aan kritiek vanuit beide Kamers op de vermogensaanwassystematiek. Volgens het kabinet moet de nieuwe aanpak daarnaast het investeringsklimaat versterken. </strong></p>
+
+
+
+<h3 id="h-vanaf-2028-circa-90-procent-onder-vermogenswinst" class="wp-block-heading">Vanaf 2028 circa 90 procent onder vermogenswinst</h3>
+
+
+
+<p class="wp-block-paragraph">De belangrijkste wijziging is voorzien voor 2028. Vanaf dat jaar moet de vermogenswinstbelasting worden uitgebreid naar alle financiële instrumenten, waaronder aandelen, obligaties en opties. Daardoor valt volgens het kabinet ongeveer 90 procent van het vermogen met waardeontwikkeling in box 3 onder een vermogenswinstbelasting. Belasting wordt bij deze systematiek geheven over de gerealiseerde waardestijging.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de overige vermogensbestanddelen wil het kabinet in 2030 de overstap naar een volledige vermogenswinstbelasting maken. Bij de verdere uitwerking wordt ook gekeken naar een regeling voor landgoederen die onder de Natuurschoonwet vallen, waarbij de uitvoerbaarheid wordt meegewogen. </p>
+
+
+
+<p class="wp-block-paragraph">De overgang naar vermogenswinst leidt in de eerste jaren tot een budgettaire derving. Volgens de raming bedraagt het effect ruim 3 miljard euro in zowel 2028 als 2029. De dekking wordt daarom binnen box 2 en box 3 gezocht. </p>
+
+
+
+<h3 id="h-heffingsvrij-vermogen-omlaag" class="wp-block-heading">Heffingsvrij vermogen omlaag</h3>
+
+
+
+<p class="wp-block-paragraph">Een belangrijk onderdeel van die dekking is een verlaging van het heffingsvrije vermogen. In 2027 wordt dit teruggebracht naar het niveau van 2020: 30.846 euro. Vanaf 2028 verandert de systematiek en komt er een heffingsvrij resultaat van 1.000 euro. Het kabinet geeft als voorbeeld dat een spaarder bij 2 procent rente over de eerste 50.000 euro vermogen daardoor geen belasting betaalt. </p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast wordt in 2027 het forfait voor ‘overige bezittingen’ met 1,5 procentpunt verhoogd. Daaronder vallen ook huurinkomsten en voordelen uit het eigen gebruik van onroerende zaken. </p>
+
+
+
+<p class="wp-block-paragraph">Ook box 2 wordt ingezet om de plannen te financieren. Het tarief van de tweede schijf wordt vanaf 2027 voor vier jaar met 1,8 procentpunt verlaagd naar 29,2 procent. Daarmee wil het kabinet ondernemers stimuleren om vastzittend vermogen tegen een lager tarief uit hun onderneming te halen. Tegelijk wordt de mogelijkheid tot excessief lenen bij de eigen vennootschap stapsgewijs beperkt. De grens wordt in vijf jaarlijkse stappen van 80.000 euro teruggebracht tot 100.000 euro<strong>.</strong> Leningen voor de eigen woning blijven hiervan uitgezonderd.</p>
+
+
+
+<h2 class="wp-block-heading">Arbeidskorting</h2>
+
+
+
+<p class="wp-block-paragraph">De verhoging van de arbeidskorting wordt € 133 in plaats van € 173 en de inkomensgrens waarboven het toptarief geldt, wordt verhoogd. Met dit voorstel valt het inkomen vanaf € 80.578 in plaats van € 78.426 in de derde schijf van de inkomstenbelasting.</p>
+
+
+
+<h3 id="h-ambitieus-tijdpad-en-uitvoeringsrisico-s" class="wp-block-heading">Ambitieus tijdpad en uitvoeringsrisico&#8217;s</h3>
+
+
+
+<p class="wp-block-paragraph">Het kabinet kiest voor een snelle parlementaire behandeling. De novelle moet vóór 31 december 2026 door de Eerste Kamer zijn aangenomen om het nieuwe stelsel in 2028 te kunnen invoeren. Daarom wil het kabinet spoedadvies vragen aan de Raad van State en de novelle laten meelopen met de behandeling van het Belastingplan. </p>
+
+
+
+<p class="wp-block-paragraph">Aan die snelheid zitten uitvoeringsrisico&#8217;s. In het eerste jaar wordt volgens het kabinet een groot beroep gedaan op zowel het doenvermogen van belastingplichtigen als de capaciteit van de Belastingdienst. Banken kunnen ten minste in het eerste jaar nog geen gegevens aanleveren voor de vooraf ingevulde aangifte. De precieze gevolgen daarvan moeten blijken uit de uitvoeringstoets van de Belastingdienst. Het kabinet zegt te proberen deze risico&#8217;s zoveel mogelijk te beperken. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z20444&amp;did=2026D47255" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z20444&amp;did=2026D47255" target="_blank" rel="noreferrer noopener">Voorstellen op box 3, koopkracht werkenden en sociale zekerheid, Ministerie van Financien, 29 september 2026</a></p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-c7c66f18-d249-496d-bf07-ad5a69dd9335" href="https://www.licentacademy.nl/agenda-2/2967/box-3-in-de-praktijk" target="_blank" rel="noopener noreferrer"><span>Online cursus toepassing box 3 in de praktijk | PE Accreditatie</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-c7c66f18-d249-496d-bf07-ad5a69dd9335{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-c7c66f18-d249-496d-bf07-ad5a69dd9335:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-c7c66f18-d249-496d-bf07-ad5a69dd9335 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-kiest-in-box-3-grotendeels-voor-vermogenswinstbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/12/winstenverlies.jpg" length="10632" type="image/jpeg" />	</item>
+		<item>
+		<title>Liquide middelen vallen onder doorschuifregeling aandelen</title>
+		<link>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/</link>
+					<comments>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 29 Sep 2026 08:15:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167813</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat € 700.000 aan liquide middelen ondernemingsvermogen vormt voor de doorschuifregeling bij schenking van aandelen. Verhuurd vastgoed en een woning met ontwikkelplannen kwalificeren daarentegen als beleggingsvermogen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat € 700.000 aan liquide middelen ondernemingsvermogen vormt voor de doorschuifregeling bij schenking van aandelen. Verhuurd vastgoed en een woning met ontwikkelplannen kwalificeren daarentegen als beleggingsvermogen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn echtgenote bezitten alle aandelen in een bv die een belang van 45% houdt in een andere bv. Deze bv houdt zich onder meer bezig met machineverhuur en bezit daarnaast een pand met verhuurde bedrijfsruimtes en een verhuurde woning. In september 2020 vindt een juridische splitsing plaats, waarna in de bv naast de deelneming € 700.000 aan liquide middelen achterblijft. Diezelfde dag schenken de man en zijn echtgenote hun aandelen aan hun dochter. De man verzoekt om toepassing van de doorschuifregeling van artikel 4.17c Wet IB 2001. De inspecteur wijst dit verzoek gedeeltelijk af. In geschil is welk deel van het vermogen als ondernemingsvermogen kwalificeert voor de doorschuifregeling.</p>
+
+
+
+<h3 class="wp-block-heading">Vastgoed is beleggingsvermogen</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat het verhuurde bedrijfspand geen ondernemingsvermogen vormt. De werkzaamheden van onder meer een beheerder en interieurverzorger gaan niet verder dan gebruikelijk is bij normaal vermogensbeheer. Ook is niet aannemelijk gemaakt dat een hoger rendement wordt nagestreefd dan bij normaal vermogensbeheer. Voor de verhuurde woning geldt hetzelfde. Hoewel bij de aankoop plannen voor projectontwikkeling bestonden, heeft de bv zich niet actief ingezet om die ontwikkeling te realiseren. Zij was daarvoor afhankelijk van een buurman en verrichtte zelf geen ondernemingsactiviteiten. Zowel het bedrijfspand als de woning kwalificeert daarom als beleggingsvermogen.</p>
+
+
+
+<h3 class="wp-block-heading">Liquide middelen zijn ondernemingsvermogen</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de € 700.000 aan liquide middelen komt de rechtbank tot een ander oordeel. Uit notulen blijkt dat geld nodig was voor toekomstige vervangingsinvesteringen in het machinepark. In de jaren 2020 tot en met 2023 zijn vervolgens omvangrijke investeringen gedaan. Mede gelet op deze investeringen, de notulen en de boekhoudkundige verwerking acht de rechtbank aannemelijk dat het geld niet duurzaam overtollig was, maar was bedoeld en uiteindelijk is aangewend voor de materiële onderneming. Het bedrag kwalificeert daarom als ondernemingsvermogen voor de doorschuifregeling. Het belastbaar inkomen uit aanmerkelijk belang wordt hierdoor verlaagd van € 681.872 naar € 192.415.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.12</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.17c?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.17c Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9141" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 21-09-2026, ECLI:NL:RBZWB:2026:9141, BRE 24/1496 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/liquide-middelen-vallen-onder-doorschuifregeling-aandelen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Onderneming-splitsing.jpg" length="28015" type="image/jpeg" />	</item>
+	</channel>
+</rss>

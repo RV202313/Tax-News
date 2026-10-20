@@ -30,6 +30,7 @@ import subprocess
 import sys
 import tempfile
 import time
+from source_http import source_headers
 from datetime import date as date_cls, timedelta
 from pathlib import Path
 
@@ -119,7 +120,7 @@ def fetch(session, url):
     last = None
     for attempt in range(1, RETRIES + 1):
         try:
-            r = session.get(url, timeout=TIMEOUT)
+            r = session.get(url, timeout=TIMEOUT, headers=source_headers(url))
             body = r.content or b""
             if r.status_code == 200 and body.strip():
                 return body, r.status_code, r.headers.get("Content-Type", ""), r.url, None
@@ -151,6 +152,12 @@ def collect(root, run_date, only=None, skip_telegram=False):
             continue
         print(f"[collect] Fetching {sid}", flush=True)
         method = (src.get("method") or "web_fetch").lower()
+
+        # Один календарный день может собираться несколько раз. Удаляем только
+        # предыдущие файлы этого источника до новой попытки: иначе после 403/404
+        # parse_feeds подхватит старый raw-файл и ошибочно отметит его свежим.
+        for previous in raw.glob(f"{sid}_*.txt"):
+            previous.unlink()
 
         if skip_telegram and "telegram" in str(src.get("collector", "")).lower():
             manifest["sources"][sid] = {"state": "manual", "detail": "Telegram disabled for local collection"}

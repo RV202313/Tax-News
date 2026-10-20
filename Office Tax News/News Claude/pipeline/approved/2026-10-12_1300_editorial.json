@@ -1,0 +1,830 @@
+{
+  "date": "2026-10-12",
+  "release": "2026-10-12_1300_editorial",
+  "items": [
+    {
+      "title": "Россия: УФНС сообщило о 4 670 проверках участников внешнеэкономической деятельности",
+      "sources": [
+        {
+          "label": "УФНС России по Челябинской области",
+          "url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/"
+        }
+      ],
+      "theme": "Налоговый контроль внешнеэкономической деятельности с использованием таможенных данных",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "УФНС России по Челябинской области, результаты межведомственного контроля ВЭД заIполугодие2026, публикация12.10.2026 №16655313",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/",
+        "source_quote": "Дата публикации: 12.10.2026 09:56"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "ru-chelyabinsk-customs-tax-results-h12026-20261012",
+        "cross_border_relevance": "Свежая первичная публикация налогового ведомства о проверках участников ВЭД с использованием таможенных данных. Цифры относятся к первому полугодию2026, а дата12октября относится к публикации. Новые обязанности, вступление закона в силу или отдельные детали СПОТ из совещания не утверждаются."
+      },
+      "slug": "2026-10-12_1300_-ru-chelyabinsk-customs-tax-results-h12026-20261012",
+      "caption": "Россия: УФНС сообщило о 4 670 проверках участников внешнеэкономической деятельности\n\n12 октября 2026 года УФНС по Челябинской области опубликовало результаты совместного налогового и таможенного контроля. За первое полугодие 2026 года налоговые инспекции Челябинской области провели 4 670 проверок участников внешнеэкономической деятельности с использованием данных таможенных органов. Дополнительно начислено 1,9 млрд рублей.\n\nПочему это важно: Участникам внешнеэкономической деятельности стоит сверять сведения таможенных деклараций с налоговой отчётностью и документами поставки. Сообщение содержит результаты контроля за полугодие, а не новую налоговую обязанность.\n\nИсточник: https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/",
+          "checked_at": "2026-10-12T09:22:40.998768+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/",
+          "evidence": [
+            {
+              "claim": "За первое полугодие 2026 года налоговые инспекции Челябинской области провели 4 670 проверок участников внешнеэкономической деятельности с использованием данных таможенных органов. Дополнительно начислено 1,9 млрд рублей.",
+              "source_quote": "Дата публикации: 12.10.2026 09:56 Это архивная публикация - она может содержать устаревшую информацию. В Уральском таможенном управлении прошло заседание Координационного совета, посвященное взаимодействию таможенных и налоговых органов УрФО. Участники подвели итоги совместной работы и обсудили совершенствование механизмов контроля. Заместитель руководителя УФНС России по Челябинской области Вероника Глобина представила отчёт о результатах работы за первое полугодие 2026 года. Так, налоговые инспекции региона провели 4 670 проверок участников внешнеэкономической деятельности с использованием данных таможенных органов Российской Федерации — это на 4% больше, чем за аналогичный период прошлого года. Эффективность контроля также выросла: в бюджет дополнительно начислено 1,9 млрд рублей, что на 847 млн рублей превышает показатели прошлого года."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/",
+            "checked_at": "2026-10-12T09:22:40.998768+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn74/news/activities_fts/16655313/",
+            "evidence": [
+              {
+                "claim": "За первое полугодие 2026 года налоговые инспекции Челябинской области провели 4 670 проверок участников внешнеэкономической деятельности с использованием данных таможенных органов. Дополнительно начислено 1,9 млрд рублей.",
+                "source_quote": "Дата публикации: 12.10.2026 09:56 Это архивная публикация - она может содержать устаревшую информацию. В Уральском таможенном управлении прошло заседание Координационного совета, посвященное взаимодействию таможенных и налоговых органов УрФО. Участники подвели итоги совместной работы и обсудили совершенствование механизмов контроля. Заместитель руководителя УФНС России по Челябинской области Вероника Глобина представила отчёт о результатах работы за первое полугодие 2026 года. Так, налоговые инспекции региона провели 4 670 проверок участников внешнеэкономической деятельности с использованием данных таможенных органов Российской Федерации — это на 4% больше, чем за аналогичный период прошлого года. Эффективность контроля также выросла: в бюджет дополнительно начислено 1,9 млрд рублей, что на 847 млн рублей превышает показатели прошлого года."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-ru-chelyabinsk-customs-tax-results-h12026-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: ДГД напомнил об уведомлении при временном перемещении товаров в ЕАЭС",
+      "sources": [
+        {
+          "label": "ДГД Карагандинской области",
+          "url": "https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru"
+        },
+        {
+          "label": "Официальная датированная лента ДГД",
+          "url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru"
+        }
+      ],
+      "theme": "Трансграничное временное перемещение товаров и уведомительная налоговая отчётность ЕАЭС",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "ДГД Карагандинской области, разъяснение12.10.2026, статья1308967, форма016.00",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru",
+        "source_quote": "12 октября 2026 ВРЕМЕННЫЙ ВВОЗ И ВЫВОЗ ТОВАРОВ В РАМКАХ ЕАЭС: ЧТО НЕОБХОДИМО ЗНАТЬ НАЛОГОПЛАТЕЛЬЩИКАМ?"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "kz-temporary-01600-guidance-20261012",
+        "cross_border_relevance": "Новая датированная официальная публикация об уведомлении при временном перемещении товаров между странами ЕАЭС. Основные факты прямо в читаемой статье. Не повторяем описание внутрисоюзной операции как таможенной процедуры, не утверждаем новую обязанность и не переносим общий срок формы328.00 на016.00."
+      },
+      "slug": "2026-10-12_1300_-kz-temporary-01600-guidance-20261012",
+      "caption": "Казахстан: ДГД напомнил об уведомлении при временном перемещении товаров в ЕАЭС\n\nРазъяснение опубликовано ДГД Карагандинской области 12 октября 2026 года. ДГД Карагандинской области напоминает: при временном ввозе или вывозе товаров в рамках ЕАЭС уведомление по форме 016.00 подают электронно по месту нахождения налогоплательщика. Указан срок 20 рабочих дней со дня ввоза или вывоза.\n\nПочему это важно: Перед временной отправкой оборудования в другую страну ЕАЭС стоит назначить ответственного за уведомление и отслеживание даты перемещения. Это напоминание об отчётности, а не объявление новой пошлины.\n\nИсточник: https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru\nИсточник: https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru",
+          "checked_at": "2026-10-12T09:22:41.000554+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Карагандинской области напоминает: при временном ввозе или вывозе товаров в рамках ЕАЭС уведомление по форме 016.00 подают электронно по месту нахождения налогоплательщика. Указан срок 20 рабочих дней со дня ввоза или вывоза.",
+              "source_quote": "В целях реализации положений Налогового кодекса Республики Казахстан, а именно статьи 514, налогоплательщик обязан уведомлять органы государственных доходов при временном ввозе или вывозе товаров в рамках ЕАЭС. 📝 В какой форме представляется уведомление? Уведомление о ввозе и вывозе товаров представляется по форме 016.00 . Введение данной формы уведомления направлено на достижение следующих целей: 🔹 повышение прозрачности и усиление контроля за перемещением товаров; 🔹 сокращение доли теневой экономики при ввозе и вывозе товаров в рамках ЕАЭС; 🔹 обеспечение соблюдения налогоплательщиками установленных требований к форме и срокам представления уведомления. 💻 Как и куда представляется уведомление? Налогоплательщик представляет уведомление в электронном виде по установленной форме в орган государственных доходов по месту своего нахождения. ⏰ В какие сроки необходимо представить уведомление? Срок представления уведомления составляет 20 рабочих дней : 📍 При ввозе товаров — со дня ввоза товаров на территорию Республики Казахстан с территории государств — членов ЕАЭС. 📍 При вывозе товаров — со дня вывоза товаров с территории Республики Казахстан на территорию государств — членов ЕАЭС."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru",
+          "checked_at": "2026-10-12T09:22:56.527183+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение опубликовано ДГД Карагандинской области 12 октября 2026 года.",
+              "source_quote": "12 октября 2026 ВРЕМЕННЫЙ ВВОЗ И ВЫВОЗ ТОВАРОВ В РАМКАХ ЕАЭС: ЧТО НЕОБХОДИМО ЗНАТЬ НАЛОГОПЛАТЕЛЬЩИКАМ?"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru",
+            "checked_at": "2026-10-12T09:22:41.000554+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-karaganda/press/news/details/1308967?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Карагандинской области напоминает: при временном ввозе или вывозе товаров в рамках ЕАЭС уведомление по форме 016.00 подают электронно по месту нахождения налогоплательщика. Указан срок 20 рабочих дней со дня ввоза или вывоза.",
+                "source_quote": "В целях реализации положений Налогового кодекса Республики Казахстан, а именно статьи 514, налогоплательщик обязан уведомлять органы государственных доходов при временном ввозе или вывозе товаров в рамках ЕАЭС. 📝 В какой форме представляется уведомление? Уведомление о ввозе и вывозе товаров представляется по форме 016.00 . Введение данной формы уведомления направлено на достижение следующих целей: 🔹 повышение прозрачности и усиление контроля за перемещением товаров; 🔹 сокращение доли теневой экономики при ввозе и вывозе товаров в рамках ЕАЭС; 🔹 обеспечение соблюдения налогоплательщиками установленных требований к форме и срокам представления уведомления. 💻 Как и куда представляется уведомление? Налогоплательщик представляет уведомление в электронном виде по установленной форме в орган государственных доходов по месту своего нахождения. ⏰ В какие сроки необходимо представить уведомление? Срок представления уведомления составляет 20 рабочих дней : 📍 При ввозе товаров — со дня ввоза товаров на территорию Республики Казахстан с территории государств — членов ЕАЭС. 📍 При вывозе товаров — со дня вывоза товаров с территории Республики Казахстан на территорию государств — членов ЕАЭС."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru",
+            "checked_at": "2026-10-12T09:22:56.527183+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-karaganda/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение опубликовано ДГД Карагандинской области 12 октября 2026 года.",
+                "source_quote": "12 октября 2026 ВРЕМЕННЫЙ ВВОЗ И ВЫВОЗ ТОВАРОВ В РАМКАХ ЕАЭС: ЧТО НЕОБХОДИМО ЗНАТЬ НАЛОГОПЛАТЕЛЬЩИКАМ?"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-kz-temporary-01600-guidance-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: напоминание об октябрьском НДС по импорту из ЕАЭС",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru",
+          "label": "ДГД Атырауской области"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+          "label": "Официальная датированная лента ДГД"
+        }
+      ],
+      "theme": "Казахстан: напоминание об октябрьском НДС по импорту из ЕАЭС",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Датированное разъяснение ДГД Атырауской области от08.10.2026, статья1307612",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+        "source_quote": "08 октября 2026 Налоговые обязательства в октябре: важные сроки"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "kz-atyrau-calendar-20261008",
+        "cross_border_relevance": "Конкретный текущий срок отчётности и уплаты косвенного налога по трансграничному импорту из ЕАЭС. Проверены читаемый текст статьи и видимая датированная лента8октября. Новый НК или ставка не заявляются; событие отличается от временного перемещения по форме016.00 и от сентябрьских сроков."
+      },
+      "slug": "2026-10-12_1300_-kz-atyrau-calendar-20261008",
+      "caption": "Казахстан: напоминание об октябрьском НДС по импорту из ЕАЭС\n\nРазъяснение ДГД Атырауской области опубликовано 8 октября 2026 года. ДГД Атырауской области напоминает: 20 октября нужно представить форму 328.00 за сентябрь 2026 года и уплатить НДС по товарам, импортированным из государств ЕАЭС.\n\nПочему это важно: Импортёрам стоит заранее проверить заявления о ввозе за сентябрь и средства для уплаты НДС. Это ежемесячное напоминание о сроках, а не новая ставка или новая обязанность.\n\nИсточник: https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru\nИсточник: https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru",
+          "checked_at": "2026-10-12T09:22:41.001691+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Атырауской области напоминает: 20 октября нужно представить форму 328.00 за сентябрь 2026 года и уплатить НДС по товарам, импортированным из государств ЕАЭС.",
+              "source_quote": "📌 20 октября Налоговая отчетность: форма 328.00 – заявление о ввозе товаров и уплате косвенных налогов за сентябрь 2026 года; форма 851.00 – расчет текущих платежей за пользование земельными участками; форма 870.00 – декларация по плате за негативное воздействие на окружающую среду. Платежи: НДС по товарам, импортированным из государств ЕАЭС; акцизы, в том числе по импорту; плата за негативное воздействие на окружающую среду; плата за пользование лесными и растительными ресурсами за III квартал."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+          "checked_at": "2026-10-12T09:22:57.144027+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение ДГД Атырауской области опубликовано 8 октября 2026 года.",
+              "source_quote": "08 октября 2026 Налоговые обязательства в октябре: важные сроки"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru",
+            "checked_at": "2026-10-12T09:22:41.001691+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307612?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Атырауской области напоминает: 20 октября нужно представить форму 328.00 за сентябрь 2026 года и уплатить НДС по товарам, импортированным из государств ЕАЭС.",
+                "source_quote": "📌 20 октября Налоговая отчетность: форма 328.00 – заявление о ввозе товаров и уплате косвенных налогов за сентябрь 2026 года; форма 851.00 – расчет текущих платежей за пользование земельными участками; форма 870.00 – декларация по плате за негативное воздействие на окружающую среду. Платежи: НДС по товарам, импортированным из государств ЕАЭС; акцизы, в том числе по импорту; плата за негативное воздействие на окружающую среду; плата за пользование лесными и растительными ресурсами за III квартал."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+            "checked_at": "2026-10-12T09:22:57.144027+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение ДГД Атырауской области опубликовано 8 октября 2026 года.",
+                "source_quote": "08 октября 2026 Налоговые обязательства в октябре: важные сроки"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-kz-atyrau-calendar-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: платёж НДС через OSS будет доступен во время остановки кабинета",
+      "sources": [
+        {
+          "label": "HMRC",
+          "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues"
+        }
+      ],
+      "theme": "Трансграничная дистанционная торговля и доступность сервиса уплаты НДС OSS",
+      "jurisdictions": [
+        "Великобритания",
+        "ЕС"
+      ],
+      "act": "HMRC OSS service availability, update12.10.2026, maintenance17.10.2026",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues",
+        "source_quote": "Updated 12 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "uk-oss-payment-maintenance-20261012",
+        "cross_border_relevance": "Сервис OSS предназначен для отчётности и НДС при дистанционных продажах из Северной Ирландии в ЕС. Датированное обновление имеет содержательное изменение: способ платежа при обслуживании17октября; это не новый закон и не перенос срока."
+      },
+      "slug": "2026-10-12_1300_-uk-oss-payment-maintenance-20261012",
+      "caption": "Великобритания: платёж НДС через OSS будет доступен во время остановки кабинета\n\n12 октября 2026 года налоговая и таможенная служба Великобритании (HMRC) обновила инструкцию о сервисе OSS — едином окне НДС для дистанционной торговли из Северной Ирландии в ЕС. HMRC уточнила: 17 октября сервис OSS будет недоступен с 09:00 до 15:00. В этот период налог можно уплатить без входа в кабинет OSS.\n\nПочему это важно: Продавцам стоит заранее завершить работу с декларациями; альтернативный платёжный путь позволяет не зависеть от доступности кабинета. Остановка сервиса сама по себе не переносит налоговые сроки.\n\nИсточник: https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues",
+          "checked_at": "2026-10-12T09:22:41.002748+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues",
+          "evidence": [
+            {
+              "claim": "HMRC уточнила: 17 октября сервис OSS будет недоступен с 09:00 до 15:00. В этот период налог можно уплатить без входа в кабинет OSS.",
+              "source_quote": "Full service available. Register to report and pay VAT on distance sales of goods from Northern Ireland to the EU . Submit your One Stop Shop VAT Return and payment . Planned downtime Saturday 17 October 2026 9am to 3pm Due to scheduled maintenance, you will be unable to access our online service from 9am to 3pm on Saturday 17 October 2026. You will still be able to make a payment without signing into your One Stop Shop account during that time."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues",
+            "checked_at": "2026-10-12T09:22:41.002748+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/publications/one-stop-shop-union-scheme-service-availability-and-issues/one-stop-shop-union-scheme-service-availability-and-issues",
+            "evidence": [
+              {
+                "claim": "HMRC уточнила: 17 октября сервис OSS будет недоступен с 09:00 до 15:00. В этот период налог можно уплатить без входа в кабинет OSS.",
+                "source_quote": "Full service available. Register to report and pay VAT on distance sales of goods from Northern Ireland to the EU . Submit your One Stop Shop VAT Return and payment . Planned downtime Saturday 17 October 2026 9am to 3pm Due to scheduled maintenance, you will be unable to access our online service from 9am to 3pm on Saturday 17 October 2026. You will still be able to make a payment without signing into your One Stop Shop account during that time."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-uk-oss-payment-maintenance-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: уточнены исключения из антидемпинговых пошлин на горячекатаный прокат",
+      "sources": [
+        {
+          "label": "SARS, официальный реестр поправок к тарифу",
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/"
+        }
+      ],
+      "theme": "Антидемпинговые пошлины и исключения при импорте горячекатаного проката",
+      "jurisdictions": [
+        "ЮАР",
+        "Китай",
+        "Япония",
+        "Китайский Тайбэй"
+      ],
+      "act": "SARS NoticeR.7991; GG55506 dated09.10.2026; ITAC MinuteM02/2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+        "source_quote": "9 October 2026 New! GG 55506 R.7991"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "za-r7991-rebate-exclusions-20261009",
+        "cross_border_relevance": "Официальная датированная строка SARS о тарифных исключениях для импорта проката из конкретных иностранных государств. Первичный читаемый реестр описывает акт и обратное действие; конкретные коды из непрочитанногоPDF не приводятся. Отличается от сообщений об аккредитации и порте."
+      },
+      "slug": "2026-10-12_1300_-za-r7991-rebate-exclusions-20261009",
+      "caption": "ЮАР: уточнены исключения из антидемпинговых пошлин на горячекатаный прокат\n\nПоправка опубликована 9 октября 2026 года в официальном вестнике ЮАР № 55506. Налоговая служба ЮАР (SARS) опубликовала поправку R.7991 к перечню исключений из антидемпинговых пошлин на определённый горячекатаный прокат из Китая, Японии и Китайского Тайбэя. Для неё указано обратное действие с 19 марта 2026 года.\n\nПочему это важно: Импортёрам стоит проверить, подпадает ли товар под перечисленные льготные позиции. Поправка не означает отмену всех пошлин на сталь; точный товарный код и условия исключения требуют проверки по уведомлению R.7991.\n\nИсточник: https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+          "checked_at": "2026-10-12T09:22:41.003959+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+          "evidence": [
+            {
+              "claim": "Налоговая служба ЮАР (SARS) опубликовала поправку R.7991 к перечню исключений из антидемпинговых пошлин на определённый горячекатаный прокат из Китая, Японии и Китайского Тайбэя. Для неё указано обратное действие с 19 марта 2026 года.",
+              "source_quote": "9 October 2026 New! GG 55506 R.7991 Amendment to Part 1 of Schedule No. 2, by the substitution of various items under item 215.02 in order to list the rebate items intended to be excluded from the applicable anti-dumping duties on certain flat-rolled products of iron, non-alloy or other alloy steel of a width of 600 mm or more, whether or not in coils (including products cut to length), not further worked than hot-rolled, including pickled and oiled, hot-rolled, not clad, plated or coated, (excluding stainless and grain-oriented silicon electrical steel, classifiable under various tariff subheadings under Chapter 72, originating in or imported from the Peoples Republic of China, Japan and Chinese Taipei (ITAC Minute M02/2026) Notice R.7991 With retrospective effect from 19 March 2026"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+            "checked_at": "2026-10-12T09:22:41.003959+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+            "evidence": [
+              {
+                "claim": "Налоговая служба ЮАР (SARS) опубликовала поправку R.7991 к перечню исключений из антидемпинговых пошлин на определённый горячекатаный прокат из Китая, Японии и Китайского Тайбэя. Для неё указано обратное действие с 19 марта 2026 года.",
+                "source_quote": "9 October 2026 New! GG 55506 R.7991 Amendment to Part 1 of Schedule No. 2, by the substitution of various items under item 215.02 in order to list the rebate items intended to be excluded from the applicable anti-dumping duties on certain flat-rolled products of iron, non-alloy or other alloy steel of a width of 600 mm or more, whether or not in coils (including products cut to length), not further worked than hot-rolled, including pickled and oiled, hot-rolled, not clad, plated or coated, (excluding stainless and grain-oriented silicon electrical steel, classifiable under various tariff subheadings under Chapter 72, originating in or imported from the Peoples Republic of China, Japan and Chinese Taipei (ITAC Minute M02/2026) Notice R.7991 With retrospective effect from 19 March 2026"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-za-r7991-rebate-exclusions-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: открыта консультация по налоговой отчётности наследственных трастов",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+          "label": "Официальный первоисточник"
+        }
+      ],
+      "theme": "открыта консультация по налоговой отчётности наследственных трастов",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "FR Doc.2026-20542; TD8686; OMB1545-1443; IRC2056A QDOT information collection consultation",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+        "source_quote": "Wednesday, October 7, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "us-qdot-pra-202620542",
+        "cross_border_relevance": "Сбор сведений по QDOT относится к наследственным структурам для пережившего супруга без гражданства США; этот контекст проверен по официальной инструкции IRS i706qdt. Новость — свежая консультация7октября, не новый налог и не новая редакция правил. Перевод основного уведомления прочитан и проверен.",
+        "context_source": {
+          "url": "https://www.irs.gov/instructions/i706qdt",
+          "source_quote": "The QDOT rules apply only in those situations where a decedent's surviving spouse is not a U.S. citizen.",
+          "role": "Context for relevance only; not a fresh-news event"
+        }
+      },
+      "slug": "2026-10-12_1300_-us-qdot-pra-202620542",
+      "caption": "США: открыта консультация по налоговой отчётности наследственных трастов\n\nУведомление опубликовано 7 октября 2026 года. Налоговая служба США IRS принимает до 7 декабря 2026 года замечания о сборе сведений по квалифицированным внутренним трастам QDOT для наследственного налога по разделу 2056A. Изменение ранее утверждённого сбора сведений не предложено.\n\nПочему это важно: Специалистам по трансграничному наследственному планированию стоит оценить отчётную нагрузку и при необходимости направить замечания. Уведомление открывает консультацию, а не вводит новый налог.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+          "checked_at": "2026-10-12T09:22:41.099302+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+          "evidence": [
+            {
+              "claim": "Налоговая служба США IRS принимает до 7 декабря 2026 года замечания о сборе сведений по квалифицированным внутренним трастам QDOT для наследственного налога по разделу 2056A. Изменение ранее утверждённого сбора сведений не предложено.",
+              "source_quote": "SUMMARY: In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice. DATES: Written comments should be received on or before December 7, 2026 to be assured of consideration. ADDRESSES: Direct all written comments to Andres Garcia, Internal Revenue Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 20224, or by email to [email protected] . Include ``OMB Control No. 1545-1443'' in the subject line of the message. FOR FURTHER INFORMATION CONTACT: Requests for additional information or copies of this collection should be directed to LaNita Van Dyke, 202- 317-6009. SUPPLEMENTARY INFORMATION: The IRS, in accordance with the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3506(c)(2)(A)), provides the general public and Federal agencies with an opportunity to comment on proposed, revised, and continuing collections of information. This helps the IRS assess the impact and minimize the burden of its information collection requirements. Comments submitted in response to this notice will be summarized and/or included in the request for OMB approval. All comments will become a matter of public record, and viewable on relevant websites. For this reason, please do not include in your comments information of a confidential nature, such as sensitive personal information. Comments are invited on: (a) Whether the collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (b) the accuracy of the agency's estimate of the burden of the collection of information; (c) ways to enhance the quality, utility, and clarity of the information to be collected; (d) ways to minimize the burden of the collection of information on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide information. Title: Treasury Decision (TD) 8686, Requirements to Ensure Collection of Section 2056A Estate Tax. OMB Control Number: 1545-1443. Regulation Project Number: TD 8686. Abstract: This document contains final regulations that provide guidance relating to the additional requirements necessary to ensure the collection of the estate tax imposed under IRC section 2056A(b) with respect to taxable events involving qualified domestic trusts (QDOTs) described in IRC section 2056A(a). To ensure collection of the tax, the regulation provides various security options that may be selected by the trust and the requirements associated with each option. Under certain circumstances, the trust is required to file an annual statement with the IRS disclosing the assets held by the trust. Current Actions: There is no change to the previously approved information collection."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+            "checked_at": "2026-10-12T09:22:41.099302+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/html/2026-20542.htm",
+            "evidence": [
+              {
+                "claim": "Налоговая служба США IRS принимает до 7 декабря 2026 года замечания о сборе сведений по квалифицированным внутренним трастам QDOT для наследственного налога по разделу 2056A. Изменение ранее утверждённого сбора сведений не предложено.",
+                "source_quote": "SUMMARY: In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice. DATES: Written comments should be received on or before December 7, 2026 to be assured of consideration. ADDRESSES: Direct all written comments to Andres Garcia, Internal Revenue Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 20224, or by email to [email protected] . Include ``OMB Control No. 1545-1443'' in the subject line of the message. FOR FURTHER INFORMATION CONTACT: Requests for additional information or copies of this collection should be directed to LaNita Van Dyke, 202- 317-6009. SUPPLEMENTARY INFORMATION: The IRS, in accordance with the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3506(c)(2)(A)), provides the general public and Federal agencies with an opportunity to comment on proposed, revised, and continuing collections of information. This helps the IRS assess the impact and minimize the burden of its information collection requirements. Comments submitted in response to this notice will be summarized and/or included in the request for OMB approval. All comments will become a matter of public record, and viewable on relevant websites. For this reason, please do not include in your comments information of a confidential nature, such as sensitive personal information. Comments are invited on: (a) Whether the collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (b) the accuracy of the agency's estimate of the burden of the collection of information; (c) ways to enhance the quality, utility, and clarity of the information to be collected; (d) ways to minimize the burden of the collection of information on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide information. Title: Treasury Decision (TD) 8686, Requirements to Ensure Collection of Section 2056A Estate Tax. OMB Control Number: 1545-1443. Regulation Project Number: TD 8686. Abstract: This document contains final regulations that provide guidance relating to the additional requirements necessary to ensure the collection of the estate tax imposed under IRC section 2056A(b) with respect to taxable events involving qualified domestic trusts (QDOTs) described in IRC section 2056A(a). To ensure collection of the tax, the regulation provides various security options that may be selected by the trust and the requirements associated with each option. Under certain circumstances, the trust is required to file an annual statement with the IRS disclosing the assets held by the trust. Current Actions: There is no change to the previously approved information collection."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-us-qdot-pra-202620542.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Вьетнам и США: опубликован итог пересмотра субсидий на шины",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+          "label": "Правительство США, официальная публикация"
+        }
+      ],
+      "theme": "Вьетнам и США: опубликован итог пересмотра субсидий на шины",
+      "jurisdictions": [
+        "Вьетнам",
+        "США"
+      ],
+      "act": "C-552-829; FR Doc2026-20377; first expedited CVD sunset review",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+        "source_quote": "Monday, October 5, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "us-fr2026-20377",
+        "cross_border_relevance": "Окончательное решение Минторга в первом ускоренном пересмотре компенсационной меры по импорту вьетнамских шин. Отдельный документC-552-829 и новый результат, первичный текст включая даты и таблицу прочитан. Не подменяем вывод о вероятных субсидиях новым тарифом или решением комиссии США об ущербе."
+      },
+      "slug": "2026-10-12_1300_-us-fr2026-20377",
+      "caption": "Вьетнам и США: опубликован итог пересмотра субсидий на шины\n\nРезультаты опубликованы 5 октября 2026 года. Минторг США опубликовал окончательные результаты пересмотра компенсационной меры C-552-829 на шины для легковых автомобилей и лёгких грузовиков из Вьетнама. По выводу ведомства, отмена меры могла бы привести к продолжению или возобновлению субсидирования.\n\nПочему это важно: Импортёрам шин следует учитывать риск сохранения компенсационного обложения при планировании поставок. Вывод по пересмотру не следует принимать за объявление новой ставки для каждой партии.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+          "checked_at": "2026-10-12T09:22:55.778109+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+          "evidence": [
+            {
+              "claim": "Минторг США опубликовал окончательные результаты пересмотра компенсационной меры C-552-829 на шины для легковых автомобилей и лёгких грузовиков из Вьетнама. По выводу ведомства, отмена меры могла бы привести к продолжению или возобновлению субсидирования.",
+              "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [C-552-829] Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on passenger vehicle and light truck tires (PVLT) from the Socialist Republic of Vietnam (Vietnam) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the ``Final Results of Sunset Review'' section of this notice. DATES: Applicable October 5, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+            "checked_at": "2026-10-12T09:22:55.778109+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20377.htm",
+            "evidence": [
+              {
+                "claim": "Минторг США опубликовал окончательные результаты пересмотра компенсационной меры C-552-829 на шины для легковых автомобилей и лёгких грузовиков из Вьетнама. По выводу ведомства, отмена меры могла бы привести к продолжению или возобновлению субсидирования.",
+                "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [C-552-829] Passenger Vehicle and Light Truck Tires From the Socialist Republic of Vietnam: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on passenger vehicle and light truck tires (PVLT) from the Socialist Republic of Vietnam (Vietnam) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the ``Final Results of Sunset Review'' section of this notice. DATES: Applicable October 5, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-us-fr2026-20377.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Турция и США: предварительный антидемпинговый пересмотр арматуры",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+          "label": "Правительство США, официальная публикация"
+        }
+      ],
+      "theme": "Турция и США: предварительный антидемпинговый пересмотр арматуры",
+      "jurisdictions": [
+        "Турция",
+        "США"
+      ],
+      "act": "A-489-829; FR Doc2026-20294; preliminary administrative review2024–2025",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+        "source_quote": "Monday, October 5, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "us-fr2026-20294",
+        "cross_border_relevance": "Отдельная антидемпинговая процедураA-489-829 по турецкой арматуре. Проверены первичный текст, период, статусpreliminary и rescission3компаний. Это не канадские пересмотры арматуры и не новый окончательный тариф; ставки в подписи не приводятся."
+      },
+      "slug": "2026-10-12_1300_-us-fr2026-20294",
+      "caption": "Турция и США: предварительный антидемпинговый пересмотр арматуры\n\nПредварительные результаты опубликованы 5 октября 2026 года. Минторг США предварительно установил продажи турецкой арматуры ниже нормальной стоимости за период с 1 июля 2024 года по 30 июня 2025 года. В пересмотре A-489-829 прекращено рассмотрение в отношении трёх компаний. Стороны могут представить замечания.\n\nПочему это важно: Экспортёрам и импортёрам стоит проверить, какие компании остаются в пересмотре, и оценить выводы для будущего расчёта пошлин. Предварительный результат нельзя считать окончательным начислением.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+          "checked_at": "2026-10-12T09:22:55.848573+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+          "evidence": [
+            {
+              "claim": "Минторг США предварительно установил продажи турецкой арматуры ниже нормальной стоимости за период с 1 июля 2024 года по 30 июня 2025 года. В пересмотре A-489-829 прекращено рассмотрение в отношении трёх компаний. Стороны могут представить замечания.",
+              "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-489-829] Steel Concrete Reinforcing Bar From the Republic of T[uuml]rkiye: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to three companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 5, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+            "checked_at": "2026-10-12T09:22:55.848573+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20294.htm",
+            "evidence": [
+              {
+                "claim": "Минторг США предварительно установил продажи турецкой арматуры ниже нормальной стоимости за период с 1 июля 2024 года по 30 июня 2025 года. В пересмотре A-489-829 прекращено рассмотрение в отношении трёх компаний. Стороны могут представить замечания.",
+                "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-489-829] Steel Concrete Reinforcing Bar From the Republic of T[uuml]rkiye: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to three companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 5, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-us-fr2026-20294.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Китай и США: опубликовано уведомление о расследованиях по аминовым соединениям",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+          "label": "Правительство США, официальная публикация"
+        }
+      ],
+      "theme": "Китай и США: началась предварительная стадия расследований по аминам",
+      "jurisdictions": [
+        "Китай",
+        "США"
+      ],
+      "act": "USITC701-TA-808/731-TA-1809; FR Doc2026-20286",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+        "source_quote": "Monday, October 5, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "us-fr2026-20286",
+        "cross_border_relevance": "Свежий официальный документ опубликован5октября о трансграничном импорте китайских аминовых соединений; дата начала29сентября и issued30сентября отделены от публикации. Изучены основные положения и товарный охват. Только уведомление о предварительной стадии, без объявления новых пошлин."
+      },
+      "slug": "2026-10-12_1300_-us-fr2026-20286",
+      "caption": "Китай и США: опубликовано уведомление о расследованиях по аминовым соединениям\n\nУведомление опубликовано 5 октября 2026 года. Комиссия США по международной торговле описала начало предварительной стадии антидемпингового и компенсационного расследований по аминовым соединениям из Китая. В уведомлении указана дата 29 сентября 2026 года. Новые пошлины этим уведомлением не установлены.\n\nПочему это важно: Участникам поставок химической продукции стоит проверить товарный охват расследований 701-TA-808 и 731-TA-1809 и порядок участия. Начало проверки возможного ущерба ещё не означает введения пошлины.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+          "checked_at": "2026-10-12T09:22:56.147504+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+          "evidence": [
+            {
+              "claim": "Комиссия США по международной торговле описала начало предварительной стадии антидемпингового и компенсационного расследований по аминовым соединениям из Китая. В уведомлении указана дата 29 сентября 2026 года. Новые пошлины этим уведомлением не установлены.",
+              "source_quote": "SUMMARY: The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-808 and 731-TA-1809 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of amine compounds from China, provided for in statistical reporting numbers 2909.11.00.00, 2921.29.00.55, 2922.19.96.90, and 2934.99.90.01 of the Harmonized Tariff Schedule of the United States, that are alleged to be sold in the United States at less than fair value and alleged to be subsidized by the Government of China. Unless the Department of Commerce (``Commerce'') extends the time for initiation, the Commission must reach a preliminary determination in antidumping and countervailing duty investigations in 45 days, or in this case by November 13, 2026. The Commission's views must be transmitted to Commerce within five business days thereafter, or by November 20, 2026. DATES: September 29, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+            "checked_at": "2026-10-12T09:22:56.147504+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20286.htm",
+            "evidence": [
+              {
+                "claim": "Комиссия США по международной торговле описала начало предварительной стадии антидемпингового и компенсационного расследований по аминовым соединениям из Китая. В уведомлении указана дата 29 сентября 2026 года. Новые пошлины этим уведомлением не установлены.",
+                "source_quote": "SUMMARY: The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-808 and 731-TA-1809 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of amine compounds from China, provided for in statistical reporting numbers 2909.11.00.00, 2921.29.00.55, 2922.19.96.90, and 2934.99.90.01 of the Harmonized Tariff Schedule of the United States, that are alleged to be sold in the United States at less than fair value and alleged to be subsidized by the Government of China. Unless the Department of Commerce (``Commerce'') extends the time for initiation, the Commission must reach a preliminary determination in antidumping and countervailing duty investigations in 45 days, or in this case by November 13, 2026. The Commission's views must be transmitted to Commerce within five business days thereafter, or by November 20, 2026. DATES: September 29, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-us-fr2026-20286.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Индия, Южная Корея и США: отменено слушание по стальным фитингам",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+          "label": "Правительство США, официальная публикация"
+        }
+      ],
+      "theme": "Индия, Южная Корея и США: отменено слушание по стальным фитингам",
+      "jurisdictions": [
+        "Индия",
+        "Южная Корея",
+        "США"
+      ],
+      "act": "USITC701-TA-631 and731-TA-1463-1464 (Review); FRDoc2026-20614; issued05.10.2026 published08.10.2026",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+        "source_quote": "Thursday, October 8, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review12.10.2026",
+        "event_key": "us-fr2026-20614",
+        "cross_border_relevance": "Свежий опубликованный8октября процессуальный акт по пересмотру мер на импорт кованых фитингов из Индии и Кореи. Полный текст прочитан: cancelled hearing06Oct, posthearing briefs13Oct. Не повторяет предыдущую корректировку охвата литых фитингов из Китая через Вьетнам; разные товары, дела и событие."
+      },
+      "slug": "2026-10-12_1300_-us-fr2026-20614",
+      "caption": "Индия, Южная Корея и США: отменено слушание по стальным фитингам\n\nУведомление, выпущенное 5 октября, опубликовано 8 октября 2026 года. Комиссия США по международной торговле отменила слушание 6 октября по пересмотру пошлин на кованые стальные фитинги из Индии и Южной Кореи. Ответы на письменные вопросы комиссии нужно подать в материалах после слушания до 13 октября 2026 года.\n\nПочему это важно: Участникам пересмотра важно не пропустить ближайший срок письменных ответов. Отмена устного слушания не прекращает пересмотр и не означает отмену антидемпинговых или компенсационных пошлин.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+          "checked_at": "2026-10-12T09:22:56.939452+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+          "evidence": [
+            {
+              "claim": "Комиссия США по международной торговле отменила слушание 6 октября по пересмотру пошлин на кованые стальные фитинги из Индии и Южной Кореи. Ответы на письменные вопросы комиссии нужно подать в материалах после слушания до 13 октября 2026 года.",
+              "source_quote": "INTERNATIONAL TRADE COMMISSION [Investigation Nos. 701-TA-631 and 731-TA-1463-1464 (Review)] Forged Steel Fittings From India and South Korea; Cancellation of Hearing for Antidumping and Countervailing Duty Reviews AGENCY: United States International Trade Commission. ACTION: Notice. ----------------------------------------------------------------------- DATES: October 5, 2026. FOR FURTHER INFORMATION CONTACT: Caitlyn Costello (202-205-2058), Office of Investigations, U.S. International Trade Commission, 500 E Street SW, Washington, DC 20436. Hearing-impaired individuals are advised that information on this matter can be obtained by contacting the Commission's TDD terminal on 202-205-1810. Persons with mobility impairments who will need special assistance in gaining access to the Commission should contact the Office of the Secretary at 202-205-2000. General information concerning the Commission may also be obtained by accessing its internet server ( https://www.usitc.gov ). The public record for these investigations may be viewed on the Commission's electronic docket (EDIS) at https://edis.usitc.gov . SUPPLEMENTARY INFORMATION: On June 2, 2026, the Commission established a schedule for the reviews of the subject antidumping and countervailing duty orders (91 FR 34248, June 5, 2026). On September 23, 2026, counsel for Bonney Forge Corporation and the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (collectively, ``Domestic Interested Parties'') filed a request that, inter alia, the Commission cancel the scheduled hearing for this proceeding and indicated a willingness to respond to any Commission questions in lieu of an actual hearing. On October 1, 2026, Domestic Interested Parties filed a conditional request to appear at the hearing if one occurred. No other parties submitted a request to appear at the hearing. On October 2, 2026, counsel for Domestic Interested Parties filed a request that the Commission cancel the hearing and reiterated their intent to respond to any questions posed by the Commission in lieu of a hearing. The Commission considers Domestic Interested Parties' letters of September 23, 2026 and October 2, 2026 to be a request under 19 CFR 201.12 to take action with respect to these investigations, and that cancellation is appropriate because a public hearing is not necessary to address the legal and factual issues these investigations present. Consequently, the Commission has cancelled the public hearing in connection with this proceeding, scheduled to begin at 9:30 a.m. on October 6, 2026. Parties to this proceeding should respond to any written questions posed by the Commission in their posthearing briefs, which are due to be filed on October 13, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+            "checked_at": "2026-10-12T09:22:56.939452+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20614.htm",
+            "evidence": [
+              {
+                "claim": "Комиссия США по международной торговле отменила слушание 6 октября по пересмотру пошлин на кованые стальные фитинги из Индии и Южной Кореи. Ответы на письменные вопросы комиссии нужно подать в материалах после слушания до 13 октября 2026 года.",
+                "source_quote": "INTERNATIONAL TRADE COMMISSION [Investigation Nos. 701-TA-631 and 731-TA-1463-1464 (Review)] Forged Steel Fittings From India and South Korea; Cancellation of Hearing for Antidumping and Countervailing Duty Reviews AGENCY: United States International Trade Commission. ACTION: Notice. ----------------------------------------------------------------------- DATES: October 5, 2026. FOR FURTHER INFORMATION CONTACT: Caitlyn Costello (202-205-2058), Office of Investigations, U.S. International Trade Commission, 500 E Street SW, Washington, DC 20436. Hearing-impaired individuals are advised that information on this matter can be obtained by contacting the Commission's TDD terminal on 202-205-1810. Persons with mobility impairments who will need special assistance in gaining access to the Commission should contact the Office of the Secretary at 202-205-2000. General information concerning the Commission may also be obtained by accessing its internet server ( https://www.usitc.gov ). The public record for these investigations may be viewed on the Commission's electronic docket (EDIS) at https://edis.usitc.gov . SUPPLEMENTARY INFORMATION: On June 2, 2026, the Commission established a schedule for the reviews of the subject antidumping and countervailing duty orders (91 FR 34248, June 5, 2026). On September 23, 2026, counsel for Bonney Forge Corporation and the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union (collectively, ``Domestic Interested Parties'') filed a request that, inter alia, the Commission cancel the scheduled hearing for this proceeding and indicated a willingness to respond to any Commission questions in lieu of an actual hearing. On October 1, 2026, Domestic Interested Parties filed a conditional request to appear at the hearing if one occurred. No other parties submitted a request to appear at the hearing. On October 2, 2026, counsel for Domestic Interested Parties filed a request that the Commission cancel the hearing and reiterated their intent to respond to any questions posed by the Commission in lieu of a hearing. The Commission considers Domestic Interested Parties' letters of September 23, 2026 and October 2, 2026 to be a request under 19 CFR 201.12 to take action with respect to these investigations, and that cancellation is appropriate because a public hearing is not necessary to address the legal and factual issues these investigations present. Consequently, the Commission has cancelled the public hearing in connection with this proceeding, scheduled to begin at 9:30 a.m. on October 6, 2026. Parties to this proceeding should respond to any written questions posed by the Commission in their posthearing briefs, which are due to be filed on October 13, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1300_-us-fr2026-20614.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

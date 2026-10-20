@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Tue, 22 Sep 2026 08:46:44 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Geen samenloopvrijstelling bij economische eigendom grond</title>
+		<link>https://www.taxence.nl/nieuws/geen-samenloopvrijstelling-bij-economische-eigendom-grond/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-samenloopvrijstelling-bij-economische-eigendom-grond/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 08:08:23 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167669</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat economische eigendom van vastgoed meetelt voor de heffing bij aandelen in een onroerendezaakrechtspersoon. De samenloopvrijstelling is niet van toepassing omdat geen sprake is van een btw-belaste levering of dienst.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat economische eigendom van vastgoed meetelt voor de heffing bij aandelen in een onroerendezaakrechtspersoon. De samenloopvrijstelling is niet van toepassing omdat geen sprake is van een btw-belaste levering of dienst.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Twee vennootschappen sluiten een samenwerkingsovereenkomst voor de ontwikkeling en verkoop van een vastgoedproject. Zij delen de kosten en opbrengsten ieder voor 50%. Een bv verkrijgt vervolgens alle aandelen in een van de samenwerkingspartners. Die vennootschap heeft een economisch belang in de betrokken percelen en houdt zich bezig met het onderzoeken, ontwikkelen en realiseren van het project. De koper doet aangifte overdrachtsbelasting en beroept zich op de samenloopvrijstelling. De inspecteur weigert die vrijstelling en legt een naheffingsaanslag van € 1,53 miljoen op. In geschil is onder meer of sprake is van een onroerendezaakrechtspersoon, hoe de maatstaf van heffing moet worden bepaald en of de samenloopvrijstelling geldt.</p>
+
+
+
+<h3 class="wp-block-heading">Economische eigendom telt mee</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de vennootschap een onroerendezaakrechtspersoon is. Haar activiteiten zijn hoofdzakelijk gericht op het ontwikkelen en realiseren van het vastgoedproject en vrijwel haar gehele vermogen hangt samen met de samenwerkingsovereenkomst. Economische eigendom telt daarbij op grond van de Wet BRV mee. Ook voor de maatstaf van heffing moet worden aangesloten bij de waarde van de economische eigendom van de percelen. Uit de wetsgeschiedenis blijkt dat de wetgever economische eigendom juist binnen de heffing heeft willen brengen. Een uitsluitend grammaticale uitleg van art. 10 Wet BRV, die tot een heffingsgrondslag van nihil zou leiden, volgt de rechtbank daarom niet.</p>
+
+
+
+<h3 class="wp-block-heading">Geen btw-belaste levering</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op de samenloopvrijstelling faalt. Bij de beoordeling moet worden gekeken naar de daadwerkelijke vermogenspositie van de onroerendezaakrechtspersoon, die alleen de economische eigendom van de percelen houdt. De bv maakt niet aannemelijk dat deze vennootschap de macht heeft om als eigenaar over de percelen te beschikken. Zo ontbreekt een onherroepelijke volmacht om de percelen te vervreemden of te bezwaren. Evenmin is sprake van een btw-belaste dienst die vergelijkbaar is met verhuur. Daarom is geen btw-belaste levering of dienst aanwezig en geldt de samenloopvrijstelling niet. De naheffingsaanslag blijft in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-4?lid=BWBR0002740&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-10?lid=BWBR0002740&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-15-1-a?lid=BWBR0002740&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 15 lid 1 onderdeel a Wet BRV</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002629-11-1-a?lid=BWBR0002629&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 11 lid 1 onderdeel a onder 1° en onderdeel b Wet OB 1968</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_12395" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 16-06-2026, ECLI:NL:RBNHO:2026:12395, HAA 24/7655 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-samenloopvrijstelling-bij-economische-eigendom-grond/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/11/Bouw-architect.jpg" length="39307" type="image/jpeg" />	</item>
+		<item>
+		<title>Stage in Nederland staat 30%-regeling niet in de weg</title>
+		<link>https://www.taxence.nl/nieuws/stage-in-nederland-staat-30-regeling-niet-in-de-weg/</link>
+					<comments>https://www.taxence.nl/nieuws/stage-in-nederland-staat-30-regeling-niet-in-de-weg/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 08:05:59 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167639</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat een buitenlandse student ondanks een eerdere stage in Nederland kan kwalificeren als ingekomen werknemer voor de 30%-regeling. Ook voldoet hij aan de loonnorm voor specifieke deskundigheid.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat een buitenlandse student ondanks een eerdere stage in Nederland kan kwalificeren als ingekomen werknemer voor de 30%-regeling. Ook voldoet hij aan de loonnorm voor specifieke deskundigheid.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een buitenlandse student komt in september 2023 naar Nederland en loopt vanaf oktober voor € 500 bruto per maand stage bij een bedrijf. De stage is gericht op het opdoen van kennis over data science en het afronden van zijn masterscriptie. Vanaf 1 februari 2024 treedt hij bij een concernvennootschap in dienst als junior data engineer. Op dat moment verblijft hij nog bij een vriend en staat hij als niet-ingezetene geregistreerd. Later krijgt hij een eigen woning en schrijft hij zich in als ingezetene. De inspecteur weigert de 30%-regeling. In geschil is of de man uit het buitenland is aangeworven en of hij voldoet aan de loonnorm voor specifieke deskundigheid.</p>
+
+
+
+<h3 class="wp-block-heading">Stage verhindert aanwerving niet</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt vast dat moet worden gekeken naar het moment waarop de arbeidsovereenkomst op 30 januari 2024 is gesloten. De eerdere werkzaamheden kwalificeren als stage in het kader van een opleiding. Daarbij is van belang dat de stage primair gericht is op kennisvergaring en persoonlijke ontwikkeling en niet op productieve arbeid tegen loon. Dat de stage geen verplicht onderdeel is van het curriculum, maakt dit niet anders. Ook woont de man op dat moment fiscaal nog niet in Nederland. Hij verblijft slechts tijdelijk bij een vriend, heeft geen eigen woonruimte en zijn sociale en persoonlijke banden liggen grotendeels in het buitenland. Hij kwalificeert daarom als uit het buitenland aangeworven werknemer.</p>
+
+
+
+<h3 class="wp-block-heading">Fiscaal loon voldoet aan loonnorm</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de specifieke deskundigheid geldt in 2024 een loonnorm van € 46.107. Hoewel in de arbeidsovereenkomst per abuis een te lage lunchvergoeding staat, blijkt uit verklaringen en loonstroken dat feitelijk steeds € 69,55 per maand in het fiscale loon is meegenomen. Het fiscale jaarloon bedraagt daardoor € 46.194,60 en ligt boven de vereiste loonnorm. De man voldoet daarmee aan alle voorwaarden. De 30%-regeling wordt toegekend vanaf 1 september 2025 voor 37 maanden, nadat eerder verblijf en eerdere tewerkstelling in mindering zijn gebracht.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-31a-2-e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 31a lid 2 onderdeel e Wet LB 1964</a> en <a href="https://www.ndfr.nl/content/BWBR0002489#BWBR0002489-20260101_976094" target="_blank" rel="noreferrer noopener">art. 10e; 10ea; 10eb, 10ec en art. 10ef UBLB 1965</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_5589">Rechtbank Noord-Holland, 11-05-2026, ECLI:NL:RBNHO:2026:5589, HAA 26/299 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/stage-in-nederland-staat-30-regeling-niet-in-de-weg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/09/Studenten-overleg.jpg" length="39682" type="image/jpeg" />	</item>
+		<item>
+		<title>Belastingplan 2027: dit verandert voor youngtimers en fossiele auto&#8217;s van de zaak</title>
+		<link>https://www.taxence.nl/autobelastingen/belastingplan-2027-dit-verandert-voor-youngtimers-en-fossiele-autos-van-de-zaak/</link>
+					<comments>https://www.taxence.nl/autobelastingen/belastingplan-2027-dit-verandert-voor-youngtimers-en-fossiele-autos-van-de-zaak/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Lindenberg]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 05:08:00 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Autobelastingen]]></category>
+		<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167627</guid>
+
+					<description><![CDATA[Tax Talks licht de wijzigingen voor youngtimers en de pseudo-eindheffing vanaf 2027 toe.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de eerder voorziene forse aanscherping van de youngtimerregeling verzachten. Ook bij de pseudo-eindheffing voor fossiele personenauto&#8217;s van de zaak worden praktische knelpunten aangepakt. In de Prinsjesdag-special van Tax Talks bespreekt mr. Heleen Elbert wat deze wijzigingen betekenen voor werkgevers, ondernemers en adviseurs.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Wie adviseert over de auto van de zaak, moet bij het Belastingplan 2027 volgens Elbert vooral letten op de youngtimerregeling en de pseudo-eindheffing. Het zijn precies de onderwerpen waarvoor zij kijkers aan het begin van de Tax Talks-uitzending adviseert extra de oren te spitsen.</p>
+
+
+
+<h2 class="wp-block-heading">Youngtimer: van 16 naar 17 naar 20 jaar</h2>
+
+
+
+<p class="wp-block-paragraph">De leeftijdsgrens voor de youngtimerregeling is per 1 januari 2026 verhoogd van 15 naar 16 jaar. Op basis van de bestaande wetgeving zou de grens vervolgens per 2027 in één keer stijgen naar 25 jaar. Het kabinet stelt nu een geleidelijker verhoging voor: naar 17 jaar in 2027 en naar 20 jaar vanaf 2028.</p>
+
+
+
+<p class="wp-block-paragraph">Bij toepassing van de youngtimerregeling wordt voor het privévoordeel uitgegaan van de waarde in het economische verkeer in plaats van de oorspronkelijke cataloguswaarde. De wijziging raakt daarom niet alleen berijders. Elbert bespreekt in de uitzending ook de gevolgen voor bijvoorbeeld ondernemers die youngtimers op voorraad hebben.</p>
+
+
+
+<p class="wp-block-paragraph">Voor 2027 wordt overgangsrecht voorgesteld voor auto&#8217;s die uiterlijk 31 december 2025 al aan de betreffende werknemer ter beschikking waren gesteld of aan de betreffende IB-ondernemer ter beschikking stonden en die in 2027 de nieuwe leeftijdsgrens bereiken. Zij kunnen gedurende heel 2027 onder de youngtimerregeling blijven vallen. Vanaf 2028 wordt de leeftijdsgrens 20 jaar.</p>
+
+
+
+<h2 class="wp-block-heading">Pseudo-eindheffing krijgt praktische uitzonderingen</h2>
+
+
+
+<p class="wp-block-paragraph">Ook bij de pseudo-eindheffing gebeurt het nodige. Vanaf 1 januari 2027 krijgt een werkgever in beginsel te maken met een pseudo-eindheffing van 12% als hij een fossiele personenauto ook voor privédoeleinden ter beschikking stelt. Woon-werkverkeer telt voor deze regeling mee als privégebruik. Voor auto&#8217;s die al vóór 2027 door de werkgever ter beschikking zijn gesteld, geldt overgangsrecht.</p>
+
+
+
+<p class="wp-block-paragraph">In het wetsvoorstel Overige fiscale maatregelen 2027 wordt voorgesteld dat overgangsrecht te verlengen tot en met 31 december 2030. Daarnaast komen er enkele praktische uitzonderingen. Zo kan een fossiele vervangende auto bij onderhoud of reparatie gedurende maximaal veertien aaneengesloten kalenderdagen buiten de pseudo-eindheffing blijven. Duurt het gebruik langer, dan kan vanaf de vijftiende dag alsnog heffing aan de orde zijn voor de kalendermaand waarin die dag valt.</p>
+
+
+
+<p class="wp-block-paragraph">Ook handgeschakelde rijlesauto&#8217;s worden uitgezonderd. Verder wordt tot en met 2030 een beperkte uitzondering voorgesteld voor een fossiele auto die per kalenderjaar gedurende één periode van maximaal zeven aaneengesloten dagen mede voor privédoeleinden ter beschikking wordt gesteld, bijvoorbeeld een huur- of deelauto.</p>
+
+
+
+<p class="wp-block-paragraph">Juist bij die uitzonderingen zit volgens Elbert de praktijk. Werkgevers zullen moeten bijhouden welke auto&#8217;s wanneer ter beschikking staan en of aan de voorwaarden wordt voldaan. In de uitzending bespreekt zij onder meer wat er gebeurt als een vervangende auto langer nodig is dan voorzien.</p>
+
+
+
+<h2 class="wp-block-heading">Meer fiscale plannen in Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph">De autoregels zijn maar een deel van de Prinsjesdag-special. De Tax Talks-experts (Marit Muller-van Zeijl RB, mr. dr. Chris Dijkstra, mr. Heleen Elbert en mr. Wil Vennix RB) bespreken ook box 3, de verdere versobering van de startersaftrek, de hogere onbelaste reiskostenvergoeding, de fiscale stimulering van startups en scale-ups en andere maatregelen uit het Belastingplan 2027.</p>
+
+
+
+<p class="wp-block-paragraph">Daarbij gaat het niet alleen om wat er in de wetsvoorstellen staat, maar vooral om wat de plannen in de praktijk betekenen voor de adviseur. De voorstellen zijn op Prinsjesdag bij de Tweede Kamer ingediend en kunnen tijdens de parlementaire behandeling nog wijzigen.</p>
+
+
+
+<h2 class="wp-block-heading">Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Tax Talks is hét online learning platform voor mkb-adviseurs. 30x Per jaar wordt een item beschikbaar gesteld dat je via het online platform kunt bekijken. Na het afronden van de bijbehorende kennistoets ontvang je een certificaat en PE-punten</em>.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-dfd83ca2-5a1e-4fac-9162-fe8a1e270c22" href="https://www.licentacademy.nl/tax-talks?_sp=52adb5ab-cd44-48cf-b8b0-bad05abc9210.1762777697293" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+<style class="advgb-styles-renderer">.advgbbtn-dfd83ca2-5a1e-4fac-9162-fe8a1e270c22{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-dfd83ca2-5a1e-4fac-9162-fe8a1e270c22:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-dfd83ca2-5a1e-4fac-9162-fe8a1e270c22 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/autobelastingen/belastingplan-2027-dit-verandert-voor-youngtimers-en-fossiele-autos-van-de-zaak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/Tax-Talks-17-09-2026-768x433.png" length="835392" type="image/png" />	</item>
+		<item>
+		<title>Nieuwe subsidieregeling elektrische auto&#8217;s voor lage inkomens</title>
+		<link>https://www.taxence.nl/nieuws/nieuwe-subsidieregeling-elektrische-autos-voor-lage-inkomens/</link>
+					<comments>https://www.taxence.nl/nieuws/nieuwe-subsidieregeling-elektrische-autos-voor-lage-inkomens/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167634</guid>
+
+					<description><![CDATA[De ingroei van elektrische auto’s verloopt tot nu toe conform voorspellingen, maar stagneert in de particuliere sector. Staatssecretaris Bertram informeert de Kamer over maatregelen voor elektrisch rijden, laadinfrastructuur, schoon en emissieloos bouwen en mobiel erfgoed.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De ingroei van elektrische auto’s verloopt tot nu toe conform voorspellingen, maar stagneert in de particuliere sector. Staatssecretaris Bertram informeert de Kamer over maatregelen voor elektrisch rijden, laadinfrastructuur, schoon en emissieloos bouwen en mobiel erfgoed.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Zonder aanvullende maatregelen stagneert de ingroei van nieuwe en gebruikte elektrische auto’s in de particuliere sector. Het kabinet werkt daarom aan een inkomensafhankelijke inruilregeling.</p>
+
+
+
+<p class="wp-block-paragraph">De openingsdatum en definitieve voorwaarden van de regeling worden op een later moment bekendgemaakt. Wel heeft het kabinet alvast de voorlopig voorgestelde subsidiebedragen en enkele voorwaarden bekendgemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">In het eerste jaar bedraagt de subsidie € 6.000 voor individuele aanvragers met een verzamelinkomen tussen € 12.500 en € 27.533. Bij een verzamelinkomen tussen € 27.534 en € 35.793 bedraagt de subsidie € 4.000. De subsidiebedragen voor de daaropvolgende jaren worden later vastgesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Om voor de regeling in aanmerking te komen, moet de bestaande brandstofauto minimaal één jaar op naam van de aanvrager staan. Daarnaast moet het gaan om een personenauto met emissieklasse 0 tot en met 4. De auto moet worden ingeleverd bij een RDW-erkend sloopbedrijf.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de aanschaf van een gebruikte elektrische auto geldt een oorspronkelijke catalogusprijs van € 12.000 tot en met € 60.000. De subsidie kan ook worden gebruikt voor private lease van een gebruikte elektrische auto. Hiervoor gelden grotendeels dezelfde voorwaarden. Aanvullend moet het leasecontract onder het Keurmerk Private Lease vallen.</p>
+
+
+
+<p class="wp-block-paragraph">Het doel is de regeling eind september 2026 in consultatie te brengen en bij voorkeur in het laatste kwartaal van 2026 open te stellen.</p>
+
+
+
+<h2 class="wp-block-heading">Meer geld voor laadinfrastructuur</h2>
+
+
+
+<p class="wp-block-paragraph">Voor de Subsidieregeling Private Laadinfrastructuur bij bedrijven (SPriLa) was in 2026 aanvankelijk € 87,5 miljoen beschikbaar. Omdat het subsidiebudget voor stationaire batterijen was uitgeput, is het budget met € 35 miljoen verhoogd. Daarmee zijn extra middelen beschikbaar voor zowel laadinfrastructuur als investeringen in stationaire batterijen.</p>
+
+
+
+<p class="wp-block-paragraph">Ook wordt verder gewerkt aan Schoon en Emissieloos Bouwen (SEB). Samen met 180 convenantpartners werkt het ministerie stap voor stap richting een stille, schone bouwplaats. De Subsidieregeling Schoon en Emissieloos Bouwmaterieel heeft tot nu toe voor 4.300 duurzame machines gezorgd. Volgens de evaluatie is de regeling legitiem en doeltreffend en speelt zij een belangrijke rol in de verduurzamingstransitie van bouwbedrijven.</p>
+
+
+
+<h2 class="wp-block-heading">Oldtimers en bio-LNG</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet erkent daarnaast het uitzonderingskarakter van oldtimers als mobiel erfgoed. Oldtimers hebben een structurele vrijstelling voor milieuzones en tot 2030 een vrijstelling voor zero-emissiezones. Omdat elektrificatie vaak geen optie is, wordt voor verduurzaming waar mogelijk ingezet op biobrandstoffen en op synthetische brandstoffen zoals e-fuels.</p>
+
+
+
+<p class="wp-block-paragraph">Voor voertuigen die rijden op bio-LNG kunnen de MIA en VAMIL vanaf 2026 niet meer worden gebruikt. Volgens de Europese staatssteunkaders kan alleen nog steun worden gegeven aan emissievrije voertuigen. Bio-LNG-voertuigen gelden als ‘schoon’, maar niet als ‘emissievrij’.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19415&amp;did=2026D45009" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19415&amp;did=2026D45009" target="_blank" rel="noreferrer noopener">Kamerbrief Duurzaam vervoer, 21 september 2026, nr. IENW/BSK-2026/172011, Ministerie van Infrastructuur en Waterstaat, 21 september 2026</a> en <a href="https://www.rtl.nl/nieuws/economie/artikel/5654492/lager-inkomen-kan-tot-6000-euro-subsidie-krijgen-voor-tweedehands" data-type="link" data-id="https://www.rtl.nl/nieuws/economie/artikel/5654492/lager-inkomen-kan-tot-6000-euro-subsidie-krijgen-voor-tweedehands">RTL Nieuws</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nieuwe-subsidieregeling-elektrische-autos-voor-lage-inkomens/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/190827134153.Elektrische-auto-hoog.resized.2880x2880_cropped-62-0-0-0-0-768x432.png" length="821498" type="image/png" />	</item>
+		<item>
+		<title>Beleidsbesluit earningsstrippingmaatregel 2026</title>
+		<link>https://www.taxence.nl/nieuws/beleidsbesluit-earningsstrippingmaatregel-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/beleidsbesluit-earningsstrippingmaatregel-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 04:59:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167637</guid>
+
+					<description><![CDATA[Het Beleidsbesluit earningsstrippingmaatregel 2026 actualiseert het beleid voor de toepassing van artikel 15b Wet Vpb 1969. Het besluit vervangt het Beleidsbesluit earningsstrippingmaatregel 2025.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Beleidsbesluit earningsstrippingmaatregel 2026 actualiseert het beleid voor de toepassing van artikel 15b Wet Vpb 1969. Het besluit vervangt het Beleidsbesluit earningsstrippingmaatregel 2025</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">De earningsstrippingmaatregel beperkt de aftrek van het saldo aan renten voor zover dit meer bedraagt dan 24,5% van de gecorrigeerde winst of € 1 miljoen, indien dat laatste bedrag hoger is. Het besluit verduidelijkt diverse begrippen en praktijksituaties die voor deze berekening relevant zijn.</p>
+
+
+
+<p class="wp-block-paragraph">Een nieuw onderdeel betreft de verkoop van toekomstige kasstromen. Een belastingplichtige kan bijvoorbeeld toekomstige royalty- of huurvorderingen tegen een bedrag ineens overdragen aan een derde. Als de ontvangen koopsom fiscaal als opbrengst is gerealiseerd en tot de winst wordt gerekend, kwalificeert de overeenkomst volgens het besluit niet als geldlening of als een met een geldlening vergelijkbare overeenkomst (MEGVO). De transactie valt dan in zoverre niet onder het rentebegrip van de earningsstrippingmaatregel.</p>
+
+
+
+<p class="wp-block-paragraph">Ook wordt de samenloop met artikel 13ba Wet Vpb 1969 verduidelijkt. De verplichte bijtelling waarmee onder omstandigheden een eerdere afwaardering van een schuldvordering wordt gecorrigeerd, vormt geen rentebate voor artikel 15b. Dat geldt ook als de eerdere afwaardering voortkwam uit een valutaverlies: de bijtelling wordt daardoor niet aangemerkt als valutawinst en dus evenmin als rentebate.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de berekening van de gecorrigeerde winst wordt verduidelijkt dat de Zeescheepvaart Onbelaste Reserve deze winst niet raakt. Daarnaast bevat het besluit een nieuw onderdeel over artikel 20a Wet Vpb 1969. Een verhoging van de boekwaarde van een bezitting op grond van artikel 20a, twaalfde lid, vloeit niet voort uit goed koopmansgebruik en geldt daarom niet als terugname van een eerdere afwaardering voor de berekening van de gecorrigeerde winst.</p>
+
+
+
+<p class="wp-block-paragraph">Ten slotte wordt ingegaan op woningcorporaties. Artikel 15b Wet Vpb 1969 kent geen uitzondering voor deze belastingplichtigen. De earningsstrippingmaatregel kan hun renteaftrek dus beperken. Volgens het beleidsbesluit is toepassing van artikel 15b op woningcorporaties niet in strijd met het Unierecht.</p>
+
+
+
+<p class="wp-block-paragraph">Het besluit treedt in werking op 23 september 2026. Het Beleidsbesluit earningsstrippingmaatregel 2025 wordt ingetrokken.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-32735.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-32735.html" target="_blank" rel="noreferrer noopener">Beleidsbesluit earningsstrippingmaatregel 2026, nr. 2026-17016, Ministerie van Financien, Stcrt. 2026, 32735</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/beleidsbesluit-earningsstrippingmaatregel-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/06/vastgoed-buitenland.jpg" length="45739" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt beëindigde bedrijfsactiviteiten</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-beeindigde-bedrijfsactiviteiten/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-beeindigde-bedrijfsactiviteiten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 04:43:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167674</guid>
+
+					<description><![CDATA[De Kennisgroep Pijler 2 heeft de vraag beantwoord of een entiteit waarvan de activiteiten voor financiële verslaggevingsdoeleinden als beëindigde bedrijfsactiviteiten (hierna: discontinued operations) worden aangemerkt, die niet ter verkoop werd of wordt gehouden, als een groepsentiteit kwalificeert voor de toepassing van de Wet minimumbelasting 2024.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep Pijler 2 heeft de vraag beantwoord of een entiteit waarvan de activiteiten voor financiële verslaggevingsdoeleinden als beëindigde bedrijfsactiviteiten (hierna: discontinued operations) worden aangemerkt, die niet ter verkoop werd of wordt gehouden, als een groepsentiteit kwalificeert voor de toepassing van de Wet minimumbelasting 2024.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een multinationale groep, waarvan de geconsolideerde jaarrekening is opgesteld op basis van US GAAP, heeft besloten een entiteit te verzelfstandigen en rapporteert om die reden het resultaat van deze entiteit in de financiële verslaggeving over 2024 als ‘earnings (loss) from discontinued operations, net of taxes’ (hierna: discontinued operations). De opbrengsten en kosten van deze entiteit zijn in 2024 zodoende niet integraal geconsolideerd (‘post-voor-post’), maar alleen het saldo is als nettoresultaat separaat (‘enkele post’) opgenomen in de geconsolideerde jaarrekening.</p>
+
+
+
+<p class="wp-block-paragraph">De entiteit is gedurende het verslagjaar (2024) op geen enkel moment (ook) gehouden ter verkoop. Er is in dit geval verder ook geen sprake van een entiteit die enkel op grond van haar beperkte omvang of materialiteit niet in de geconsolideerde jaarrekening opgenomen is en om die reden onderdeel vormt van een groep, zoals bedoeld in artikel 1.2, eerste lid, van de Wet minimumbelasting 2024.</p>
+
+
+
+<p class="wp-block-paragraph">De vraag dient zich aan of onder deze omstandigheden de entiteit, waarvan het resultaat niet integraal (‘post-voor-post’) is geconsolideerd maar is verantwoord als discontinued operations, moet worden aangemerkt als een groepsentiteit voor de toepassing van de WMB 2024.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kwalificeert een entiteit die in een verslagjaar niet ter verkoop wordt gehouden als een groepsentiteit als bedoeld in artikel 1.2, eerste lid, WMB 2024, wanneer de activiteiten van die entiteit in dat verslagjaar op basis van US GAAP worden aangemerkt als discontinued operations?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. Een entiteit die niet ter verkoop wordt aangehouden en waarvan het resultaat onder US GAAP in de geconsolideerde jaarrekening van een verslagjaar wordt verantwoord als resultaten uit discontinued operations, kwalificeert in dat verslagjaar niet als een groepsentiteit in de zin van artikel 1.2, eerste lid, WMB 2024. Een dergelijke entiteit kan, voor de toepassing van de WMB 2024, niet worden aangemerkt als, respectievelijk gelijkgesteld worden met een entiteit die ter verkoop wordt aangehouden, zoals bedoeld in de definitie van het begrip ‘groep’ in artikel 1.2, eerste lid, WMB 2024.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-beeindigde-bedrijfsactiviteiten/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-beeindigde-bedrijfsactiviteiten/" target="_blank" rel="noreferrer noopener">Belastingdienst, 22 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-beeindigde-bedrijfsactiviteiten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/faillissement-closed.jpg" length="25133" type="image/jpeg" />	</item>
+		<item>
+		<title>Boete van € 5 miljoen voor Credit Suisse wegens hulp aan zwartspaarders</title>
+		<link>https://www.taxence.nl/nieuws/boete-van-e-5-miljoen-voor-credit-suisse-wegens-hulp-aan-zwartspaarders/</link>
+					<comments>https://www.taxence.nl/nieuws/boete-van-e-5-miljoen-voor-credit-suisse-wegens-hulp-aan-zwartspaarders/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 04:37:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167671</guid>
+
+					<description><![CDATA[UBS heeft namens het voormalige Credit Suisse een transactieaanbod van het Openbaar Ministerie (OM) geaccepteerd. De bank betaalt een boete van € 5 miljoen vanwege de rol van Credit Suisse bij het indienen van onjuiste belastingaangiften door Nederlandse klanten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>UBS heeft namens het voormalige Credit Suisse een transactieaanbod van het Openbaar Ministerie (OM) geaccepteerd. De bank betaalt een boete van € 5 miljoen vanwege de rol van Credit Suisse bij het indienen van onjuiste belastingaangiften door Nederlandse klanten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Credit Suisse werd ervan verdacht medeplichtig te zijn geweest aan 80 onjuiste belastingaangiften van twaalf klanten. De aangiften werden gedaan tussen 2005 en 2015. Met de transactie wordt de zaak buiten de rechter om afgedaan. Credit Suisse werd in 2023 overgenomen door UBS en bestaat sindsdien niet meer als zelfstandige bank.</p>
+
+
+
+<h2 class="wp-block-heading">Dienstverlening aan zwartspaarders</h2>
+
+
+
+<p class="wp-block-paragraph">De FIOD startte in 2016, onder leiding van het OM, een onderzoek naar Credit Suisse. Daaruit kwam volgens het OM naar voren dat de bank met haar dienstverlening heeft bijgedragen aan het doen van onjuiste belastingaangiften.</p>
+
+
+
+<p class="wp-block-paragraph">De Nederlandse klanten die in het onderzoek centraal stonden, waren zogenoemde zwartspaarders. Zij hielden vermogen aan op Zwitserse bankrekeningen zonder dit bij de Nederlandse Belastingdienst aan te geven.</p>
+
+
+
+<p class="wp-block-paragraph">Credit Suisse bood verschillende diensten aan die het mogelijk maakten om vermogen buiten beeld te houden. Zo kon bancaire post bij de bank worden bewaard, konden klanten gebruikmaken van genummerde rekeningen en codenamen en hielp de bank bij het opzetten van vennootschappen in landen die geen fiscale informatie met Nederland uitwisselden.</p>
+
+
+
+<h2 class="wp-block-heading">Onderzoek gericht op Credit Suisse</h2>
+
+
+
+<p class="wp-block-paragraph">Het strafrechtelijk onderzoek richtte zich op de voormalige rechtspersoon Credit Suisse. Volgens het OM hadden de betrokken medewerkers in Nederland voornamelijk een uitvoerende rol, terwijl de leidinggevenden vanuit Zwitserland opereerden.</p>
+
+
+
+<p class="wp-block-paragraph">De twaalf onderzochte klanten maakten deel uit van een grotere groep rekeninghouders. Ook binnen die groep waren klanten die geen juiste belastingaangifte hadden gedaan. Om het strafrechtelijk onderzoek efficiënt af te ronden, beperkte het OM zich tot de aangiften van deze twaalf klanten. De Belastingdienst heeft de overige gevallen zelfstandig afgehandeld met naheffingen en boetes.</p>
+
+
+
+<h2 class="wp-block-heading">Boete van € 5 miljoen </h2>
+
+
+
+<p class="wp-block-paragraph">Na de overname van Credit Suisse heeft het OM UBS een transactie aangeboden van € 5 miljoen. Volgens het OM is dat een passende financiële sanctie. Rechtspersonen kunnen in het strafrecht uitsluitend financieel worden bestraft, ook wanneer een zaak aan de strafrechter wordt voorgelegd.</p>
+
+
+
+<p class="wp-block-paragraph">Bij de hoogte van de boete is onder meer gekeken naar het aantal rekeninghouders dat onder de transactie valt en de omvang van het vermogen dat bij Credit Suisse was ondergebracht. Volgens het OM staat het bedrag bovendien in redelijke verhouding tot transacties die Credit Suisse eerder in andere landen heeft gesloten voor vergelijkbare gedragingen.</p>
+
+
+
+<p class="wp-block-paragraph">Het OM acht de kans op herhaling beperkt. Credit Suisse bediende sinds de zomer van 2014 geen zwartspaarders meer en voerde compliancebeleid in dat klanten ertoe moet bewegen belastingwetgeving na te leven.</p>
+
+
+
+<p class="wp-block-paragraph">Ook de overname door UBS speelt mee. Omdat Credit Suisse sinds 2023 niet meer als zelfstandige bank bestaat, ziet het OM voldoende aanleiding om de strafzaak met deze transactie af te ronden.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.om.nl/actueel/nieuws/2026/09/22/boete-van-5-miljoen-voor-credit-suisse-wegens-hulp-aan-zwartspaarders" data-type="link" data-id="https://www.om.nl/actueel/nieuws/2026/09/22/boete-van-5-miljoen-voor-credit-suisse-wegens-hulp-aan-zwartspaarders" target="_blank" rel="noreferrer noopener">OM, 22 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/boete-van-e-5-miljoen-voor-credit-suisse-wegens-hulp-aan-zwartspaarders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/credit-suisse.jpg" length="37076" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt overschrijding wettelijke termijn bij expiratie in 2025</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-overschrijding-wettelijke-termijn-bij-expiratie-in-2025/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-overschrijding-wettelijke-termijn-bij-expiratie-in-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2026 04:09:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167632</guid>
+
+					<description><![CDATA[De Kennisgroep verzekeringsproducten en assurantiebelasting heeft de vraag beantwoord wanneer de wettelijke termijn eindigt bij expiratie van een lijfrente in 2025.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep verzekeringsproducten en assurantiebelasting heeft de vraag beantwoord wanneer de wettelijke termijn eindigt bij expiratie van een lijfrente in 2025.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belastingplichtige heeft een lijfrente die bij leven is geëxpireerd in 2025.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Wanneer eindigt de wettelijke termijn van een lijfrente die bij leven is geëxpireerd in 2025?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">De wettelijke termijn eindigt op 31 december 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Op grond van artikel 3.133, derde lid, Wet IB 2001 (tekst 2025) is de contractueel overeengekomen datum leidend. De uiterste datum in geval van expiratie bij leven is dan 31&nbsp;december van het kalenderjaar volgend op het kalenderjaar van de contractueel overeengekomen datum. Dat is 31 december 2026 voor een lijfrente waarvan de contractueel overeengekomen datum (expiratiedatum) in 2025 ligt.</p>
+
+
+
+<p class="wp-block-paragraph">Per 1 januari 2026 is de wettelijke termijn gewijzigd. De wettelijke termijn bij leven eindigt vanaf dat moment op 31 december van het kalenderjaar volgend op het kalenderjaar waarin de belastingplichtige de leeftijd heeft bereikt die vijf jaar hoger is dan de AOW-gerechtigde leeftijd.</p>
+
+
+
+<p class="wp-block-paragraph">De wijziging van artikel 3.133, derde lid, Wet IB 2001 is per 1 januari 2026 in werking getreden. Dit volgt uit artikel XVIII, eerste lid, van de <a href="https://zoek.officielebekendmakingen.nl/stb-2025-431.html" target="_blank" rel="noreferrer noopener">Fiscale verzamelwet 2026</a>, waarin is bepaald:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">“Deze wet treedt in werking met ingang van 1 januari 2026 (…)”.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">De toepassing van de gewijzigde wettelijke termijn geldt voor expiraties vanaf het jaar 2026.  De gewijzigde wettekst geldt vanaf 1 januari 2026. Voor lijfrenten die vóór 1 januari 2026 zijn geëxpireerd, moet daarom worden uitgegaan van de wettekst die op het moment van expiratie van toepassing was. In die wettekst wordt immers vastgesteld welke wettelijke termijn aan de expiratiedatum is gekoppeld. Als een lijfrente in 2025 is geëxpireerd, bepaalt de op dat moment geldende wettelijke termijn dat de belastingplichtige tot en met 31 december 2026 de tijd heeft.</p>
+
+
+
+<p class="wp-block-paragraph">Voor een reeds lopende wettelijke termijn is niet voorzien in overgangsrecht op grond waarvan de vanaf 1 januari 2026 geldende, ruimere termijn alsnog van toepassing wordt. De wijziging heeft daarom geen gevolgen voor de termijn die is gaan lopen naar aanleiding van de expiratie in 2025.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-overschrijding-wettelijke-termijn-bij-expiratie-in-2025/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-overschrijding-wettelijke-termijn-bij-expiratie-in-2025/" target="_blank" rel="noreferrer noopener">Belastingdienst, 21 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-overschrijding-wettelijke-termijn-bij-expiratie-in-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Voorwaardelijke alimentatie niet aftrekbaar vóór 2020</title>
+		<link>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/</link>
+					<comments>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 09:29:33 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167618</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat een voorwaardelijke alimentatieverplichting in 2019 nog niet kon worden verrekend. Ook hoefde de inspecteur een later ontvangen verklaring in bezwaar niet uit eigen beweging toe te sturen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat een voorwaardelijke alimentatieverplichting in 2019 nog niet kon worden verrekend. Ook hoefde de inspecteur een later ontvangen verklaring in bezwaar niet uit eigen beweging toe te sturen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn ex-partner spreken bij hun scheiding af dat hij maandelijks € 2.000 partneralimentatie moet betalen zodra haar dienstverband bij zijn advocatenkantoor eindigt. Dat dienstverband eindigt pas per 1 april 2020. De man trekt in zijn aangifte IB/PVV 2019 toch € 48.000 aan partneralimentatie af. Hij stelt dat hij al in 2019 een vordering op zijn ex-partner had vanwege onder meer voorgeschoten kosten en opnames van zijn bankrekening en dat hij die vordering met de toekomstige alimentatie heeft verrekend. De inspecteur weigert de aftrek. Daarnaast klaagt de man erover dat de inspecteur een schriftelijke verklaring van zijn ex-partner tijdens de bezwaarfase niet aan hem heeft toegestuurd.</p>
+
+
+
+<h3 class="wp-block-heading">Geen zelfstandig recht op toezending</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat artikel 7:4 Awb de inspecteur verplicht de stukken in bezwaar ter inzage te leggen en de belastingplichtige op dat inzagerecht te wijzen. Er bestaat in de bezwaarfase echter geen zelfstandig recht op toezending van alle stukken. De man is uitgenodigd voor een hoorgesprek en gewezen op de mogelijkheid het dossier in te zien, maar heeft daarvan geen gebruikgemaakt. De inspecteur hoefde de later ontvangen verklaring van de ex-partner daarom niet afzonderlijk toe te sturen. Ook van strijd met het fair play-beginsel is geen sprake.</p>
+
+
+
+<h3 class="wp-block-heading">Alimentatieverplichting ontstond pas in 2020</h3>
+
+
+
+<p class="wp-block-paragraph">Ook de aftrek van € 48.000 blijft geweigerd. De verplichting tot partneralimentatie was afhankelijk van het eindigen van het dienstverband van de ex-partner. Die opschortende voorwaarde wordt pas op 1 april 2020 vervuld. In 2019 was de man daarom nog niet bevoegd deze voorwaardelijke schuld te betalen en kon hij zijn eventuele tegenvordering ook niet met de alimentatie verrekenen. Van vooruitbetaalde of afgekochte alimentatie is evenmin sprake. In 2019 heeft dus geen partneralimentatie op hem gedrukt in de zin van de Wet IB 2001. Het hof verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Wet:</strong> <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-7:4?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7:4 Awb</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.1 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2079">Gerechtshof &#8216;s-Hertogenbosch, 29-07-2026, ECLI:NL:GHSHE:2026:2079, 25/897 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Echtscheiding-nieuw.jpg" length="34018" type="image/jpeg" />	</item>
+		<item>
+		<title>Herwaardering voorraad via kapitaal leidt tot winstcorrectie</title>
+		<link>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/</link>
+					<comments>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 09:23:55 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Fiscaal procesrecht]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167615</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat een na de aanslag ingediende aangifte niet geldt als de vereiste aangifte. De ondernemer maakt bovendien niet overtuigend duidelijk dat de winstcorrectie wegens herwaardering van de voorraad onjuist is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat een na de aanslag ingediende aangifte niet geldt als de vereiste aangifte. De ondernemer maakt bovendien niet overtuigend duidelijk dat de winstcorrectie wegens herwaardering van de voorraad onjuist is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man drijft samen met zijn broer een vof die handelt in auto-onderdelen en accessoires uit de Verenigde Staten. Voor 2019 doet hij niet binnen de in de aanmaning gestelde termijn aangifte inkomstenbelasting. Nadat de inspecteur ambtshalve een aanslag heeft opgelegd, dient hij alsnog een aangifte in. Uit de administratie blijkt daarnaast een aanzienlijk verschil tussen het ondernemingsvermogen en de voorraadpositie eind 2018 en begin 2019. Volgens de ondernemer hangt dit samen met een computercrash en zijn bij herstel van de administratie actuele inkoopprijzen gebruikt. De inspecteur stelt dat daardoor de voorraad is geherwaardeerd en verhoogt uiteindelijk de winst van de man met € 81.016. In geschil is of deze correctie terecht is.</p>
+
+
+
+<h3 class="wp-block-heading">Geen vereiste aangifte gedaan</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt vast dat de man pas na het opleggen van de ambtshalve aanslag aangifte heeft gedaan. Die latere aangifte is geen aangifte in de zin van de AWR. Daardoor heeft hij de vereiste aangifte niet gedaan en wordt de bewijslast omgekeerd en verzwaard. Hij moet daarom overtuigend aantonen dat en in hoeverre de aanslagen onjuist zijn. De inspecteur moet zijn correcties ondanks die verzwaarde bewijslast wel baseren op een redelijke schatting.</p>
+
+
+
+<h3 class="wp-block-heading">Voorraadcorrectie is redelijk</h3>
+
+
+
+<p class="wp-block-paragraph">Volgens de rechtbank is de schatting van de inspecteur redelijk. Uit de administratie volgt dat de voorraad tegen hogere actuele inkoopprijzen is gewaardeerd. De inspecteur corrigeert van het vermogensverschil uiteindelijk € 162.032 en rekent daarvan vanwege de 50%-winstgerechtigdheid € 81.016 toe aan de man. De man levert geen bewijs waaruit blijkt dat het verschil al in oudere jaren is ontstaan. Ook als dat wel zo zou zijn, sluit dat toepassing van de foutenleer in het oudste nog openstaande jaar 2019 niet uit. Een vermogenssprong tussen twee jaren kan bovendien niet buiten de totaalwinst blijven. De beroepen zijn daarom ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6917" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 11-09-2026, ECLI:NL:RBGEL:2026:6917, ARN 23/4675 en 25/3227 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/auto-accessoires.jpg" length="57467" type="image/jpeg" />	</item>
+	</channel>
+</rss>

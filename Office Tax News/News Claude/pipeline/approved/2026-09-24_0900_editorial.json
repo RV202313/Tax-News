@@ -1,0 +1,377 @@
+{
+  "release": "2026-09-24_0900_editorial",
+  "date": "2026-09-24",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-24-0900-item-01-ru",
+      "title": "Россия: ФНС России разъяснила особенности налоговой реконструкции и деловой цели сделок",
+      "caption": "Россия: ФНС России разъяснила особенности налоговой реконструкции и деловой цели сделок\n\nФНС России провела семинар и вынесла разъяснения по практическим аспектам подтверждения реального характера хозяйственных операций и деловой цели при налоговых проверках.\n\n💡 **Почему это важно**\nПрименение налоговой реконструкции снижает риски необоснованного взыскания налогов в полном объеме при признании технического характера контрагента. Налогоплательщикам важно заблаговременно формировать защитный файл с коммерческой перепиской, отчетами и фактическими доказательствами поставки товаров и оказания услуг.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16649886/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16649886/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-02-ru",
+      "title": "Россия: ФНС России провела открытое занятие по повышению налоговой грамотности бизнеса",
+      "caption": "Россия: ФНС России провела открытое занятие по повышению налоговой грамотности бизнеса\n\nПредставители управления ФНС России провели консультационную сессию для предпринимателей по вопросам применения специальных налоговых режимов и соблюдения законодательства.\n\n💡 **Почему это важно**\nИнформирование представителей малого и среднего бизнеса о правилах перехода между налоговыми режимами снижает частоту ошибок при подаче уведомительных документов. Предпринимателям рекомендуется отслеживать изменения порога доходов и требований к структуре владения активов.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16650041/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Информационный материал ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16650041/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-03-kz",
+      "title": "Казахстан: Правительство РК обновило льготы по НДС и снизило ставки для сектора здравоохранения",
+      "caption": "Казахстан: Правительство РК обновило льготы по НДС и снизило ставки для сектора здравоохранения\n\nПравительство Республики Казахстан приняло Постановление № 542, вносящее изменения в перечни медицинских товаров и услуг, освобождаемых от НДС или облагаемых по пониженной ставке.\n\n💡 **Почему это важно**\nОбновление списков льготируемой продукции требует от импортеров и фармкомпаний выверки кодов ТН ВЭД и лицензий. Ошибки в квалификации импортируемых медицинских изделий приводят к доначислению НДС и задержкам таможенного оформления.\n\nИсточник: https://regfollower.com/kazakhstan-updates-vat-exemptions-reduces-rates-for-healthcare-sector/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС и таможенные льготы",
+      "jurisdictions": "Казахстан",
+      "act": "Постановление Правительства РК № 542",
+      "sources": [
+        {
+          "label": "Правительство РК",
+          "url": "https://regfollower.com/kazakhstan-updates-vat-exemptions-reduces-rates-for-healthcare-sector/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-04-kz",
+      "title": "Казахстан: КГД Минфина Казахстана запустил сервис предзаполнения деклараций по НДС",
+      "caption": "Казахстан: КГД Минфина Казахстана запустил сервис предзаполнения деклараций по НДС\n\nКомитет государственных доходов Министерства финансов Казахстана запустил электронный сервис автозаполнения декларации по НДС по форме 300.00 на основе данных электронных счетов-фактур.\n\n💡 **Почему это важно**\nАвтоматическое формирование декларации снижает административную нагрузку, но требует от налогоплательщиков регулярного проведения сверки входящих и исходящих ЭСФ до окончания налогового периода для исключения расхождений.\n\nИсточник: https://regfollower.com/kazakhstan-launches-pre-filled-vat-return-service-for-form-300-00/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "электронный инвойсинг и НДС",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснение КГД Минфина РК",
+      "sources": [
+        {
+          "label": "КГД Минфина РК",
+          "url": "https://regfollower.com/kazakhstan-launches-pre-filled-vat-return-service-for-form-300-00/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-05-au",
+      "title": "Австралия: Налоговое управление Австралии обновило руководство по НДС для финансовых услуг",
+      "caption": "Австралия: Налоговое управление Австралии обновило руководство по НДС для финансовых услуг\n\nНалоговое управление Австралии (ATO) выпустило обновленные разъяснения по квалификации финансовых услуг для целей косвенного налогообложения GST.\n\n💡 **Почему это важно**\nРазграничение освобождаемых и облагаемых финансовых операций критично для правомерного применения вычетов входящего налога. Финансовым институтам рекомендуется пересмотреть методики пропорционального распределения НДС.\n\nИсточник: https://regfollower.com/australia-ato-updates-guidance-on-gst-classification-for-financial-supplies/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение",
+      "jurisdictions": "Австралия",
+      "act": "Руководство ATO Австралии",
+      "sources": [
+        {
+          "label": "ATO Австралии",
+          "url": "https://regfollower.com/australia-ato-updates-guidance-on-gst-classification-for-financial-supplies/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-06-uk",
+      "title": "Великобритания: HMRC обновило руководство по трансфертному ценообразованию и тонкой капитализации",
+      "caption": "Великобритания: HMRC обновило руководство по трансфертному ценообразованию и тонкой капитализации\n\nСлужба налогов и таможни Великобритании (HMRC) опубликовала новую редакцию руководства по контролю сделок между взаимозависимыми лицами и правилам ограничений вычета процентов.\n\n💡 **Почему это важно**\nУжесточение проверок уровня задолженности и процентных ставок требует от международных групп подготовки документации, подтверждающей соответствие условий внутригрупповых займов принципу вытянутой руки.\n\nИсточник: https://regfollower.com/uk-hmrc-releases-updated-manual-on-transfer-pricing-and-thin-capitalisation/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Великобритания",
+      "act": "Руководство HMRC Великобритании",
+      "sources": [
+        {
+          "label": "HMRC Великобритании",
+          "url": "https://regfollower.com/uk-hmrc-releases-updated-manual-on-transfer-pricing-and-thin-capitalisation/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-07-lv",
+      "title": "Латвия: Служба госдоходов Латвии выпустила руководство по отчетности о контролируемых сделках",
+      "caption": "Латвия: Служба госдоходов Латвии выпустила руководство по отчетности о контролируемых сделках\n\nСлужба государственных доходов Латвии (VID) опубликовала подробные инструкции по заполнению отчетов о контролируемых сделках в рамках трансфертного ценообразования.\n\n💡 **Почему это важно**\nПодробная детализация отчетов о трансграничных операциях расширяет возможности ведомства по выявлению рисков смещения прибыли. Компаниям следует соблюдать установленные дедлайны во избежание штрафных санкций.\n\nИсточник: https://regfollower.com/latvia-srs-issues-transfer-pricing-controlled-transaction-report-guidance/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "трансфертное ценообразование",
+      "jurisdictions": "Латвия",
+      "act": "Инструкция VID Латвии",
+      "sources": [
+        {
+          "label": "VID Латвии",
+          "url": "https://regfollower.com/latvia-srs-issues-transfer-pricing-controlled-transaction-report-guidance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-08-jp",
+      "title": "Япония: Кабинет министров Японии одобрил временное снижение налога на потребление продовольствия",
+      "caption": "Япония: Кабинет министров Японии одобрил временное снижение налога на потребление продовольствия\n\nПравительство Японии утвердило проект временного снижения ставки налога на потребление в отношении базовых продуктов питания для поддержки покупательной способности населения.\n\n💡 **Почему это важно**\nИзменение налоговых ставок требует от торговых сетей и импортеров оперативной перенастройки кассового программного обеспечения и учета НДС во избежание нарушений законодательства.\n\nИсточник: https://regfollower.com/japan-cabinet-approves-temporary-food-consumption-tax-cut/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение",
+      "jurisdictions": "Япония",
+      "act": "Решение Кабинета министров Японии",
+      "sources": [
+        {
+          "label": "Кабинет министров Японии",
+          "url": "https://regfollower.com/japan-cabinet-approves-temporary-food-consumption-tax-cut/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-09-sn",
+      "title": "Сенегал: Законопроект Сенегала предлагает сбор солидарности для операторов мобильных денег",
+      "caption": "Сенегал: Законопроект Сенегала предлагает сбор солидарности для операторов мобильных денег\n\nМинистерство финансов Сенегала вынесло на обсуждение поправки в финансовое законодательство, предусматривающие введение специального налогового сбора на транзакции мобильных кошельков.\n\n💡 **Почему это важно**\nВведение дополнительного сбора на цифровые финансовые услуги увеличивает налоговую нагрузку на ФинТех-компании и требует учета изменений при формировании тарифной политики в регионе.\n\nИсточник: https://regfollower.com/senegal-draft-2026-amending-finance-bill-proposes-economic-solidarity-contribution-on-e-money-operators/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровая экономика",
+      "jurisdictions": "Сенегал",
+      "act": "Законопроект Минфина Сенегала",
+      "sources": [
+        {
+          "label": "Минфин Сенегала",
+          "url": "https://regfollower.com/senegal-draft-2026-amending-finance-bill-proposes-economic-solidarity-contribution-on-e-money-operators/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    },
+    {
+      "slug": "2026-09-24-0900-item-10-br",
+      "title": "Бразилия: Бразилия обновила правила Pillar 2 и безопасной гавани QDMTT для налоговых льгот",
+      "caption": "Бразилия: Бразилия обновила правила Pillar 2 и безопасной гавани QDMTT для налоговых льгот\n\nФедеральная налоговая служба Бразилии приняла нормативные изменения в правила квалифицированного местного минимального налога QDMTT в рамках реализации правил Pillar 2.\n\n💡 **Почему это важно**\nВведение безопасной гавани на основе вещества предохраняет международные группы от риска повторного доначисления доналога в материнской юрисдикции при использовании национальных налоговых стимулов.\n\nИсточник: https://regfollower.com/brazil-amends-pillar-two-qdmtt-rules-to-introduce-substance-based-tax-incentive-safe-harbour/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Pillar 2 / GloBE",
+      "jurisdictions": "Бразилия",
+      "act": "Указание RFB Бразилии",
+      "sources": [
+        {
+          "label": "RFB Бразилии",
+          "url": "https://regfollower.com/brazil-amends-pillar-two-qdmtt-rules-to-introduce-substance-based-tax-incentive-safe-harbour/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      }
+    }
+  ]
+}

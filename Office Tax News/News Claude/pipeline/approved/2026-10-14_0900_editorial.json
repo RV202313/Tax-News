@@ -1,0 +1,517 @@
+{
+  "release": "2026-10-14_0900_editorial",
+  "date": "2026-10-14",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-10-14-0900-item-01-ru",
+      "title": "Россия: Перечни кодов продовольственных товаров со ставкой НДС 10% дополнены новыми видами муки",
+      "caption": "Россия: Перечни кодов продовольственных товаров со ставкой НДС 10% дополнены новыми видами муки\n\nПравительство России расширило перечень продовольственной продукции, облагаемой по льготной ставке налога на добавленную стоимость.\n\n💡 **Почему это важно**\nПрименение 10-процентной ставки снижает налоговую нагрузку на переработчиков зерна и оптовых поставщиков бакалейной продукции. Бухгалтерским службам торговых сетей необходимо скорректировать справочники номенклатуры в учетных программах.\n\nИсточник: https://www.garant.ru/news/2270384/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "льготная ставка НДС и продовольственные товары",
+      "jurisdictions": "Россия",
+      "act": "Постановление Правительства РФ о льготной ставке НДС",
+      "sources": [
+        {
+          "label": "Правительство РФ / Гарант",
+          "url": "https://www.garant.ru/news/2270384/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2270384/",
+          "final_url": "https://www.garant.ru/news/2270384/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Перечни кодов продовольственных ",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-02-ru",
+      "title": "Россия: ФНС указала на типичные ошибки при заполнении документов о предстоящих поставках",
+      "caption": "Россия: ФНС указала на типичные ошибки при заполнении документов о предстоящих поставках\n\nНалоговое ведомство обобщило практику декларирования перемещения прослеживаемых товаров в рамках взаимной торговли.\n\n💡 **Почему это важно**\nНеточности в заполнении реквизитов приводят к блокировке партий на границе и задержке подтверждения вычетов по НДС. Логистическим операторам и импортерам следует сверить внутренние регламенты оформления отгрузок.\n\nИсточник: https://www.garant.ru/news/2270318/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль прослеживаемости и товаросопроводительные документы",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2270318/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2270318/",
+          "final_url": "https://www.garant.ru/news/2270318/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС указала на типичные ошибки п",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-03-ru",
+      "title": "Россия: Применение автоУСН не освобождает организацию от ведения бухгалтерского учета",
+      "caption": "Россия: Применение автоУСН не освобождает организацию от ведения бухгалтерского учета\n\nФинансовое ведомство подчеркнуло обязанность субъектов специального налогового режима формировать и представлять полную финансовую отчетность.\n\n💡 **Почему это важно**\nОсвобождение от налоговой декларации при автоматизированной упрощенной системе не отменяет требований закона о бухучете. Руководителям малых предприятий важно обеспечить непрерывный учет активов и обязательств.\n\nИсточник: https://www.garant.ru/news/2268156/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "бухгалтерский учет и специальный налоговый режим автоУСН",
+      "jurisdictions": "Россия",
+      "act": "Письмо Минфина России",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2268156/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2268156/",
+          "final_url": "https://www.garant.ru/news/2268156/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Применение автоУСН не освобождае",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому кредитованию ATR 000006",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому кредитованию ATR 000006\n\nНалоговая служба Нидерландов утвердила рыночный диапазон процентных ставок и допустимый уровень долговой нагрузки для холдинговой структуры.\n\n💡 **Почему это важно**\nОфициальное согласование исключает риск переквалификации процентов в скрытые дивиденды и гарантирует вычет расходов из базы налога на прибыль. Корпоративным казначеям рекомендуется учитывать установленные параметры.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000006\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внутригрупповое финансирование и вычет процентов",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000006",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000006"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000006",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000006",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20261006 atr 000006 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-05-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по холдинговой структуре участия ATR 000002",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по холдинговой структуре участия ATR 000002\n\nНалоговое ведомство Нидерландов подтвердило правомерность применения освобождения участия при распределении дивидендов через многоуровневое владение.\n\n💡 **Почему это важно**\nДокумент защищает холдинг от удержания налога у источника и налога на прибыль при соблюдении критериев экономического присутствия. Юристам международных холдингов следует руководствоваться утвержденной позицией.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000002\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "освобождение участия и распределение дивидендов",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000002",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000002"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000002",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000002",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20261006 atr 000002 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-06-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по лицензионным платежам ATR 000013",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по лицензионным платежам ATR 000013\n\nНалоговая служба Нидерландов согласовала порядок определения рыночного вознаграждения за использование технологий цифровой дистрибуции.\n\n💡 **Почему это важно**\nРешение обеспечивает защиту структуры от доначислений по налогу у источника при трансграничных выплатах роялти. Международным технологическим компаниям рекомендуется применять проверенные коэффициенты.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000013\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "роялти и нематериальные активы",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000013",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000013"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000013",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260929-atr-000013",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260929 atr 000013 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-07-kz",
+      "title": "Казахстан: КГД разъяснил правила заполнения строки 29 в электронных счетах-фактурах",
+      "caption": "Казахстан: КГД разъяснил правила заполнения строки 29 в электронных счетах-фактурах\n\nКомитет государственных доходов предоставил разъяснения по корректному указанию способа отправления грузов при оформлении электронных документов.\n\n💡 **Почему это важно**\nОшибки в транспортных реквизитах счета-фактуры приводят к отказам в вычете НДС у покупателей и вызову на камеральный контроль. Бухгалтерским службам поставщиков необходимо обновить шаблоны выставления документов.\n\nИсточник: https://uchet.kz/news/kak-pravilno-v-esf-zapolnit-stroku-29-sposob-otpravleniya/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "электронные счета-фактуры и камеральный контроль",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснения Комитета государственных доходов РК",
+      "sources": [
+        {
+          "label": "Учет.kz / КГД Казахстана",
+          "url": "https://uchet.kz/news/kak-pravilno-v-esf-zapolnit-stroku-29-sposob-otpravleniya/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/kak-pravilno-v-esf-zapolnit-stroku-29-sposob-otpravleniya/",
+          "final_url": "https://uchet.kz/news/kak-pravilno-v-esf-zapolnit-stroku-29-sposob-otpravleniya/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: КГД разъяснил правила заполне",
+              "source_quote": "как правильно в эсф заполнить строку 29 «способ отправления» — uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-08-kz",
+      "title": "Казахстан: Налоговые органы уточнили критерии контроля мобильных переводов и порядок уведомлений",
+      "caption": "Казахстан: Налоговые органы уточнили критерии контроля мобильных переводов и порядок уведомлений\n\nФискальные органы конкретизировали пороговые значения количества входящих платежей, служащие основанием для проверки предпринимательской деятельности.\n\n💡 **Почему это важно**\nСвоевременный ответ на извещение предотвращает блокировку банковских счетов физических лиц и начисление штрафных санкций. Налоговым консультантам рекомендуется разъяснять клиентам порядок разделения личных и деловых расчетов.\n\nИсточник: https://uchet.kz/news/perevody-na-kartu-kogda-kgd-prisylaet-izveshchenie-a-kogda-uvedomlenie/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль банковских переводов и безналичные расчеты",
+      "jurisdictions": "Казахстан",
+      "act": "Разъяснения Комитета государственных доходов РК",
+      "sources": [
+        {
+          "label": "Учет.kz / Казахстан",
+          "url": "https://uchet.kz/news/perevody-na-kartu-kogda-kgd-prisylaet-izveshchenie-a-kogda-uvedomlenie/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/perevody-na-kartu-kogda-kgd-prisylaet-izveshchenie-a-kogda-uvedomlenie/",
+          "final_url": "https://uchet.kz/news/perevody-na-kartu-kogda-kgd-prisylaet-izveshchenie-a-kogda-uvedomlenie/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Налоговые органы уточнили кри",
+              "source_quote": "kz рус русский қазақша подписаться сервисы подписка на портал uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-09-int",
+      "title": "Дания: Опубликован законопроект о внедрении правил второго компонента глобального налогообложения",
+      "caption": "Дания: Опубликован законопроект о внедрении правил второго компонента глобального налогообложения\n\nМинистерство налогообложения Дании представило комплексную налоговую реформу на 2026-2027 годы, включающую национальный минимальный налог.\n\n💡 **Почему это важно**\nВведение ставки 15 процентов для крупных многонациональных групп требует детального перерасчета эффективной налоговой ставки датских дочерних обществ. Финансовым директорам холдингов необходимо оценить доплату налога.\n\nИсточник: https://regfollower.com/denmark-proposes-pillar-two-rules-sweeping-tax-changes-for-2026-2027/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог и правила второго компонента",
+      "jurisdictions": "Дания",
+      "act": "Законопроект Правительства Дании по глобальному налогу",
+      "sources": [
+        {
+          "label": "Regfollower / Дания",
+          "url": "https://regfollower.com/denmark-proposes-pillar-two-rules-sweeping-tax-changes-for-2026-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/denmark-proposes-pillar-two-rules-sweeping-tax-changes-for-2026-2027/",
+          "final_url": "https://regfollower.com/denmark-proposes-pillar-two-rules-sweeping-tax-changes-for-2026-2027/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Дания: Опубликован законопроект о внедре",
+              "source_quote": "denmark proposes pillar two rules, sweeping tax changes for skip to content sign in wednesday, october 14, 2026 tax corp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-14-0900-item-10-int",
+      "title": "Бельгия: Совет министров одобрил соглашение об обмене информацией по глобальному минимальному налогу",
+      "caption": "Бельгия: Совет министров одобрил соглашение об обмене информацией по глобальному минимальному налогу\n\nПравительство Бельгии ратифицировало международное административное соглашение об автоматическом обмене отчетами по правилам Pillar Two.\n\n💡 **Почему это важно**\nМногосторонний обмен сведениями обеспечивает прозрачность расчета дополнительного налога между странами присутствия холдинга. Международным корпоративным группам следует подготовить единые шаблоны отчетности.\n\nИсточник: https://regfollower.com/belgium-council-of-ministers-approve-gir-mcaa/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "автоматический обмен налоговой информацией и отчетность групп",
+      "jurisdictions": "Бельгия",
+      "act": "Постановление Совета министров Бельгии",
+      "sources": [
+        {
+          "label": "Regfollower / Бельгия",
+          "url": "https://regfollower.com/belgium-council-of-ministers-approve-gir-mcaa/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/belgium-council-of-ministers-approve-gir-mcaa/",
+          "final_url": "https://regfollower.com/belgium-council-of-ministers-approve-gir-mcaa/",
+          "status_code": 200,
+          "checked_at": "2026-10-14T08:27:51.222618+00:00",
+          "evidence": [
+            {
+              "claim": "Бельгия: Совет министров одобрил соглаше",
+              "source_quote": "the agreement supports international efforts to combat base erosion and profit shifting by multinational corporate group"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

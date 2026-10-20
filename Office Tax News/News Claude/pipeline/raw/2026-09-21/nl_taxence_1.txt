@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 21 Sep 2026 09:44:18 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Voorwaardelijke alimentatie niet aftrekbaar vóór 2020</title>
+		<link>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/</link>
+					<comments>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 09:29:33 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167618</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat een voorwaardelijke alimentatieverplichting in 2019 nog niet kon worden verrekend. Ook hoefde de inspecteur een later ontvangen verklaring in bezwaar niet uit eigen beweging toe te sturen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat een voorwaardelijke alimentatieverplichting in 2019 nog niet kon worden verrekend. Ook hoefde de inspecteur een later ontvangen verklaring in bezwaar niet uit eigen beweging toe te sturen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn ex-partner spreken bij hun scheiding af dat hij maandelijks € 2.000 partneralimentatie moet betalen zodra haar dienstverband bij zijn advocatenkantoor eindigt. Dat dienstverband eindigt pas per 1 april 2020. De man trekt in zijn aangifte IB/PVV 2019 toch € 48.000 aan partneralimentatie af. Hij stelt dat hij al in 2019 een vordering op zijn ex-partner had vanwege onder meer voorgeschoten kosten en opnames van zijn bankrekening en dat hij die vordering met de toekomstige alimentatie heeft verrekend. De inspecteur weigert de aftrek. Daarnaast klaagt de man erover dat de inspecteur een schriftelijke verklaring van zijn ex-partner tijdens de bezwaarfase niet aan hem heeft toegestuurd.</p>
+
+
+
+<h3 class="wp-block-heading">Geen zelfstandig recht op toezending</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat artikel 7:4 Awb de inspecteur verplicht de stukken in bezwaar ter inzage te leggen en de belastingplichtige op dat inzagerecht te wijzen. Er bestaat in de bezwaarfase echter geen zelfstandig recht op toezending van alle stukken. De man is uitgenodigd voor een hoorgesprek en gewezen op de mogelijkheid het dossier in te zien, maar heeft daarvan geen gebruikgemaakt. De inspecteur hoefde de later ontvangen verklaring van de ex-partner daarom niet afzonderlijk toe te sturen. Ook van strijd met het fair play-beginsel is geen sprake.</p>
+
+
+
+<h3 class="wp-block-heading">Alimentatieverplichting ontstond pas in 2020</h3>
+
+
+
+<p class="wp-block-paragraph">Ook de aftrek van € 48.000 blijft geweigerd. De verplichting tot partneralimentatie was afhankelijk van het eindigen van het dienstverband van de ex-partner. Die opschortende voorwaarde wordt pas op 1 april 2020 vervuld. In 2019 was de man daarom nog niet bevoegd deze voorwaardelijke schuld te betalen en kon hij zijn eventuele tegenvordering ook niet met de alimentatie verrekenen. Van vooruitbetaalde of afgekochte alimentatie is evenmin sprake. In 2019 heeft dus geen partneralimentatie op hem gedrukt in de zin van de Wet IB 2001. Het hof verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Wet:</strong> <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-7:4?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7:4 Awb</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.1 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2079">Gerechtshof &#8216;s-Hertogenbosch, 29-07-2026, ECLI:NL:GHSHE:2026:2079, 25/897 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/voorwaardelijke-alimentatie-niet-aftrekbaar-voor-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Echtscheiding-nieuw.jpg" length="34018" type="image/jpeg" />	</item>
+		<item>
+		<title>Herwaardering voorraad via kapitaal leidt tot winstcorrectie</title>
+		<link>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/</link>
+					<comments>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 09:23:55 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Fiscaal procesrecht]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167615</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat een na de aanslag ingediende aangifte niet geldt als de vereiste aangifte. De ondernemer maakt bovendien niet overtuigend duidelijk dat de winstcorrectie wegens herwaardering van de voorraad onjuist is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat een na de aanslag ingediende aangifte niet geldt als de vereiste aangifte. De ondernemer maakt bovendien niet overtuigend duidelijk dat de winstcorrectie wegens herwaardering van de voorraad onjuist is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man drijft samen met zijn broer een vof die handelt in auto-onderdelen en accessoires uit de Verenigde Staten. Voor 2019 doet hij niet binnen de in de aanmaning gestelde termijn aangifte inkomstenbelasting. Nadat de inspecteur ambtshalve een aanslag heeft opgelegd, dient hij alsnog een aangifte in. Uit de administratie blijkt daarnaast een aanzienlijk verschil tussen het ondernemingsvermogen en de voorraadpositie eind 2018 en begin 2019. Volgens de ondernemer hangt dit samen met een computercrash en zijn bij herstel van de administratie actuele inkoopprijzen gebruikt. De inspecteur stelt dat daardoor de voorraad is geherwaardeerd en verhoogt uiteindelijk de winst van de man met € 81.016. In geschil is of deze correctie terecht is.</p>
+
+
+
+<h3 class="wp-block-heading">Geen vereiste aangifte gedaan</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt vast dat de man pas na het opleggen van de ambtshalve aanslag aangifte heeft gedaan. Die latere aangifte is geen aangifte in de zin van de AWR. Daardoor heeft hij de vereiste aangifte niet gedaan en wordt de bewijslast omgekeerd en verzwaard. Hij moet daarom overtuigend aantonen dat en in hoeverre de aanslagen onjuist zijn. De inspecteur moet zijn correcties ondanks die verzwaarde bewijslast wel baseren op een redelijke schatting.</p>
+
+
+
+<h3 class="wp-block-heading">Voorraadcorrectie is redelijk</h3>
+
+
+
+<p class="wp-block-paragraph">Volgens de rechtbank is de schatting van de inspecteur redelijk. Uit de administratie volgt dat de voorraad tegen hogere actuele inkoopprijzen is gewaardeerd. De inspecteur corrigeert van het vermogensverschil uiteindelijk € 162.032 en rekent daarvan vanwege de 50%-winstgerechtigdheid € 81.016 toe aan de man. De man levert geen bewijs waaruit blijkt dat het verschil al in oudere jaren is ontstaan. Ook als dat wel zo zou zijn, sluit dat toepassing van de foutenleer in het oudste nog openstaande jaar 2019 niet uit. Een vermogenssprong tussen twee jaren kan bovendien niet buiten de totaalwinst blijven. De beroepen zijn daarom ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_6917" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 11-09-2026, ECLI:NL:RBGEL:2026:6917, ARN 23/4675 en 25/3227 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/herwaardering-voorraad-via-kapitaal-leidt-tot-winstcorrectie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/auto-accessoires.jpg" length="57467" type="image/jpeg" />	</item>
+		<item>
+		<title>Fiscale regelingen voor woon-werkverkeer, fiets en ov</title>
+		<link>https://www.taxence.nl/nieuws/fiscale-regelingen-voor-woon-werkverkeer-fiets-en-ov/</link>
+					<comments>https://www.taxence.nl/nieuws/fiscale-regelingen-voor-woon-werkverkeer-fiets-en-ov/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 08:09:32 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167613</guid>
+
+					<description><![CDATA[De fiscale wet- en regelgeving staat het gebruik van de fiets en het openbaar vervoer voor woon-werkverkeer niet direct in de weg. Het kabinet onderzoekt hoe het keuzeaanbod van bestaande fiscale regelingen en het daadwerkelijke gebruik van fiets en ov beter op elkaar kunnen aansluiten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De fiscale wet- en regelgeving staat het gebruik van de fiets en het openbaar vervoer voor woon-werkverkeer niet direct in de weg. Het kabinet onderzoekt hoe het keuzeaanbod van bestaande fiscale regelingen en het daadwerkelijke gebruik van fiets en ov beter op elkaar kunnen aansluiten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belangrijkste stimulans voor fiets- en ov-gebruik in het woon-werkverkeer is volgens beschikbare onderzoeken dat werkgevers een vergoeding aanbieden voor de aanschaf en het gebruik van de fiets en het ov. Het effect wordt sterker wanneer hier voorwaarden aan worden verbonden. Verdere stimulering door verhoging van de bedragen lijkt een kleiner positief effect te hebben. Tegelijkertijd blijken praktische belemmeringen, zoals comfort, afstand, het weer, voorzieningen, onveilige routes, verbindingen en overstap- en wachttijden, voor werknemers over het algemeen belangrijker dan financiële voordelen.</p>
+
+
+
+<h3 class="wp-block-heading">Fiets fiscaal sterk gestimuleerd</h3>
+
+
+
+<p class="wp-block-paragraph">Werkgevers hebben verschillende mogelijkheden om fietsgebruik te stimuleren. Zij kunnen bijvoorbeeld een belastingvoordeel bieden voor de aanschaf van een fiets via de werkkostenregeling, een renteloze lening verstrekken of een leasefiets ter beschikking stellen. Ook kan voor een fiets in privé-eigendom een onbelaste reiskostenvergoeding worden verstrekt.</p>
+
+
+
+<p class="wp-block-paragraph">Met een mogelijke forfaitaire vergoeding van € 0,25 per kilometer en de lage gebruikskosten is de fiets volgens de staatssecretarissen puur fiscaal de meest gestimuleerde modaliteit. Voor het ov geldt dat alle gemaakte reiskosten onbelast kunnen worden vergoed. Ook privégebruik van het ov binnen een abonnement of mobiliteitskaart kan onbelast worden vergoed.</p>
+
+
+
+<h3 class="wp-block-heading">Aanbod en gebruik sluiten niet altijd aan</h3>
+
+
+
+<p class="wp-block-paragraph">Veel werkgevers bieden al meerdere fiscale regelingen voor fiets en ov aan, maar het daadwerkelijke gebruik blijft achter. Mogelijk bestaat er een mismatch tussen de kwaliteit van en kennis over het aanbod en het gebruik. Ook zijn er grote verschillen tussen werkgevers. Kleine werkgevers bieden gemiddeld minder mogelijkheden en zijn meer op de auto georiënteerd.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet concludeert dat fiscale mogelijkheden in de praktijk sterker worden gebruikt voor de auto en in mindere mate voor het ov, de fiets en andere modaliteiten. Daarom wordt in beeld gebracht hoe het keuzeaanbod van bestaande fiscale regelingen kan worden verbeterd, vooral bij kleine werkgevers en sectoren met een lage loonsom. Ook wordt onderzocht hoe de mogelijke mismatch tussen het aanbod door werkgevers en het uiteindelijke gebruik door werknemers kan worden verkleind. Deze inzichten worden medio 2027 met de Kamer gedeeld.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19291&amp;did=2026D44663" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19291&amp;did=2026D44663" target="_blank" rel="noreferrer noopener">Kamerbrief motie fiscale regelingen voor woon-werkverkeer, nr. IENW/BSK-2026/167031, Ministerie van Financien, 18 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/fiscale-regelingen-voor-woon-werkverkeer-fiets-en-ov/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Fietsen-Amsterdam.jpg" length="87261" type="image/jpeg" />	</item>
+		<item>
+		<title>Kamer neemt motie aan over behoud aftrek specifieke zorgkosten voor chronisch zieken</title>
+		<link>https://www.taxence.nl/nieuws/kamer-neemt-motie-aan-over-behoud-aftrek-specifieke-zorgkosten-voor-chronisch-zieken/</link>
+					<comments>https://www.taxence.nl/nieuws/kamer-neemt-motie-aan-over-behoud-aftrek-specifieke-zorgkosten-voor-chronisch-zieken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 07:14:22 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167607</guid>
+
+					<description><![CDATA[De Tweede Kamer vraagt het kabinet om te onderzoeken hoe de stapeling van zorgkosten voor chronisch zieken kan worden beperkt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer vraagt het kabinet om te onderzoeken hoe de stapeling van zorgkosten voor chronisch zieken kan worden beperkt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In de motie van Bikker c.s. wordt voorgesteld om daarbij te kijken naar het behoud van de aftrek voor specifieke zorgkosten. Aanleiding is dat de zorgkosten voor chronisch zieken de komende jaren sterk kunnen stijgen. Uit onderzoek blijkt bovendien dat het afschaffen van deze fiscale aftrek veel huishoudens kan raken en voor sommige huishoudens aanzienlijke inkomenseffecten kan hebben.</p>
+
+
+
+<p class="wp-block-paragraph">De motie verzoekt het kabinet om vóór de behandeling van het Belastingplan 2027 duidelijk te maken welke mogelijkheden er zijn om de aftrek te behouden, maar deze tegelijkertijd doelmatiger te maken en sterker te richten op de ziektekosten van chronisch zieken.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de benodigde financiële dekking wordt voorgesteld te kijken naar andere fiscale regelingen en naar het beschikbare budget voor de tegemoetkoming in zorgkosten voor chronisch zieken.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z19136&amp;did=2026D44215" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z19136&amp;did=2026D44215" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kamer-neemt-motie-aan-over-behoud-aftrek-specifieke-zorgkosten-voor-chronisch-zieken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/05/Medicijnen.jpg" length="23268" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 25 september 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-25-september-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-25-september-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2026 06:56:07 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167605</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 25 september 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 25 september 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/04718</td><td>Gerechtshof Amsterdam 28 september 2023, nr. 21/01773<br>ECLI:NL:GHAMS:2023:2448 <em>Geen bezwaar tegen mededeling verrekening dwangbevelkosten</em></td><td>NTFR 2023/2187</td></tr><tr><td>24/03419</td><td>Gerechtshof Amsterdam 16 juli 2024, nr. 23/257<br>ECLI:NL:GHAMS:2024:2185 <em>Misbruik van procesrecht leidt tot niet-ontvankelijkheid en vernietiging schadevergoeding</em></td><td>NTFR 2024/1994</td></tr><tr><td>26/00529</td><td>Gerechtshof Den Haag 8 januari 2026, nr. 25/545<br>ECLI:NL:GHDHA:2026:182 <em>Lagere uitkering is geen negatief loon en hogere ziektekosten niet bewezen</em></td><td>NTFR 2026/552</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/04717</td><td>Gerechtshof Amsterdam 28 september 2023, nr. 21/01772<br>ECLI:NL:GHAMS:2023:2449 <em>Rechtbank heeft ondanks verzoek belanghebbende niet bepaald dat er wettelijke rente is verschuldigd / hoger beroep gegrond</em></td><td>&nbsp;</td></tr><tr><td>24/01505</td><td>Gerechtshof ’s-Hertogenbosch 6 maart 2024, nr. 22/01348<br>ECLI:NL:GHSHE:2024:704 <em>Verkochte woningbouwkavels na beëindiging agrarische activiteiten zijn btw belast</em></td><td>&nbsp;</td></tr><tr><td>25/00257</td><td>Gerechtshof ’s-Hertogenbosch 18 december 2024, nr. 23/368<br>ECLI:NL:GHSHE:2024:4091 <em>Periodieke uitkeringen in verband met beroepsongeschiktheid terecht belast / geen gewekt vertrouwen</em></td><td>&nbsp;</td></tr><tr><td>25/02808</td><td>Gerechtshof Den Haag 12 augustus 2025, nr. 24/462<br>ECLI:NL:GHDHA:2025:1837 <em>Rechtbank is terecht voorbijgegaan aan schending toezendplicht omdat belanghebbende hierdoor niet is benadeeld</em></td><td>&nbsp;</td></tr><tr><td>25/04697</td><td>Gerechtshof Arnhem-Leeuwarden 4 november 2025, nrs. 24/485 en 24/486<br>ECLI:NL:GHARL:2025:6983 <em>WOZ-waarden van tussenwoningen in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>26/00091</td><td>Gerechtshof Arnhem-Leeuwarden 16 december 2025, nr. 24/300<br>ECLI:NL:GHARL:2025:8407 <em>WOZ-waarde woning: vergelijkingsmethode en jaarlijkse waardering bevestigd</em></td><td> <br></td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>24/03416</td><td>Gerechtshof Amsterdam 16 juli 2024, nr. 23/258, ECLI:NL:GHAMS:2024:2186</td></tr><tr><td>24/03417</td><td>Gerechtshof Amsterdam 16 juli 2024, nr. 23/260, ECLI:NL:GHAMS:2024:2188</td></tr><tr><td>24/03418</td><td>Gerechtshof Amsterdam 16 juli 2024, nr. 23/259, ECLI:NL:GHAMS:2024:2187</td></tr><tr><td>26/00110</td><td>Gerechtshof Amsterdam 25 november 2025, nr. 23/616, ECLI:NL:GHAMS:2025:3564</td></tr><tr><td>26/00111</td><td>Gerechtshof Amsterdam 25 november 2025, nr. 23/615, ECLI:NL:GHAMS:2025:3561</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-25-september-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/rechtspraak-12.jpg" length="20498" type="image/jpeg" />	</item>
+		<item>
+		<title>Terugwerkende kracht maakt pensioen niet eerder genoten</title>
+		<link>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/</link>
+					<comments>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 09:39:35 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167558</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat pensioenuitkeringen niet met terugwerkende kracht vorderbaar en inbaar kunnen worden. Ook kan een te laat vastgestelde pensioeningangsdatum niet zonder meer met terugwerkende kracht voldoen aan de uiterste ingangsdatum voor pensioen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat pensioenuitkeringen niet met terugwerkende kracht vorderbaar en inbaar kunnen worden. Ook kan een te laat vastgestelde pensioeningangsdatum niet zonder meer met terugwerkende kracht voldoen aan de uiterste ingangsdatum voor pensioen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man heeft twee verzekeringen waaruit vanaf 2008 een ouderdomspensioen zou worden uitgekeerd. Over de omvang van het verzekerde kapitaal ontstaat echter een geschil met de verzekeraar en uitkeringen blijven uit. In 2017 probeert de man de kwestie af te wikkelen. De verzekeraar stelt vervolgens in 2018 met terugwerkende kracht periodieke uitkeringen vast. Dit leidt onder meer tot een nabetaling van € 73.965 over 2008 tot en met 2017. In totaal geeft de verzekeraar voor 2018 € 108.022 aan pensioenuitkeringen door. De inspecteur rekent het volledige bedrag tot het inkomen over 2018. Hof Den Haag oordeelt dat een deel van de uitkeringen al in 2016 en 2017 vorderbaar en inbaar was.</p>
+
+
+
+<h3 class="wp-block-heading">Geen terugwerkende kracht genieting</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad oordeelt dat periodieke uitkeringen nog niet vorderbaar en inbaar zijn zolang de ingangsdatum en de hoogte daarvan niet vaststaan. Uit de enkele omstandigheid dat het pensioenkapitaal in 2018 ‘per 1 augustus 2016’ is omgezet in een recht op periodieke uitkeringen, volgt daarom niet dat de uitkeringen al vanaf die datum vorderbaar en inbaar waren. Als de hoogte en ingangsdatum pas in 2018 zijn komen vast te staan, kunnen de uitkeringen niet met terugwerkende kracht vóór 2018 vorderbaar en inbaar zijn geworden. Het hof heeft daarom een onjuiste rechtsopvatting gehanteerd of zijn oordeel onvoldoende gemotiveerd.</p>
+
+
+
+<h3 class="wp-block-heading">Ook pensioeningangsdatum opnieuw beoordelen</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het oordeel dat regelmatig uitvoering is gegeven aan de pensioenovereenkomst houdt geen stand. Een ouderdomspensioen voldoet niet zonder meer aan de destijds geldende uiterste ingangsdatum als de ingangsdatum pas later wordt vastgesteld en vervolgens met terugwerkende kracht op een toegestane datum wordt gezet. Als het pensioen vóór 2018 niet langer voldeed aan de pensioenvoorwaarden van de Wet LB 1964, kan bovendien artikel 10 lid 4 Wet LB 1964 van toepassing zijn op de in 2018 genoten uitkeringen. De Hoge Raad vernietigt daarom de hofuitspraak en verwijst de zaak naar Hof Amsterdam.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.146?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.146 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-18a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 18a Wet LB 1964 (tekst 2016)</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1487">Hoge Raad, 18-09-2026, ECLI:NL:HR:2026:1487, 25/00833 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Tariefbeperking pensioenverrekening niet discriminerend</title>
+		<link>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/</link>
+					<comments>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 09:02:46 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167549</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat de tariefbeperking voor aftrek van doorbetaald pensioen bij een scheiding van vóór 1 mei 1995 niet in strijd is met het discriminatieverbod. Pensioenverrekening volgens het arrest Boon/Van Loon en pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding zijn voor deze regeling geen gelijke gevallen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat de tariefbeperking voor aftrek van doorbetaald pensioen bij een scheiding van vóór 1 mei 1995 niet in strijd is met het discriminatieverbod. Pensioenverrekening volgens het arrest Boon/Van Loon en pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding zijn voor deze regeling geen gelijke gevallen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man ontvangt in 2020 en 2021 een ouderdomspensioen. Hij is in 1992 gescheiden, zodat de Wet verevening pensioenrechten bij scheiding niet op zijn situatie van toepassing is. In plaats daarvan gelden de regels uit het arrest Boon/Van Loon. Op grond van de afspraken bij de echtscheiding betaalt de man in beide jaren € 4.078 van zijn pensioen door aan zijn ex-echtgenote. De inspecteur merkt deze bedragen aan als uitgaven voor onderhoudsverplichtingen. Daardoor zijn zij wel aftrekbaar, maar door de tariefmaatregel niet tegen het hoogste box 1-tarief. De man betaalt hierdoor meer belasting dan wanneer zijn ex-echtgenote op grond van de Wet verevening pensioenrechten bij scheiding rechtstreeks recht zou hebben gehad op een deel van het pensioen.</p>
+
+
+
+<h3 class="wp-block-heading">Geen sprake van gelijke gevallen</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat de wetgever op fiscaal gebied een ruime beoordelingsvrijheid heeft bij de vraag of gevallen gelijk zijn. De vergelijkbaarheid moet hier worden beoordeeld vanuit het doel en de strekking van de tariefmaatregel. Bij pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding wordt het deel van het pensioen rechtstreeks aan de ex-echtgenoot uitbetaald. Daardoor ontstaat bij de pensioengerechtigde geen aftrekpost. Bij pensioenverrekening volgens Boon/Van Loon ontvangt de pensioengerechtigde het volledige pensioen en trekt hij het doorbetaalde bedrag af als onderhoudsverplichting. Vanuit de tariefmaatregel zijn deze situaties daarom niet gelijk.</p>
+
+
+
+<h3 class="wp-block-heading">Hof ten onrechte uitgegaan van discriminatie</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof had geoordeeld dat beide situaties wel vergelijkbaar waren en dat de hogere belastingdruk voor de man een ongerechtvaardigd onderscheid opleverde. De Hoge Raad volgt dat oordeel niet. Dat beide regimes mede zijn gebaseerd op de verzorging van de ex-echtgenoot, maakt dit niet anders. Het gaat hier om de fiscale aftrek bij de pensioengerechtigde. De wetgever mocht daarom aannemen dat geen sprake is van gelijke gevallen. De Hoge Raad verklaart het cassatieberoep van de staatssecretaris gegrond, vernietigt de hofuitspraak en bevestigt de uitspraak van de rechtbank.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-2.10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 2.10</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.7?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.7 Wet IB 2001 </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1488" target="_blank" rel="noreferrer noopener">Hoge Raad, 18-09-2026, ECLI:NL:HR:2026:1488, 25/02259 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/04/echtscheiding-contract2.jpg" length="28628" type="image/jpeg" />	</item>
+		<item>
+		<title>Stoomcursus Erfrecht &#8211; Civiel en fiscaal &#8211; Het hele erfrecht in één dag!  &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 08:57:02 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167441</guid>
+
+					<description><![CDATA[Voorbereid om te adviseren op het gebied van het erfrecht &#8211; Civiel en fiscaal Civiel en fiscaal &#8211; Het hele erfrecht in één dag! Jouw cliënt heeft steeds meer vragen over zijn testament. Een adviseur kan niet meer zonder kennis van het erfrecht! Een cursus met erfrechtelijke en fiscale tips. Prof. mr. dr. Bernard Schols<a class="read-more" href="https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Voorbereid om te adviseren op het gebied van het erfrecht &#8211; Civiel en fiscaal<strong><br /></strong></p>
+<p>Civiel en fiscaal &#8211; Het hele erfrecht in één dag!<strong><br /></strong></p>
+<p>Jouw cliënt heeft steeds meer vragen over zijn testament. Een adviseur kan niet meer zonder kennis van het erfrecht!</p>
+<p>Een cursus met erfrechtelijke en fiscale tips. Prof. mr. dr. Bernard Schols zal in de vorm van een stoomcursus in één dag het hele erfrecht doorlopen, mede aan de hand van het boek <em>Voorkom ruzie bij de kist.&nbsp;</em>Zo ben je helemaal voorbereid om cliënten te adviseren op het gebied van het erfrecht. Niet alleen leren met lol; er is ook veel gelegenheid voor het stellen van vragen en het bespreken van casuïstiek.</p>
+<p>Bernard Schols brengt jouw erfrechtkennis in slechts één dag op zo’n hoog niveau dat je:</p>
+<p>Niet alleen de spil bent tussen de client en de notaris;<br />
+Maar je ook in staat bent een ontwerptestament van de notaris te analyseren en namens de client te becommentariëren;<br />
+En dat je de vijf beginselen van het erfrecht beheerst.</p>
+<p><strong>Boek en model keuzetestament</strong><br />Als cursusmateriaal ontvang je op de cursusdag&nbsp;<em>Voorkom ruzie bij de kist</em>, het humoristische en informatieve boek over alles wat komt kijken bij schenken en erven. Deze cursus is speciaal voor de adviseur, Bernard Schols zal verder uitweiden dan het boek en de theathershow doen.</p>
+<p>Naast het boek zal er ook een keuzetestament model worden uitgereikt, deze wordt tevens online beschikbaar gesteld.</p>
+<p><strong>Voor wie?</strong><br />Adviseurs (fiscaal, financieel, juridisch) die regelmatig in hun adviespraktijk te maken krijgen met het erfrecht en hier meer over willen weten in de ruimste zin des woords.</p>
+<p><strong>Ervaring</strong><br />Enige basiskennis van het erfrecht is een pre.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/3154/stoomcursus-erfrecht" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tweede Kamer neemt wetsvoorstel over btw in digitale tijdperk aan</title>
+		<link>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 08:08:49 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167543</guid>
+
+					<description><![CDATA[De Tweede Kamer heeft het wetsvoorstel implementatie Richtlijn btw in het digitale tijdperk &#8211; enkele btw-registratie als hamerstuk aangenomen. Dit wetsvoorstel implementeert het onderdeel &#8216;enkele btw-registratie&#8217; van de Richtlijn (EU) 2025/516 inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. In dit<a class="read-more" href="https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer heeft het wetsvoorstel implementatie Richtlijn btw in het digitale tijdperk &#8211; enkele btw-registratie als hamerstuk aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel implementeert het onderdeel &#8216;enkele btw-registratie&#8217; van de <a href="https://www.eerstekamer.nl/id/vmwxkxkiqzlk/document_extern/2025_516_inzake_btw_in_het_digitale/f=/vmwxkzkjbzq4.pdf">Richtlijn (EU) 2025/516</a> inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. In dit kader worden bepaalde verduidelijkingen en uitbreidingen in de éénloketregelingen doorgevoerd. Daarnaast wordt de huidige regeling inzake voorraad op afroep geleidelijk afgeschaft en vervangen door een nieuwe overbrengingsregeling, die wordt geïntegreerd in de éénloketregelingen.</p>
+
+
+
+<p class="wp-block-paragraph">Ondernemers die goederen leveren aan of diensten verrichten voor particulieren in andere lidstaten kunnen verplicht zijn zich in die lidstaat voor btw-doeleinden te registreren en aldaar btw aan te geven en af te dragen. De éénloketregelingen beogen deze administratieve lasten te verminderen door ondernemers de mogelijkheid te bieden zich in één lidstaat te registreren en via die lidstaat de in andere lidstaten verschuldigde btw aan te geven en af te dragen.</p>
+
+
+
+<p class="wp-block-paragraph">Het voorliggende wetsvoorstel beoogt de uitbreiding van het toepassingsbereik van de éénloketregelingen. Dit wordt gerealiseerd door de reikwijdte van één van de éénloketregelingen, namelijk de Unieregeling, te verbreden en door de introductie van een nieuwe regeling voor de overbrenging van goederen tussen lidstaten. Bovendien biedt dit voorstel de gelegenheid om enkele verduidelijkingen en aanpassingen in de bestaande éénloketregelingen door te voeren.</p>
+
+
+
+<p class="wp-block-paragraph">De VIDA-richtlijn omvat daarnaast ook elektronische facturering, digitale rapportageverplichtingen en een platformfictie; deze onderdelen worden via afzonderlijke wetsvoorstellen geïmplementeerd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens het congres gaan ervaren btw‑specialisten in op actuele thema’s, zoals recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma biedt verdieping voor de btw‑specialist die zijn kennis wil bijhouden én actualiseren, en tegelijkertijd handvatten voor de generalist die zijn btw‑kennis verder wil versterken.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7" href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/11/online-shoppen2.jpg" length="22778" type="image/jpeg" />	</item>
+		<item>
+		<title>Tweede Kamer neemt wetsvoorstel Fiscale verzamelwet BES eilanden 2027 aan</title>
+		<link>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 07:14:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vastgoed]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167545</guid>
+
+					<description><![CDATA[De Tweede Kamer heeft het wetsvoorstel Fiscale verzamelwet BES eilanden 2027 als hamerstuk aangenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer heeft het wetsvoorstel Fiscale verzamelwet BES eilanden 2027 als hamerstuk aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel voorziet in de wijziging van de Belastingwet BES, de Wet inkomstenbelasting BES (Wet IB BES, de Wet loonbelasting BES (Wet LB BES), de Douane- en Accijnswet BES (DABES) en de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba (Wet FinBES) en leidt tot aanpassing van onderdelen van het belastingstelstel van de openbare lichamen Bonaire, Sint Eustatius en Saba.</p>
+
+
+
+<p class="wp-block-paragraph">Sinds de wijziging van de staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba (de BES-eilanden) binnen het Koninkrijk tot openbare lichamen van Nederland is vanaf 1 januari 2011 een afzonderlijk fiscaal stelsel op de BES-eilanden ingevoerd. Deze fiscale wetgeving heeft onderhoud nodig. Met dit wetsvoorstel wordt een aantal technische wijzigingen voorgesteld met geen, of een zeer beperkt budgettair effect.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Het voorstel bevat de volgende maatregelen:</li>
+
+
+
+<li>Aanpassing van het tarief van de vastgoedbelasting voor hotels die in eigendom zijn van niet-natuurlijke personen;</li>
+
+
+
+<li>Invoering van een fiscale eenheid in de algemene bestedingsbelasting (ABB);</li>
+
+
+
+<li>Invoering van een vrijstelling voor de ABB voor goederen die voor de landbouw worden gebruikt;</li>
+
+
+
+<li>Invoering van een vrijstelling in de overdrachtsbelasting ten aanzien van de verkrijging van cultuurgrond die voor de landbouw wordt aangewend;</li>
+
+
+
+<li>Invoering van een invorderingsmaatregel om motorrijtuigen stil te laten staan om een dwangschrift ten uitvoer te leggen; </li>
+
+
+
+<li>Invoering van de bevoegdheid om dwangschriften per post te kunnen laten bezorgen;</li>
+
+
+
+<li>Aanpassing van een boetebepaling bij de verplichting tot het indienen van een verzamelloonstaat;</li>
+
+
+
+<li>Vervallen van de mogelijkheid om aftrekposten tussen echtgenoten in het jaar van echtscheiding afwijkend te verdelen</li>
+
+
+
+<li>Verduidelijking van de tekst van de koppeling tussen de belastingvrije som (BVS) en het wettelijk minimumloon (WML);</li>
+
+
+
+<li>Jaarlijkse indexering van het normbedrag voor de gebruikelijkloonregeling met de tabelcorrectiefactor; en</li>
+
+
+
+<li>Invoering van een eindheffing voor het loon ter zake van aan een of meer werknemers ter beschikking gestelde auto’s.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/Bonaire-steun.jpg" length="76552" type="image/jpeg" />	</item>
+	</channel>
+</rss>

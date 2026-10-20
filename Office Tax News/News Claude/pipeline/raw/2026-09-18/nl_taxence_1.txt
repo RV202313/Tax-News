@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 18 Sep 2026 09:39:37 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Terugwerkende kracht maakt pensioen niet eerder genoten</title>
+		<link>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/</link>
+					<comments>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 09:39:35 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167558</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat pensioenuitkeringen niet met terugwerkende kracht vorderbaar en inbaar kunnen worden. Ook kan een te laat vastgestelde pensioeningangsdatum niet zonder meer met terugwerkende kracht voldoen aan de uiterste ingangsdatum voor pensioen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat pensioenuitkeringen niet met terugwerkende kracht vorderbaar en inbaar kunnen worden. Ook kan een te laat vastgestelde pensioeningangsdatum niet zonder meer met terugwerkende kracht voldoen aan de uiterste ingangsdatum voor pensioen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man heeft twee verzekeringen waaruit vanaf 2008 een ouderdomspensioen zou worden uitgekeerd. Over de omvang van het verzekerde kapitaal ontstaat echter een geschil met de verzekeraar en uitkeringen blijven uit. In 2017 probeert de man de kwestie af te wikkelen. De verzekeraar stelt vervolgens in 2018 met terugwerkende kracht periodieke uitkeringen vast. Dit leidt onder meer tot een nabetaling van € 73.965 over 2008 tot en met 2017. In totaal geeft de verzekeraar voor 2018 € 108.022 aan pensioenuitkeringen door. De inspecteur rekent het volledige bedrag tot het inkomen over 2018. Hof Den Haag oordeelt dat een deel van de uitkeringen al in 2016 en 2017 vorderbaar en inbaar was.</p>
+
+
+
+<h3 class="wp-block-heading">Geen terugwerkende kracht genieting</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad oordeelt dat periodieke uitkeringen nog niet vorderbaar en inbaar zijn zolang de ingangsdatum en de hoogte daarvan niet vaststaan. Uit de enkele omstandigheid dat het pensioenkapitaal in 2018 ‘per 1 augustus 2016’ is omgezet in een recht op periodieke uitkeringen, volgt daarom niet dat de uitkeringen al vanaf die datum vorderbaar en inbaar waren. Als de hoogte en ingangsdatum pas in 2018 zijn komen vast te staan, kunnen de uitkeringen niet met terugwerkende kracht vóór 2018 vorderbaar en inbaar zijn geworden. Het hof heeft daarom een onjuiste rechtsopvatting gehanteerd of zijn oordeel onvoldoende gemotiveerd.</p>
+
+
+
+<h3 class="wp-block-heading">Ook pensioeningangsdatum opnieuw beoordelen</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het oordeel dat regelmatig uitvoering is gegeven aan de pensioenovereenkomst houdt geen stand. Een ouderdomspensioen voldoet niet zonder meer aan de destijds geldende uiterste ingangsdatum als de ingangsdatum pas later wordt vastgesteld en vervolgens met terugwerkende kracht op een toegestane datum wordt gezet. Als het pensioen vóór 2018 niet langer voldeed aan de pensioenvoorwaarden van de Wet LB 1964, kan bovendien artikel 10 lid 4 Wet LB 1964 van toepassing zijn op de in 2018 genoten uitkeringen. De Hoge Raad vernietigt daarom de hofuitspraak en verwijst de zaak naar Hof Amsterdam.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.146?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.146 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-18a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 18a Wet LB 1964 (tekst 2016)</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: Hoge Raad 18 september 2026, ECLI:NL:HR:2026:1487, nr. 25/00833.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/terugwerkende-kracht-maakt-pensioen-niet-eerder-genoten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Tariefbeperking pensioenverrekening niet discriminerend</title>
+		<link>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/</link>
+					<comments>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 09:02:46 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167549</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat de tariefbeperking voor aftrek van doorbetaald pensioen bij een scheiding van vóór 1 mei 1995 niet in strijd is met het discriminatieverbod. Pensioenverrekening volgens het arrest Boon/Van Loon en pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding zijn voor deze regeling geen gelijke gevallen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat de tariefbeperking voor aftrek van doorbetaald pensioen bij een scheiding van vóór 1 mei 1995 niet in strijd is met het discriminatieverbod. Pensioenverrekening volgens het arrest Boon/Van Loon en pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding zijn voor deze regeling geen gelijke gevallen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man ontvangt in 2020 en 2021 een ouderdomspensioen. Hij is in 1992 gescheiden, zodat de Wet verevening pensioenrechten bij scheiding niet op zijn situatie van toepassing is. In plaats daarvan gelden de regels uit het arrest Boon/Van Loon. Op grond van de afspraken bij de echtscheiding betaalt de man in beide jaren € 4.078 van zijn pensioen door aan zijn ex-echtgenote. De inspecteur merkt deze bedragen aan als uitgaven voor onderhoudsverplichtingen. Daardoor zijn zij wel aftrekbaar, maar door de tariefmaatregel niet tegen het hoogste box 1-tarief. De man betaalt hierdoor meer belasting dan wanneer zijn ex-echtgenote op grond van de Wet verevening pensioenrechten bij scheiding rechtstreeks recht zou hebben gehad op een deel van het pensioen.</p>
+
+
+
+<h3 class="wp-block-heading">Geen sprake van gelijke gevallen</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat de wetgever op fiscaal gebied een ruime beoordelingsvrijheid heeft bij de vraag of gevallen gelijk zijn. De vergelijkbaarheid moet hier worden beoordeeld vanuit het doel en de strekking van de tariefmaatregel. Bij pensioenverevening op grond van de Wet verevening pensioenrechten bij scheiding wordt het deel van het pensioen rechtstreeks aan de ex-echtgenoot uitbetaald. Daardoor ontstaat bij de pensioengerechtigde geen aftrekpost. Bij pensioenverrekening volgens Boon/Van Loon ontvangt de pensioengerechtigde het volledige pensioen en trekt hij het doorbetaalde bedrag af als onderhoudsverplichting. Vanuit de tariefmaatregel zijn deze situaties daarom niet gelijk.</p>
+
+
+
+<h3 class="wp-block-heading">Hof ten onrechte uitgegaan van discriminatie</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof had geoordeeld dat beide situaties wel vergelijkbaar waren en dat de hogere belastingdruk voor de man een ongerechtvaardigd onderscheid opleverde. De Hoge Raad volgt dat oordeel niet. Dat beide regimes mede zijn gebaseerd op de verzorging van de ex-echtgenoot, maakt dit niet anders. Het gaat hier om de fiscale aftrek bij de pensioengerechtigde. De wetgever mocht daarom aannemen dat geen sprake is van gelijke gevallen. De Hoge Raad verklaart het cassatieberoep van de staatssecretaris gegrond, vernietigt de hofuitspraak en bevestigt de uitspraak van de rechtbank.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-2.10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 2.10</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.7?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.7 Wet IB 2001 </a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: Hoge Raad 18 september 2026, ECLI:NL:HR:2026:1488, nr. 25/02259.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tariefbeperking-pensioenverrekening-niet-discriminerend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/04/echtscheiding-contract2.jpg" length="28628" type="image/jpeg" />	</item>
+		<item>
+		<title>Stoomcursus Erfrecht &#8211; Civiel en fiscaal &#8211; Het hele erfrecht in één dag!  &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 08:57:02 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167441</guid>
+
+					<description><![CDATA[Voorbereid om te adviseren op het gebied van het erfrecht &#8211; Civiel en fiscaal Civiel en fiscaal &#8211; Het hele erfrecht in één dag! Jouw cliënt heeft steeds meer vragen over zijn testament. Een adviseur kan niet meer zonder kennis van het erfrecht! Een cursus met erfrechtelijke en fiscale tips. Prof. mr. dr. Bernard Schols<a class="read-more" href="https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Voorbereid om te adviseren op het gebied van het erfrecht &#8211; Civiel en fiscaal<strong><br /></strong></p>
+<p>Civiel en fiscaal &#8211; Het hele erfrecht in één dag!<strong><br /></strong></p>
+<p>Jouw cliënt heeft steeds meer vragen over zijn testament. Een adviseur kan niet meer zonder kennis van het erfrecht!</p>
+<p>Een cursus met erfrechtelijke en fiscale tips. Prof. mr. dr. Bernard Schols zal in de vorm van een stoomcursus in één dag het hele erfrecht doorlopen, mede aan de hand van het boek <em>Voorkom ruzie bij de kist.&nbsp;</em>Zo ben je helemaal voorbereid om cliënten te adviseren op het gebied van het erfrecht. Niet alleen leren met lol; er is ook veel gelegenheid voor het stellen van vragen en het bespreken van casuïstiek.</p>
+<p>Bernard Schols brengt jouw erfrechtkennis in slechts één dag op zo’n hoog niveau dat je:</p>
+<p>Niet alleen de spil bent tussen de client en de notaris;<br />
+Maar je ook in staat bent een ontwerptestament van de notaris te analyseren en namens de client te becommentariëren;<br />
+En dat je de vijf beginselen van het erfrecht beheerst.</p>
+<p><strong>Boek en model keuzetestament</strong><br />Als cursusmateriaal ontvang je op de cursusdag&nbsp;<em>Voorkom ruzie bij de kist</em>, het humoristische en informatieve boek over alles wat komt kijken bij schenken en erven. Deze cursus is speciaal voor de adviseur, Bernard Schols zal verder uitweiden dan het boek en de theathershow doen.</p>
+<p>Naast het boek zal er ook een keuzetestament model worden uitgereikt, deze wordt tevens online beschikbaar gesteld.</p>
+<p><strong>Voor wie?</strong><br />Adviseurs (fiscaal, financieel, juridisch) die regelmatig in hun adviespraktijk te maken krijgen met het erfrecht en hier meer over willen weten in de ruimste zin des woords.</p>
+<p><strong>Ervaring</strong><br />Enige basiskennis van het erfrecht is een pre.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/3154/stoomcursus-erfrecht" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/stoomcursus-erfrecht-civiel-en-fiscaal-het-hele-erfrecht-in-een-dag-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tweede Kamer neemt wetsvoorstel over btw in digitale tijdperk aan</title>
+		<link>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 08:08:49 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167543</guid>
+
+					<description><![CDATA[De Tweede Kamer heeft het wetsvoorstel implementatie Richtlijn btw in het digitale tijdperk &#8211; enkele btw-registratie als hamerstuk aangenomen. Dit wetsvoorstel implementeert het onderdeel &#8216;enkele btw-registratie&#8217; van de Richtlijn (EU) 2025/516 inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. In dit<a class="read-more" href="https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer heeft het wetsvoorstel implementatie Richtlijn btw in het digitale tijdperk &#8211; enkele btw-registratie als hamerstuk aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel implementeert het onderdeel &#8216;enkele btw-registratie&#8217; van de <a href="https://www.eerstekamer.nl/id/vmwxkxkiqzlk/document_extern/2025_516_inzake_btw_in_het_digitale/f=/vmwxkzkjbzq4.pdf">Richtlijn (EU) 2025/516</a> inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. In dit kader worden bepaalde verduidelijkingen en uitbreidingen in de éénloketregelingen doorgevoerd. Daarnaast wordt de huidige regeling inzake voorraad op afroep geleidelijk afgeschaft en vervangen door een nieuwe overbrengingsregeling, die wordt geïntegreerd in de éénloketregelingen.</p>
+
+
+
+<p class="wp-block-paragraph">Ondernemers die goederen leveren aan of diensten verrichten voor particulieren in andere lidstaten kunnen verplicht zijn zich in die lidstaat voor btw-doeleinden te registreren en aldaar btw aan te geven en af te dragen. De éénloketregelingen beogen deze administratieve lasten te verminderen door ondernemers de mogelijkheid te bieden zich in één lidstaat te registreren en via die lidstaat de in andere lidstaten verschuldigde btw aan te geven en af te dragen.</p>
+
+
+
+<p class="wp-block-paragraph">Het voorliggende wetsvoorstel beoogt de uitbreiding van het toepassingsbereik van de éénloketregelingen. Dit wordt gerealiseerd door de reikwijdte van één van de éénloketregelingen, namelijk de Unieregeling, te verbreden en door de introductie van een nieuwe regeling voor de overbrenging van goederen tussen lidstaten. Bovendien biedt dit voorstel de gelegenheid om enkele verduidelijkingen en aanpassingen in de bestaande éénloketregelingen door te voeren.</p>
+
+
+
+<p class="wp-block-paragraph">De VIDA-richtlijn omvat daarnaast ook elektronische facturering, digitale rapportageverplichtingen en een platformfictie; deze onderdelen worden via afzonderlijke wetsvoorstellen geïmplementeerd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026 | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens het congres gaan ervaren btw‑specialisten in op actuele thema’s, zoals recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma biedt verdieping voor de btw‑specialist die zijn kennis wil bijhouden én actualiseren, en tegelijkertijd handvatten voor de generalist die zijn btw‑kennis verder wil versterken.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7" href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-44053b40-5d47-4f0d-a79b-f65d466bbcb7 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-over-btw-in-digitale-tijdperk-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/11/online-shoppen2.jpg" length="22778" type="image/jpeg" />	</item>
+		<item>
+		<title>Tweede Kamer neemt wetsvoorstel Fiscale verzamelwet BES eilanden 2027 aan</title>
+		<link>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 07:14:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vastgoed]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167545</guid>
+
+					<description><![CDATA[De Tweede Kamer heeft het wetsvoorstel Fiscale verzamelwet BES eilanden 2027 als hamerstuk aangenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer heeft het wetsvoorstel Fiscale verzamelwet BES eilanden 2027 als hamerstuk aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel voorziet in de wijziging van de Belastingwet BES, de Wet inkomstenbelasting BES (Wet IB BES, de Wet loonbelasting BES (Wet LB BES), de Douane- en Accijnswet BES (DABES) en de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba (Wet FinBES) en leidt tot aanpassing van onderdelen van het belastingstelstel van de openbare lichamen Bonaire, Sint Eustatius en Saba.</p>
+
+
+
+<p class="wp-block-paragraph">Sinds de wijziging van de staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba (de BES-eilanden) binnen het Koninkrijk tot openbare lichamen van Nederland is vanaf 1 januari 2011 een afzonderlijk fiscaal stelsel op de BES-eilanden ingevoerd. Deze fiscale wetgeving heeft onderhoud nodig. Met dit wetsvoorstel wordt een aantal technische wijzigingen voorgesteld met geen, of een zeer beperkt budgettair effect.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Het voorstel bevat de volgende maatregelen:</li>
+
+
+
+<li>Aanpassing van het tarief van de vastgoedbelasting voor hotels die in eigendom zijn van niet-natuurlijke personen;</li>
+
+
+
+<li>Invoering van een fiscale eenheid in de algemene bestedingsbelasting (ABB);</li>
+
+
+
+<li>Invoering van een vrijstelling voor de ABB voor goederen die voor de landbouw worden gebruikt;</li>
+
+
+
+<li>Invoering van een vrijstelling in de overdrachtsbelasting ten aanzien van de verkrijging van cultuurgrond die voor de landbouw wordt aangewend;</li>
+
+
+
+<li>Invoering van een invorderingsmaatregel om motorrijtuigen stil te laten staan om een dwangschrift ten uitvoer te leggen; </li>
+
+
+
+<li>Invoering van de bevoegdheid om dwangschriften per post te kunnen laten bezorgen;</li>
+
+
+
+<li>Aanpassing van een boetebepaling bij de verplichting tot het indienen van een verzamelloonstaat;</li>
+
+
+
+<li>Vervallen van de mogelijkheid om aftrekposten tussen echtgenoten in het jaar van echtscheiding afwijkend te verdelen</li>
+
+
+
+<li>Verduidelijking van de tekst van de koppeling tussen de belastingvrije som (BVS) en het wettelijk minimumloon (WML);</li>
+
+
+
+<li>Jaarlijkse indexering van het normbedrag voor de gebruikelijkloonregeling met de tabelcorrectiefactor; en</li>
+
+
+
+<li>Invoering van een eindheffing voor het loon ter zake van aan een of meer werknemers ter beschikking gestelde auto’s.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-fiscale-verzamelwet-bes-eilanden-2027-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/Bonaire-steun.jpg" length="76552" type="image/jpeg" />	</item>
+		<item>
+		<title>Landen dringen aan op EU-voorstel overwinst, Brussel wil dat niet</title>
+		<link>https://www.taxence.nl/nieuws/landen-dringen-aan-op-eu-voorstel-overwinst-brussel-wil-dat-niet/</link>
+					<comments>https://www.taxence.nl/nieuws/landen-dringen-aan-op-eu-voorstel-overwinst-brussel-wil-dat-niet/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 06:13:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167556</guid>
+
+					<description><![CDATA[Zes EU-lidstaten dringen aan op een EU-breed voorstel voor een belasting op bedrijven die enorme winst hebben gemaakt door de hoge energieprijzen, maar de Europese Commissie komt voorlopig niet met een plan daarvoor. Dat zei Eurocommissaris Valdis Dombrovskis voorafgaand aan overleg met EU-ministers van Economie en Financiën in Dublin.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Zes EU-lidstaten dringen aan op een EU-breed voorstel voor een belasting op bedrijven die enorme winst hebben gemaakt door de hoge energieprijzen, maar de Europese Commissie komt voorlopig niet met een plan daarvoor. Dat zei Eurocommissaris Valdis Dombrovskis voorafgaand aan overleg met EU-ministers van Economie en Financiën in Dublin.</strong></p>
+
+
+
+<p class="wp-block-paragraph">&#8220;We gaan het er zeker over hebben&#8221;, zei Dombrovskis, eraan toevoegend dat er voorlopig geen EU-voorstel hierover komt. Volgens de Eurocommissaris staat het lidstaten vrij om zelf een belasting op overwinst in te voeren als ze daar behoefte aan hebben.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens de Duitse minister Lars Klingbeil kan de Europese Commissie &#8220;de realiteit van miljoenen mensen op ons continent niet negeren&#8221;. Hij diende de brief in samen met zijn collega&#8217;s uit Spanje, Italië, Oostenrijk, Polen en Portugal. &#8220;Het heeft ook te maken met de acceptatie van Europa. Als we Europa vooruit willen helpen, moeten we inspelen op de realiteit van de mensen&#8221;, zei Klingbeil.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens de Spaanse minister Carlos Cuerpo Caballero is het echt tijd voor de Commissie om wel naar een EU-breed voorstel te kijken. &#8220;Na zes maanden oorlog in Iran lijdt iedereen aan de gevolgen ervan&#8221;, zei ze. &#8220;We hoeven alleen maar naar de inflatiecijfers te kijken om te zien dat er geen einde in zicht is en er moet sprake zijn van een eerlijke verdeling van de lasten&#8221;, aldus de Spaanse minister.</p>
+
+
+
+<p class="wp-block-paragraph">De Franse minister Roland Lescure wijst erop dat verschillende lidstaten verschillende energiebehoeftes en dus energieprijzen hebben. Of hij voor een algemene EU-belasting op overwinst is, wil hij niet zeggen. &#8220;Ik kan niks steunen waarvan ik nog geen voorstel heb gezien&#8221;, zei hij, waarbij hij aangaf te wachten op een voorstel van de Commissie.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: ANP, 18 september 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/landen-dringen-aan-op-eu-voorstel-overwinst-brussel-wil-dat-niet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/10/euro-stapel.jpg" length="43543" type="image/jpeg" />	</item>
+		<item>
+		<title>Tweede Kamer neemt wetsvoorstel Wet vereenvoudiging partnerbegrip toeslagen aan</title>
+		<link>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-wet-vereenvoudiging-partnerbegrip-toeslagen-aan/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-wet-vereenvoudiging-partnerbegrip-toeslagen-aan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2026 05:26:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167547</guid>
+
+					<description><![CDATA[De Tweede Kamer heeft het wetsvoorstel Wet vereenvoudiging partnerbegrip toeslagen als hamerstuk aangenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer heeft het wetsvoorstel Wet vereenvoudiging partnerbegrip toeslagen als hamerstuk aangenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel ziet op onder andere de wijziging van de Algemene wet inkomensafhankelijke regelingen (Awir), met het oog op het vereenvoudigen van het partnerbegrip voor toeslagen.</p>
+
+
+
+<p class="wp-block-paragraph">Het voorstel beoogt het toeslagpartnerbegrip te vereenvoudigen door enkele criteria op basis waarvan burgers als toeslagpartner worden aangemerkt te laten vervallen. Deze criteria leiden er in de huidige situatie toe dat sommige burgers als toeslagpartner worden aangemerkt, terwijl zij in het maatschappelijke verkeer geen partner van elkaar zijn. Het hanteren van een toeslagpartnerschap in deze situaties is voor burgers dan verwarrend en geeft geen reëel beeld van hun draagkracht.</p>
+
+
+
+<p class="wp-block-paragraph">Door enkele criteria te laten vervallen worden onbedoelde en voor hen onwenselijke toeslagpartnerschappen opgelost. Hierbij wordt uitdrukkelijk niet gekozen voor het toevoegen van nieuwe uitzonderingen om enkel burgers in specifieke situaties te ondersteunen, omdat dat het stelsel juist complexer zou maken. In plaats daarvan wordt gekozen voor het samenbrengen van het doel van vereenvoudiging en het doel van het oplossen van knellende situaties. Hiertoe worden de volgende maatregelen voorgesteld:</p>
+
+
+
+<ul class="wp-block-list">
+<li>het laten vervallen van het criterium samengestelde gezinnen;</li>
+
+
+
+<li>het laten vervallen van het criterium partner in het voorafgaande jaar;</li>
+
+
+
+<li>het laten vervallen van het criterium partner de rest van het jaar;</li>
+
+
+
+<li>het voorkomen dat minderjarigen als toeslagpartner worden aangemerkt.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2026-2027/3" target="_blank" rel="noreferrer noopener">Tweede Kamer, 17 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-kamer-neemt-wetsvoorstel-wet-vereenvoudiging-partnerbegrip-toeslagen-aan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/schulden-paar.jpg" length="47155" type="image/jpeg" />	</item>
+		<item>
+		<title>Basiscursus Estate planning &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/basiscursus-estate-planning-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/basiscursus-estate-planning-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 11:23:57 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167444</guid>
+
+					<description><![CDATA[In een dag alle aspecten van estate planning Exclusief bij Lefebvre Sdu Licent Academy sinds 2011!&#160; Exclusief bij Lefebvre Sdu Licent Academy sinds 2011! In een dag alle aspecten van estate planning Estate planning is in de afgelopen jaren een vast onderdeel geworden van de advisering. Bij estate planning spelen primair fiscale, civielrechtelijke en emotionele<a class="read-more" href="https://www.taxence.nl/agenda/basiscursus-estate-planning-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>In een dag alle aspecten van estate planning<br />
+<em>Exclusief bij Lefebvre Sdu Licent Academy sinds 2011!&nbsp;</em></p>
+<p><em>Exclusief bij Lefebvre Sdu Licent Academy sinds 2011!</em></p>
+<p>In een dag alle aspecten van estate planning</p>
+<p>Estate planning is in de afgelopen jaren een vast onderdeel geworden van de advisering. Bij estate planning spelen primair fiscale, civielrechtelijke en emotionele aspecten een belangrijke rol. De wetgeving en jurisprudentie rondom estate planning is voortdurend in beweging en dat vraagt veel van je als adviseur.</p>
+<p>Maak kennis met de estate planning en weet hoe je jouw client civiel en fiscaal bij kunt staan.&nbsp;<em><br />
+</em>In deze basiscursus worden alle relevante aspecten van de estate planning (schenking, huwelijkse voorwaarden, testament, levensverzekeringen, internationaal) vanuit zowel een civielrechtelijk als fiscaal perspectief behandeld.</p>
+<p>De cursus biedt de mogelijkheid om kennis te maken met het ‘denken’ als estate planner, en is een uitstekende voorbereiding op de <a href="https://www.licentacademy.nl/opleidingen/specialisatieopleidingen/2508/specialisatieopleiding-estate-planning" target="_blank" rel="noopener">Specialisatieopleiding Estate planning</a>.</p>
+<p><strong>De Schijf van Vijf &#8211; inleiding estate planning&nbsp;</strong><br />
+Je ontvangt tijdens de opleiding het cursusboek ‘De Schijf van Vijf &#8211; inleiding estate planning’ door prof. W. Burgerhart, prof. B. Schols en prof. F. Schols.</p>
+<p><strong>Voor wie?</strong><br />
+Belastingadviseurs, accountants, financieel planners en andere financieel adviseurs, notarissen, juristen en advocaten.</p>
+<p><strong>Niveau</strong><br />
+Je bent werkzaam als adviseur. Kennis van het huwelijksvermogensrecht, erfrecht en schenk- en erfbelasting is een pre.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/3081/basiscursus-estate-planning" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/basiscursus-estate-planning-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Specialisatieopleiding Vermogensstructurering</title>
+		<link>https://www.taxence.nl/agenda/specialisatieopleiding-vermogensstructurering-2/</link>
+					<comments>https://www.taxence.nl/agenda/specialisatieopleiding-vermogensstructurering-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 11:20:23 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Financieel]]></category>
+		<category><![CDATA[Financiele Planning]]></category>
+		<category><![CDATA[Notariaat]]></category>
+		<category><![CDATA[Specialisatieopleidingen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167443</guid>
+
+					<description><![CDATA[5-daagse opleiding start 1 april 2027 Adviseurs in de financiële dienstverlening vervullen steeds vaker de rol van vertrouwensadviseur. Dat is niet zo gek, want veel vermogende ondernemers en particulieren hebben behoefte aan een adviseur die hen met kennis van zaken ondersteunt in de zorg voor het vermogen én helpt om beslissingen te nemen. Vermogenden worden<a class="read-more" href="https://www.taxence.nl/agenda/specialisatieopleiding-vermogensstructurering-2/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>5-daagse opleiding start 1 april 2027</p>
+<p>Adviseurs in de financiële dienstverlening vervullen steeds vaker de rol van vertrouwensadviseur. Dat is niet zo gek, want veel vermogende ondernemers en particulieren hebben behoefte aan een adviseur die hen met kennis van zaken ondersteunt in de zorg voor het vermogen én helpt om beslissingen te nemen. Vermogenden worden weliswaar vaak omringd door veel adviseurs, ieder met hun eigen specialistische expertise, maar wie overziet het grotere geheel? En wie beoordeelt of de optimale oplossing aansluit op de wensen en emotionele voorkeuren van de cliënt? Een mooie uitdaging voor jou als adviseur, accountant of bankier!</p>
+<p><strong>De opleiding</strong><br /> Tijdens de 5-daagse Specialisatieopleiding Vermogensstructurering komen diverse vraagstukken rondom het vermogen van cliënten aan de orde. Zo ervaar je hoe je jezelf kunt positioneren als sparringpartner van vermogende cliënten. Je leert (latente) doelstellingen van cliënten te signaleren en deze te plaatsen in het kader van een strategisch vermogensplan. De eerste helft van elke cursusdag staat in het teken van het verdiepen en actualiseren van je fiscale kennis.&nbsp;</p>
+<p><strong>Studiebelasting</strong><br />30 contacturen en circa 2 uur voorbereiding per bijeenkomst.</p>
+<p><strong>Termijnbetaling</strong><br />Deze opleiding kun je ook in 3 termijnen van € 1.115 betalen. Wil je van deze mogelijkheid gebruik maken, voeg dan in het veld ‘opmerkingen’ het woord &#8217;termijnen&#8217; in.<a href="https://www.licentacademy.nl/aanvraag-specialisatieopleiding-vermogensstructurering"><br /></a></p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/specialisatieopleidingen/3072/specialisatieopleiding-vermogensstructurering" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/specialisatieopleiding-vermogensstructurering-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Specialisatieopleiding Estate Planning &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/specialisatieopleiding-estate-planning-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/specialisatieopleiding-estate-planning-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 17 Sep 2026 11:14:31 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[fiscaal]]></category>
+		<category><![CDATA[Notariaat]]></category>
+		<category><![CDATA[Specialisatieopleidingen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167442</guid>
+
+					<description><![CDATA[6-daagse opleiding; Kom als estate planner goed beslagen ten ijs!Exclusief bij Lefebvre Sdu Licent Academy sinds 2009! Exclusief bij Lefebvre Sdu Licent Academy! 6-daagse opleiding; Kom als estate planner goed beslagen ten ijs!+ aspirant-registeratie bij het Register Estate Planners Ondernemers en vermogende particulieren hechten groot belang aan deskundig advies over vermogensoverheveling, bedrijfsopvolging en nalatenschap. Dat<a class="read-more" href="https://www.taxence.nl/agenda/specialisatieopleiding-estate-planning-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>6-daagse opleiding; Kom als estate planner goed beslagen ten ijs!<br /><em>Exclusief bij Lefebvre Sdu Licent Academy sinds 2009!</em></p>
+<p><em>Exclusief bij Lefebvre Sdu Licent Academy!<br /> </em></p>
+<p><strong>6-daagse opleiding; Kom als estate planner goed beslagen ten ijs!</strong><br /><strong>+ aspirant-registeratie bij het Register Estate Planners</strong></p>
+<p>Ondernemers en vermogende particulieren hechten groot belang aan <strong>deskundig</strong> advies over vermogensoverheveling, bedrijfsopvolging en nalatenschap. Dat biedt <strong>kansen voor adviseurs</strong> uit verschillende disciplines.</p>
+<p>Estate planning is in de praktijk zelden een los civiel of fiscaal vraagstuk. Het draait om samenhang tussen familie, onderneming, vermogen en toekomstwensen en om keuzes die cliënten vaak maar één keer goed kunnen maken. <strong>Dat vraagt om adviseurs die multidisciplinair denken, scenario’s kunnen doorrekenen en complexe materie vertalen naar heldere, werkbare oplossingen.</strong></p>
+<p>De estate planner vervult daarbij de rol van strategisch sparringpartner en regisseur.<strong> Je verbindt fiscale, civielrechtelijke en financiële consequenties, signaleert dwarsverbanden en begeleidt cliënten bij het maken van weloverwogen beslissingen.</strong> Wie zich hierin wil onderscheiden, ontwikkelt een brede helikopterview en <strong>spreekt de taal van het gehele estate planningveld.</strong></p>
+<p>Aan de hand van de<strong> ‘Schijf van Vijf’ &#8211; inleiding estate planning</strong>&nbsp;ontwikkel je daarvoor een stevig fundament. <strong>Je hebt na afloop van de opleiding inzicht en overzicht om de juiste vragen te stellen, samenhang te herkennen en integraal te adviseren.</strong> De opleiding positioneert je als professional die het volledige speelveld overziet, scherp aanvoelt wat wanneer relevant is voor de cliënt en gericht kan bepalen waar verdieping nodig is, bij jezelf of bij andere adviseurs.</p>
+<p>In deze intensieve en leerzame zesdaagse opleiding staat die <strong>integrale en cliëntgerichte benadering</strong> centraal. Fiscale onderwerpen, huwelijksvermogensrecht en erfrecht zijn volledig en samenhangend geïntegreerd, met ruime aandacht voor praktijkvragen en interactie met de docenten.</p>
+<p>prof. mr. dr. Freek Schols:<br /><em>‘De Specialisatieopleiding Estate Planning is een opleiding die je veel meer leert dan tips en tricks. Je krijgt een volledige helikopterview, civiel -en fiscaalrechtelijk. Je estate plannings voelsprieten worden volledig doorontwikkeld. Als je deze opleiding hebt afgerond heb je de oogkleppen afgezet, je kunt op alle punten van de ‘Schijf van Vijf’ adviseren en je kunt met iedereen in de estate planning wereld communiceren en wet ijveren, je bent er helemaal klaar voor.’</em></p>
+<h2>Leerdoelen</h2>
+<p>Je leert aan de hand van de &#8216;De Schijf van Vijf &#8211; Inleiding estate planning&#8217;, waar diverse civielrechtelijke en fiscale rechtsgebieden bijeen komen, de planningstechnieken van iedere schijf en de dwarsverbanden;&nbsp;<br />
+Je leert hoe je je cliënt begeleidt met de keuze voor een testament;<br />
+Je leert hoe je de cliënt begeleidt bij vermogensoverheveling tijdens leven (schenkingen);<br />
+Je leert hoe je de cliënt begeleidt met een bedrijfsoverdracht door de bril van een estate planner;<br />
+Je leert over vermogensbescherming en het optimaliseren van pensioen en levensverzekeringen met het oog op het overlijden;<br />
+Je kan je client begeleiden bij internationale estate plannings vraagstukken.</p>
+<h2>Opzet: zes dagen + studiedag Register Estate Planners (REP)</h2>
+<p>De opleiding zelf is verdeeld in zes cursusdagen (twaalf dagdelen). Aan het begin van de opleiding wordt je ook uitgenodigd voor de studiedag van het Register Estate Planners. Deze bestaat uit een actualiteitenseminar en workshops, waarbij de cursisten hun eigen praktijkervaringen kunnen delen met docenten, medecursisten en Register Estate Planners. Deze studiedag vormt de afsluiting van de opleiding.</p>
+<p>Gedurende de gehele opleiding word je kosteloos aangemeld voor het Register Estate Planners en kan je gebruikmaken van alle voordelen (zie <a style="color: #000000" href="http://www.register-estate-planners.nl">www.register-estate-planners.nl</a>). Daarnaast ontvang je tijdens deze periode ook het Vakblad Estate Planning.</p>
+<h2>De Schijf van Vijf &#8211; inleiding estate planning &amp; Compendium Estate Planning</h2>
+<p>Je ontvangt tijdens de opleiding:</p>
+<p>Het cursusboek ‘De Schijf van Vijf &#8211; inleiding estate planning’ door prof. W. Burgerhart, prof. B. Schols en prof. F. Schols.<br />
+Het naslagwerk &#8216;Compendium Estate Planning&#8217;.</p>
+<h2>Voor wie?</h2>
+<p>Belastingadviseurs, accountants, financieel planners en andere financieel adviseurs, notarissen, juristen en advocaten.</p>
+<h2>Niveau</h2>
+<p>Indien gewenst kunt u eerst de <a href="https://www.licentacademy.nl/opleidingen/basisopleidingen/3081/basiscursus-estate-planning" target="_blank" rel="noopener">Basiscursus Estate Planning</a> bij ons volgen.&nbsp;</p>
+<p>Je hebt een aantal jaren ervaring als adviseur. Basiskennis van het huwelijksvermogensrecht, erfrecht en schenk- en erfbelasting is noodzakelijk.&nbsp; <br /> De opleiding wordt gegeven vanuit een academische invalshoek en bouwt voort op aanwezige praktijkervaring en inhoudelijke basiskennis. Tijdens de opleiding wordt regelmatig verwezen naar relevante wetgeving, jurisprudentie en literatuur. Docenten werken met praktijkvoorbeelden en actuele casuïstiek en bieden ruimte voor vragen en interactie. Daarbij wordt uitgegaan van ruim voldoende ervaring en een actieve betrokkenheid van de deelnemers, zodat de inhoud op niveau en met voldoende diepgang kan worden behandeld.</p>
+<h2>Studiebelasting</h2>
+<p>42 contacturen, circa 3 uur voorbereiding per bijeenkomst. Aan de opleiding is geen examen verbonden.</p>
+<h2>Termijnbetaling</h2>
+<p>Bij deze opleiding kun je ook kiezen voor betaling in 3 termijnen van € 1.355 excl. btw. Wil je daarvan gebruikmaken, gebruik dan het woord &#8217;termijnen&#8217; in het veld &#8216;opmerkingen&#8217;.</p>
+<h2>Vraag vrijblijvend de brochure aan</h2>
+<p>Wellicht wil je in je eigen tijd alle informatie rondom de opleiding doornemen.</p>
+<p> <a class="bigbutton" style="color: white;font-size: 1.4em;padding: 4px 32px" href="https://licentacademy.nl/brochure-specialisatieopleiding-estate-planning" target="_blank" rel="noopener">Brochure-Form</a></p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/specialisatieopleidingen/3155/specialisatieopleiding-estate-planning" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/specialisatieopleiding-estate-planning-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

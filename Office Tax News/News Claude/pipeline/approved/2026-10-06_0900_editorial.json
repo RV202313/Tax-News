@@ -1,0 +1,796 @@
+{
+  "date": "2026-10-06",
+  "release": "2026-10-06_0900_editorial",
+  "items": [
+    {
+      "title": "Россия: документы для льготного НДС при импорте детских товаров",
+      "theme": "НДС при импорте детских товаров",
+      "jurisdictions": "Россия, ЕАЭС",
+      "act": "Порядок подтверждения подп. 2 п. 2 ст. 164 НК РФ с 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/",
+        "source_quote": "Дата публикации: 01.10.2026 09:30"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ru-import-child-vat-evidence",
+        "cross_border_relevance": "Порядок подтверждения льготной ставки импортного НДС и документов при перемещении детских товаров через границу РФ."
+      },
+      "slug": "2026-10-06_0900_-ru-import-child-vat-evidence",
+      "caption": "Россия: документы для льготного НДС при импорте детских товаров\n\nПри ввозе детских товаров импортеры представляют сведения о подтверждении соответствия в таможенный орган вместе с декларацией на товары.\n\nДата публикации источника: 01.10.2026.\n\nПочему это важно: импортерам стоит сверить комплект подтверждающих сведений до подачи декларации, чтобы избежать спора о применении ставки НДС.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/",
+          "checked_at": "2026-10-05T20:20:48.101216+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/",
+          "evidence": [
+            {
+              "claim": "При ввозе детских товаров импортеры представляют сведения о подтверждении соответствия в таможенный орган вместе с декларацией на товары.",
+              "source_quote": "импортеры представляют эти данные в таможенный орган вместе с декларацией на товары."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/",
+            "checked_at": "2026-10-05T20:20:48.101216+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16653088/",
+            "evidence": [
+              {
+                "claim": "При ввозе детских товаров импортеры представляют сведения о подтверждении соответствия в таможенный орган вместе с декларацией на товары.",
+                "source_quote": "импортеры представляют эти данные в таможенный орган вместе с декларацией на товары."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-ru-import-child-vat-evidence.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: КГД обсудил маркировку алкоголя с импортерами",
+      "theme": "Маркировка подакцизной продукции при импорте",
+      "jurisdictions": "Казахстан",
+      "act": "",
+      "source_published_at": "2026-10-02",
+      "sources": [
+        {
+          "label": "КГД Казахстана",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru"
+        },
+        {
+          "label": "Датированная официальная лента КГД",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+        "source_quote": "02 октября 2026 Внедрение маркировки и прослеживаемость алкогольной продукции"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "kz-alcohol-import-marking-meeting",
+        "cross_border_relevance": "Подготовка требований прослеживаемости для импортеров подакцизных товаров; сообщение отражает обсуждение, а не принятые изменения законодательства."
+      },
+      "slug": "2026-10-06_0900_-kz-alcohol-import-marking-meeting",
+      "caption": "Казахстан: КГД обсудил маркировку алкоголя с импортерами\n\nПубликация КГД датирована 2 октября 2026 года. В совещании КГД по маркировке и прослеживаемости алкогольной продукции участвовали производители и импортеры алкоголя.\n\nПочему это важно: импортерам стоит следить за последующими решениями по маркировке. Сообщение о совещании само по себе не устанавливает новый срок или обязанность.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru",
+          "checked_at": "2026-10-05T20:20:48.103495+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru",
+          "evidence": [
+            {
+              "claim": "В совещании КГД по маркировке и прослеживаемости алкогольной продукции участвовали производители и импортеры алкоголя.",
+              "source_quote": "В совещании приняли участие представители отраслевых ассоциаций QazSpirits и «КазАлкоТабак», а также производители и импортеры алкогольной продукции."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "checked_at": "2026-10-05T20:21:08.033637+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "Публикация КГД датирована 2 октября 2026 года.",
+              "source_quote": "02 октября 2026 Внедрение маркировки и прослеживаемость алкогольной продукции"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru",
+            "checked_at": "2026-10-05T20:20:48.103495+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1304135?lang=ru",
+            "evidence": [
+              {
+                "claim": "В совещании КГД по маркировке и прослеживаемости алкогольной продукции участвовали производители и импортеры алкоголя.",
+                "source_quote": "В совещании приняли участие представители отраслевых ассоциаций QazSpirits и «КазАлкоТабак», а также производители и импортеры алкогольной продукции."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "checked_at": "2026-10-05T20:21:08.033637+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "Публикация КГД датирована 2 октября 2026 года.",
+                "source_quote": "02 октября 2026 Внедрение маркировки и прослеживаемость алкогольной продукции"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-kz-alcohol-import-marking-meeting.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: КГД обсудил таможенные декларации в системе Кеден",
+      "theme": "Цифровое таможенное декларирование",
+      "jurisdictions": "Казахстан",
+      "act": "",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "КГД Казахстана",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru"
+        },
+        {
+          "label": "Датированная официальная лента КГД",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+        "source_quote": "30 сентября 2026 КГД обсудил вопросы таможенного декларирования с представителями бизнеса"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "kz-keden-declarations-business-meeting",
+        "cross_border_relevance": "Заполнение импортных и экспортных деклараций, прохождение грузов через границу; зафиксировано обсуждение процедур без утверждения новой нормы."
+      },
+      "slug": "2026-10-06_0900_-kz-keden-declarations-business-meeting",
+      "caption": "Казахстан: КГД обсудил таможенные декларации в системе Кеден\n\nПубликация КГД датирована 30 сентября 2026 года. Основной темой встречи КГД с представителями бизнеса стал порядок заполнения декларации на товары в информационной системе «Кеден».\n\nПочему это важно: участникам ВЭД стоит отслеживать официальные решения по предложениям бизнеса. Встреча не означает, что правила заполнения уже изменены.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru",
+          "checked_at": "2026-10-05T20:20:48.105116+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru",
+          "evidence": [
+            {
+              "claim": "Основной темой встречи КГД с представителями бизнеса стал порядок заполнения декларации на товары в информационной системе «Кеден».",
+              "source_quote": "Основной темой встречи стал порядок заполнения декларации на товары в информационной системе «КEDEN»."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "checked_at": "2026-10-05T20:21:08.232527+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "Публикация КГД датирована 30 сентября 2026 года.",
+              "source_quote": "30 сентября 2026 КГД обсудил вопросы таможенного декларирования с представителями бизнеса"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru",
+            "checked_at": "2026-10-05T20:20:48.105116+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1301513?lang=ru",
+            "evidence": [
+              {
+                "claim": "Основной темой встречи КГД с представителями бизнеса стал порядок заполнения декларации на товары в информационной системе «Кеден».",
+                "source_quote": "Основной темой встречи стал порядок заполнения декларации на товары в информационной системе «КEDEN»."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "checked_at": "2026-10-05T20:21:08.232527+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "Публикация КГД датирована 30 сентября 2026 года.",
+                "source_quote": "30 сентября 2026 КГД обсудил вопросы таможенного декларирования с представителями бизнеса"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-kz-keden-declarations-business-meeting.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Филиппины и Сингапур завершили переговоры по налоговому соглашению",
+      "theme": "Обновление двустороннего налогового соглашения",
+      "jurisdictions": "Филиппины, Сингапур",
+      "act": "Переговоры по обновлению DTA Филиппины–Сингапур 2026",
+      "source_published_at": "2026-10-02",
+      "sources": [
+        {
+          "label": "Минфин Филиппин",
+          "url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/",
+        "source_quote": "Post published: October 2, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ph-sg-dta-negotiations-concluded",
+        "cross_border_relevance": "Налоговое соглашение определяет условия налогообложения доходов и взаимодействия налоговых органов двух стран; стадия переговоров отличена от вступления в силу."
+      },
+      "slug": "2026-10-06_0900_-ph-sg-dta-negotiations-concluded",
+      "caption": "Филиппины и Сингапур завершили переговоры по налоговому соглашению\n\nФилиппины и Сингапур завершили переговоры по обновлению своего налогового соглашения.\n\nДата публикации источника: 02.10.2026.\n\nПочему это важно: при планировании трансграничных выплат стоит отслеживать подписание и вступление соглашения в силу; завершение переговоров ещё не даёт права применять новые льготы.\n\nИсточник: https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/",
+          "checked_at": "2026-10-05T20:20:48.106534+00:00",
+          "status_code": 200,
+          "final_url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/",
+          "evidence": [
+            {
+              "claim": "Филиппины и Сингапур завершили переговоры по обновлению своего налогового соглашения.",
+              "source_quote": "The Philippines and Singapore have just concluded the negotiations for its updated tax treaty"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/",
+            "checked_at": "2026-10-05T20:20:48.106534+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.dof.gov.ph/ph-singapore-conclude-tax-treaty-negotiations-to-support-investment-economic-growth/",
+            "evidence": [
+              {
+                "claim": "Филиппины и Сингапур завершили переговоры по обновлению своего налогового соглашения.",
+                "source_quote": "The Philippines and Singapore have just concluded the negotiations for its updated tax treaty"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-ph-sg-dta-negotiations-concluded.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: IRS продлила налоговые сроки для подпадающих под льготу лиц в Израиле",
+      "theme": "Налоговые сроки для лиц за рубежом",
+      "jurisdictions": "США, Израиль",
+      "act": "IRS Notice 2026-63",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "IRS",
+          "url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+        "source_quote": "IR-2026-116, Sept. 30, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "us-israel-notice-2026-63",
+        "cross_border_relevance": "Федеральные налоговые обязательства лиц и компаний за пределами США; льгота ограничена кругом лиц и сроками уведомления."
+      },
+      "slug": "2026-10-06_0900_-us-israel-notice-2026-63",
+      "caption": "США: IRS продлила налоговые сроки для подпадающих под льготу лиц в Израиле\n\nIRS переносит на 30 сентября 2027 года ряд сроков подачи федеральной отчётности и уплаты налогов для налогоплательщиков, отвечающих условиям льготы.\n\nДата публикации источника: 30.09.2026.\n\nПочему это важно: лицам с налоговыми обязательствами в США стоит проверить применимость уведомления 2026-63 к своему месту проживания и конкретному сроку.\n\nИсточник: https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+          "checked_at": "2026-10-05T20:20:48.108286+00:00",
+          "status_code": 200,
+          "final_url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+          "evidence": [
+            {
+              "claim": "IRS переносит на 30 сентября 2027 года ряд сроков подачи федеральной отчётности и уплаты налогов для налогоплательщиков, отвечающих условиям льготы.",
+              "source_quote": "until Sept. 30, 2027, a wide range of deadlines for filing federal returns, making tax payments"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+            "checked_at": "2026-10-05T20:20:48.108286+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+            "evidence": [
+              {
+                "claim": "IRS переносит на 30 сентября 2027 года ряд сроков подачи федеральной отчётности и уплаты налогов для налогоплательщиков, отвечающих условиям льготы.",
+                "source_quote": "until Sept. 30, 2027, a wide range of deadlines for filing federal returns, making tax payments"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-us-israel-notice-2026-63.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг: проект снижает порог участия для льготы при передаче активов внутри группы",
+      "theme": "Гербовый сбор при внутригрупповой реструктуризации",
+      "jurisdictions": "Гонконг",
+      "act": "Stamp Duty Amendment No. 3 Bill 2026",
+      "source_published_at": "2026-09-29",
+      "sources": [
+        {
+          "label": "Правительство Гонконга",
+          "url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm",
+        "source_quote": "Ends/Tuesday, September 29, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "hk-intragroup-stamp-duty-75-proposal",
+        "cross_border_relevance": "Передача гонконгских активов между компаниями международной группы; новость о проекте льготы, а не о действующей сниженной ставке."
+      },
+      "slug": "2026-10-06_0900_-hk-intragroup-stamp-duty-75-proposal",
+      "caption": "Гонконг: проект снижает порог участия для льготы при передаче активов внутри группы\n\nПроект поправок предусматривает снижение порога участия для льготы по гербовому сбору при внутригрупповой передаче активов до 75%.\n\nДата публикации источника: 29.09.2026.\n\nПочему это важно: международным группам стоит оценить потенциальную льготу при реструктуризации, сохраняя расчёты по действующим правилам до принятия проекта.\n\nИсточник: https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm",
+          "checked_at": "2026-10-05T20:20:48.175692+00:00",
+          "status_code": 200,
+          "final_url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm",
+          "evidence": [
+            {
+              "claim": "Проект поправок предусматривает снижение порога участия для льготы по гербовому сбору при внутригрупповой передаче активов до 75%.",
+              "source_quote": "and lowering the ownership threshold to 75 per cent."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm",
+            "checked_at": "2026-10-05T20:20:48.175692+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.info.gov.hk/gia/general/202609/29/P2026092900474.htm",
+            "evidence": [
+              {
+                "claim": "Проект поправок предусматривает снижение порога участия для льготы по гербовому сбору при внутригрупповой передаче активов до 75%.",
+                "source_quote": "and lowering the ownership threshold to 75 per cent."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-hk-intragroup-stamp-duty-75-proposal.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: с ноября потребуются коды идентификации товаров в декларациях электронной торговли",
+      "theme": "Идентификация товаров при импорте электронной торговли",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "",
+      "source_published_at": "2026-10-01",
+      "sources": [
+        {
+          "label": "Таможня Нидерландов",
+          "url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/",
+        "source_quote": "Publicatiedatum 01-10-2026, 11:48"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "nl-ecommerce-product-identification",
+        "cross_border_relevance": "Импорт электронных торговых отправлений и таможенная декларация; действующая обязанность отделена от неутвержденного предложения об ограничении стоимости."
+      },
+      "slug": "2026-10-06_0900_-nl-ecommerce-product-identification",
+      "caption": "Нидерланды: с ноября потребуются коды идентификации товаров в декларациях электронной торговли\n\nС 1 ноября 2026 года компании, декларирующие отправления электронной торговли в Нидерландах, должны указывать в декларации коды идентификации товаров.\n\nДата публикации источника: 01.10.2026.\n\nПочему это важно: импортерам и таможенным представителям стоит проверить заполнение кодов в своих системах и подготовить сведения для таможенной декларации.\n\nИсточник: https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/",
+          "checked_at": "2026-10-05T20:21:08.150868+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/",
+          "evidence": [
+            {
+              "claim": "С 1 ноября 2026 года компании, декларирующие отправления электронной торговли в Нидерландах, должны указывать в декларации коды идентификации товаров.",
+              "source_quote": "Bedrijven die e-commercezendingen aangeven bij de Douane moeten vanaf 1 november 2026 productidentificatiecodes vermelden in hun aangifte."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/",
+            "checked_at": "2026-10-05T20:21:08.150868+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/",
+            "evidence": [
+              {
+                "claim": "С 1 ноября 2026 года компании, декларирующие отправления электронной торговли в Нидерландах, должны указывать в декларации коды идентификации товаров.",
+                "source_quote": "Bedrijven die e-commercezendingen aangeven bij de Douane moeten vanaf 1 november 2026 productidentificatiecodes vermelden in hun aangifte."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-nl-ecommerce-product-identification.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: возврат пошлин на сталь требует письменного заявления",
+      "theme": "Возврат импортных пошлин при исчерпании квот на сталь",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "Порядок возврата при дополнительном тарифном контингенте на сталь 2026",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Таможня Нидерландов",
+          "url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/",
+        "source_quote": "Publicatiedatum 30-09-2026, 17:17"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "nl-steel-additional-quota-refund",
+        "cross_border_relevance": "Возврат импортной пошлины и распределение дополнительного контингента при поставках стали в ЕС; отдельная процедура, не новость о ставке пошлины."
+      },
+      "slug": "2026-10-06_0900_-nl-steel-additional-quota-refund",
+      "caption": "Нидерланды: возврат пошлин на сталь требует письменного заявления\n\nДля возврата импортных пошлин в связи с дополнительной квотой на сталь одного электронного письма недостаточно: необходимо также письменное заявление.\n\nДата публикации источника: 30.09.2026.\n\nПочему это важно: импортерам стоит заранее подготовить письменное заявление и проверить условия доступа к дополнительной квоте, чтобы не ограничиться предварительной копией по электронной почте.\n\nИсточник: https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/",
+          "checked_at": "2026-10-05T20:21:08.616151+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/",
+          "evidence": [
+            {
+              "claim": "Для возврата импортных пошлин в связи с дополнительной квотой на сталь одного электронного письма недостаточно: необходимо также письменное заявление.",
+              "source_quote": "Alleen een e-mail is niet voldoende als formeel verzoek om terugbetaling. U moet uw verzoek ook schriftelijk indienen."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/",
+            "checked_at": "2026-10-05T20:21:08.616151+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/",
+            "evidence": [
+              {
+                "claim": "Для возврата импортных пошлин в связи с дополнительной квотой на сталь одного электронного письма недостаточно: необходимо также письменное заявление.",
+                "source_quote": "Alleen een e-mail is niet voldoende als formeel verzoek om terugbetaling. U moet uw verzoek ook schriftelijk indienen."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-nl-steel-additional-quota-refund.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды усилят проверку происхождения подержанных машин",
+      "theme": "Преференциальное происхождение экспортируемых машин",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "",
+      "source_published_at": "2026-09-29",
+      "sources": [
+        {
+          "label": "Таможня Нидерландов",
+          "url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/",
+        "source_quote": "Publicatiedatum 29-09-2026, 11:38"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "nl-used-machines-preferential-origin",
+        "cross_border_relevance": "Происхождение товара для снижения или освобождения от импортной пошлины по торговым соглашениям; доказательства собирает экспортер для использования импортером."
+      },
+      "slug": "2026-10-06_0900_-nl-used-machines-preferential-origin",
+      "caption": "Нидерланды усилят проверку происхождения подержанных машин\n\nС 1 апреля 2027 года таможня Нидерландов будет активнее проверять доказательства преференциального происхождения подержанных машин.\n\nДата публикации источника: 29.09.2026.\n\nПочему это важно: экспортерам стоит заранее собрать подтверждающие документы производителя, чтобы обосновать право на тарифную льготу у импортера.\n\nИсточник: https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/",
+          "checked_at": "2026-10-05T20:21:09.160198+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/",
+          "evidence": [
+            {
+              "claim": "С 1 апреля 2027 года таможня Нидерландов будет активнее проверять доказательства преференциального происхождения подержанных машин.",
+              "source_quote": "De Douane gaat vanaf 1 april 2027 preferentiële oorsprongsbewijzen van gebruikte machines actiever controleren."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/",
+            "checked_at": "2026-10-05T20:21:09.160198+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/preferentiele-oorsprong-van-gebruikte-machines-wordt-strenger-gecontroleerd/",
+            "evidence": [
+              {
+                "claim": "С 1 апреля 2027 года таможня Нидерландов будет активнее проверять доказательства преференциального происхождения подержанных машин.",
+                "source_quote": "De Douane gaat vanaf 1 april 2027 preferentiële oorsprongsbewijzen van gebruikte machines actiever controleren."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-nl-used-machines-preferential-origin.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды открыли приём заявок на централизованное таможенное оформление",
+      "theme": "Централизованное таможенное оформление в ЕС",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "",
+      "source_published_at": "2026-09-29",
+      "sources": [
+        {
+          "label": "Таможня Нидерландов",
+          "url": "https://www.douane.nl/centralised-clearance-vergunning/"
+        }
+      ],
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/centralised-clearance-vergunning/",
+        "source_quote": "Publicatiedatum 29-09-2026, 9:00"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "nl-centralised-clearance-applications",
+        "cross_border_relevance": "Таможенное оформление международных поставок в рамках ЕС и подготовка авторизованных экономических операторов к новым процедурам."
+      },
+      "slug": "2026-10-06_0900_-nl-centralised-clearance-applications",
+      "caption": "Нидерланды открыли приём заявок на централизованное таможенное оформление\n\nАвторизованные экономические операторы с разрешением AEO-C уже могут подать заявку на разрешение централизованного таможенного оформления.\n\nДата публикации источника: 29.09.2026.\n\nПочему это важно: международным логистическим группам стоит оценить подготовку заявки и программных систем для централизованного оформления поставок.\n\nИсточник: https://www.douane.nl/centralised-clearance-vergunning/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/centralised-clearance-vergunning/",
+          "checked_at": "2026-10-05T20:21:09.795054+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/centralised-clearance-vergunning/",
+          "evidence": [
+            {
+              "claim": "Авторизованные экономические операторы с разрешением AEO-C уже могут подать заявку на разрешение централизованного таможенного оформления.",
+              "source_quote": "Dan kunt u vanaf nu uw Centralised Clearance-vergunning aanvragen."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/centralised-clearance-vergunning/",
+            "checked_at": "2026-10-05T20:21:09.795054+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/centralised-clearance-vergunning/",
+            "evidence": [
+              {
+                "claim": "Держатели разрешения AEO-C уже могут подать заявку на разрешение централизованного таможенного оформления.",
+                "source_quote": "Dan kunt u vanaf nu uw Centralised Clearance-vergunning aanvragen."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_0900_-nl-centralised-clearance-applications.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

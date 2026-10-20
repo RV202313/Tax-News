@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Tue, 20 Oct 2026 07:52:04 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Online cursus CV en bedrijfsopvolging</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 07:52:03 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[bedrijfsoverdracht]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Familiebedrijven]]></category>
+		<category><![CDATA[Notariaat]]></category>
+		<category><![CDATA[Online cursus]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168376</guid>
+
+					<description><![CDATA[Leer de voordelen van overdracht van een onderneming via cv Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt. De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Leer de voordelen van overdracht van een onderneming via cv</p>
+<p>Het financieren van een bedrijfsovername kan op verschillende manieren plaatsvinden. Doorgaans worden de benodigde middelen als geldlening verstrekt door de bank en/of de ondernemer die zijn onderneming overdraagt.</p>
+<p>De overdracht van de onderneming via een commanditaire vennootschap (cv) komt veel minder voor ondanks dat deze manier tal van voordelen kan bieden ten opzichte van de meer traditionele manieren van bedrijfsopvolging. Na het volgen van deze online cursus is de adviseur in staat om adequaat te kunnen adviseren over de cv.&nbsp;In deze online cursus staat de bedrijfsoverdracht van ouder op kind centraal.</p>
+<p><strong>Praktijktool</strong><br />De tool bestaat uit een handige checklist met alle belangrijke overwegingen op een rij.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/agenda-2/3121/de-commanditaire-vennootschap-en-bedrijfsopvolging" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-cv-en-bedrijfsopvolging/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Masterclass Inbreng in en terugkeer uit de BV &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/masterclass-inbreng-in-en-terugkeer-uit-de-bv-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/masterclass-inbreng-in-en-terugkeer-uit-de-bv-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 07:44:32 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[dga]]></category>
+		<category><![CDATA[DGA en B.V.]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Masterclasses]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168476</guid>
+
+					<description><![CDATA[Wegwijs in het woud van regels en rechtspraak van de &#8216;inbreng&#8217; en ‘terugkeer’ Veel ondernemers starten hun onderneming vanuit de rechtsvorm van de eenmanszaak of een samenwerkingsverband, zoals een maatschap of vennootschap onder firma. Bij expansie van de onderneming komt de ondernemer al snel voor de vraag te staan of de rechtsvorm van de besloten<a class="read-more" href="https://www.taxence.nl/agenda/masterclass-inbreng-in-en-terugkeer-uit-de-bv-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p style="letter-spacing: 0.6px">Wegwijs in het woud van regels en rechtspraak van de &#8216;inbreng&#8217; en ‘terugkeer’</p>
+<p>Veel ondernemers starten hun onderneming vanuit de rechtsvorm van de eenmanszaak of een samenwerkingsverband, zoals een maatschap of vennootschap onder firma. Bij expansie van de onderneming komt de ondernemer al snel voor de vraag te staan of de rechtsvorm van de besloten vennootschap wellicht een aantrekkelijker rechtsvorm is.</p>
+<p>Valt de keus inderdaad op de bv, dan kan de onderneming fiscaal &#8216;ruisend&#8217; of &#8216;geruisloos&#8217; worden ingebracht in de bv. Vooral de geruisloze variant is, mede door de standaardvoorwaarden geruisloze inbreng en de vele rechtspraak, omgeven met veel en vooral ook complexe voorwaarden. Het maken van een (fatale) vergissing ligt hier al snel op de loer!</p>
+<p>Het laat zich uiteraard ook denken dat de onderneming in de bv-vorm wordt gedreven, maar de IB-rechtsvorm &#8211; zoals de eenmanszaak &#8211; aantrekkelijker is, bijvoorbeeld door een terugval in de winst. We bevinden ons dan op het terrein van de terugkeer uit de bv. Ook dan kennen we een ruisende en geruisloze variant. De geruisloze variant is niet alleen complex, maar kent ook een ook een aantal voorwaarden waaraan niet altijd (eenvoudig) voldaan kan worden.</p>
+<p><strong>Leerdoel</strong><br />Gedurende deze cursus word je wegwijs gemaakt in het woud van regels en rechtspraak waarmee de &#8216;inbreng&#8217; en ‘terugkeer’ is omgeven. Het zwaartepunt van de cursus ligt bij de geruisloze inbreng. Daarnaast wordt ook de geruisloze terugkeer behandeld. Na de cursus ben je in staat om cliënten optimaal te adviseren over de omzetting van de onderneming in en terugkeer uit de bv-vorm.</p>
+<p><strong>&nbsp;</strong></p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/masterclasses/3139/masterclass-inbreng-in-en-terugkeer-uit-de-bv" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/masterclass-inbreng-in-en-terugkeer-uit-de-bv-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Late verrekening lijfrente na scheiding blijft belast</title>
+		<link>https://www.taxence.nl/nieuws/late-verrekening-lijfrente-na-scheiding-blijft-belast/</link>
+					<comments>https://www.taxence.nl/nieuws/late-verrekening-lijfrente-na-scheiding-blijft-belast/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 07:29:08 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168480</guid>
+
+					<description><![CDATA[Een bedrag dat een vrouw ruim twintig jaar na haar echtscheiding ontvangt ter verrekening van verzwegen lijfrentepolissen, is belast in box 1. Het lange tijdsverloop en het feit dat de lijfrente al volledig is uitgekeerd, maken dat niet anders.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Een bedrag dat een vrouw ruim twintig jaar na haar echtscheiding ontvangt ter verrekening van verzwegen lijfrentepolissen, is belast in box 1. Het lange tijdsverloop en het feit dat de lijfrente al volledig is uitgekeerd, maken dat niet anders.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw scheidt in 1998. In het echtscheidingsconvenant wordt ook het huwelijksvermogen verdeeld. In 2019 blijkt dat haar ex-echtgenoot destijds enkele kapitaalverzekeringen met lijfrenteclausule niet heeft gemeld. Deze polissen hadden bij de verdeling moeten worden meegenomen. De ex-echtgenoot heeft de polissen inmiddels omgezet in een lijfrenteverzekering en ontvangt daaruit tussen 2006 en 2015 uitkeringen. In 2020 stellen de ex-echtgenoten de waarde van de polissen ten tijde van de echtscheiding vast op € 304.668. De vrouw ontvangt vervolgens € 152.334. De inspecteur rekent dit bedrag tot haar belastbare inkomen uit werk en woning over 2020. De vrouw stelt dat het bedrag niet belast is.</p>
+
+
+
+<h3 class="wp-block-heading">Verrekening lijfrente blijft belast</h3>
+
+
+
+<p class="wp-block-paragraph">Rechtbank Zeeland-West-Brabant oordeelt dat uit artikel 3.102 lid 3 Wet IB 2001 volgt dat het ontvangen bedrag belast is. De vrouw ontvangt het bedrag in het kader van de echtscheiding vanwege haar recht op verrekening van de lijfrentepolissen. Het bedrag behoort daarom tot de aangewezen periodieke uitkeringen en daarmee tot het belastbare inkomen uit werk en woning. Dat tussen de echtscheiding en de betaling meer dan twintig jaar zit, maakt dit niet anders. Ook is niet van belang dat de ex-echtgenoot de lijfrente-uitkeringen inmiddels volledig heeft ontvangen. Bovendien zou het bedrag volgens de rechtbank ook belast zijn geweest als de vrouw het al bij de echtscheiding in 1998 had ontvangen.</p>
+
+
+
+<p class="wp-block-paragraph">Wet:<strong> </strong><a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.100?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.100</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.102?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.102 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9709">Rechtbank Zeeland-West-Brabant, 07-10-2026, ECLI:NL:RBZWB:2026:9709, BRE 25/1606 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/late-verrekening-lijfrente-na-scheiding-blijft-belast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/echtscheiding.jpg" length="33465" type="image/jpeg" />	</item>
+		<item>
+		<title>Nederland mag volledig heffen over Belgisch pensioen</title>
+		<link>https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/</link>
+					<comments>https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168483</guid>
+
+					<description><![CDATA[Nederland heeft als woonstaat het exclusieve heffingsrecht over een Belgisch pensioen en een Belgische verzekeringsuitkering. De in België ingehouden bedrijfsvoorheffing geeft daarom geen recht op Nederlandse voorkoming van dubbele belasting.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Nederland heeft als woonstaat het exclusieve heffingsrecht over een Belgisch pensioen en een Belgische verzekeringsuitkering. De in België ingehouden bedrijfsvoorheffing geeft daarom geen recht op Nederlandse voorkoming van dubbele belasting.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een in Nederland wonende man ontvangt in 2020 een pensioen van de Belgische Federale Pensioendienst en een uitkering van KBC Verzekeringen. Volgens gegevens van de Pensioendienst ontvangt hij € 44.014 aan pensioen, terwijl hij in zijn aangifte slechts € 970 aangeeft. Daarnaast ontvangt hij uiteindelijk € 43.043 van KBC, waarop € 7.171 Belgische bedrijfsvoorheffing is ingehouden. De inspecteur rekent beide bedragen tot het belastbare inkomen uit werk en woning en verleent geen voorkoming van dubbele belasting. In bezwaar wordt het inkomen vanwege de lagere KBC-uitkering verminderd. In beroep stelt de man onder meer dat het pensioen te hoog is vastgesteld en dat rekening moet worden gehouden met de in België betaalde belasting.</p>
+
+
+
+<h3 class="wp-block-heading">Nederland heeft het heffingsrecht</h3>
+
+
+
+<p class="wp-block-paragraph">Rechtbank Zeeland-West-Brabant stelt vast dat volgens het belastingverdrag tussen Nederland en België het heffingsrecht over het pensioen en de verzekeringsuitkering uitsluitend aan woonstaat Nederland toekomt. Niet is gebleken dat aan de voorwaarden is voldaan waardoor België als bronstaat mag heffen. De rechtbank volgt daarnaast het renseignement van de Belgische Pensioendienst waaruit blijkt dat de man € 44.014 aan pensioen heeft ontvangen. De overgelegde bankafschriften maken niet aannemelijk dat hij slechts € 970 heeft ontvangen. De in België ingehouden bedrijfsvoorheffing van € 7.171 leidt evenmin tot een vermindering van de Nederlandse belasting, omdat Nederland geen voorkoming van dubbele belasting hoeft te verlenen.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001563-18?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 18 Verdrag Nederland-België</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9674#ECLI_NL_RBZWB_2026_9674_inhoudsindicatie" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 07-10-2026, ECLI:NL:RBZWB:2026:9674, BRE 25/7 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/pensioen-Belgie.jpg" length="35129" type="image/jpeg" />	</item>
+		<item>
+		<title>Vennootschapsbelasting toegevoegd aan Overzicht betalen en ontvangen</title>
+		<link>https://www.taxence.nl/nieuws/vennootschapsbelasting-toegevoegd-aan-overzicht-betalen-en-ontvangen-2/</link>
+					<comments>https://www.taxence.nl/nieuws/vennootschapsbelasting-toegevoegd-aan-overzicht-betalen-en-ontvangen-2/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 20 Oct 2026 05:35:25 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168477</guid>
+
+					<description><![CDATA[Voorlopige aanslagen, definitieve aanslagen en navorderingsaanslagen vennootschapsbelasting zijn voortaan te bekijken in het Overzicht betalen en ontvangen van de Belastingdienst. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Voorlopige aanslagen, definitieve aanslagen en navorderingsaanslagen vennootschapsbelasting zijn voortaan te bekijken in het Overzicht betalen en ontvangen van de Belastingdienst. </strong></p>
+
+
+
+<p class="wp-block-paragraph">Aanslagen tot € 50.000 kunnen daar in veel gevallen direct worden betaald met iDEAL | Wero. Ook zijn betaalde aanslagen tot maximaal twee jaar terug te bekijken.</p>
+
+
+
+<p class="wp-block-paragraph">Openstaande aanslagen vennootschapsbelasting staan in het overzicht onder het tabblad ‘Open’. Naast het te betalen bedrag zijn daar de gegevens te vinden die nodig zijn om de betaling uit te voeren.</p>
+
+
+
+<h2 class="wp-block-heading">Betalen via iDEAL | Wero</h2>
+
+
+
+<p class="wp-block-paragraph">Aanslagen tot € 50.000 kunnen rechtstreeks vanuit het overzicht worden betaald met iDEAL | Wero. Het bedrag kan ook zelf worden overgemaakt. De benodigde betaalgegevens kunnen daarvoor uit het overzicht worden gekopieerd.</p>
+
+
+
+<p class="wp-block-paragraph">Bij aanslagen vanaf € 50.000 is betaling via iDEAL | Wero niet mogelijk. Het bedrag moet dan zelf worden overgemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Na een betaling via iDEAL | Wero kan het één tot twee werkdagen duren voordat deze is verwerkt. Vervolgens zijn de aanslag en het betaalde bedrag terug te vinden onder het tabblad ‘Afgehandeld’.</p>
+
+
+
+<h2 class="wp-block-heading">Automatische incasso digitaal aanvragen</h2>
+
+
+
+<p class="wp-block-paragraph">Ook is het voortaan mogelijk om via het overzicht een automatische incasso aan te vragen voor een voorlopige aanslag vennootschapsbelasting over het lopende jaar. Na inloggen met DigiD, European login of eHerkenning staat onder het tabblad ‘Incasso’ voor welke aanslagen een machtiging kan worden afgegeven.</p>
+
+
+
+<p class="wp-block-paragraph">Niet iedere bank ondersteunt digitaal machtigen. Wanneer een bank niet in de beschikbare lijst staat, kan het papieren machtigingsformulier bij de voorlopige aanslag worden gebruikt.</p>
+
+
+
+<h2 class="wp-block-heading">Steeds meer belastingen in één overzicht</h2>
+
+
+
+<p class="wp-block-paragraph">Het Overzicht betalen en ontvangen bevat al informatie over onder meer de inkomstenbelasting, bijdrage Zorgverzekeringswet, motorrijtuigenbelasting, bpm en terug te betalen toeslagen. Ook naheffingsaanslagen voor de btw en loonheffingen zijn er te vinden.</p>
+
+
+
+<p class="wp-block-paragraph">Daar zijn nu de voorlopige, definitieve en navorderingsaanslagen voor de vennootschapsbelasting aan toegevoegd.</p>
+
+
+
+<p class="wp-block-paragraph">Via het overzicht kunnen daarnaast automatische incasso’s worden aangevraagd voor de motorrijtuigenbelasting en voorlopige aanslagen inkomstenbelasting en Zorgverzekeringswet. Bestaande automatische incasso’s en de bijbehorende rekeningnummers kunnen er eveneens worden bekeken en gewijzigd.</p>
+
+
+
+<p class="wp-block-paragraph">Meer informatie is te vinden in het <a href="https://www.belastingdienst.nl/wps/wcm/connect/nl/betalenenontvangen/content/overzicht-betalen-en-ontvangen" target="_blank" rel="noreferrer noopener">Overzicht betalen en ontvangen</a>.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/nieuw-in-overzicht-betalen-en-ontvangen-vennootschapsbelasting" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/nieuw-in-overzicht-betalen-en-ontvangen-vennootschapsbelasting" target="_blank" rel="noreferrer noopener">Belastingdienst, 19 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vennootschapsbelasting-toegevoegd-aan-overzicht-betalen-en-ontvangen-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/iDEAL.jpg" length="35397" type="image/jpeg" />	</item>
+		<item>
+		<title>Box 2 of box 3 vraagt om rekenen én spreiden</title>
+		<link>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/</link>
+					<comments>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:48:24 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168465</guid>
+
+					<description><![CDATA[De keuze tussen beleggen in privé of via de BV hangt af van het verwachte rendement en de kosten. Tijdens de Tax Talks-focusuitzending bespreekt Jeroen Knol waar het omslagpunt ligt en waarom ook spreiding, flexibiliteit en liquiditeit belangrijk zijn.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De keuze tussen beleggen in privé of via de BV hangt af van het verwachte rendement en de kosten. Tijdens de Tax Talks-focusuitzending bespreekt Jeroen Knol waar het omslagpunt ligt en waarom ook spreiding, flexibiliteit en liquiditeit belangrijk zijn.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Rendement en kosten bepalen de keuze</h2>
+
+
+
+<p class="wp-block-paragraph">Bij de vergelijking tussen box 3 en beleggen via de BV komt het volgens Knol vooral aan op rekenen. Bij een verwacht rendement van ongeveer 5% ligt grofweg een omslagpunt. Hoogrenderende beleggingen, zoals aandelen, liggen daardoor eerder voor de hand in privé, terwijl laagrenderende beleggingen, zoals obligaties, eerder in de BV passen. De tegenbewijsregeling kan dit beeld veranderen. Daarbij speelt ook mee dat kosten bij het bepalen van het werkelijke rendement in box 3 niet aftrekbaar zijn, terwijl kosten in de BV wel ten laste van de winst kunnen komen. Vooral bij vastgoed maakt dit de keuze lastig.</p>
+
+
+
+<h2 class="wp-block-heading">Dividend niet zonder reden uitkeren</h2>
+
+
+
+<p class="wp-block-paragraph">Zit het vermogen eenmaal in de BV, dan is dividend uitkeren om vervolgens privé te beleggen volgens Knol lang niet altijd aantrekkelijk. Bij de huidige forfaitaire heffing ligt het omslagpunt volgens zijn berekening bij een verwacht rendement van ongeveer 11%. Bij lagere rendementen kan het fiscaal aantrekkelijker zijn het vermogen in de BV te laten. Wel kan het zinvol zijn jaarlijks gebruik te maken van de eerste tariefschijf in box 2. Daarmee kan een dga geleidelijk tegen het lagere box 2-tarief dividend uitkeren in plaats van de belastingclaim volledig naar de toekomst door te schuiven.</p>
+
+
+
+<h2 class="wp-block-heading">Spreid vermogen en blijf flexibel</h2>
+
+
+
+<p class="wp-block-paragraph">Door de onzekerheid over de toekomstige belastingheffing pleit Knol voor spreiding. Vermogen hoeft niet volledig in box 2 of box 3 te worden ondergebracht. Ook liquiditeit is belangrijk. Effecten kunnen relatief eenvoudig worden verplaatst of verkocht, terwijl vastgoed veel minder flexibel is en bij een latere overdracht overdrachtsbelasting kan spelen. Fiscale vermogensplanning moet daarom geen eenmalige keuze zijn, maar een continu proces. Door vermogen over verschillende boxen en in de tijd te spreiden, kunnen adviseurs inspelen op wijzigingen in tarieven en regelgeving.</p>
+
+
+
+<h2 class="wp-block-heading">Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Tax Talks is hét online learning platform voor mkb-adviseurs. 30x Per jaar wordt een item beschikbaar gesteld dat je via het online platform kunt bekijken. Na het afronden van de bijbehorende kennistoets ontvang je een certificaat en PE-punten</em>.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.licentacademy.nl/tax-talks?_sp=52adb5ab-cd44-48cf-b8b0-bad05abc9210.1762777697293" target="_blank" rel="noopener"><strong>Meer informatie en aanmelden</strong></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/TT19102026.png" length="383031" type="image/png" />	</item>
+		<item>
+		<title>Bezwaarprocedure valt niet onder recht op eerlijk proces</title>
+		<link>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/</link>
+					<comments>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:40:40 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168463</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat art. 47 van het EU-Handvest niet van toepassing is op de bezwaarprocedure. De inspecteur voldoet aan de hoorplicht als hij de belastingplichtige voldoende gelegenheid geeft om te worden gehoord.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat artikel 47 van het EU-Handvest niet van toepassing is op de bezwaarprocedure. De inspecteur voldoet aan de hoorplicht als hij de belastingplichtige voldoende gelegenheid geeft om te worden gehoord.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man maakt bezwaar tegen een bedrag aan bpm dat hij op aangifte heeft voldaan. De inspecteur nodigt zijn gemachtigde verschillende keren uit voor een hoorgesprek, maar de gemachtigde accepteert geen van deze uitnodigingen. Uiteindelijk verschijnt hij toch op de plaats en het tijdstip van een eerder afgewezen uitnodiging. Daar weigert hij het dossier in te zien en de bezwaren te bespreken. Hof Arnhem-Leeuwarden oordeelt dat de inspecteur de hoorplicht van artikel 7:2 Awb niet heeft geschonden. In cassatie stelt de man onder meer dat dit oordeel in strijd is met artikel 47 van het Handvest van de grondrechten van de Europese Unie en met het Unierechtelijke verdedigingsbeginsel.</p>
+
+
+
+<h3 class="wp-block-heading">Voldoende gelegenheid om te worden gehoord</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat artikel 7:2 Awb de inspecteur verplicht een belastingplichtige vóór de uitspraak op bezwaar in de gelegenheid te stellen te worden gehoord. Of het de inspecteur kan worden aangerekend dat uiteindelijk geen hoorgesprek plaatsvindt, hangt af van de omstandigheden. Hier heeft de inspecteur meerdere uitnodigingen verstuurd. Dat de gemachtigde daarvan geen gebruik heeft gemaakt, komt niet voor rekening van de inspecteur.</p>
+
+
+
+<h3 class="wp-block-heading">Artikel 47 Handvest geldt niet in bezwaar</h3>
+
+
+
+<p class="wp-block-paragraph">Artikel 47 Handvest ziet volgens de Hoge Raad op toegang tot een onafhankelijk en onpartijdig gerecht. Een bestuurlijke heroverweging in bezwaar die voorafgaat aan een procedure bij de bestuursrechter is geen gerechtelijke procedure in die zin. Ook is artikel 7:2 Awb geen omzetting van een Unierechtelijke verplichting. De bepaling voldoet wel aan het algemene Unierechtelijke verdedigingsbeginsel doordat een belastingplichtige de mogelijkheid krijgt zijn standpunt kenbaar te maken. Het cassatieberoep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-7:2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7:2 Awb</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1628">Hoge Raad, 16-10-2026, ECLI:NL:HR:2026:1628, 21/02570 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/HR.jpg" length="79182" type="image/jpeg" />	</item>
+		<item>
+		<title>Hof mag nieuwe machtiging eisen bij twijfel aan volmacht</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-9/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-9/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:34:33 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168461</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat een hof een gemachtigde mag vragen om een recente machtiging. Als die ondanks een herstelmogelijkheid niet wordt verstrekt, mag het hoger beroep niet-ontvankelijk worden verklaard.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat een hof een gemachtigde mag vragen om een recente machtiging. Als die ondanks een herstelmogelijkheid niet wordt verstrekt, mag het hoger beroep niet-ontvankelijk worden verklaard.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een gemachtigde stelt namens een man hoger beroep in tegen een uitspraak over de WOZ-beschikking en gemeentelijke belastingen voor 2022. Bij het hogerberoepschrift van 9 januari 2024 voegt zij een volmacht van 7 februari 2022. Hof Den Haag vraagt de gemachtigde vervolgens tweemaal om uiterlijk tijdens de zitting een recente machtiging te verstrekken die niet ouder is dan zes maanden vóór het indienen van het hoger beroep. Ook vraagt het hof om een kopie van een geldig identiteitsbewijs. Daarbij waarschuwt het hof dat het hoger beroep niet-ontvankelijk kan worden verklaard als de stukken niet worden verstrekt. De gemachtigde verstrekt de gevraagde stukken niet. Het hof verklaart het hoger beroep daarom niet-ontvankelijk.</p>
+
+
+
+<h3 class="wp-block-heading">Hof mag recente machtiging vragen</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad oordeelt dat het hof zijn bevoegdheid niet overschrijdt door een nieuwe machtiging op te vragen. Het hof mocht vaststellen dat door het ontbreken daarvan sprake was van een verzuim als bedoeld in artikel 6:6 Awb. Omdat de gemachtigde de gelegenheid heeft gekregen dit verzuim te herstellen en daarvan geen gebruik heeft gemaakt, mocht het hof het hoger beroep niet-ontvankelijk verklaren.</p>
+
+
+
+<h3 class="wp-block-heading">Geen tweede herstelmogelijkheid nodig</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad benadrukt dat het hof na het ongebruikt laten van de geboden herstelmogelijkheid niet verplicht is nogmaals gelegenheid te geven het verzuim te herstellen. De niet-ontvankelijkverklaring blijft daarom in stand en het cassatieberoep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-6:6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6:6</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-8:24?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8:24 Awb</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1579" target="_blank" rel="noreferrer noopener">Hoge Raad, 16-10-2026, ECLI:NL:HR:2026:1579, 25/01950 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Paspoort.jpg" length="56977" type="image/jpeg" />	</item>
+		<item>
+		<title>Antwoorden op vragen uit eerste wetgevingsoverleg pakket Belastingplan 2027</title>
+		<link>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 06:46:57 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168454</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg heeft vragen beantwoord over het pakket Belastingplan 2027. De Tweede Kamer heeft deze vragen gesteld tijdens het eerste wetgevingsoverleg op maandag 12 oktober 2026.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg heeft vragen beantwoord over het pakket Belastingplan 2027. De Tweede Kamer heeft deze vragen gesteld tijdens het eerste wetgevingsoverleg op maandag 12 oktober 2026.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet gaat onder meer in op het inkomensbeleid, ondernemersfaciliteiten, innovatiebox, woningcorporaties, btw en enkele milieuheffingen.</p>
+
+
+
+<h3 class="wp-block-heading">Wetsvoorstel Belastingplan 2027</h3>
+
+
+
+<p class="wp-block-paragraph"><strong>Startersaftrek.</strong> De reguliere startersaftrek wordt per 1 januari 2027 verlaagd van € 2.123 naar € 10 en vervolgens per 1 januari 2028 afgeschaft. Ook de specifieke startersaftrek voor arbeidsongeschikten verdwijnt. Volgens het kabinet is die laatste regeling beperkt doeltreffend, relatief duur in de uitvoering en wordt zij nog maar zeer weinig gebruikt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Innovatiebox.</strong> De forfaitaire regeling binnen de innovatiebox wordt verruimd om deze toegankelijker te maken voor het mkb en administratieve lasten te verminderen. Een verdere verlenging van de toepassingsduur naar vijf jaar wijst het kabinet af: dan zou bijna 80% van de kosten terechtkomen bij bestaande gebruikers of het grootbedrijf.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Earningsstrippingmaatregel.</strong> Het kabinet wil woningcorporaties gedeeltelijk uitzonderen van de generieke renteaftrekbeperking. Rente en gecorrigeerde winst die zijn toe te rekenen aan DAEB-activiteiten van woningcorporaties worden buiten de earningsstrippingmaatregel gehouden. Hiervoor is structureel circa € 425 miljoen beschikbaar.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet meent dat dit binnen de Europese staatssteunregels kan zonder voorafgaande formele goedkeuring van de Europese Commissie, maar wil hierover vóór inwerkingtreding wel informeel zekerheid verkrijgen. Daarom treedt de maatregel op een bij koninklijk besluit te bepalen tijdstip in werking; beoogd is 1 januari 2028.</p>
+
+
+
+<p class="wp-block-paragraph">De uitzondering geldt niet voor private vastgoedbeleggers, ook niet wanneer zij sociale of middenhuurwoningen aanbieden. Het kabinet rechtvaardigt dit onderscheid doordat het vermogen van woningcorporaties wettelijk gebonden is aan de volkshuisvesting, zij onder toezicht staan en de uitzondering uitsluitend betrekking heeft op hun DAEB-activiteiten.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens het kabinet levert de uitzondering woningcorporaties ongeveer € 14 miljard extra investeringsruimte op. Daarmee zouden, uitgaande van de verdeling uit de Nationale Prestatieafspraken, circa 35.000 nieuwe woningen kunnen worden gebouwd en 142.000 woningen kunnen worden verduurzaamd.</p>
+
+
+
+<h3 class="wp-block-heading">Wetsvoorstel Overige Fiscale Maatregelen 2027</h3>
+
+
+
+<p class="wp-block-paragraph">Een onderdeel betreft de pseudo-eindheffing voor fossiele personenauto&#8217;s van de zaak. Er komen uitzonderingen voor onder meer vervangend vervoer bij reparatie/onderhoud en kortdurend tijdelijk vervoer. Het kabinet wil geen algemene uitzondering voor kleine werkgevers, omdat dit de effectiviteit vermindert en nieuwe afbakenings- en uitvoeringsproblemen veroorzaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Verder wordt bij bedrijfsfusies en splitsingen het bestaande onzakelijkheidsvermoeden bij verkoop binnen drie jaar geschrapt naar aanleiding van een arrest van de Hoge Raad. Een verkoop binnen drie jaar is voortaan op zichzelf onvoldoende bewijs dat belasting wordt ontgaan of uitgesteld.</p>
+
+
+
+<h3 class="wp-block-heading">Wet fiscale stimulering start-ups en scale-ups</h3>
+
+
+
+<p class="wp-block-paragraph">Het kabinet verwacht dat een gunstiger fiscale behandeling van aandelenopties voor werknemers van start-ups en scale-ups. medewerkersparticipatie aantrekkelijker maakt, waardoor start-ups gemakkelijker personeel kunnen aantrekken en behouden.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast werkt het kabinet aan een fiscale win-win-lening om meer particulier risicodragend kapitaal naar start-ups, scale-ups en het mkb te laten stromen. Besluitvorming hierover volgt bij de voorjaarsbesluitvorming. &nbsp;De regeling moet per 1 januari 2027 kunnen ingaan.</p>
+
+
+
+<h3 class="wp-block-heading">Wet veiligehavenregels Wet minimumbelasting 2024</h3>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel implementeert onderdelen van het internationale Side-by-Side-pakket rond de wereldwijde minimumbelasting (Pijler 2).</p>
+
+
+
+<p class="wp-block-paragraph">Er worden vier veiligehavenregels geïntroduceerd. Het kabinet ziet deze als compromis om het internationale minimumbelastingstelsel overeind te houden en tegelijkertijd het gelijke speelveld en de concurrentiepositie van Europese en Nederlandse ondernemingen te beschermen. Sommige veilige havens kunnen ertoe leiden dat bepaalde bijheffingen op nihil worden gesteld.</p>
+
+
+
+<p class="wp-block-paragraph">De huidige &nbsp;innovatiebox kwalificeert niet als een uitgaven- of productiegerelateerde fiscale stimuleringsregeling onder de veiligehavenregels. EIA, MIA en KIA kunnen vanwege hun koppeling aan investeringsuitgaven wél kwalificeren.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet gaat daarom breder onderzoeken hoe het fiscale innovatie-instrumentarium zich tot de wereldwijde minimumbelasting verhoudt. Daarbij wordt ook gekeken naar de Europese R&amp;D-aftrek. De Kamer wordt hierover vóór de zomer van 2027 geïnformeerd.</p>
+
+
+
+<h3 class="wp-block-heading">Wet werkelijk rendement box 3 + novelle</h3>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil vanaf 1 januari 2028 zo veel mogelijk overstappen naar een stelsel waarin werkelijk rendement wordt belast op basis van een vermogenswinstbelasting (VWB).</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Vastgoed.</strong> Voor vastgoed dat niet of minder dan 90% wordt verhuurd, speelt de vastgoedbijtelling een rol. Deze is vooralsnog 3,35%. Dat percentage is bewust voorzichtig vastgesteld: het is gebaseerd op het tiende percentiel van de brutohuurwaarden, zodat 90% van de woningen feitelijk een hogere brutohuurwaarde kent. Begin 2027 laat het kabinet het percentage opnieuw onderzoeken, waarna een eventuele wijziging in het Belastingplan 2028 terechtkomt.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil geen aparte tegenbewijsregeling voor eigen gebruik van vastgoed. De forfaitaire vastgoedbijtelling is juist gekozen vanwege eenvoud en uitvoerbaarheid; bovendien zijn de werkelijke kosten aftrekbaar.</p>
+
+
+
+<p class="wp-block-paragraph">Voor woningen wordt bij invoering van het nieuwe stelsel de WOZ-waarde met waardepeildatum 1 januari 2028 de openingswaarde/verkrijgingsprijs. Zo wordt voorkomen dat de waardestijging over 2027 alsnog onder het nieuwe stelsel wordt belast. Tegen een onjuiste WOZ-waarde kan bezwaar worden gemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Voor vakantiewoningen komt begin 2027 nader extern onderzoek naar de rendementen en de passende vastgoedbijtelling.</p>
+
+
+
+<p class="wp-block-paragraph">Voor verhuurde woningen blijft bij de openingswaarde bovendien de leegwaarderatio relevant. Bij huurbescherming wordt de WOZ-waarde daarmee gecorrigeerd. Als de uitkomst van de leegwaarderatio 10% of meer boven de werkelijke economische waarde in verhuurde staat ligt, kan de belastingplichtige tegenbewijs leveren.</p>
+
+
+
+<p class="wp-block-paragraph">De versnelde overstap naar de vermogenswinstbelasting veroorzaakt aanvankelijk een budgettaire derving. Het kabinet zoekt de dekking zoveel mogelijk binnen het vermogensdomein en zou uiterlijk 2 november met een aangepast dekkingsvoorstel.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/5e754b3b-c857-4bc4-8bf7-0fe022a85577" data-type="link" data-id="https://open.overheid.nl/details/5e754b3b-c857-4bc4-8bf7-0fe022a85577" target="_blank" rel="noreferrer noopener">Antwoorden op vragen uit eerste wetgevingsoverleg pakket Belastingplan 2027, nr. 2025-0000542250, Ministerie van Financien, 16 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Ministerie-van-Financien-.jpg" length="84237" type="image/jpeg" />	</item>
+		<item>
+		<title>Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie in werking per 1 januari 2027</title>
+		<link>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 05:55:00 +0000</pubDate>
+				<category><![CDATA[BTW]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168474</guid>
+
+					<description><![CDATA[De Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">De <strong>Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Deze wet implementeert het onderdeel ‘enkele btw-registratie’ van de <a href="https://www.eerstekamer.nl/id/vmwxkxkiqzlk/document_extern/2025_516_inzake_btw_in_het_digitale/f=/vmwxkzkjbzq4.pdf">Richtlijn (EU) 2025/516</a> inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. Er worden bepaalde verduidelijkingen en uitbreidingen in de éénloketregelingen doorgevoerd. Daarnaast wordt de huidige regeling inzake voorraad op afroep geleidelijk afgeschaft en vervangen door een nieuwe overbrengingsregeling, die wordt geïntegreerd in de éénloketregelingen.</p>
+
+
+
+<p class="wp-block-paragraph">Ondernemers die goederen leveren aan of diensten verrichten voor particulieren in andere lidstaten kunnen verplicht zijn zich in die lidstaat voor btw-doeleinden te registreren en aldaar btw aan te geven en af te dragen. De éénloketregelingen beogen deze administratieve lasten te verminderen door ondernemers de mogelijkheid te bieden zich in één lidstaat te registreren en via die lidstaat de in andere lidstaten verschuldigde btw aan te geven en af te dragen.</p>
+
+
+
+<p class="wp-block-paragraph">De VIDA-richtlijn omvat daarnaast ook elektronische facturering, digitale rapportageverplichtingen en een platformfictie; deze onderdelen worden via afzonderlijke wetsvoorstellen geïmplementeerd.</p>
+
+
+
+<p class="wp-block-paragraph">De wet treedt in werking met ingang van 1 januari 2027.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stb-2026-327.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stb-2026-327.html" target="_blank" rel="noreferrer noopener">Wet van 7 oktober 2026, Ministerie van Financiën, Stb. 2027, 327</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/11/online-shoppen2.jpg" length="22778" type="image/jpeg" />	</item>
+	</channel>
+</rss>

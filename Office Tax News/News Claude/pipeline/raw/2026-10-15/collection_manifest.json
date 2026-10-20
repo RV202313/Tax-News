@@ -1,0 +1,312 @@
+{
+  "date": "2026-10-15",
+  "sources": {
+    "kz_kgd": {
+      "state": "ok",
+      "files": [
+        "kz_kgd_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "kz_kgd_1.txt",
+          "transport": "html",
+          "url": "https://www.gov.kz/api/v1/public/rss/kgd/news/ru",
+          "status": 200,
+          "content_type": "application/rss+xml;charset=UTF-8",
+          "bytes": 179773
+        }
+      ],
+      "detail": ""
+    },
+    "kz_kgd_almaty": {
+      "state": "ok",
+      "files": [
+        "kz_kgd_almaty_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "kz_kgd_almaty_1.txt",
+          "transport": "html",
+          "url": "https://www.gov.kz/api/v1/public/rss/kgd-almaty/news/ru",
+          "status": 200,
+          "content_type": "application/rss+xml;charset=UTF-8",
+          "bytes": 229776
+        }
+      ],
+      "detail": ""
+    },
+    "kz_kgd_karaganda": {
+      "state": "ok",
+      "files": [
+        "kz_kgd_karaganda_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "kz_kgd_karaganda_1.txt",
+          "transport": "html",
+          "url": "https://www.gov.kz/api/v1/public/rss/kgd-karaganda/news/ru",
+          "status": 200,
+          "content_type": "application/rss+xml;charset=UTF-8",
+          "bytes": 206248
+        }
+      ],
+      "detail": ""
+    },
+    "kz_minfin": {
+      "state": "ok",
+      "files": [
+        "kz_minfin_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "kz_minfin_1.txt",
+          "transport": "html",
+          "url": "https://www.gov.kz/api/v1/public/rss/minfin/news/ru",
+          "status": 200,
+          "content_type": "application/rss+xml;charset=UTF-8",
+          "bytes": 281585
+        }
+      ],
+      "detail": ""
+    },
+    "intl_dof_ph": {
+      "state": "ok",
+      "files": [
+        "intl_dof_ph_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_dof_ph_1.txt",
+          "transport": "html",
+          "url": "https://www.dof.gov.ph/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 13581
+        }
+      ],
+      "detail": ""
+    },
+    "intl_irs": {
+      "state": "ok",
+      "files": [
+        "intl_irs_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_irs_1.txt",
+          "transport": "html",
+          "url": "https://www.irs.gov/newsroom/news-releases-for-current-month",
+          "status": 200,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 99347
+        }
+      ],
+      "detail": ""
+    },
+    "nl_douane": {
+      "state": "ok",
+      "files": [
+        "nl_douane_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_douane_1.txt",
+          "transport": "html",
+          "url": "https://www.douane.nl/nieuws/nieuwsberichten/",
+          "status": 200,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 83632
+        }
+      ],
+      "detail": ""
+    },
+    "intl_oecd_tax": {
+      "state": "failed",
+      "files": [],
+      "fetches": [],
+      "detail": "https://www.oecd.org/en/topics/cross-border-and-international-tax.html: HTTP 403, len=5859"
+    },
+    "telegram_leads": {
+      "state": "manual",
+      "detail": "Telegram disabled for local collection"
+    },
+    "nl_rechtspraak": {
+      "state": "ok",
+      "files": [
+        "nl_rechtspraak_1.txt",
+        "nl_rechtspraak_2.txt"
+      ],
+      "detail": "collector=scripts/collect_rechtspraak.py; [rechtspraak] 2026-10-15: HTTP 200, ~0 entries → C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\raw\\2026-10-15\\nl_rechtspraak_1.txt\n[rechtspraak] 2026-10-14: HTTP 200, ~0 entries → C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\raw\\2026-10-15\\nl_rechtspraak_2.txt"
+    },
+    "ru_ras": {
+      "state": "manual",
+      "files": [],
+      "detail": "collector=scripts/collect_ru_ras.js; [ras] CDP_UNAVAILABLE: Failed to fetch browser webSocket URL from http://127.0.0.1:9223/json/version: fetch failed"
+    },
+    "ru_garant": {
+      "state": "ok",
+      "files": [
+        "ru_garant_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_garant_1.txt",
+          "transport": "html",
+          "url": "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/",
+          "status": 200,
+          "content_type": "text/html; charset=windows-1251",
+          "bytes": 234230
+        }
+      ],
+      "detail": ""
+    },
+    "ru_fns": {
+      "state": "ok",
+      "files": [
+        "ru_fns_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_fns_1.txt",
+          "transport": "html",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 97656
+        }
+      ],
+      "detail": ""
+    },
+    "ru_minfin": {
+      "state": "ok",
+      "files": [
+        "ru_minfin_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "ru_minfin_1.txt",
+          "transport": "html",
+          "url": "https://minfin.gov.ru/ru/press-center/",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 179669
+        }
+      ],
+      "detail": ""
+    },
+    "ru_vs": {
+      "state": "failed",
+      "files": [],
+      "detail": "collector=scripts/collect_vs.py; [vs] ошибка: https://www.vsrf.ru/: ConnectTimeout: HTTPSConnectionPool(host='www.vsrf.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.vsrf.ru', port=443) at 0x23166afe900>, 'Connection to www.vsrf.ru timed out. (connect timeout=30)'))"
+    },
+    "intl_regfollower": {
+      "state": "ok",
+      "files": [
+        "intl_regfollower_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_regfollower_1.txt",
+          "transport": "rss",
+          "url": "https://regfollower.com/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 1995843
+        }
+      ],
+      "detail": ""
+    },
+    "nl_fd": {
+      "state": "manual",
+      "detail": "нужна браузерная сессия (Chrome), автосбор не выполняется"
+    },
+    "nl_taxlive": {
+      "state": "ok",
+      "files": [
+        "nl_taxlive_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxlive_1.txt",
+          "transport": "html",
+          "url": "https://www.taxlive.nl/nl",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 47383
+        }
+      ],
+      "detail": ""
+    },
+    "nl_taxence": {
+      "state": "ok",
+      "files": [
+        "nl_taxence_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_taxence_1.txt",
+          "transport": "rss",
+          "url": "https://www.taxence.nl/feed/",
+          "status": 200,
+          "content_type": "application/rss+xml; charset=UTF-8",
+          "bytes": 38936
+        }
+      ],
+      "detail": ""
+    },
+    "nl_belastingdienst_rulings": {
+      "state": "ok",
+      "files": [
+        "nl_belastingdienst_rulings_1.txt",
+        "nl_belastingdienst_rulings_2.txt"
+      ],
+      "fetches": [
+        {
+          "file": "nl_belastingdienst_rulings_1.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/atr",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 340003
+        },
+        {
+          "file": "nl_belastingdienst_rulings_2.txt",
+          "transport": "html",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa",
+          "status": 200,
+          "content_type": "text/html; charset=utf-8",
+          "bytes": 161871
+        }
+      ],
+      "detail": ""
+    }
+  },
+  "_summary": {
+    "ok": [
+      "intl_dof_ph",
+      "intl_irs",
+      "intl_regfollower",
+      "kz_kgd",
+      "kz_kgd_almaty",
+      "kz_kgd_karaganda",
+      "kz_minfin",
+      "nl_belastingdienst_rulings",
+      "nl_douane",
+      "nl_rechtspraak",
+      "nl_taxence",
+      "nl_taxlive",
+      "ru_fns",
+      "ru_garant",
+      "ru_minfin"
+    ],
+    "failed": [
+      "intl_oecd_tax",
+      "ru_vs"
+    ],
+    "incomplete": [
+      "nl_fd:manual",
+      "ru_ras:manual",
+      "telegram_leads:manual"
+    ]
+  }
+}

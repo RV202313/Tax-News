@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="nl-NL">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v28.6 (Yoast SEO v28.6) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>Nieuwsberichten | Douane Nederland</title>
+	<link rel="canonical" href="https://www.douane.nl/nieuws/nieuwsberichten/" />
+	<link rel="next" href="https://www.douane.nl/nieuws/nieuwsberichten/page/2/" />
+	<meta property="og:locale" content="nl_NL" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nieuwsberichten" />
+	<meta property="og:description" content="Overzicht nieuwsberichten over de Nederlandse Douane." />
+	<meta property="og:url" content="https://www.douane.nl/nieuws/nieuwsberichten/" />
+	<meta property="og:site_name" content="Douane" />
+	<meta property="og:image" content="https://www.douane.nl/wp-content/uploads/2025/12/logo.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="675" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@Douane" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<script>
+window.koko_analytics = {"url":"https:\/\/www.douane.nl\/","site_url":"https:\/\/www.douane.nl","post_id":0,"path":"\/nieuws\/nieuwsberichten\/","method":"cookie","use_cookie":true};
+</script>
+<meta name="google-site-verification" content="VhMgaQS6DGRPDHVpxrsq6tyracGBAnHLwYxTRQF1tg8" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<link rel='stylesheet' id='wtblocks-style-css' href='https://www.douane.nl/wp-content/plugins/wt-blocks/build/style-index.css?ver=5.4.1' media='all' />
+<link rel='stylesheet' id='flexible_table_block_addon_style-css' href='https://www.douane.nl/wp-content/plugins/wt-flexible-table-block-addon/css/wt-flexible-table-block-addon.css?ver=14.10.6' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--gray-1: #f3f3f3;--wp--preset--color--gray-2: #e6e6e6;--wp--preset--color--gray-3: #cccccc;--wp--preset--color--gray-4: #b4b4b4;--wp--preset--color--gray-5: #999999;--wp--preset--color--gray-6: #696969;--wp--preset--color--gray-7: #535353;--wp--preset--color--purple-100: #42145f;--wp--preset--color--purple-60: #8d729f;--wp--preset--color--purple-30: #c6b9cf;--wp--preset--color--purple-15: #e3dce7;--wp--preset--color--violet-100: #a90061;--wp--preset--color--violet-60: #cb66a0;--wp--preset--color--violet-30: #e5b3d0;--wp--preset--color--violet-15: #f2d9e7;--wp--preset--color--rubyred-100: #ca005d;--wp--preset--color--rubyred-60: #df669d;--wp--preset--color--rubyred-30: #efb3ce;--wp--preset--color--rubyred-15: #f7d9e7;--wp--preset--color--pink-100: #f092cd;--wp--preset--color--pink-60: #f6bde1;--wp--preset--color--pink-30: #fbdef0;--wp--preset--color--pink-15: #fdeff8;--wp--preset--color--red-100: #d52b1e;--wp--preset--color--red-60: #e67f78;--wp--preset--color--red-30: #f2bfbc;--wp--preset--color--red-15: #f9dfdd;--wp--preset--color--orange-100: #e17000;--wp--preset--color--orange-60: #eda966;--wp--preset--color--orange-30: #f6d4b3;--wp--preset--color--orange-15: #fbead9;--wp--preset--color--darkyellow-100: #ffb612;--wp--preset--color--darkyellow-60: #fdd370;--wp--preset--color--darkyellow-30: #ffe9b8;--wp--preset--color--darkyellow-15: #fff4db;--wp--preset--color--yellow-100: #f9e11e;--wp--preset--color--yellow-60: #fbed78;--wp--preset--color--yellow-30: #fdf6bc;--wp--preset--color--yellow-15: #fefbdd;--wp--preset--color--darkbrown-100: #673327;--wp--preset--color--darkbrown-60: #a3847d;--wp--preset--color--darkbrown-30: #d1c2be;--wp--preset--color--darkbrown-15: #e8e0df;--wp--preset--color--brown-100: #94710a;--wp--preset--color--brown-60: #bfa96c;--wp--preset--color--brown-30: #dfd4b6;--wp--preset--color--brown-15: #efeada;--wp--preset--color--darkgreen-100: #275937;--wp--preset--color--darkgreen-60: #7d9b87;--wp--preset--color--darkgreen-30: #becdc3;--wp--preset--color--darkgreen-15: #dfe6e1;--wp--preset--color--green-100: #39870c;--wp--preset--color--green-60: #88b76d;--wp--preset--color--green-30: #c4dbb6;--wp--preset--color--green-15: #e1eddb;--wp--preset--color--mossgreen-100: #777b00;--wp--preset--color--mossgreen-60: #adaf66;--wp--preset--color--mossgreen-30: #d6d7b3;--wp--preset--color--mossgreen-15: #ebebd9;--wp--preset--color--mintgreen-100: #76d2b6;--wp--preset--color--mintgreen-60: #ace4d3;--wp--preset--color--mintgreen-30: #d6f2e9;--wp--preset--color--mintgreen-15: #eaf8f4;--wp--preset--color--darkblue-100: #01689b;--wp--preset--color--darkblue-60: #66a4c3;--wp--preset--color--darkblue-30: #b3d2e1;--wp--preset--color--darkblue-15: #d9e8f0;--wp--preset--color--skyblue-100: #007bc7;--wp--preset--color--skyblue-60: #66afdd;--wp--preset--color--skyblue-30: #b3d7ee;--wp--preset--color--skyblue-15: #d9ebf7;--wp--preset--color--lightblue-100: #8fcae7;--wp--preset--color--lightblue-60: #bcdff0;--wp--preset--color--lightblue-30: #ddeff8;--wp--preset--color--lightblue-15: #eef7fb;--wp--preset--color--logoblue-100: #154273;--wp--preset--color--logoblue-60: #738eab;--wp--preset--color--logoblue-30: #b8c6d5;--wp--preset--color--logoblue-15: #dce3ea;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-gray-1-color{color: var(--wp--preset--color--gray-1) !important;}.has-gray-2-color{color: var(--wp--preset--color--gray-2) !important;}.has-gray-3-color{color: var(--wp--preset--color--gray-3) !important;}.has-gray-4-color{color: var(--wp--preset--color--gray-4) !important;}.has-gray-5-color{color: var(--wp--preset--color--gray-5) !important;}.has-gray-6-color{color: var(--wp--preset--color--gray-6) !important;}.has-gray-7-color{color: var(--wp--preset--color--gray-7) !important;}.has-purple-100-color{color: var(--wp--preset--color--purple-100) !important;}.has-purple-60-color{color: var(--wp--preset--color--purple-60) !important;}.has-purple-30-color{color: var(--wp--preset--color--purple-30) !important;}.has-purple-15-color{color: var(--wp--preset--color--purple-15) !important;}.has-violet-100-color{color: var(--wp--preset--color--violet-100) !important;}.has-violet-60-color{color: var(--wp--preset--color--violet-60) !important;}.has-violet-30-color{color: var(--wp--preset--color--violet-30) !important;}.has-violet-15-color{color: var(--wp--preset--color--violet-15) !important;}.has-rubyred-100-color{color: var(--wp--preset--color--rubyred-100) !important;}.has-rubyred-60-color{color: var(--wp--preset--color--rubyred-60) !important;}.has-rubyred-30-color{color: var(--wp--preset--color--rubyred-30) !important;}.has-rubyred-15-color{color: var(--wp--preset--color--rubyred-15) !important;}.has-pink-100-color{color: var(--wp--preset--color--pink-100) !important;}.has-pink-60-color{color: var(--wp--preset--color--pink-60) !important;}.has-pink-30-color{color: var(--wp--preset--color--pink-30) !important;}.has-pink-15-color{color: var(--wp--preset--color--pink-15) !important;}.has-red-100-color{color: var(--wp--preset--color--red-100) !important;}.has-red-60-color{color: var(--wp--preset--color--red-60) !important;}.has-red-30-color{color: var(--wp--preset--color--red-30) !important;}.has-red-15-color{color: var(--wp--preset--color--red-15) !important;}.has-orange-100-color{color: var(--wp--preset--color--orange-100) !important;}.has-orange-60-color{color: var(--wp--preset--color--orange-60) !important;}.has-orange-30-color{color: var(--wp--preset--color--orange-30) !important;}.has-orange-15-color{color: var(--wp--preset--color--orange-15) !important;}.has-darkyellow-100-color{color: var(--wp--preset--color--darkyellow-100) !important;}.has-darkyellow-60-color{color: var(--wp--preset--color--darkyellow-60) !important;}.has-darkyellow-30-color{color: var(--wp--preset--color--darkyellow-30) !important;}.has-darkyellow-15-color{color: var(--wp--preset--color--darkyellow-15) !important;}.has-yellow-100-color{color: var(--wp--preset--color--yellow-100) !important;}.has-yellow-60-color{color: var(--wp--preset--color--yellow-60) !important;}.has-yellow-30-color{color: var(--wp--preset--color--yellow-30) !important;}.has-yellow-15-color{color: var(--wp--preset--color--yellow-15) !important;}.has-darkbrown-100-color{color: var(--wp--preset--color--darkbrown-100) !important;}.has-darkbrown-60-color{color: var(--wp--preset--color--darkbrown-60) !important;}.has-darkbrown-30-color{color: var(--wp--preset--color--darkbrown-30) !important;}.has-darkbrown-15-color{color: var(--wp--preset--color--darkbrown-15) !important;}.has-brown-100-color{color: var(--wp--preset--color--brown-100) !important;}.has-brown-60-color{color: var(--wp--preset--color--brown-60) !important;}.has-brown-30-color{color: var(--wp--preset--color--brown-30) !important;}.has-brown-15-color{color: var(--wp--preset--color--brown-15) !important;}.has-darkgreen-100-color{color: var(--wp--preset--color--darkgreen-100) !important;}.has-darkgreen-60-color{color: var(--wp--preset--color--darkgreen-60) !important;}.has-darkgreen-30-color{color: var(--wp--preset--color--darkgreen-30) !important;}.has-darkgreen-15-color{color: var(--wp--preset--color--darkgreen-15) !important;}.has-green-100-color{color: var(--wp--preset--color--green-100) !important;}.has-green-60-color{color: var(--wp--preset--color--green-60) !important;}.has-green-30-color{color: var(--wp--preset--color--green-30) !important;}.has-green-15-color{color: var(--wp--preset--color--green-15) !important;}.has-mossgreen-100-color{color: var(--wp--preset--color--mossgreen-100) !important;}.has-mossgreen-60-color{color: var(--wp--preset--color--mossgreen-60) !important;}.has-mossgreen-30-color{color: var(--wp--preset--color--mossgreen-30) !important;}.has-mossgreen-15-color{color: var(--wp--preset--color--mossgreen-15) !important;}.has-mintgreen-100-color{color: var(--wp--preset--color--mintgreen-100) !important;}.has-mintgreen-60-color{color: var(--wp--preset--color--mintgreen-60) !important;}.has-mintgreen-30-color{color: var(--wp--preset--color--mintgreen-30) !important;}.has-mintgreen-15-color{color: var(--wp--preset--color--mintgreen-15) !important;}.has-darkblue-100-color{color: var(--wp--preset--color--darkblue-100) !important;}.has-darkblue-60-color{color: var(--wp--preset--color--darkblue-60) !important;}.has-darkblue-30-color{color: var(--wp--preset--color--darkblue-30) !important;}.has-darkblue-15-color{color: var(--wp--preset--color--darkblue-15) !important;}.has-skyblue-100-color{color: var(--wp--preset--color--skyblue-100) !important;}.has-skyblue-60-color{color: var(--wp--preset--color--skyblue-60) !important;}.has-skyblue-30-color{color: var(--wp--preset--color--skyblue-30) !important;}.has-skyblue-15-color{color: var(--wp--preset--color--skyblue-15) !important;}.has-lightblue-100-color{color: var(--wp--preset--color--lightblue-100) !important;}.has-lightblue-60-color{color: var(--wp--preset--color--lightblue-60) !important;}.has-lightblue-30-color{color: var(--wp--preset--color--lightblue-30) !important;}.has-lightblue-15-color{color: var(--wp--preset--color--lightblue-15) !important;}.has-logoblue-100-color{color: var(--wp--preset--color--logoblue-100) !important;}.has-logoblue-60-color{color: var(--wp--preset--color--logoblue-60) !important;}.has-logoblue-30-color{color: var(--wp--preset--color--logoblue-30) !important;}.has-logoblue-15-color{color: var(--wp--preset--color--logoblue-15) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-gray-1-background-color{background-color: var(--wp--preset--color--gray-1) !important;}.has-gray-2-background-color{background-color: var(--wp--preset--color--gray-2) !important;}.has-gray-3-background-color{background-color: var(--wp--preset--color--gray-3) !important;}.has-gray-4-background-color{background-color: var(--wp--preset--color--gray-4) !important;}.has-gray-5-background-color{background-color: var(--wp--preset--color--gray-5) !important;}.has-gray-6-background-color{background-color: var(--wp--preset--color--gray-6) !important;}.has-gray-7-background-color{background-color: var(--wp--preset--color--gray-7) !important;}.has-purple-100-background-color{background-color: var(--wp--preset--color--purple-100) !important;}.has-purple-60-background-color{background-color: var(--wp--preset--color--purple-60) !important;}.has-purple-30-background-color{background-color: var(--wp--preset--color--purple-30) !important;}.has-purple-15-background-color{background-color: var(--wp--preset--color--purple-15) !important;}.has-violet-100-background-color{background-color: var(--wp--preset--color--violet-100) !important;}.has-violet-60-background-color{background-color: var(--wp--preset--color--violet-60) !important;}.has-violet-30-background-color{background-color: var(--wp--preset--color--violet-30) !important;}.has-violet-15-background-color{background-color: var(--wp--preset--color--violet-15) !important;}.has-rubyred-100-background-color{background-color: var(--wp--preset--color--rubyred-100) !important;}.has-rubyred-60-background-color{background-color: var(--wp--preset--color--rubyred-60) !important;}.has-rubyred-30-background-color{background-color: var(--wp--preset--color--rubyred-30) !important;}.has-rubyred-15-background-color{background-color: var(--wp--preset--color--rubyred-15) !important;}.has-pink-100-background-color{background-color: var(--wp--preset--color--pink-100) !important;}.has-pink-60-background-color{background-color: var(--wp--preset--color--pink-60) !important;}.has-pink-30-background-color{background-color: var(--wp--preset--color--pink-30) !important;}.has-pink-15-background-color{background-color: var(--wp--preset--color--pink-15) !important;}.has-red-100-background-color{background-color: var(--wp--preset--color--red-100) !important;}.has-red-60-background-color{background-color: var(--wp--preset--color--red-60) !important;}.has-red-30-background-color{background-color: var(--wp--preset--color--red-30) !important;}.has-red-15-background-color{background-color: var(--wp--preset--color--red-15) !important;}.has-orange-100-background-color{background-color: var(--wp--preset--color--orange-100) !important;}.has-orange-60-background-color{background-color: var(--wp--preset--color--orange-60) !important;}.has-orange-30-background-color{background-color: var(--wp--preset--color--orange-30) !important;}.has-orange-15-background-color{background-color: var(--wp--preset--color--orange-15) !important;}.has-darkyellow-100-background-color{background-color: var(--wp--preset--color--darkyellow-100) !important;}.has-darkyellow-60-background-color{background-color: var(--wp--preset--color--darkyellow-60) !important;}.has-darkyellow-30-background-color{background-color: var(--wp--preset--color--darkyellow-30) !important;}.has-darkyellow-15-background-color{background-color: var(--wp--preset--color--darkyellow-15) !important;}.has-yellow-100-background-color{background-color: var(--wp--preset--color--yellow-100) !important;}.has-yellow-60-background-color{background-color: var(--wp--preset--color--yellow-60) !important;}.has-yellow-30-background-color{background-color: var(--wp--preset--color--yellow-30) !important;}.has-yellow-15-background-color{background-color: var(--wp--preset--color--yellow-15) !important;}.has-darkbrown-100-background-color{background-color: var(--wp--preset--color--darkbrown-100) !important;}.has-darkbrown-60-background-color{background-color: var(--wp--preset--color--darkbrown-60) !important;}.has-darkbrown-30-background-color{background-color: var(--wp--preset--color--darkbrown-30) !important;}.has-darkbrown-15-background-color{background-color: var(--wp--preset--color--darkbrown-15) !important;}.has-brown-100-background-color{background-color: var(--wp--preset--color--brown-100) !important;}.has-brown-60-background-color{background-color: var(--wp--preset--color--brown-60) !important;}.has-brown-30-background-color{background-color: var(--wp--preset--color--brown-30) !important;}.has-brown-15-background-color{background-color: var(--wp--preset--color--brown-15) !important;}.has-darkgreen-100-background-color{background-color: var(--wp--preset--color--darkgreen-100) !important;}.has-darkgreen-60-background-color{background-color: var(--wp--preset--color--darkgreen-60) !important;}.has-darkgreen-30-background-color{background-color: var(--wp--preset--color--darkgreen-30) !important;}.has-darkgreen-15-background-color{background-color: var(--wp--preset--color--darkgreen-15) !important;}.has-green-100-background-color{background-color: var(--wp--preset--color--green-100) !important;}.has-green-60-background-color{background-color: var(--wp--preset--color--green-60) !important;}.has-green-30-background-color{background-color: var(--wp--preset--color--green-30) !important;}.has-green-15-background-color{background-color: var(--wp--preset--color--green-15) !important;}.has-mossgreen-100-background-color{background-color: var(--wp--preset--color--mossgreen-100) !important;}.has-mossgreen-60-background-color{background-color: var(--wp--preset--color--mossgreen-60) !important;}.has-mossgreen-30-background-color{background-color: var(--wp--preset--color--mossgreen-30) !important;}.has-mossgreen-15-background-color{background-color: var(--wp--preset--color--mossgreen-15) !important;}.has-mintgreen-100-background-color{background-color: var(--wp--preset--color--mintgreen-100) !important;}.has-mintgreen-60-background-color{background-color: var(--wp--preset--color--mintgreen-60) !important;}.has-mintgreen-30-background-color{background-color: var(--wp--preset--color--mintgreen-30) !important;}.has-mintgreen-15-background-color{background-color: var(--wp--preset--color--mintgreen-15) !important;}.has-darkblue-100-background-color{background-color: var(--wp--preset--color--darkblue-100) !important;}.has-darkblue-60-background-color{background-color: var(--wp--preset--color--darkblue-60) !important;}.has-darkblue-30-background-color{background-color: var(--wp--preset--color--darkblue-30) !important;}.has-darkblue-15-background-color{background-color: var(--wp--preset--color--darkblue-15) !important;}.has-skyblue-100-background-color{background-color: var(--wp--preset--color--skyblue-100) !important;}.has-skyblue-60-background-color{background-color: var(--wp--preset--color--skyblue-60) !important;}.has-skyblue-30-background-color{background-color: var(--wp--preset--color--skyblue-30) !important;}.has-skyblue-15-background-color{background-color: var(--wp--preset--color--skyblue-15) !important;}.has-lightblue-100-background-color{background-color: var(--wp--preset--color--lightblue-100) !important;}.has-lightblue-60-background-color{background-color: var(--wp--preset--color--lightblue-60) !important;}.has-lightblue-30-background-color{background-color: var(--wp--preset--color--lightblue-30) !important;}.has-lightblue-15-background-color{background-color: var(--wp--preset--color--lightblue-15) !important;}.has-logoblue-100-background-color{background-color: var(--wp--preset--color--logoblue-100) !important;}.has-logoblue-60-background-color{background-color: var(--wp--preset--color--logoblue-60) !important;}.has-logoblue-30-background-color{background-color: var(--wp--preset--color--logoblue-30) !important;}.has-logoblue-15-background-color{background-color: var(--wp--preset--color--logoblue-15) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-gray-1-border-color{border-color: var(--wp--preset--color--gray-1) !important;}.has-gray-2-border-color{border-color: var(--wp--preset--color--gray-2) !important;}.has-gray-3-border-color{border-color: var(--wp--preset--color--gray-3) !important;}.has-gray-4-border-color{border-color: var(--wp--preset--color--gray-4) !important;}.has-gray-5-border-color{border-color: var(--wp--preset--color--gray-5) !important;}.has-gray-6-border-color{border-color: var(--wp--preset--color--gray-6) !important;}.has-gray-7-border-color{border-color: var(--wp--preset--color--gray-7) !important;}.has-purple-100-border-color{border-color: var(--wp--preset--color--purple-100) !important;}.has-purple-60-border-color{border-color: var(--wp--preset--color--purple-60) !important;}.has-purple-30-border-color{border-color: var(--wp--preset--color--purple-30) !important;}.has-purple-15-border-color{border-color: var(--wp--preset--color--purple-15) !important;}.has-violet-100-border-color{border-color: var(--wp--preset--color--violet-100) !important;}.has-violet-60-border-color{border-color: var(--wp--preset--color--violet-60) !important;}.has-violet-30-border-color{border-color: var(--wp--preset--color--violet-30) !important;}.has-violet-15-border-color{border-color: var(--wp--preset--color--violet-15) !important;}.has-rubyred-100-border-color{border-color: var(--wp--preset--color--rubyred-100) !important;}.has-rubyred-60-border-color{border-color: var(--wp--preset--color--rubyred-60) !important;}.has-rubyred-30-border-color{border-color: var(--wp--preset--color--rubyred-30) !important;}.has-rubyred-15-border-color{border-color: var(--wp--preset--color--rubyred-15) !important;}.has-pink-100-border-color{border-color: var(--wp--preset--color--pink-100) !important;}.has-pink-60-border-color{border-color: var(--wp--preset--color--pink-60) !important;}.has-pink-30-border-color{border-color: var(--wp--preset--color--pink-30) !important;}.has-pink-15-border-color{border-color: var(--wp--preset--color--pink-15) !important;}.has-red-100-border-color{border-color: var(--wp--preset--color--red-100) !important;}.has-red-60-border-color{border-color: var(--wp--preset--color--red-60) !important;}.has-red-30-border-color{border-color: var(--wp--preset--color--red-30) !important;}.has-red-15-border-color{border-color: var(--wp--preset--color--red-15) !important;}.has-orange-100-border-color{border-color: var(--wp--preset--color--orange-100) !important;}.has-orange-60-border-color{border-color: var(--wp--preset--color--orange-60) !important;}.has-orange-30-border-color{border-color: var(--wp--preset--color--orange-30) !important;}.has-orange-15-border-color{border-color: var(--wp--preset--color--orange-15) !important;}.has-darkyellow-100-border-color{border-color: var(--wp--preset--color--darkyellow-100) !important;}.has-darkyellow-60-border-color{border-color: var(--wp--preset--color--darkyellow-60) !important;}.has-darkyellow-30-border-color{border-color: var(--wp--preset--color--darkyellow-30) !important;}.has-darkyellow-15-border-color{border-color: var(--wp--preset--color--darkyellow-15) !important;}.has-yellow-100-border-color{border-color: var(--wp--preset--color--yellow-100) !important;}.has-yellow-60-border-color{border-color: var(--wp--preset--color--yellow-60) !important;}.has-yellow-30-border-color{border-color: var(--wp--preset--color--yellow-30) !important;}.has-yellow-15-border-color{border-color: var(--wp--preset--color--yellow-15) !important;}.has-darkbrown-100-border-color{border-color: var(--wp--preset--color--darkbrown-100) !important;}.has-darkbrown-60-border-color{border-color: var(--wp--preset--color--darkbrown-60) !important;}.has-darkbrown-30-border-color{border-color: var(--wp--preset--color--darkbrown-30) !important;}.has-darkbrown-15-border-color{border-color: var(--wp--preset--color--darkbrown-15) !important;}.has-brown-100-border-color{border-color: var(--wp--preset--color--brown-100) !important;}.has-brown-60-border-color{border-color: var(--wp--preset--color--brown-60) !important;}.has-brown-30-border-color{border-color: var(--wp--preset--color--brown-30) !important;}.has-brown-15-border-color{border-color: var(--wp--preset--color--brown-15) !important;}.has-darkgreen-100-border-color{border-color: var(--wp--preset--color--darkgreen-100) !important;}.has-darkgreen-60-border-color{border-color: var(--wp--preset--color--darkgreen-60) !important;}.has-darkgreen-30-border-color{border-color: var(--wp--preset--color--darkgreen-30) !important;}.has-darkgreen-15-border-color{border-color: var(--wp--preset--color--darkgreen-15) !important;}.has-green-100-border-color{border-color: var(--wp--preset--color--green-100) !important;}.has-green-60-border-color{border-color: var(--wp--preset--color--green-60) !important;}.has-green-30-border-color{border-color: var(--wp--preset--color--green-30) !important;}.has-green-15-border-color{border-color: var(--wp--preset--color--green-15) !important;}.has-mossgreen-100-border-color{border-color: var(--wp--preset--color--mossgreen-100) !important;}.has-mossgreen-60-border-color{border-color: var(--wp--preset--color--mossgreen-60) !important;}.has-mossgreen-30-border-color{border-color: var(--wp--preset--color--mossgreen-30) !important;}.has-mossgreen-15-border-color{border-color: var(--wp--preset--color--mossgreen-15) !important;}.has-mintgreen-100-border-color{border-color: var(--wp--preset--color--mintgreen-100) !important;}.has-mintgreen-60-border-color{border-color: var(--wp--preset--color--mintgreen-60) !important;}.has-mintgreen-30-border-color{border-color: var(--wp--preset--color--mintgreen-30) !important;}.has-mintgreen-15-border-color{border-color: var(--wp--preset--color--mintgreen-15) !important;}.has-darkblue-100-border-color{border-color: var(--wp--preset--color--darkblue-100) !important;}.has-darkblue-60-border-color{border-color: var(--wp--preset--color--darkblue-60) !important;}.has-darkblue-30-border-color{border-color: var(--wp--preset--color--darkblue-30) !important;}.has-darkblue-15-border-color{border-color: var(--wp--preset--color--darkblue-15) !important;}.has-skyblue-100-border-color{border-color: var(--wp--preset--color--skyblue-100) !important;}.has-skyblue-60-border-color{border-color: var(--wp--preset--color--skyblue-60) !important;}.has-skyblue-30-border-color{border-color: var(--wp--preset--color--skyblue-30) !important;}.has-skyblue-15-border-color{border-color: var(--wp--preset--color--skyblue-15) !important;}.has-lightblue-100-border-color{border-color: var(--wp--preset--color--lightblue-100) !important;}.has-lightblue-60-border-color{border-color: var(--wp--preset--color--lightblue-60) !important;}.has-lightblue-30-border-color{border-color: var(--wp--preset--color--lightblue-30) !important;}.has-lightblue-15-border-color{border-color: var(--wp--preset--color--lightblue-15) !important;}.has-logoblue-100-border-color{border-color: var(--wp--preset--color--logoblue-100) !important;}.has-logoblue-60-border-color{border-color: var(--wp--preset--color--logoblue-60) !important;}.has-logoblue-30-border-color{border-color: var(--wp--preset--color--logoblue-30) !important;}.has-logoblue-15-border-color{border-color: var(--wp--preset--color--logoblue-15) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='search-filter-plugin-styles-css' href='https://www.douane.nl/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.21' media='all' />
+<link rel='stylesheet' id='wt_style-css' href='https://www.douane.nl/wp-content/themes/webthema/build/css/wt-theme-rijksoverheid.css?ver=7.9.3' media='all' />
+<style id="wt_style-inline-css">
+body {--wt-theme-domain-color:var(--wp--preset--color--mintgreen-100);--wt-theme-domain-text-color:var(--wp--preset--color--black);--wt-theme-domain-60-color:var(--wp--preset--color--mintgreen-60);--wt-theme-domain-30-color:var(--wp--preset--color--mintgreen-30);--wt-theme-domain-15-color:var(--wp--preset--color--mintgreen-15);--wt-theme-contrast-color:var(--wp--preset--color--darkgreen-100);--wt-theme-contrast-text-color:var(--wp--preset--color--white);}
+/*# sourceURL=wt_style-inline-css */
+</style>
+<script id="wp-polyfill-js" src="https://www.douane.nl/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"></script>
+<script id="wp-dom-ready-js" src="https://www.douane.nl/wp-includes/js/dist/dom-ready.min.js?ver=3fe927cab37bf38d6a23"></script>
+<script id="jquery-core-js" src="https://www.douane.nl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.douane.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="wt_script-js-extra">
+var wtScriptL10n = {"ariaExtLink":"U verlaat deze website","ariaNewTab":"Deze link wordt geopend in een nieuw tabblad of venster","signupFieldDesc":{"user_email":"De registratiebevestiging wordt via e-mail toegestuurd."}};
+var wtDialogComponentL10n = {"closeButtonLabel":"Sluit dit dialoog","backButtonLabel":"Terug"};
+var wtValidateL10n = {"noCommentFound":"U hebt de reactie nog niet ingevuld. Vul de reactie in.","noNameFound":"U hebt de naam nog niet ingevuld. Vul de naam in.","noEmailFound":"U hebt het e-mailadres nog niet ingevuld. Vul het e-mailadres in.","emailNotValid":"U hebt geen geldig e-mailadres ingevuld. Controleer het e-mailadres.","fieldMandatory":"Veld is verplicht","emailInvalid":"Emailadres niet geldig","valueNotNumeric":"Waarde niet numeriek"};
+var wtLinkIcon = {"is_internal_link_regex":"^https?:\\/\\/([a-z0-9-]+\\.)*douane\\.nl"};
+var wtThemeInfo = {"url":"https://www.douane.nl/wp-content/themes/webthema","version":"7.9.3"};
+//# sourceURL=wt_script-js-extra
+</script>
+<script id="wt_script-js" src="https://www.douane.nl/wp-content/themes/webthema/build/js/wt.js?ver=7.9.3"></script>
+<meta name="format-detection" content="telephone=no" /></head>
+
+<body class="blog wp-theme-webthema wp-theme-webthema-variant-rijksoverheid nl_NL_formal">
+		<noscript>
+	<div class="wt-no-js">
+		<div class="wt-logo-box">
+			<a class="wt-logo-box" href="https://www.douane.nl">
+				<img
+					src="https://www.douane.nl/wp-content/themes/webthema/assets/themes/rijksoverheid/logos/logo_douane_nl.svg?v=7.9.3"
+					alt="Logo Douane - Ministerie van Financiën, onderdeel van de Rijksoverheid - Naar de homepagina van Douane Nederland"
+				/>
+			</a>
+		</div>
+		<p>
+			Javascript is uitgeschakeld in deze internetbrowser. Om deze site te bekijken, moet u <a href="https://www.enable-javascript.com/">Javascript inschakelen</a>.		</p>
+	</div>
+</noscript>
+	
+<!-- skiplink-to-content -->
+<a
+	class="wt-skiplink-button"
+	href="#main-content"
+	id="main-skip-link"
+>
+	Ga direct naar de inhoud	<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_rechts" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_rechts"></use></svg></a>
+<!-- skiplink-to-content -->
+
+<!-- skiplink-to-filters -->
+<a
+	id="filters-skip-link"
+	class="wt-skiplink-button"
+	href="#wt-filters"
+>
+	Ga direct naar de filters	<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_rechts" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_rechts"></use></svg></a>
+<!-- skiplink-to-filters -->
+<!-- skiplink-to-footer -->
+<a class="wt-skiplink-button" href="#wt-footer">Ga direct naar de footer	<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_rechts" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_rechts"></use></svg></a>
+<!-- skiplink-to-footer -->
+	<!-- &wt-wrapper -->
+	<div id="wt-wrapper">
+		<header>
+			<div class="wt-row">
+	<div class="wt-col-sm-12 wt-logo-container">
+		<div class="wt-logo-box">
+			<a href="https://www.douane.nl" class="wt-image-focus">
+				<img src="https://www.douane.nl/wp-content/themes/webthema/assets/themes/rijksoverheid/logos/logo_douane_nl.svg?v=7.9.3" alt="Logo Douane - Ministerie van Financiën, onderdeel van de Rijksoverheid - Naar de homepagina van Douane Nederland">
+			</a>
+		</div>
+	</div>
+</div>
+		</header>
+		<div class="wt-navbar-wrapper">
+			
+<div class="wt-navbar" data-menu-type="tab"
+	data-has-menu="true">
+	<div class="wt-align-container">
+		<nav aria-label="Hoofdnavigatie">
+			<div class="wt-navbar-items">
+				<!-- hamburger menu -->
+				<div class="wt-navbar-item wt-navbar-hamburger-menu">
+					<button class="wt-navbar-button wt-toggle has-text" data-target="#wt-hamburger-menu-dropdown"
+						data-toggle-animation="false" aria-expanded="false" aria-controls="wt-hamburger-menu-dropdown">
+						<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-menu" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#menu"></use></svg>Menu					</button>
+					<div class="wt-navbar-dropdown-menu wt-navbar-dropdown-align-left" id="wt-hamburger-menu-dropdown">
+						<ul class="wt-navbar-menu"><li><a class="wt-navbar-button has-text wt-navbar-home-button " href="https://www.douane.nl" aria-label="Naar de homepage van Douane"><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-home" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#home"></use></svg>Douane</a></li><li class="menu-item-5126"><a class="wt-navbar-button has-text" href="https://www.douane.nl/nieuws/">Nieuws</a></li>
+<li class="menu-item-5130 has-children"><button class="wt-navbar-button has-text wt-toggle" data-target=".menu-item-5130 .wt-navbar-dropdown-menu" data-toggle-animation="false">Onderwerpen<span class="wt-toggle-icons"><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_omlaag" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_omlaag"></use></svg><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_omhoog" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_omhoog"></use></svg></span></button><ul class="wt-navbar-dropdown-menu"><li class="menu-item-10002"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/reizen-en-vakantie/">Reizen en vakantie</a></li>
+<li class="menu-item-10003"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/online-shoppen-en-pakketpost/">Online shoppen en pakketpost</a></li>
+<li class="menu-item-10005"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/invoer-en-uitvoer/">Invoer en uitvoer</a></li>
+<li class="menu-item-10009"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/aangiftesystemen/">Aangiftesystemen</a></li>
+<li class="menu-item-10004"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/vergunningen/">Vergunningen</a></li>
+<li class="menu-item-10006"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/accijns-en-verbruiksbelasting/">Accijns en verbruiksbelasting</a></li>
+<li class="menu-item-10008"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/goederenvervoer/">Goederenvervoer</a></li>
+<li class="menu-item-10007"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/internationaal-spullen-verhuizen/">Internationaal spullen verhuizen</a></li>
+<li class="menu-item-10010"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/vgem/">Veiligheid, gezondheid, economie en milieu (VGEM)</a></li>
+<li class="menu-item-10011"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/">Alle onderwerpen</a></li>
+</ul>
+</li>
+<li class="menu-item-5128"><a class="wt-navbar-button has-text" href="https://www.douane.nl/kennisbank/">Kennisbank</a></li>
+<li class="menu-item-13431"><a class="wt-navbar-button has-text" href="https://www.douane.nl/over-de-douane/">Over de Douane</a></li>
+<li class="menu-item-5129"><a class="wt-navbar-button has-text" href="https://www.douane.nl/contact/">Contact</a></li>
+</ul>					</div>
+				</div>
+				<!-- home button -->
+				<div class="wt-navbar-item wt-navbar-home">
+					<a class="wt-navbar-button has-text wt-navbar-home-button " href="https://www.douane.nl" aria-label="Naar de homepage van Douane"><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-home" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#home"></use></svg>Douane</a>				</div>
+				<!-- tab menu -->
+								<div class="wt-navbar-item wt-navbar-tab-menu">
+					<ul class="wt-navbar-menu"><li><a class="wt-navbar-button has-text wt-navbar-home-button " href="https://www.douane.nl" aria-label="Naar de homepage van Douane"><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-home" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#home"></use></svg>Douane</a></li><li class="menu-item-5126"><a class="wt-navbar-button has-text" href="https://www.douane.nl/nieuws/">Nieuws</a></li>
+<li class="menu-item-5130 has-children"><button class="wt-navbar-button has-text wt-toggle" data-target=".menu-item-5130 .wt-navbar-dropdown-menu" data-toggle-animation="false">Onderwerpen<span class="wt-toggle-icons"><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_omlaag" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_omlaag"></use></svg><svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_omhoog" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_omhoog"></use></svg></span></button><ul class="wt-navbar-dropdown-menu"><li class="menu-item-10002"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/reizen-en-vakantie/">Reizen en vakantie</a></li>
+<li class="menu-item-10003"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/online-shoppen-en-pakketpost/">Online shoppen en pakketpost</a></li>
+<li class="menu-item-10005"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/invoer-en-uitvoer/">Invoer en uitvoer</a></li>
+<li class="menu-item-10009"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/aangiftesystemen/">Aangiftesystemen</a></li>
+<li class="menu-item-10004"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/vergunningen/">Vergunningen</a></li>
+<li class="menu-item-10006"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/accijns-en-verbruiksbelasting/">Accijns en verbruiksbelasting</a></li>
+<li class="menu-item-10008"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/goederenvervoer/">Goederenvervoer</a></li>
+<li class="menu-item-10007"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/internationaal-spullen-verhuizen/">Internationaal spullen verhuizen</a></li>
+<li class="menu-item-10010"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/vgem/">Veiligheid, gezondheid, economie en milieu (VGEM)</a></li>
+<li class="menu-item-10011"><a class="wt-navbar-button has-text" href="https://www.douane.nl/onderwerpen/">Alle onderwerpen</a></li>
+</ul>
+</li>
+<li class="menu-item-5128"><a class="wt-navbar-button has-text" href="https://www.douane.nl/kennisbank/">Kennisbank</a></li>
+<li class="menu-item-13431"><a class="wt-navbar-button has-text" href="https://www.douane.nl/over-de-douane/">Over de Douane</a></li>
+<li class="menu-item-5129"><a class="wt-navbar-button has-text" href="https://www.douane.nl/contact/">Contact</a></li>
+</ul>				</div>
+								<!--search -->
+								<div class="wt-navbar-item wt-navbar-search">
+					<button class="wt-navbar-button wt-toggle" data-target="#wt-search-dropdown"
+						data-toggle-animation="false" aria-expanded="false" aria-controls="wt-search-dropdown">
+						<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-zoek" aria-label="Zoekveld"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#zoek"></use></svg>					</button>
+					<div class="wt-navbar-dropdown-menu wt-navbar-dropdown-align-right" id="wt-search-dropdown">
+						
+<form role="search" class="wt-search-form" action="https://www.douane.nl/"
+	aria-label="Sitebreed">
+	<label for="sf-input-search-large" > Zoeken </label>
+		<div class="wt-search-input-group">
+
+			
+				<input id="sf-input-search-large" class="sf-input-search" type="text"
+					value=""
+					aria-label="Zoeken" maxlength="256" name="_sf_s"
+				/>
+				<input type="hidden" name="sfid" value="44" />
+
+			
+			<button aria-label="Zoeken" type="submit">
+				<svg width="22.4px" height="22.4px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-icon-search wt-svg-icon-zoek" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#zoek"></use></svg>							</button>
+		</div>
+</form>
+					</div>
+				</div>
+								<!-- login menu -->
+								<div class="wt-navbar-item wt-navbar-login-menu">
+										<a class="wt-navbar-button has-text" href="https://www.douane.nl/douane-portalen/?wp_lang=nl_NL_formal">
+						<svg width="18px" height="18px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-gebruiker" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#gebruiker"></use></svg>						Inloggen					</a>
+									</div>
+							</div>
+		</nav>
+	</div>
+</div>
+			
+	<nav class="wt-breadcrumbs hidden-xs" aria-label="Boordkruimelnavigatie">
+		<div class="wt-align-container">
+			<div class="wt-align-container-inner">
+				<ol><li><a href="https://www.douane.nl"><svg width="16px" height="16px" viewBox="0 0 16 16"
+		class="wt-svg-icon wt-navbar-button-icon wt-svg-icon-home" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#home"></use></svg>Home</a></li><li><span class="wt-breadcrumb-seperator"><svg width="16px" height="16px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-delta_rechts" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#delta_rechts"></use></svg></span><span class="wt-breadcrumb-name current-item">Nieuwsberichten</span></li></ol>			</div>
+		</div>
+	</nav>
+		</div>
+		<div id="wt-content">
+			<div id="wt-content-inner">
+<section class="wt-align-container">
+
+	<div class="wt-row">
+
+		<div id="wt-filters"
+			class="wt-col-sm-3 wt-vertical-sidebar wt-left-vertical-sidebar">
+					</div>
+
+		<div
+			class="wt-col-sm-3 wt-vertical-sidebar wt-right-vertical-sidebar">
+					</div>
+
+		<div class="wt-col-sm-6">
+			<div class="wt-archive" id="main-content">
+				<h1>Nieuwsberichten</h1>
+									<ol class="wt-archive-list" start="1">
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/">
+		Aantal e-commerceaangiften blijft dalen	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">13-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Drie maanden na het afschaffen van de vrijstelling van invoerrechten ziet de Douane nog steeds een flinke daling van het aantal e-commerceaangiften en een stijging van reguliere zendingen. Dit betekent waarschijnlijk dat bedrijven meer gebundeld...</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorieën</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/"
+				aria-label="Zoekresultaten voor &#039;Alle nieuwsberichten&#039;"
+			>Alle nieuwsberichten</a></li>
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-particulieren/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor particulieren&#039;"
+			>Nieuws voor particulieren</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/producenten-dranken-vleugje-zuivel-aangifte-verbruiksbelasting/">
+		Producenten dranken vleugje zuivel doen vanaf 2027 aangifte verbruiksbelasting	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">12-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=melding "
+							aria-label="Zoekresultaten voor &#039;Melding&#039;"
+						>Melding</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Als u dranken met een vleugje zuivel produceert, moet u vanaf 1 januari 2027 aangifte verbruiksbelasting doen. U moet in sommige gevallen ook een vergunning aanvragen of uw bestaande vergunning aanpassen.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorieën</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/melding/"
+				aria-label="Zoekresultaten voor &#039;Melding&#039;"
+			>Melding</a></li>
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/stand-van-zaken-en-toekomstblik-certex/">
+		Stand van zaken en toekomstblik CERTEX	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">07-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>De Douane werkt sinds 2025 stapsgewijs aan de implementatie van CERTEX. 11 niet-douaneformaliteiten zijn al aangesloten. De komende jaren koppelen we meer niet-douaneformaliteiten aan CERTEX.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/douane-in-kamer-meer-middelen-nodig-in-strijd-tegen-criminelen/">
+		Douane in Kamer: 'Meer middelen nodig in strijd tegen criminelen'	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-col-sm-12 wt-col-md-12 wt-col-lg-5">
+			<div class="wt-archive-post-image">
+				<img width="2560" height="1707" src="https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" decoding="async" srcset="https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-scaled.jpg 2560w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-300x200.jpg 300w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-800x533.jpg 800w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-768x512.jpg 768w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-1600x1067.jpg 1600w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-1536x1024.jpg 1536w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-2048x1365.jpg 2048w, https://www.douane.nl/wp-content/uploads/2026/10/Bronbestand_et6yzlo_Douane_aan_het_werk-1320x880.jpg 1320w" sizes="auto, (max-width: 2560px) 100vw, 2560px" />			</div>
+		</div>
+		<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-7">
+	
+					<p class="wt-post-date">07-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=achtergrond "
+							aria-label="Zoekresultaten voor &#039;Achtergrond&#039;"
+						>Achtergrond</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Directeur-generaal Nanette van Schelven waarschuwt in de Tweede Kamer dat er meer capaciteit en middelen nodig zijn om criminele dreiging te bestrijden.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/achtergrondartikelen/"
+				aria-label="Zoekresultaten voor &#039;Achtergrond&#039;"
+			>Achtergrond</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/communiceren-accijnsheffing-verbruiksbelasting-na-1-oktober-hetzelfde/">
+		Manier van communiceren over accijnsheffing en verbruiksbelasting na 1 oktober hetzelfde	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">01-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Op 1 oktober gaat de nieuwe regeling berichtenverkeer Belastingdienst in. De manier waarop u nu met ons communiceert over accijnsheffing en verbruiksbelasting blijft voor nu na 1 oktober hetzelfde: digitaal of schriftelijk.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/"
+				aria-label="Zoekresultaten voor &#039;Alle nieuwsberichten&#039;"
+			>Alle nieuwsberichten</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/18-kilo-cocaine-uit-mexico-op-schiphol/">
+		Douane onderschept 18 kilo cocaïne op Schiphol	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">01-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>De Douane heeft op dinsdag 29 september 18 kilo cocaïne aangetroffen bij een bemanningslid op Schiphol. De drugs waren verdeeld over 18 pakketten en werden ontdekt tijdens een controle van een vlucht uit Mexico.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/vondsten/"
+				aria-label="Zoekresultaten voor &#039;Vondsten&#039;"
+			>Vondsten</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/vanaf-1-november-productidentificatie-verplicht-in-aangifte-e-commerce/">
+		Vanaf 1 november productidentificatie verplicht in aangifte e-commerce	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">01-10-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Bedrijven die e-commercezendingen van maximaal € 150 euro aangeven bij de Douane, moeten vanaf 1 november 2026 productidentificatiecodes vermelden in hun aangifte. Deze verplichting geldt in de hele Europese Unie (EU).</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/">
+		Invoeraangifte staalproducten: zo geeft u het land van smelten en gieten aan	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">30-09-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Vanaf 1 oktober 2026 moet u bij de invoer van bepaalde staalproducten in de EU het land van smelten en gieten aangeven. U moet hiervoor de juiste documentcodes voor het land en voor het bewijsstuk...</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/staalproducten-werkwijze-uitputting-landspecifiek-tariefcontingent/">
+		Vrijwaringsmaatregelen staalproducten: werkwijze bij uitputting landspecifiek tariefcontingent	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">30-09-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>Doet u invoeraangifte voor staalproducten en is het landspecifieke tariefcontingent voor uw staalproduct uitgeput? Dan kunt u soms gebruikmaken van een aanvullend contingent.</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/nieuws-bedrijven/"
+				aria-label="Zoekresultaten voor &#039;Nieuws voor bedrijven&#039;"
+			>Nieuws voor bedrijven</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+																				<li class="wt-archive-post">
+								
+<h2 class="wt-archive-post-title">
+	<a class="wt-archive-post-title-link" href="https://www.douane.nl/zo-controleert-de-douane/">
+		Zo controleert de Douane bagage van passagiers op sanctiegoederen	</a>
+</h2>
+
+<div class="wt-row">
+			<div class="wt-archive-post-content wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+	
+					<p class="wt-post-date">30-09-2026 - </p>
+		
+		<div class="wt-post-message-types">
+					<div class="wt-post-message-types__type-wrapper">
+						<a
+							href="https://www.douane.nl?sfid=44&#038;_sft_message_types=nieuwsbericht "
+							aria-label="Zoekresultaten voor &#039;Nieuwsbericht&#039;"
+						>Nieuwsbericht</a>
+					</div>
+				</div><span class="wt-post-message-types__divider">&nbsp;-&nbsp;</span>
+					<p>De Douane heeft op woensdag 23 september een vlucht uit Tel Aviv gecontroleerd. Naar aanleiding van die controle heeft de Douane meerdere vragen gekregen en zijn er ook verschillende berichten verschenen. In dit bericht wordt...</p>
+		
+					<div class="wt-archive-post-categories">
+				
+	<span>
+	Categorie</span>
+
+<ul class="wt-post-cat-list">
+			<li><a
+				href="https://www.douane.nl/category/alle-nieuwsberichten/"
+				aria-label="Zoekresultaten voor &#039;Alle nieuwsberichten&#039;"
+			>Alle nieuwsberichten</a></li>
+	</ul>
+			</div>
+			</div>
+</div>
+							</li>
+											</ol>
+								
+<nav class="wt-pagination-row" aria-label="Meer berichten" aria-roledescription="pagination">
+
+	<div class="wt-pagination-pages">
+		<ul>
+
+			
+			<li><span aria-current="page" class="page-numbers current page-number"><span class="wt-visually-hidden">Pagina</span>1</span></li><li><a class="page-numbers page-number" href="https://www.douane.nl/nieuws/nieuwsberichten/page/2/"><span class="wt-visually-hidden">Pagina</span>2</a></li><li><a class="page-numbers page-number" href="https://www.douane.nl/nieuws/nieuwsberichten/page/3/"><span class="wt-visually-hidden">Pagina</span>3</a></li><li><span class="page-numbers dots page-number">&hellip;</span></li><li><a class="page-numbers page-number" href="https://www.douane.nl/nieuws/nieuwsberichten/page/20/"><span class="wt-visually-hidden">Pagina</span>20</a></li>
+							<li class="wt-pagination-next">
+					<a href="https://www.douane.nl/nieuws/nieuwsberichten/page/2/"
+						class="wt-pagination-next"
+						aria-label="Volgende pagina">
+						<span class="hidden-xs wt-pagination-next-text">Volgende</span>
+						<svg width="16px" height="16px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-pijl_rechts" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#pijl_rechts"></use></svg>					</a>
+				</li>
+					</ul>
+	</div>
+
+</div>
+			</div>
+		</div>
+	</div>
+
+</section>
+
+		</div><!-- wt-content-inner -->
+	</div><!-- wt-content -->
+	<footer id="wt-footer" class="has-domain-15-background-color">
+		<h2 class="wt-visually-hidden">Algemene informatie</h2>
+				<div class="wt-footer-flexible">
+			
+<div class="wt-blocks-layer-container wt-row">
+<div class="wt-blocks-layer-column"><h3>Service</h3>
+<ul class="wp-block-wtblocks-linklist wt-arrow-linklist">
+<li><a href="https://www.douane.nl/contact">Contact</a></li>
+
+
+
+<li><a href="https://www.douane.nl/archief">Archief</a></li>
+
+
+
+<li><a href="https://www.douane.nl/kwetsbaarheid-melden">Kwetsbaarheid melden</a></li>
+</ul>
+
+
+
+<ul class="wp-block-wtblocks-linklist wt-arrow-linklist">
+<li><a href="https://www.douane.nl/contact/e-maildisclaimer/" data-type="page" data-id="15296">E-maildisclaimer</a></li>
+</ul>
+</div>
+
+
+
+<div class="wt-blocks-layer-column"><h3>Onze websites</h3>
+<ul class="wp-block-wtblocks-linklist wt-arrow-linklist">
+<li><a href="https://werken.douane.nl" target="_blank" rel="noreferrer noopener">Werken bij de Douane</a></li>
+
+
+
+<li><a href="https://nh.douane.nl" target="_blank" rel="noreferrer noopener">Nationale Helpdesk Douane</a></li>
+
+
+
+<li><a href="https://www.douane.nl/en">English</a></li>
+</ul>
+</div>
+
+
+
+<div class="wt-blocks-layer-column"><h3>Volg ons</h3>
+<ul class="wp-block-wtblocks-linklist wt-arrow-linklist">
+<li><a href="https://www.facebook.com/douane">Facebook</a></li>
+
+
+
+<li><a href="https://www.instagram.com/douane_nl/">Instagram</a></li>
+
+
+
+<li><a href="https://nl.linkedin.com/company/douane-nederland">LinkedIn</a></li>
+
+
+
+<li><a href="https://www.linkedin.com/showcase/douane-nederland-zakelijk">LinkedIn zakelijk</a></li>
+
+
+
+<li><a href="https://www.douane.nl/abonneren/" data-type="page" data-id="6107">Abonneren op nieuws</a></li>
+</ul>
+</div>
+</div>
+		</div>
+				<div class="wt-footer-fixed">
+			<div class="wt-blocks-layer-container">
+				<div class="wt-blocks-layer-column wt-col-xs-12 wt-col-sm-12 wt-col-md-12 wt-col-lg-12">
+					<div class="wt-blocks-layer-column-inner has-transparent-background-color">
+						<ul>
+															<li><a href="https://www.douane.nl/privacy">Privacy</a></li>
+							
+															<li><a href="https://www.douane.nl/cookies">Cookies</a></li>
+							
+															<li><a href="https://www.douane.nl/copyright">Copyright</a>
+							</li>
+							
+															<li><a href="https://dashboard.digitoegankelijk.nl/organisaties/820">Toegankelijkheid</a></li>
+							
+							<li>
+								<a href="#">Terug naar boven <svg width="16px" height="16px" viewBox="0 0 16 16"
+		class="wt-svg-icon  wt-svg-icon-pijl_omhoog" inert aria-hidden="true"><use
+			href="https://www.douane.nl/wp-content/themes/webthema/build/icons/icons.svg?ver=7.9.3#pijl_omhoog"></use></svg></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div><!-- &wt-wrapper -->
+
+<!-- Koko Analytics v2.5.3 - https://www.kokoanalytics.com/ -->
+<script>
+(()=>{var e=window.koko_analytics,s=["utm_source","utm_medium","utm_campaign"],d=/bot|crawl|spider|seo|lighthouse|facebookexternalhit|preview|prerender|headless|phantom|scrapy|python|curl|wget|go-http|okhttp|node-fetch|axios|java\/|libwww|http[-_]?client|monitor|uptime|pingdom|statuscake|validator|scanner/i;function u(){let t={},n=new URLSearchParams(window.location.search),c=new URLSearchParams(window.location.hash.substring(1));return s.forEach(a=>{let o=n.get(a)||c.get(a);o&&(t[a]=o)}),t}function h(t,n){if(typeof navigator.sendBeacon=="function"){navigator.sendBeacon(t,n);return}fetch(t,{method:"POST",body:n,keepalive:!0,credentials:"same-origin"}).catch(()=>{})}e.trackPageview=function(t,n){if(d.test(navigator.userAgent)||window._phantom||window.__nightmare||window.navigator.webdriver||window.Cypress){console.debug("Koko Analytics: Ignoring call to trackPageview because user agent is a bot or this is a headless browser.");return}h(e.url,new URLSearchParams({action:"koko_analytics_collect",pa:t,po:n,r:document.referrer.indexOf(e.site_url)==0?"":document.referrer,m:e.use_cookie?"c":e.method[0],...u()}))};function r(){e.trackPageview(e.path,e.post_id)}function i(){e.autotracked||(r(),e.autotracked=!0)}document.prerendering?document.addEventListener("prerenderingchange",i,{once:!0}):document.visibilityState==="hidden"||document.visibilityState==="prerender"?document.addEventListener("visibilitychange",()=>{document.visibilityState==="visible"&&i()}):i();window.addEventListener("pageshow",t=>{t.persisted&&r()});})();
+</script>
+
+<script id="wp-hooks-js" src="https://www.douane.nl/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="https://www.douane.nl/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wtblocks_frontend-js-extra">
+var wtBlocks = {"nonce":"1413073b24","api_url":"https://www.douane.nl/wp-json/","post_id":"17888"};
+//# sourceURL=wtblocks_frontend-js-extra
+</script>
+<script id="wtblocks_frontend-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wt-blocks", {"translation-revision-date":"2026-10-01 13:26+0200","generator":"WP-CLI\/2.12.0","source":"build\/frontend.js","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","lang":"nl_NL","plural-forms":"nplurals=2; plural=(n != 1);"},"Time":["Tijdstip"],"Select a day first":["Kies eerst een datum"],"results":["resultaten"],"An error occurred":["Er is een fout opgetreden"],"You cannot make any more appointments":["U kunt geen afspraken meer maken"],"You can schedule %d of call appointments per phone number. You can schedule another appointment when the first call appointment has taken place or has been cancelled.":["Per telefoonnummer kunt u %d belafspraken plannen. U kunt weer een afspraak maken als de eerste belafspraak heeft plaatsgevonden of geannuleerd is."],"Callback not possible":["Terugbellen niet mogelijk"],"Callbacks to this phone number are not possible. You can make an appointment for another phone number.":["Terugbellen naar dit telefoonnummer is niet mogelijk. U kunt een afspraak maken voor een ander telefoonnummer."],"Time not available":["Tijdstip niet beschikbaar"],"The time you selected is not available (anymore). You can make an appointment for another time.":["Het door u gekozen tijdstip is niet (meer) beschikbaar. U kunt een afspraak maken voor een ander tijdstip."],"No data found.":["Geen gegevens gevonden."],"result":["resultaat"],"Show details":["Toon details"],"Filter by %s":["Filter op %s"],"Remove filter: %s":["Verwijder filter: %s"],"Current filters:":["Gekozen filters:"],"Reset filters":["Filters wissen"],"Search the table by text":["De tabel doorzoeken op tekst"],"Search filter":["Zoek filter"],"Search":["Zoeken"],"Details for":["Details voor"],"Show items under: %s":["Toon items onder: %s"],"Open link to: %s":["Open link naar: %s"],"Back to: %s":["Terug naar: %s"],"Close navigation":["Sluit navigatie"]}}} );
+//# sourceURL=wtblocks_frontend-js-translations
+</script>
+<script id="wtblocks_frontend-js" src="https://www.douane.nl/wp-content/plugins/wt-blocks/build/frontend.js?ver=5.4.1"></script>
+
+<!-- Koko Analytics Pro v2.4.7 - https://www.kokoanalytics.com/ -->
+<script>
+(()=>{(function(){let a="koko_analytics";function s(t){t.m=window[a].use_cookie?"c":window[a].method[0],navigator.sendBeacon(window[a].url,new URLSearchParams(t))}function c(t,e,n){/bot|crawl|spider|seo|lighthouse|facebookexternalhit|preview/i.test(navigator.userAgent)||document.visibilityState==="hidden"||window._phantom||window.__nightmare||window.navigator.webdriver||window.Cypress||(n===void 0&&typeof e=="number"&&(n=parseFloat(e),e=""),e&&(e=" "+e),s({action:"koko_analytics_collect",e:t,p:e||"",v:parseInt((n||0)*100)}))}function r(t){var e=t.target,n=0,i,o;do i=e.className.match(/koko-analytics-event-name=([^ ]+)/),i&&(i=i.pop().replaceAll("+"," "),o=e.className.match(/koko-analytics-event-param=([^ ]+)/),o=o&&o.pop().replaceAll("+"," "));while(n++<3&&e.parentElement);i&&c(i,o)}window[a].trackEvent=c,document.addEventListener("submit",r),document.addEventListener("click",r)})();})();
+
+(()=>{document.addEventListener("click",function(t){for(var e=t.target;e.tagName!=="A"&&e.parentElement;)e=e.parentElement;e.tagName!=="A"||typeof e.href!="string"||e.href.indexOf("http")===-1||e.href.indexOf(window.location.host)>-1||window.koko_analytics.trackEvent("Outbound link",e.href)});})();
+;
+(()=>{document.addEventListener("submit",function(t){if(t.target.tagName==="FORM"){var a=String(window.location.href).replaceAll(/#.*/g,"");t.target.id&&(a+="#"+t.target.id),window.koko_analytics.trackEvent("Form submit",a)}});})();
+;
+</script>
+
+</body>
+</html>

@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-17",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 513,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/oecd-updates-mli-arbitration-profiles-for-australia-japan-and-the-netherlands/",
+      "ecli": "",
+      "act": "",
+      "title": "OECD updates MLI arbitration profiles for Australia, Japan, and the Netherlands",
+      "summary": "The OECD has published updated arbitration profiles for the Netherlands, Australia, and Japan under the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting (MLI). Part VI of the MLI allows jurisdictions that opt to apply it to use mandatory binding arbitration to resolve tax treaty disputes. The arbitration...",
+      "published_at": "2026-09-17",
+      "score": 19.0,
+      "topics": [
+        "advance_rulings",
+        "dta",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 514,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/azerbaijan-cambodia-agree-on-tax-provisions-in-draft-income-tax-treaty/",
+      "ecli": "",
+      "act": "",
+      "title": "Azerbaijan, Cambodia agree on tax provisions in draft income tax treaty",
+      "summary": "Azerbaijan’s State Tax Service announced that Azerbaijan has concluded the second negotiation round with Cambodia on 11 September 2026. The two countries reached agreement on all tax-related provisions in their draft income tax treaty, marking the first such agreement between them. The draft treaty covers the elimination of double taxation and the prevention of fiscal...",
+      "published_at": "2026-09-17",
+      "score": 15.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "az"
+      ],
+      "jurisdiction_names": [
+        "Азербайджан"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 515,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-unveils-2027-tax-plan-with-corporate-vat-and-pit-changes/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands unveils 2027 tax plan with corporate, VAT and PIT changes",
+      "summary": "The Dutch government presented the 2027 Budget, including the Tax Plan for 2027 (Belastingplan 2027), on 15 September 2026. Corporate adjustments From 2027, embedded currency hedging results on participation investments will no longer qualify for the participation exemption. Tax changes for entrepreneurs and businesses Carbon and waste tax timelines pushed back: The Netherlands has postponed...",
+      "published_at": "2026-09-17",
+      "score": 12.0,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 516,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-aangenomen/",
+      "ecli": "",
+      "act": "",
+      "title": "Wet implementatie Richtlijn BTW in het digitale tijdperk – enkele BTW-registratie aangenomen",
+      "summary": "",
+      "published_at": "2026-09-17",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 517,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/tweede-kamer-akkoord-met-fiscale-verzamelwet-bes-eilanden-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Tweede Kamer akkoord met Fiscale verzamelwet BES eilanden 2027",
+      "summary": "",
+      "published_at": "2026-09-17",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 518,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/bedenker-box-3-blikt-in-nos-podcast-terug-heb-meermaals-gewaarschuwd/",
+      "ecli": "",
+      "act": "",
+      "title": "Bedenker box 3 blikt in NOS-podcast terug: 'heb meermaals gewaarschuwd'",
+      "summary": "",
+      "published_at": "2026-09-17",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 519,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/oecd-slovenia-extends-beps-mli-to-tax-treaty-with-montenegro/",
+      "ecli": "",
+      "act": "",
+      "title": "OECD: Slovenia extends BEPS MLI to tax treaty with Montenegro",
+      "summary": "The OECD has published Slovenia’s consolidated MLI position on 15 September 2026. The update adds the 2003 Slovenia-Montenegro tax treaty, concluded with the former Serbia and Montenegro, as a covered agreement and makes corresponding changes to Slovenia’s MLI notifications and reservations. Montenegro had already listed the treaty as a covered agreement. The MLI provisions will...",
+      "published_at": "2026-09-17",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

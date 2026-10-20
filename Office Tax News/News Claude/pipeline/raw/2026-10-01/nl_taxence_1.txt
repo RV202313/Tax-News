@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 01 Oct 2026 08:53:48 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Te laat beroep inspecteur houdt aftrek in stand</title>
+		<link>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/</link>
+					<comments>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:52:31 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167885</guid>
+
+					<description><![CDATA[Hof Amsterdam verklaart het incidentele hoger beroep van de inspecteur over de lijfrenteaftrek niet-ontvankelijk omdat het te laat is ingediend. De garagehouder krijgt echter geen extra lijfrenteaftrek vanwege de hogere stakingswinst.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam verklaart het incidentele hoger beroep van de inspecteur over de lijfrenteaftrek niet-ontvankelijk omdat het te laat is ingediend. De garagehouder krijgt echter geen extra lijfrenteaftrek vanwege de hogere stakingswinst.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man exploiteert jarenlang een garagebedrijf. Per 1 september 2017 brengt hij de onderneming ruisend in een later opgerichte bv in. Daarbij ontstaat € 704.296 aan stakingswinst en neemt de fiscale oudedagsreserve met € 46.434 af. In april 2018 sluit hij met de bv een lijfrenteovereenkomst met een koopsom van € 374.004. In zijn oorspronkelijke aangifte IB/PVV 2017 vermeldt hij de staking echter niet. Pas na het opleggen van de aanslag dient hij herziene aangiften in waarin hij de stakingswinst en de lijfrenteaftrek verwerkt. De inspecteur legt vervolgens een navorderingsaanslag op. Rechtbank Noord-Holland staat de aftrek van € 374.004 toe. In hoger beroep wil de man daarnaast extra lijfrenteaftrek vanwege een hogere stakingswinst. De inspecteur bestrijdt met incidenteel hoger beroep juist de al toegestane aftrek.</p>
+
+
+
+<h3 class="wp-block-heading">Herziene aangifte komt te laat</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof bevestigt dat de vereiste aangifte niet is gedaan. Voor die beoordeling is de oorspronkelijke aangifte bepalend, omdat beide herziene aangiften pas na het opleggen van de primitieve aanslag zijn ingediend. De inspecteur kon daarmee bij het vaststellen van die aanslag dus geen rekening houden. Door de staking en de aanzienlijke stakingswinst niet op te nemen, is zowel absoluut als relatief te weinig belasting aangegeven. De bewijslast wordt daarom omgekeerd en verzwaard.</p>
+
+
+
+<h3 class="wp-block-heading">Geen aanvullende lijfrenteaftrek</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de extra lijfrenteaftrek komt het hof tot een andere afweging dan de rechtbank. De feiten wijzen erop dat de ondernemer ten tijde van de inbreng al van plan was het garagebedrijf binnen afzienbare tijd af te bouwen en te staken. Zo was het bedrijfsvastgoed verkocht en teruggehuurd en halveerde de omzet in het laatste jaar. Bovendien staat de oprichtingsakte volgens het hof aan een verhoging van de lijfrente in de weg. De al door de rechtbank toegestane aftrek blijft wel in stand, omdat het incidentele hoger beroep van de inspecteur te laat is ingediend.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.126?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.126</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.128?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.128</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.129?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.129 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2134" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 30-06-2026, ECLI:NL:GHAMS:2026:2134, 25/727 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/te-laat-beroep-inspecteur-houdt-aftrek-in-stand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/06/Autogarage.jpg" length="64917" type="image/jpeg" />	</item>
+		<item>
+		<title>Buitenlandse gift zonder anbi-status niet aftrekbaar</title>
+		<link>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/</link>
+					<comments>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:40:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167897</guid>
+
+					<description><![CDATA[Rechtbank Gelderland oordeelt dat giften aan buitenlandse instellingen zonder anbi-status niet aftrekbaar zijn. De anbi-eis is volgens de rechtbank niet in strijd met het Unierecht en eerdere acceptatie van de giften wekt geen gerechtvaardigd vertrouwen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland oordeelt dat giften aan buitenlandse instellingen zonder anbi-status niet aftrekbaar zijn. De anbi-eis is volgens de rechtbank niet in strijd met het Unierecht en eerdere acceptatie van de giften wekt geen gerechtvaardigd vertrouwen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw trekt in haar aangiften IB/PVV 2020 en 2021 giften af aan verschillende buitenlandse instellingen. De inspecteur staat alleen de giften toe aan instellingen die als anbi zijn geregistreerd. De vrouw stelt dat de regeling voor buitenlandse instellingen in strijd is met het vrije verkeer van kapitaal en diensten. Ook beroept zij zich op het vertrouwensbeginsel, omdat vergelijkbare giften in eerdere jaren wel zijn geaccepteerd.</p>
+
+
+
+<h3 class="wp-block-heading">Anbi-eis is toegestaan</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de giftenregeling niet in strijd is met het Unierecht. Buitenlandse instellingen kunnen een anbi-status verkrijgen en de vrouw heeft in beide jaren ook daadwerkelijk aan een buitenlandse anbi geschonken. De giften aan instellingen zonder anbi-status zijn daarom terecht geweigerd. Dat de inspecteur vergelijkbare giften in eerdere jaren heeft geaccepteerd, wekt evenmin gerechtvaardigd vertrouwen. Daarvoor zijn bijkomende omstandigheden nodig waaruit een bewuste standpuntbepaling blijkt. Die ontbreken, mede omdat de eerdere aangiften geautomatiseerd zijn vastgesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-5b?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5b AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.32?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;pid=c-NDFRWOZLOKAAL&amp;tab=wettekst" target="_blank" rel="noreferrer noopener">art. 6.32</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-6.35?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6.35 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_7140" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 18-09-2026, ECLI:NL:RBGEL:2026:7140, ARN 24/5464 en 25/1431 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/buitenlandse-gift-zonder-anbi-status-niet-aftrekbaar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/02/MuseumJapan.jpg" length="59105" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; Van buitenlandse naar binnenlandse belastingplicht</title>
+		<link>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 08:36:01 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167902</guid>
+
+					<description><![CDATA[Bij aanvang van de subjectieve belastingplicht moet een fiscale openingsbalans worden opgesteld waarop alle vermogensbestanddelen worden gewaardeerd tegen de waarde in het economische verkeer. Uiteraard zijn er ten aanzien van de fiscale openingsbalans nog genoeg vraagpunten. Het concept is echter duidelijk. Maar wat gebeurt er bij een verschuiving van de buitenlandse belastingplicht naar de binnenlandse<a class="read-more" href="https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Bij aanvang van de subjectieve belastingplicht moet een fiscale openingsbalans worden opgesteld waarop alle vermogensbestanddelen worden gewaardeerd tegen de waarde in het economische verkeer. Uiteraard zijn er ten aanzien van de fiscale openingsbalans nog genoeg vraagpunten. Het concept is echter duidelijk. Maar wat gebeurt er bij een verschuiving van de buitenlandse belastingplicht naar de binnenlandse belastingplicht in de vennootschapsbelasting?  In deze NTFR Opinie gaat mr. Brenda Coebergh daar op in.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele <a href="https://www.ndfr.nl/content/p1-1197582" data-type="link" data-id="https://www.ndfr.nl/content/p1-1197582" target="_blank" rel="noreferrer noopener">NTFR/NDFR Opinie gratis via NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-van-buitenlandse-naar-binnenlandse-belastingplicht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/wereldhandel.jpg" length="41072" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie nieuwe Zelfstandigenwet</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 06:17:29 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167880</guid>
+
+					<description><![CDATA[Het ministerie van Sociale Zaken en Werkgelegenheid is een internetconsultatie gestart over de nieuwe Zelfstandigenwet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil met de nieuwe Zelfstandigenwet duidelijker maken wanneer iemand in ieder geval als zelfstandige kan werken. Het wetsvoorstel, dat nu als concept voor internetconsultatie voorligt, moet onzekerheid over arbeidsrelaties verminderen, schijnzelfstandigheid tegengaan en ondernemerschap een expliciete plek geven bij de beoordeling van arbeidsrelaties. </strong></p>
+
+
+
+<p class="wp-block-paragraph">Artikel 7:610 BW over de arbeidsovereenkomst wordt aangevuld met twee toetsen: de zelfstandigentoets en de werkrelatietoets. Voldoet een arbeidsrelatie aan alle criteria van beide toetsen, dan staat vast dat geen sprake is van gezag en daarmee ook niet van een arbeidsovereenkomst. Wordt niet aan alle voorwaarden voldaan, dan betekent dat niet automatisch dat iemand werknemer is. De arbeidsrelatie moet dan, net als nu, worden beoordeeld aan de hand van alle feiten en omstandigheden volgens artikel 7:610 BW. </p>
+
+
+
+<h2 class="wp-block-heading">Zelfstandigentoets</h2>
+
+
+
+<p class="wp-block-paragraph">De zelfstandigentoets kijkt naar de werkende zelf en bevat drie hoofdcriteria. Een zelfstandige moet in het lopende en voorgaande kalenderjaar in totaal minimaal drie opdrachtgevers hebben gehad. Daarnaast moet hij een nog vast te stellen minimumbedrag besteden aan voorzieningen tegen ondernemersrisico’s. Daarbij kan worden gedacht aan een arbeidsongeschiktheidsvoorziening, pensioen, een bedrijfsaansprakelijkheidsverzekering of zakelijke rechtsbijstand. Het minimumbedrag wordt later bij algemene maatregel van bestuur vastgesteld. </p>
+
+
+
+<p class="wp-block-paragraph">Verder moet de zelfstandige zijn bedrijfsvoering op orde hebben. Het kabinet denkt onder meer aan een KvK-inschrijving, een btw-identificatienummer, een aparte rekening voor zakelijke transacties, eigen facturering en het hanteren van betalingstermijnen. De precieze voorwaarden volgen eveneens in lagere regelgeving. </p>
+
+
+
+<h2 class="wp-block-heading">Werkrelatietoets</h2>
+
+
+
+<p class="wp-block-paragraph">De werkrelatietoets beoordeelt vervolgens de concrete opdracht. Hiervoor gelden vier criteria: beide partijen willen buiten dienstbetrekking werken, de zelfstandige heeft vrijheid bij de organisatie van het werk, kan in beginsel zelf werktijden en werkplek bepalen en werkt voor eigen rekening en risico. </p>
+
+
+
+<p class="wp-block-paragraph">Vooral dat laatste criterium kan gevolgen hebben voor de manier waarop opdrachten worden ingericht. Een zelfstandige moet economische baten kunnen genieten én financiële risico’s dragen. Uitsluitend per uur betaald werk waarbij geen noemenswaardig ondernemersrisico bestaat, past volgens de toelichting moeilijk bij dit criterium. Een concrete resultaatsverantwoordelijkheid tegen een vooraf bepaalde vergoeding kan daar juist wel bij passen. </p>
+
+
+
+<p class="wp-block-paragraph">De feitelijke uitvoering blijft doorslaggevend: ‘wezen gaat voor schijn’. Afspraken op papier zijn dus onvoldoende wanneer in de praktijk anders wordt gewerkt. </p>
+
+
+
+<p class="wp-block-paragraph">De Zelfstandigenwet wijzigt het fiscale ondernemersbegrip niet. Iemand die volgens de nieuwe toetsen arbeidsrechtelijk als zelfstandige kan werken, is daarmee niet automatisch ondernemer voor de inkomsten- of omzetbelasting. Ook blijven de regels voor fictieve dienstbetrekkingen bestaan. </p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet onderzoekt ten slotte een vrijwillige derdenverklaring, bijvoorbeeld van een belastingadviseur of accountant, waarmee een zelfstandige kan onderbouwen dat hij aan de zelfstandigentoets voldoet. Zo’n verklaring krijgt geen wettelijke of bindende status. </p>
+
+
+
+<p class="wp-block-paragraph">De beoogde inwerkingtreding is 1 januari 2028, mits het voorstel uitvoerbaar is. Er komt geen overgangsrecht: de regels krijgen direct werking voor zowel bestaande als nieuwe arbeidsrelaties.</p>
+
+
+
+<p class="wp-block-paragraph">De internetconsultatie staat open tot en met 29 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/verduidelijkingzelfstandigenwet/b1" data-type="link" data-id="https://www.internetconsultatie.nl/verduidelijkingzelfstandigenwet/b1" target="_blank" rel="noreferrer noopener">Ministerie SZW, 29 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-nieuwe-zelfstandigenwet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/11/zzp-vrouw-schort.jpg" length="35372" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt toepassing artiestenregeling</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167900</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de artiestenregeling.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de artiestenregeling.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een stichting behartigt de belangen van een muziekband. De individuele bandleden maken geen deel uit van de stichting. De stichting heeft een overeenkomst afgesloten met een professioneel boekingskantoor die de boekingen voor de band verzorgt. Zowel het boekingskantoor als de stichting beschikken over een inhoudingsplichtigenverklaring waardoor de inhoudingsplicht over de gage feitelijk wordt verlegd van het boekingskantoor naar de stichting. De individuele bandleden willen echter voor enkele optredens buiten de artiestenregeling om opereren. Voor deze optredens factureren zij de gage rechtstreeks aan de stichting. De bandleden zijn buiten (fictieve) dienstbetrekking werkzaam.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Kan de opting-outregeling voor de betreffende optredens worden toegepast?</li>
+
+
+
+<li>Zo ja, welke partijen moeten de opting-outregeling overeenkomen?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja.</li>
+
+
+
+<li>De stichting en de artiest.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-over-toepassing-artiestenregeling-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-over-toepassing-artiestenregeling-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 1 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/06/Artiesten-podium.jpg" length="30138" type="image/jpeg" />	</item>
+		<item>
+		<title>Nieuw V&#038;A 26-007 Combinatie levenslang partnerpensioen bij overlijden voor pensioendatum en tijdelijke uitkering partnerpensioen</title>
+		<link>https://www.taxence.nl/nieuws/nieuw-va-26-007-combinatie-levenslang-partnerpensioen-bij-overlijden-voor-pensioendatum-en-tijdelijke-uitkering-partnerpensioen/</link>
+					<comments>https://www.taxence.nl/nieuws/nieuw-va-26-007-combinatie-levenslang-partnerpensioen-bij-overlijden-voor-pensioendatum-en-tijdelijke-uitkering-partnerpensioen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 05:57:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167893</guid>
+
+					<description><![CDATA[Het Centraal Aanspreekpunt Pensioenen heeft V&#038;A 26-007 gepubliceerd over de vraag of een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van partnerpensioen kan worden toegezegd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Centraal Aanspreekpunt Pensioenen heeft <a href="https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/" target="_blank" rel="noopener">V&amp;A 26-007</a> gepubliceerd over de vraag of een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van partnerpensioen kan worden toegezegd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Kan een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van partnerpensioen worden toegezegd?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van partnerpensioen kan worden toegezegd. &nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Een veel voorkomende combinatie is een levenslang partnerpensioen bij overlijden voor pensioendatum op grond van artikel 18b van de Wet LB 1964en een tijdelijk nabestaandenoverbruggingspensioen op grond van artikel 18f Wet LB 1964. Andere combinaties zijn echter ook mogelijk, zoals een variatie in de hoogte van het partnerpensioen, als bedoeld in artikel 18d, eerste lid, Wet LB 1964. Feitelijk is er dan sprake van een combinatie van een tijdelijke hoge uitkering en een levenslange lage uitkering. Een andere mogelijkheid is een levenslang partnerpensioen bij overlijden voor pensioendatum in combinatie met een AOW-overbrugging als bedoeld in artikel 18d, tweede lid, Wet LB 1964. Deze drie vormen van combinaties van een levenslange en tijdelijke uitkering van een partnerpensioen, kunnen naast elkaar toegepast worden, mits aan de voorwaarden uit de Wet LB 1964 wordt voldaan.</p>
+
+
+
+<h2 class="wp-block-heading">Toelichting</h2>
+
+
+
+<p class="wp-block-paragraph">Naast de levenslange uitkering van het partnerpensioen bij overlijden voor pensioendatum mag ook een nabestaandenoverbruggingspensioen worden uitgekeerd, als bedoeld in artikel 18f Wet LB 1964. Voorwaarden hiervoor zijn dat uitkering niet meer bedraagt dan 8/7 van de Anw-uitkering (€ 24.341 in 2026) en dat de uitkering stopt uiterlijk bij de AOW-leeftijd van de partner.</p>
+
+
+
+<p class="wp-block-paragraph">Naast de toezegging van een nabestaandenoverbruggingspensioen, kan het partnerpensioen bij overlijden voor pensioendatum ook aangepast worden, zodat er feitelijk sprake is van een combinatie van een levenslange en tijdelijke uitkering. Dit kan op twee manieren.</p>
+
+
+
+<ol class="wp-block-list">
+<li>Allereerst kan er gekozen worden voor een variatie in de hoogte van de uitkeringen, als bedoeld in artikel 18d, eerste lid, Wet LB 1964. Feitelijk wordt de lage uitkering levenslang uitgekeerd en de hoge uitkering tijdelijk. Voorwaarden zijn dat de variatie binnen de bandbreedte van 100:75 blijft en dat de mate van variatie uiterlijk op ingangsdatum van het partnerpensioen bij overlijden voor pensioendatum vaststaat. Er gelden geen eisen aan de duur van de hoge of lage uitkering.</li>
+
+
+
+<li>Daarnaast kan ook nog gekozen worden voor een AOW-overbrugging, als bedoeld in artikel 18d, tweede lid, Wet LB 1964. De levenslange uitkering van het partnerpensioen bij overlijden voor pensioendatum wordt verlaagd in ruil voor een tijdelijke uitkering tot aan de AOW-leeftijd van de gerechtigde. Deze tijdelijke uitkering bedraagt maximaal € 2.357 bruto per maand (bedrag 2026).</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Zowel in geval van variatie in de hoogte van de uitkeringen (artikel 18d, eerste lid, Wet LB 1964), als in geval van een AOW-overbrugging (artikel 18d, tweede lid, Wet LB 1964), of een combinatie van beide is er sprake van één toezegging van partnerpensioen bij overlijden voor pensioendatum. Er vindt echter een aanpassing plaats in de wijze waarop dat partnerpensioen wordt uitgekeerd. Er is dus geen sprake van een aanvullende pensioentoezegging, zoals in geval van een nabestaandenoverbruggingspensioen (artikel 18f Wet LB 1964).</p>
+
+
+
+<p class="wp-block-paragraph">Toezeggen van een nabestaandenoverbruggingspensioen sluit niet uit dat ook een variatie in de hoogte van de uitkeringen van partnerpensioen bij overlijden voor pensioendatum kan worden toegepast, al dan niet in combinatie met een AOW-overbruggingspensioen. Alle drie de vormen van een levenslang en tijdelijke uitkering kunnen naast elkaar worden toegepast.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/" data-type="link" data-id="https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nieuw-va-26-007-combinatie-levenslang-partnerpensioen-bij-overlijden-voor-pensioendatum-en-tijdelijke-uitkering-partnerpensioen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/paar-pensioen.jpg" length="40665" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt reikwijdte artikel 43 AWR</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-reikwijdte-artikel-43-awr/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-reikwijdte-artikel-43-awr/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 05:24:04 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167876</guid>
+
+					<description><![CDATA[De Kennisgroep formeel recht heeft de vraag beantwoord of artikel 43 AWR van toepassing is op de curator van een failliete rechtspersoon.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep formeel recht heeft de vraag beantwoord of artikel 43 AWR van toepassing is op de curator van een failliete rechtspersoon.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Op grond van artikel 43 van de Algemene wet inzake rijksbelastingen (hierna: AWR) kunnen de verplichtingen van ”iemand die in staat van faillissement is verklaard” worden nagekomen door de curator en is de curator desgevorderd gehouden tot nakoming van deze verplichtingen. De inspecteur vraagt zich af of een failliete rechtspersoon onder het begrip ”iemand die in staat van faillissement is verklaard” valt. &nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is artikel 43 AWR van toepassing op de curator van een failliete rechtspersoon?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja. Een rechtspersoon die in staat van faillissement is verklaard, valt onder het begrip “iemand die in staat van faillissement is verklaard” als bedoeld in artikel 43 AWR. Artikel 43 AWR is daarom van toepassing op de curator van een failliete rechtspersoon.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-reikwijdte-van-artikel-43-awr/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-reikwijdte-van-artikel-43-awr/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-reikwijdte-artikel-43-awr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/faillissement-closed.jpg" length="25133" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt specifieke zorgkosten (niet vergoede medicijnen en uitgaven)</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-specifieke-zorgkosten-niet-vergoede-medicijnen-en-uitgaven/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-specifieke-zorgkosten-niet-vergoede-medicijnen-en-uitgaven/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 05:18:34 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167874</guid>
+
+					<description><![CDATA[De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord of aanschafkosten van een bij ministeriële regeling aangewezen geneesmiddel, dat niet wordt vergoed door de zorgverzekeraar omdat de zorgverzekeraar enkel een vergelijkbaar aangewezen medicijn vergoedt, in aanmerking kunnen worden genomen als uitgaven voor specifieke zorgkosten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord of aanschafkosten van een bij ministeriële regeling aangewezen geneesmiddel, dat niet wordt vergoed door de zorgverzekeraar omdat de zorgverzekeraar enkel een vergelijkbaar aangewezen medicijn vergoedt, in aanmerking kunnen worden genomen als uitgaven voor specifieke zorgkosten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Belastingplichtige gebruikt op voorschrift van een arts medicijnen voor een bepaalde ziekte. Belastingplichtige gebruikt een geneesmiddel van het merk X, terwijl het geneesmiddel van merk Y dezelfde werkzame stof bevat en dezelfde werking heeft. De zorgverzekeraar vergoedt uitsluitend de aanschafkosten van het geneesmiddel van merk Y. De aanschafkosten van het geneesmiddel van het merk X worden door de verzekeraar voor deze belastingplichtige niet vergoed.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kunnen de aanschafkosten van een bij ministeriële regeling aangewezen geneesmiddel, dat niet wordt vergoed door de zorgverzekeraar omdat de zorgverzekeraar enkel een vergelijkbaar aangewezen geneesmiddel vergoed, in aanmerking worden genomen als uitgaven voor specifieke zorgkosten?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, deze uitgaven vallen namelijk onder het verplicht te verzekeren risico en worden daarom niet aangemerkt als uitgaven voor specifieke zorgkosten.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-specifieke-zorgkosten-niet-vergoede-medicijnen-en-uitgaven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/05/Medicijnen.jpg" length="23268" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt commerciële tarieven ANBI ingetrokken</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-commerciele-tarieven-anbi-ingetrokken/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-commerciele-tarieven-anbi-ingetrokken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 01 Oct 2026 03:25:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167878</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft standpunt KG:211:2022:15 ingetrokken in verband met de inwerkingtreding van het besluit van 26 juni 2025, nr. 2025-13842, Stcrt. 2025-20215.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft standpunt KG:211:2022:15 ingetrokken in verband met de inwerkingtreding van het besluit van 26 juni 2025, nr. 2025-13842, Stcrt. 2025-20215.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/" target="_blank" rel="noreferrer noopener">Belastingdienst, 30 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-commerciele-tarieven-anbi-ingetrokken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/03/balans-winst.jpg" length="39486" type="image/jpeg" />	</item>
+		<item>
+		<title>Miskoop rechtvaardigt geen laag tarief overdrachtsbelasting</title>
+		<link>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2026 07:17:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167849</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat het 2%-tarief voor de overdrachtsbelasting niet geldt als een woning na slechts enkele dagen bewoning weer wordt verlaten. Dat de woning achteraf als miskoop wordt ervaren, is geen onvoorziene omstandigheid die toepassing van het lage tarief alsnog rechtvaardigt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat het 2%-tarief voor de overdrachtsbelasting niet geldt als een woning na slechts enkele dagen bewoning weer wordt verlaten. Dat de woning achteraf als miskoop wordt ervaren, is geen onvoorziene omstandigheid die toepassing van het lage tarief alsnog rechtvaardigt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man koopt op 6 september 2022 een woning voor € 565.000, die op 1 december 2022 aan hem wordt geleverd. Hij verklaart dat hij de woning anders dan tijdelijk als hoofdverblijf gaat gebruiken en voldoet daarom 2% overdrachtsbelasting. De man en zijn partner wonen echter slechts enkele dagen in de woning. Zij vinden de woning, met name de slaapvertrekken, kleiner en benauwder dan verwacht en ervaren verkeers- en omgevingsgeluid. Volgens de man leidt dit onder meer tot slaapproblemen en psychische klachten. Zijn partner stelt hem uiteindelijk voor de keuze de woning te verkopen of uit elkaar te gaan. De woning wordt in maart 2023 verkocht. De inspecteur legt een naheffingsaanslag op, berekend naar het destijds geldende algemene tarief van 8%.</p>
+
+
+
+<h3 class="wp-block-heading">Enkele dagen bewoning onvoldoende</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank gelooft dat de man bij de verkrijging daadwerkelijk van plan was de woning duurzaam als hoofdverblijf te gebruiken. Die intentie alleen is echter onvoldoende. Aan het voornemen moet ook feitelijk uitvoering worden gegeven. Omdat de man en zijn partner slechts enkele dagen in de woning wonen, is geen sprake van gebruik anders dan tijdelijk als hoofdverblijf. Daarmee bestaat in beginsel geen recht op het 2%-tarief.</p>
+
+
+
+<h3 class="wp-block-heading">Kenmerken woning waren al kenbaar</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op onvoorziene omstandigheden slaagt niet. De omvang van de woning en het verkeersgeluid waren volgens de rechtbank bij de aankoop al aanwezig en kenbaar of hadden dat kunnen zijn. De man heeft bewust volstaan met één korte bezichtiging en zijn partner heeft de woning vooraf niet bekeken. Dat pas na de aankoop duidelijk wordt dat de woning niet bij hen past, komt daarom voor zijn rekening en risico. Ook de later ontstane klachten en het ultimatum van zijn partner maken dit niet anders. De rechtbank laat de naheffingsaanslag in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-14?lid=BWBR0002740&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 lid 2</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-15a?lid=BWBR0002740&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 15a lid 5 WBR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9134">Rechtbank Zeeland-West-Brabant, 22-09-2026, ECLI:NL:RBZWB:2026:9134, BRE 24/8353 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/miskoop-rechtvaardigt-geen-laag-tarief-overdrachtsbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Huistekoop.jpg" length="28467" type="image/jpeg" />	</item>
+	</channel>
+</rss>

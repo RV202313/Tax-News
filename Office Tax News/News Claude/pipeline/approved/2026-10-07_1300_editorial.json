@@ -1,0 +1,769 @@
+{
+  "date": "2026-10-07",
+  "release": "2026-10-07_1300_editorial",
+  "items": [
+    {
+      "title": "США: окончательный пересмотр пошлины по креветкам из Таиланда",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm"
+        }
+      ],
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm",
+        "source_quote": "[Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)]"
+      },
+      "theme": "окончательный пересмотр пошлины по креветкам из Таиланда",
+      "jurisdictions": "США, Таиланд",
+      "act": "A-549-822; FR Doc. 2026-20488",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-thai-shrimp-final-review-20261006",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00"
+      },
+      "slug": "2026-10-07_1300_-us-thai-shrimp-final-review-20261006",
+      "caption": "США: окончательный пересмотр пошлины по креветкам из Таиланда\n\n6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по замороженным тепловодным креветкам из Таиланда за период с 1 февраля 2024 года по 31 января 2025 года. Минторг США установил продажи ниже нормальной стоимости для ряда проверяемых производителей и экспортёров.\n\nПочему это важно: Импортёрам и экспортёрам стоит проверить охват товара и относящиеся к их поставкам параметры процедуры. Окончательный административный пересмотр относится к указанному периоду и участникам; его результаты нельзя автоматически переносить на любой товар или любого поставщика.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm",
+          "checked_at": "2026-10-07T09:14:04.221348+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по замороженным тепловодным креветкам из Таиланда за период с 1 февраля 2024 года по 31 января 2025 года. Минторг США установил продажи ниже нормальной стоимости для ряда проверяемых производителей и экспортёров.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) determines that certain producers/exporters subject to this administrative review made sales of certain frozen warmwater shrimp (shrimp) from Thailand at less than normal value during the period of review (POR), February 1, 2024, through January 31, 2025."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm",
+            "checked_at": "2026-10-07T09:14:04.221348+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20488.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по замороженным тепловодным креветкам из Таиланда за период с 1 февраля 2024 года по 31 января 2025 года. Минторг США установил продажи ниже нормальной стоимости для ряда проверяемых производителей и экспортёров.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) determines that certain producers/exporters subject to this administrative review made sales of certain frozen warmwater shrimp (shrimp) from Thailand at less than normal value during the period of review (POR), February 1, 2024, through January 31, 2025."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-us-thai-shrimp-final-review-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: окончательный компенсационный пересмотр по турецким трубам большого диаметра",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm"
+        }
+      ],
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm",
+        "source_quote": "[Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)]"
+      },
+      "theme": "окончательный компенсационный пересмотр по турецким трубам большого диаметра",
+      "jurisdictions": "США, Турция",
+      "act": "C-489-834; FR Doc. 2026-20482",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-turkey-large-pipe-cvd-review-20261006",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00"
+      },
+      "slug": "2026-10-07_1300_-us-turkey-large-pipe-cvd-review-20261006",
+      "caption": "США: окончательный компенсационный пересмотр по турецким трубам большого диаметра\n\n6 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по сварным трубам большого диаметра из Турции за 2024 год. Минторг США установил предоставление субсидий, подлежащих компенсации, проверяемому производителю и экспортёру.\n\nПочему это важно: Импортёрам и экспортёрам стоит проверить охват товара и относящиеся к их поставкам параметры процедуры. Окончательный административный пересмотр относится к указанному периоду и участникам; его результаты нельзя автоматически переносить на любой товар или любого поставщика.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm",
+          "checked_at": "2026-10-07T09:14:04.223227+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по сварным трубам большого диаметра из Турции за 2024 год. Минторг США установил предоставление субсидий, подлежащих компенсации, проверяемому производителю и экспортёру.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) determines countervailable subsidies were provided to HDM [Ccedil]elik Boru Sanayi Ve Ticaret A.S. (HDM [Ccedil]elik), a producer/exporter of large diameter welded pipe (welded pipe) from the Republic of T[uuml]rkiye (T[uuml]rkiye) during the period of review, January 1, 2024, through December 31, 2024."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm",
+            "checked_at": "2026-10-07T09:14:04.223227+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20482.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по сварным трубам большого диаметра из Турции за 2024 год. Минторг США установил предоставление субсидий, подлежащих компенсации, проверяемому производителю и экспортёру.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) determines countervailable subsidies were provided to HDM [Ccedil]elik Boru Sanayi Ve Ticaret A.S. (HDM [Ccedil]elik), a producer/exporter of large diameter welded pipe (welded pipe) from the Republic of T[uuml]rkiye (T[uuml]rkiye) during the period of review, January 1, 2024, through December 31, 2024."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-us-turkey-large-pipe-cvd-review-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: окончательный компенсационный пересмотр по китайским ингибиторам коррозии",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm"
+        }
+      ],
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm",
+        "source_quote": "[Federal Register Volume 91, Number 191 (Monday, October 5, 2026)]"
+      },
+      "theme": "окончательный компенсационный пересмотр по китайским ингибиторам коррозии",
+      "jurisdictions": "США, Китай",
+      "act": "C-570-123; FR Doc. 2026-20282",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-china-corrosion-inhibitors-cvd-20261005",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00"
+      },
+      "slug": "2026-10-07_1300_-us-china-corrosion-inhibitors-cvd-20261005",
+      "caption": "США: окончательный компенсационный пересмотр по китайским ингибиторам коррозии\n\n5 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по отдельным ингибиторам коррозии из Китая за 2024 год. Минторг США установил, что проверяемые производители и экспортёры получали субсидии, подлежащие компенсации.\n\nПочему это важно: Импортёрам и экспортёрам стоит проверить охват товара и относящиеся к их поставкам параметры процедуры. Окончательный административный пересмотр относится к указанному периоду и участникам; его результаты нельзя автоматически переносить на любой товар или любого поставщика.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm",
+          "checked_at": "2026-10-07T09:14:04.224192+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по отдельным ингибиторам коррозии из Китая за 2024 год. Минторг США установил, что проверяемые производители и экспортёры получали субсидии, подлежащие компенсации.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to certain producers/exporters of certain corrosion inhibitors (corrosion inhibitors) from the People's Republic of China (China) during the period of review (POR) January 1, 2024, through December 31, 2024."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm",
+            "checked_at": "2026-10-07T09:14:04.224192+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20282.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликованы окончательные результаты пересмотра компенсационной пошлины по отдельным ингибиторам коррозии из Китая за 2024 год. Минторг США установил, что проверяемые производители и экспортёры получали субсидии, подлежащие компенсации.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies were provided to certain producers/exporters of certain corrosion inhibitors (corrosion inhibitors) from the People's Republic of China (China) during the period of review (POR) January 1, 2024, through December 31, 2024."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-us-china-corrosion-inhibitors-cvd-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: опубликовано уведомление о расследованиях по железнодорожным цистернам из Мексики",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm"
+        }
+      ],
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm",
+        "source_quote": "[Federal Register Volume 91, Number 191 (Monday, October 5, 2026)]"
+      },
+      "theme": "опубликовано уведомление о расследованиях по железнодорожным цистернам из Мексики",
+      "jurisdictions": "США, Мексика",
+      "act": "701-TA-809; 731-TA-1810; FR Doc. 2026-20349",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-mexico-rail-tank-investigations-notice-20261005",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00"
+      },
+      "slug": "2026-10-07_1300_-us-mexico-rail-tank-investigations-notice-20261005",
+      "caption": "США: опубликовано уведомление о расследованиях по железнодорожным цистернам из Мексики\n\n5 октября 2026 года опубликовано уведомление Комиссии по международной торговле США о начале предварительной стадии антидемпингового и компенсационного расследований по железнодорожным цистернам и их частям из Мексики. Процедура проверяет признаки ущерба американской отрасли; уведомление не является окончательным решением о введении пошлин.\n\nПочему это важно: Импортёрам и экспортёрам стоит проверить охват товара и относящиеся к их поставкам параметры процедуры. Предварительная стадия допускает дальнейшее рассмотрение; её нельзя считать окончательным изменением пошлины.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm",
+          "checked_at": "2026-10-07T09:14:04.225103+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликовано уведомление Комиссии по международной торговле США о начале предварительной стадии антидемпингового и компенсационного расследований по железнодорожным цистернам и их частям из Мексики. Процедура проверяет признаки ущерба американской отрасли; уведомление не является окончательным решением о введении пошлин.",
+              "source_quote": "The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-809 and 731-TA-1810 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of railway tank cars and parts thereof from Mexico, provided for in subheading 8606.10.00 of the Harmonized Tariff Schedule of the United States, that are alleged to be sold in the United States at less than fair value and alleged to be subsidized by the government of Mexico. Unless the Department of Commerce (``Commerce'') extends the time for initiation, the Commission must reach a preliminary determination in antidumping and countervailing duty investigations in 45 days, or in this case by November 16, 2026. The Commission's views must be transmitted to Commerce within five business days thereafter, or by November 23, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm",
+            "checked_at": "2026-10-07T09:14:04.225103+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20349.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликовано уведомление Комиссии по международной торговле США о начале предварительной стадии антидемпингового и компенсационного расследований по железнодорожным цистернам и их частям из Мексики. Процедура проверяет признаки ущерба американской отрасли; уведомление не является окончательным решением о введении пошлин.",
+                "source_quote": "The Commission hereby gives notice of the institution of investigations and commencement of preliminary phase antidumping and countervailing duty investigation Nos. 701-TA-809 and 731-TA-1810 (Preliminary) pursuant to the Tariff Act of 1930 to determine whether there is a reasonable indication that an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of railway tank cars and parts thereof from Mexico, provided for in subheading 8606.10.00 of the Harmonized Tariff Schedule of the United States, that are alleged to be sold in the United States at less than fair value and alleged to be subsidized by the government of Mexico. Unless the Department of Commerce (``Commerce'') extends the time for initiation, the Commission must reach a preliminary determination in antidumping and countervailing duty investigations in 45 days, or in this case by November 16, 2026. The Commission's views must be transmitted to Commerce within five business days thereafter, or by November 23, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-us-mexico-rail-tank-investigations-notice-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Канада: опубликованы основания пересмотра по арматуре из России и Омана",
+      "sources": [
+        {
+          "name": "Канадское пограничное агентство",
+          "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html"
+        }
+      ],
+      "theme": "Публикация оснований пересмотра антидемпинговой меры по российской и оманской арматуре",
+      "jurisdictions": "Россия, Канада, Оман",
+      "act": "RB4 2026 ER; изложение оснований от 02.10.2026 по выводу от 17.09.2026; NQ-2020-005",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html",
+        "source_quote": "Ottawa, October 2, 2026 Concerning an expiry review determination"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "ca-ru-oman-rebar-reasons-20261002",
+        "cross_border_relevance": "Официальное изложение оснований, впервые опубликованное 2 октября, касается антидемпинговой меры на импорт из России и Омана. Видимая дата относится к новому документу с аргументацией; старое решение от 17 сентября обозначено отдельно, без ложной актуализации его даты.",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00"
+      },
+      "slug": "2026-10-07_1300_-ca-ru-oman-rebar-reasons-20261002",
+      "caption": "Канада: опубликованы основания пересмотра по арматуре из России и Омана\n\n2 октября 2026 года Канадское пограничное агентство опубликовало изложение оснований по пересмотру меры в отношении арматуры из России и Омана. В нём подтверждён вывод от 17 сентября: прекращение действия меры, вероятно, привело бы к продолжению или возобновлению демпинга.\n\nПочему это важно: Российским и оманским экспортёрам и канадским импортёрам стоит изучить опубликованную аргументацию. Это новая публикация оснований прежнего решения; её нельзя представлять как новое решение о введении или продлении пошлины от 2 октября.\n\nИсточник: https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html",
+          "checked_at": "2026-10-07T09:14:04.226297+00:00",
+          "status_code": 200,
+          "final_url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html",
+          "evidence": [
+            {
+              "claim": "2 октября 2026 года Канадское пограничное агентство опубликовало изложение оснований по пересмотру меры в отношении арматуры из России и Омана. В нём подтверждён вывод от 17 сентября: прекращение действия меры, вероятно, привело бы к продолжению или возобновлению демпинга.",
+              "source_quote": "[8] Having considered the relevant information on the record, the CBSA determined on September 17, 2026, pursuant to paragraph 76.03(7)(a) of SIMA, that the expiry of the finding in respect of certain concrete reinforcing bar originating in or exported from Oman and Russia is likely to result in the continuation or resumption of dumping of the goods into Canada."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html",
+            "checked_at": "2026-10-07T09:14:04.226297+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/rb42026/rb42026-de-eng.html",
+            "evidence": [
+              {
+                "claim": "2 октября 2026 года Канадское пограничное агентство опубликовало изложение оснований по пересмотру меры в отношении арматуры из России и Омана. В нём подтверждён вывод от 17 сентября: прекращение действия меры, вероятно, привело бы к продолжению или возобновлению демпинга.",
+                "source_quote": "[8] Having considered the relevant information on the record, the CBSA determined on September 17, 2026, pursuant to paragraph 76.03(7)(a) of SIMA, that the expiry of the finding in respect of certain concrete reinforcing bar originating in or exported from Oman and Russia is likely to result in the continuation or resumption of dumping of the goods into Canada."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-ca-ru-oman-rebar-reasons-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: МФЦА расширяет сотрудничество по инвестиционному налоговому резидентству",
+      "sources": [
+        {
+          "name": "Администрация МФЦА, официальный пресс-релиз",
+          "url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/"
+        }
+      ],
+      "theme": "Инвестиционное налоговое резидентство иностранных инвесторов",
+      "jurisdictions": "Казахстан",
+      "act": "Сообщение МФЦА от 07.10.2026 о сотрудничестве с Bybit Kazakhstan и Binance Kazakhstan в программе инвестиционного налогового резидентства",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/",
+        "source_quote": "Expat Centre 07.10.2026 Astana International Financial Centre (AIFC) is expanding"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "kz-aifc-bybit-binance-itrp-cooperation-20261007",
+        "cross_border_relevance": "Официальное новое сообщение администрации МФЦА о практическом сотрудничестве в программе налогового резидентства для иностранных инвесторов. Августовское включение цифровых активов явно отделено от нового октябрьского события; новая льгота или автоматическое резидентство не заявлены. Проверены поддерживаемая сумма, лицензирование и условность визы/резидентства.",
+        "history_review": "Full catalog, SQLite 30 days and earlier/pending releases checked for URL, act, event and fuzzy >=90%; no match. Prior August programme change not presented as a newly enacted rule.",
+        "reviewed_at_msk": "2026-10-07T12:12:50.730925+03:00"
+      },
+      "slug": "2026-10-07_1300_-kz-aifc-bybit-binance-itrp-cooperation-20261007",
+      "caption": "Казахстан: МФЦА расширяет сотрудничество по инвестиционному налоговому резидентству\n\n7 октября 2026 года опубликовано сообщение МФЦА. МФЦА сообщил о расширении сотрудничества с площадками «Байбит Казахстан» и «Бинанс Казахстан» в программе инвестиционного налогового резидентства. Цифровые активы включены в программу в августе 2026 года. Инвестиции через лицензированные площадки могут учитываться при поддержании суммы не менее 150 000 долларов США в течение участия.\n\nПочему это важно: Иностранным инвесторам стоит проверить лицензию площадки, размер и срок сохранения вложений. Признание инвестиций позволяет использовать этот инструмент в программе, но виза и налоговое резидентство зависят от выполнения применимых требований.\n\nИсточник: https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/",
+          "checked_at": "2026-10-07T09:14:04.888069+00:00",
+          "status_code": 200,
+          "final_url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/",
+          "evidence": [
+            {
+              "claim": "МФЦА сообщил о расширении сотрудничества с площадками «Байбит Казахстан» и «Бинанс Казахстан» в программе инвестиционного налогового резидентства. Цифровые активы включены в программу в августе 2026 года. Инвестиции через лицензированные площадки могут учитываться при поддержании суммы не менее 150 000 долларов США в течение участия.",
+              "source_quote": "Astana International Financial Centre (AIFC) is expanding its cooperation with Bybit Kazakhstan and Binance Kazakhstan under the AIFC Investment Tax Residency Programme (ITRP), aimed at enhancing mechanisms for investment in digital assets. Since its launch in September 2022, the Programme has been continuously developed to expand opportunities for attracting international investors to Kazakhstan. The Programme enables foreign nationals to invest in eligible AIFC instruments and subsequently obtain a long-term investor visa and tax residency under simplified conditions, subject to the applicable requirements. In August 2026, AIFC added digital assets to the list of eligible investment instruments under the Programme. Investments in digital assets made through AFSA-licensed platforms can now be recognised under the Programme, provided that the investor maintains a minimum investment of USD 150,000 throughout their participation in the Programme. These platforms include Bybit Kazakhstan and Binance Kazakhstan, both registered with the AIFC and operating under the relevant AFSA licences. The cooperation provides investors with access to licensed digital asset platforms, allowing their investments to be recognised under the Programme."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/",
+            "checked_at": "2026-10-07T09:14:04.888069+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://aifc.kz/news/aifc-expands-cooperation-with-bybit-kazakhstan-and-binance-kazakhstan-under-the-investment-tax-residency-programme/",
+            "evidence": [
+              {
+                "claim": "МФЦА сообщил о расширении сотрудничества с площадками «Байбит Казахстан» и «Бинанс Казахстан» в программе инвестиционного налогового резидентства. Цифровые активы включены в программу в августе 2026 года. Инвестиции через лицензированные площадки могут учитываться при поддержании суммы не менее 150 000 долларов США в течение участия.",
+                "source_quote": "Astana International Financial Centre (AIFC) is expanding its cooperation with Bybit Kazakhstan and Binance Kazakhstan under the AIFC Investment Tax Residency Programme (ITRP), aimed at enhancing mechanisms for investment in digital assets. Since its launch in September 2022, the Programme has been continuously developed to expand opportunities for attracting international investors to Kazakhstan. The Programme enables foreign nationals to invest in eligible AIFC instruments and subsequently obtain a long-term investor visa and tax residency under simplified conditions, subject to the applicable requirements. In August 2026, AIFC added digital assets to the list of eligible investment instruments under the Programme. Investments in digital assets made through AFSA-licensed platforms can now be recognised under the Programme, provided that the investor maintains a minimum investment of USD 150,000 throughout their participation in the Programme. These platforms include Bybit Kazakhstan and Binance Kazakhstan, both registered with the AIFC and operating under the relevant AFSA licences. The cooperation provides investors with access to licensed digital asset platforms, allowing their investments to be recognised under the Programme."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-kz-aifc-bybit-binance-itrp-cooperation-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: для импорта стали нужны коды страны выплавки и подтверждающего документа",
+      "sources": [
+        {
+          "name": "Таможня Нидерландов",
+          "url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/"
+        }
+      ],
+      "theme": "Документальные требования при импорте стали в ЕС",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "Памятка Douane от 30.09.2026 о кодах страны выплавки и литья стали",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/",
+        "source_quote": "Publicatiedatum 30-09-2026, 17:27"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "nl-steel-melt-pour-declaration-codes-20260930",
+        "cross_border_relevance": "Прямое официальное разъяснение новых документальных требований для ввоза стали в ЕС. Проверены дата первоначальной публикации, дата начала требований и диапазоны кодов; обновление страницы от 1 октября не подменяет дату документа.",
+        "history_checked_at": "2026-10-07T09:01:40.925729+00:00",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms."
+      },
+      "slug": "2026-10-07_1300_-nl-steel-melt-pour-declaration-codes-20260930",
+      "caption": "Нидерланды: для импорта стали нужны коды страны выплавки и подтверждающего документа\n\n30 сентября 2026 года таможня опубликовала памятку по заполнению импортной декларации. С 1 октября 2026 года при импорте определённых стальных товаров в ЕС требуется указывать страну выплавки и литья. Таможня Нидерландов разъяснила, что в декларации нужны код страны Y376–Y388 и код подтверждающего документа C131–C139.\n\nПочему это важно: Импортёрам стали нужно заранее получить сведения от производителя и согласовать их с таможенным представителем. Код страны и документ должны описывать одну и ту же поставку; памятка помогает подготовить декларацию и подтверждение происхождения стали.\n\nИсточник: https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/",
+          "checked_at": "2026-10-07T09:14:18.637011+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/",
+          "evidence": [
+            {
+              "claim": "С 1 октября 2026 года при импорте определённых стальных товаров в ЕС требуется указывать страну выплавки и литья. Таможня Нидерландов разъяснила, что в декларации нужны код страны Y376–Y388 и код подтверждающего документа C131–C139.",
+              "source_quote": "Vanaf 1 oktober 2026 moet u bij de invoer van bepaalde staalproducten in de Europese Unie (EU) het land van smelten en gieten (melt and pour) aangeven. U moet hiervoor de juiste documentcodes aangeven voor het land van smelten en gieten en voor het bijbehorende bewijsstuk. Lees meer over het verplicht aantonen van het land van smelten en gieten vanaf 1 oktober Wat moet u aangeven? Bij de invoeraangifte moet u het volgende aangeven: Het land van smelten en gieten, met de juiste TARIC-documentcode (Y376 t/m Y388). Een bewijsstuk waaruit het land van smelten en gieten blijkt, met de juiste documentcode (C131 t/m C139). De Douane kan de opgegeven informatie en bewijsstukken controleren."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/",
+            "checked_at": "2026-10-07T09:14:18.637011+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/invoeraangifte-staalproducten-aangeven-land-van-smelten-en-gieten/",
+            "evidence": [
+              {
+                "claim": "С 1 октября 2026 года при импорте определённых стальных товаров в ЕС требуется указывать страну выплавки и литья. Таможня Нидерландов разъяснила, что в декларации нужны код страны Y376–Y388 и код подтверждающего документа C131–C139.",
+                "source_quote": "Vanaf 1 oktober 2026 moet u bij de invoer van bepaalde staalproducten in de Europese Unie (EU) het land van smelten en gieten (melt and pour) aangeven. U moet hiervoor de juiste documentcodes aangeven voor het land van smelten en gieten en voor het bijbehorende bewijsstuk. Lees meer over het verplicht aantonen van het land van smelten en gieten vanaf 1 oktober Wat moet u aangeven? Bij de invoeraangifte moet u het volgende aangeven: Het land van smelten en gieten, met de juiste TARIC-documentcode (Y376 t/m Y388). Een bewijsstuk waaruit het land van smelten en gieten blijkt, met de juiste documentcode (C131 t/m C139). De Douane kan de opgegeven informatie en bewijsstukken controleren."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-nl-steel-melt-pour-declaration-codes-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: опубликованы правила разделения немецкой пенсии между двумя налоговыми базами",
+      "sources": [
+        {
+          "name": "Официальный вестник Нидерландов",
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html"
+        }
+      ],
+      "theme": "Налогообложение немецких пенсионных прав у резидентов Нидерландов",
+      "jurisdictions": "Нидерланды, Германия",
+      "act": "Besluit 2026-17749 от 05.10.2026; Staatscourant 2026, 34337",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html",
+        "source_quote": "07-10-2026 09:00 Ministerie van Financiën Staatscourant 2026, 34337"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "nl-german-drv-tax-policy-20261007",
+        "cross_border_relevance": "Новый официально опубликованный акт определяет внутреннее налогообложение немецких пенсионных прав и выплат в Нидерландах. Старое судебное решение от июня указано только как основание нового акта. Прочитаны разделы о распределении налоговых категорий, доказательствах, соглашении и переходном выборе; автоматическое освобождение или изменение соглашения не заявлены.",
+        "history_checked_at": "2026-10-07T09:01:41.115668+00:00",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms."
+      },
+      "slug": "2026-10-07_1300_-nl-german-drv-tax-policy-20261007",
+      "caption": "Нидерланды: опубликованы правила разделения немецкой пенсии между двумя налоговыми базами\n\n7 октября 2026 года опубликован акт от 5 октября № 2026-17749 о выплатах немецкой пенсионной системы DRV. Акт разъясняет: если взносы работника в немецкую пенсионную систему не вычитались при налогообложении, соответствующая часть выплаты не облагается в Нидерландах как доход от работы и жилья — по правилам первой налоговой категории. Стоимость права на эту часть пенсии учитывается в третьей категории, охватывающей сбережения и инвестиции.\n\nПочему это важно: Получателям немецких пенсий и их консультантам стоит проверить историю взносов и способ отражения пенсионных прав. Распределение между категориями может влиять на налог и имущественные критерии социальных выплат. Акт касается внутренних правил Нидерландов; применение соглашения с Германией требует отдельной оценки.\n\nИсточник: https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html",
+          "checked_at": "2026-10-07T09:14:19.079844+00:00",
+          "status_code": 200,
+          "final_url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html",
+          "evidence": [
+            {
+              "claim": "Акт разъясняет: если взносы работника в немецкую пенсионную систему не вычитались при налогообложении, соответствующая часть выплаты не облагается в Нидерландах как доход от работы и жилья — по правилам первой налоговой категории. Стоимость права на эту часть пенсии учитывается в третьей категории, охватывающей сбережения и инвестиции.",
+              "source_quote": "Beleidsbesluit van de Staatssecretaris van Financiën van 5 oktober 2026, nr. 2026-17749 over de fiscale behandeling van DRV-uitkeringen (Beleidsbesluit fiscale behandeling van DRV-uitkeringen) De Staatssecretaris van Financiën, Gelet op artikel 4.81 van de Algemene wet bestuursrecht, artikel 62 van de Algemene wet inzake rijksbelastingen en artikel 3.82 van de Wet inkomstenbelasting 2001; Besluit: 1. Inleiding Op 19 juni 2026 heeft de Hoge Raad arrest gewezen in een procedure waarin de fiscale behandeling van uitkeringen van de Deutsche Rentenversicherung centraal stond. 1 In dit beleidsbesluit worden enkele gevolgen van dit arrest nader uitgewerkt. 1.1 Gebruikte begrippen en afkortingen DRV De Duitse Rentenversicherung Wet IB 2001 UBIB 2001 URIB 2001 Wet LB 1964 Box 1 Box 3 Wet inkomstenbelasting 2001 Uitvoeringsbesluit inkomstenbelasting 2001 Uitvoeringsregeling inkomstenbelasting 2001 Wet op de loonbelasting 1964 Hst. 3 van de Wet IB 2001 (inkomen uit werk en woning) Hst. 5 van de Wet IB 2001 (inkomen uit sparen en beleggen) 2. Duiding van het arrest De DRV is een Duitse wettelijke regeling die onder andere voorziet in een wettelijke verzekering voor de oudedag en het overlijden. Die regeling bevat zowel elementen van een algemene ouderdomsregeling zoals de AOW/Anw (eerste pijlervoorziening) als van een pensioenregeling (tweede pijlervoorziening). De DRV wordt uitgevoerd door de Deutsche Rentenversicherung, die ook andere verzekeringen uitvoert. In het besluit van 24 maart 2014, nr. DGB 2014/144M is met betrekking tot de DRV het standpunt ingenomen dat de DRV geen pensioenregeling is in de zin van Hoofdstuk IIB Wet LB 1964, maar dat de desbetreffende aanspraken op grond van artikel 3.81 Wet IB 2001 – met overeenkomstige toepassing van artikel 19d Wet LB 1964 – niet tot het in artikel 3.80 Wet IB 2001 bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen. In de praktijk geldt volgens dat besluit als uitgangspunt dat de uitkeringen bij de uitkeringsgerechtigde zelf zijn belast, en wel in de regel als loon in de zin van de artikelen 3.81 en 3.82 Wet IB 2001. De Hoge Raad oordeelt dat op DRV-uitkeringen niet artikel 3.81 maar artikel 3.82, aanhef en onderdeel b, Wet IB 2001 van toepassing is. De Hoge Raad beschouwt artikel 3.82 Wet IB 2001 als bijzondere regeling ten opzichte van het algemene loonbegrip van artikel 3.81 Wet IB 2001. Alleen dat artikel beheerst daardoor volgens de Hoge Raad de box 1-behandeling van DRV-uitkeringen. Bij toepassing van artikel 3.82 Wet IB 2001 is van belang of aannemelijk is dat de aanspraak eerder in een met de Nederlandse loon- of inkomstenbelasting vergelijkbare heffing is betrokken. Daarbij is dus van belang of en in hoeverre de aanspraak in een dergelijke heffing is betrokken. In de meeste gevallen zal het hierbij gaan om de Duitse belastingheffing, maar in voorkomende gevallen kan het ook (deels) gaan om de Nederlandse heffing of de heffing van een derde land. De DRV-premies zijn in Duitsland in gelijke mate door werkgever en werknemer betaald. Vast staat dat het werkgeversdeel van de DRV-premies in Duitsland niet tot het loon behoord heeft. Het aan de werkgeversbijdragen gerelateerde deel van de DRV is dan ook niet eerder in de heffing betrokken. Voor het aan werknemersbijdragen gerelateerde deel van de DRV is dit anders. Vast staat dat het werknemersdeel van de DRV-premies tot 2005 in Duitsland ten minste beperkt aftrekbaar was. Voor inwoners van Duitsland was aftrek ten minste deels mogelijk als onderdeel van de zogenoemde Sonderausgaben. 2 Voor niet-inwoners was die aftrek tot 1995 slechts in beperkte mate mogelijk via een forfaitair bedrag. Vanaf 1995 hadden zij onder omstandigheden daarvoor dezelfde mogelijkheden als een inwoner van Duitsland. Vanaf 2005 zijn de werknemerspremies in Duitsland in toenemende mate aftrekbaar. Met ingang van 2023 zijn de werknemerspremies volledig aftrekbaar. Dat leidt tot de conclusie dat bij veel DRV-aanspraken een splitsing nodig is bij de toepassing van artikel 3.82 Wet IB 2001. Ik merk daarbij op dat onderscheid gemaakt moet worden tussen de DRV-uitkering zelf en de daarbij betaalde Zuschuss (onderdeel 5 van dit besluit). Nieuwe jurisprudentie Het arrest is nieuwe jurisprudentie in de zin van artikel 45aa URIB 2001. Dit besluit vormt nieuw beleid in de zin van artikel 45aa URIB 2001. Dat betekent dat ambtshalve vermindering op grond van het arrest en dit besluit alleen mogelijk is voor belastingaanslagen die op 19 juni 2026 nog niet onherroepelijk vaststonden. 3. Gevolgen voor de Nederlandse heffing en goedkeuring Box 1-gevolgen Voor zover de DRV-aanspraken in Duitsland belast zijn opgebouwd omdat de werknemerspremies niet aftrekbaar waren, is de omkeerregel niet van toepassing. Dat deel van de DRV-uitkering is niet belastbaar in box 1. Box 3-gevolgen Het gedeelte van de aanspraak waarop de omkeerregel niet van toepassing is, is een bezitting in box 3. Dat is niet alleen het geval in de uitkeringsfase, maar ook in de opbouwfase zodra een dergelijke aanspraak ontstaat. Over dit deel van de aanspraak kan dus box 3-belasting verschuldigd zijn. Ook is daardoor sprake van vermogen dat meetelt voor de vermogensgrens voor inkomensafhankelijke regelingen zoals de huur- en zorgtoeslag. De jaarlijks in aanmerking te nemen waarde wordt met overeenkomstige toepassing van artikel 19 UBIB 2001 bepaald. Deze waardering is afhankelijk van de leeftijd van de pensioengerechtigde, het geslacht en van de aanwezigheid van een partner met recht op nabestaandenpensioen. Bij een belastingplichtige zonder partner wordt de waarde bepaald met toepassing van artikel 19, eerste of zevende lid, UBIB 2001. Bij een belastingplichtige met een partner is in beginsel sprake van een uitkering afhankelijk van – de langstlevende van – twee levens en dient de waardering anders plaats te vinden. Artikel 19 UBIB 2001 bevat geen waarderingsvoorschrift dat op deze situatie is toegeschreven. Ook wijken de uitgangspunten van het nabestaandendeel van de DRV te ver af van de uitgangspunten van artikel 19 UBIB 2001 voor uitkeringen afhankelijk van twee levens om daar op andere wijze bij aan te kunnen sluiten. Dit betekent dat strikt genomen zou moeten worden teruggevallen op het elfde lid van genoemd artikel (het bedrag waarvoor een dergelijke uitkering – bij een verzekeraar – zou kunnen worden gekocht). Ook dat zou echter op grote praktische bezwaren stuiten. Daarom keur ik het volgende goed met toepassing van artikel 62 AWR. Goedkeuring Ik keur goed dat bij de waardering van het box 3-deel van een DRV-aanspraak van een belastingplichtige met partner, deze waardering geschiedt alsof de belastingplichtige geen partner heeft. 4. Bewijspositie en goedkeuring De bewijslast om aannemelijk te maken over welk deel van een aanspraak een met de Nederlandse loon- of inkomstenbelasting overeenkomende heffing heeft plaatsgevonden (en dus op welk deel de omkeerregel van toepassing is) rust op de belastingplichtige. Daarvoor zijn gegevens over de opbouw en Duitse fiscale behandeling van de aanspraak nodig. Voor een goede splitsing is daarbij onder andere noodzakelijk per jaar inzichtelijk te maken waar de belastingplichtige woonde, waar deze werkte, welke mogelijkheid tot aftrek er was en in hoeverre die aftrek feitelijk plaats heeft gevonden. Die gegevens over het verleden zijn mogelijk niet meer volledig of in het geheel niet beschikbaar. Gezien het eerder ingenomen beleidsmatige standpunt over de behandeling van deze aanspraken had een belastingplichtige ook niet hoeven beseffen dat het noodzakelijk zou kunnen zijn deze informatie te bewaren. Opsplitsing van dergelijke aanspraken in een box 1- en box 3-deel is daardoor ingewikkeld en tijdsintensief werk voor zowel de belastingplichtige als de Belastingdienst. Kohortenprinzip Duitsland Ook Duitsland zag zich geconfronteerd met de vraag hoe omgegaan moest worden met de heffing over DRV-uitkeringen waarop deels en in veranderende mate de omkeerregel van toepassing was. Duitsland heeft om die reden een zogenoemd Kohortenprinzip 3 geïntroduceerd, dat toepassing vindt vanaf 2005. Deze regeling houdt samengevat in dat Duitsland een vast bedrag van de uitkering als niet-belastbaar aanmerkt. Dat bedrag wordt bepaald door een percentage, gebaseerd op het jaar waarin de uitkering in gaat, te vermenigvuldigen met de jaaruitkering van het jaar erna. Op die manier doet Duitsland recht aan de omstandigheid dat niet alle premies (volledig) aftrekbaar waren, en dus de DRV-aanspraak niet volledig onder de omkeerregel valt. In de bewijsrechtelijke positie waarin een belastingplichtige komt te verkeren en gezien de wijze waarop Duitsland zelf rekening houdt met de eerdere Duitse behandeling zie ik aanleiding om als bewijsvermoeden bij het Duitse Kohortenprinzip aan te sluiten. Daarom keur ik het volgende goed met toepassing van artikel 62 AWR. Goedkeuring Ik keur onder voorwaarden goed dat bij de beoordeling welk deel van een DRV-aanspraak op grond van artikel 3.82 Wet IB 2001 belastbaar is in box 1, gebruikgemaakt wordt van de aan het Duitse Kohortenprinzip ontleende tabel in onderdeel 9 van dit besluit. Voor nog niet ingegane aanspraken kan daarbij de Duitse wettelijke pensioenleeftijd (Regelaltersrente) gebruikt worden. Het niet in box 1 belastbare deel wordt berekend door het toepasselijke percentage uit de tabel te vermenigvuldigen met de jaaruitkering van het jaar erna. Ik merk op dat het hier om een goedkeuring gaat. Het staat een belastingplichtige vrij om aan de hand van bewijsstukken het werkelijke percentage van de aanspraak dat belastbaar is in box 1 aannemelijk te maken. De waarde van het overige deel van de aanspraak behoort tot de rendementsgrondslag van box 3. Voorwaarde Voor deze goedkeuring geldt de volgende voorwaarde: – Het gaat om een belastingaanslag die op 19 juni 2026 nog niet onherroepelijk vaststond. Voorbeeld A is op 1 januari 2026 70 jaar oud. Omdat hij van 1985 tot en met 2004 in Duitsland heeft gewerkt geniet hij in 2026 een DRV-uitkering ter hoogte van € 10.000 per jaar (exclusief Zuschuss, zie onderdeel 5 van dit besluit). Dat pensioen is in 2021 ingegaan. A heeft geen partner. A heeft voor het overige geen noemenswaardige box 3-bezittingen of -schulden en ontvangt huurtoeslag. De DRV-uitkering bedroeg in 2022 € 9.000 (exclusief Zuschuss). Uit de tabel in onderdeel 9 van dit besluit volgt bij ingangsjaar van de uitkering in 2021 een belast percentage van 81%. Dat betekent dat 19% van de in 2022 genoten uitkering het niet in box 1 belastbare deel van de uitkering vormt. Het niet in box 1 belastbare deel bedraagt daarom jaarlijks € 1.710. Het niet in box 1 belastbare deel van de aanspraak behoort tot de bezittingen in box 3 en moet gewaardeerd worden via artikel 19 UBIB 2001. Bij toepassing van de goedkeuring bedraagt de waarde van die bezitting op grond van het eerste lid van dat artikel € 13.680 4 . A kan er ook voor kiezen aan de hand van bewijsstukken aannemelijk te maken dat de omkeerregel op een kleiner deel van zijn uitkering van toepassing is en daardoor een minder groot deel van de uitkering belastbaar is in box 1. Zo is het bijvoorbeeld mogelijk dat hij aannemelijk maakt dat het niet in box 1 belastbare deel van de uitkering in 2026 € 5.000 bedraagt. De waarde van zijn aanspraak bedraagt in dat geval op grond van het eerste lid van artikel 19 UBIB 2001 € 40.000. Hoewel dit bedrag onder het heffingvrije vermogen blijft en A daardoor geen box 3-belasting verschuldigd is, verliest hij wel het recht op huurtoeslag. De vermogensgrens voor huurtoeslag bedraagt in 2026 in zijn geval namelijk € 38.749. 5. Zuschuss Inwoners van Nederland met een DRV-uitkering krijgen van de DRV een tegemoetkoming (Zuschuss) voor de premie Wlz en de bijdrage Zvw die zij in Nederland betalen. Deze wordt naast de DRV-uitkering zelf betaald maar het recht op deze Zuschuss volgt niet uit de DRV-aanspraak zelf. De Zuschuss is integraal belastbaar in box 1 op grond van artikel 3.101, eerste lid, onderdeel a, Wet IB 2001. 5 De hiervoor en in het arrest van 29 juni 2026 opgenomen uitgangspunten gelden dus niet voor de Zuschuss. 6. Verdragstoepassing Het belastingverdrag met Duitsland 6 bepaalt onder andere in welke staat door een inwoner van Nederland genoten DRV-uitkeringen belast mogen worden. Voor de verdeling van dat heffingsrecht is onder andere van belang wat in een kalenderjaar het totaalbedrag aan pensioenen of soortgelijke beloningen, alsmede lijfrente en pensioenen krachtens de bepalingen van het socialezekerheidsstelsel van een verdragsluitende staat is. Dit arrest en besluit zien alleen op de nationaalrechtelijke behandeling van de DRV-uitkeringen en brengen geen verandering aan in de verdragstoepassing. 7. Besluit nr. DGB 2014/144M Zoals in onderdeel 2 is aangegeven, wijken de uitgangspunten van het arrest en dit besluit af van de standpunten die ik eerder heb ingenomen en die onder andere in het besluit van 24 maart 2014, nr. DGB 2014/144M, zijn opgenomen. Eerder werd immers uitgegaan van volledige belastingheffing in box 1. Daaruit volgt dan ook dat de DRV-aanspraak niet tot de box 3-bezittingen behoort waardoor geen doorwerking naar (de vermogenstoets voor de) inkomensafhankelijke regelingen zoals toeslagen bestaat. Op dat eerdere standpunt kan zolang dat standpunt niet herzien wordt nog een beroep worden gedaan. Belastingplichtigen hebben daardoor feitelijk een keuzemogelijkheid: – Zij kunnen ervoor kiezen de DRV-aanspraak volledig in box 1 te houden volgens het oude standpunt. – Zij kunnen er ook voor kiezen het arrest en de uitgangspunten van dit besluit toe te passen. Bij dit laatste wijs ik er nogmaals op dat dit alleen mogelijk is voor belastingaanslagen die op 19 juni 2026 nog niet onherroepelijk vaststonden. 8. Wijze van verwerking in aangifte Keuze voor toepassing van dit besluit (splitsing) of het oude standpunt (volledig box 1) De keuze voor toepassing van de uitgangspunten van dit besluit en het arrest van 19 juni 2026 en het oude standpunt kan gemaakt worden bij zowel de aangifte inkomstenbelasting, in bezwaar als in een verzoek om ambtshalve vermindering (voor op 19 juni 2026 nog niet onherroepelijk vaststaande belastingaanslagen). Bij ingediende aangiften inkomstenbelasting waarin de DRV-uitkering volledig in box 1 is opgegeven gaat de Belastingdienst ervanuit dat een beroep op het oude standpunt wordt gedaan. Verwerking van de uitgangspunten van dit besluit in de aangifte Bij de keuze voor toepassing van de uitgangspunten van dit arrest dient een deel van de DRV-aanspraak in box 3 belast te worden. Onder toepassing van het belastingverdrag met Duitsland is het mogelijk dat niet Nederland maar Duitsland het heffingsrecht over de DRV-uitkering heeft. Nederland dient dan een vermindering ter voorkoming van dubbele belasting te verlenen, ook voor dat box 3-deel. Ten tijde van publicatie van dit beleidsbesluit is het niet mogelijk die situatie juist te verwerken in de aangifte inkomstenbelasting. Tot het moment waarop de aangifte wel voorziet in die mogelijkheid zal in een dergelijk geval contact opgenomen moeten worden met de competente inspecteur bij de Belastingdienst om tot een juiste aanslag te komen. 9. Tabel behorend bij goedkeuring Voor de goedkeuring in onderdeel 3 kan van onderstaande tabel worden uitgegaan. Ingangsjaar uitkering Percentage belastbaar in box 1 Ingangsjaar uitkering Percentage belastbaar in box 1 2005 en eerder 50,0% 2032 87,0% 2006 52,0% 2033 87,5% 2007 54,0% 2034 88,0% 2008 56,0% 2035 88,5% 2009 58,0% 2036 89,0% 2010 60,0% 2037 89,5% 2011 62,0% 2038 90,0% 2012 64,0% 2039 90,5% 2013 66,0% 2040 91,0% 2014 68,0% 2041 91,5% 2015 70,0% 2042 92,0% 2016 72,0% 2043 92,5% 2017 74,0% 2044 93,0% 2018 76,0% 2045 93,5% 2019 78,0% 2046 94,0% 2020 80,0% 2047 94,5% 2021 81,0% 2048 95,0% 2022 82,0% 2049 95,5% 2023 82,5% 2050 96,0% 2024 83,0% 2051 96,5% 2025 83,5% 2052 97,0% 2026 84,0% 2053 97,5% 2027 84,5% 2054 98,0% 2028 85,0% 2055 98,5% 2029 85,5% 2056 99,0% 2030 86,0% 2057 99,5% 2031 86,5% 2058 en verder 100,0% 10. Inwerkingtreding Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 11. Citeertitel Dit besluit wordt aangehaald als: Beleidsbesluit fiscale behandeling van DRV-uitkeringen. 12. Publicatie en ondertekening Dit besluit zal in de Staatscourant worden geplaatst. Den Haag, 5 oktober 2026 De Staatssecretaris van Financiën, namens deze, M.C. de Graaf Waarnemend hoofddirecteur Fiscale en Juridische Zaken X Noot 1 Hoge Raad 19 juni 2026, ECLI:NL:HR:2026:961. X Noot 2 Bundesverfassungsgericht 6 maart 2002, 2 BvL 17/99, ECLI:DE:BVerfG:2002:ls20020306.2bvl001799, rov. 130 t/m 134. X Noot 3 § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe aa EStG X Noot 4 € 1.710 vermenigvuldigd met factor 8. X Noot 5 Aanhangsel Handelingen II, 2017/2018, 1201 . X Noot 6 Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, 12 april 2012."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html",
+            "checked_at": "2026-10-07T09:14:19.079844+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html",
+            "evidence": [
+              {
+                "claim": "Акт разъясняет: если взносы работника в немецкую пенсионную систему не вычитались при налогообложении, соответствующая часть выплаты не облагается в Нидерландах как доход от работы и жилья — по правилам первой налоговой категории. Стоимость права на эту часть пенсии учитывается в третьей категории, охватывающей сбережения и инвестиции.",
+                "source_quote": "Beleidsbesluit van de Staatssecretaris van Financiën van 5 oktober 2026, nr. 2026-17749 over de fiscale behandeling van DRV-uitkeringen (Beleidsbesluit fiscale behandeling van DRV-uitkeringen) De Staatssecretaris van Financiën, Gelet op artikel 4.81 van de Algemene wet bestuursrecht, artikel 62 van de Algemene wet inzake rijksbelastingen en artikel 3.82 van de Wet inkomstenbelasting 2001; Besluit: 1. Inleiding Op 19 juni 2026 heeft de Hoge Raad arrest gewezen in een procedure waarin de fiscale behandeling van uitkeringen van de Deutsche Rentenversicherung centraal stond. 1 In dit beleidsbesluit worden enkele gevolgen van dit arrest nader uitgewerkt. 1.1 Gebruikte begrippen en afkortingen DRV De Duitse Rentenversicherung Wet IB 2001 UBIB 2001 URIB 2001 Wet LB 1964 Box 1 Box 3 Wet inkomstenbelasting 2001 Uitvoeringsbesluit inkomstenbelasting 2001 Uitvoeringsregeling inkomstenbelasting 2001 Wet op de loonbelasting 1964 Hst. 3 van de Wet IB 2001 (inkomen uit werk en woning) Hst. 5 van de Wet IB 2001 (inkomen uit sparen en beleggen) 2. Duiding van het arrest De DRV is een Duitse wettelijke regeling die onder andere voorziet in een wettelijke verzekering voor de oudedag en het overlijden. Die regeling bevat zowel elementen van een algemene ouderdomsregeling zoals de AOW/Anw (eerste pijlervoorziening) als van een pensioenregeling (tweede pijlervoorziening). De DRV wordt uitgevoerd door de Deutsche Rentenversicherung, die ook andere verzekeringen uitvoert. In het besluit van 24 maart 2014, nr. DGB 2014/144M is met betrekking tot de DRV het standpunt ingenomen dat de DRV geen pensioenregeling is in de zin van Hoofdstuk IIB Wet LB 1964, maar dat de desbetreffende aanspraken op grond van artikel 3.81 Wet IB 2001 – met overeenkomstige toepassing van artikel 19d Wet LB 1964 – niet tot het in artikel 3.80 Wet IB 2001 bedoelde loon behoren en de desbetreffende inhoudingen op het loon in mindering komen. In de praktijk geldt volgens dat besluit als uitgangspunt dat de uitkeringen bij de uitkeringsgerechtigde zelf zijn belast, en wel in de regel als loon in de zin van de artikelen 3.81 en 3.82 Wet IB 2001. De Hoge Raad oordeelt dat op DRV-uitkeringen niet artikel 3.81 maar artikel 3.82, aanhef en onderdeel b, Wet IB 2001 van toepassing is. De Hoge Raad beschouwt artikel 3.82 Wet IB 2001 als bijzondere regeling ten opzichte van het algemene loonbegrip van artikel 3.81 Wet IB 2001. Alleen dat artikel beheerst daardoor volgens de Hoge Raad de box 1-behandeling van DRV-uitkeringen. Bij toepassing van artikel 3.82 Wet IB 2001 is van belang of aannemelijk is dat de aanspraak eerder in een met de Nederlandse loon- of inkomstenbelasting vergelijkbare heffing is betrokken. Daarbij is dus van belang of en in hoeverre de aanspraak in een dergelijke heffing is betrokken. In de meeste gevallen zal het hierbij gaan om de Duitse belastingheffing, maar in voorkomende gevallen kan het ook (deels) gaan om de Nederlandse heffing of de heffing van een derde land. De DRV-premies zijn in Duitsland in gelijke mate door werkgever en werknemer betaald. Vast staat dat het werkgeversdeel van de DRV-premies in Duitsland niet tot het loon behoord heeft. Het aan de werkgeversbijdragen gerelateerde deel van de DRV is dan ook niet eerder in de heffing betrokken. Voor het aan werknemersbijdragen gerelateerde deel van de DRV is dit anders. Vast staat dat het werknemersdeel van de DRV-premies tot 2005 in Duitsland ten minste beperkt aftrekbaar was. Voor inwoners van Duitsland was aftrek ten minste deels mogelijk als onderdeel van de zogenoemde Sonderausgaben. 2 Voor niet-inwoners was die aftrek tot 1995 slechts in beperkte mate mogelijk via een forfaitair bedrag. Vanaf 1995 hadden zij onder omstandigheden daarvoor dezelfde mogelijkheden als een inwoner van Duitsland. Vanaf 2005 zijn de werknemerspremies in Duitsland in toenemende mate aftrekbaar. Met ingang van 2023 zijn de werknemerspremies volledig aftrekbaar. Dat leidt tot de conclusie dat bij veel DRV-aanspraken een splitsing nodig is bij de toepassing van artikel 3.82 Wet IB 2001. Ik merk daarbij op dat onderscheid gemaakt moet worden tussen de DRV-uitkering zelf en de daarbij betaalde Zuschuss (onderdeel 5 van dit besluit). Nieuwe jurisprudentie Het arrest is nieuwe jurisprudentie in de zin van artikel 45aa URIB 2001. Dit besluit vormt nieuw beleid in de zin van artikel 45aa URIB 2001. Dat betekent dat ambtshalve vermindering op grond van het arrest en dit besluit alleen mogelijk is voor belastingaanslagen die op 19 juni 2026 nog niet onherroepelijk vaststonden. 3. Gevolgen voor de Nederlandse heffing en goedkeuring Box 1-gevolgen Voor zover de DRV-aanspraken in Duitsland belast zijn opgebouwd omdat de werknemerspremies niet aftrekbaar waren, is de omkeerregel niet van toepassing. Dat deel van de DRV-uitkering is niet belastbaar in box 1. Box 3-gevolgen Het gedeelte van de aanspraak waarop de omkeerregel niet van toepassing is, is een bezitting in box 3. Dat is niet alleen het geval in de uitkeringsfase, maar ook in de opbouwfase zodra een dergelijke aanspraak ontstaat. Over dit deel van de aanspraak kan dus box 3-belasting verschuldigd zijn. Ook is daardoor sprake van vermogen dat meetelt voor de vermogensgrens voor inkomensafhankelijke regelingen zoals de huur- en zorgtoeslag. De jaarlijks in aanmerking te nemen waarde wordt met overeenkomstige toepassing van artikel 19 UBIB 2001 bepaald. Deze waardering is afhankelijk van de leeftijd van de pensioengerechtigde, het geslacht en van de aanwezigheid van een partner met recht op nabestaandenpensioen. Bij een belastingplichtige zonder partner wordt de waarde bepaald met toepassing van artikel 19, eerste of zevende lid, UBIB 2001. Bij een belastingplichtige met een partner is in beginsel sprake van een uitkering afhankelijk van – de langstlevende van – twee levens en dient de waardering anders plaats te vinden. Artikel 19 UBIB 2001 bevat geen waarderingsvoorschrift dat op deze situatie is toegeschreven. Ook wijken de uitgangspunten van het nabestaandendeel van de DRV te ver af van de uitgangspunten van artikel 19 UBIB 2001 voor uitkeringen afhankelijk van twee levens om daar op andere wijze bij aan te kunnen sluiten. Dit betekent dat strikt genomen zou moeten worden teruggevallen op het elfde lid van genoemd artikel (het bedrag waarvoor een dergelijke uitkering – bij een verzekeraar – zou kunnen worden gekocht). Ook dat zou echter op grote praktische bezwaren stuiten. Daarom keur ik het volgende goed met toepassing van artikel 62 AWR. Goedkeuring Ik keur goed dat bij de waardering van het box 3-deel van een DRV-aanspraak van een belastingplichtige met partner, deze waardering geschiedt alsof de belastingplichtige geen partner heeft. 4. Bewijspositie en goedkeuring De bewijslast om aannemelijk te maken over welk deel van een aanspraak een met de Nederlandse loon- of inkomstenbelasting overeenkomende heffing heeft plaatsgevonden (en dus op welk deel de omkeerregel van toepassing is) rust op de belastingplichtige. Daarvoor zijn gegevens over de opbouw en Duitse fiscale behandeling van de aanspraak nodig. Voor een goede splitsing is daarbij onder andere noodzakelijk per jaar inzichtelijk te maken waar de belastingplichtige woonde, waar deze werkte, welke mogelijkheid tot aftrek er was en in hoeverre die aftrek feitelijk plaats heeft gevonden. Die gegevens over het verleden zijn mogelijk niet meer volledig of in het geheel niet beschikbaar. Gezien het eerder ingenomen beleidsmatige standpunt over de behandeling van deze aanspraken had een belastingplichtige ook niet hoeven beseffen dat het noodzakelijk zou kunnen zijn deze informatie te bewaren. Opsplitsing van dergelijke aanspraken in een box 1- en box 3-deel is daardoor ingewikkeld en tijdsintensief werk voor zowel de belastingplichtige als de Belastingdienst. Kohortenprinzip Duitsland Ook Duitsland zag zich geconfronteerd met de vraag hoe omgegaan moest worden met de heffing over DRV-uitkeringen waarop deels en in veranderende mate de omkeerregel van toepassing was. Duitsland heeft om die reden een zogenoemd Kohortenprinzip 3 geïntroduceerd, dat toepassing vindt vanaf 2005. Deze regeling houdt samengevat in dat Duitsland een vast bedrag van de uitkering als niet-belastbaar aanmerkt. Dat bedrag wordt bepaald door een percentage, gebaseerd op het jaar waarin de uitkering in gaat, te vermenigvuldigen met de jaaruitkering van het jaar erna. Op die manier doet Duitsland recht aan de omstandigheid dat niet alle premies (volledig) aftrekbaar waren, en dus de DRV-aanspraak niet volledig onder de omkeerregel valt. In de bewijsrechtelijke positie waarin een belastingplichtige komt te verkeren en gezien de wijze waarop Duitsland zelf rekening houdt met de eerdere Duitse behandeling zie ik aanleiding om als bewijsvermoeden bij het Duitse Kohortenprinzip aan te sluiten. Daarom keur ik het volgende goed met toepassing van artikel 62 AWR. Goedkeuring Ik keur onder voorwaarden goed dat bij de beoordeling welk deel van een DRV-aanspraak op grond van artikel 3.82 Wet IB 2001 belastbaar is in box 1, gebruikgemaakt wordt van de aan het Duitse Kohortenprinzip ontleende tabel in onderdeel 9 van dit besluit. Voor nog niet ingegane aanspraken kan daarbij de Duitse wettelijke pensioenleeftijd (Regelaltersrente) gebruikt worden. Het niet in box 1 belastbare deel wordt berekend door het toepasselijke percentage uit de tabel te vermenigvuldigen met de jaaruitkering van het jaar erna. Ik merk op dat het hier om een goedkeuring gaat. Het staat een belastingplichtige vrij om aan de hand van bewijsstukken het werkelijke percentage van de aanspraak dat belastbaar is in box 1 aannemelijk te maken. De waarde van het overige deel van de aanspraak behoort tot de rendementsgrondslag van box 3. Voorwaarde Voor deze goedkeuring geldt de volgende voorwaarde: – Het gaat om een belastingaanslag die op 19 juni 2026 nog niet onherroepelijk vaststond. Voorbeeld A is op 1 januari 2026 70 jaar oud. Omdat hij van 1985 tot en met 2004 in Duitsland heeft gewerkt geniet hij in 2026 een DRV-uitkering ter hoogte van € 10.000 per jaar (exclusief Zuschuss, zie onderdeel 5 van dit besluit). Dat pensioen is in 2021 ingegaan. A heeft geen partner. A heeft voor het overige geen noemenswaardige box 3-bezittingen of -schulden en ontvangt huurtoeslag. De DRV-uitkering bedroeg in 2022 € 9.000 (exclusief Zuschuss). Uit de tabel in onderdeel 9 van dit besluit volgt bij ingangsjaar van de uitkering in 2021 een belast percentage van 81%. Dat betekent dat 19% van de in 2022 genoten uitkering het niet in box 1 belastbare deel van de uitkering vormt. Het niet in box 1 belastbare deel bedraagt daarom jaarlijks € 1.710. Het niet in box 1 belastbare deel van de aanspraak behoort tot de bezittingen in box 3 en moet gewaardeerd worden via artikel 19 UBIB 2001. Bij toepassing van de goedkeuring bedraagt de waarde van die bezitting op grond van het eerste lid van dat artikel € 13.680 4 . A kan er ook voor kiezen aan de hand van bewijsstukken aannemelijk te maken dat de omkeerregel op een kleiner deel van zijn uitkering van toepassing is en daardoor een minder groot deel van de uitkering belastbaar is in box 1. Zo is het bijvoorbeeld mogelijk dat hij aannemelijk maakt dat het niet in box 1 belastbare deel van de uitkering in 2026 € 5.000 bedraagt. De waarde van zijn aanspraak bedraagt in dat geval op grond van het eerste lid van artikel 19 UBIB 2001 € 40.000. Hoewel dit bedrag onder het heffingvrije vermogen blijft en A daardoor geen box 3-belasting verschuldigd is, verliest hij wel het recht op huurtoeslag. De vermogensgrens voor huurtoeslag bedraagt in 2026 in zijn geval namelijk € 38.749. 5. Zuschuss Inwoners van Nederland met een DRV-uitkering krijgen van de DRV een tegemoetkoming (Zuschuss) voor de premie Wlz en de bijdrage Zvw die zij in Nederland betalen. Deze wordt naast de DRV-uitkering zelf betaald maar het recht op deze Zuschuss volgt niet uit de DRV-aanspraak zelf. De Zuschuss is integraal belastbaar in box 1 op grond van artikel 3.101, eerste lid, onderdeel a, Wet IB 2001. 5 De hiervoor en in het arrest van 29 juni 2026 opgenomen uitgangspunten gelden dus niet voor de Zuschuss. 6. Verdragstoepassing Het belastingverdrag met Duitsland 6 bepaalt onder andere in welke staat door een inwoner van Nederland genoten DRV-uitkeringen belast mogen worden. Voor de verdeling van dat heffingsrecht is onder andere van belang wat in een kalenderjaar het totaalbedrag aan pensioenen of soortgelijke beloningen, alsmede lijfrente en pensioenen krachtens de bepalingen van het socialezekerheidsstelsel van een verdragsluitende staat is. Dit arrest en besluit zien alleen op de nationaalrechtelijke behandeling van de DRV-uitkeringen en brengen geen verandering aan in de verdragstoepassing. 7. Besluit nr. DGB 2014/144M Zoals in onderdeel 2 is aangegeven, wijken de uitgangspunten van het arrest en dit besluit af van de standpunten die ik eerder heb ingenomen en die onder andere in het besluit van 24 maart 2014, nr. DGB 2014/144M, zijn opgenomen. Eerder werd immers uitgegaan van volledige belastingheffing in box 1. Daaruit volgt dan ook dat de DRV-aanspraak niet tot de box 3-bezittingen behoort waardoor geen doorwerking naar (de vermogenstoets voor de) inkomensafhankelijke regelingen zoals toeslagen bestaat. Op dat eerdere standpunt kan zolang dat standpunt niet herzien wordt nog een beroep worden gedaan. Belastingplichtigen hebben daardoor feitelijk een keuzemogelijkheid: – Zij kunnen ervoor kiezen de DRV-aanspraak volledig in box 1 te houden volgens het oude standpunt. – Zij kunnen er ook voor kiezen het arrest en de uitgangspunten van dit besluit toe te passen. Bij dit laatste wijs ik er nogmaals op dat dit alleen mogelijk is voor belastingaanslagen die op 19 juni 2026 nog niet onherroepelijk vaststonden. 8. Wijze van verwerking in aangifte Keuze voor toepassing van dit besluit (splitsing) of het oude standpunt (volledig box 1) De keuze voor toepassing van de uitgangspunten van dit besluit en het arrest van 19 juni 2026 en het oude standpunt kan gemaakt worden bij zowel de aangifte inkomstenbelasting, in bezwaar als in een verzoek om ambtshalve vermindering (voor op 19 juni 2026 nog niet onherroepelijk vaststaande belastingaanslagen). Bij ingediende aangiften inkomstenbelasting waarin de DRV-uitkering volledig in box 1 is opgegeven gaat de Belastingdienst ervanuit dat een beroep op het oude standpunt wordt gedaan. Verwerking van de uitgangspunten van dit besluit in de aangifte Bij de keuze voor toepassing van de uitgangspunten van dit arrest dient een deel van de DRV-aanspraak in box 3 belast te worden. Onder toepassing van het belastingverdrag met Duitsland is het mogelijk dat niet Nederland maar Duitsland het heffingsrecht over de DRV-uitkering heeft. Nederland dient dan een vermindering ter voorkoming van dubbele belasting te verlenen, ook voor dat box 3-deel. Ten tijde van publicatie van dit beleidsbesluit is het niet mogelijk die situatie juist te verwerken in de aangifte inkomstenbelasting. Tot het moment waarop de aangifte wel voorziet in die mogelijkheid zal in een dergelijk geval contact opgenomen moeten worden met de competente inspecteur bij de Belastingdienst om tot een juiste aanslag te komen. 9. Tabel behorend bij goedkeuring Voor de goedkeuring in onderdeel 3 kan van onderstaande tabel worden uitgegaan. Ingangsjaar uitkering Percentage belastbaar in box 1 Ingangsjaar uitkering Percentage belastbaar in box 1 2005 en eerder 50,0% 2032 87,0% 2006 52,0% 2033 87,5% 2007 54,0% 2034 88,0% 2008 56,0% 2035 88,5% 2009 58,0% 2036 89,0% 2010 60,0% 2037 89,5% 2011 62,0% 2038 90,0% 2012 64,0% 2039 90,5% 2013 66,0% 2040 91,0% 2014 68,0% 2041 91,5% 2015 70,0% 2042 92,0% 2016 72,0% 2043 92,5% 2017 74,0% 2044 93,0% 2018 76,0% 2045 93,5% 2019 78,0% 2046 94,0% 2020 80,0% 2047 94,5% 2021 81,0% 2048 95,0% 2022 82,0% 2049 95,5% 2023 82,5% 2050 96,0% 2024 83,0% 2051 96,5% 2025 83,5% 2052 97,0% 2026 84,0% 2053 97,5% 2027 84,5% 2054 98,0% 2028 85,0% 2055 98,5% 2029 85,5% 2056 99,0% 2030 86,0% 2057 99,5% 2031 86,5% 2058 en verder 100,0% 10. Inwerkingtreding Dit besluit treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 11. Citeertitel Dit besluit wordt aangehaald als: Beleidsbesluit fiscale behandeling van DRV-uitkeringen. 12. Publicatie en ondertekening Dit besluit zal in de Staatscourant worden geplaatst. Den Haag, 5 oktober 2026 De Staatssecretaris van Financiën, namens deze, M.C. de Graaf Waarnemend hoofddirecteur Fiscale en Juridische Zaken X Noot 1 Hoge Raad 19 juni 2026, ECLI:NL:HR:2026:961. X Noot 2 Bundesverfassungsgericht 6 maart 2002, 2 BvL 17/99, ECLI:DE:BVerfG:2002:ls20020306.2bvl001799, rov. 130 t/m 134. X Noot 3 § 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe aa EStG X Noot 4 € 1.710 vermenigvuldigd met factor 8. X Noot 5 Aanhangsel Handelingen II, 2017/2018, 1201 . X Noot 6 Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, 12 april 2012."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-nl-german-drv-tax-policy-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг: предложен выборочный режим налоговых льгот для инвестирующих компаний",
+      "sources": [
+        {
+          "name": "Налоговое управление Гонконга, официальная речь министра",
+          "url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm"
+        }
+      ],
+      "theme": "Предлагаемые налоговые льготы для иностранных и местных инвесторов",
+      "jurisdictions": "Гонконг",
+      "act": "Речь министра финансовых услуг и казначейства от 05.10.2026 о предлагаемом льготном режиме",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm",
+        "source_quote": "2026年10月5日（星期一） 香港时间11时53分"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "hk-targeted-investment-tax-regime-speech-20261005",
+        "cross_border_relevance": "Официальная речь описывает предложенный инструмент привлечения компаний и трансграничных инвестиций, включая новые штаб-квартиры и логистические операции. Проверены статус предложения, 5%, 8,25% и максимум пять лет; это не принятый закон и не автоматическая льгота.",
+        "history_checked_at": "2026-10-07T09:01:41.292725+00:00",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms."
+      },
+      "slug": "2026-10-07_1300_-hk-targeted-investment-tax-regime-speech-20261005",
+      "caption": "Гонконг: предложен выборочный режим налоговых льгот для инвестирующих компаний\n\n5 октября 2026 года министр представил предложение на заседании финансовой комиссии Законодательного совета. Министр финансовых услуг и казначейства описал предлагаемый режим: компании при выполнении требований к деятельности, инвестициям и вкладу в экономику смогут претендовать на ставку налога на прибыль 5% либо на половинную ставку 8,25%. Предельный срок предоставления льготы предлагается ограничить пятью годами.\n\nПочему это важно: Компаниям, рассматривающим размещение производства, исследований или штаб-квартиры в Гонконге, стоит оценивать планируемые условия отбора. Речь идёт о предложении, требующем законодательного оформления и одобрения заявок; действующее право на эти ставки из речи министра не возникает.\n\nИсточник: https://www.ird.gov.hk/chs/ppr/archives/26100501.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm",
+          "checked_at": "2026-10-07T09:14:19.339393+00:00",
+          "status_code": 200,
+          "final_url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm",
+          "evidence": [
+            {
+              "claim": "Министр финансовых услуг и казначейства описал предлагаемый режим: компании при выполнении требований к деятельности, инвестициям и вкладу в экономику смогут претендовать на ставку налога на прибыль 5% либо на половинную ставку 8,25%. Предельный срок предоставления льготы предлагается ограничить пятью годами.",
+              "source_quote": "财经事务及库务局局长在立法会财经事务委员会会议就促进产业和投资的优惠政策包──税务减免开场发言（只有中文） ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊ 以下是财经事务及库务局局长许正宇今日（十月五日）在立法会财经事务委员会会议就促进产业和投资的优惠政策包──税务减免的开场发言全文： 主席： 首先感谢主席和议员出席，让我有机会向大家简介促进产业和投资的优惠政策包下的优惠税制。 二○二五年《施政报告》宣布政府会制订优惠政策包以吸引高增值产业及高潜力企业来港。而作为优惠政策包的其中一项政策工具，二○二六年《施政报告》进一步宣布政府将在今年年底提交修订条例草案以设立优惠税制，视乎企业的投资计划及对香港经济的实质贡献等，考虑为重点产业的合资格企业提供税务优惠。 我会先介绍拟议优惠税制的重点，然后黎秘书长（财经事务及库务局常任秘书长（库务）黎志华）将介绍运作安排及修订《税务条例》（第112章）的建议。 优惠政策包有多种政策工具，包括批地、资助或税务减免优惠等，拟议优惠税制是其中一项，目标是吸引从事先进制造、创科研发、总部活动、物流和供应链管理和金融等重点产业的企业。因此，今天除了局方和税务局同事在场，也有来自各个相关政策局的代表，因为此事牵涉不同政策局管辖的相关范畴。除一些基本要求（例如进行符合规定的活动、营运开支及全职雇员数目等最低门槛）外，如企业的投资计划及对香港经济的实质贡献等能满足一定条件及水平，则可获批百分之五或半税（即对法团而言为百分之八点二五）的特惠税率，合资格年期最长为五年。 正如我刚才提到，拟议优惠税制具有高度选择性。我们会透过严格的审批机制，甄选具备相关条件及发展潜力的企业。新落户香港的企业及已在香港有业务的企业均可经投资推广署及引进重点企业办公室（引进办）提交它们在香港的商业计划，申请拟议优惠税制下的税务优惠，今天两个机构也有代表在此。由财政司司长领导的吸引产业和投资优惠政策督导委员会（督导委员会）会负责审批申请。督导委员会会在相关政策局及部门协助下，全盘审视企业的申请，当中考虑的因素包括企业的规模、性质及商业计划等。督导委员会会对获批的企业就开支金额及全职雇员数目订立要求，并会按个别情况施加额外条件。 企业或会担心拟议优惠税制会否取代现时为金融、海运、航空等多个领域的企业提供税务优惠。拟议优惠税制的设计是希望与现有的行业特定优惠税制互为补足。所有符合资格企业赚取的收入均可继续享受特惠税率或获豁免缴付利得税，无须事先批核。 我们计划于本年十二月向立法会提交修订条例草案，以期在二○二七／二八课税年度落实拟议优惠税制。 我现在邀请黎（志华）秘书长介绍有关建议的仔细运作及条例修订草案详情。稍后，我们及各政策局和税务局代表乐意回答议员的问题。 完 2026年10月5日（星期一） 香港时间11时53分"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm",
+            "checked_at": "2026-10-07T09:14:19.339393+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.ird.gov.hk/chs/ppr/archives/26100501.htm",
+            "evidence": [
+              {
+                "claim": "Министр финансовых услуг и казначейства описал предлагаемый режим: компании при выполнении требований к деятельности, инвестициям и вкладу в экономику смогут претендовать на ставку налога на прибыль 5% либо на половинную ставку 8,25%. Предельный срок предоставления льготы предлагается ограничить пятью годами.",
+                "source_quote": "财经事务及库务局局长在立法会财经事务委员会会议就促进产业和投资的优惠政策包──税务减免开场发言（只有中文） ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊ 以下是财经事务及库务局局长许正宇今日（十月五日）在立法会财经事务委员会会议就促进产业和投资的优惠政策包──税务减免的开场发言全文： 主席： 首先感谢主席和议员出席，让我有机会向大家简介促进产业和投资的优惠政策包下的优惠税制。 二○二五年《施政报告》宣布政府会制订优惠政策包以吸引高增值产业及高潜力企业来港。而作为优惠政策包的其中一项政策工具，二○二六年《施政报告》进一步宣布政府将在今年年底提交修订条例草案以设立优惠税制，视乎企业的投资计划及对香港经济的实质贡献等，考虑为重点产业的合资格企业提供税务优惠。 我会先介绍拟议优惠税制的重点，然后黎秘书长（财经事务及库务局常任秘书长（库务）黎志华）将介绍运作安排及修订《税务条例》（第112章）的建议。 优惠政策包有多种政策工具，包括批地、资助或税务减免优惠等，拟议优惠税制是其中一项，目标是吸引从事先进制造、创科研发、总部活动、物流和供应链管理和金融等重点产业的企业。因此，今天除了局方和税务局同事在场，也有来自各个相关政策局的代表，因为此事牵涉不同政策局管辖的相关范畴。除一些基本要求（例如进行符合规定的活动、营运开支及全职雇员数目等最低门槛）外，如企业的投资计划及对香港经济的实质贡献等能满足一定条件及水平，则可获批百分之五或半税（即对法团而言为百分之八点二五）的特惠税率，合资格年期最长为五年。 正如我刚才提到，拟议优惠税制具有高度选择性。我们会透过严格的审批机制，甄选具备相关条件及发展潜力的企业。新落户香港的企业及已在香港有业务的企业均可经投资推广署及引进重点企业办公室（引进办）提交它们在香港的商业计划，申请拟议优惠税制下的税务优惠，今天两个机构也有代表在此。由财政司司长领导的吸引产业和投资优惠政策督导委员会（督导委员会）会负责审批申请。督导委员会会在相关政策局及部门协助下，全盘审视企业的申请，当中考虑的因素包括企业的规模、性质及商业计划等。督导委员会会对获批的企业就开支金额及全职雇员数目订立要求，并会按个别情况施加额外条件。 企业或会担心拟议优惠税制会否取代现时为金融、海运、航空等多个领域的企业提供税务优惠。拟议优惠税制的设计是希望与现有的行业特定优惠税制互为补足。所有符合资格企业赚取的收入均可继续享受特惠税率或获豁免缴付利得税，无须事先批核。 我们计划于本年十二月向立法会提交修订条例草案，以期在二○二七／二八课税年度落实拟议优惠税制。 我现在邀请黎（志华）秘书长介绍有关建议的仔细运作及条例修订草案详情。稍后，我们及各政策局和税务局代表乐意回答议员的问题。 完 2026年10月5日（星期一） 香港时间11时53分"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-hk-targeted-investment-tax-regime-speech-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: обсуждаются правила учёта химически переработанного пластика",
+      "sources": [
+        {
+          "name": "HMRC, техническая консультация",
+          "url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach"
+        }
+      ],
+      "theme": "Учёт переработанного сырья для налога на импортируемую пластиковую упаковку",
+      "jurisdictions": "Великобритания",
+      "act": "Техническая консультация HMRC от 06.10.2026; проект правил сертификации химической переработки для налога на пластиковую упаковку",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+        "source_quote": "Published: 6 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "uk-packaging-tax-chemical-recycling-consultation-20261006",
+        "cross_border_relevance": "Консультация касается определения переработанного содержания для налога на пластиковую упаковку, применяемого также к импорту. Прочитана официальная доступная HTML-версия проекта: в ней прямо упомянуты producers and importers, а дата вступления проекта оставлена как *** 2027. Основной тезис ограничен технической консультацией и предложенной датой; принятие правил не заявлено.",
+        "history_checked_at": "2026-10-07T09:01:41.456808+00:00",
+        "history_review": "Current catalog and SQLite for 30 days plus earlier/pending releases: primary URL, act, event and fuzzy>=90% reviewed; no matching publication. Date and relevance separately reviewed.",
+        "reviewed_at_msk": "2026-10-07T12:05:22.402111+03:00",
+        "language_review": "Title, claim and practical conclusion reviewed in Russian; English retained only for explained official acronyms."
+      },
+      "slug": "2026-10-07_1300_-uk-packaging-tax-chemical-recycling-consultation-20261006",
+      "caption": "Великобритания: обсуждаются правила учёта химически переработанного пластика\n\n6 октября 2026 года опубликованы консультация и проект подробных правил. HMRC — налоговая и таможенная служба Великобритании — открыла техническую консультацию по проекту правил налога на пластиковую упаковку. Проект предусматривает условия применения метода материального баланса для учёта химически переработанного пластика с 1 апреля 2027 года, включая сертификацию, аудит, контроль и ведение записей.\n\nПочему это важно: Поставщикам упаковки, в том числе работающим с британским рынком, стоит заранее обсудить с производителями подтверждение доли переработанного сырья и требования к сертификации. Пока обсуждается проект подробных правил, поэтому приведённую в консультации дату нельзя считать доказательством вступления этого проекта в силу.\n\nИсточник: https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+          "checked_at": "2026-10-07T09:14:19.596883+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+          "evidence": [
+            {
+              "claim": "HMRC — налоговая и таможенная служба Великобритании — открыла техническую консультацию по проекту правил налога на пластиковую упаковку. Проект предусматривает условия применения метода материального баланса для учёта химически переработанного пластика с 1 апреля 2027 года, включая сертификацию, аудит, контроль и ведение записей.",
+              "source_quote": "The draft Regulations set out the conditions that businesses must meet if they wish to use a mass balance approach to account for chemically recycled plastic for Plastic Packaging Tax ( PPT ) purposes from 1 April 2027. The draft reference document sets out the methodology for applying dual-use factors where required. Both should be read alongside the relevant provisions of the Finance Act 2021, as amended by the Finance Act 2026, in particular sections 49, 49A and 49B. This technical consultation seeks views on the drafting and technical application of the draft Regulations and reference document to ensure they deliver the policy as intended. This consultation may be of interest to: businesses intending to use a mass balance approach to account for chemically recycled plastic for PPT purposes businesses in the supply chain that may need to obtain certification certification bodies and certification scheme operators intending to provide schemes that meet the minimum PPT requirements The draft secondary legislation sets out the detailed provisions and conditions for using a mass balance approach under a certification scheme to account for chemically recycled plastic for PPT purposes. This includes requirements relating to attribution methodology, certification, auditing, monitoring and record keeping."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+            "checked_at": "2026-10-07T09:14:19.596883+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/consultations/draft-legislation-plastic-packaging-tax-chemical-recycling-and-adoption-of-a-mass-balance-approach",
+            "evidence": [
+              {
+                "claim": "HMRC — налоговая и таможенная служба Великобритании — открыла техническую консультацию по проекту правил налога на пластиковую упаковку. Проект предусматривает условия применения метода материального баланса для учёта химически переработанного пластика с 1 апреля 2027 года, включая сертификацию, аудит, контроль и ведение записей.",
+                "source_quote": "The draft Regulations set out the conditions that businesses must meet if they wish to use a mass balance approach to account for chemically recycled plastic for Plastic Packaging Tax ( PPT ) purposes from 1 April 2027. The draft reference document sets out the methodology for applying dual-use factors where required. Both should be read alongside the relevant provisions of the Finance Act 2021, as amended by the Finance Act 2026, in particular sections 49, 49A and 49B. This technical consultation seeks views on the drafting and technical application of the draft Regulations and reference document to ensure they deliver the policy as intended. This consultation may be of interest to: businesses intending to use a mass balance approach to account for chemically recycled plastic for PPT purposes businesses in the supply chain that may need to obtain certification certification bodies and certification scheme operators intending to provide schemes that meet the minimum PPT requirements The draft secondary legislation sets out the detailed provisions and conditions for using a mass balance approach under a certification scheme to account for chemically recycled plastic for PPT purposes. This includes requirements relating to attribution methodology, certification, auditing, monitoring and record keeping."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1300_-uk-packaging-tax-chemical-recycling-consultation-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

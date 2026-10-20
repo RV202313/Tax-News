@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 15 Oct 2026 07:39:48 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kwade trouw adviseur maakt navordering goodwill mogelijk</title>
+		<link>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/</link>
+					<comments>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 07:39:44 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168351</guid>
+
+					<description><![CDATA[Gerechtshof ’s-Hertogenbosch oordeelt dat de inspecteur geen nieuw feit heeft voor navordering, maar toch mag navorderen wegens kwade trouw van de adviseur. De inspecteur maakt daarnaast de gecorrigeerde goodwill van € 684.883 aannemelijk.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof ’s-Hertogenbosch oordeelt dat de inspecteur geen nieuw feit heeft voor navordering, maar toch mag navorderen wegens kwade trouw van de adviseur. De inspecteur maakt daarnaast de gecorrigeerde goodwill van € 684.883 aannemelijk.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv maakt deel uit van een groep die diensten verleent op het gebied van SAP-software. In maart 2017 wordt 49% van haar aandelen verkocht en in oktober 2017 wordt de bv geliquideerd, waarna haar personeel overgaat naar een andere groepsmaatschappij. De aangifte Vpb 2017 wordt onder horizontaal toezicht ingediend. Daarin wordt geen winst wegens goodwill aangegeven. Ook wordt de inspecteur niet afzonderlijk geïnformeerd over het ingenomen standpunt, waarna de aanslag geautomatiseerd overeenkomstig de aangifte wordt vastgesteld. In 2022 legt de inspecteur een navorderingsaanslag op waarbij hij € 684.883 aan goodwill tot de winst rekent. In geschil is onder meer of de inspecteur mag navorderen en of de goodwill juist is vastgesteld.</p>
+
+
+
+<h3 class="wp-block-heading">Geen nieuw feit door ambtelijk verzuim</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur geen nieuw feit heeft. Hij wist vóór het opleggen van de aanslag al dat kort daarvoor aandelen voor een aanzienlijk bedrag waren verkocht en dat daarbij rekening was gehouden met goodwill. Gezien de lopende discussie had hij de geautomatiseerde aanslagregeling moeten blokkeren. Dat de aangifte onder horizontaal toezicht is ingediend, maakt dit niet anders. Horizontaal toezicht zet de wettelijke voorwaarden voor navordering niet opzij.</p>
+
+
+
+<h3 class="wp-block-heading">Kwade trouw en goodwill</h3>
+
+
+
+<p class="wp-block-paragraph">Navordering is toch mogelijk omdat de voormalige adviseur te kwader trouw handelt. Hij weet dat aangiften onder horizontaal toezicht snel geautomatiseerd worden afgedaan en had de inspecteur moeten informeren dat de aangifte werd ingediend zonder rekening te houden met goodwill. Door dit niet te doen, onthoudt hij essentiële informatie en neemt hij bewust het risico dat te weinig belasting wordt geheven. Deze kwade trouw wordt aan de bv toegerekend. Ook de goodwillcorrectie blijft in stand. De inspecteur mag voor de waardering aansluiten bij de binnen de groep gebruikte waarderingsformule, die ook bij transacties tussen onafhankelijke partijen is toegepast.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2267">Gerechtshof &#8216;s-Hertogenbosch, 19-08-2026, ECLI:NL:GHSHE:2026:2267, 24/1187 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/ICT.jpg" length="61469" type="image/jpeg" />	</item>
+		<item>
+		<title>Verlies op oude lening aftrekbaar na liquidatie zuster-bv</title>
+		<link>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/</link>
+					<comments>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 07:33:54 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168353</guid>
+
+					<description><![CDATA[Rechtbank Gelderland staat aftrek toe van het verlies op een oude lening aan een zustervennootschap. Verliezen op latere onzakelijke leningen verhogen het opgeofferde bedrag voor de liquidatieverliesregeling niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland staat aftrek toe van het verlies op een oude lening aan een zustervennootschap. Verliezen op latere onzakelijke leningen verhogen het opgeofferde bedrag voor de liquidatieverliesregeling niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv verstrekt verschillende leningen aan een zustervennootschap waarmee zij dezelfde aandeelhouder heeft. Op 1 januari 2018 bedraagt de oudste lening € 196.208. In 2018 en 2019 worden nog drie leningen verstrekt. In juli 2020 koopt de bv de aandelen in de zustervennootschap voor € 1, waarna deze in december 2020 wordt ontbonden. De bv brengt de verliezen op de leningen in aanmerking bij haar aangifte Vpb. Volgens de inspecteur zijn de leningen onzakelijk en zijn de verliezen niet aftrekbaar. Voor de latere leningen is tussen partijen niet in geschil dat deze vanaf het aangaan onzakelijk zijn. In geschil is vooral de behandeling van de oudste lening en de vraag of de latere leningen het opgeofferde bedrag voor de liquidatieverliesregeling verhogen.</p>
+
+
+
+<h3 class="wp-block-heading">Oude lening is zakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">De inspecteur maakt niet aannemelijk dat de oudste lening bij het aangaan of later onzakelijk is geworden. Alleen wijzen op het negatieve eigen vermogen van de zustervennootschap eind 2017 is onvoldoende. Omdat bij de liquidatie in 2020 definitief vaststaat dat de lening niet meer wordt terugbetaald, mag het verlies worden afgetrokken. Vanwege een eerdere aflossing van € 90.207 resteert een aftrekbaar verlies van € 106.001.</p>
+
+
+
+<h3 class="wp-block-heading">Onzakelijke leningen tellen niet mee</h3>
+
+
+
+<p class="wp-block-paragraph">De verliezen op de drie latere onzakelijke leningen behoren niet tot het opgeofferde bedrag. Beslissend is in welke hoedanigheid het debiteurenrisico is aanvaard. Toen de bv de leningen in 2018 en 2019 verstrekte, was zij nog geen aandeelhouder. Alleen het bestaan van plannen om later aandeelhouder te worden, is onvoldoende om de leningen aan haar hoedanigheid van toekomstig aandeelhouder toe te rekenen. Het verlies op deze leningen verhoogt daarom het liquidatieverlies niet.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-13d?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13d Wet Vpb 1969</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_7639" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 07-10-2026, ECLI:NL:RBGEL:2026:7639, ARN 25/6046 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">Online cursus Staken van de onderneming: (turbo)liquidatie, WHOA liquidatie akkoord | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Bij het staken van een onderneming moet vaak ook de betrokken rechtspersoon worden ontbonden. Wanneer kies je voor een gewone liquidatie, turboliquidatie of faillissement? En hoe kan een WHOA-liquidatieakkoord helpen om een faillissement te voorkomen en de rechtspersoon zorgvuldig af te wikkelen?</p>
+
+
+
+<p class="wp-block-paragraph">De cursus behandelt de verschillende mogelijkheden en de bijbehorende aandachtspunten. Daarbij is er bijzondere aandacht voor de turboliquidatie. Deze lijkt aantrekkelijk, maar kent ook risico’s. Aan bod komen de positie van onbetaald gebleven schuldeisers en de mogelijke aansprakelijkheid van het bestuur.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://www.licentacademy.nl/opleidingen/pitstops/3070/pe-pitstop-turboliquidatie" data-type="link" data-id="https://www.licentacademy.nl/opleidingen/pitstops/3070/pe-pitstop-turboliquidatie" target="_blank" rel="noreferrer noopener">Meer informatie en aanmelden</a></strong></p>
+
+
+
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-undefined"><div class="uagb-buttons__wrap uagb-buttons-layout-wrap "></div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/faillissement-closed.jpg" length="25133" type="image/jpeg" />	</item>
+		<item>
+		<title>ING-rekeningnummer voor g-rekeningen vervalt per 1 november 2026</title>
+		<link>https://www.taxence.nl/nieuws/ing-rekeningnummer-voor-g-rekeningen-vervalt-per-1-november-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/ing-rekeningnummer-voor-g-rekeningen-vervalt-per-1-november-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 06:27:41 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168349</guid>
+
+					<description><![CDATA[De Belastingdienst is op 1 mei 2026 overgestapt van ING naar Rabobank. Als gevolg daarvan is ook het rekeningnummer voor betalingen vanaf een g-rekening gewijzigd. Het oude ING-rekeningnummer kon tijdens een overgangsperiode nog worden gebruikt. Vanaf 1 november 2026 is dat niet meer mogelijk.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Belastingdienst is op 1 mei 2026 overgestapt van ING naar Rabobank. Als gevolg daarvan is ook het rekeningnummer voor betalingen vanaf een g-rekening gewijzigd. Het oude ING-rekeningnummer kon tijdens een overgangsperiode nog worden gebruikt. Vanaf 1 november 2026 is dat niet meer mogelijk.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Vanaf 1 november worden betalingen vanaf een g-rekening naar het voormalige ING-rekeningnummer NL78 INGB 0000 4440 40 geweigerd.</p>
+
+
+
+<p class="wp-block-paragraph">Voor betalingen vanaf een g-rekening moet voortaan het rekeningnummer van Rabobank worden gebruikt: NL04 RABO 0200 1445 45.</p>
+
+
+
+<h3 class="wp-block-heading">Rekeningnummer aanpassen in administratie</h3>
+
+
+
+<p class="wp-block-paragraph">Gebruikers van een g-rekening wordt geadviseerd te controleren of het oude ING-rekeningnummer nog is opgenomen in de administratie, de online bankieromgeving of gebruikte software. Waar nodig moet dit worden vervangen door het nieuwe Rabobank-rekeningnummer.</p>
+
+
+
+<p class="wp-block-paragraph">De wijziging houdt verband met de overstap van de Belastingdienst naar Rabobank als nieuwe huisbank.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/vanaf-1-november-2026-ing-rekeningnummer-g-rekeningen-niet-meer-beschikbaar" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/nieuws/vanaf-1-november-2026-ing-rekeningnummer-g-rekeningen-niet-meer-beschikbaar" target="_blank" rel="noreferrer noopener">Belastingdienst, 14 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/ing-rekeningnummer-voor-g-rekeningen-vervalt-per-1-november-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/04/Rabobank.jpg" length="63227" type="image/jpeg" />	</item>
+		<item>
+		<title>Zuivere uitleg van het verschoningsrecht van de fiscaal advocaat &#8211; het spook van de Van Doorne-zaak</title>
+		<link>https://www.taxence.nl/blogs/zuivere-uitleg-van-het-verschoningsrecht-van-de-fiscaal-advocaat-het-spook-van-de-van-doorne-zaak/</link>
+					<comments>https://www.taxence.nl/blogs/zuivere-uitleg-van-het-verschoningsrecht-van-de-fiscaal-advocaat-het-spook-van-de-van-doorne-zaak/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 06:20:40 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168347</guid>
+
+					<description><![CDATA[Geldt het verschoningsrecht van een fiscaal advocaat alleen bij procederen, of ook bij advisering? Die vraag raakt rechtstreeks aan het vertrouwen dat cliënten moeten kunnen stellen in de vertrouwelijkheid van hun communicatie met een advocaat. In deze NTFR Opinie onderzoekt mr. Vanessa Huygen van Dyck-Jagersma, waar de verwarring over de reikwijdte van het verschoningsrecht vandaan<a class="read-more" href="https://www.taxence.nl/blogs/zuivere-uitleg-van-het-verschoningsrecht-van-de-fiscaal-advocaat-het-spook-van-de-van-doorne-zaak/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Geldt het verschoningsrecht van een fiscaal advocaat alleen bij procederen, of ook bij advisering? Die vraag raakt rechtstreeks aan het vertrouwen dat cliënten moeten kunnen stellen in de vertrouwelijkheid van hun communicatie met een advocaat. In deze NTFR Opinie onderzoekt mr. Vanessa Huygen van Dyck-Jagersma, waar de verwarring over de reikwijdte van het verschoningsrecht vandaan komt en legt ze uit waarom ook fiscale advisering in beginsel onder het beroepsgeheim en het verschoningsrecht van de advocaat valt. Daarbij komt ook aan bod wat de veelbesproken Van Doorne-zaak hierover nu werkelijk zegt.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR gratis via <strong><a href="https://www.ndfr.nl/content/p1-1200877" data-type="link" data-id="https://www.ndfr.nl/content/p1-1200877" target="_blank" rel="noreferrer noopener">NDFR</a></strong></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/zuivere-uitleg-van-het-verschoningsrecht-van-de-fiscaal-advocaat-het-spook-van-de-van-doorne-zaak/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/08/Advocaat.jpg" length="23616" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen beroep op adviseur bij ontbrekende btw-facturen</title>
+		<link>https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 06:19:09 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168316</guid>
+
+					<description><![CDATA[Een fiscale eenheid kan zich niet beroepen op vertrouwen in haar adviseur als zij niet aannemelijk maakt dat zij de benodigde verkoopfacturen tijdig heeft verstrekt. Hof Arnhem-Leeuwarden vindt bewezen dat zij voorwaardelijk opzettelijk te weinig btw heeft betaald.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Een fiscale eenheid kan zich niet beroepen op vertrouwen in haar adviseur als zij niet aannemelijk maakt dat zij de benodigde verkoopfacturen tijdig heeft verstrekt. Hof Arnhem-Leeuwarden vindt bewezen dat zij voorwaardelijk opzettelijk te weinig btw heeft betaald.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een fiscale eenheid handelt in chemische grondstoffen. De bestuurder stelt zelf de verkoopfacturen op en een intermediair verzorgt de btw-aangiften. In januari tot en met april 2014 maakt de bestuurder zes facturen met in totaal € 22.498 btw, terwijl over die maanden nihilaangiften worden ingediend. De inspecteur legt een naheffingsaanslag en een vergrijpboete op. Na verwijzing door de Hoge Raad moet Hof Arnhem-Leeuwarden beoordelen of de facturen tijdig aan de intermediair zijn verstrekt en of sprake is van (voorwaardelijk) opzet.</p>
+
+
+
+<h3 class="wp-block-heading">Voorwaardelijk opzet bewezen</h3>
+
+
+
+<p class="wp-block-paragraph">De fiscale eenheid maakt niet aannemelijk dat de zes facturen tijdig aan de intermediair zijn gestuurd. Bewijs daarvan ontbreekt en een latere e-mail van de intermediair wijst er juist op dat de omzet pas in september 2014 via de bankontvangsten is geboekt. De bestuurder mocht daarom niet vertrouwen op de juistheid van de aangiften. Omdat hij de facturen zelf opstelde en daarop btw vermeldde, moet hij volgens het hof hebben geweten dat door de nihilaangiften te weinig btw werd betaald. Dit handelen wordt toegerekend aan de fiscale eenheid. Het hof acht een boete van 50% passend. Vanwege overschrijding van de redelijke termijn wordt de boete verminderd tot € 5.225.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67f?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67f AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6174" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 22-09-2026, ECLI:NL:GHARL:2026:6174, 26/112 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Deadline-30-september.jpg" length="43265" type="image/jpeg" />	</item>
+		<item>
+		<title>Sloop en herbouw staan lager overdrachtstarief niet in weg</title>
+		<link>https://www.taxence.nl/nieuws/sloop-en-herbouw-staan-lager-overdrachtstarief-niet-in-weg/</link>
+					<comments>https://www.taxence.nl/nieuws/sloop-en-herbouw-staan-lager-overdrachtstarief-niet-in-weg/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 06:16:50 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overdrachtsbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168318</guid>
+
+					<description><![CDATA[Kopers die een gekochte woning laten slopen en op het perceel een nieuwe woning bouwen waarin zij gaan wonen, hebben recht op het verlaagde tarief van 2%. Volgens Hof Arnhem-Leeuwarden is toepassing van het tarief van 8% in strijd met doel en strekking van de wet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Kopers die een gekochte woning laten slopen en op het perceel een nieuwe woning bouwen waarin zij gaan wonen, hebben recht op het verlaagde tarief van 2%. Volgens Hof Arnhem-Leeuwarden is toepassing van het tarief van 8% in strijd met doel en strekking van de wet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Twee kopers verkrijgen in 2022 ieder voor de helft een perceel met daarop delen van twee geschakelde woningen. Zij betalen 8% overdrachtsbelasting over € 715.000. Daarna slopen zij de opstallen en bouwen een nieuwe woning waarin zij zelf gaan wonen. Volgens de inspecteur geldt het 2%-tarief niet, omdat zij nooit van plan waren de oorspronkelijke woning als hoofdverblijf te gebruiken.</p>
+
+
+
+<h3 class="wp-block-heading">Doel regeling geeft doorslag</h3>
+
+
+
+<p class="wp-block-paragraph">Hof Arnhem-Leeuwarden oordeelt dat het 2%-tarief wel geldt. De onroerende zaak was bij verkrijging naar zijn aard een woning. Het hoofdverblijfcriterium is bedoeld om starters en doorstromers gunstiger te behandelen dan beleggers. De kopers zijn doorstromers en gebruiken de nieuw gebouwde woning duurzaam als hoofdverblijf. Volgens het hof verschilt sloop en herbouw bovendien niet wezenlijk van een grondige verbouwing. In beide gevallen is de woning tijdelijk onbewoonbaar en wordt deze daarna als hoofdverblijf gebruikt. Uit de wetsgeschiedenis blijkt niet dat zulke kopers van het lage tarief moeten worden uitgesloten. Zij krijgen daarom € 42.900 overdrachtsbelasting terug.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-14?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 14 WBR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.111?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.111 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6025" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 15-09-2026, ECLI:NL:GHARL:2026:6025, 25/2595 en 25/2596 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/sloop-en-herbouw-staan-lager-overdrachtstarief-niet-in-weg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Sloopmateriaal.jpg" length="56607" type="image/jpeg" />	</item>
+		<item>
+		<title>Senaat bespreekt strategische agenda voor belastingstelsel</title>
+		<link>https://www.taxence.nl/nieuws/senaat-bespreekt-strategische-agenda-voor-belastingstelsel/</link>
+					<comments>https://www.taxence.nl/nieuws/senaat-bespreekt-strategische-agenda-voor-belastingstelsel/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 05:16:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168342</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg van Financiën heeft met de Eerste Kamer gesproken over de strategische agenda 2026-2030. Het kabinet wil het belastingstelsel de komende vijf jaar vereenvoudigen, fiscale regelingen stroomlijnen en via belastingen groene, gezonde en innovatieve keuzes stimuleren.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg heeft met de Eerste Kamer gesproken over de strategische agenda 2026-2030. Het kabinet wil het belastingstelsel de komende vijf jaar vereenvoudigen, fiscale regelingen stroomlijnen en via belastingen groene, gezonde en innovatieve keuzes stimuleren.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tijdens het gesprek op 13 oktober vroegen senatoren vooral naar de concrete uitwerking, het tijdpad en de uitvoerbaarheid van de plannen. D66, Volt en VVD waren positief over de richting en de langere termijn van de agenda. D66 vroeg onder meer of fiscale regelingen die negatief uitpakken worden aangepast. De fractie Visseren-Hamakers vroeg hoe de effectiviteit en draagbaarheid van maatregelen worden beoordeeld.</p>
+
+
+
+<h2 class="wp-block-heading">Uitvoerbaarheid en amendementen</h2>
+
+
+
+<p class="wp-block-paragraph">PRO pleitte voor een ‘saai’ Belastingplan, met minder ophef rond amendementen in de Tweede Kamer. Ook vroeg de fractie aandacht voor de bezuinigingen bij de Belastingdienst. BBB wilde weten hoe de noodzakelijke cultuurverandering bij onder meer het toeslagenstelsel wordt gerealiseerd en vroeg naar de invorderingsachterstanden bij de Belastingdienst.</p>
+
+
+
+<p class="wp-block-paragraph">Eerenberg reageerde dat ‘saai het nieuwe swingend’ is, maar benadrukte tegelijkertijd dat belastingheffing allesbehalve saai is. Fiscaliteit gaat over de verdeling van gelden en vormt daarmee volgens hem de kern van de democratie. Aan het recht van de Tweede Kamer om amendementen in te dienen, wil hij niet tornen. Hij erkende dat amendementen tot extra tijdsdruk bij de Eerste Kamer kunnen leiden.</p>
+
+
+
+<h2 class="wp-block-heading">Meer raadpleging en minder papier</h2>
+
+
+
+<p class="wp-block-paragraph">De staatssecretaris gaf ook enkele voorbeelden van de verdere uitwerking van de agenda. Zo wil het kabinet Nederlanders die niet zelf met beleid bezig zijn, maar wel de gevolgen ervan ondervinden, laten meedenken over heffingen. Het gaat daarbij niet om een burgerberaad, maar om een vorm van raadpleging die binnen de planning past. Daarnaast wil het kabinet meer formulieren automatiseren. Volgens Eerenberg gebeurt nog te veel op papier.</p>
+
+
+
+<p class="wp-block-paragraph">OPNL vroeg aandacht voor de positie van de grensregio’s en de gevolgen van verschillen tussen Nederland en de buurlanden. Eerenberg zei zich bewust te zijn van de druk op ondernemers in deze gebieden en zegde nader onderzoek toe.</p>
+
+
+
+<p class="wp-block-paragraph">Tot slot komt de staatssecretaris schriftelijk terug op vragen van BBB over de douane en het beheersen van de groeiende stroom pakketten die Nederland binnenkomt.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.eerstekamer.nl/nieuws/20261014/senaat_spreekt_met" data-type="link" data-id="https://www.eerstekamer.nl/nieuws/20261014/senaat_spreekt_met" target="_blank" rel="noreferrer noopener">Eerste Kamer, 13 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/senaat-bespreekt-strategische-agenda-voor-belastingstelsel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/strategie.jpg" length="36710" type="image/jpeg" />	</item>
+		<item>
+		<title>Onderzoek naar grenseffecten fiscale maatregelen</title>
+		<link>https://www.taxence.nl/nieuws/onderzoek-naar-grenseffecten-fiscale-maatregelen/</link>
+					<comments>https://www.taxence.nl/nieuws/onderzoek-naar-grenseffecten-fiscale-maatregelen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 14 Oct 2026 04:57:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168345</guid>
+
+					<description><![CDATA[Het kabinet wil een completer beeld krijgen van grenseffecten en gaat daarom bestaand onderzoek bundelen in een integraal onderzoek. Daarnaast worden de grenseffecten van verschillende nieuwe fiscale maatregelen gericht gemonitord.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil een completer beeld krijgen van grenseffecten en gaat daarom bestaand onderzoek bundelen in een integraal onderzoek. Daarnaast worden de grenseffecten van verschillende nieuwe fiscale maatregelen gericht gemonitord.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De afgelopen jaren is veel onderzoek gedaan naar grenseffecten. Deze onderzoeken waren gericht op de impact van specifieke fiscale maatregelen, maar ook op grensoverschrijdende koopstromen en de achtergrond daarvan. Omdat de roep om een totaalbeeld is toegenomen, stelt het kabinet voor een meer integraal onderzoek te laten uitvoeren dat voortbouwt op het reeds gedane onderzoek.</p>
+
+
+
+<h2 class="wp-block-heading">Breder beeld van grenseffecten</h2>
+
+
+
+<p class="wp-block-paragraph">In het onderzoek wordt gekeken naar grensoverschrijdende koopstromen tussen Nederland en de buurlanden. Ook wordt de economische ontwikkeling in grensregio’s vergeleken met die in het binnenland. Verder komen prijs- en belastingverschillen voor een aantal nader te bepalen producten aan bod. Hiervoor kan onder meer gebruik worden gemaakt van informatie van het CBS en onderzoek van de ACM naar prijsverschillen van levensmiddelen.</p>
+
+
+
+<p class="wp-block-paragraph">Ook worden de grenseffecten onderzocht van beleidsmaatregelen, waaronder verhogingen en verlagingen van de brandstof-, tabaks- en alcoholaccijns. Daarnaast worden bestaande onderzoeken naar pintransacties voor bijvoorbeeld brandstofuitgaven betrokken. Dit najaar werkt het kabinet de opzet en afbakening van het integrale onderzoek verder uit. Een onderzoek naar de grenseffecten van de verhoogde brandstofaccijns per 2026 wordt later dit jaar aan de Kamer gestuurd.</p>
+
+
+
+<h2 class="wp-block-heading">Gerichte monitoring fiscale maatregelen</h2>
+
+
+
+<p class="wp-block-paragraph">Naast het integrale onderzoek wil het kabinet nieuwe fiscale maatregelen gericht monitoren. Het gaat daarbij om onderzoek naar de gevolgen van belastingwijzigingen, zodat beleidsmatig relevante informatie beschikbaar komt voor toekomstig beleid.</p>
+
+
+
+<p class="wp-block-paragraph">Van de maatregelen uit het Belastingplan worden de indexatie van de alcoholaccijns, de brandstofaccijnstarieven en de verlaging van de vliegbelasting gemonitord. Ook de verhoging van de btw op logies wordt gevolgd. In de toekomst ligt monitoring van de belasting op nieuwe tabaksproducten, de suikerbelasting en aanpassingen van de verbruiksbelasting op alcoholvrije dranken in de rede.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet zet zich daarnaast Europees in om toe te werken naar een acceptabel niveau van aankopen over de grens. Waar verschillen in belastinggrondslagen en tarieven grote grenseffecten veroorzaken, kan Europese samenwerking bijdragen aan het verkleinen daarvan.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z22052&amp;did=2026D50815" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z22052&amp;did=2026D50815" target="_blank" rel="noreferrer noopener">Voortgang uitvoering motie over monitoring verkoopbeperkende maatregelen die bijdragen aan het vergroten van grenseffecten, nr. 2026 -0000382926, Ministerie van Financiën, 13 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/onderzoek-naar-grenseffecten-fiscale-maatregelen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/08/Duitsland-grens.jpg" length="63202" type="image/jpeg" />	</item>
+		<item>
+		<title>Verdiepingscursus DGA-advisering &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/verdiepingscursus-dga-advisering-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/verdiepingscursus-dga-advisering-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 08:40:46 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Belastingadvies]]></category>
+		<category><![CDATA[dga]]></category>
+		<category><![CDATA[DGA en B.V.]]></category>
+		<category><![CDATA[Familiebedrijven]]></category>
+		<category><![CDATA[meerdaags]]></category>
+		<category><![CDATA[Verdiepingscursussen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168207</guid>
+
+					<description><![CDATA[5-daagse opleiding;&#160;Hoe kan jij je advies nog verder optimaliseren? Als dga-adviseur ken je de directeur-grootaandeelhouder in al zijn hoedanigheden en heb je een advies paraat voor de meest voorkomende adviesthema&#8217;s. Maar hoe kan jij je advies nog verder optimaliseren? Hoe zet jij de volgende stap in je rol als trusted advisor van de dga? Uiteraard<a class="read-more" href="https://www.taxence.nl/agenda/verdiepingscursus-dga-advisering-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>5-daagse opleiding;&nbsp;Hoe kan jij je advies nog verder optimaliseren?</p>
+<p>Als dga-adviseur ken je de directeur-grootaandeelhouder in al zijn hoedanigheden en heb je een advies paraat voor de meest voorkomende adviesthema&#8217;s. Maar hoe kan jij je advies nog verder optimaliseren? Hoe zet jij de volgende stap in je rol als trusted advisor van de dga?</p>
+<p>Uiteraard door de actualiteit nauwgezet te volgen, want de dga staat meer dan ooit in de spotlight. En dat betekent dat ook het advies aan verandering onderhevig is.&nbsp;</p>
+<p>Echter ook in de gebruikelijke problematiek is nog een wereld te winnen. In deze opleiding geven vier ervaren specialisten hun tips en tricks over hoe advieskansen te herkennen en optimaal te benutten. Zij nemen je aan de hand van casuïstiek mee in de praktische begeleiding van de dga op alle relevante adviesthema&#8217;s:</p>
+<p>Optimale houdsterstructuur<br />
+Aanmerkelijk belang<br />
+Gebruikelijk loon &amp; Sociale verzekeringsplicht<br />
+Lenen van en aan de bv<br />
+Vermogensstructurering<br />
+Huwelijk &amp; Echtscheiding<br />
+Pensioen<br />
+Bedrijfsoverdracht</p>
+<h2>Voor wie?</h2>
+<p>De cursus richt zich op belastingadviseurs met een aantal jaren werkervaring in de algemene dga-praktijk. Tijdens de cursus wordt de basis slechts kort aangestipt, en staat vooral verdieping op de belangrijkste adviesthema’s centraal. Je hebt ook de gelegenheid om vooraf jouw eigen praktijkcasussen in te brengen.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/verdiepingscursussen/3137/verdiepingscursus-dga-advisering" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/verdiepingscursus-dga-advisering-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A-G: liquide middelen holding geen ondernemingsvermogen zonder functie</title>
+		<link>https://www.taxence.nl/nieuws/a-g-liquide-middelen-holding-geen-ondernemingsvermogen-zonder-functie/</link>
+					<comments>https://www.taxence.nl/nieuws/a-g-liquide-middelen-holding-geen-ondernemingsvermogen-zonder-functie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2026 08:23:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168285</guid>
+
+					<description><![CDATA[A-G Koopman concludeert dat liquide middelen en effecten van een holding niet tot het ondernemingsvermogen behoren als zij geen concrete functie vervullen binnen de onderneming.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>A-G Koopman concludeert dat liquide middelen en effecten van een holding niet tot het ondernemingsvermogen behoren als zij geen concrete functie vervullen binnen de onderneming.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw overlijdt in 2016 en laat een belang van 37,56% na in een holding. De holding bezit alle aandelen in een werkmaatschappij met verschillende deelnemingen. Eind 2015 staat bij de holding ruim € 42,7 miljoen aan liquide middelen en effecten op de balans. De erven verzoeken om toepassing van de doorschuiffaciliteit van artikel 4.17a Wet IB 2001. Rechtbank Gelderland rekent € 29,75 miljoen tot het ondernemingsvermogen, maar Gerechtshof Arnhem-Leeuwarden oordeelt dat de erven onvoldoende aannemelijk maken dat de middelen een functie hebben binnen de onderneming.</p>
+
+
+
+<h3 class="wp-block-heading">Geen concrete ondernemingsfunctie</h3>
+
+
+
+<p class="wp-block-paragraph">A-G Koopman vindt het oordeel van het hof juist. De holding heeft de middelen vóór het overlijden nooit gebruikt voor overnames of investeringen van de werkmaatschappij en heeft daarvoor ook niet garant gestaan. Ook is niet aannemelijk gemaakt dat dit in de toekomst anders zou zijn. Alleen financiële ruimte of zekerheid voor toekomstige investeringen is onvoldoende. Middelen zonder concrete ondernemingsfunctie behoren niet tot het ondernemingsvermogen.</p>
+
+
+
+<h3 class="wp-block-heading">Erven moeten zakelijke functie bewijzen</h3>
+
+
+
+<p class="wp-block-paragraph">De erven moeten de feiten aannemelijk maken waaruit volgt dat de liquide middelen en effecten een ondernemingsfunctie hebben. Ook het argument dat de middelen nodig zijn om het familiebedrijf in stand te houden, slaagt niet. Volgens de A-G heeft het hof dit voldoende gemotiveerd verworpen. Hij adviseert de Hoge Raad daarom het cassatieberoep ongegrond te verklaren.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.17a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.17a(5) Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_PHR_2026_912" target="_blank" rel="noreferrer noopener">Parket bij de Hoge Raad, 25-09-2026, ECLI:NL:PHR:2026:912, 25/03966 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/a-g-liquide-middelen-holding-geen-ondernemingsvermogen-zonder-functie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/12/geld.jpg" length="51233" type="image/jpeg" />	</item>
+	</channel>
+</rss>

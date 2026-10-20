@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 05 Oct 2026 08:06:36 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Te hoge rente op dga-lening niet herstelbaar via foutenleer</title>
+		<link>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/</link>
+					<comments>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 08:06:35 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168020</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat een bv te veel in rekening gebrachte rente op een lening aan haar dga niet via de foutenleer kan corrigeren in het oudste openstaande jaar. Er is geen sprake van een balansfout maar hooguit van een onjuiste winstberekening, en ook het beroep op het vertrouwensbeginsel slaagt niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat een bv te veel in rekening gebrachte rente op een lening aan haar dga niet via de foutenleer kan corrigeren in het oudste openstaande jaar. Er is geen sprake van een balansfout maar hooguit van een onjuiste winstberekening, en ook het beroep op het vertrouwensbeginsel slaagt niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv verstrekt in 1999 een rekening-courantkrediet aan haar enig aandeelhouder en bestuurder. De jaarlijks berekende rente wordt vanaf 2001 bijgeschreven op de vordering op de aandeelhouder. In de aangifte Vpb 2019 verwerkt de bv een buitengewone last van € 48.703 wegens een herberekening van de rente over 2015 tot en met 2018. De inspecteur accepteert deze correctie. Kort na het vaststellen van de aanslag stelt de bv dat ook over eerdere jaren te veel rente is berekend. Zij wil daarom met toepassing van de foutenleer een aanvullende last van primair € 232.248 en subsidiair € 115.493 in aanmerking nemen. Daarnaast stelt zij dat de aandeelhoudersvordering en een pensioenvoorziening ten onrechte op de balans staan.</p>
+
+
+
+<h3 class="wp-block-heading">Geen balansfout door te hoge rente</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank wijst toepassing van de foutenleer af. Die leer is bedoeld om fouten in de eindbalans van een eerder jaar te herstellen en zo te voorkomen dat winst onbelast blijft of dubbel wordt belast. Daarvan is hier geen sprake. Als de in eerdere jaren berekende rente onzakelijk hoog zou zijn geweest, zou een verlaging van de winst tegenover een informele kapitaalstorting door de aandeelhouder staan. Het eindvermogen verandert daardoor niet. Er is volgens de rechtbank dan ook geen balansfout, maar hooguit een fout in de fiscale winstberekening van eerdere jaren. De aanvullende buitengewone last kan daarom niet in 2019 worden genomen.</p>
+
+
+
+<h3 class="wp-block-heading">Geen vertrouwen en geen vrijval</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het vertrouwensbeginsel slaagt niet. Dat de inspecteur de correctie over 2015 tot en met 2018 accepteert, betekent niet dat hij daarmee ook correcties over eerdere jaren aanvaardt. Die eerdere jaren waren op dat moment niet door hem beoordeeld. Verder maakt de bv niet aannemelijk dat de aandeelhoudersvordering waardeloos is geworden of van de balans had moeten verdwijnen. Ook de pensioenvoorziening blijft staan. De pensioenuitkering kan nog worden verrekend met de schuld van de aandeelhouder aan de bv en niet blijkt dat de aandeelhouder zijn pensioenrechten heeft prijsgegeven. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8 Wet Vpb 1969</a> jo. <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_9007" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 30-06-2026, ECLI:NL:RBNHO:2026:9007, HAA &#8211; 25 _ 2868 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Correctie-nieuw.jpg" length="23163" type="image/jpeg" />	</item>
+		<item>
+		<title>Prejudiciële vragen over begrip nieuwe jurisprudentie</title>
+		<link>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/</link>
+					<comments>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 08:05:13 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168014</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden vraagt de Hoge Raad om duidelijkheid over wanneer sprake is van nieuwe jurisprudentie bij een verzoek om ambtshalve vermindering. Centraal staat of het Brandweermanarrest uit 2022 nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest uit 1983.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden vraagt de Hoge Raad om duidelijkheid over wanneer sprake is van nieuwe jurisprudentie bij een verzoek om ambtshalve vermindering. Centraal staat of het Brandweermanarrest uit 2022 nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest uit 1983.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een brandweervrijwilliger raakt in 2005 tijdens een verplichte oefening ernstig gewond en loopt blijvend letsel op. Na een schikking ontvangt hij naast een eenmalige vergoeding gedurende tien jaar maandelijkse uitkeringen van de ongevallenverzekeraar van de gemeente. In 2017 en 2018 bedragen deze uitkeringen € 18.023 respectievelijk € 18.563. De inspecteur rekent de bedragen tot het inkomen uit vroegere dienstbetrekking. Na het Brandweermanarrest van de Hoge Raad uit 2022 verzoekt de man om ambtshalve vermindering. De inspecteur weigert dit omdat volgens hem sprake is van nieuwe jurisprudentie die pas is gewezen nadat de aanslagen onherroepelijk vaststonden. Rechtbank Gelderland volgt de man, waarna de inspecteur hoger beroep instelt.</p>
+
+
+
+<h3 class="wp-block-heading">Onduidelijkheid over toetsingskader</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof constateert dat onduidelijk is hoe moet worden beoordeeld of sprake is van nieuwe jurisprudentie. Volgens één uitleg is vooral van belang of de inspecteur bij het opleggen van de aanslag redelijkerwijs mocht menen dat zijn rechtsopvatting juist was. Een andere uitleg is dat eerst moet worden vastgesteld of de Hoge Raad daadwerkelijk een nieuwe rechtsopvatting heeft gegeven of van eerdere rechtspraak is teruggekomen. Pas daarna zou de redelijkheid van het standpunt van de inspecteur aan de orde komen. Het hof wijst erop dat hierover inmiddels verschillend wordt geoordeeld en dat de kwestie ook buiten letselschadezaken van belang is.</p>
+
+
+
+<h3 class="wp-block-heading">Hoge Raad krijgt vijf vragen</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof legt daarom vijf prejudiciële vragen voor aan de Hoge Raad. Daarbij vraagt het onder meer welk toetsingskader geldt, wat de betekenis is van een redelijkerwijs verdedigbare rechtsopvatting van de inspecteur en hoe moet worden omgegaan met situaties waarin de Hoge Raad een nieuwe rechtsvraag beantwoordt of juist terugkomt van eerdere rechtspraak. Ook vraagt het hof specifiek of het Brandweermanarrest ten opzichte van het Smeerkuilarrest een nieuwe rechtsopvatting bevat. Totdat de Hoge Raad de vragen heeft beantwoord, houdt het hof iedere verdere beslissing aan.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 9.6 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/BWBR0012031#BWBR0012031-20260117_10339714" target="_blank" rel="noreferrer noopener">art. 45aa, aanhef en letter b URIB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27ga?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27ga AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6018" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 15-09-2026, ECLI:NL:GHARL:2026:6018, 25/354 en 25/355 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Brandweerman.jpg" length="50694" type="image/jpeg" />	</item>
+		<item>
+		<title>Nota van wijziging wetsvoorstel BP 2027 en  wetsvoorstel OFM 2027</title>
+		<link>https://www.taxence.nl/nieuws/nota-van-wijziging-wetsvoorstel-bp-2027-en-nota-van-wijziging-wetsvoorstel-ofm-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/nota-van-wijziging-wetsvoorstel-bp-2027-en-nota-van-wijziging-wetsvoorstel-ofm-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 05:55:49 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168007</guid>
+
+					<description><![CDATA[De staatssecretaris van Financiën stuurt de Tweede Kamer de nota van wijziging op het wetsvoorstel Belastingplan 2027 en de nota van wijziging op het wetsvoorstel Overige Fiscale Maatregelen 2027. Nota van wijziging BP 2027 De nota van wijziging bij het Belastingplan 2027 bevat uitsluitend redactionele en technische aanpassingen. Het gaat onder meer om het herstellen<a class="read-more" href="https://www.taxence.nl/nieuws/nota-van-wijziging-wetsvoorstel-bp-2027-en-nota-van-wijziging-wetsvoorstel-ofm-2027/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De staatssecretaris van Financiën stuurt de Tweede Kamer de nota van wijziging op het wetsvoorstel Belastingplan 2027 en de nota van wijziging op het wetsvoorstel Overige Fiscale Maatregelen 2027.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Nota van wijziging BP 2027</strong></p>
+
+
+
+<p class="wp-block-paragraph">De nota van wijziging bij het Belastingplan 2027 bevat uitsluitend redactionele en technische aanpassingen. Het gaat onder meer om het herstellen van onjuiste verwijzingen, ontbrekende tekst en enkele fouten in tabellen.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Nota van wijziging Wetsvoorstel Overige fiscale maatregelen 2027</strong></p>
+
+
+
+<p class="wp-block-paragraph">De nota van wijziging bij het wetsvoorstel Overige fiscale maatregelen 2027 bevat een technische aanpassing en overgangsrecht voor de opting-in-regeling. Daarmee wordt voorkomen dat voor bestaande opting-in-situaties vanwege nieuwe eisen opnieuw een gezamenlijke verklaring moet worden opgesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/1e57b987-0631-486f-b3f8-a7b3f1d64355" data-type="link" data-id="https://open.overheid.nl/details/1e57b987-0631-486f-b3f8-a7b3f1d64355" target="_blank" rel="noreferrer noopener">Nota van wijziging wetsvoorstel Belastingplan 2027 en nota van wijziging Overige fiscale maatregelen, nr. 2026-0000379750, Ministerie van Financiën, 2 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nota-van-wijziging-wetsvoorstel-bp-2027-en-nota-van-wijziging-wetsvoorstel-ofm-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Ministerie-van-Financien-.jpg" length="84237" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen aanleiding voor onderzoek naar familiehypotheken</title>
+		<link>https://www.taxence.nl/nieuws/geen-aanleiding-voor-onderzoek-naar-familiehypotheken/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-aanleiding-voor-onderzoek-naar-familiehypotheken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 05:29:42 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168002</guid>
+
+					<description><![CDATA[Het kabinet ziet op dit moment geen aanleiding voor een afzonderlijk onderzoek naar familiehypotheken en schenk-leenconstructies. Bij een constructie waarbij vanaf het begin de bedoeling is dat de rente uit schenkingen wordt betaald, is de betaalde rente volgens de Belastingdienst niet aftrekbaar. Om aanspraak te maken op hypotheekrenteaftrek gelden voor een familiehypotheek in principe dezelfde<a class="read-more" href="https://www.taxence.nl/nieuws/geen-aanleiding-voor-onderzoek-naar-familiehypotheken/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet ziet op dit moment geen aanleiding voor een afzonderlijk onderzoek naar familiehypotheken en schenk-leenconstructies. Bij een constructie waarbij vanaf het begin de bedoeling is dat de rente uit schenkingen wordt betaald, is de betaalde rente volgens de Belastingdienst niet aftrekbaar.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Om aanspraak te maken op hypotheekrenteaftrek gelden voor een familiehypotheek in principe dezelfde voorwaarden als voor een lening bij een kredietverstrekker. De lening moet zijn aangegaan voor de aankoop of verbetering van de eigen woning, ten minste annuïtair en in maximaal 30 jaar worden afgelost en de overeengekomen rente moet marktconform zijn. Daarnaast moeten jaarlijks bepaalde gegevens over de lening aan de Belastingdienst worden verstrekt.</p>
+
+
+
+<p class="wp-block-paragraph">De rente moet bovendien financieel op de belastingplichtige drukken. Het kwijtschelden van rente leidt ertoe dat de rentekosten niet op de belastingplichtige drukken en er dus geen recht op hypotheekrenteaftrek bestaat. Ook bestaat geen recht op aftrek als vanaf het begin de bedoeling is geweest dat de rente wordt betaald uit schenkingen.</p>
+
+
+
+<h2 class="wp-block-heading">Meer financiële ruimte door schenk-leenconstructie</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet is ermee bekend dat verschillende hypotheekverstrekkers onder voorwaarden toestaan dat een familiehypotheek met een schenk-leenconstructie boven op de maximale leencapaciteit komt. Wanneer rente en aflossing worden gecompenseerd door periodieke schenkingen, kunnen kredietverstrekkers deze financiële verplichtingen voor het teruggeschonken deel buiten beschouwing laten. De geldnemer heeft dan per saldo geen of beperkte lasten. Dit past volgens het kabinet binnen de wettelijke kaders voor verantwoorde kredietverlening.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet onderkent dat huishoudens hierdoor in individuele gevallen meer financiële ruimte kunnen hebben dan huishoudens die hun woning uitsluitend met een reguliere hypotheek financieren. Verruiming van financieringsmogelijkheden aan de vraagzijde kan zonder gelijktijdige vergroting van het woningaanbod prijsopdrijvend werken. Het kabinet beschikt echter niet over gegevens waarmee het effect van deze specifieke constructie op de woningprijzen kan worden vastgesteld.</p>
+
+
+
+<h2 class="wp-block-heading">Geen afzonderlijk onderzoek</h2>
+
+
+
+<p class="wp-block-paragraph">Een onafhankelijke geldverstrekker zal niet bereid zijn de rente terug te schenken, waardoor de lening in dat opzicht niet marktconform is. Bij de bedoelde schenk-leenconstructie neemt de Belastingdienst het standpunt in dat de rente niet aftrekbaar is wanneer deze door de schenkingen niet financieel op de ontvanger drukt.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet blijft de ontwikkelingen op de hypotheekmarkt volgen. Als blijkt dat dergelijke constructies leiden tot ongewenste effecten voor de toegang tot de woningmarkt, zal worden bezien of nadere analyse wenselijk is. Vooralsnog ziet het kabinet geen aanleiding voor afzonderlijk onderzoek of opname van de schenk-leenconstructie in de lijst met opmerkelijke belastingconstructies.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/9f939b8c-51c8-42d6-aa1d-9fe3b919aa74" data-type="link" data-id="https://open.overheid.nl/details/9f939b8c-51c8-42d6-aa1d-9fe3b919aa74" target="_blank" rel="noreferrer noopener">Kamerbrief over familiehypotheken en schenk-leenconstructies, nr. 2026-0000341437, Ministerie van Financiën, 2 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-aanleiding-voor-onderzoek-naar-familiehypotheken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Woning-jongere.jpg" length="19739" type="image/jpeg" />	</item>
+		<item>
+		<title>Landbouwvrijstelling bij wisselteelt wordt niet verruimd</title>
+		<link>https://www.taxence.nl/nieuws/landbouwvrijstelling-bij-wisselteelt-wordt-niet-verruimd/</link>
+					<comments>https://www.taxence.nl/nieuws/landbouwvrijstelling-bij-wisselteelt-wordt-niet-verruimd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 04:37:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168005</guid>
+
+					<description><![CDATA[Het kabinet ziet geen aanleiding om de landbouwvrijstelling te verruimen voor melkveehouders die grond tijdelijk beschikbaar stellen voor wisselteelt. Het huidige beleidsbesluit geeft volgens het kabinet binnen de bestaande wetgeving en jurisprudentie een zo ruim mogelijke uitleg van het begrip vruchtwisseling. De landbouwvrijstelling is in beginsel niet van toepassing op grond die ter beschikking wordt<a class="read-more" href="https://www.taxence.nl/nieuws/landbouwvrijstelling-bij-wisselteelt-wordt-niet-verruimd/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet ziet geen aanleiding om de landbouwvrijstelling te verruimen voor melkveehouders die grond tijdelijk beschikbaar stellen voor wisselteelt. Het huidige beleidsbesluit geeft volgens het kabinet binnen de bestaande wetgeving en jurisprudentie een zo ruim mogelijke uitleg van het begrip vruchtwisseling.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De landbouwvrijstelling is in beginsel niet van toepassing op grond die ter beschikking wordt gesteld aan een ander. Voor noodzakelijke vruchtwisseling geldt een uitzondering. Daarbij wordt beoordeeld of vruchtwisseling noodzakelijk is vanuit het perspectief van de grondeigenaar bij de uitoefening van het landbouwbedrijf.</p>
+
+
+
+<p class="wp-block-paragraph">Melkveehouders kunnen de landbouwvrijstelling daarom niet toepassen over de periode dat hun grasland ter beschikking wordt gesteld aan bijvoorbeeld een akkerbouwer. Voor de melkveehouder bestaat geen directe noodzaak om grasland tijdelijk te ruilen voor het behoud van de bodemkwaliteit. Gras en maïs zijn geen bodemuitputtende gewassen.</p>
+
+
+
+<h2 class="wp-block-heading">Belang van vruchtwisseling</h2>
+
+
+
+<p class="wp-block-paragraph">Voor gewassen als aardappelen, uien en bloembollen is vruchtwisseling noodzakelijk om bodemgebonden ziekten en plagen te voorkomen. Dat kan binnen het eigen bedrijf, maar ook in samenwerking met melkveehouders. Vruchtwisseling draagt bovendien bij aan het verminderen van het gebruik van chemische gewasbeschermingsmiddelen. Volgens het kabinet wordt binnen de ruimte die de wet biedt zoveel mogelijk rekening gehouden met dit maatschappelijke en landbouwkundige voordeel.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet erkent dat het denkbaar is dat een melkveehouder vanwege gedeeltelijk verlies van de landbouwvrijstelling zijn grond niet beschikbaar wil stellen. Of dit daadwerkelijk plaatsvindt en wat daarvan de gevolgen zijn, is niet bekend. Een uitbreiding van de vrijstelling naar deze situaties vereist een wetswijziging en ligt vanwege de uitkomsten van de evaluatie van de landbouwvrijstelling niet voor de hand.</p>
+
+
+
+<h2 class="wp-block-heading">Geen ruimere overgangsregeling</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wijst erop dat de huidige werkwijze niet wezenlijk verschilt van de werkafspraak uit 2014 tussen de Belastingdienst en LTO Nederland. Daarom ligt ook tijdelijk maatwerk of een ruimere overgangsregeling niet voor de hand. Wel wordt voor de bedrijfsopvolgingsregelingen gewerkt aan een verruiming bij uitruil van grond tussen akkerbouwers en melkveehouders. Hiervoor wordt in de Fiscale Verzamelwet 2028 een maatregel uitgewerkt.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/80c70f7b-8108-4036-b74a-88c95a47ad75" data-type="link" data-id="https://open.overheid.nl/details/80c70f7b-8108-4036-b74a-88c95a47ad75" target="_blank" rel="noreferrer noopener">Kamerbrief landbouwvrijstelling, nr. 2026Z17352, Ministerie van Financiën, 2 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/landbouwvrijstelling-bij-wisselteelt-wordt-niet-verruimd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/landbouwgrond.jpg" length="46624" type="image/jpeg" />	</item>
+		<item>
+		<title>Mkb heeft € 5,5 miljard aan fiscale administratieve lasten</title>
+		<link>https://www.taxence.nl/nieuws/mkb-heeft-e-55-miljard-aan-fiscale-administratieve-lasten/</link>
+					<comments>https://www.taxence.nl/nieuws/mkb-heeft-e-55-miljard-aan-fiscale-administratieve-lasten/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 03:59:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168009</guid>
+
+					<description><![CDATA[Het kabinet wil de administratieve lasten door fiscale wetgeving verminderen en brengt daarvoor samen met ondernemers knelpunten in kaart. Staatssecretaris Eerenberg informeert de Kamer over de uitvoering van de motie-Van Dijk/Van Eijk, met bijzondere aandacht voor de WKR en WBSO.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de administratieve lasten door fiscale wetgeving verminderen en brengt daarvoor samen met ondernemers knelpunten in kaart. Staatssecretaris Eerenberg informeert de Kamer over de uitvoering van de motie-Van Dijk/Van Eijk, met bijzondere aandacht voor de WKR en WBSO.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Uit onderzoek van Panteia in opdracht van de Belastingdienst blijkt dat de administratieve lasten voor het mkb door fiscale wetgeving in 2024 circa € 5,5 miljard bedroegen. De grootste bronnen zijn de vennootschapsbelasting en winst in de inkomstenbelasting, met € 1,5 miljard, gevolgd door de loonheffing met € 1,3 miljard en de omzetbelasting met € 0,7 miljard. Het doel van het kabinet is deze administratieve lasten omlaag te brengen. </p>
+
+
+
+<h2 class="wp-block-heading">Drie sporen voor vereenvoudiging</h2>
+
+
+
+<p class="wp-block-paragraph">Om kansen voor vermindering van administratieve lasten in beeld te krijgen, werkt het kabinet langs drie sporen. Via beleidsonderzoek wordt regelmatig met ondernemers gesproken, onder meer over de WKR en WBSO. Daarnaast worden internetconsultaties ingezet om aandachtspunten bij de vennootschapsbelasting en inkomstenbelasting te verzamelen. Het derde spoor bestaat uit bredere trajecten, zoals de hervormingsagenda en de 500-regelaanpak. </p>
+
+
+
+<p class="wp-block-paragraph">Bij de evaluaties van de WKR en WBSO zijn gebruikers via interviews en enquêtes betrokken. Voor de WBSO is de Kamer al geïnformeerd over kansen om administratieve lasten te beperken. Bij de WKR wordt komend jaar nader onderzocht of opvolging kan worden gegeven aan aanbevelingen van onderzoeksbureau SEO. </p>
+
+
+
+<h2 class="wp-block-heading">Internetconsultaties en bredere hervorming</h2>
+
+
+
+<p class="wp-block-paragraph">Ook is een internetconsultatie over vereenvoudiging van winstbelastingen afgerond. Naar aanleiding van signalen van ondernemers start de staatssecretaris daarnaast een internetconsultatie over knelpunten rond de innovatiebox. De uitkomsten daarvan worden begin volgend jaar met de Kamer gedeeld. </p>
+
+
+
+<p class="wp-block-paragraph">Verder werkt het kabinet aan een hervormingsagenda voor het belasting- en toeslagenstelsel en aan de 500-regelaanpak. Daarbij zet Nederland zich ook in de EU in voor verregaande vermindering van regeldruk. Het kabinet blijft zich inzetten voor minder administratieve lasten voor ondernemers en houdt de Kamer op de hoogte van de uitkomsten van deze trajecten. </p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/c425b176-32e9-4d20-9071-3003ba5cdd16" data-type="link" data-id="https://open.overheid.nl/details/c425b176-32e9-4d20-9071-3003ba5cdd16" target="_blank" rel="noreferrer noopener">Kamerbrief  fiscale regelingen met hoge administratieve lasten inventariseren en concrete vereenvoudigingsvoorstellen uitwerken, nr. 2026-0000390780, Ministerie van Financien, 2 oktober 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/mkb-heeft-e-55-miljard-aan-fiscale-administratieve-lasten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/Ondernemer-schuld.jpg" length="40099" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 9 oktober 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-9-oktober-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-9-oktober-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 03:43:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168012</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 9 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 9 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>19/05853</td><td>Gerechtshof Arnhem-Leeuwarden 19 november 2019, nr. 18/01125<br>ECLI:NL:GHARL:2019:9865 <em>Terechte naheffing accijns en voorraadheffing voor gasolie in bunkertanks motortankschip</em></td><td>NTFR 2019/3074</td></tr><tr><td>&nbsp;</td><td>HR 10 februari 2023, nr. 19/05853<br>ECLI:NL:HR:2023:187</td><td>NTFR 2023/300</td></tr><tr><td>23/01315</td><td>Gerechtshof ’s-Hertogenbosch 22 februari 2023, nr. 21/00569<br>ECLI:NL:GHSHE:2023:685 <em>Aan werknemers toegekende cashbonus valt niet onder reikwijdte van aftrekbeperking art. 10 Wet Vpb 1969</em></td><td>NTFR 2023/740</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Wattel 1 december 2023, nr. 23/01315<br>ECLI:NL:PHR:2023:1096</td><td>NTFR 2024/28</td></tr><tr><td>24/02185</td><td>Gerechtshof Amsterdam 16 april 2024, nr. 22/440<br>ECLI:NL:GHAMS:2024:1385 <em>Misbruik van recht staat toekenning immateriële schadevergoeding in de weg</em></td><td>NTFR 2024/1072</td></tr><tr><td>25/00064</td><td>Gerechtshof Amsterdam 28 november 2024, nr. 21/1663<br>ECLI:NL:GHAMS:2024:3300 <em>Naheffing overdrachtsbelasting vernietigd omdat geen sprake is van belastingplichtige verkrijger</em></td><td>NTFR 2025/178</td></tr><tr><td>25/03445</td><td>Gerechtshof Den Haag 12 augustus 2025, nr. 24/902<br>ECLI:NL:GHDHA:2025:2321 <em>Verlies op mislukt vastgoedproject aftrekbaar als ROW na toepassing foutenleer</em></td><td>NTFR 2026/186</td></tr><tr><td>26/01177</td><td>Gerechtshof Den Haag 17 februari 2026, nr. 24/1001<br>ECLI:NL:GHDHA:2026:384 <em>Executeur kan niet zonder machtiging namens legataris procederen</em></td><td>NTFR 2026/936</td></tr><tr><td>26/01323</td><td>Gerechtshof ’s-Hertogenbosch 18 maart 2026, nrs. 24/1888 en 24/1889<br>ECLI:NL:GHSHE:2026:739 <em>FSV-registratie niet relevant bij beperkte aftrek zorgkosten na gebrek aan bewijs</em></td><td>NTFR 2026/1579</td></tr><tr><td>26/01989</td><td>Gerechtshof Arnhem-Leeuwarden 21 april 2026, nr. 24/2006<br>ECLI:NL:GHARL:2026:2744 <em>Geen indeling in bouwsector omdat montage spanplafonds als woningstoffering kwalificeert</em></td><td>NTFR 2026/1094</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/01480</td><td>Gerechtshof Arnhem-Leeuwarden 5 maart 2024, nr. 22/705<br>ECLI:NL:GHARL:2024:1586 <em>Terechte navordering door fictief kenbare fout bij vaststelling hoogte aanslag</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Koopman 31 januari 2025, nr. 24/01480<br>ECLI:NL:PHR:2025:130</td><td>NTFR 2025/369</td></tr><tr><td>24/02186</td><td>Gerechtshof Amsterdam 16 april 2024, nr. 22/441<br>ECLI:NL:GHAMS:2024:1394 <em>Geen belang bij instellen beroep tegen niet tijdige uitspraak</em></td><td>&nbsp;</td></tr><tr><td>24/02200</td><td>Gerechtshof Den Haag 1 mei 2024, nrs. 23/597 en 23/598<br>ECLI:NL:GHDHA:2024:716 <em>Correcties voor niet opgegeven inkomen zijn gebaseerd op een redelijke en niet willekeurige schatting</em></td><td>&nbsp;</td></tr><tr><td>24/04174</td><td>Gerechtshof ’s-Hertogenbosch 2 oktober 2024, nrs. 22/1562, 22/1563, 24/488 en 22/489<br>ECLI:NL:GHSHE:2024:3078 <em>Inspecteur kon navorderen en heeft belastbaar inkomen redelijk geschat</em></td><td>&nbsp;</td></tr><tr><td>24/04649</td><td>Gerechtshof ’s-Hertogenbosch 6 november 2024, nr. 23/60<br>ECLI:NL:GHSHE:2024:3582 <em>Hoger beroep en incidenteel hoger beroep niet-ontvankelijk omdat beroepschrift heffingsambtenaar te laat is ingediend</em></td><td>&nbsp;</td></tr><tr><td>24/04651</td><td>Gerechtshof ’s-Hertogenbosch 6 november 2024, nr. 23/61<br>ECLI:NL:GHSHE:2024:3483 <em>Hoger beroep en incidenteel hoger beroep niet-ontvankelijk omdat beroepschrift heffingsambtenaar te laat is ingediend</em></td><td>&nbsp;</td></tr><tr><td>25/00063</td><td>Gerechtshof Amsterdam 28 november 2024, nr. 21/1664<br>ECLI:NL:GHAMS:2024:3301 <em>Geen naheffing ovb omdat geen sprake is van belastingplichtige verkrijger</em></td><td>&nbsp;</td></tr><tr><td>25/00678</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2546<br>ECLI:NL:GHARL:2025:156 <em>Opslag ozb-tarief in combinatie met retributieregeling vormt ongeoorloofde tariefdifferentiatie / ozb-aanslagen verminderd</em></td><td>&nbsp;</td></tr><tr><td>25/03818</td><td>Rechtbank Zeeland-West-Brabant 12 september 2025, nr. 24/6113<br>ECLI:NL:RBZWB:2025:6109 <em>Geen WOZ-beschikking op aanvraag mogelijk; verzet faalt</em></td><td>&nbsp;</td></tr><tr><td>26/01174</td><td>Gerechtshof Den Haag 17 februari 2026, nr. 24/1012<br>ECLI:NL:GHDHA:2026:389 <em>Niet-ontvankelijkheid hoger beroep wegens ontbreken recente machtiging executeur</em></td><td>&nbsp;</td></tr><tr><td>26/01175</td><td>Gerechtshof Den Haag 17 februari 2026, nrs. 24/1010 en 24/1011<br>ECLI:NL:GHDHA:2026:388 <em>Niet-ontvankelijkheid hoger beroep wegens ontbreken machtiging executeur</em></td><td>&nbsp;</td></tr><tr><td>26/01176</td><td>Gerechtshof Den Haag 17 februari 2026, nr. 24/1003<br>ECLI:NL:GHDHA:2026:386 <em>Niet-ontvankelijk hoger beroep wegens ontbreken recente machtiging executeur</em></td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/00666</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2562, ECLI:NL:GHARL:2025:172</td></tr><tr><td>25/00668</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2561, ECLI:NL:GHARL:2025:171</td></tr><tr><td>25/00669</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2560, ECLI:NL:GHARL:2025:170</td></tr><tr><td>25/00670</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2559, ECLI:NL:GHARL:2025:169</td></tr><tr><td>25/00671</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2558, ECLI:NL:GHARL:2025:168</td></tr><tr><td>25/00672</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2557, ECLI:NL:GHARL:2025:167</td></tr><tr><td>25/00673</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2556, ECLI:NL:GHARL:2025:166</td></tr><tr><td>25/00674</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2555, ECLI:NL:GHARL:2025:165</td></tr><tr><td>25/00675</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2553, ECLI:NL:GHARL:2025:163</td></tr><tr><td>25/00677</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2554, ECLI:NL:GHARL:2025:164</td></tr><tr><td>25/00679</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2547, ECLI:NL:GHARL:2025:157</td></tr><tr><td>25/00680</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2548, ECLI:NL:GHARL:2025:158</td></tr><tr><td>25/00681</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2549, ECLI:NL:GHARL:2025:159</td></tr><tr><td>25/00682</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2550, ECLI:NL:GHARL:2025:160</td></tr><tr><td>25/00683</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2551, ECLI:NL:GHARL:2025:161</td></tr><tr><td>25/00684</td><td>Gerechtshof Arnhem-Leeuwarden 14 januari 2025, nr. 23/2552, ECLI:NL:GHARL:2025:162</td></tr><tr><td>25/01161</td><td>Gerechtshof Den Haag, nr. 24/848</td></tr><tr><td>25/01602</td><td>Gerechtshof Arnhem-Leeuwarden, nr. 23/01340</td></tr><tr><td>26/01334</td><td>Gerechtshof Amsterdam 3 maart 2026, nr. 25/1339, ECLI:NL:GHAMS:2026:1771</td></tr><tr><td>26/01518</td><td>Gerechtshof Amsterdam, nrs. 25/438 t/m 25/440</td></tr><tr><td>26/01519</td><td>Gerechtshof Amsterdam, nrs. 25/414 t/m 25/443</td></tr><tr><td>26/01522</td><td>Gerechtshof Amsterdam, nrs. 25/571 t/m 25/574</td></tr><tr><td>26/01525</td><td>Gerechtshof Amsterdam, nrs. 25/554 t/m 25/558</td></tr><tr><td>26/01526</td><td>Gerechtshof Amsterdam, nrs. 25/548 t/m 25/553</td></tr><tr><td>26/01527</td><td>Gerechtshof Amsterdam, nrs. 25/470 t/m 25/478</td></tr><tr><td>26/01530</td><td>Gerechtshof Amsterdam, nrs. 25/396 t/m 25/420</td></tr><tr><td>26/01531</td><td>Gerechtshof Amsterdam, nrs. 25/423 t/m 25/425</td></tr><tr><td>26/01532</td><td>Gerechtshof Amsterdam, nrs. 25/435 t/m 25/437</td></tr><tr><td>26/01533</td><td>Gerechtshof Amsterdam, nrs. 25/426 t/m 25/432</td></tr><tr><td>26/01534</td><td>Gerechtshof Amsterdam, nrs. 25/533 t/m 25/541</td></tr><tr><td>26/01536</td><td>Gerechtshof Amsterdam, nrs. 25/433 en 25/434</td></tr><tr><td>26/01537</td><td>Gerechtshof Amsterdam, nrs. 25/542 t/m 25/547</td></tr><tr><td>26/01538</td><td>Gerechtshof Amsterdam, nrs. 25/802 en 25/803</td></tr><tr><td>26/01539</td><td>Gerechtshof Amsterdam, nrs. 25/479 t/m 25/482</td></tr><tr><td>26/01540</td><td>Gerechtshof Amsterdam, nrs. 25/596 t/m 25/603</td></tr><tr><td>26/02305</td><td>Centrale Raad van Beroep 19 maart 2026, nr. 24/2651, ECLI:NL:CRVB:2026:331</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-9-oktober-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Rechtspraak-10.jpg" length="23314" type="image/jpeg" />	</item>
+		<item>
+		<title>Online cursus BTW, factuurvereisten en ViDA &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 12:22:46 +0000</pubDate>
+				<category><![CDATA[Actualiteiten]]></category>
+		<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[BTW]]></category>
+		<category><![CDATA[BTW en overdrachtsbelasting]]></category>
+		<category><![CDATA[omzetbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167907</guid>
+
+					<description><![CDATA[Nieuwe BTW-regels en digitale rapportageverplichtingen Nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA) komen eraan. ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA). ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de interne markt.&#160;Ben je er<a class="read-more" href="https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Nieuwe BTW-regels en digitale rapportageverplichtingen</p>
+<p>Nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA) komen eraan. ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de nieuwe BTW-regels en digitale rapportageverplichtingen (ViDA). ViDA is de meest ingrijpende modernisering van het Europese BTW stelsel sinds de invoering van de interne markt.&nbsp;Ben je er klaar voor om aan alle eisen te voldoen? Een fout op een factuur kan leiden tot verlies van BTW-aftrek, en hoge boetes bij de verkoopfactuur.</p>
+<p>Tijdens dit webinar ontvang je praktische handvatten waarmee je direct aan de slag kunt. Je ontdekt hoe je ervoor zorgt dat jouw facturen voldoen aan de BTW-vereisten, hoe je inkomende facturen kritisch beoordeelt en hoe je je tijdig voorbereidt op e-facturering.</p>
+<p>Daarnaast gaan we in op de impact van ViDA, verplichte e-facturatie en digitale rapportage. Zo beperk je risico’s en ben je goed voorbereid op wat komen gaat.</p>
+<p>Ben je er klaar voor om aan alle eisen te voldoen? Een fout op een factuur kan leiden tot verlies van BTW-aftrek, en hoge boetes bij de verkoopfactuur.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/actualiteiten/3078/online-cursus-btw-factuurvereisten" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-cursus-btw-factuurvereisten-en-vida-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Levensloopuitkering terecht belast als loon in 2021</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-7/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 07:52:42 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167921</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een uitkering uit een levensloopregeling terecht in 2021 tot het belastbaar inkomen uit werk en woning is gerekend. Omdat de aanspraak niet vóór 1 november 2021 als loon in aanmerking is genomen, geldt op grond van het overgangsrecht een fictief genietingsmoment.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een uitkering uit een levensloopregeling terecht in 2021 tot het belastbaar inkomen uit werk en woning is gerekend. Omdat de aanspraak niet vóór 1 november 2021 als loon in aanmerking is genomen, geldt op grond van het overgangsrecht een fictief genietingsmoment.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw neemt deel aan een levensloopregeling. Eind 2020 bedraagt het saldo van haar polis € 6.491,93. In november 2021 keert de verzekeraar bruto € 8.631,62 uit, waarop € 3.202,33 loonheffing wordt ingehouden. In haar aangifte IB/PVV 2021 neemt de vrouw de uitkering niet op als inkomen. De inspecteur corrigeert haar belastbaar inkomen uit werk en woning daarom met € 8.631 en verhoogt de in aanmerking genomen loonheffing met € 3.203. De vrouw is het niet eens met deze correctie. In geschil is of de uitkering uit de levensloopregeling terecht tot haar inkomen over 2021 is gerekend.</p>
+
+
+
+<h3 class="wp-block-heading">Levensloopaanspraak belast in 2021</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof volgt het oordeel van de rechtbank. De levensloopregeling is per 1 januari 2012 afgeschaft, waarbij voor bestaande deelnemers overgangsrecht gold. Omdat de aanspraak van de vrouw niet vóór 1 november 2021 als loon in aanmerking is genomen, schrijft artikel 39d lid 4 Wet LB 1964 voor dat de waarde van de aanspraak op die datum als loon wordt belast. De vrouw ontvangt de uitkering bovendien daadwerkelijk in november 2021. Het door de inspecteur in aanmerking genomen bedrag van € 8.631 sluit aan bij zowel de gegevens van de verzekeraar als het overzicht van de Belastingdienst. Er bestaat daarom geen aanleiding aan de juistheid daarvan te twijfelen. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-39d?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 39d lid 4 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5748">Gerechtshof Arnhem-Leeuwarden, 01-09-2026, ECLI:NL:GHARL:2026:5748, 25/2465 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/vrouw-rekenen.jpg" length="49179" type="image/jpeg" />	</item>
+		<item>
+		<title>Minister moet breder zoeken naar fraudesignalen</title>
+		<link>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/</link>
+					<comments>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2026 07:39:30 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Fiscaal procesrecht]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167917</guid>
+
+					<description><![CDATA[De minister van Financiën heeft een AVG-inzageverzoek naar mogelijke ‘zwarte lijsten’ bij de Belastingdienst te beperkt opgevat. Volgens de Afdeling bestuursrechtspraak moet ook worden gezocht in de datakluis en andere systemen waarin fraudesignalen over personen zijn verwerkt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De minister van Financiën heeft een AVG-inzageverzoek naar mogelijke ‘zwarte lijsten’ bij de Belastingdienst te beperkt opgevat. Volgens de Afdeling bestuursrechtspraak moet ook worden gezocht in de datakluis en andere systemen waarin fraudesignalen over personen zijn verwerkt.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Twee personen vragen de minister op grond van artikel 15 AVG om inzage in hun persoonsgegevens. Naar aanleiding van berichtgeving over de Fraude Signalering Voorziening (FSV) willen zij weten of zij voorkomen op ‘zwarte lijsten’ van de Belastingdienst. Zij vermoeden dat sprake is van zo&#8217;n registratie, omdat de Belastingdienst zonder nadere motivering geen vaststellingsovereenkomst met hen wilde sluiten. De minister laat weten dat hun persoonsgegevens niet in de FSV voorkomen. Voor andere systemen wijst hij het verzoek af, omdat onderzoek naar met de FSV vergelijkbare systemen nog loopt. Rechtbank Den Haag gaat daarin mee. In hoger beroep stellen de twee dat onvoldoende is gezocht en dat hun verzoek veel ruimer is dan alleen de FSV.</p>
+
+
+
+<h3 class="wp-block-heading">Datakluis had moeten worden doorzocht</h3>
+
+
+
+<p class="wp-block-paragraph">De Afdeling bestuursrechtspraak van de Raad van State wijst erop dat de Belastingdienst beschikt over een afgeschermde digitale omgeving met ongeveer 25 miljoen bestanden: de datakluis. Deze is niet betrokken bij de zoekacties naar aanleiding van informatieverzoeken van burgers. De datakluis bevat onder meer bestanden die verband houden met de FSV en het Risico Analyse Model. Omdat de datakluis en mogelijk andere afgeschermde digitale omgevingen niet zijn doorzocht, kan de mededeling dat de persoonsgegevens niet in de FSV voorkomen niet zonder meer geloofwaardig worden geacht.</p>
+
+
+
+<h3 class="wp-block-heading">Begrip ‘zwarte lijsten’ ruim uitleggen</h3>
+
+
+
+<p class="wp-block-paragraph">Ook heeft de minister het verzoek te beperkt uitgelegd. Onder ‘zwarte lijsten’ moeten volgens de Afdeling alle gegevensbestanden, applicaties en systemen vallen waarin fraudesignalen over personen zijn of worden verwerkt. De minister had daarom niet alleen naar met de FSV vergelijkbare systemen mogen kijken. Het hoger beroep is gegrond en de minister moet nieuwe besluiten nemen. Daarbij moet hij ook zoeken in de datakluis en, voor zover relevant, andere afgeschermde digitale omgevingen van de Belastingdienst.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/CELEX-32016R0679-20160524-NLD#CELEX-32016R0679-20160524-NLD_ART_15" target="_blank" rel="noreferrer noopener">art. 15 AVG</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RVS_2026_5793">Raad van State, 30-09-2026, ECLI:NL:RVS:2026:5793, 202300231/1/A3 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/minister-moet-breder-zoeken-naar-fraudesignalen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/08/Onderzoek-administratie.jpg" length="45863" type="image/jpeg" />	</item>
+	</channel>
+</rss>

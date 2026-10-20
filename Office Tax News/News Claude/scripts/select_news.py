@@ -208,7 +208,9 @@ def match_topics(text, topics):
     best_priority = None
     for t in topics:
         for kw in t["keywords"]:
-            if kw and kw in hay:
+            hit = (bool(re.search(rf"(?<!\w){re.escape(kw)}(?!\w)", hay))
+                   if len(kw) <= 3 and re.fullmatch(r"\w+", kw) else bool(kw and kw in hay))
+            if hit:
                 matched.append(t["id"])
                 if best_priority is None or t["priority"] < best_priority:
                     best_priority = t["priority"]
@@ -374,7 +376,7 @@ def _run_connected(date, top, root, conn):
         score = base + jurisdiction_w + (FRESHNESS_BONUS if fresh else 0.0) + engagement_bonus
 
         title_norm = newsdb.normalize_title(title)
-        dup = newsdb.is_duplicate(conn, url, ecli, title_norm, act_norm)
+        dup = newsdb.is_duplicate(conn, url, ecli, title_norm, act_norm, include_collected=False)
 
         candidate = {
             "source": source,

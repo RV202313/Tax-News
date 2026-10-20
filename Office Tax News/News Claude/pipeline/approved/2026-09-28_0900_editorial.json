@@ -1,0 +1,517 @@
+{
+  "release": "2026-09-28_0900_editorial",
+  "date": "2026-09-28",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-28-0900-item-01-brics-ru",
+      "title": "БРИКС и Россия: Налоговые органы создают Сеть поддержки налогоплательщиков",
+      "caption": "БРИКС и Россия: Налоговые органы создают Сеть поддержки налогоплательщиков\n\nНалоговые ведомства государств БРИКС утвердили в Нью-Дели соглашение о запуске международной Сети поддержки налогоплательщиков с 1 января 2027 года.\n\n💡 **Почему это важно**\nПлатформа обеспечивает прямой канал направления запросов бизнеса в налоговые администрации 10 стран объединения и формирует единую базу знаний по налоговым режимам. Экспортерам и инвесторам рекомендуется подготовить перечень методологических вопросов по трансграничным операциям в Азии и на Ближнем Востоке для получения официальных разъяснений.\n\nИсточник: https://www.garant.ru/news/2251092/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налоговое сотрудничество и БРИКС",
+      "jurisdictions": "Россия, БРИКС",
+      "act": "Соглашение глав налоговых администраций стран БРИКС",
+      "sources": [
+        {
+          "label": "ГАРАНТ.РУ / ФНС России",
+          "url": "https://www.garant.ru/news/2251092/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2251092/",
+          "final_url": "https://www.garant.ru/news/2251092/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "БРИКС и Россия: Налоговые органы создают",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-02-ru",
+      "title": "Россия: ФНС России разъяснила правила смены специальных налоговых режимов",
+      "caption": "Россия: ФНС России разъяснила правила смены специальных налоговых режимов\n\nФедеральная налоговая служба России опубликовала разъяснения о порядке перехода налогоплательщиков между специальными налоговыми режимами и особенностях закрытия расчетов по НДС.\n\n💡 **Почему это важно**\nСоблюдение регламентных сроков подачи уведомлений предотвращает автоматический перевод организации на общую систему налогообложения с доначислением налогов. Финансовым службам рекомендуется провести сравнительный расчет фискальной нагрузки до окончания текущего налогового периода.\n\nИсточник: https://www.garant.ru/news/2251718/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "специальные налоговые режимы и УСН",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России по спецрежимам",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2251718/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2251718/",
+          "final_url": "https://www.garant.ru/news/2251718/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России разъяснила правила см",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-03-ru",
+      "title": "Россия: Минфин РФ определил подходы к налоговому контролю операций с цифровыми валютами",
+      "caption": "Россия: Минфин РФ определил подходы к налоговому контролю операций с цифровыми валютами\n\nМинистерство финансов Российской Федерации заявило о внедрении комплексного цифрового анализа в качестве базового инструмента регулирования и налогообложения оборота цифровых валют.\n\n💡 **Почему это важно**\nИнтеграция аналитических систем позволяет регуляторам отслеживать цепочки транзакций и выявлять незадекларированные доходы от майнинга и криптовалютных расчетов. Участникам рынка цифровых активов необходимо обеспечить прозрачный учет движения средств и своевременное декларирование налоговой базы.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40645-aleksei_yakovlev_tsifrovoi_analiz__odin_iz_kraeugolnykh_kamnei_regulirovaniya_tsifrovykh_valyut\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровые валюты и налоговый контроль",
+      "jurisdictions": "Россия",
+      "act": "Заявление Министерства финансов Российской Федерации",
+      "sources": [
+        {
+          "label": "Минфин России",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40645-aleksei_yakovlev_tsifrovoi_analiz__odin_iz_kraeugolnykh_kamnei_regulirovaniya_tsifrovykh_valyut"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40645-aleksei_yakovlev_tsifrovoi_analiz__odin_iz_kraeugolnykh_kamnei_regulirovaniya_tsifrovykh_valyut",
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40645-aleksei_yakovlev_tsifrovoi_analiz__odin_iz_kraeugolnykh_kamnei_regulirovaniya_tsifrovykh_valyut",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ определил подходы к на",
+              "source_quote": "об этом рассказал директор департамента финансовой политики минфина россии алексей яковлев в ходе xxiii международного б"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-04-ru",
+      "title": "Россия: ФНС России расширяет применение автоматизированных IT-технологий контроля",
+      "caption": "Россия: ФНС России расширяет применение автоматизированных IT-технологий контроля\n\nФНС России представила обновленные инструменты цифрового профилирования и бесконтактного налогового администрирования в эфире ведомственной программы.\n\n💡 **Почему это важно**\nАвтоматизация камерального контроля сокращает сроки возврата переплат, но одновременно ужесточает выявление расхождений в налоговых регистрах. Корпоративным учетным подразделениям следует провести аудит первичных электронных документов для предотвращения автоматических требований об устранении несоответствий.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16651943/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровизация налогового администрирования",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России по цифровым технологиям",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651943/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651943/",
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651943/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России расширяет применение ",
+              "source_quote": "информационные технологии помогают обрабатывать большой объем данных, развивать сервисы и улучшать внутренние процессы"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-05-je-nl",
+      "title": "Джерси и Нидерланды: Налоговая служба определила статус корпоративных структур острова Джерси",
+      "caption": "Джерси и Нидерланды: Налоговая служба определила статус корпоративных структур острова Джерси\n\nЭкспертная группа Налоговой службы Нидерландов опубликовала правовую позицию о признании компаний острова Джерси корпоративно непрозрачными субъектами для целей налога на прибыль.\n\n💡 **Почему это важно**\nКвалификация структуры исключает автоматическое сквозное налогообложение и влияет на применение режима участия при распределении дивидендов. Международным холдингам с промежуточными компаниями на Нормандских островах необходимо верифицировать налоговый статус структур в нидерландских цепочках владения.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративная квалификация и офшорные структуры",
+      "jurisdictions": "Джерси, Нидерланды",
+      "act": "Позиция Экспертной группы Налоговой службы Нидерландов (Kennisgroep)",
+      "sources": [
+        {
+          "label": "Taxence / Belastingdienst",
+          "url": "https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/",
+          "final_url": "https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Джерси и Нидерланды: Налоговая служба оп",
+              "source_quote": "knowledge fiscaal en meer tax talks vakblad estate planning specials kennisbank standpunt kwalificatie jersey limited co"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-06-mo-nl",
+      "title": "Макао и Нидерланды: Регулятор приравнял компании Макао к нидерландским обществам NV и BV",
+      "caption": "Макао и Нидерланды: Регулятор приравнял компании Макао к нидерландским обществам NV и BV\n\nНалоговое ведомство Нидерландов подтвердило сопоставимость компаний с ограниченной ответственностью Макао с нидерландскими закрытыми и открытыми акционерными обществами.\n\n💡 **Почему это важно**\nОфициальное признание эквивалентности корпоративной формы открывает возможность применения освобождения участия к доходам от дочерних предприятий в Макао. Инвесторам в азиатском регионе рекомендуется обновить правовую документацию холдингов для подтверждения права на налоговые льготы в ЕС.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные холдинги и режим участия",
+      "jurisdictions": "Макао, Нидерланды",
+      "act": "Официальное разъяснение Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "TaxLive / Belastingdienst",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/",
+          "final_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Макао и Нидерланды: Регулятор приравнял ",
+              "source_quote": "dat geldt ook voor de eenpersoonsvariant, de sociedade unipessoal limitada"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-07-nl-eu",
+      "title": "Нидерланды: Налоговая служба отозвала национальные позиции по правилам Pillar Two",
+      "caption": "Нидерланды: Налоговая служба отозвала национальные позиции по правилам Pillar Two\n\nНалоговая служба Нидерландов официально аннулировала серию предварительных разъяснений Экспертной группы по вопросам применения минимального налога Pillar Two.\n\n💡 **Почему это важно**\nОтзыв позиций обусловлен необходимостью прямого применения согласованного административного руководства ОЭСР и директив ЕС без локальных искажений. Налоговым департаментам международных групп следует руководствоваться международными стандартами GloBE при расчете эффективной налоговой ставки.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "глобальный минимальный налог и стандарты ОЭСР",
+      "jurisdictions": "Нидерланды, ЕС",
+      "act": "Решение Экспертной группы Налоговой службы Нидерландов",
+      "sources": [
+        {
+          "label": "TaxLive / Belastingdienst",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/",
+          "final_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Налоговая служба отозвала на",
+              "source_quote": "het beleidsbesluit minimumbelasting 2024 is het besluit van 22 september 2026, nr"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-08-nl",
+      "title": "Нидерланды: Разъяснен порядок изменения квалификации долговых обязательств",
+      "caption": "Нидерланды: Разъяснен порядок изменения квалификации долговых обязательств\n\nНалоговый орган Нидерландов опубликовал позицию о допустимости пересмотра классификации долговых договоров до момента вынесения окончательного налогового решения.\n\n💡 **Почему это важно**\nРазрешение на изменение квалификации долга позволяет налогоплательщикам оптимизировать процентные вычеты без риска применения штрафов за недобросовестность. Корпоративным юристам рекомендуется проанализировать действующие договоры займов для корректировки налоговых деклараций до вступления актов проверки в силу.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "долговые обязательства и налоговый учет",
+      "jurisdictions": "Нидерланды",
+      "act": "Руководство Налоговой службы Нидерландов по долговым обязательствам",
+      "sources": [
+        {
+          "label": "Taxence / Belastingdienst",
+          "url": "https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/",
+          "final_url": "https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Разъяснен порядок изменения ",
+              "source_quote": "knowledge fiscaal en meer tax talks vakblad estate planning specials kennisbank standpunt over terugkomen op keuze om le"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-09-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по структуре финансирования ATR 000004",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по структуре финансирования ATR 000004\n\nНалоговая служба Нидерландов обнародовала текст согласованного предварительного налогового решения (ATR) по трансграничному холдинговому финансированию.\n\n💡 **Почему это важно**\nПубликация раскрывает практические требования регулятора к подтверждению реального экономического присутствия и распределению долговой нагрузки. Международным холдингам целесообразно использовать параметры одобренного решения для снижения рисков при структурировании внутригрупповых займов.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000004\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "предварительные налоговые соглашения и финансирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000004",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000004"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000004",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000004",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260922 atr 000004 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-28-0900-item-10-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по льготе на дивиденды ATR 000003",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по льготе на дивиденды ATR 000003\n\nНалоговое ведомство Нидерландов опубликовало согласованный рулинг по освобождению дивидендных выплат от корпоративного налога у источника.\n\n💡 **Почему это важно**\nРешение подтверждает методологию применения теста деловой цели при трансграничном перечислении дивидендов в материнские холдинговые юрисдикции. Корпоративным налоговым консультантам следует учесть критерии достаточности функций и активов при планировании выплат иностранным акционерам.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "освобождение дивидендов и предварительные рулинги",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000003",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003",
+          "status_code": 200,
+          "checked_at": "2026-09-28T07:28:32.762976+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260922 atr 000003 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "date": "2026-10-17",
+  "release": "2026-10-17_1300_editorial",
+  "items": [
+    {
+      "title": "Казахстан: КГД опубликовал итоги таможенных проверок за девять месяцев",
+      "caption": "Казахстан: КГД опубликовал итоги таможенных проверок за девять месяцев\n\n16 октября 2026 года КГД опубликовал итоги таможенных проверок. По данным КГД, за январь–сентябрь 2026 года нарушения выявлены в 84% таможенных проверок.\n\nПочему это важно: Участникам внешнеэкономической деятельности стоит оценить риски таможенного декларирования.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1312108\nИсточник: https://www.gov.kz/org/kgd/press/news/1?directions=714\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+          "label": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "label": "Официальная датированная лента КГД"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+          "checked_at": "2026-10-17T08:59:01.386300+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+          "evidence": [
+            {
+              "claim": "По данным КГД, за январь–сентябрь 2026 года нарушения выявлены в 84% таможенных проверок.",
+              "source_quote": "Комитетом государственных доходов МФ РК за январь–сентябрь 2026 года проведено 948 таможенных проверок, по итогам которых доначислено 29,6 млрд. тг. , взыскано 19,6 млрд. тг. По сравнению с прошлым годом суммы доначислений выросли на 195% , взысканий на 247% . Нарушения выявлены в 84 % таможенных проверок."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "checked_at": "2026-10-17T08:59:14.704323+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "evidence": [
+            {
+              "claim": "16 октября 2026 года КГД опубликовал итоги таможенных проверок.",
+              "source_quote": "16 октября 2026 Нарушения, выявляемые по результатам таможенных проверок"
+            }
+          ]
+        }
+      ],
+      "theme": "Таможенный контроль импорта",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Сообщение КГД об итогах таможенных проверок за январь–сентябрь 2026 года",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+        "source_quote": "16 октября 2026 Нарушения, выявляемые по результатам таможенных проверок"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "kz-customs-audit-2026-nine-months-1312108",
+        "cross_border_relevance": "Результаты контроля таможенного декларирования импортируемых товаров."
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.56452,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+            "checked_at": "2026-10-17T08:59:01.386300+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+            "evidence": [
+              {
+                "claim": "По данным КГД, за январь–сентябрь 2026 года нарушения выявлены в 84% таможенных проверок.",
+                "source_quote": "Комитетом государственных доходов МФ РК за январь–сентябрь 2026 года проведено 948 таможенных проверок, по итогам которых доначислено 29,6 млрд. тг. , взыскано 19,6 млрд. тг. По сравнению с прошлым годом суммы доначислений выросли на 195% , взысканий на 247% . Нарушения выявлены в 84 % таможенных проверок."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-17T08:59:14.704323+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "16 октября 2026 года КГД опубликовал итоги таможенных проверок.",
+                "source_quote": "16 октября 2026 Нарушения, выявляемые по результатам таможенных проверок"
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+            "checked_at": "2026-10-17T08:55:15.392493+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1312108",
+            "evidence": [
+              {
+                "claim": "По данным КГД, за январь–сентябрь 2026 года нарушения выявлены в 84% таможенных проверок.",
+                "source_quote": "Комитетом государственных доходов МФ РК за январь–сентябрь 2026 года проведено 948 таможенных проверок, по итогам которых доначислено 29,6 млрд. тг. , взыскано 19,6 млрд. тг. По сравнению с прошлым годом суммы доначислений выросли на 195% , взысканий на 247% . Нарушения выявлены в 84 % таможенных проверок."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-17T08:55:21.208633+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "16 октября 2026 года КГД опубликовал итоги таможенных проверок.",
+                "source_quote": "16 октября 2026 Нарушения, выявляемые по результатам таможенных проверок"
+              }
+            ]
+          }
+        ]
+      },
+      "slug": "2026-10-17_1300_-kz-customs-audit-2026-nine-months-1312108",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-kz-customs-audit-2026-nine-months-1312108.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: таможенные службы тюркских государств согласовали дальнейшие шаги по обмену данными",
+      "caption": "Казахстан: таможенные службы тюркских государств согласовали дальнейшие шаги по обмену данными\n\n14 октября 2026 года КГД сообщил о планах таможенных служб ОТГ. До 1 марта 2027 года таможенные службы планируют завершить реализацию технических условий информационного обмена в рамках соглашения об упрощённом таможенном коридоре. Это план подготовки обмена, а не сообщение о его запуске.\n\nПочему это важно: Перевозчикам стоит следить за подготовкой упрощённого таможенного коридора.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1310491\nИсточник: https://www.gov.kz/org/kgd/press/news/1?directions=714\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+          "label": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "label": "Официальная датированная лента КГД"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+          "checked_at": "2026-10-17T08:59:01.388263+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+          "evidence": [
+            {
+              "claim": "До 1 марта 2027 года таможенные службы планируют завершить реализацию технических условий информационного обмена в рамках соглашения об упрощённом таможенном коридоре. Это план подготовки обмена, а не сообщение о его запуске.",
+              "source_quote": "До 1 марта 2027 года таможенные службы планируют завершить реализацию Технических условий информационного обмена в рамках Соглашения о создании упрощенного таможенного коридора. Это позволит перейти к пилотному электронному обмену данными между таможенными службами стран ОТГ. Его официальный запуск планируется провести на следующем заседании в Турции."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "checked_at": "2026-10-17T08:59:15.351040+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "evidence": [
+            {
+              "claim": "14 октября 2026 года КГД сообщил о планах таможенных служб ОТГ.",
+              "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+            }
+          ]
+        }
+      ],
+      "theme": "Трансграничный обмен таможенными данными",
+      "jurisdictions": [
+        "Казахстан",
+        "Кыргызстан",
+        "Азербайджан",
+        "Турция",
+        "Узбекистан"
+      ],
+      "act": "12-е заседание руководителей таможенных администраций ОТГ, Бишкек, 12 октября 2026 года",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+        "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "kz-otg-customs-bishkek-20261012",
+        "cross_border_relevance": "Планируемое упрощение таможенных процедур между государствами ОТГ; запуск и новые обязанности не утверждаются."
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.47674,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+            "checked_at": "2026-10-17T08:59:01.388263+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+            "evidence": [
+              {
+                "claim": "До 1 марта 2027 года таможенные службы планируют завершить реализацию технических условий информационного обмена в рамках соглашения об упрощённом таможенном коридоре. Это план подготовки обмена, а не сообщение о его запуске.",
+                "source_quote": "До 1 марта 2027 года таможенные службы планируют завершить реализацию Технических условий информационного обмена в рамках Соглашения о создании упрощенного таможенного коридора. Это позволит перейти к пилотному электронному обмену данными между таможенными службами стран ОТГ. Его официальный запуск планируется провести на следующем заседании в Турции."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-17T08:59:15.351040+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "14 октября 2026 года КГД сообщил о планах таможенных служб ОТГ.",
+                "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+            "checked_at": "2026-10-17T08:55:15.394291+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491",
+            "evidence": [
+              {
+                "claim": "До 1 марта 2027 года таможенные службы планируют завершить реализацию технических условий информационного обмена в рамках соглашения об упрощённом таможенном коридоре. Это план подготовки обмена, а не сообщение о его запуске.",
+                "source_quote": "До 1 марта 2027 года таможенные службы планируют завершить реализацию Технических условий информационного обмена в рамках Соглашения о создании упрощенного таможенного коридора. Это позволит перейти к пилотному электронному обмену данными между таможенными службами стран ОТГ. Его официальный запуск планируется провести на следующем заседании в Турции."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-17T08:55:20.784894+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "14 октября 2026 года КГД сообщил о планах таможенных служб ОТГ.",
+                "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+              }
+            ]
+          }
+        ]
+      },
+      "slug": "2026-10-17_1300_-kz-otg-customs-bishkek-20261012",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-kz-otg-customs-bishkek-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: SARS уточнила банк для зарубежных платежей минимального налога",
+      "caption": "ЮАР: SARS уточнила банк для зарубежных платежей минимального налога\n\n16 октября 2026 года Налоговая служба ЮАР (SARS) сообщила об обновлении платёжного руководства. В руководство включён банк «Инвестек» для обработки зарубежных платежей по глобальному минимальному налогу через межбанковскую систему SWIFT с установленным платёжным идентификатором PRN.\n\nПочему это важно: Международным группам, перечисляющим налог из-за рубежа, стоит сверить банковский маршрут с обновлённым официальным руководством.\n\nИсточник: https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "sources": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+          "label": "SARS"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+          "checked_at": "2026-10-17T08:59:01.389664+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+          "evidence": [
+            {
+              "claim": "В руководство включён банк «Инвестек» для обработки зарубежных платежей по глобальному минимальному налогу через межбанковскую систему SWIFT с установленным платёжным идентификатором PRN.",
+              "source_quote": "16 October 2026 – The SARS Payment Guide has been amended to include Investec Bank as the designated banking institution for the processing of Global Minimum Tax foreign payments via SWIFT using the prescribed Payment Reference Number (PRN)."
+            }
+          ]
+        }
+      ],
+      "theme": "Pillar 2: зарубежные платежи",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "SARS Payment Guide: сообщение об обновлении от 16 октября 2026 года",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+        "source_quote": "16 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "za-gmt-foreign-payments-investec-20261016",
+        "cross_border_relevance": "Платёж глобального минимального налога в ЮАР из-за рубежа; учитывать суточный лимит одной новости Pillar 2."
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.46575,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+            "checked_at": "2026-10-17T08:59:01.389664+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+            "evidence": [
+              {
+                "claim": "В руководство включён банк «Инвестек» для обработки зарубежных платежей по глобальному минимальному налогу через межбанковскую систему SWIFT с установленным платёжным идентификатором PRN.",
+                "source_quote": "16 October 2026 – The SARS Payment Guide has been amended to include Investec Bank as the designated banking institution for the processing of Global Minimum Tax foreign payments via SWIFT using the prescribed Payment Reference Number (PRN)."
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+            "checked_at": "2026-10-17T08:55:15.395346+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/latest-news/updated-guide-sars-payment-rules/",
+            "evidence": [
+              {
+                "claim": "В руководство включён Investec Bank для обработки зарубежных платежей по глобальному минимальному налогу через SWIFT с установленным платёжным идентификатором PRN.",
+                "source_quote": "16 October 2026 – The SARS Payment Guide has been amended to include Investec Bank as the designated banking institution for the processing of Global Minimum Tax foreign payments via SWIFT using the prescribed Payment Reference Number (PRN)."
+              }
+            ]
+          }
+        ]
+      },
+      "slug": "2026-10-17_1300_-za-gmt-foreign-payments-investec-20261016",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-za-gmt-foreign-payments-investec-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: ФНС напомнила о сроке косвенных налогов при импорте из ЕАЭС",
+      "sources": [
+        {
+          "url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+          "label": "УФНС по Ярославской области"
+        }
+      ],
+      "theme": "Косвенные налоги при импорте из ЕАЭС",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Напоминание УФНС от 14.10.2026 о декларации и косвенных налогах за сентябрь 2026 года",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+        "source_quote": "Дата публикации: 14.10.2026 09:04"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "ru-eaeu-september-indirect-deadline-20261020",
+        "cross_border_relevance": "Налоговые платежи и декларация по импортированным в Россию товарам из государств ЕАЭС."
+      },
+      "caption": "Россия: ФНС напомнила о сроке косвенных налогов при импорте из ЕАЭС\n\n14 октября УФНС по Ярославской области опубликовало налоговый календарь. Не позднее 20 октября 2026 года нужно уплатить НДС и акцизы по товарам из стран ЕАЭС, принятым на учёт в сентябре, и представить декларацию по косвенным налогам за сентябрь.\n\nПочему это важно: Импортёрам следует сверить сентябрьские поступления и подготовить декларацию к сроку. Это напоминание о действующем порядке.\n\nИсточник: https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+          "checked_at": "2026-10-17T08:59:01.391212+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+          "evidence": [
+            {
+              "claim": "Не позднее 20 октября 2026 года нужно уплатить НДС и акцизы по товарам из стран ЕАЭС, принятым на учёт в сентябре, и представить декларацию по косвенным налогам за сентябрь.",
+              "source_quote": "Не позднее 20 октября 2026 года налогоплательщикам нужно: Уплатить косвенные налоги (НДС и акцизы) по импортированным товарам из стран ЕАЭС, принятым на учет в сентябре 2026 года. Представить налоговую декларацию по косвенным налогам за сентябрь 2026 года."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+            "checked_at": "2026-10-17T08:59:01.391212+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+            "evidence": [
+              {
+                "claim": "Не позднее 20 октября 2026 года нужно уплатить НДС и акцизы по товарам из стран ЕАЭС, принятым на учёт в сентябре, и представить декларацию по косвенным налогам за сентябрь.",
+                "source_quote": "Не позднее 20 октября 2026 года налогоплательщикам нужно: Уплатить косвенные налоги (НДС и акцизы) по импортированным товарам из стран ЕАЭС, принятым на учет в сентябре 2026 года. Представить налоговую декларацию по косвенным налогам за сентябрь 2026 года."
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+            "checked_at": "2026-10-17T08:55:15.396234+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn76/news/activities_fts/16656081/",
+            "evidence": [
+              {
+                "claim": "Не позднее 20 октября 2026 года нужно уплатить НДС и акцизы по товарам из стран ЕАЭС, принятым на учёт в сентябре, и представить декларацию по косвенным налогам за сентябрь.",
+                "source_quote": "Не позднее 20 октября 2026 года налогоплательщикам нужно: Уплатить косвенные налоги (НДС и акцизы) по импортированным товарам из стран ЕАЭС, принятым на учет в сентябре 2026 года. Представить налоговую декларацию по косвенным налогам за сентябрь 2026 года."
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.59627,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию.",
+        "event_distinction": "Напоминание о сроке уплаты и декларации за сентябрь; публикация 14 октября о заполнении декларации не является этим событием."
+      },
+      "slug": "2026-10-17_1300_-ru-eaeu-september-indirect-deadline-20261020",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-ru-eaeu-september-indirect-deadline-20261020.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Тайвань: зарплату от зарубежного работодателя за работу на острове нужно декларировать",
+      "sources": [
+        {
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+          "label": "Минфин Тайваня"
+        }
+      ],
+      "theme": "Налогообложение иностранных работников и зарубежной зарплаты",
+      "jurisdictions": [
+        "Тайвань"
+      ],
+      "act": "Разъяснение налогового бюро Гаосюна о трёх ошибках иностранных работников, 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+        "source_quote": "Release date：2026-10-13"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "tw-foreign-employer-salary-filing-20261013",
+        "cross_border_relevance": "Налогообложение работы иностранных специалистов на Тайване при выплате зарплаты из-за рубежа."
+      },
+      "caption": "Тайвань: зарплату от зарубежного работодателя за работу на острове нужно декларировать\n\n13 октября 2026 года налоговое бюро Гаосюна напомнило правила иностранным работникам. Вознаграждение за услуги, выполненные на Тайване, относится к местным доходам независимо от того, выплачивает его местный или иностранный работодатель, и подлежит декларированию.\n\nПочему это важно: Иностранным сотрудникам и направляющим их компаниям стоит учесть выплаты из зарубежного головного офиса при подготовке местной декларации.\n\nИсточник: https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+          "checked_at": "2026-10-17T08:59:01.392850+00:00",
+          "status_code": 200,
+          "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+          "evidence": [
+            {
+              "claim": "Вознаграждение за услуги, выполненные на Тайване, относится к местным доходам независимо от того, выплачивает его местный или иностранный работодатель, и подлежит декларированию.",
+              "source_quote": "Salary earned from services performed within Taiwan constitutes income from sources in the Republic of China, regardless of whether it is paid by a domestic or foreign employer, and must be reported in accordance with the regulations."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+            "checked_at": "2026-10-17T08:59:01.392850+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+            "evidence": [
+              {
+                "claim": "Вознаграждение за услуги, выполненные на Тайване, относится к местным доходам независимо от того, выплачивает его местный или иностранный работодатель, и подлежит декларированию.",
+                "source_quote": "Salary earned from services performed within Taiwan constitutes income from sources in the Republic of China, regardless of whether it is paid by a domestic or foreign employer, and must be reported in accordance with the regulations."
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+            "checked_at": "2026-10-17T08:55:20.595088+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=d0deb4dae7974a20b5da0e4d97a8d7a8",
+            "evidence": [
+              {
+                "claim": "Вознаграждение за услуги, выполненные на Тайване, относится к местным доходам независимо от того, выплачивает его местный или иностранный работодатель, и подлежит декларированию.",
+                "source_quote": "Salary earned from services performed within Taiwan constitutes income from sources in the Republic of China, regardless of whether it is paid by a domestic or foreign employer, and must be reported in accordance with the regulations."
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.46154,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "slug": "2026-10-17_1300_-tw-foreign-employer-salary-filing-20261013",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-tw-foreign-employer-salary-filing-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: обязательное электронное оформление части почтовых отправлений отложено",
+      "sources": [
+        {
+          "url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+          "label": "Таможенная служба США"
+        }
+      ],
+      "theme": "Электронное таможенное оформление международной почты",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "CBP, International Mail Entry Type 13 Mandatory Implementation Date, 14.10.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+        "source_quote": "Release Date Wed, 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "us-mail-entry13-postponement-20261014",
+        "cross_border_relevance": "Процедура оформления почтового импорта в США, в том числе отправлений с пошлинами по разделам 201, 232 и 301."
+      },
+      "caption": "США: обязательное электронное оформление части почтовых отправлений отложено\n\nСообщение таможенной службы опубликовано 14 октября 2026 года. Таможенная служба США перенесла срок обязательного использования электронного оформления типа 13 для соответствующих международных почтовых отправлений с 22 октября 2026 года на 20 января 2027 года.\n\nПочему это важно: Импортёрам, брокерам и почтовым операторам предоставлено дополнительное время для подготовки электронного оформления. Перенос процедуры не означает отмены пошлин.\n\nИсточник: https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+          "checked_at": "2026-10-17T08:59:01.569074+00:00",
+          "status_code": 200,
+          "final_url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+          "evidence": [
+            {
+              "claim": "Таможенная служба США перенесла срок обязательного использования электронного оформления типа 13 для соответствующих международных почтовых отправлений с 22 октября 2026 года на 20 января 2027 года.",
+              "source_quote": "U.S. Customs and Border Protection announces the extension of the compliance date for new informal entry procedures for international mail from Oct. 22, 2026, to Jan. 20, 2027."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+            "checked_at": "2026-10-17T08:59:01.569074+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+            "evidence": [
+              {
+                "claim": "Таможенная служба США перенесла срок обязательного использования электронного оформления типа 13 для соответствующих международных почтовых отправлений с 22 октября 2026 года на 20 января 2027 года.",
+                "source_quote": "U.S. Customs and Border Protection announces the extension of the compliance date for new informal entry procedures for international mail from Oct. 22, 2026, to Jan. 20, 2027."
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+            "checked_at": "2026-10-17T08:55:20.811647+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.cbp.gov/newsroom/national-media-release/international-mail-entry-type-13-mandatory-implementation-date",
+            "evidence": [
+              {
+                "claim": "Таможенная служба США перенесла срок обязательного использования процедуры Entry Type 13 для соответствующих международных почтовых отправлений с 22 октября 2026 года на 20 января 2027 года.",
+                "source_quote": "U.S. Customs and Border Protection announces the extension of the compliance date for new informal entry procedures for international mail from Oct. 22, 2026, to Jan. 20, 2027."
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.43939,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию.",
+        "event_distinction": "Новое сообщение CBP 14 октября о переносе обязательного оформления; отличается от опубликованного 8 октября проекта Low-Value Shipments, FR2026-20650."
+      },
+      "slug": "2026-10-17_1300_-us-mail-entry13-postponement-20261014",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-us-mail-entry13-postponement-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания опубликовала соглашение о таможенной помощи с Австралией",
+      "sources": [
+        {
+          "url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+          "label": "Правительство Великобритании"
+        }
+      ],
+      "theme": "Международная административная помощь по таможенным вопросам",
+      "jurisdictions": [
+        "Великобритания",
+        "Австралия"
+      ],
+      "act": "Публикация UK/Australia Agreement on Cooperation and Mutual Administrative Assistance in Customs Matters; CP 1700, 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+        "source_quote": "Published: 13 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "uk-australia-customs-publication-cp1700-20261013",
+        "cross_border_relevance": "Двустороннее соглашение Великобритании с Австралией о сотрудничестве и административной помощи в сфере таможни."
+      },
+      "caption": "Великобритания опубликовала соглашение о таможенной помощи с Австралией\n\nДокумент опубликован 13 октября 2026 года. Британское внешнеполитическое ведомство опубликовало соглашение с Австралией о сотрудничестве и взаимной административной помощи в таможенных вопросах, CP 1700. Публикация документа сама по себе не подтверждает его вступления в силу.\n\nПочему это важно: Участникам внешней торговли доступен официальный текст для оценки рамок взаимодействия таможенных органов. Действующие обязанности следует проверять по документу и его статусу.\n\nИсточник: https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+          "checked_at": "2026-10-17T08:59:14.528767+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+          "evidence": [
+            {
+              "claim": "Британское внешнеполитическое ведомство опубликовало соглашение с Австралией о сотрудничестве и взаимной административной помощи в таможенных вопросах, CP 1700. Публикация документа сама по себе не подтверждает его вступления в силу.",
+              "source_quote": "UK/Australia: Agreement on Cooperation and Mutual Administrative Assistance in Customs Matters Ref: ISBN 978-1-5286-6855-2, CP 1700"
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+            "checked_at": "2026-10-17T08:59:14.528767+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+            "evidence": [
+              {
+                "claim": "Британское внешнеполитическое ведомство опубликовало соглашение с Австралией о сотрудничестве и взаимной административной помощи в таможенных вопросах, CP 1700. Публикация документа сама по себе не подтверждает его вступления в силу.",
+                "source_quote": "UK/Australia: Agreement on Cooperation and Mutual Administrative Assistance in Customs Matters Ref: ISBN 978-1-5286-6855-2, CP 1700"
+              }
+            ]
+          }
+        ]
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+            "checked_at": "2026-10-17T08:55:25.404100+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/publications/ukaustralia-agreement-on-cooperation-and-mutual-administrative-assistance-in-customs-matters-cs-no12026",
+            "evidence": [
+              {
+                "claim": "Британское внешнеполитическое ведомство опубликовало соглашение с Австралией о сотрудничестве и взаимной административной помощи в таможенных вопросах, CP 1700. Публикация документа сама по себе не подтверждает его вступления в силу.",
+                "source_quote": "UK/Australia: Agreement on Cooperation and Mutual Administrative Assistance in Customs Matters Ref: ISBN 978-1-5286-6855-2, CP 1700"
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.53623,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "slug": "2026-10-17_1300_-uk-australia-customs-publication-cp1700-20261013",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-uk-australia-customs-publication-cp1700-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Лихтенштейн и Филиппины подписали соглашение об избежании двойного налогообложения",
+      "sources": [
+        {
+          "url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+          "label": "Правительство Лихтенштейна"
+        }
+      ],
+      "theme": "Подписание двустороннего соглашения об избежании двойного налогообложения",
+      "jurisdictions": [
+        "Лихтенштейн",
+        "Филиппины"
+      ],
+      "act": "Сообщение правительства Лихтенштейна от 15.10.2026 о подписании DBA с Филиппинами в Бангкоке",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+        "source_quote": "Donnerstag, 15.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "li-ph-tax-treaty-signing-bangkok-20261015",
+        "cross_border_relevance": "Двустороннее налоговое соглашение, предназначенное для предотвращения двойного налогообложения трансграничных доходов."
+      },
+      "caption": "Лихтенштейн и Филиппины подписали соглашение об избежании двойного налогообложения\n\nОфициальное сообщение опубликовано 15 октября 2026 года. Правительство Лихтенштейна сообщило о подписании в Бангкоке соглашения с Филиппинами об избежании двойного налогообложения. Сообщение подтверждает подписание; вступление соглашения в силу в нём не объявлено.\n\nПочему это важно: Компаниям и частным лицам с операциями в обеих юрисдикциях стоит следить за последующими процедурами и датой начала применения соглашения.\n\nИсточник: https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+          "checked_at": "2026-10-17T08:59:14.682597+00:00",
+          "status_code": 200,
+          "final_url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+          "evidence": [
+            {
+              "claim": "Правительство Лихтенштейна сообщило о подписании в Бангкоке соглашения с Филиппинами об избежании двойного налогообложения. Сообщение подтверждает подписание; вступление соглашения в силу в нём не объявлено.",
+              "source_quote": "Während das DBA mit den Philippinen in Bangkok unterzeichnet werden konnte, wurden mit Italien und Portugal weitere Gespräche geführt."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+            "checked_at": "2026-10-17T08:59:14.682597+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+            "evidence": [
+              {
+                "claim": "Правительство Лихтенштейна сообщило о подписании в Бангкоке соглашения с Филиппинами об избежании двойного налогообложения. Сообщение подтверждает подписание; вступление соглашения в силу в нём не объявлено.",
+                "source_quote": "Während das DBA mit den Philippinen in Bangkok unterzeichnet werden konnte, wurden mit Italien und Portugal weitere Gespräche geführt."
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.72941,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "slug": "2026-10-17_1300_-li-ph-tax-treaty-signing-bangkok-20261015",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+            "checked_at": "2026-10-17T08:55:26.104076+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.regierung.li/medienportal-medium/16182/234994/0/medienmitteilung",
+            "evidence": [
+              {
+                "claim": "Правительство Лихтенштейна сообщило о подписании в Бангкоке соглашения с Филиппинами об избежании двойного налогообложения. Сообщение подтверждает подписание; вступление соглашения в силу в нём не объявлено.",
+                "source_quote": "Während das DBA mit den Philippinen in Bangkok unterzeichnet werden konnte, wurden mit Italien und Portugal weitere Gespräche geführt."
+              }
+            ]
+          }
+        ]
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-li-ph-tax-treaty-signing-bangkok-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Тайвань: компаниям напомнили об учёте доходов от зарубежных фондов",
+      "sources": [
+        {
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+          "label": "Минфин Тайваня"
+        }
+      ],
+      "theme": "Корпоративный налог на доходы от зарубежных финансовых инвестиций",
+      "jurisdictions": [
+        "Тайвань"
+      ],
+      "act": "Разъяснение Северного налогового бюро о зарубежных финансовых доходах компаний, 16.10.2026",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+        "source_quote": "Release date：2026-10-16"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "tw-corporate-offshore-fund-income-20261016",
+        "cross_border_relevance": "Учёт зарубежных инвестиционных доходов тайваньских компаний при расчёте местного налога на прибыль."
+      },
+      "caption": "Тайвань: компаниям напомнили об учёте доходов от зарубежных фондов\n\n16 октября 2026 года Северное налоговое бюро опубликовало разъяснение. Компании с головным офисом на Тайване должны включать в налоговую базу доходы от зарубежных финансовых продуктов, в том числе дивиденды, проценты и доход от их продажи.\n\nПочему это важно: Компаниям стоит отдельно сверить выписки банков и фондов с налоговой декларацией, чтобы не пропустить зарубежные инвестиционные доходы.\n\nИсточник: https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+          "checked_at": "2026-10-17T08:59:15.274530+00:00",
+          "status_code": 200,
+          "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+          "evidence": [
+            {
+              "claim": "Компании с головным офисом на Тайване должны включать в налоговую базу доходы от зарубежных финансовых продуктов, в том числе дивиденды, проценты и доход от их продажи.",
+              "source_quote": "The Bureau explained that profit-seeking enterprises with their head offices within the territory of the Republic of China (R.O.C.) are required to pay profit-seeking enterprise income tax on their total profit-seeking enterprise income derived both within and outside the R.O.C. Therefore, all types of overseas income derived from investments in offshore financial products—including overseas profit income (such as dividends from offshore funds), overseas interest income (such as distributions from offshore bond funds), and overseas income from property transactions (such as gains from the disposal of offshore funds)—must be included in the profit-seeking enterprise’s income for the current year."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+            "checked_at": "2026-10-17T08:59:15.274530+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+            "evidence": [
+              {
+                "claim": "Компании с головным офисом на Тайване должны включать в налоговую базу доходы от зарубежных финансовых продуктов, в том числе дивиденды, проценты и доход от их продажи.",
+                "source_quote": "The Bureau explained that profit-seeking enterprises with their head offices within the territory of the Republic of China (R.O.C.) are required to pay profit-seeking enterprise income tax on their total profit-seeking enterprise income derived both within and outside the R.O.C. Therefore, all types of overseas income derived from investments in offshore financial products—including overseas profit income (such as dividends from offshore funds), overseas interest income (such as distributions from offshore bond funds), and overseas income from property transactions (such as gains from the disposal of offshore funds)—must be included in the profit-seeking enterprise’s income for the current year."
+              }
+            ]
+          }
+        ]
+      },
+      "history_review": {
+        "catalogue_all_source_urls_checked": true,
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "sqlite_rows_reviewed": 323,
+        "max_title_fuzzy": 0.39706,
+        "event_and_fuzzy_completed": true,
+        "editorial_event_review_pending": false,
+        "event_review": "Проверены статьи и события каталога/SQLite за 30 дней; совпадений события нет. Общие темы не приравнивались к идентичному событию."
+      },
+      "slug": "2026-10-17_1300_-tw-corporate-offshore-fund-income-20261016",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "previous_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+            "checked_at": "2026-10-17T08:55:26.316386+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.mof.gov.tw/eng/singlehtml/f48d641f159a4866b1d31c0916fbcc71?cntId=eb878261b2cb4483a6944c11967ed3e2",
+            "evidence": [
+              {
+                "claim": "Компании с головным офисом на Тайване должны включать в налоговую базу доходы от зарубежных финансовых продуктов, в том числе дивиденды, проценты и доход от их продажи.",
+                "source_quote": "The Bureau explained that profit-seeking enterprises with their head offices within the territory of the Republic of China (R.O.C.) are required to pay profit-seeking enterprise income tax on their total profit-seeking enterprise income derived both within and outside the R.O.C. Therefore, all types of overseas income derived from investments in offshore financial products—including overseas profit income (such as dividends from offshore funds), overseas interest income (such as distributions from offshore bond funds), and overseas income from property transactions (such as gains from the disposal of offshore funds)—must be included in the profit-seeking enterprise’s income for the current year."
+              }
+            ]
+          }
+        ]
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-tw-corporate-offshore-fund-income-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: вынесен окончательный вывод о субсидиях на бразильскую целлюлозу",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+          "label": "Минторг США, Federal Register"
+        }
+      ],
+      "theme": "Компенсационное расследование по импорту целлюлозы из Бразилии",
+      "jurisdictions": [
+        "США",
+        "Бразилия"
+      ],
+      "act": "C-351-867; FR Doc. 2026-21138; окончательный вывод Минторга США о субсидиях, 16.10.2026",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+        "source_quote": "Publication Date 10/16/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex — прочитан официальный текст; проверены дата, статус и история",
+        "event_key": "us-br-pulp-cvd-final-subsidy-21138",
+        "cross_border_relevance": "Компенсационное расследование в отношении экспорта бразильской целлюлозы в США; вывод о субсидиях не подменён приказом о пошлине."
+      },
+      "history_review": {
+        "sqlite_completed": true,
+        "window_start": "2026-09-17",
+        "event_and_fuzzy_completed": true,
+        "event_review": "Новое окончательное определение 16 октября, не предварительное определение 25 марта; идентичного акта и события в каталоге нет."
+      },
+      "caption": "США: вынесен окончательный вывод о субсидиях на бразильскую целлюлозу\n\nОкончательный вывод опубликован 16 октября 2026 года. Минторг США окончательно установил наличие субсидий, подлежащих компенсации, у производителей и экспортёров высокоочищенной растворимой целлюлозы из Бразилии за период расследования 2024 года.\n\nПочему это важно: Импортёрам и бразильским поставщикам стоит учитывать этот этап расследования при оценке тарифных рисков и отдельно отслеживать решение о применении пошлины.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+          "checked_at": "2026-10-17T08:59:15.873819+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+          "evidence": [
+            {
+              "claim": "Минторг США окончательно установил наличие субсидий, подлежащих компенсации, у производителей и экспортёров высокоочищенной растворимой целлюлозы из Бразилии за период расследования 2024 года.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of high purity dissolving pulp (HPDP) from Brazil during the period of investigation, January 1, 2024, through December 31, 2024."
+            }
+          ]
+        }
+      ],
+      "source_gate_passed": true,
+      "slug": "2026-10-17_1300_-us-br-pulp-cvd-final-subsidy-21138",
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+            "checked_at": "2026-10-17T08:59:15.873819+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21138/high-purity-dissolving-pulp-from-brazil-final-affirmative-countervailing-duty-determination",
+            "evidence": [
+              {
+                "claim": "Минторг США окончательно установил наличие субсидий, подлежащих компенсации, у производителей и экспортёров высокоочищенной растворимой целлюлозы из Бразилии за период расследования 2024 года.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) determines that countervailable subsidies are being provided to producers and exporters of high purity dissolving pulp (HPDP) from Brazil during the period of investigation, January 1, 2024, through December 31, 2024."
+              }
+            ]
+          }
+        ]
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-17\\2026-10-17_1300_-us-br-pulp-cvd-final-subsidy-21138.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-02",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 674,
+      "source": "nl_rechtspraak",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1588",
+      "ecli": "ECLI:NL:HR:2026:1588",
+      "act": "",
+      "title": "ECLI:NL:HR:2026:1588, Hoge Raad, 02-10-2026, 25/00369",
+      "summary": "HR verklaart het beroep in cassatie n-o met toepassing van art. 80a RO.",
+      "published_at": "2026-10-02",
+      "score": 12.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 675,
+      "source": "nl_rechtspraak",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1596",
+      "ecli": "ECLI:NL:HR:2026:1596",
+      "act": "",
+      "title": "ECLI:NL:HR:2026:1596, Hoge Raad, 02-10-2026, 26/01048",
+      "summary": "HR verklaart het beroep in cassatie n-o.",
+      "published_at": "2026-10-02",
+      "score": 12.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 676,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/netherlands-proposes-adjustments-to-individual-taxation-in-tax-plan-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Netherlands proposes adjustments to individual taxation in Tax Plan 2027",
+      "summary": "The Dutch government published a policy letter from the State Secretary for Finance, Minister of Finance, and Prime Minister to the House of Representatives outlining key adjustments to the Tax Plan 2027 on individual taxation. Key measures include accelerating the transition to a capital gains tax within box 3 by 2028, alongside a temporary reduction...",
+      "published_at": "2026-10-02",
+      "score": 12.0,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 677,
+      "source": "nl_rechtspraak",
+      "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:1581",
+      "ecli": "ECLI:NL:HR:2026:1581",
+      "act": "",
+      "title": "ECLI:NL:HR:2026:1581, Hoge Raad, 02-10-2026, 24/02707 bis",
+      "summary": "Belasting van personenauto’s en motorrijwielen; procesrecht; Wet herwaardering proceskostenvergoeding WOZ en bpm; eindarrest na HR 17 juli 2026, ECLI:NL:HR:2026:1297",
+      "published_at": "2026-10-02",
+      "score": 10.5,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 678,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/fiod-houdt-vier-mannen-aan-in-onderzoek-naar-btw-fraude/",
+      "ecli": "",
+      "act": "",
+      "title": "FIOD houdt vier mannen aan in onderzoek naar btw-fraude",
+      "summary": "",
+      "published_at": "2026-10-02",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 679,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/czech-republic-gabon-initials-new-income-tax-treaty/",
+      "ecli": "",
+      "act": "",
+      "title": "Czech Republic, Gabon initials new income tax treaty",
+      "summary": "The Czech Republic and Gabon have concluded negotiations and initialled a new income tax treaty on 1 October 2026. This follows officials from the Czech Republic and Gabon resuming negotiations for a new income tax treaty on 18 February 2025. The first round of negotiations continued through 21 February 2025. The proposed treaty aims to...",
+      "published_at": "2026-10-02",
+      "score": 11.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "date": "2026-10-13",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 809,
+      "source": "nl_douane",
+      "url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+      "ecli": "",
+      "act": "",
+      "title": "Aantal e-commerceaangiften blijft dalen",
+      "summary": "",
+      "published_at": "2026-10-13",
+      "score": 15.5,
+      "topics": [
+        "cross_border_trade_tax"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 702,
+      "source": "ru_garant",
+      "url": "https://www.garant.ru/news/2239856/",
+      "ecli": "",
+      "act": "",
+      "title": "Импортерам из стран ЕАЭС следует отчитаться по налогам не позднее 21 сентября",
+      "summary": "",
+      "published_at": "",
+      "score": 14.0,
+      "topics": [
+        "cross_border_trade_tax"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel",
+        "vk"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 413,
+      "source": "ru_garant",
+      "url": "https://www.garant.ru/news/2231927/",
+      "ecli": "",
+      "act": "",
+      "title": "ФНС России выпустила временные форматы документов прослеживаемости по СПОТ",
+      "summary": "",
+      "published_at": "",
+      "score": 14.0,
+      "topics": [
+        "cross_border_trade_tax",
+        "ru_tax_admin"
+      ],
+      "jurisdictions": [
+        "ru"
+      ],
+      "jurisdiction_names": [
+        "Россия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel",
+        "vk"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 807,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/fiscaal-nieuws/coalitie-biedt-nog-geen-alternatieven-om-belastingplan-te-redden/",
+      "ecli": "",
+      "act": "",
+      "title": "Coalitie biedt nog geen alternatieven om belastingplan te redden",
+      "summary": "Coalitiepartijen D66, VVD en CDA bieden oppositiepartijen nog geen concrete voorstellen om het belastingplan aan te passen en zo aan een meerderheid te helpen. In het debat over het pakket aan belastingen voor volgend jaar zeiden de partijen af en toe wel dat ze ook niet blij zijn met bepaalde maatregelen, maar ze gingen niet in op alternatieve opties.",
+      "published_at": "2026-10-13",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 796,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/tweede-nota-van-wijziging-belastingplan-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Tweede nota van wijziging Belastingplan 2027",
+      "summary": "De Tweede nota van wijziging bij het Belastingplan 2027 bevat verschillende maatregelen die onder meer voortvloeien uit de augustusbesluitvorming. De belangrijkste wijzigingen betreffen de koopkracht, een uitzondering op de earningsstrippingmaatregel voor woningcorporaties, de accijnzen op benzine en diesel, overgangsrecht voor specifieke zorgkosten en een aanpassing rond de bosbouwvrijstelling. Koopkracht: aanvangspunt toptarief omhoog Het kabinet draait ... lees verder",
+      "published_at": "2026-10-12",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 6,
+      "item_id": 797,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/stand-van-zaken-pakket-belastingplan-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Stand van zaken pakket Belastingplan 2027",
+      "summary": "Staatssecretaris Eerenberg stuurt een Kamerbrief met de stand van zaken van het Belastingplan 2027. Daarbij gaat het onder meer om box 3, maatregelen om werken meer te laten lonen, een fiscale investeringsfaciliteit voor agrariërs en de aftrek specifieke zorgkosten.",
+      "published_at": "2026-10-12",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 7,
+      "item_id": 810,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/opbrengst-schenk-en-erfbelasting-stijgt-tot-5-3-miljard-in-2031/",
+      "ecli": "",
+      "act": "",
+      "title": "Opbrengst schenk- en erfbelasting stijgt tot € 5,3 miljard in 2031",
+      "summary": "",
+      "published_at": "2026-10-13",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 8,
+      "item_id": 811,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/hoofdverblijf-in-gemeubileerde-woning-niet-aannemelijk-bij-forensenbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Hoofdverblijf in gemeubileerde woning niet aannemelijk bij forensenbelasting",
+      "summary": "",
+      "published_at": "2026-10-13",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 9,
+      "item_id": 812,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/geen-btw-vrijstelling-beroepspensioenfonds-kwalificeert-niet-als-gemeenschappelijk-beleggingsfonds/",
+      "ecli": "",
+      "act": "",
+      "title": "Geen BTW-vrijstelling. Beroepspensioenfonds kwalificeert niet als gemeenschappelijk beleggingsfonds",
+      "summary": "",
+      "published_at": "2026-10-13",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 10,
+      "item_id": 813,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/belgium-council-of-ministers-approve-gir-mcaa/",
+      "ecli": "",
+      "act": "",
+      "title": "Belgium: Council of Ministers approve GIR MCAA",
+      "summary": "The Belgian Council of Ministers approved a draft law on 9 October 2026 to ratify the Multilateral Competent Authority Agreement on the Exchange of GloBE Information (GIR MCAA), which Belgium signed on 16 June 2025. The agreement supports international efforts to combat base erosion and profit shifting by multinational corporate groups. It comes from the...",
+      "published_at": "2026-10-13",
+      "score": 7.5,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 11,
+      "item_id": 762,
+      "source": "nl_belastingdienst_rulings",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20261006-atr-000006",
+      "ecli": "",
+      "act": "",
+      "title": "Advance tax ruling 20261006 ATR 000006",
+      "summary": "",
+      "published_at": "2026-10-06",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 12,
+      "item_id": 308,
+      "source": "nl_belastingdienst_rulings",
+      "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221206-apa-000015",
+      "ecli": "",
+      "act": "",
+      "title": "Advance pricing agreement 20221602 APA 000015",
+      "summary": "",
+      "published_at": "",
+      "score": 6.0,
+      "topics": [
+        "advance_rulings",
+        "transfer_pricing"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 13,
+      "item_id": 806,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/switzerland-updates-crs-partner-list-to-include-116-states/",
+      "ecli": "",
+      "act": "",
+      "title": "Switzerland updates CRS partner list to include 116 states",
+      "summary": "Switzerland’s State Secretariat for International Finance has updated its list of partner states for the automatic exchange of information on financial accounts under the OECD Common Reporting Standard (CRS). Curaçao’s status has changed from temporarily non-reciprocal to reciprocal. The list was published on 8 October 2026. Reciprocal status means CRS information is received from and...",
+      "published_at": "2026-10-12",
+      "score": 4.0,
+      "topics": [
+        "exchange_info"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

@@ -377,34 +377,44 @@ def get_item_by_act(conn, act_norm):
     ).fetchone()
 
 
-def _recent_titles(conn, days=DUP_WINDOW_DAYS):
+def _recent_titles(conn, days=DUP_WINDOW_DAYS, *, published_only=False):
     """Заголовки (title_norm) элементов за последние `days` дней для нечёткого дедупа."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).strftime(
         "%Y-%m-%dT%H:%M:%SZ"
     )
+    delivered_filter = (" AND (status IN ('published','delivered','posted') OR EXISTS "
+                        "(SELECT 1 FROM published p WHERE p.item_id=items.id AND p.post_id!=''))"
+                        if published_only else "")
     rows = conn.execute(
-        "SELECT title_norm FROM items WHERE first_seen >= ? AND title_norm != ''",
+        "SELECT title_norm FROM items WHERE first_seen >= ? AND title_norm != ''" + delivered_filter,
         (cutoff,),
     ).fetchall()
     return [r["title_norm"] for r in rows]
 
 
-def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
+def is_duplicate(conn, url, ecli, title_norm, act_norm="", *, include_collected=True):
     """Дубликат: состояние кандидатов + каталог уже использованных материалов."""
-    if url and get_item_by_url(conn, url) is not None:
+    def used(row):
+        if row is None:
+            return False
+        return include_collected or row['status'] in {'published', 'delivered', 'posted'} or conn.execute(
+            "SELECT 1 FROM published WHERE item_id=? AND post_id!='' LIMIT 1", (row['id'],)
+        ).fetchone() is not None
+
+    if url and used(get_item_by_url(conn, url)):
         return True
     if url and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='url' AND value=? LIMIT 1", (url,)
     ).fetchone() is not None:
         return True
-    if ecli and get_item_by_ecli(conn, ecli) is not None:
+    if ecli and used(get_item_by_ecli(conn, ecli)):
         return True
     if ecli and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='ecli' AND value=? LIMIT 1",
         (ecli.casefold(),),
     ).fetchone() is not None:
         return True
-    if act_norm and get_item_by_act(conn, act_norm) is not None:
+    if act_norm and used(get_item_by_act(conn, act_norm)):
         return True
     if act_norm and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='act' AND value=? LIMIT 1",
@@ -412,7 +422,7 @@ def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
     ).fetchone() is not None:
         return True
     if title_norm:
-        for existing in _recent_titles(conn):
+        for existing in _recent_titles(conn, published_only=not include_collected):
             if not existing:
                 continue
             ratio = difflib.SequenceMatcher(None, title_norm, existing).ratio()

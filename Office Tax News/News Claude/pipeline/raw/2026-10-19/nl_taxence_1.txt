@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 19 Oct 2026 08:58:16 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Box 2 of box 3 vraagt om rekenen én spreiden</title>
+		<link>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/</link>
+					<comments>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:48:24 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168465</guid>
+
+					<description><![CDATA[De keuze tussen beleggen in privé of via de BV hangt af van het verwachte rendement en de kosten. Tijdens de Tax Talks-focusuitzending bespreekt Jeroen Knol waar het omslagpunt ligt en waarom ook spreiding, flexibiliteit en liquiditeit belangrijk zijn.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De keuze tussen beleggen in privé of via de BV hangt af van het verwachte rendement en de kosten. Tijdens de Tax Talks-focusuitzending bespreekt Jeroen Knol waar het omslagpunt ligt en waarom ook spreiding, flexibiliteit en liquiditeit belangrijk zijn.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Rendement en kosten bepalen de keuze</h2>
+
+
+
+<p class="wp-block-paragraph">Bij de vergelijking tussen box 3 en beleggen via de BV komt het volgens Knol vooral aan op rekenen. Bij een verwacht rendement van ongeveer 5% ligt grofweg een omslagpunt. Hoogrenderende beleggingen, zoals aandelen, liggen daardoor eerder voor de hand in privé, terwijl laagrenderende beleggingen, zoals obligaties, eerder in de BV passen. De tegenbewijsregeling kan dit beeld veranderen. Daarbij speelt ook mee dat kosten bij het bepalen van het werkelijke rendement in box 3 niet aftrekbaar zijn, terwijl kosten in de BV wel ten laste van de winst kunnen komen. Vooral bij vastgoed maakt dit de keuze lastig.</p>
+
+
+
+<h2 class="wp-block-heading">Dividend niet zonder reden uitkeren</h2>
+
+
+
+<p class="wp-block-paragraph">Zit het vermogen eenmaal in de BV, dan is dividend uitkeren om vervolgens privé te beleggen volgens Knol lang niet altijd aantrekkelijk. Bij de huidige forfaitaire heffing ligt het omslagpunt volgens zijn berekening bij een verwacht rendement van ongeveer 11%. Bij lagere rendementen kan het fiscaal aantrekkelijker zijn het vermogen in de BV te laten. Wel kan het zinvol zijn jaarlijks gebruik te maken van de eerste tariefschijf in box 2. Daarmee kan een dga geleidelijk tegen het lagere box 2-tarief dividend uitkeren in plaats van de belastingclaim volledig naar de toekomst door te schuiven.</p>
+
+
+
+<h2 class="wp-block-heading">Spreid vermogen en blijf flexibel</h2>
+
+
+
+<p class="wp-block-paragraph">Door de onzekerheid over de toekomstige belastingheffing pleit Knol voor spreiding. Vermogen hoeft niet volledig in box 2 of box 3 te worden ondergebracht. Ook liquiditeit is belangrijk. Effecten kunnen relatief eenvoudig worden verplaatst of verkocht, terwijl vastgoed veel minder flexibel is en bij een latere overdracht overdrachtsbelasting kan spelen. Fiscale vermogensplanning moet daarom geen eenmalige keuze zijn, maar een continu proces. Door vermogen over verschillende boxen en in de tijd te spreiden, kunnen adviseurs inspelen op wijzigingen in tarieven en regelgeving.</p>
+
+
+
+<h2 class="wp-block-heading">Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Tax Talks is hét online learning platform voor mkb-adviseurs. 30x Per jaar wordt een item beschikbaar gesteld dat je via het online platform kunt bekijken. Na het afronden van de bijbehorende kennistoets ontvang je een certificaat en PE-punten</em>.</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://www.licentacademy.nl/tax-talks?_sp=52adb5ab-cd44-48cf-b8b0-bad05abc9210.1762777697293" target="_blank" rel="noopener"><strong>Meer informatie en aanmelden</strong></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/box-2-of-box-3-vraagt-om-rekenen-en-spreiden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/TT19102026.png" length="383031" type="image/png" />	</item>
+		<item>
+		<title>Bezwaarprocedure valt niet onder recht op eerlijk proces</title>
+		<link>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/</link>
+					<comments>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:40:40 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168463</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat art. 47 van het EU-Handvest niet van toepassing is op de bezwaarprocedure. De inspecteur voldoet aan de hoorplicht als hij de belastingplichtige voldoende gelegenheid geeft om te worden gehoord.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat artikel 47 van het EU-Handvest niet van toepassing is op de bezwaarprocedure. De inspecteur voldoet aan de hoorplicht als hij de belastingplichtige voldoende gelegenheid geeft om te worden gehoord.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man maakt bezwaar tegen een bedrag aan bpm dat hij op aangifte heeft voldaan. De inspecteur nodigt zijn gemachtigde verschillende keren uit voor een hoorgesprek, maar de gemachtigde accepteert geen van deze uitnodigingen. Uiteindelijk verschijnt hij toch op de plaats en het tijdstip van een eerder afgewezen uitnodiging. Daar weigert hij het dossier in te zien en de bezwaren te bespreken. Hof Arnhem-Leeuwarden oordeelt dat de inspecteur de hoorplicht van artikel 7:2 Awb niet heeft geschonden. In cassatie stelt de man onder meer dat dit oordeel in strijd is met artikel 47 van het Handvest van de grondrechten van de Europese Unie en met het Unierechtelijke verdedigingsbeginsel.</p>
+
+
+
+<h3 class="wp-block-heading">Voldoende gelegenheid om te worden gehoord</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad stelt voorop dat artikel 7:2 Awb de inspecteur verplicht een belastingplichtige vóór de uitspraak op bezwaar in de gelegenheid te stellen te worden gehoord. Of het de inspecteur kan worden aangerekend dat uiteindelijk geen hoorgesprek plaatsvindt, hangt af van de omstandigheden. Hier heeft de inspecteur meerdere uitnodigingen verstuurd. Dat de gemachtigde daarvan geen gebruik heeft gemaakt, komt niet voor rekening van de inspecteur.</p>
+
+
+
+<h3 class="wp-block-heading">Artikel 47 Handvest geldt niet in bezwaar</h3>
+
+
+
+<p class="wp-block-paragraph">Artikel 47 Handvest ziet volgens de Hoge Raad op toegang tot een onafhankelijk en onpartijdig gerecht. Een bestuurlijke heroverweging in bezwaar die voorafgaat aan een procedure bij de bestuursrechter is geen gerechtelijke procedure in die zin. Ook is artikel 7:2 Awb geen omzetting van een Unierechtelijke verplichting. De bepaling voldoet wel aan het algemene Unierechtelijke verdedigingsbeginsel doordat een belastingplichtige de mogelijkheid krijgt zijn standpunt kenbaar te maken. Het cassatieberoep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-7:2?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 7:2 Awb</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1628">Hoge Raad, 16-10-2026, ECLI:NL:HR:2026:1628, 21/02570 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/bezwaarprocedure-valt-niet-onder-recht-op-eerlijk-proces/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/HR.jpg" length="79182" type="image/jpeg" />	</item>
+		<item>
+		<title>Hof mag nieuwe machtiging eisen bij twijfel aan volmacht</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-9/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-9/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 08:34:33 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168461</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat een hof een gemachtigde mag vragen om een recente machtiging. Als die ondanks een herstelmogelijkheid niet wordt verstrekt, mag het hoger beroep niet-ontvankelijk worden verklaard.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat een hof een gemachtigde mag vragen om een recente machtiging. Als die ondanks een herstelmogelijkheid niet wordt verstrekt, mag het hoger beroep niet-ontvankelijk worden verklaard.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een gemachtigde stelt namens een man hoger beroep in tegen een uitspraak over de WOZ-beschikking en gemeentelijke belastingen voor 2022. Bij het hogerberoepschrift van 9 januari 2024 voegt zij een volmacht van 7 februari 2022. Hof Den Haag vraagt de gemachtigde vervolgens tweemaal om uiterlijk tijdens de zitting een recente machtiging te verstrekken die niet ouder is dan zes maanden vóór het indienen van het hoger beroep. Ook vraagt het hof om een kopie van een geldig identiteitsbewijs. Daarbij waarschuwt het hof dat het hoger beroep niet-ontvankelijk kan worden verklaard als de stukken niet worden verstrekt. De gemachtigde verstrekt de gevraagde stukken niet. Het hof verklaart het hoger beroep daarom niet-ontvankelijk.</p>
+
+
+
+<h3 class="wp-block-heading">Hof mag recente machtiging vragen</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad oordeelt dat het hof zijn bevoegdheid niet overschrijdt door een nieuwe machtiging op te vragen. Het hof mocht vaststellen dat door het ontbreken daarvan sprake was van een verzuim als bedoeld in artikel 6:6 Awb. Omdat de gemachtigde de gelegenheid heeft gekregen dit verzuim te herstellen en daarvan geen gebruik heeft gemaakt, mocht het hof het hoger beroep niet-ontvankelijk verklaren.</p>
+
+
+
+<h3 class="wp-block-heading">Geen tweede herstelmogelijkheid nodig</h3>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad benadrukt dat het hof na het ongebruikt laten van de geboden herstelmogelijkheid niet verplicht is nogmaals gelegenheid te geven het verzuim te herstellen. De niet-ontvankelijkverklaring blijft daarom in stand en het cassatieberoep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-6:6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6:6</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005537-8:24?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8:24 Awb</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1579" target="_blank" rel="noreferrer noopener">Hoge Raad, 16-10-2026, ECLI:NL:HR:2026:1579, 25/01950 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-9/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Paspoort.jpg" length="56977" type="image/jpeg" />	</item>
+		<item>
+		<title>Antwoorden op vragen uit eerste wetgevingsoverleg pakket Belastingplan 2027</title>
+		<link>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 06:46:57 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168454</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg heeft vragen beantwoord over het pakket Belastingplan 2027. De Tweede Kamer heeft deze vragen gesteld tijdens het eerste wetgevingsoverleg op maandag 12 oktober 2026.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg heeft vragen beantwoord over het pakket Belastingplan 2027. De Tweede Kamer heeft deze vragen gesteld tijdens het eerste wetgevingsoverleg op maandag 12 oktober 2026.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet gaat onder meer in op het inkomensbeleid, ondernemersfaciliteiten, innovatiebox, woningcorporaties, btw en enkele milieuheffingen.</p>
+
+
+
+<h3 class="wp-block-heading">Wetsvoorstel Belastingplan 2027</h3>
+
+
+
+<p class="wp-block-paragraph"><strong>Startersaftrek.</strong> De reguliere startersaftrek wordt per 1 januari 2027 verlaagd van € 2.123 naar € 10 en vervolgens per 1 januari 2028 afgeschaft. Ook de specifieke startersaftrek voor arbeidsongeschikten verdwijnt. Volgens het kabinet is die laatste regeling beperkt doeltreffend, relatief duur in de uitvoering en wordt zij nog maar zeer weinig gebruikt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Innovatiebox.</strong> De forfaitaire regeling binnen de innovatiebox wordt verruimd om deze toegankelijker te maken voor het mkb en administratieve lasten te verminderen. Een verdere verlenging van de toepassingsduur naar vijf jaar wijst het kabinet af: dan zou bijna 80% van de kosten terechtkomen bij bestaande gebruikers of het grootbedrijf.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Earningsstrippingmaatregel.</strong> Het kabinet wil woningcorporaties gedeeltelijk uitzonderen van de generieke renteaftrekbeperking. Rente en gecorrigeerde winst die zijn toe te rekenen aan DAEB-activiteiten van woningcorporaties worden buiten de earningsstrippingmaatregel gehouden. Hiervoor is structureel circa € 425 miljoen beschikbaar.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet meent dat dit binnen de Europese staatssteunregels kan zonder voorafgaande formele goedkeuring van de Europese Commissie, maar wil hierover vóór inwerkingtreding wel informeel zekerheid verkrijgen. Daarom treedt de maatregel op een bij koninklijk besluit te bepalen tijdstip in werking; beoogd is 1 januari 2028.</p>
+
+
+
+<p class="wp-block-paragraph">De uitzondering geldt niet voor private vastgoedbeleggers, ook niet wanneer zij sociale of middenhuurwoningen aanbieden. Het kabinet rechtvaardigt dit onderscheid doordat het vermogen van woningcorporaties wettelijk gebonden is aan de volkshuisvesting, zij onder toezicht staan en de uitzondering uitsluitend betrekking heeft op hun DAEB-activiteiten.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens het kabinet levert de uitzondering woningcorporaties ongeveer € 14 miljard extra investeringsruimte op. Daarmee zouden, uitgaande van de verdeling uit de Nationale Prestatieafspraken, circa 35.000 nieuwe woningen kunnen worden gebouwd en 142.000 woningen kunnen worden verduurzaamd.</p>
+
+
+
+<h3 class="wp-block-heading">Wetsvoorstel Overige Fiscale Maatregelen 2027</h3>
+
+
+
+<p class="wp-block-paragraph">Een onderdeel betreft de pseudo-eindheffing voor fossiele personenauto&#8217;s van de zaak. Er komen uitzonderingen voor onder meer vervangend vervoer bij reparatie/onderhoud en kortdurend tijdelijk vervoer. Het kabinet wil geen algemene uitzondering voor kleine werkgevers, omdat dit de effectiviteit vermindert en nieuwe afbakenings- en uitvoeringsproblemen veroorzaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Verder wordt bij bedrijfsfusies en splitsingen het bestaande onzakelijkheidsvermoeden bij verkoop binnen drie jaar geschrapt naar aanleiding van een arrest van de Hoge Raad. Een verkoop binnen drie jaar is voortaan op zichzelf onvoldoende bewijs dat belasting wordt ontgaan of uitgesteld.</p>
+
+
+
+<h3 class="wp-block-heading">Wet fiscale stimulering start-ups en scale-ups</h3>
+
+
+
+<p class="wp-block-paragraph">Het kabinet verwacht dat een gunstiger fiscale behandeling van aandelenopties voor werknemers van start-ups en scale-ups. medewerkersparticipatie aantrekkelijker maakt, waardoor start-ups gemakkelijker personeel kunnen aantrekken en behouden.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast werkt het kabinet aan een fiscale win-win-lening om meer particulier risicodragend kapitaal naar start-ups, scale-ups en het mkb te laten stromen. Besluitvorming hierover volgt bij de voorjaarsbesluitvorming. &nbsp;De regeling moet per 1 januari 2027 kunnen ingaan.</p>
+
+
+
+<h3 class="wp-block-heading">Wet veiligehavenregels Wet minimumbelasting 2024</h3>
+
+
+
+<p class="wp-block-paragraph">Dit wetsvoorstel implementeert onderdelen van het internationale Side-by-Side-pakket rond de wereldwijde minimumbelasting (Pijler 2).</p>
+
+
+
+<p class="wp-block-paragraph">Er worden vier veiligehavenregels geïntroduceerd. Het kabinet ziet deze als compromis om het internationale minimumbelastingstelsel overeind te houden en tegelijkertijd het gelijke speelveld en de concurrentiepositie van Europese en Nederlandse ondernemingen te beschermen. Sommige veilige havens kunnen ertoe leiden dat bepaalde bijheffingen op nihil worden gesteld.</p>
+
+
+
+<p class="wp-block-paragraph">De huidige &nbsp;innovatiebox kwalificeert niet als een uitgaven- of productiegerelateerde fiscale stimuleringsregeling onder de veiligehavenregels. EIA, MIA en KIA kunnen vanwege hun koppeling aan investeringsuitgaven wél kwalificeren.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet gaat daarom breder onderzoeken hoe het fiscale innovatie-instrumentarium zich tot de wereldwijde minimumbelasting verhoudt. Daarbij wordt ook gekeken naar de Europese R&amp;D-aftrek. De Kamer wordt hierover vóór de zomer van 2027 geïnformeerd.</p>
+
+
+
+<h3 class="wp-block-heading">Wet werkelijk rendement box 3 + novelle</h3>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil vanaf 1 januari 2028 zo veel mogelijk overstappen naar een stelsel waarin werkelijk rendement wordt belast op basis van een vermogenswinstbelasting (VWB).</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Vastgoed.</strong> Voor vastgoed dat niet of minder dan 90% wordt verhuurd, speelt de vastgoedbijtelling een rol. Deze is vooralsnog 3,35%. Dat percentage is bewust voorzichtig vastgesteld: het is gebaseerd op het tiende percentiel van de brutohuurwaarden, zodat 90% van de woningen feitelijk een hogere brutohuurwaarde kent. Begin 2027 laat het kabinet het percentage opnieuw onderzoeken, waarna een eventuele wijziging in het Belastingplan 2028 terechtkomt.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil geen aparte tegenbewijsregeling voor eigen gebruik van vastgoed. De forfaitaire vastgoedbijtelling is juist gekozen vanwege eenvoud en uitvoerbaarheid; bovendien zijn de werkelijke kosten aftrekbaar.</p>
+
+
+
+<p class="wp-block-paragraph">Voor woningen wordt bij invoering van het nieuwe stelsel de WOZ-waarde met waardepeildatum 1 januari 2028 de openingswaarde/verkrijgingsprijs. Zo wordt voorkomen dat de waardestijging over 2027 alsnog onder het nieuwe stelsel wordt belast. Tegen een onjuiste WOZ-waarde kan bezwaar worden gemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Voor vakantiewoningen komt begin 2027 nader extern onderzoek naar de rendementen en de passende vastgoedbijtelling.</p>
+
+
+
+<p class="wp-block-paragraph">Voor verhuurde woningen blijft bij de openingswaarde bovendien de leegwaarderatio relevant. Bij huurbescherming wordt de WOZ-waarde daarmee gecorrigeerd. Als de uitkomst van de leegwaarderatio 10% of meer boven de werkelijke economische waarde in verhuurde staat ligt, kan de belastingplichtige tegenbewijs leveren.</p>
+
+
+
+<p class="wp-block-paragraph">De versnelde overstap naar de vermogenswinstbelasting veroorzaakt aanvankelijk een budgettaire derving. Het kabinet zoekt de dekking zoveel mogelijk binnen het vermogensdomein en zou uiterlijk 2 november met een aangepast dekkingsvoorstel.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/5e754b3b-c857-4bc4-8bf7-0fe022a85577" data-type="link" data-id="https://open.overheid.nl/details/5e754b3b-c857-4bc4-8bf7-0fe022a85577" target="_blank" rel="noreferrer noopener">Antwoorden op vragen uit eerste wetgevingsoverleg pakket Belastingplan 2027, nr. 2025-0000542250, Ministerie van Financien, 16 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/antwoorden-op-vragen-uit-eerste-wetgevingsoverleg-pakket-belastingplan-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Ministerie-van-Financien-.jpg" length="84237" type="image/jpeg" />	</item>
+		<item>
+		<title>Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie in werking per 1 januari 2027</title>
+		<link>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 05:55:00 +0000</pubDate>
+				<category><![CDATA[BTW]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168474</guid>
+
+					<description><![CDATA[De Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">De <strong>Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Deze wet implementeert het onderdeel ‘enkele btw-registratie’ van de <a href="https://www.eerstekamer.nl/id/vmwxkxkiqzlk/document_extern/2025_516_inzake_btw_in_het_digitale/f=/vmwxkzkjbzq4.pdf">Richtlijn (EU) 2025/516</a> inzake btw in het digitale tijdperk (VIDA). Dit onderdeel ziet op de verdere uitbreiding van de bestaande éénloketregelingen (OSS) in de btw. Er worden bepaalde verduidelijkingen en uitbreidingen in de éénloketregelingen doorgevoerd. Daarnaast wordt de huidige regeling inzake voorraad op afroep geleidelijk afgeschaft en vervangen door een nieuwe overbrengingsregeling, die wordt geïntegreerd in de éénloketregelingen.</p>
+
+
+
+<p class="wp-block-paragraph">Ondernemers die goederen leveren aan of diensten verrichten voor particulieren in andere lidstaten kunnen verplicht zijn zich in die lidstaat voor btw-doeleinden te registreren en aldaar btw aan te geven en af te dragen. De éénloketregelingen beogen deze administratieve lasten te verminderen door ondernemers de mogelijkheid te bieden zich in één lidstaat te registreren en via die lidstaat de in andere lidstaten verschuldigde btw aan te geven en af te dragen.</p>
+
+
+
+<p class="wp-block-paragraph">De VIDA-richtlijn omvat daarnaast ook elektronische facturering, digitale rapportageverplichtingen en een platformfictie; deze onderdelen worden via afzonderlijke wetsvoorstellen geïmplementeerd.</p>
+
+
+
+<p class="wp-block-paragraph">De wet treedt in werking met ingang van 1 januari 2027.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stb-2026-327.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stb-2026-327.html" target="_blank" rel="noreferrer noopener">Wet van 7 oktober 2026, Ministerie van Financiën, Stb. 2027, 327</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/11/online-shoppen2.jpg" length="22778" type="image/jpeg" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 23 oktober 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-23-oktober-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-23-oktober-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 19 Oct 2026 04:04:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168456</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 23 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 23 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>23/04461</td><td>Gerechtshof Amsterdam 19 september 2023, nr. 22/00412<br>ECLI:NL:GHAMS:2023:3022 <em>Overschrijding redelijke termijn, maar gezien belang van € 16 geen immateriëleschadevergoeding</em></td><td>NTFR 2024/272</td></tr><tr><td>24/04786</td><td>Gerechtshof Arnhem-Leeuwarden 19 november 2024, nr. 23/1073<br>ECLI:NL:GHARL:2024:7092 <em>Termijnoverschrijding is door tweede uitspraak op bezwaar verschoonbaar</em></td><td>NTFR 2025/124</td></tr><tr><td>25/01315</td><td>Gerechtshof Arnhem-Leeuwarden 27 februari 2025, nrs. 24/1606 en 24/1607<br>ECLI:NL:GHARL:2025:1240 <em>Herhaald wrakingsverzoek buiten behandeling; vergrijpboete wegens opzettelijk onjuiste aangifte terecht opgelegd</em></td><td>NTFR 2026/447</td></tr><tr><td>25/02699</td><td>Gerechtshof ’s-Hertogenbosch 25 juni 2025, nrs. 23/4 en 23/5<br>ECLI:NL:GHSHE:2025:1768 <em>Geen btw-teruggaaf bij verhuur werkkamer door onvoldoende zakelijk gebruik</em></td><td>NTFR 2025/1975</td></tr><tr><td>25/04104</td><td>Gerechtshof Den Haag 30 september 2025, nrs. 24/1017 en 24/1018<br>ECLI:NL:GHDHA:2025:2587 <em>Wetgever is met vaststellen hoogte belastingrente IB/PVV 2021 binnen ruime beoordelingsmarge gebleven</em></td><td>NTFR 2026/445</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>24/03502</td><td>Gerechtshof ’s-Hertogenbosch 7 augustus 2024, nr. 22/01071<br>ECLI:NL:GHSHE:2024:2523 <em>Terecht informatiebeschikking opgelegd / rechtbank heeft terecht de bewijslast omgekeerd en verzwaard</em></td><td>&nbsp;</td></tr><tr><td>24/03777</td><td>Gerechtshof ’s-Hertogenbosch 28 augustus 2024, nrs. 22/1511 t/m 22/1513<br>ECLI:NL:GHSHE:2024:2744 <em>Niet aannemelijk dat opbrengstlimiet van watersysteemheffing en rioolheffing is overschreden</em></td><td>&nbsp;</td></tr><tr><td>24/04057</td><td>Gerechtshof ’s-Hertogenbosch 18 september 2024, nr. 22/1526<br>ECLI:NL:GHSHE:2024:2938 <em>Aanslag tijdig opgelegd omdat uitstel kenbaar is gemaakt aan gemachtigde / stakingswinst in goede justitie vastgesteld</em></td><td>&nbsp;</td></tr><tr><td>25/00270</td><td>Gerechtshof ’s-Hertogenbosch 18 december 2024, nr. 22/1793<br>ECLI:NL:GHSHE:2024:4078 <em>Op Luxemburgs schip werkzame Rijnvarende niet in Nederland premieplichtig</em></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>Conclusie A-G Pauwels 29 mei 2026, nr. 25/00270<br>ECLI:NL:PHR:2026:548</td><td>NTFR 2026/1051</td></tr><tr><td>25/00619</td><td>Gerechtshof ’s-Hertogenbosch 15 januari 2025, nrs. 23/555 t/m 23/560<br>ECLI:NL:GHSHE:2025:71 <em>Dat belanghebbende de bewijslast heeft voor hogere afschrijving is niet in strijd met EU-recht</em></td><td>&nbsp;</td></tr><tr><td>25/00626</td><td>Gerechtshof Den Haag 16 januari 2025, nr. 23/511<br>ECLI:NL:GHDHA:2025:78 <em>Nationale rechter mag Unierecht uitleggen; geen verplichting tot stellen van prejudiciële vragen</em></td><td>&nbsp;</td></tr><tr><td>25/00627</td><td>Gerechtshof Den Haag 16 januari 2025, nr. 23/904<br>ECLI:NL:GHDHA:2025:495 <em>Het vooraf heffen van griffierecht levert geen strijd op met het Unierecht</em></td><td>&nbsp;</td></tr><tr><td>25/00628</td><td>Gerechtshof Den Haag 16 januari 2025, nr. 23/906<br>ECLI:NL:GHDHA:2025:496 <em>Het vooraf heffen van griffierecht levert geen strijd op met het Unierecht</em></td><td>&nbsp;</td></tr><tr><td>26/01778</td><td>Gerechtshof Den Haag 1 april 2026, nrs. 25/39 t/m 25/41<br>ECLI:NL:GHDHA:2026:1607 <em>Hof Den Haag: Teruggaaf bpm Jeep Wrangler, geen vermindering voor andere auto’s</em></td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/00618</td><td>Gerechtshof ’s-Hertogenbosch 15 januari 2025, nr. 23/703, ECLI:NL:GHSHE:2025:73</td></tr><tr><td>25/00731</td><td>Gerechtshof Den Haag, nr. 24/147</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-23-oktober-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/01/Rechtspraak-2021.jpg" length="22758" type="image/jpeg" />	</item>
+		<item>
+		<title>Klikbrief verhindert navordering maar kwade trouw redt deel</title>
+		<link>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/</link>
+					<comments>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 09:46:27 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168400</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat de inspecteur voor 2017 geen nieuw feit heeft omdat hij vóór het opleggen van de aanslag al over een concrete klikbrief beschikte. Navordering blijft wel mogelijk voor de bijtelling en verzwegen omzet omdat de ondernemer daarvoor te kwader trouw is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat de inspecteur voor 2017 geen nieuw feit heeft omdat hij vóór het opleggen van de aanslag al over een concrete klikbrief beschikte. Navordering blijft wel mogelijk voor de bijtelling en verzwegen omzet omdat de ondernemer daarvoor te kwader trouw is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een ondernemer verricht onder meer tuin- en bestratingswerkzaamheden en heeft een Ford Transit op de ondernemingsbalans. In december 2018 ontvangt de inspecteur een anonieme klikbrief over mogelijke belastingfraude. Naar aanleiding daarvan wordt een boekenonderzoek ingesteld, waarbij onder meer niet-verantwoorde contante omzet en privégebruik van de auto naar voren komen. Voor 2016 en 2017 volgen navorderingsaanslagen IB/PVV en Zvw. In geschil is onder meer of de inspecteur over een nieuw feit beschikt en of de bijtelling voor de bestelauto terecht is toegepast.</p>
+
+
+
+<h3 class="wp-block-heading">Klikbrief vormt ambtelijk verzuim</h3>
+
+
+
+<p class="wp-block-paragraph">Voor 2016 beschikt de inspecteur wel over een nieuw feit. De klikbrief kwam pas na het opleggen van de definitieve aanslag binnen. Voor 2017 ligt dat anders. De klikbrief was vóór de administratieve afhandeling van de aangifte al beoordeeld en bevatte volgens het hof zulke concrete aanwijzingen dat direct tot een boekenonderzoek werd besloten. De inspecteur had daarom de automatische afhandeling van de aangifte moeten blokkeren. Door dat niet te doen, is sprake van een ambtelijk verzuim en ontbreekt een nieuw feit voor navordering over 2017.</p>
+
+
+
+<h3 class="wp-block-heading">Kwade trouw bij auto en omzet</h3>
+
+
+
+<p class="wp-block-paragraph">Toch kan de inspecteur voor een deel navorderen. Uit de eigen administratie blijkt dat de ondernemer in 2017 minstens 744 kilometer privé reed. Hij wist daarom dat hij rekening moest houden met de bijtelling. Ook maakt de inspecteur aannemelijk dat omzet bewust buiten de administratie is gehouden en geen facturen zijn uitgeschreven. Daarmee is sprake van kwade trouw voor zowel de bijtelling als de omzetcorrectie. Voor de correctie van telefoonkosten is kwade trouw niet bewezen. Bovendien is de Ford Transit door de aanwezigheid van een bijrijdersbank niet nagenoeg uitsluitend geschikt voor goederenvervoer.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.20?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.20 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2222">Gerechtshof &#8216;s-Hertogenbosch, 12-08-2026, ECLI:NL:GHSHE:2026:2222, 24/115, 24/116, 24/271 en 24/272 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/Tuinwerkzaamheden.jpg" length="74057" type="image/jpeg" />	</item>
+		<item>
+		<title>Borgstellingsverlies aftrekbaar als negatief resultaat</title>
+		<link>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/</link>
+					<comments>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 08:44:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168402</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat een borgstellingsverlies van € 37.500 aftrekbaar is als negatief resultaat uit overige werkzaamheden. De inspecteur maakt niet aannemelijk dat de borgstelling bij het aangaan of later onzakelijk is geworden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat een borgstellingsverlies van € 37.500 aftrekbaar is als negatief resultaat uit overige werkzaamheden. De inspecteur maakt niet aannemelijk dat de borgstelling bij het aangaan of later onzakelijk is geworden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is via zijn bv aandeelhouder in een vennootschap die investeringen aantrekt voor verdere groei. In 2014 verstrekt ABN AMRO een krediet en stelt de man zich persoonlijk borg voor € 37.500. Ook een andere investeerder en de Staat staan voor aanzienlijk hogere bedragen borg. In 2020 wordt de man door de bank aangesproken en betaalt hij € 37.500. Hij wil dit bedrag aftrekken als negatief resultaat uit overige werkzaamheden. De inspecteur weigert dat omdat de borgstelling volgens hem vanaf het begin onzakelijk was, dan wel later onzakelijk is geworden.</p>
+
+
+
+<h3 class="wp-block-heading">Borgstelling is niet onzakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat de bewijslast voor de onzakelijkheid bij de inspecteur ligt. Die slaagt daar niet in. De financiële situatie en toekomstverwachtingen waren bij het aangaan van de borgstelling niet zo slecht dat de man alleen vanuit zijn positie als aandeelhouder het risico zou hebben aanvaard. Een externe investeerder had kort daarvoor fors geïnvesteerd en ook de bank en de Staat waren bereid financiering of zekerheid te verstrekken. Dat geen vergoeding voor de borgstelling was afgesproken, maakt deze evenmin onzakelijk. Volgens de rechtbank kon een vaste, niet-winstafhankelijke vergoeding worden bepaald waartegen een onafhankelijke derde het risico zou hebben willen nemen.</p>
+
+
+
+<h3 class="wp-block-heading">Verlies blijft aftrekbaar</h3>
+
+
+
+<p class="wp-block-paragraph">Ook later is de borgstelling niet onzakelijk geworden. Een onafhankelijke derde had bij de wijziging van de kredietovereenkomst in 2019 geen maatregelen kunnen nemen waarmee het risico op het bestaande bedrag van € 37.500 nog kon worden beperkt. De bestaande verplichtingen waren steeds hoger dan de borgstelling. Een derde zou daarom hetzelfde verlies hebben geleden. De man mag het bedrag van € 37.500 als negatief resultaat uit overige werkzaamheden aftrekken.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.92?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.92</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.94?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.94 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9750">Rechtbank Zeeland-West-Brabant, 07-10-2026, ECLI:NL:RBZWB:2026:9750, BRE 24/8131 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/04/investeren-computer.jpg" length="41294" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet wacht met aanpak grondslaguitholling vastgoed</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 07:33:25 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vastgoed]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168394</guid>
+
+					<description><![CDATA[Het kabinet kiest voorlopig geen beleidsrichting om grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed tegen te gaan. Eerst moet duidelijk worden welke ruimte na de onderhandelingen over het Europese Omnibusvoorstel resteert voor nationale maatregelen. De Belastingdienst heeft momenteel enkele tientallen excessief gefinancierde vastgoedvennootschappen in behandeling. Vanwege de beschikbare capaciteit kan niet elk signaal<a class="read-more" href="https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet kiest voorlopig geen beleidsrichting om grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed tegen te gaan. Eerst moet duidelijk worden welke ruimte na de onderhandelingen over het Europese Omnibusvoorstel resteert voor nationale maatregelen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst heeft momenteel enkele tientallen excessief gefinancierde vastgoedvennootschappen in behandeling. Vanwege de beschikbare capaciteit kan niet elk signaal worden behandeld en ontbreekt een totaaloverzicht. Ook is niet altijd onderscheid te maken tussen situaties waarin meerdere entiteiten om bedrijfseconomische redenen worden aangehouden en situaties waarin fiscale overwegingen een rol spelen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet heeft drie beleidsopties onderzocht. Beleidsoptie 1 houdt in dat de drempel van € 1 miljoen in de earningsstrippingmaatregel niet mag worden toegepast als een belastingplichtige hoofdzakelijk deel uitmaakt van een concern. Deze optie raakt naar verwachting ongeveer 15.000 belastingplichtigen en wordt als ongericht en ondoelmatig beschouwd.</p>
+
+
+
+<h2 class="wp-block-heading">Beleidsoptie 3 meest doeltreffend</h2>
+
+
+
+<p class="wp-block-paragraph">Bij beleidsoptie 2 wordt de drempel verlaagd naar € 200.000 voor vastgoedlichamen die in bepaalde mate zijn gefinancierd met leningen van verbonden lichamen. Ongeveer 1.000 belastingplichtigen worden hierdoor geraakt. De maatregel adresseert fragmentatie, maar biedt geen volledige oplossing voor grondslaguitholling in vastgoedbeleggingsstructuren.</p>
+
+
+
+<p class="wp-block-paragraph">Beleidsoptie 3 is volgens de staatssecretaris doeltreffender. Daarbij is rente op bepaalde schulden aan verbonden lichamen niet aftrekbaar, tenzij tegenbewijs wordt geleverd. Naar verwachting worden circa 15.000 belastingplichtigen met de maatregel geconfronteerd, maar worden uiteindelijk ongeveer 500 belastingplichtigen daadwerkelijk geraakt. Daar staat een toename van complexiteit, administratieve lasten en uitvoeringslasten tegenover.</p>
+
+
+
+<h2 class="wp-block-heading">Europese onderhandelingen afwachten</h2>
+
+
+
+<p class="wp-block-paragraph">Het Omnibusvoorstel van de Europese Commissie voorziet onder meer in een verplichte drempel van € 3 miljoen. Daardoor zouden beleidsopties 1 en 2 niet mogelijk zijn. Ook kan het voorstel gevolgen hebben voor beleidsoptie 3.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil daarom niet vooruitlopen op de onderhandelingen. Dit voorkomt dat nationale maatregelen snel moeten worden heroverwogen of aangepast en draagt volgens de staatssecretaris bij aan stabiel en voorspelbaar fiscaal beleid. Het kabinet zet zich er daarbij voor in dat flankerende nationale maatregelen mogelijk blijven.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/95a7af77-cdbd-4b92-b312-758e77f442de" data-type="link" data-id="https://open.overheid.nl/details/95a7af77-cdbd-4b92-b312-758e77f442de" target="_blank" rel="noreferrer noopener">Antwoorden op vragen over vervolgonderzoek naar grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed, nr. 2026-0000397407, Ministerie van Financiën, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/05/vastgoed.jpg" length="82068" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt oversluiten eigenwoningschuld en al verstreken looptijd</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 06:53:16 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168389</guid>
+
+					<description><![CDATA[De Kennisgroep onroerende zaken heeft de vraag beantwoord of sprake is van een eigenwoningschuld na het oversluiten van een eigenwoningschuld met een verstreken looptijd en tegelijkertijd het aangaan van een nieuwe annuïtaire schuld voor de verbouwing van de eigen woning waarbij beide schulden een looptijd van 360 maanden hebben.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep onroerende zaken heeft de vraag beantwoord of sprake is van een eigenwoningschuld na het oversluiten van een eigenwoningschuld met een verstreken looptijd en tegelijkertijd het aangaan van een nieuwe annuïtaire schuld voor de verbouwing van de eigen woning waarbij beide schulden een looptijd van 360 maanden hebben.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een belastingplichtige heeft een eigen woning met een eigenwoningschuld, aangegaan onder het huidige recht, van € 200.000 met een verstreken looptijd van 60 maanden (5 jaren). De belastingplichtige sluit zijn eigenwoningschuld over naar een andere geldverstrekker. Tegelijkertijd gaat hij een nieuwe annuïtaire schuld van € 100.000 aan voor de verbouwing van zijn eigen woning. Beide schulden hebben een looptijd van 360 maanden.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is sprake van een eigenwoningschuld na het oversluiten en de verhoging van de totale schuld?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. Als een eigenwoningschuld wordt overgesloten voor eenzelfde of lager bedrag, moet voor de berekening van de nieuwe annuïteit het aflossingsschema op de voorgaande schuld op grond van artikel 3.119c, derde lid, van de Wet IB 2001 worden voortgezet bij de nieuwe schuld voor de resterende looptijd. Omdat in artikel 3.119a, eerste lid, onderdeel b, Wet IB 2001 wordt verwezen naar het aflossen overeenkomstig artikel 3.119c Wet IB 2001 moet deze voortgezette aflossing ook als zodanig contractueel worden vastgelegd. De nieuwe schuld moet dus verdergaan met waar de oude schuld is gebleven qua stand en looptijd.</p>
+
+
+
+<p class="wp-block-paragraph">Als de nieuwe schuld hier niet aan voldoet, gaat die schuld over naar box 3. Dat geldt voor beide schulden van € 200.000 en € 100.000 als geen van deze schulden verder gaan met de stand en looptijd van de voorgaande schuld.</p>
+
+
+
+<p class="wp-block-paragraph">Als voor de schuld van € 200.000 wel een looptijd was overeengekomen van 300 maanden, had voor de schuld van € 100.000 mogen worden uitgegaan van een looptijd van 360 maanden. Dit volgt uit de wetssystematiek en de parlementaire geschiedenis van artikel 3.119c Wet IB 2001. Hierin is namelijk bepaald dat op grond van artikel 3.119c, zesde lid, Wet IB 2001 slechts voor het meerdere mag worden uitgegaan van een schuld met een looptijd van 360 maanden als het aflossingsschema op de voorgaande schuld wordt voortgezet bij de nieuwe schuld voor de resterende looptijd. Dit betekent dat aan artikel 3.119c, zesde lid, Wet IB 2001 alleen wordt toegekomen als conform het derde lid van artikel 3.119c Wet IB 2001, voor in casu een bedrag van € 200.000, het aflossingsschema van de voorgaande schuld wordt voortgezet.</p>
+
+
+
+<p class="wp-block-paragraph">Het voorgaande is in overeenstemming met de situatie waarin een woning wordt vervreemd en een aflossingsstand ontstaat. Als in die situatie vervolgens in verband met de aankoop van een nieuwe woning schulden worden aangegaan, moet eerst de aflossingsstand volledig worden toegepast op de aangegane schulden voordat voor het restant van het leenbedrag een maximale looptijd van 360 maanden geldt. Zie <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg05120224-eigenwoningschuld-bij-verkoop-huidige-eigen-woning-en-aankoop-nieuwe-eigen-woning-en-al-verstreken-looptijd/">KG:051:2022:4</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Conclusie</h3>
+
+
+
+<p class="wp-block-paragraph">Zowel de schuld van € 200.000 als de schuld van € 100.000 kwalificeert voor de belastingplichtige niet als eigenwoningschuld in box 1. Als het aflossingsschema van de schuld van € 200.000 wordt aangepast conform artikel 3.119c, eerste lid, Wet IB 2001, kunnen beide schulden alsnog als eigenwoningschuld kwalificeren. Dit wel pas vanaf het moment van aanpassing.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/09/Hypotheek.jpg" length="19166" type="image/jpeg" />	</item>
+	</channel>
+</rss>

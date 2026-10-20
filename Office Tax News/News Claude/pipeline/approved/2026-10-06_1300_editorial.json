@@ -1,0 +1,736 @@
+{
+  "date": "2026-10-06",
+  "release": "2026-10-06_1300_editorial",
+  "items": [
+    {
+      "title": "Казахстан: КГД и BCG обсудили цифровые решения для транзита и обмена данными",
+      "sources": [
+        {
+          "label": "КГД Казахстана",
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru"
+        }
+      ],
+      "theme": "Цифровизация трансграничного налогового и таможенного администрирования",
+      "jurisdictions": "Казахстан",
+      "act": "Встреча КГД и BCG 30.09.2026",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru",
+        "source_quote": "30 сентября 2026 года заместитель Председателя Комитета государственных доходов Министерства финансов Республики Казахстан Жайдар Инкербаев провел встречу с делегацией международной консалтинговой компании Boston Consulting Group (BCG)."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "kz-bcg-transit-data-discussion-20260930",
+        "cross_border_relevance": "Официальное обсуждение цифровых решений для международного транзита и обмена данными с соседними государствами в налоговом и таможенном администрировании."
+      },
+      "slug": "2026-10-06_1300_-kz-bcg-transit-data-discussion-20260930",
+      "caption": "Казахстан: КГД и BCG обсудили цифровые решения для транзита и обмена данными\n\n30 сентября 2026 года Комитет государственных доходов Казахстана встретился с делегацией международной консалтинговой компании BCG. Стороны обсудили применение искусственного интеллекта и аналитики данных в налоговом и таможенном администрировании, а также цифровые решения для транзитных перевозок и обмена данными с сопредельными государствами.\n\nПочему это важно: участникам международных перевозок стоит следить за дальнейшими решениями по цифровому обмену данными. Пока официальный материал сообщает об обсуждении направлений работы, а не о введении нового порядка декларирования.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru",
+          "checked_at": "2026-10-06T09:11:24.291684+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru",
+          "evidence": [
+            {
+              "claim": "30 сентября 2026 года Комитет государственных доходов Казахстана встретился с делегацией международной консалтинговой компании BCG. Стороны обсудили применение искусственного интеллекта и аналитики данных в налоговом и таможенном администрировании, а также цифровые решения для транзитных перевозок и обмена данными с сопредельными государствами.",
+              "source_quote": "30 сентября 2026 года заместитель Председателя Комитета государственных доходов Министерства финансов Республики Казахстан Жайдар Инкербаев провел встречу с делегацией международной консалтинговой компании Boston Consulting Group (BCG). BCG - одна из ведущих международных консалтинговых компаний с более чем 60-летним опытом работы. Компания сотрудничает с государственными органами и международными организациями в сфере цифровой трансформации, анализа данных и внедрения искусственного интеллекта. Совместно с Японским агентством международного сотрудничества (JICA) BCG реализует программу DXLab, направленную на внедрение цифровых решений в государственном управлении, транспорте, инфраструктуре и других отраслях. В ходе встречи стороны обсудили приоритеты цифровизации органов государственных доходов Казахстана, перспективы применения искусственного интеллекта и аналитики данных в налоговом и таможенном администрировании, а также развитие цифровых решений для транзитных перевозок и электронного обмена данными с сопредельными государствами."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru",
+            "checked_at": "2026-10-06T09:11:24.291684+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd/press/news/details/1303959?lang=ru",
+            "evidence": [
+              {
+                "claim": "30 сентября 2026 года Комитет государственных доходов Казахстана встретился с делегацией международной консалтинговой компании BCG. Стороны обсудили применение искусственного интеллекта и аналитики данных в налоговом и таможенном администрировании, а также цифровые решения для транзитных перевозок и обмена данными с сопредельными государствами.",
+                "source_quote": "30 сентября 2026 года заместитель Председателя Комитета государственных доходов Министерства финансов Республики Казахстан Жайдар Инкербаев провел встречу с делегацией международной консалтинговой компании Boston Consulting Group (BCG). BCG - одна из ведущих международных консалтинговых компаний с более чем 60-летним опытом работы. Компания сотрудничает с государственными органами и международными организациями в сфере цифровой трансформации, анализа данных и внедрения искусственного интеллекта. Совместно с Японским агентством международного сотрудничества (JICA) BCG реализует программу DXLab, направленную на внедрение цифровых решений в государственном управлении, транспорте, инфраструктуре и других отраслях. В ходе встречи стороны обсудили приоритеты цифровизации органов государственных доходов Казахстана, перспективы применения искусственного интеллекта и аналитики данных в налоговом и таможенном администрировании, а также развитие цифровых решений для транзитных перевозок и электронного обмена данными с сопредельными государствами."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-kz-bcg-transit-data-discussion-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: налоговые и таможенные вопросы китайских инвесторов обсудили в Алматы",
+      "sources": [
+        {
+          "label": "ДГД Алматы",
+          "url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru"
+        }
+      ],
+      "theme": "Налоговое и таможенное сопровождение китайских инвесторов",
+      "jurisdictions": "Казахстан, Китай",
+      "act": "Совещание с Генеральным консулом КНР 30.09.2026",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru",
+        "source_quote": "30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом Китайской Народной Республики с участием представителей государственных органов, организаций и китайского бизнес-сообщества."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "kz-china-investors-tax-meeting-20260930",
+        "cross_border_relevance": "Налогообложение, льготы и таможенное администрирование китайских компаний при деятельности в Казахстане."
+      },
+      "slug": "2026-10-06_1300_-kz-china-investors-tax-meeting-20260930",
+      "caption": "Казахстан: налоговые и таможенные вопросы китайских инвесторов обсудили в Алматы\n\n30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом КНР и китайским бизнес-сообществом. Департамент государственных доходов Алматы разъяснил вопросы налогообложения, налоговых льгот, уплаты налогов, камерального контроля и таможенного администрирования.\n\nПочему это важно: китайским компаниям с деятельностью в Казахстане стоит проверить применяемые налоговые и таможенные процедуры с учётом разъяснений местного органа. Сообщение фиксирует встречу; конкретных новых льгот или обязательств в нём не установлено.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru",
+          "checked_at": "2026-10-06T09:11:24.293879+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru",
+          "evidence": [
+            {
+              "claim": "30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом КНР и китайским бизнес-сообществом. Департамент государственных доходов Алматы разъяснил вопросы налогообложения, налоговых льгот, уплаты налогов, камерального контроля и таможенного администрирования.",
+              "source_quote": "30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом Китайской Народной Республики с участием представителей государственных органов, организаций и китайского бизнес-сообщества. В рамках встречи были рассмотрены вопросы защиты прав инвесторов и порядка обращения за помощью, миграционного, налогового и таможенного законодательства, а также актуальные вопросы, возникающие у представителей китайских компаний при осуществлении деятельности на территории Республики Казахстан. Представители Департамента государственных доходов по городу Алматы выступили по вопросам, относящимся к компетенции органов государственных доходов. В частности, были даны разъяснения по вопросам налогообложения, применения налоговых льгот, порядка уплаты налогов, камерального контроля и таможенного администрирования."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru",
+            "checked_at": "2026-10-06T09:11:24.293879+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-almaty/press/news/details/1302856?lang=ru",
+            "evidence": [
+              {
+                "claim": "30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом КНР и китайским бизнес-сообществом. Департамент государственных доходов Алматы разъяснил вопросы налогообложения, налоговых льгот, уплаты налогов, камерального контроля и таможенного администрирования.",
+                "source_quote": "30 сентября 2026 года в Алматы состоялось совещание с Генеральным консулом Китайской Народной Республики с участием представителей государственных органов, организаций и китайского бизнес-сообщества. В рамках встречи были рассмотрены вопросы защиты прав инвесторов и порядка обращения за помощью, миграционного, налогового и таможенного законодательства, а также актуальные вопросы, возникающие у представителей китайских компаний при осуществлении деятельности на территории Республики Казахстан. Представители Департамента государственных доходов по городу Алматы выступили по вопросам, относящимся к компетенции органов государственных доходов. В частности, были даны разъяснения по вопросам налогообложения, применения налоговых льгот, порядка уплаты налогов, камерального контроля и таможенного администрирования."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-kz-china-investors-tax-meeting-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Франция: размер иностранной компании для электронной отчётности оценивают в целом",
+      "sources": [
+        {
+          "label": "Налоговая администрация Франции, BOFiP",
+          "url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930"
+        }
+      ],
+      "theme": "Электронная отчётность об операциях иностранных поставщиков",
+      "jurisdictions": "Франция",
+      "act": "BOI-TVA-DECLA-20-30-50 от 30.09.2026",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930",
+        "source_quote": "Date de début de publication du BOI : 30/09/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "fr-nonresident-ereporting-company-size-20260930",
+        "cross_border_relevance": "Определение размера иностранного юридического лица для сроков передачи данных об операциях во Франции; прямо касается иностранных поставщиков."
+      },
+      "slug": "2026-10-06_1300_-fr-nonresident-ereporting-company-size-20260930",
+      "caption": "Франция: размер иностранной компании для электронной отчётности оценивают в целом\n\nРазъяснение опубликовано 30 сентября 2026 года. В разъяснении BOI-TVA-DECLA-20-30-50 французская налоговая администрация уточнила: для налогоплательщиков, не учреждённых во Франции, численность сотрудников, итог баланса и оборот оцениваются на уровне иностранного юридического лица в целом. Эти критерии определяют размер компании для поэтапного применения обязанности передавать данные об операциях.\n\nПочему это важно: иностранным поставщикам следует проверять применимый этап электронной отчётности по показателям всего юридического лица, а не только французских операций. Ошибка в определении размера может привести к неверному выбору срока начала отчётности.\n\nИсточник: https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930",
+          "checked_at": "2026-10-06T09:11:24.295094+00:00",
+          "status_code": 200,
+          "final_url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930",
+          "evidence": [
+            {
+              "claim": "В разъяснении BOI-TVA-DECLA-20-30-50 французская налоговая администрация уточнила: для налогоплательщиков, не учреждённых во Франции, численность сотрудников, итог баланса и оборот оцениваются на уровне иностранного юридического лица в целом. Эти критерии определяют размер компании для поэтапного применения обязанности передавать данные об операциях.",
+              "source_quote": "Remarque 1 : La taille des entreprises est appréciée selon les critères définis à l’ article 51 de la loi n° 2008-776 du 4 août 2008 de modernisation de l’économie et à l’ article 3 du décret n° 2008-1354 du 18 décembre 2008 relatif aux critères permettant de déterminer la catégorie d’appartenance d’une entreprise pour les besoins de l’analyse statistique et économique . Remarque 2 : Pour les assujettis non établis en France, les critères à retenir (nombre de salariés, total du bilan ou montant du chiffre d’affaires) s’apprécient au niveau de la personne morale de droit étranger dans sa globalité."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930",
+            "checked_at": "2026-10-06T09:11:24.295094+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://bofip.impots.gouv.fr/bofip/13897-PGP.html/identifiant=BOI-TVA-DECLA-20-30-50-20260930",
+            "evidence": [
+              {
+                "claim": "В разъяснении BOI-TVA-DECLA-20-30-50 французская налоговая администрация уточнила: для налогоплательщиков, не учреждённых во Франции, численность сотрудников, итог баланса и оборот оцениваются на уровне иностранного юридического лица в целом. Эти критерии определяют размер компании для поэтапного применения обязанности передавать данные об операциях.",
+                "source_quote": "Remarque 1 : La taille des entreprises est appréciée selon les critères définis à l’ article 51 de la loi n° 2008-776 du 4 août 2008 de modernisation de l’économie et à l’ article 3 du décret n° 2008-1354 du 18 décembre 2008 relatif aux critères permettant de déterminer la catégorie d’appartenance d’une entreprise pour les besoins de l’analyse statistique et économique . Remarque 2 : Pour les assujettis non établis en France, les critères à retenir (nombre de salariés, total du bilan ou montant du chiffre d’affaires) s’apprécient au niveau de la personne morale de droit étranger dans sa globalité."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-fr-nonresident-ereporting-company-size-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия и ЕАЭС: пошлина на китайские нефтегазопромысловые трубы продлена до 2031 года",
+      "sources": [
+        {
+          "label": "Евразийская экономическая комиссия",
+          "url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/"
+        }
+      ],
+      "theme": "Антидемпинговая пошлина на китайские нефтегазопромысловые трубы",
+      "jurisdictions": "Россия, ЕАЭС, Китай",
+      "act": "Продление антидемпинговой меры на нефтегазопромысловые трубы из КНР, сообщение ЕЭК 06.10.2026",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/",
+        "source_quote": "06.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ru-eaeu-china-oilgas-pipes-duty-extension-20261006",
+        "cross_border_relevance": "Продление импортной антидемпинговой пошлины ЕАЭС прямо влияет на российские поставки китайских нефтегазопромысловых труб."
+      },
+      "slug": "2026-10-06_1300_-ru-eaeu-china-oilgas-pipes-duty-extension-20261006",
+      "caption": "Россия и ЕАЭС: пошлина на китайские нефтегазопромысловые трубы продлена до 2031 года\n\nСообщение о продлении опубликовано ЕЭК 6 октября 2026 года. ЕЭК продлила антидемпинговую пошлину на стальные бесшовные трубы для бурения и эксплуатации нефтяных и газовых скважин, происходящие из Китая, по 5 октября 2031 года включительно.\n\nПочему это важно: российским импортерам таких труб следует учитывать продолжение действия защитной меры при расчёте стоимости поставки. Продление касается указанной категории труб; его нельзя распространять на всю стальную продукцию.\n\nИсточник: https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/",
+          "checked_at": "2026-10-06T09:11:24.296267+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/",
+          "evidence": [
+            {
+              "claim": "ЕЭК продлила антидемпинговую пошлину на стальные бесшовные трубы для бурения и эксплуатации нефтяных и газовых скважин, происходящие из Китая, по 5 октября 2031 года включительно.",
+              "source_quote": "Коллегия Евразийской экономической комиссии продлила срок действия антидемпинговой пошлины в отношении стальных бесшовных труб, применяемых для бурения и эксплуатации нефтяных и газовых скважин, происходящих из Китайской Народной Республики, по 5 октября 2031 года включительно."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/",
+            "checked_at": "2026-10-06T09:11:24.296267+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/antidempingovaya-poshlina-na-neftegazopromyslovye-truby-iz-knr-prodlena-na-pyat-let/",
+            "evidence": [
+              {
+                "claim": "ЕЭК продлила антидемпинговую пошлину на стальные бесшовные трубы для бурения и эксплуатации нефтяных и газовых скважин, происходящие из Китая, по 5 октября 2031 года включительно.",
+                "source_quote": "Коллегия Евразийской экономической комиссии продлила срок действия антидемпинговой пошлины в отношении стальных бесшовных труб, применяемых для бурения и эксплуатации нефтяных и газовых скважин, происходящих из Китайской Народной Республики, по 5 октября 2031 года включительно."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-ru-eaeu-china-oilgas-pipes-duty-extension-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия и ЕАЭС: соглашение с ОАЭ вступило в силу 6 октября",
+      "sources": [
+        {
+          "label": "Евразийская экономическая комиссия",
+          "url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/"
+        }
+      ],
+      "theme": "Преференциальная торговля ЕАЭС с ОАЭ",
+      "jurisdictions": "Россия, ЕАЭС, ОАЭ",
+      "act": "Соглашение об экономическом партнерстве ЕАЭС — ОАЭ, вступление в силу 06.10.2026",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/",
+        "source_quote": "06.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ru-eaeu-uae-partnership-entry-into-force-20261006",
+        "cross_border_relevance": "Вступление в силу международного соглашения о тарифных преференциях непосредственно касается российских экспортеров товаров в ОАЭ."
+      },
+      "slug": "2026-10-06_1300_-ru-eaeu-uae-partnership-entry-into-force-20261006",
+      "caption": "Россия и ЕАЭС: соглашение с ОАЭ вступило в силу 6 октября\n\n6 октября 2026 года вступило в силу Соглашение об экономическом партнерстве ЕАЭС и его государств-членов с ОАЭ. ОАЭ предоставили преференциальный доступ для 86% товарной номенклатуры, что соответствует 98% объёма экспорта ЕАЭС.\n\nПочему это важно: российским экспортерам стоит проверить тарифную позицию товара и условия применения преференций при поставках в ОАЭ. Доля охваченной номенклатуры не означает автоматическую отмену пошлин для любого товара.\n\nИсточник: https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/",
+          "checked_at": "2026-10-06T09:11:24.509979+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года вступило в силу Соглашение об экономическом партнерстве ЕАЭС и его государств-членов с ОАЭ. ОАЭ предоставили преференциальный доступ для 86% товарной номенклатуры, что соответствует 98% объёма экспорта ЕАЭС.",
+              "source_quote": "6 октября вступило в силу Соглашение об экономическом партнерстве между Евразийским экономическим союзом и его государствами-членами, с одной стороны, и Объединенными Арабскими Эмиратами, с другой стороны, подписанное в июне 2025 года. Соглашение предусматривает существенную либерализацию торгового режима: ОАЭ предоставили преференциальный доступ для 86% товарной номенклатуры, что соответствует 98% объема экспорта ЕАЭС."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/",
+            "checked_at": "2026-10-06T09:11:24.509979+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/soglashenie-ob-ekonomicheskom-partnerstve-eaes-s-oae-vstupilo-v-silu/",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года вступило в силу Соглашение об экономическом партнерстве ЕАЭС и его государств-членов с ОАЭ. ОАЭ предоставили преференциальный доступ для 86% товарной номенклатуры, что соответствует 98% объёма экспорта ЕАЭС.",
+                "source_quote": "6 октября вступило в силу Соглашение об экономическом партнерстве между Евразийским экономическим союзом и его государствами-членами, с одной стороны, и Объединенными Арабскими Эмиратами, с другой стороны, подписанное в июне 2025 года. Соглашение предусматривает существенную либерализацию торгового режима: ОАЭ предоставили преференциальный доступ для 86% товарной номенклатуры, что соответствует 98% объема экспорта ЕАЭС."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-ru-eaeu-uae-partnership-entry-into-force-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: акциз на жидкости для вейпов действует с 1 октября",
+      "sources": [
+        {
+          "label": "Налоговая и таможенная служба Великобритании",
+          "url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect"
+        }
+      ],
+      "theme": "Акциз при импорте жидкостей для вейпов",
+      "jurisdictions": "Великобритания",
+      "act": "Введение акциза на жидкости для вейпов с 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+        "source_quote": "Published: 1 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "uk-vaping-import-excise-entry-20261001",
+        "cross_border_relevance": "Новый акциз прямо распространяется на импортированные жидкости и меняет налоговую стоимость трансграничных поставок."
+      },
+      "slug": "2026-10-06_1300_-uk-vaping-import-excise-entry-20261001",
+      "caption": "Великобритания: акциз на жидкости для вейпов действует с 1 октября\n\nС 1 октября 2026 года в Великобритании действует акциз на произведённые в стране и импортированные жидкости для вейпов по ставке 2,20 фунта за 10 мл. Акциз уплачивают производители, импортеры и владельцы складов, одобренные налоговой и таможенной службой HMRC.\n\nПочему это важно: импортерам нужно включить новый акциз в расчёт стоимости ввоза и проверить необходимые разрешения HMRC. Это влияет на налоговую стоимость трансграничной поставки.\n\nИсточник: https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+          "checked_at": "2026-10-06T09:11:24.727122+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+          "evidence": [
+            {
+              "claim": "С 1 октября 2026 года в Великобритании действует акциз на произведённые в стране и импортированные жидкости для вейпов по ставке 2,20 фунта за 10 мл. Акциз уплачивают производители, импортеры и владельцы складов, одобренные налоговой и таможенной службой HMRC.",
+              "source_quote": "All vaping liquids manufactured in, or imported into, the UK from 1 October are now subject to excise duty. New vaping duty stamps to start appearing on retail packaging, which will support the high street by helping to combat illicit trade. A new excise duty on vaping products has come into force in the UK today (1 October 2026) to reduce the affordability and appeal of vaping, especially to young people and non-smokers. Vaping Products Duty is charged at £2.20 per 10ml of vaping liquid and will be paid by manufacturers, importers and warehousekeepers approved by HM Revenue and Customs ( HMRC ). It is a commercial decision whether the duty cost is passed on to retailers and consumers."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+            "checked_at": "2026-10-06T09:11:24.727122+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/news/new-vaping-products-duty-comes-into-effect",
+            "evidence": [
+              {
+                "claim": "С 1 октября 2026 года в Великобритании действует акциз на произведённые в стране и импортированные жидкости для вейпов по ставке 2,20 фунта за 10 мл. Акциз уплачивают производители, импортеры и владельцы складов, одобренные налоговой и таможенной службой HMRC.",
+                "source_quote": "All vaping liquids manufactured in, or imported into, the UK from 1 October are now subject to excise duty. New vaping duty stamps to start appearing on retail packaging, which will support the high street by helping to combat illicit trade. A new excise duty on vaping products has come into force in the UK today (1 October 2026) to reduce the affordability and appeal of vaping, especially to young people and non-smokers. Vaping Products Duty is charged at £2.20 per 10ml of vaping liquid and will be paid by manufacturers, importers and warehousekeepers approved by HM Revenue and Customs ( HMRC ). It is a commercial decision whether the duty cost is passed on to retailers and consumers."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-uk-vaping-import-excise-entry-20261001.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС: Еврокомиссия проверила порог CBAM в 50 тонн",
+      "sources": [
+        {
+          "label": "Еврокомиссия, Генеральный директорат по налогам и таможне",
+          "url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en"
+        }
+      ],
+      "theme": "Оценка порога освобождения импорта от CBAM",
+      "jurisdictions": "ЕС",
+      "act": "Оценка массового порога CBAM, публикация Еврокомиссии 30.09.2026",
+      "source_published_at": "2026-09-30",
+      "publication_date_evidence": {
+        "url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+        "source_quote": "Publication date 30 September 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "eu-cbam-mass-threshold-assessment-20260930",
+        "cross_border_relevance": "Оценка порога механизма углеродной корректировки на границе непосредственно касается обязательств импортеров товаров в ЕС."
+      },
+      "slug": "2026-10-06_1300_-eu-cbam-mass-threshold-assessment-20260930",
+      "caption": "ЕС: Еврокомиссия проверила порог CBAM в 50 тонн\n\nОценка опубликована 30 сентября 2026 года. Еврокомиссия опубликовала оценку действующего массового порога CBAM в 50 тонн. По расчёту за период с 1 апреля 2025 года по 31 марта 2026 года он освобождал бы 0,87% выбросов, связанных с импортируемыми товарами, — ниже установленного предела в 1%.\n\nПочему это важно: импортерам товаров, охваченных CBAM, следует учитывать действующий порог при оценке обязанностей. Сообщение содержит результат проверки порога, а не вводит новое освобождение для любых импортных операций.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+          "checked_at": "2026-10-06T09:11:39.893991+00:00",
+          "status_code": 200,
+          "final_url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+          "evidence": [
+            {
+              "claim": "Еврокомиссия опубликовала оценку действующего массового порога CBAM в 50 тонн. По расчёту за период с 1 апреля 2025 года по 31 марта 2026 года он освобождал бы 0,87% выбросов, связанных с импортируемыми товарами, — ниже установленного предела в 1%.",
+              "source_quote": "Under Article 2a(3) of the CBAM Regulation, the Commission shall assess whether the single mass-based threshold (currently 50 tonnes) applies to no more than 1% of the emissions embedded in the imported goods and processed products. In addition, the Commission shall adopt delegated acts in accordance with Article 28 of the CBAM Regulation to amend the single mass-based threshold by using the methodology set out in point 2 of Annex VII of the CBAM Regulation, where the value of the resulting threshold deviates from the applicable threshold by more than 15 tonnes. For the period 1 April 2025 to 31 March 2026, the assessment indicates that the 50-tonne single mass-based threshold would exempt 0.87% of embedded emissions, remaining below the 1% limit."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+            "checked_at": "2026-10-06T09:11:39.893991+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+            "evidence": [
+              {
+                "claim": "Еврокомиссия опубликовала оценку действующего массового порога CBAM в 50 тонн. По расчёту за период с 1 апреля 2025 года по 31 марта 2026 года он освобождал бы 0,87% выбросов, связанных с импортируемыми товарами, — ниже установленного предела в 1%.",
+                "source_quote": "Under Article 2a(3) of the CBAM Regulation, the Commission shall assess whether the single mass-based threshold (currently 50 tonnes) applies to no more than 1% of the emissions embedded in the imported goods and processed products. In addition, the Commission shall adopt delegated acts in accordance with Article 28 of the CBAM Regulation to amend the single mass-based threshold by using the methodology set out in point 2 of Annex VII of the CBAM Regulation, where the value of the resulting threshold deviates from the applicable threshold by more than 15 tonnes. For the period 1 April 2025 to 31 March 2026, the assessment indicates that the 50-tonne single mass-based threshold would exempt 0.87% of embedded emissions, remaining below the 1% limit."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-eu-cbam-mass-threshold-assessment-20260930.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: открыты консультации перед пересмотром USMCA в 2027 году",
+      "sources": [
+        {
+          "label": "Торговый представитель США",
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca"
+        }
+      ],
+      "theme": "Консультации по североамериканскому торговому соглашению",
+      "jurisdictions": "США, Канада, Мексика",
+      "act": "Консультации USTR по пересмотру USMCA в 2027 году, объявление 02.10.2026",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+        "source_quote": "October 02, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "us-usmca-2027-review-consultation-open-20261002",
+        "cross_border_relevance": "Обсуждение применения международного торгового соглашения между США, Канадой и Мексикой связано с режимом трансграничной торговли и тарифными преференциями."
+      },
+      "slug": "2026-10-06_1300_-us-usmca-2027-review-consultation-open-20261002",
+      "caption": "США: открыты консультации перед пересмотром USMCA в 2027 году\n\n2 октября 2026 года Торговый представитель США объявил консультации о работе соглашения USMCA перед совместным пересмотром в 2027 году. Письменные комментарии принимаются до 12 января 2027 года, 23:59 по восточному стандартному времени США.\n\nПочему это важно: компаниям с поставками между США, Канадой и Мексикой стоит оценить, какие проблемы применения торгового соглашения они хотят вынести на консультации. Открытие обсуждения само по себе не меняет действующие тарифные преференции.\n\nИсточник: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+          "checked_at": "2026-10-06T09:11:40.117784+00:00",
+          "status_code": 200,
+          "final_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+          "evidence": [
+            {
+              "claim": "2 октября 2026 года Торговый представитель США объявил консультации о работе соглашения USMCA перед совместным пересмотром в 2027 году. Письменные комментарии принимаются до 12 января 2027 года, 23:59 по восточному стандартному времени США.",
+              "source_quote": "WASHINGTON – Today, the Office of the U.S. Trade Representative announced a public consultation process in advance of the 2027 joint review of the Agreement between the United States of America, the United Mexican States, and Canada (USMCA). As directed by Congress, USTR is seeking public comments on the operation of the USMCA. In addition, USTR will convene a public hearing. Details regarding the date and location of the public hearing will be published to USTR’s website (www.ustr.gov). The deadline for submission of comments is January 12, 2027, at 11:59 p.m. EST."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+            "checked_at": "2026-10-06T09:11:40.117784+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/october/ustr-seeks-public-comment-2027-joint-review-usmca",
+            "evidence": [
+              {
+                "claim": "2 октября 2026 года Торговый представитель США объявил консультации о работе соглашения USMCA перед совместным пересмотром в 2027 году. Письменные комментарии принимаются до 12 января 2027 года, 23:59 по восточному стандартному времени США.",
+                "source_quote": "WASHINGTON – Today, the Office of the U.S. Trade Representative announced a public consultation process in advance of the 2027 joint review of the Agreement between the United States of America, the United Mexican States, and Canada (USMCA). As directed by Congress, USTR is seeking public comments on the operation of the USMCA. In addition, USTR will convene a public hearing. Details regarding the date and location of the public hearing will be published to USTR’s website (www.ustr.gov). The deadline for submission of comments is January 12, 2027, at 11:59 p.m. EST."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-us-usmca-2027-review-consultation-open-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: налоговая служба разъяснила будущий сбор за интернет-посылки из-за пределов ЕС",
+      "sources": [
+        {
+          "label": "Налоговая служба Ирландии",
+          "url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx"
+        }
+      ],
+      "theme": "Будущий таможенный сбор при интернет-торговле с ЕС",
+      "jurisdictions": "Ирландия, ЕС",
+      "act": "Разъяснение Revenue о сборе за обработку интернет-посылок от 29.09.2026",
+      "source_published_at": "2026-09-29",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+        "source_quote": "Published: 29 September 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ie-ecommerce-import-handling-fee-guidance-20260929",
+        "cross_border_relevance": "Разъяснение дополнительного таможенного платежа за интернет-товары из третьих стран напрямую относится к трансграничной торговле с Ирландией и ЕС."
+      },
+      "slug": "2026-10-06_1300_-ie-ecommerce-import-handling-fee-guidance-20260929",
+      "caption": "Ирландия: налоговая служба разъяснила будущий сбор за интернет-посылки из-за пределов ЕС\n\nРазъяснение опубликовано 29 сентября 2026 года. Налоговая служба Ирландии сообщила: с 1 ноября 2026 года ЕС введёт сбор в 2 евро за каждый отдельный вид товара в интернет-посылке из-за пределов ЕС. Его уплачивают компании, подающие таможенные декларации для таких посылок; сбор дополняет существующую таможенную пошлину, а не заменяет её.\n\nПочему это важно: продавцам и службам доставки следует учесть дополнительный платёж в расчётах по заказам, отправляемым потребителям в Ирландию из-за пределов ЕС. Дата начала применения — 1 ноября; сейчас сообщение служит для подготовки к изменению.\n\nИсточник: https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+          "checked_at": "2026-10-06T09:11:40.130035+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+          "evidence": [
+            {
+              "claim": "Налоговая служба Ирландии сообщила: с 1 ноября 2026 года ЕС введёт сбор в 2 евро за каждый отдельный вид товара в интернет-посылке из-за пределов ЕС. Его уплачивают компании, подающие таможенные декларации для таких посылок; сбор дополняет существующую таможенную пошлину, а не заменяет её.",
+              "source_quote": "On 29/09/2026, Revenue advised consumers who shop online of a further change to Customs arrangements for goods bought from outside the EU (including Great Britain). From 1 November 2026, the EU will introduce a new Union Handling Fee of €2 per distinct item, which businesses that file Customs declarations for eCommerce packages will pay. It relates to goods purchased online from non-EU countries and shipped to consumers in Ireland and other EU Member States. This fee is separate from, and in addition to, the €3 Customs Duty per item that has applied since 1 July 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+            "checked_at": "2026-10-06T09:11:40.130035+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/corporate/press-office/press-releases/2026/pr-092926-handling-fee.aspx",
+            "evidence": [
+              {
+                "claim": "Налоговая служба Ирландии сообщила: с 1 ноября 2026 года ЕС введёт сбор в 2 евро за каждый отдельный вид товара в интернет-посылке из-за пределов ЕС. Его уплачивают компании, подающие таможенные декларации для таких посылок; сбор дополняет существующую таможенную пошлину, а не заменяет её.",
+                "source_quote": "On 29/09/2026, Revenue advised consumers who shop online of a further change to Customs arrangements for goods bought from outside the EU (including Great Britain). From 1 November 2026, the EU will introduce a new Union Handling Fee of €2 per distinct item, which businesses that file Customs declarations for eCommerce packages will pay. It relates to goods purchased online from non-EU countries and shipped to consumers in Ireland and other EU Member States. This fee is separate from, and in addition to, the €3 Customs Duty per item that has applied since 1 July 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-ie-ecommerce-import-handling-fee-guidance-20260929.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Финляндия: предложено изменить условия освобождения иностранных фондов",
+      "sources": [
+        {
+          "label": "Правительство Финляндии, Министерство финансов",
+          "url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan"
+        }
+      ],
+      "theme": "Законопроект о налоговом освобождении иностранных инвестиционных фондов",
+      "jurisdictions": "Финляндия",
+      "act": "Законодательное предложение VM/2026/177 от 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan",
+        "source_quote": "Julkaisuajankohta 1.10.2026 14.08"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "fi-foreign-funds-tax-exemption-proposal-20261001",
+        "cross_border_relevance": "Предложение непосредственно меняет условия налогового освобождения иностранных инвестиционных фондов в Финляндии и критерии их сопоставимости с местными фондами."
+      },
+      "slug": "2026-10-06_1300_-fi-foreign-funds-tax-exemption-proposal-20261001",
+      "caption": "Финляндия: предложено изменить условия освобождения иностранных фондов\n\nПравительство внесло предложение в парламент 1 октября 2026 года. Финское правительство предложило отменить требование договорной формы для освобождения иностранных инвестиционных и специальных инвестиционных фондов от налога. При этом фонд должен быть освобождён от налога, фактически не облагаться им либо быть налогово-прозрачным в государстве регистрации. Изменения предполагается применять с начала 2027 года.\n\nПочему это важно: управляющим иностранных фондов следует оценить, как организационная форма и налогообложение в государстве регистрации повлияют на право на освобождение в Финляндии. Это законодательное предложение; применять новые условия до завершения принятия закона преждевременно.\n\nИсточник: https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan",
+          "checked_at": "2026-10-06T09:11:40.526898+00:00",
+          "status_code": 200,
+          "final_url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan",
+          "evidence": [
+            {
+              "claim": "Финское правительство предложило отменить требование договорной формы для освобождения иностранных инвестиционных и специальных инвестиционных фондов от налога. При этом фонд должен быть освобождён от налога, фактически не облагаться им либо быть налогово-прозрачным в государстве регистрации. Изменения предполагается применять с начала 2027 года.",
+              "source_quote": "Ulkomaisen rahastojen verovapauden edellytyksiä muutettaisiin vastaamaan Euroopan unionin oikeuskäytännöstä johtuvia vaatimuksia. Ulkomaisen sijoitusrahaston ja erikoissijoitusrahaston verovapauden edellytyksenä ei jatkossa olisi rahaston sopimusperusteisuus. Verovapauden edellytykseksi asetettaisiin kuitenkin se, että rahasto olisi rekisteröintivaltiossaan verovapaa, käytännössä verovapaa tai läpivirtaava. Muutos voimaan vuoden 2027 alusta Hallitus antoi esityksensä eduskunnalle 1. lokakuuta. Muutos on tarkoitettu tulemaan maan vuoden 2027 alusta."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan",
+            "checked_at": "2026-10-06T09:11:40.526898+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://valtioneuvosto.fi/-/10623/sijoitusrahastojen-verosaantelya-muutetaan",
+            "evidence": [
+              {
+                "claim": "Финское правительство предложило отменить требование договорной формы для освобождения иностранных инвестиционных и специальных инвестиционных фондов от налога. При этом фонд должен быть освобождён от налога, фактически не облагаться им либо быть налогово-прозрачным в государстве регистрации. Изменения предполагается применять с начала 2027 года.",
+                "source_quote": "Ulkomaisen rahastojen verovapauden edellytyksiä muutettaisiin vastaamaan Euroopan unionin oikeuskäytännöstä johtuvia vaatimuksia. Ulkomaisen sijoitusrahaston ja erikoissijoitusrahaston verovapauden edellytyksenä ei jatkossa olisi rahaston sopimusperusteisuus. Verovapauden edellytykseksi asetettaisiin kuitenkin se, että rahasto olisi rekisteröintivaltiossaan verovapaa, käytännössä verovapaa tai läpivirtaava. Muutos voimaan vuoden 2027 alusta Hallitus antoi esityksensä eduskunnalle 1. lokakuuta. Muutos on tarkoitettu tulemaan maan vuoden 2027 alusta."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-06\\2026-10-06_1300_-fi-foreign-funds-tax-exemption-proposal-20261001.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

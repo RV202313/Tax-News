@@ -171,6 +171,21 @@ class CatalogTests(TempProject):
 
 
 class ParserTransportTests(TempProject):
+    def test_short_tax_abbreviation_does_not_match_japan(self):
+        topics = [{'id': 'apa', 'priority': 1, 'keywords': ['apa']}]
+        self.assertFalse(select_news.match_topics('Toshiba expands Japanese capacity', topics)[3])
+        self.assertTrue(select_news.match_topics('APA tax agreement', topics)[3])
+
+    def test_unpublished_collected_item_remains_available_but_receipt_blocks_it(self):
+        conn = newsdb.connect(str(self.tmp))
+        self.track_newsdb(conn)
+        item_id, _ = newsdb.upsert_item(conn, {'url': 'https://example.test/reserve',
+            'title': 'International tax treaty reserve', 'status': 'collected'})
+        title = newsdb.normalize_title('International tax treaty reserve')
+        self.assertFalse(newsdb.is_duplicate(conn, 'https://example.test/reserve', '', title, include_collected=False))
+        newsdb.add_published(conn, item_id, 'telegram', post_id='42')
+        self.assertTrue(newsdb.is_duplicate(conn, 'https://example.test/reserve', '', title, include_collected=False))
+
     RSS = b"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><item><title>International tax treaty update</title>
 <link>https://example.test/treaty?utm_source=rss</link><description><![CDATA[<p>Summary</p>]]></description>

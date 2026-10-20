@@ -22,6 +22,98 @@ defaults:
   window_hours: 48
 
 sources:
+  - id: kz_kgd
+    name: КГД Казахстана — официальные новости
+    lang: ru
+    weight: 3.5
+    method: http
+    parser: rss
+    window_hours: 168
+    endpoints: ["https://www.gov.kz/api/v1/public/rss/kgd/news/ru"]
+    require_topics_any: [dta, transfer_pricing, withholding_dividend, exchange_info, cross_border_trade_tax]
+
+  - id: kz_kgd_almaty
+    name: ДГД Алматы — официальные новости
+    lang: ru
+    weight: 3.0
+    method: http
+    parser: rss
+    window_hours: 168
+    endpoints: ["https://www.gov.kz/api/v1/public/rss/kgd-almaty/news/ru"]
+    require_topics_any: [dta, transfer_pricing, withholding_dividend, exchange_info, cross_border_trade_tax]
+
+  - id: kz_kgd_karaganda
+    name: ДГД Карагандинской области — официальные новости
+    lang: ru
+    weight: 3.0
+    method: http
+    parser: rss
+    window_hours: 168
+    endpoints: ["https://www.gov.kz/api/v1/public/rss/kgd-karaganda/news/ru"]
+    require_topics_any: [dta, transfer_pricing, withholding_dividend, exchange_info, cross_border_trade_tax]
+
+  - id: kz_minfin
+    name: Минфин Казахстана — официальные новости
+    lang: ru
+    weight: 3.0
+    method: http
+    parser: rss
+    window_hours: 168
+    endpoints: ["https://www.gov.kz/api/v1/public/rss/minfin/news/ru"]
+    require_topics_any: [dta, transfer_pricing, withholding_dividend, exchange_info, cross_border_trade_tax]
+
+  - id: intl_dof_ph
+    name: Минфин Филиппин — официальные новости
+    lang: en
+    weight: 3.5
+    method: http
+    parser: rss
+    window_hours: 168
+    endpoints: ["https://www.dof.gov.ph/feed/"]
+    require_topics_any: [dta, transfer_pricing, pillar2, exchange_info, cross_border_trade_tax]
+
+  - id: intl_irs
+    name: IRS — официальные налоговые новости
+    lang: en
+    weight: 3.5
+    method: http
+    parser: html_links
+    window_hours: 168
+    endpoints: ["https://www.irs.gov/newsroom/news-releases-for-current-month"]
+    html:
+      base: "https://www.irs.gov/"
+      include: ["/newsroom/[a-z0-9-]{20,}/?$"]
+      exclude: ["/news-releases-for-", "#"]
+    require_topics_any: [dta, transfer_pricing, withholding_dividend, exchange_info, cross_border_trade_tax]
+
+  - id: nl_douane
+    name: Таможня Нидерландов — официальные новости
+    lang: nl
+    weight: 3.5
+    method: http
+    parser: html_links
+    window_hours: 168
+    endpoints: ["https://www.douane.nl/nieuws/nieuwsberichten/"]
+    require_topics_any: [cross_border_trade_tax]
+    html:
+      base: "https://www.douane.nl/"
+      include: ["douane\\.nl/[a-z0-9-]{15,}/?$"]
+      exclude: ["/onderwerpen/", "/nieuws/", "/contact", "#"]
+
+  - id: intl_oecd_tax
+    name: ОЭСР — международное налогообложение
+    lang: en
+    weight: 3.5
+    method: http
+    parser: html_links
+    window_hours: 168
+    endpoints: ["https://www.oecd.org/en/topics/cross-border-and-international-tax.html"]
+    require_topics_any: [dta, transfer_pricing, pillar2, exchange_info, withholding_dividend]
+    html:
+      base: "https://www.oecd.org/"
+      include: ["/en/about/news/", "/en/publications/"]
+      exclude: ["#", "/content/dam/"]
+
   - id: telegram_leads
     name: Одноразовые Telegram-лиды из разрешённых налоговых источников
     lang: ru
@@ -163,12 +255,11 @@ sources:
     default_topic: ru_tax_admin
     window_hours: 720
     endpoints:
-      - "https://vsrf.ru/documents/reviews/?init=y&year={YEAR}&keyword=налог"
-      - "https://vsrf.ru/press_center/news/?init=y&year={YEAR}&keyword=налог"
+      - "https://www.vsrf.ru/"
     note: >
-      Официальные XHR-листинги ВС: налоговые обзоры и пресс-материалы по
-      keyword=налог за текущий год. collector сохраняет исходный JSON; это не
-      заменяет RAS Arbitr. Обзоры помечаются item_type=court_review.
+      Публичная витрина ВС РФ. Старые XHR-листинги сняты сайтом; collector
+      сохраняет исходный HTML и пропускает только карточки с налоговыми
+      терминами в фактическом тексте. Это не заменяет RAS Arbitr.
 
   - id: intl_regfollower
     name: Regfollower — международные налоговые изменения

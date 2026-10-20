@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-18",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 537,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/italy-tax-authority-expands-f24-payment-codes-for-inheritance-and-gift-tax/",
+      "ecli": "",
+      "act": "",
+      "title": "Italy: Tax authority expands F24 payment codes for inheritance and gift tax",
+      "summary": "The Italian Revenue Agency introduced new tax codes through Resolution 30/2026, effective 16 September 2026. These codes expand the F24 form payment system to streamline declarations and payments related to inheritance tax, gift tax, mortgage tax, and land registry services. The resolution builds on earlier frameworks established by Resolution 16/2016 and Resolution 2/2025, which addressed...",
+      "published_at": "2026-09-18",
+      "score": 12.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 538,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/verzuimboete-motorrijtuigenbelasting-passend-en-geboden-bij-herhaald-betalingsverzuim/",
+      "ecli": "",
+      "act": "",
+      "title": "Verzuimboete motorrijtuigenbelasting passend en geboden bij herhaald betalingsverzuim",
+      "summary": "",
+      "published_at": "2026-09-18",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 539,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/te-laat-bezwaar-overdrachtsbelasting-ondanks-psychische-klachten-niet-verschoonbaar/",
+      "ecli": "",
+      "act": "",
+      "title": "Te laat bezwaar overdrachtsbelasting ondanks psychische klachten niet verschoonbaar",
+      "summary": "",
+      "published_at": "2026-09-18",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 540,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingschijven-en-tarieven-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingschijven en -tarieven 2027",
+      "summary": "",
+      "published_at": "2026-09-18",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 541,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/liberia-commits-to-automatic-financial-account-information-exchange-by-2028/",
+      "ecli": "",
+      "act": "",
+      "title": "Liberia commits to automatic financial account information exchange by 2028",
+      "summary": "Liberia announced that it will begin automatic exchange of financial account information under the Common Reporting Standard (CRS) by September 2028, according to a release from the OECD on 17 September 2026. The country’s commitment strengthens its participation in the Global Forum on Transparency and Exchange of Information for Tax Purposes, which it joined in...",
+      "published_at": "2026-09-18",
+      "score": 4.0,
+      "topics": [
+        "exchange_info"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

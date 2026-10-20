@@ -10,6 +10,9 @@ New-Item -ItemType Directory -Path $logDir -Force | Out-Null
 $watchdogLog = Join-Path $logDir 'watchdog.log'
 $watchdogStatusFile = Join-Path $logDir 'watchdog-status.json'
 $now = Get-Date
+$moscowZone = [TimeZoneInfo]::FindSystemTimeZoneById('Russian Standard Time')
+$moscowNow = [TimeZoneInfo]::ConvertTime([DateTimeOffset]::Now, $moscowZone)
+. (Join-Path $rootDir 'watchdog-policy.ps1')
 
 function Log-Message([string]$Message) {
     $entry = "[$((Get-Date).ToString('yyyy-MM-dd HH:mm:ss'))] $Message"
@@ -60,6 +63,43 @@ foreach ($taskName in $requiredTasks) {
         if ($info.LastTaskResult -ne 0) {
             Add-Issue $status "Task last run failed: $taskName (code $($info.LastTaskResult))"
             $status.tasks_healthy = $false
+        }
+        # Detect a missing launch even when a previous (or DST companion)
+        # trigger returned zero.  A crash is retried only while the gated
+        # wrapper still permits the current Moscow slot.
+        $lastRun = [DateTimeOffset]::new(
+            $info.LastRunTime, [TimeZoneInfo]::Local.GetUtcOffset($info.LastRunTime)
+        )
+        $completed = $false
+        if ($taskName -eq 'Academy BEPS - Website collection') {
+            $lastCollection = Join-Path $logDir 'last-run.json'
+            if (Test-Path -LiteralPath $lastCollection) {
+                try {
+                    $value = Get-Content -LiteralPath $lastCollection -Raw -Encoding UTF8 | ConvertFrom-Json
+                    $finished = [DateTimeOffset]::Parse($value.finished)
+                    $slotDue = [DateTimeOffset]::new(
+                        $moscowNow.Year, $moscowNow.Month, $moscowNow.Day,
+                        $moscowNow.Hour, 0, 0, [TimeSpan]::FromHours(3)
+                    )
+                    $completed = ($value.exit_code -eq 0 -and $finished -ge $slotDue)
+                } catch { $completed = $false }
+            }
+        }
+        $decision = Get-NewsRecoveryDecision -TaskName $taskName -MoscowNow $moscowNow `
+            -LastRun $lastRun -LastResult $info.LastTaskResult -TaskState ([string]$task.State) `
+            -Completed $completed
+        if ($decision.Retry) {
+            if ($decision.Reason -eq 'scheduled launch missing') {
+                Add-Issue $status "Task launch missing for current Moscow slot: $taskName"
+                $status.tasks_healthy = $false
+            }
+            try {
+                Start-ScheduledTask -TaskName $taskName -ErrorAction Stop
+                [void]$status.actions_taken.Add("Requested safe retry of $taskName at $($moscowNow.ToString('HH:mm')) MSK: $($decision.Reason)")
+                Log-Message "Requested safe retry: $taskName; $($decision.Reason)"
+            } catch {
+                Add-Issue $status "Cannot retry ${taskName}: $_"
+            }
         }
         Log-Message "Task check: $taskName; state=$($task.State); last_result=$($info.LastTaskResult)"
     } catch {

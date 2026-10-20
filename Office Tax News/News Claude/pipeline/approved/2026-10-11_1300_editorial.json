@@ -1,0 +1,792 @@
+{
+  "date": "2026-10-11",
+  "release": "2026-10-11_1300_editorial",
+  "items": [
+    {
+      "title": "Казахстан: разъяснены сроки возврата экспортного НДС и цифровая проверка",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en",
+          "name": "ДГД по Карагандинской области"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "name": "Официальная лента публикаций ДГД"
+        }
+      ],
+      "theme": "Возврат экспортного НДС и подтверждение нулевой ставки",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Разъяснение ДГД Карагандинской области о возврате превышения НДС от 08.10.2026",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+        "source_quote": "08 октября 2026 Порядок возврата суммы превышения НДС в 2026 году: ключевые правила, сроки и цифровые стандарты."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11 13:00",
+        "event_key": "kz-export-vat-refund-karaganda-20261008",
+        "cross_border_relevance": "Возврат НДС экспортёрам и прослеживание экспортных товаров для нулевой ставки; разъяснение действующего порядка, без заявления о введении нового закона."
+      },
+      "slug": "2026-10-11_1300_-kz-export-vat-refund-karaganda-20261008",
+      "caption": "Казахстан: разъяснены сроки возврата экспортного НДС и цифровая проверка\n\n8 октября 2026 года ДГД по Карагандинской области опубликовал разъяснение о возврате превышения НДС. ДГД по Карагандинской области разъяснил: для отдельных категорий, включая экспортёров и производителей с низким риском, упрощённый возврат НДС проводится за 15 рабочих дней с подачи требования. Нулевую ставку при экспорте проверяют по сквозному движению товаров; рекомендовано корректно оформлять сопроводительные накладные и электронные счета-фактуры.\n\nПочему это важно: Экспортёрам стоит сверить порядок возврата и товарный учёт. Указанный срок не распространяется автоматически на всех заявителей.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en\nИсточник: https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en",
+          "checked_at": "2026-10-11T09:13:28.407650+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en",
+          "evidence": [
+            {
+              "claim": "ДГД по Карагандинской области разъяснил: для отдельных категорий, включая экспортёров и производителей с низким риском, упрощённый возврат НДС проводится за 15 рабочих дней с подачи требования. Нулевую ставку при экспорте проверяют по сквозному движению товаров; рекомендовано корректно оформлять сопроводительные накладные и электронные счета-фактуры.",
+              "source_quote": "For certain categories of taxpayers, including exporters and low-risk manufacturers, the refund is made within 15 business days from the date the claim is submitted. 🟡 For certain categories of taxpayers The refund of excess VAT is carried out in accordance with the procedure established by tax legislation: ▪️ over 20 tax periods in equal installments , starting from the tax period following the tax period in which the refund claim was submitted, in accordance with subparagraphs 1) and 3) of paragraph 7 of Article 129 of the Tax Code; ▪️ or within 55 business days after the expiry of the deadline established by the Tax Code for submitting the tax return containing the claim for a refund of excess VAT. 🟠 Following a thematic tax audit The refund of excess VAT is made within 55 business days following the day on which the deadline for submitting the tax return containing the refund claim expires. 📌 Thus, the specific refund period depends on the taxpayer's category and the procedure applicable to the refund of excess VAT. 💻 Digital control in 2026 In order to reduce administrative barriers and accelerate processes, particular attention is paid to digital interaction. 🔹 Integration of the “ESF” Information System and the “Virtual Warehouse” Verification of the accuracy of turnover and confirmation of the legitimacy of applying the zero VAT rate on exports are carried out based on end-to-end tracking of the movement of goods. Businesses are advised to prepare accompanying invoices for goods (SNT) and ESFs accurately and in a timely manner."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "checked_at": "2026-10-11T09:13:45.125247+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года ДГД по Карагандинской области опубликовал разъяснение о возврате превышения НДС.",
+              "source_quote": "08 октября 2026 Порядок возврата суммы превышения НДС в 2026 году: ключевые правила, сроки и цифровые стандарты."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en",
+            "checked_at": "2026-10-11T09:13:28.407650+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/details/1307477?lang=en",
+            "evidence": [
+              {
+                "claim": "ДГД по Карагандинской области разъяснил: для отдельных категорий, включая экспортёров и производителей с низким риском, упрощённый возврат НДС проводится за 15 рабочих дней с подачи требования. Нулевую ставку при экспорте проверяют по сквозному движению товаров; рекомендовано корректно оформлять сопроводительные накладные и электронные счета-фактуры.",
+                "source_quote": "For certain categories of taxpayers, including exporters and low-risk manufacturers, the refund is made within 15 business days from the date the claim is submitted. 🟡 For certain categories of taxpayers The refund of excess VAT is carried out in accordance with the procedure established by tax legislation: ▪️ over 20 tax periods in equal installments , starting from the tax period following the tax period in which the refund claim was submitted, in accordance with subparagraphs 1) and 3) of paragraph 7 of Article 129 of the Tax Code; ▪️ or within 55 business days after the expiry of the deadline established by the Tax Code for submitting the tax return containing the claim for a refund of excess VAT. 🟠 Following a thematic tax audit The refund of excess VAT is made within 55 business days following the day on which the deadline for submitting the tax return containing the refund claim expires. 📌 Thus, the specific refund period depends on the taxpayer's category and the procedure applicable to the refund of excess VAT. 💻 Digital control in 2026 In order to reduce administrative barriers and accelerate processes, particular attention is paid to digital interaction. 🔹 Integration of the “ESF” Information System and the “Virtual Warehouse” Verification of the accuracy of turnover and confirmation of the legitimacy of applying the zero VAT rate on exports are carried out based on end-to-end tracking of the movement of goods. Businesses are advised to prepare accompanying invoices for goods (SNT) and ESFs accurately and in a timely manner."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+            "checked_at": "2026-10-11T09:13:45.125247+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-karaganda/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года ДГД по Карагандинской области опубликовал разъяснение о возврате превышения НДС.",
+                "source_quote": "08 октября 2026 Порядок возврата суммы превышения НДС в 2026 году: ключевые правила, сроки и цифровые стандарты."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-kz-export-vat-refund-karaganda-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: ФНС опубликовала разъяснение декларации по импорту из ЕАЭС",
+      "sources": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+          "name": "ФНС России: официальная публикация письма"
+        }
+      ],
+      "theme": "Косвенные налоги при импорте из ЕАЭС: статусы ДОПП и декларация",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Письмо ФНС от 29.09.2026 № ЕА-36-15/8583@, официальная публикация 07.10.2026",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+        "source_quote": "Дата письма: 29.09.2026 Дата публикации: 07.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11 13:00",
+        "event_key": "ru-eaeu-spot-letter8583-publication-20261007",
+        "cross_border_relevance": "Официальное опубликование 7 октября письма от 29 сентября с разъяснением НДС/акциза при импорте из ЕАЭС; свежесть относится к явно указанной первичной публикации, дата письма сохранена. Новые правила с даты публикации не заявляются."
+      },
+      "slug": "2026-10-11_1300_-ru-eaeu-spot-letter8583-publication-20261007",
+      "caption": "Россия: ФНС опубликовала разъяснение декларации по импорту из ЕАЭС\n\n7 октября 2026 года ФНС опубликовала письмо от 29.09.2026 № ЕА-36-15/8583@. В декларации по косвенным налогам отражается документ о предстоящей поставке, если товар принят к учёту, а документ имеет статус «Обеспечен», «Пройдена проверка КО» или «На проверке КНП». Статус «Пройдена проверка КО» присваивается только при предъявлении визуализированной ссылки таможенному органу.\n\nПочему это важно: Импортёрам из ЕАЭС стоит сверить статус документа перед отчётностью. Публикация письма не означает введения новой обязанности с 7 октября.\n\nИсточник: https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+          "checked_at": "2026-10-11T09:13:28.409305+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+          "evidence": [
+            {
+              "claim": "7 октября 2026 года ФНС опубликовала письмо от 29.09.2026 № ЕА-36-15/8583@. В декларации по косвенным налогам отражается документ о предстоящей поставке, если товар принят к учёту, а документ имеет статус «Обеспечен», «Пройдена проверка КО» или «На проверке КНП». Статус «Пройдена проверка КО» присваивается только при предъявлении визуализированной ссылки таможенному органу.",
+              "source_quote": "Номер: ЕА-36-15/8583@ Дата письма: 29.09.2026 Дата публикации: 07.10.2026 Категория (тематика) письма: Косвенные налоги при импорте из стран ЕАЭС (НДС и акциз) Теги: Статья 160 НК РФ Вопрос: О порядке заполнения декларации по косвенным налогам по ДОПП со статусом \"Обеспечен\" или отсутствием ДОПП (СПОТ) Ответ: Федеральная налоговая служба в связи с вступлением в силу Федерального закона от 17.04.2026 № 101-ФЗ «О национальной системе подтверждения ожидания поставки товаров и о внесении изменений в отдельные законодательные акты Российской Федерации» (далее – Закон, СПОТ) сообщает следующее. Закон распространяется на товары, ввозимые на территорию Российской Федерации с территорий других государств — членов ЕАЭС (за исключением товаров, перечисленных в части 3 статьи 5 Закона), автомобильным транспортом начиная с 1 июня 2026 года. В соответствии со статьей 8 Закона заявитель (импортер) обязан cформировать документ о предстоящей поставке товаров (далее – ДОПП, документ) по форме, в порядке и сроки, которые указаны в статье 10 Закона, внести обеспечительный платеж (далее – ОП) по ДОПП в размере, порядке и сроки, которые указаны в статье 11 Закона, за исключением случаев, указанных в частях 1 и 2 статьи 11 Закона. Согласно пункту 3 приложения № 5 к приказу ФНС России от 8 мая 2026 г. № КЧ-1-15/301@ «Об утверждении формы и формата документа о предстоящей поставке товаров, порядка его оформления и внесения в него изменений, порядка его представления, а также порядка присвоения статуса документу о предстоящей поставке товаров», присвоение и изменение статуса ДОПП осуществляются автоматически информационной системой оператора СПОТ (ФНС России) на основании: Действий заявителя; Результатов автоматизированных проверок, проводимых информационной системой оператора СПОТ; Сведений из информационной системы контролирующего органа СПОТ о результатах проверки ДОПП. ДОПП присваиваются следующие статусы: «Зарегистрирован» — статус, присваиваемый ДОПП после успешного прохождения форматно-логического контроля в информационной системе оператора СПОТ и его регистрации с присвоением уникального регистрационного номера; «Обеспечен» — статус, присваиваемый ДОПП при внесении обеспечительного платежа в полном объеме либо в случаях, установленных частью 1 или 2 статьи 11 Закона; «Пройдена проверка контролирующего органа» — статус, присваиваемый информационной системой оператора СПОТ на основании поступившей от контролирующего органа СПОТ информации об успешном завершении проверки ДОПП (далее – Пройдена проверка КО); «Не пройдена проверка контролирующего органа» — статус, присваиваемый на основании информации от контролирующего органа СПОТ в случае выявления несоответствий при проверке ДОПП (далее – Не пройдена проверка КО); «На проверке КНП» — статус, присваиваемый ДОПП после начала камеральной налоговой проверки налоговой декларации по косвенным налогам, в которой отражен ДОПП; «Погашен» — статус, присваиваемый по результатам окончания камеральной налоговой проверки налоговой декларации по косвенным налогам, в которой отражен ДОПП. В соответствии с пунктом 20 приложения № 18 к Договору о ЕАЭС от 29 мая 2014 года налогоплательщик обязан представить в налоговый орган соответствующую налоговую декларацию. Порядок представления налоговой декларации по косвенным налогам (налогу на добавленную стоимость и акцизам) при импорте товаров на территорию Российской Федерации с территории государств – членов Евразийского экономического союза утвержден приказом ФНС России от 08.05.2026 № КЧ-1-3/299@ «Об утверждении формы и формата представления налоговой декларации по косвенным налогам (налогу на добавленную стоимость и акцизам) при импорте товаров на территорию Российской Федерации с территории государств — членов Евразийского экономического союза в электронной форме и порядка ее заполнения, а также о внесении изменений в приложение к приказу ФНС России от 29.02.2024 №ЕД-7-3/164@» (далее – НД по косвенным налогам, декларация, Порядок). Таким образом, в НД по косвенным налогам отражается ДОПП, товар по которому принят к учету, и статус, по которому: «Обеспечен», «Пройдена проверка КО», «На проверке КНП». ФНС России обращает внимание, что статус «Пройдена проверка КО» присваивается документу только при предъявлении визуализированной ссылки контролирующему органу (ФТС России). Статус «На проверке КНП» присваивается документу, отраженному в НД по КН, по которой проводится камеральная налоговая проверка (далее – КНП). При завершении КНП и отсутствии нарушений по отраженным ДОПП статус по таким ДОПП меняется на «Погашен», при этом, если сумма по такому документу заявлена частично, статус «На проверке КНП» изменится на «Погашен» только после отражения оставшейся суммы обеспечительного платежа в ДОПП (пункт 2 статьи 177 Налогового кодекса Российской Федерации). Учитывая изложенное, при формировании НД по КН налогоплательщик в строке 030 раздела 1 (строке 030 раздела 3) отражает сумму налога в рублях, исчисленную к уплате в бюджет в отношении импортированных товаров, в том числе по товарам, по которым внесен обеспечительный платеж. При этом в разделе 4 заполняются: по строке 010 отражается КБК, указанный по строке 020 раздела 1 декларации или по строке 020 раздела 3 декларации; по строке 020 указывается номер ДОПП; по строке 030 указывается сумма акциза или налога в отношении КБК, указанного по строке 010 раздела 4 декларации. Сумма НДС (акциза), отраженная в разделе 4 декларации, соответствует сумме ОП в части исполнения обязанности по уплате НДС, указанной в строке 060 раздела 1 декларации (сумме ОП в части исполнения обязанности по уплате акциза по строке 031 раздела 3 декларации). В случаях, когда импортером по какой-либо причине не оформлялся ДОПП (либо ДОПП формировался, но имеет статус «Зарегистрирован» — не получена визуализированная ссылка) и товар ввезен на территорию Российской Федерации и принят к учету, налогоплательщик, формируя декларацию по строке 031 раздела 1 декларации, указывает сумму налога, исчисленную к уплате в бюджет в отношении приобретенных товаров (по строке 030 раздела 3 декларации — сумма акциза). Управлениям ФНС России по субъектам Российской Федерации и МИ ФНС России по крупнейшим налогоплательщикам довести настоящее письмо до нижестоящих налоговых органов. Во избежание дублирования информации территориальным налоговым органам не выполнять доведение указанной информации до налогоплательщиков через операторов электронного документооборота. Одновременно поручаю Управлению электронного документооборота ФНС России довести настоящее письмо до всех налогоплательщиков, взаимодействующих с налоговыми органами по телекоммуникационным каналам связи через операторов электронного документооборота. Действительный государственный советник Российской Федерации 2 класса А.В. Егоричев Сообщение о неприменении налоговыми органом письма ФНС России, обязательного для применения Дата письма: 29.09.2026 Номер: ЕА-36-15/8583@ Категория (тематика) письма: Косвенные налоги при импорте из стран ЕАЭС (НДС и акциз) Теги: Статья 160 НК РФ Вопрос: О порядке заполнения декларации по косвенным налогам по ДОПП со статусом \"Обеспечен\" или отсутствием ДОПП (СПОТ) Налоговый орган, которым не применено письмо ФНС России * : --Выберите направление-- Территориальный налоговый орган Специализированная инспекция (межрегиональная)"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+            "checked_at": "2026-10-11T09:13:28.409305+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654263/",
+            "evidence": [
+              {
+                "claim": "7 октября 2026 года ФНС опубликовала письмо от 29.09.2026 № ЕА-36-15/8583@. В декларации по косвенным налогам отражается документ о предстоящей поставке, если товар принят к учёту, а документ имеет статус «Обеспечен», «Пройдена проверка КО» или «На проверке КНП». Статус «Пройдена проверка КО» присваивается только при предъявлении визуализированной ссылки таможенному органу.",
+                "source_quote": "Номер: ЕА-36-15/8583@ Дата письма: 29.09.2026 Дата публикации: 07.10.2026 Категория (тематика) письма: Косвенные налоги при импорте из стран ЕАЭС (НДС и акциз) Теги: Статья 160 НК РФ Вопрос: О порядке заполнения декларации по косвенным налогам по ДОПП со статусом \"Обеспечен\" или отсутствием ДОПП (СПОТ) Ответ: Федеральная налоговая служба в связи с вступлением в силу Федерального закона от 17.04.2026 № 101-ФЗ «О национальной системе подтверждения ожидания поставки товаров и о внесении изменений в отдельные законодательные акты Российской Федерации» (далее – Закон, СПОТ) сообщает следующее. Закон распространяется на товары, ввозимые на территорию Российской Федерации с территорий других государств — членов ЕАЭС (за исключением товаров, перечисленных в части 3 статьи 5 Закона), автомобильным транспортом начиная с 1 июня 2026 года. В соответствии со статьей 8 Закона заявитель (импортер) обязан cформировать документ о предстоящей поставке товаров (далее – ДОПП, документ) по форме, в порядке и сроки, которые указаны в статье 10 Закона, внести обеспечительный платеж (далее – ОП) по ДОПП в размере, порядке и сроки, которые указаны в статье 11 Закона, за исключением случаев, указанных в частях 1 и 2 статьи 11 Закона. Согласно пункту 3 приложения № 5 к приказу ФНС России от 8 мая 2026 г. № КЧ-1-15/301@ «Об утверждении формы и формата документа о предстоящей поставке товаров, порядка его оформления и внесения в него изменений, порядка его представления, а также порядка присвоения статуса документу о предстоящей поставке товаров», присвоение и изменение статуса ДОПП осуществляются автоматически информационной системой оператора СПОТ (ФНС России) на основании: Действий заявителя; Результатов автоматизированных проверок, проводимых информационной системой оператора СПОТ; Сведений из информационной системы контролирующего органа СПОТ о результатах проверки ДОПП. ДОПП присваиваются следующие статусы: «Зарегистрирован» — статус, присваиваемый ДОПП после успешного прохождения форматно-логического контроля в информационной системе оператора СПОТ и его регистрации с присвоением уникального регистрационного номера; «Обеспечен» — статус, присваиваемый ДОПП при внесении обеспечительного платежа в полном объеме либо в случаях, установленных частью 1 или 2 статьи 11 Закона; «Пройдена проверка контролирующего органа» — статус, присваиваемый информационной системой оператора СПОТ на основании поступившей от контролирующего органа СПОТ информации об успешном завершении проверки ДОПП (далее – Пройдена проверка КО); «Не пройдена проверка контролирующего органа» — статус, присваиваемый на основании информации от контролирующего органа СПОТ в случае выявления несоответствий при проверке ДОПП (далее – Не пройдена проверка КО); «На проверке КНП» — статус, присваиваемый ДОПП после начала камеральной налоговой проверки налоговой декларации по косвенным налогам, в которой отражен ДОПП; «Погашен» — статус, присваиваемый по результатам окончания камеральной налоговой проверки налоговой декларации по косвенным налогам, в которой отражен ДОПП. В соответствии с пунктом 20 приложения № 18 к Договору о ЕАЭС от 29 мая 2014 года налогоплательщик обязан представить в налоговый орган соответствующую налоговую декларацию. Порядок представления налоговой декларации по косвенным налогам (налогу на добавленную стоимость и акцизам) при импорте товаров на территорию Российской Федерации с территории государств – членов Евразийского экономического союза утвержден приказом ФНС России от 08.05.2026 № КЧ-1-3/299@ «Об утверждении формы и формата представления налоговой декларации по косвенным налогам (налогу на добавленную стоимость и акцизам) при импорте товаров на территорию Российской Федерации с территории государств — членов Евразийского экономического союза в электронной форме и порядка ее заполнения, а также о внесении изменений в приложение к приказу ФНС России от 29.02.2024 №ЕД-7-3/164@» (далее – НД по косвенным налогам, декларация, Порядок). Таким образом, в НД по косвенным налогам отражается ДОПП, товар по которому принят к учету, и статус, по которому: «Обеспечен», «Пройдена проверка КО», «На проверке КНП». ФНС России обращает внимание, что статус «Пройдена проверка КО» присваивается документу только при предъявлении визуализированной ссылки контролирующему органу (ФТС России). Статус «На проверке КНП» присваивается документу, отраженному в НД по КН, по которой проводится камеральная налоговая проверка (далее – КНП). При завершении КНП и отсутствии нарушений по отраженным ДОПП статус по таким ДОПП меняется на «Погашен», при этом, если сумма по такому документу заявлена частично, статус «На проверке КНП» изменится на «Погашен» только после отражения оставшейся суммы обеспечительного платежа в ДОПП (пункт 2 статьи 177 Налогового кодекса Российской Федерации). Учитывая изложенное, при формировании НД по КН налогоплательщик в строке 030 раздела 1 (строке 030 раздела 3) отражает сумму налога в рублях, исчисленную к уплате в бюджет в отношении импортированных товаров, в том числе по товарам, по которым внесен обеспечительный платеж. При этом в разделе 4 заполняются: по строке 010 отражается КБК, указанный по строке 020 раздела 1 декларации или по строке 020 раздела 3 декларации; по строке 020 указывается номер ДОПП; по строке 030 указывается сумма акциза или налога в отношении КБК, указанного по строке 010 раздела 4 декларации. Сумма НДС (акциза), отраженная в разделе 4 декларации, соответствует сумме ОП в части исполнения обязанности по уплате НДС, указанной в строке 060 раздела 1 декларации (сумме ОП в части исполнения обязанности по уплате акциза по строке 031 раздела 3 декларации). В случаях, когда импортером по какой-либо причине не оформлялся ДОПП (либо ДОПП формировался, но имеет статус «Зарегистрирован» — не получена визуализированная ссылка) и товар ввезен на территорию Российской Федерации и принят к учету, налогоплательщик, формируя декларацию по строке 031 раздела 1 декларации, указывает сумму налога, исчисленную к уплате в бюджет в отношении приобретенных товаров (по строке 030 раздела 3 декларации — сумма акциза). Управлениям ФНС России по субъектам Российской Федерации и МИ ФНС России по крупнейшим налогоплательщикам довести настоящее письмо до нижестоящих налоговых органов. Во избежание дублирования информации территориальным налоговым органам не выполнять доведение указанной информации до налогоплательщиков через операторов электронного документооборота. Одновременно поручаю Управлению электронного документооборота ФНС России довести настоящее письмо до всех налогоплательщиков, взаимодействующих с налоговыми органами по телекоммуникационным каналам связи через операторов электронного документооборота. Действительный государственный советник Российской Федерации 2 класса А.В. Егоричев Сообщение о неприменении налоговыми органом письма ФНС России, обязательного для применения Дата письма: 29.09.2026 Номер: ЕА-36-15/8583@ Категория (тематика) письма: Косвенные налоги при импорте из стран ЕАЭС (НДС и акциз) Теги: Статья 160 НК РФ Вопрос: О порядке заполнения декларации по косвенным налогам по ДОПП со статусом \"Обеспечен\" или отсутствием ДОПП (СПОТ) Налоговый орган, которым не применено письмо ФНС России * : --Выберите направление-- Территориальный налоговый орган Специализированная инспекция (межрегиональная)"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-ru-eaeu-spot-letter8583-publication-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС: определён таможенный код телескопической трубки пылесоса",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+          "name": "EUR-Lex"
+        }
+      ],
+      "theme": "Тарифная классификация импортируемых комплектующих",
+      "jurisdictions": [
+        "ЕС"
+      ],
+      "act": "Регламент (ЕС) 2026/2265 от 06.10.2026; CELEX 32026R2265",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+        "source_quote": "OJ L, 2026/2265, 9.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "eu-cn-vacuum-tube-20262265-20261009",
+        "cross_border_relevance": "Классификация определяет применение тарифных и иных мер при ввозе комплектующих в ЕС. Проверен новый официальный акт, отдельный товар и событие; дата принятия не подменяет дату публикации или вступления в силу."
+      },
+      "slug": "2026-10-11_1300_-eu-cn-vacuum-tube-20262265-20261009",
+      "caption": "ЕС: определён таможенный код телескопической трубки пылесоса\n\n9 октября опубликован Регламент ЕС 2026/2265 от 6 октября 2026 года. Описанная в приложении алюминиевая телескопическая трубка для определённого типа пылесоса классифицируется по коду 8508 70 00 как его часть, а не как обычная алюминиевая труба по позиции 7608. Регламент вступает в силу на двадцатый день после публикации.\n\nПочему это важно: Импортёрам таких комплектующих следует сопоставить характеристики товара с приложением и проверить код до вступления регламента в силу.\n\nИсточник: https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+          "checked_at": "2026-10-11T09:13:28.410457+00:00",
+          "status_code": 200,
+          "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+          "evidence": [
+            {
+              "claim": "9 октября опубликован Регламент ЕС 2026/2265 от 6 октября 2026 года. Описанная в приложении алюминиевая телескопическая трубка для определённого типа пылесоса классифицируется по коду 8508 70 00 как его часть, а не как обычная алюминиевая труба по позиции 7608. Регламент вступает в силу на двадцатый день после публикации.",
+              "source_quote": "Official Journal of the European Union EN L series 2026/2265 9.10.2026 COMMISSION IMPLEMENTING REGULATION (EU) 2026/2265 of 6 October 2026 concerning the classification of certain goods in the Combined Nomenclature THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ( 1 ) , and in particular Article 57(4) and Article 58(2) thereof, Whereas: (1) In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) No 2658/87 ( 2 ) , it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation. (2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods. (3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table. (4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months. (5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, HAS ADOPTED THIS REGULATION: Article 1 The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table. Article 2 Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this Regulation. Article 3 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . This Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels, 6 October 2026. For the Commission Gerassimos THOMAS Director-General Directorate-General for Taxation and Customs Union ( 1 ) OJ L 269, 10.10.2013, p. 1 , ELI: http://data.europa.eu/eli/reg/2013/952/oj . ( 2 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff ( OJ L 256, 7.9.1987, p. 1 , ELI: http://data.europa.eu/eli/reg/1987/2658/oj ). ANNEX Description of the goods Classification (CN-code) Reasons (1) (2) (3) An article made of aluminium, consisting of two non-separable rigid tubes of different diameters that are inserted into each other. The two tubes are connected by a locking mechanism, forming a telescopic tube. The inner tube is ribbed, allowing the user to adjust the length of the telescopic tube. The article is, at one end, connected to the flexible hose fitted to a vacuum cleaner unit and, at the other end, is connected to various types of cleaning heads. The telescopic tube is designed for use with a specific type of vacuum cleaner, to enable the user to clean the floor and other surfaces. (See images) ( *1 ) 8508 70 00 Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2 (b) to Section XVI and by the wording of CN codes 8508 and 8508 70 00. The rigid telescopic tube is an indispensable part of the vacuum cleaner, as it maintains the airflow and ensures the maximum suction efficiency. More specifically, the rigid telescopic tube provides a straight air passage between the flexible hose and the cleaning head ensuring a smooth airflow and maximizing the suction power. As the specific type of vacuum cleaner is principally designed for cleaning the floor in a standing position, the telescopic tube plays an important role in the ergonomic use of the apparatus. Not only does it serve as a handle for guiding the cleaning head, but it can also be extended to the desired length ensuring comfortable use of the apparatus and efficient cleaning. Consequently, the mechanical functioning of the vacuum cleaner is dependent on the rigid telescopic tube, as without it, the vacuum cleaner would not be able to carry out its intended function (see also judgment of the Court of 12 December 2013, HARK , C-450/12, ECLI:EU:C:2013:824, paragraphs 36-39). Due to its objective characteristics which are inherent to its use, mainly its design and dimensions, the article is identifiable as a part suitable for use solely or principally with the vacuum cleaners of heading 8508. Classification of the product under 7608, as a tube or pipe, is therefore excluded, as the article is made up into a specific identifiable article, namely a part of vacuum cleaners of heading 8508 (see also the Harmonised System Explanatory Notes to heading 7608, exclusion point (d).) Consequently, the telescopic tube is to be classified by application of Note 2 (b) to Section XVI, under heading 8508. The product is therefore to be classified under CN code 8508 70 00, as part of the vacuum cleaners of heading 8508. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+            "checked_at": "2026-10-11T09:13:28.410457+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1744970698371&uri=CELEX%3A32026R2265",
+            "evidence": [
+              {
+                "claim": "9 октября опубликован Регламент ЕС 2026/2265 от 6 октября 2026 года. Описанная в приложении алюминиевая телескопическая трубка для определённого типа пылесоса классифицируется по коду 8508 70 00 как его часть, а не как обычная алюминиевая труба по позиции 7608. Регламент вступает в силу на двадцатый день после публикации.",
+                "source_quote": "Official Journal of the European Union EN L series 2026/2265 9.10.2026 COMMISSION IMPLEMENTING REGULATION (EU) 2026/2265 of 6 October 2026 concerning the classification of certain goods in the Combined Nomenclature THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code ( 1 ) , and in particular Article 57(4) and Article 58(2) thereof, Whereas: (1) In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) No 2658/87 ( 2 ) , it is necessary to adopt measures concerning the classification of the goods referred to in the Annex to this Regulation. (2) Regulation (EEC) No 2658/87 has laid down the general rules for the interpretation of the Combined Nomenclature. Those rules apply also to any other nomenclature which is wholly or partly based on it or which adds any additional subdivision to it and which is established by specific provisions of the Union, with a view to the application of tariff and other measures relating to trade in goods. (3) Pursuant to those general rules, the goods described in column (1) of the table set out in the Annex should be classified under the CN code indicated in column (2), by virtue of the reasons set out in column (3) of that table. (4) It is appropriate to provide that binding tariff information issued in respect of the goods concerned by this Regulation which does not conform to this Regulation may, for a certain period, continue to be invoked by the holder in accordance with Article 34(9) of Regulation (EU) No 952/2013. That period should be set at three months. (5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee, HAS ADOPTED THIS REGULATION: Article 1 The goods described in column (1) of the table set out in the Annex shall be classified within the Combined Nomenclature under the CN code indicated in column (2) of that table. Article 2 Binding tariff information which does not conform to this Regulation may continue to be invoked in accordance with Article 34(9) of Regulation (EU) No 952/2013 for a period of three months from the date of entry into force of this Regulation. Article 3 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union . This Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels, 6 October 2026. For the Commission Gerassimos THOMAS Director-General Directorate-General for Taxation and Customs Union ( 1 ) OJ L 269, 10.10.2013, p. 1 , ELI: http://data.europa.eu/eli/reg/2013/952/oj . ( 2 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff ( OJ L 256, 7.9.1987, p. 1 , ELI: http://data.europa.eu/eli/reg/1987/2658/oj ). ANNEX Description of the goods Classification (CN-code) Reasons (1) (2) (3) An article made of aluminium, consisting of two non-separable rigid tubes of different diameters that are inserted into each other. The two tubes are connected by a locking mechanism, forming a telescopic tube. The inner tube is ribbed, allowing the user to adjust the length of the telescopic tube. The article is, at one end, connected to the flexible hose fitted to a vacuum cleaner unit and, at the other end, is connected to various types of cleaning heads. The telescopic tube is designed for use with a specific type of vacuum cleaner, to enable the user to clean the floor and other surfaces. (See images) ( *1 ) 8508 70 00 Classification is determined by general rules 1 and 6 for the interpretation of the Combined Nomenclature, Note 2 (b) to Section XVI and by the wording of CN codes 8508 and 8508 70 00. The rigid telescopic tube is an indispensable part of the vacuum cleaner, as it maintains the airflow and ensures the maximum suction efficiency. More specifically, the rigid telescopic tube provides a straight air passage between the flexible hose and the cleaning head ensuring a smooth airflow and maximizing the suction power. As the specific type of vacuum cleaner is principally designed for cleaning the floor in a standing position, the telescopic tube plays an important role in the ergonomic use of the apparatus. Not only does it serve as a handle for guiding the cleaning head, but it can also be extended to the desired length ensuring comfortable use of the apparatus and efficient cleaning. Consequently, the mechanical functioning of the vacuum cleaner is dependent on the rigid telescopic tube, as without it, the vacuum cleaner would not be able to carry out its intended function (see also judgment of the Court of 12 December 2013, HARK , C-450/12, ECLI:EU:C:2013:824, paragraphs 36-39). Due to its objective characteristics which are inherent to its use, mainly its design and dimensions, the article is identifiable as a part suitable for use solely or principally with the vacuum cleaners of heading 8508. Classification of the product under 7608, as a tube or pipe, is therefore excluded, as the article is made up into a specific identifiable article, namely a part of vacuum cleaners of heading 8508 (see also the Harmonised System Explanatory Notes to heading 7608, exclusion point (d).) Consequently, the telescopic tube is to be classified by application of Note 2 (b) to Section XVI, under heading 8508. The product is therefore to be classified under CN code 8508 70 00, as part of the vacuum cleaners of heading 8508. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-eu-cn-vacuum-tube-20262265-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Германия: опубликован закон о соглашении по обмену информацией GloBE",
+      "sources": [
+        {
+          "url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+          "name": "Федеральный вестник Германии"
+        }
+      ],
+      "theme": "Правовая основа международного обмена информацией по минимальному налогу",
+      "jurisdictions": [
+        "Германия"
+      ],
+      "act": "Закон Германии от 30.09.2026 о соглашении GIR MCAA от 15.01.2025; BGBl. 2026 II Nr. 220, публикация 05.10.2026",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+        "source_quote": "Veröffentlichungsdatum: 05.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "de-gir-mcaa-law220-publication-20261005",
+        "cross_border_relevance": "Соглашение посвящено обмену GloBE-информацией между компетентными органами разных стран. Единственный материал выпуска по глобальному минимальному налогу; в утреннем выпуске таких материалов нет. Используются только видимые название закона и реквизиты его официальной публикации; детали PDF не утверждаются."
+      },
+      "slug": "2026-10-11_1300_-de-gir-mcaa-law220-publication-20261005",
+      "caption": "Германия: опубликован закон о соглашении по обмену информацией GloBE\n\n5 октября 2026 года в Федеральном вестнике опубликован закон от 30 сентября 2026 года о многостороннем соглашении компетентных органов от 15 января 2025 года по обмену информацией GloBE. Реквизиты публикации: часть II, № 220.\n\nПочему это важно: Международным группам стоит учитывать этот этап оформления правовой основы обмена информацией по глобальному минимальному налогу. Дата публикации закона сама по себе не подтверждает начало обмена.\n\nИсточник: https://www.recht.bund.de/bgbl/2/2026/220/VO.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+          "checked_at": "2026-10-11T09:13:28.411435+00:00",
+          "status_code": 200,
+          "final_url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года в Федеральном вестнике опубликован закон от 30 сентября 2026 года о многостороннем соглашении компетентных органов от 15 января 2025 года по обмену информацией GloBE. Реквизиты публикации: часть II, № 220.",
+              "source_quote": "Gesetz zu der Mehrseitigen Vereinbarung vom 15. Januar 2025 zwischen den zuständigen Behörden über den Austausch von GloBE-Informationen https://www.recht.bund.de/eli/bund/bgbl-2/2026/220 Gesetz zu der Mehrseitigen Vereinbarung vom 15. Januar 2025 zwischen den zuständigen Behörden über den Austausch von GloBE-Informationen BGBl. 2026 II Nr. 220 vom 05.10.2026 Bundesgesetzblatt: BGBl. II Typ: Gesetz BGBl.-Nr.: 220 Veröffentlichungsdatum: 05.10.2026 Ausfertigungsdatum: 30.09.2026 Federführung: Bundesministerium der Finanzen GESTA: XD005 "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+            "checked_at": "2026-10-11T09:13:28.411435+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.recht.bund.de/bgbl/2/2026/220/VO.html",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года в Федеральном вестнике опубликован закон от 30 сентября 2026 года о многостороннем соглашении компетентных органов от 15 января 2025 года по обмену информацией GloBE. Реквизиты публикации: часть II, № 220.",
+                "source_quote": "Gesetz zu der Mehrseitigen Vereinbarung vom 15. Januar 2025 zwischen den zuständigen Behörden über den Austausch von GloBE-Informationen https://www.recht.bund.de/eli/bund/bgbl-2/2026/220 Gesetz zu der Mehrseitigen Vereinbarung vom 15. Januar 2025 zwischen den zuständigen Behörden über den Austausch von GloBE-Informationen BGBl. 2026 II Nr. 220 vom 05.10.2026 Bundesgesetzblatt: BGBl. II Typ: Gesetz BGBl.-Nr.: 220 Veröffentlichungsdatum: 05.10.2026 Ausfertigungsdatum: 30.09.2026 Federführung: Bundesministerium der Finanzen GESTA: XD005 "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-de-gir-mcaa-law220-publication-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Люксембург: в проекте бюджета предложено снизить налог на прибыль",
+      "sources": [
+        {
+          "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+          "name": "Правительство Люксембурга"
+        }
+      ],
+      "theme": "Проект корпоративных налоговых ставок и инвестиционных льгот",
+      "jurisdictions": [
+        "Люксембург"
+      ],
+      "act": "Проект бюджета Люксембурга на 2027 год; представление 07.10.2026",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+        "source_quote": "Communiqué Crée le 07.10.2026 Dernière modification le 07.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "lu-budget2027-corporate-tax-proposal-20261007",
+        "cross_border_relevance": "Ставка налога на прибыль и инвестиционные льготы влияют на размещение деятельности международных групп в Люксембурге. Статус проекта явно сохранён; номер законопроекта и не подтверждённые HTML детали не взяты из вторичной публикации."
+      },
+      "slug": "2026-10-11_1300_-lu-budget2027-corporate-tax-proposal-20261007",
+      "caption": "Люксембург: в проекте бюджета предложено снизить налог на прибыль\n\n7 октября 2026 года министр финансов представил парламенту проект бюджета на 2027 год. Предложено снизить налог на прибыль компаний с 16% до 15% для крупных предприятий и с 14% до 13% для малых и средних. Налоговую льготу для инвестиций в цифровой и энергетический переход предлагается повысить с 18% до 21%. Это бюджетные предложения, а не уже действующие ставки.\n\nПочему это важно: Группам с компаниями в Люксембурге стоит учитывать предложения при планировании инвестиций на 2027 год и следить за принятием закона.\n\nИсточник: https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+          "checked_at": "2026-10-11T09:13:28.470222+00:00",
+          "status_code": 200,
+          "final_url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+          "evidence": [
+            {
+              "claim": "7 октября 2026 года министр финансов представил парламенту проект бюджета на 2027 год. Предложено снизить налог на прибыль компаний с 16% до 15% для крупных предприятий и с 14% до 13% для малых и средних. Налоговую льготу для инвестиций в цифровой и энергетический переход предлагается повысить с 18% до 21%. Это бюджетные предложения, а не уже действующие ставки.",
+              "source_quote": "Communiqué Crée le 07.10.2026 Dernière modification le 07.10.2026 Le 7 octobre 2026, le ministre des Finances, Gilles Roth, a présenté à la Chambre des députés le projet de budget de l'État pour 2027 sous le leitmotiv \" Fir d'Leit. Fir Opschwong .\" (Pour les citoyens. Pour la relance.). Le budget 2027 mise sur le pouvoir d'achat, la cohésion sociale et le bien-être, tout en soutenant la croissance, la compétitivité et l'investissement. Avec plus de 4,5 milliards d'euros d'investissements publics, soit 4,4 % du PIB, le budget investit dans les citoyens, dans l'économie, dans les infrastructures et dans l'avenir du pays, tout en maintenant des finances publiques durables. Gilles Roth commente: \" Fir d'Leit. Fir Opschwong . Notre priorité est claire: investir dans les citoyens pour une croissance durable et inclusive du pays. Ce budget renforce notre modèle luxembourgeois, soutient le pouvoir d'achat de nos ménages, protège notre cohésion sociale et préserve des finances publiques saines. En ces temps d'incertitude, nous offrons de nouvelles perspectives et ouvrons la voie à la réforme fiscale instaurant une classe d'impôt unique.\" Un monde incertain et une économie sous pression Le budget 2027 s'inscrit dans un monde incertain et une économie sous pression. Les conflits armés ainsi que les tensions géopolitiques et géoéconomiques continuent de peser sur l'économie mondiale, qui demeure caractérisée par une croissance modérée. Cette situation a un impact direct sur l'Union européenne et sur l'économie de notre pays. Le Statec prévoit une croissance de 1,2 % en 2026 et de 1,9 % en 2027 pour le Luxembourg. Beaucoup d'incertitude concernant l'inflation qui, selon les prévisions actuelles, devrait s'établir à 1,8 % en 2026 avant d'atteindre 2,1 % en 2027. L'emploi devrait progresser de 1,9 % en 2027, tandis que le taux de chômage s'élèverait à 6,3 %. Chiffres-clés du budget 2027 Les recettes de l'Administration centrale devraient atteindre 33,9 milliards d'euros, contre des dépenses de 35,8 milliards d'euros en 2027. Le déficit s'établirait ainsi à environ 1,9 milliard d'euros. Au niveau des Administrations publiques, le déficit devrait s'établir à 570 millions d'euros, soit -0,6 % du PIB, contre -1,1 % du PIB estimé pour 2026. La Sécurité sociale devrait dégager un excédent de 920 millions d'euros et les Administrations locales de 459 millions d'euros. La dette publique restera sous la barre des 30 % du PIB et devrait diminuer de 29,3 % fin 2026 à 28,6 % en 2030. Une politique budgétaire anticyclique pour soutenir la croissance Dans un contexte de croissance modérée, le gouvernement poursuit une politique résolument anticyclique. L'objectif est de soutenir la croissance économique, le pouvoir d'achat des ménages et la compétitivité des entreprises, tout en préservant la solidité des finances publiques. Cette stratégie politique se traduit notamment par un nouveau niveau record d'investissements publics de plus de 4,5 milliards d'euros en 2027. Elle prévoit également des moyens supplémentaires pour renforcer la cohésion sociale et soutenir l'emploi, avec 400 millions d'euros additionnels par an consacrés au Plan d'action national contre la pauvreté, 206 millions d'euros supplémentaires pour le Fonds pour l'emploi et 168 millions d'euros supplémentaires destinés à l'assurance pension. Le PIB du bien-être, solidement ancré dans le budget Le budget 2027 poursuit le développement du PIB du bien-être comme outil d'orientation des politiques publiques. Les dépenses associées atteignent 6 milliards d'euros, soit 6 % du PIB et une progression de 24 % par rapport à 2026. Parmi ces dépenses, 4,3 milliards d'euros sont consacrés à la lutte contre le risque de pauvreté, 654 millions à la réduction des coûts du logement et 630 millions au soutien de l'emploi. Cette approche traduit la volonté du gouvernement de mesurer la prospérité non seulement à travers la croissance économique, mais également à travers le bien-être de la population. Les priorités du budget 2027 Les priorités budgétaires traduisent l'ambition portée par le leitmotiv du budget \"F ir d'Leit. Fir Opschwong \". 1. Un budget pour plus de cohésion sociale Le budget 2027 place les citoyens et les familles au coeur de l'action politique, en préservant le pouvoir d'achat, en luttant contre la pauvreté et en renforçant le modèle social luxembourgeois. 47 % du budget est consacré aux des dépenses aux transferts sociaux. L'accord tripartite \" Resilienzpak \" représente environ 450 millions d'euros de soutien aux ménages et à l'économie. Le salaire social minimum augmentera de 3,8 % au 1er janvier 2027. Ensemble avec l'augmentation du crédit d'impôt salaire social minimum, les salariés concernés disposeront de 180 euros nets de plus au 1er janvier 2027, voire 200 euros nets supplémentaires à partir de juillet 2027. Les familles constituent une priorité majeure. Le volume global des allocations familiales augmente de 152 millions d'euros en 2027, tandis que les dépenses de la Caisse pour l'avenir des enfants atteindront près de 1,8 milliard d'euros. La lutte contre la pauvreté est intensifiée avec la création du nouveau complément de vie chère, qui soutiendra environ 106.000 personnes, ainsi qu'un complément spécifique destiné à plus de 32.000 enfants. L'éducation et l'accueil des enfants mobiliseront 5,2 milliards d'euros, dont près de 1 milliard d'euros pour les structures d'accueil. Face aux défis du marché du travail, le Fonds pour l'emploi atteindra près de 1,5 milliard d'euros, avec un accent particulier sur l'emploi, la formation et l'insertion des jeunes. 2. Un budget pour de meilleures infrastructures Le budget 2027 accélère les investissements dans les infrastructures, en accompagnant la croissance du pays, en facilitant la mobilité et en améliorant la qualité de vie. Le logement demeure une priorité absolue. Le crédit d'impôt \" Bëllegen Akt \" sera porté à 45.000 euros par personne, tandis que 2,5 milliards d'euros seront investis dans le logement abordable entre 2027 et 2030. Un Housing Bond de 250 millions d'euros viendra compléter ces mesures. Dans le domaine de la mobilité, 825 millions d'euros seront investis via le Fonds du rail, 66 millions d'euros dans le tramway et 532 millions d'euros dans les infrastructures routières. La transformation numérique se poursuivra avec 1,4 milliard d'euros de dépenses de digitalisation entre 2027 et 2030. Les infrastructures de santé bénéficieront également d'un effort sans précédent, les dépenses du Fonds hospitalier passant de 234 millions d'euros en 2026 à 471 millions d'euros en 2030. 3. Un budget pour un Luxembourg compétitif Le budget 2027 crée les conditions d'une croissance durable, en renforçant l'attractivité du Luxembourg pour les entreprises, l'innovation et les talents. L'impôt sur le revenu des collectivités sera réduit d'un point, passant de 16 % à 15 % pour les grandes entreprises et de 14 % à 13 % pour les petites et moyennes entreprises. La bonification d'impôt pour les investissements liés aux transitions numérique et énergétique sera relevée de 18 % à 21 %. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+            "checked_at": "2026-10-11T09:13:28.470222+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2026/10-octobre/07-roth-budget.html",
+            "evidence": [
+              {
+                "claim": "7 октября 2026 года министр финансов представил парламенту проект бюджета на 2027 год. Предложено снизить налог на прибыль компаний с 16% до 15% для крупных предприятий и с 14% до 13% для малых и средних. Налоговую льготу для инвестиций в цифровой и энергетический переход предлагается повысить с 18% до 21%. Это бюджетные предложения, а не уже действующие ставки.",
+                "source_quote": "Communiqué Crée le 07.10.2026 Dernière modification le 07.10.2026 Le 7 octobre 2026, le ministre des Finances, Gilles Roth, a présenté à la Chambre des députés le projet de budget de l'État pour 2027 sous le leitmotiv \" Fir d'Leit. Fir Opschwong .\" (Pour les citoyens. Pour la relance.). Le budget 2027 mise sur le pouvoir d'achat, la cohésion sociale et le bien-être, tout en soutenant la croissance, la compétitivité et l'investissement. Avec plus de 4,5 milliards d'euros d'investissements publics, soit 4,4 % du PIB, le budget investit dans les citoyens, dans l'économie, dans les infrastructures et dans l'avenir du pays, tout en maintenant des finances publiques durables. Gilles Roth commente: \" Fir d'Leit. Fir Opschwong . Notre priorité est claire: investir dans les citoyens pour une croissance durable et inclusive du pays. Ce budget renforce notre modèle luxembourgeois, soutient le pouvoir d'achat de nos ménages, protège notre cohésion sociale et préserve des finances publiques saines. En ces temps d'incertitude, nous offrons de nouvelles perspectives et ouvrons la voie à la réforme fiscale instaurant une classe d'impôt unique.\" Un monde incertain et une économie sous pression Le budget 2027 s'inscrit dans un monde incertain et une économie sous pression. Les conflits armés ainsi que les tensions géopolitiques et géoéconomiques continuent de peser sur l'économie mondiale, qui demeure caractérisée par une croissance modérée. Cette situation a un impact direct sur l'Union européenne et sur l'économie de notre pays. Le Statec prévoit une croissance de 1,2 % en 2026 et de 1,9 % en 2027 pour le Luxembourg. Beaucoup d'incertitude concernant l'inflation qui, selon les prévisions actuelles, devrait s'établir à 1,8 % en 2026 avant d'atteindre 2,1 % en 2027. L'emploi devrait progresser de 1,9 % en 2027, tandis que le taux de chômage s'élèverait à 6,3 %. Chiffres-clés du budget 2027 Les recettes de l'Administration centrale devraient atteindre 33,9 milliards d'euros, contre des dépenses de 35,8 milliards d'euros en 2027. Le déficit s'établirait ainsi à environ 1,9 milliard d'euros. Au niveau des Administrations publiques, le déficit devrait s'établir à 570 millions d'euros, soit -0,6 % du PIB, contre -1,1 % du PIB estimé pour 2026. La Sécurité sociale devrait dégager un excédent de 920 millions d'euros et les Administrations locales de 459 millions d'euros. La dette publique restera sous la barre des 30 % du PIB et devrait diminuer de 29,3 % fin 2026 à 28,6 % en 2030. Une politique budgétaire anticyclique pour soutenir la croissance Dans un contexte de croissance modérée, le gouvernement poursuit une politique résolument anticyclique. L'objectif est de soutenir la croissance économique, le pouvoir d'achat des ménages et la compétitivité des entreprises, tout en préservant la solidité des finances publiques. Cette stratégie politique se traduit notamment par un nouveau niveau record d'investissements publics de plus de 4,5 milliards d'euros en 2027. Elle prévoit également des moyens supplémentaires pour renforcer la cohésion sociale et soutenir l'emploi, avec 400 millions d'euros additionnels par an consacrés au Plan d'action national contre la pauvreté, 206 millions d'euros supplémentaires pour le Fonds pour l'emploi et 168 millions d'euros supplémentaires destinés à l'assurance pension. Le PIB du bien-être, solidement ancré dans le budget Le budget 2027 poursuit le développement du PIB du bien-être comme outil d'orientation des politiques publiques. Les dépenses associées atteignent 6 milliards d'euros, soit 6 % du PIB et une progression de 24 % par rapport à 2026. Parmi ces dépenses, 4,3 milliards d'euros sont consacrés à la lutte contre le risque de pauvreté, 654 millions à la réduction des coûts du logement et 630 millions au soutien de l'emploi. Cette approche traduit la volonté du gouvernement de mesurer la prospérité non seulement à travers la croissance économique, mais également à travers le bien-être de la population. Les priorités du budget 2027 Les priorités budgétaires traduisent l'ambition portée par le leitmotiv du budget \"F ir d'Leit. Fir Opschwong \". 1. Un budget pour plus de cohésion sociale Le budget 2027 place les citoyens et les familles au coeur de l'action politique, en préservant le pouvoir d'achat, en luttant contre la pauvreté et en renforçant le modèle social luxembourgeois. 47 % du budget est consacré aux des dépenses aux transferts sociaux. L'accord tripartite \" Resilienzpak \" représente environ 450 millions d'euros de soutien aux ménages et à l'économie. Le salaire social minimum augmentera de 3,8 % au 1er janvier 2027. Ensemble avec l'augmentation du crédit d'impôt salaire social minimum, les salariés concernés disposeront de 180 euros nets de plus au 1er janvier 2027, voire 200 euros nets supplémentaires à partir de juillet 2027. Les familles constituent une priorité majeure. Le volume global des allocations familiales augmente de 152 millions d'euros en 2027, tandis que les dépenses de la Caisse pour l'avenir des enfants atteindront près de 1,8 milliard d'euros. La lutte contre la pauvreté est intensifiée avec la création du nouveau complément de vie chère, qui soutiendra environ 106.000 personnes, ainsi qu'un complément spécifique destiné à plus de 32.000 enfants. L'éducation et l'accueil des enfants mobiliseront 5,2 milliards d'euros, dont près de 1 milliard d'euros pour les structures d'accueil. Face aux défis du marché du travail, le Fonds pour l'emploi atteindra près de 1,5 milliard d'euros, avec un accent particulier sur l'emploi, la formation et l'insertion des jeunes. 2. Un budget pour de meilleures infrastructures Le budget 2027 accélère les investissements dans les infrastructures, en accompagnant la croissance du pays, en facilitant la mobilité et en améliorant la qualité de vie. Le logement demeure une priorité absolue. Le crédit d'impôt \" Bëllegen Akt \" sera porté à 45.000 euros par personne, tandis que 2,5 milliards d'euros seront investis dans le logement abordable entre 2027 et 2030. Un Housing Bond de 250 millions d'euros viendra compléter ces mesures. Dans le domaine de la mobilité, 825 millions d'euros seront investis via le Fonds du rail, 66 millions d'euros dans le tramway et 532 millions d'euros dans les infrastructures routières. La transformation numérique se poursuivra avec 1,4 milliard d'euros de dépenses de digitalisation entre 2027 et 2030. Les infrastructures de santé bénéficieront également d'un effort sans précédent, les dépenses du Fonds hospitalier passant de 234 millions d'euros en 2026 à 471 millions d'euros en 2030. 3. Un budget pour un Luxembourg compétitif Le budget 2027 crée les conditions d'une croissance durable, en renforçant l'attractivité du Luxembourg pour les entreprises, l'innovation et les talents. L'impôt sur le revenu des collectivités sera réduit d'un point, passant de 16 % à 15 % pour les grandes entreprises et de 14 % à 13 % pour les petites et moyennes entreprises. La bonification d'impôt pour les investissements liés aux transitions numérique et énergétique sera relevée de 18 % à 21 %. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-lu-budget2027-corporate-tax-proposal-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: опубликованы поправки к таможенной аккредитации клиентов",
+      "sources": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+          "name": "Налоговая служба ЮАР"
+        }
+      ],
+      "theme": "Опубликованные поправки к таможенной аккредитации",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "Уведомление R.7992 от 09.10.2026, GG 55506; DAR281; разделы 64E и 120",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+        "source_quote": "9 October 2026 New! GG 55506 R.7992 Amendments to rules under sections 64E and 120 – Accreditation of clients (DAR281) Notice R.7992 With retrospective effect from 1 September 2025"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "za-dar281-r7992-gazetted-20261009",
+        "cross_border_relevance": "Аккредитация относится к таможенному оформлению внешнеторговых операций. Каталог 08.10 содержит анонс будущей публикации DAR281: новый существенный факт — официальная публикация R.7992/GG55506 09.10 и дата обратного действия. Связь с прошлой новостью указана в подписи; детали неподтверждённого PDF не используются."
+      },
+      "slug": "2026-10-11_1300_-za-dar281-r7992-gazetted-20261009",
+      "caption": "ЮАР: опубликованы поправки к таможенной аккредитации клиентов\n\n9 октября 2026 года опубликовано уведомление R.7992 в правительственном вестнике № 55506: поправки к правилам по разделам 64E и 120 об аккредитации клиентов, DAR281. В официальном перечне SARS указано обратное действие с 1 сентября 2025 года.\n\nПочему это важно: Ранее мы сообщали об ожидаемой публикации. Теперь участникам внешней торговли следует сверить процедуры аккредитации с опубликованным актом, отдельно учитывая указанную ретроактивную дату.\n\nИсточник: https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+          "checked_at": "2026-10-11T09:13:28.572117+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года опубликовано уведомление R.7992 в правительственном вестнике № 55506: поправки к правилам по разделам 64E и 120 об аккредитации клиентов, DAR281. В официальном перечне SARS указано обратное действие с 1 сентября 2025 года.",
+              "source_quote": "9 October 2026 New! GG 55506 R.7992 Amendments to rules under sections 64E and 120 – Accreditation of clients (DAR281) Notice R.7992 With retrospective effect from 1 September 2025"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+            "checked_at": "2026-10-11T09:13:28.572117+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/rule-amendments/rule-amendments-2026/",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года опубликовано уведомление R.7992 в правительственном вестнике № 55506: поправки к правилам по разделам 64E и 120 об аккредитации клиентов, DAR281. В официальном перечне SARS указано обратное действие с 1 сентября 2025 года.",
+                "source_quote": "9 October 2026 New! GG 55506 R.7992 Amendments to rules under sections 64E and 120 – Accreditation of clients (DAR281) Notice R.7992 With retrospective effect from 1 September 2025"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-za-dar281-r7992-gazetted-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Южная Корея: предварительный расчёт субсидий на сталь",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+          "name": "Федеральный реестр США"
+        }
+      ],
+      "theme": "Предварительный компенсационный пересмотр корейской стали",
+      "jurisdictions": [
+        "США",
+        "Южная Корея"
+      ],
+      "act": "C-580-879; FR Doc. 2026-20699; предварительные результаты компенсационного пересмотра за 2024 год",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "us-korea-core-cvd-prelim2024-20261008",
+        "cross_border_relevance": "Мера относится к импорту корейской стали в США. Сверены отдельное дело C-580-879, компенсационная процедура и дата публикации. Предварительный статус сохранён; параллельное антидемпинговое дело по тому же товару оставлено в резерве ради тематического баланса."
+      },
+      "slug": "2026-10-11_1300_-us-korea-core-cvd-prelim2024-20261008",
+      "caption": "США и Южная Корея: предварительный расчёт субсидий на сталь\n\n8 октября опубликованы предварительные результаты компенсационного пересмотра C-580-879 по коррозионностойкой стали из Южной Кореи за 2024 год. Расчётные уровни субсидирования: 0,58% для «Хёндэ Стил», 4,82% для «Кей Джи Донбу Стил» и 2,22% для компаний без индивидуальной проверки. Заинтересованным сторонам предложено представить комментарии.\n\nПочему это важно: Экспортёрам и импортёрам следует оценить расчёты и возможность представить замечания. Эти предварительные показатели не следует считать окончательными новыми ставками пошлины.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+          "checked_at": "2026-10-11T09:13:44.288486+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+          "evidence": [
+            {
+              "claim": "8 октября опубликованы предварительные результаты компенсационного пересмотра C-580-879 по коррозионностойкой стали из Южной Кореи за 2024 год. Расчётные уровни субсидирования: 0,58% для «Хёндэ Стил», 4,82% для «Кей Джи Донбу Стил» и 2,22% для компаний без индивидуальной проверки. Заинтересованным сторонам предложено представить комментарии.",
+              "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64353-64355] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20699] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-580-879] Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Recission, In Part, of Countervailing Duty Administrative Review; 2024 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of certain corrosion-resistant steel products (CORE) from the Republic of Korea (Korea), during the period of review (POR) January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review with respect to Dongkuk Coated Metal Co., Ltd (Dongkuk CM). Interested parties are invited to comment on these preliminary results. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Henry Wolfe, AD/CVD Operations, Office VIII, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW Washington, DC 20230; telephone: (202) 482-0574. SUPPLEMENTARY INFORMATION: Background On July 25, 2016, Commerce published a countervailing duty (CVD) order on CORE from Korea.\\1\\ On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i), Commerce initiated an administrative review of the Order.\\2\\ On September 30, 2025, Commerce selected Hyundai Steel Company (Hyundai Steel) and KG Dongbu Steel Co., Ltd (KG Dongbu Steel) as the mandatory respondents in this review.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Corrosion-Resistant Steel Products from India, Italy Republic of Korea and the People's Republic of China: Countervailing Duty Order, 81 FR 48387 (July 25, 2016) (Order). \\2\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews 90 FR 41043 (August 22, 2025); see also Order. \\3\\ See Memorandum, ``Respondent Selection,'' dated September 30, 2025. --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\4\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\5\\ On May 14, 2026, we extended the deadline for the preliminary results of this review until September 30, 2026.\\6\\ On September 25, 2026, we extended the deadline for the preliminary results of this review an additional five days.\\7\\ Accordingly, the deadline for these preliminary results is now October 5, 2026. --------------------------------------------------------------------------- \\4\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\5 \\ See Memorandum, ``Tolling of All Case Deadlines,'' dated November 24, 2025. \\6\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Countervailing Duty Administrative Review,'' dated May 14, 2026. \\7\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Countervailing Duty Administrative Review,'' dated September 25, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum.\\8\\ A list of topics included in the Preliminary Decision Memorandum is provided in Appendix I. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Administrative Review of the Countervailing Duty Order on Certain Corrosion-Resistant Steel Products from the Republic of Korea; 2024,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The product covered by the Order is CORE from Korea. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Recission of Administrative Review, In Part In accordance with 19 CFR 351.213(d)(1), Commerce will rescind an administrative review, in whole or in part, if all parties that requested the review withdraw their requests within 90 days of the date of publication of the notice of initiation of the requested review. Commerce received a timely-filed withdrawal request with respect to Dongkuk CM. Because the withdrawal request was timely filed, and no other parties requested a review of this [[Page 64354]] company, in accordance with 19 CFR 351.213(d)(1), Commerce is rescinding this review of the Order with respect to Dongkuk CM. Methodology Commerce is conducting this administrative review in accordance with 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each of the subsidy programs found countervailable, Commerce preliminarily determines that there is a subsidy, i.e., a financial contribution by an ``authority'' that gives rise to a benefit to the recipient, and that the subsidy is specific.\\9\\ For a full description of the methodology underlying our preliminary results, see the Preliminary Decision Memorandum. --------------------------------------------------------------------------- \\9\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Rate for Non-Individually Examined Companies The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(e)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non- selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2), which generally parallels the process for determining the all-others rate in an investigation under section 705(c)(5) of the Act. Section 705(c)(5)(A) of the Act and 19 CFR 351.109(f) state that for companies not investigated, in general, we will determine an all-others rate by weight averaging the countervailable subsidy rates established for each of the companies individually investigated, excluding zero and de minimis rates or any rates based entirely on facts available. Accordingly, to determine the rate for companies not selected for individual examination, Commerce's practice is to weight-average the net subsidy rates for the selected mandatory respondents, excluding rates that are zero, de minimis, or based entirely on facts available.\\10\\ In this administrative review, we preliminarily calculated countervailable subsidy rates for the mandatory respondents, Hyundai Steel and KG Dongbu Steel, that are not zero, de minimis, or based entirely on facts available. Accordingly, we are preliminarily assigning to the companies under review that were not selected for individual examination a countervailable subsidy rate equal to the weighted average of the countervailable subsidy rates calculated for Hyundai Steel and KG Dongbu Steel, weighted by the mandatory respondents' publicly ranged sales values for the merchandise under consideration, consistent with the guidance in section 705(c)(5)(A)(i) of the Act.\\11\\ --------------------------------------------------------------------------- \\10\\ See, e.g., Certain Pasta from Italy: Final Results of the 13th (2008) Countervailing Duty Administrative Review,75 FR 37386, 37387 (June 29, 2010). \\11 \\ With two respondents under examination, Commerce normally calculates: (A) a weighted-average of the estimated subsidy rates calculated for the examined respondents; (B) a simple average of the estimated subsidy rates calculated for the examined respondents; and (C) a weighted-average of the estimated subsidy rates calculated for the examined respondents using each company's publicly-ranged U.S. sales values for the merchandise under consideration. Commerce then compares (B) and (C) to (A) and selects the rate closest to (A) as the most appropriate rate for all other producers and exporters. See 19 CFR 351.109(f)(2)(ii). See also Memorandum, ``Calculation of the Weighted Average Subsidy Rate for the Companies Not Selected for Individual Examination,'' dated concurrently with this notice. --------------------------------------------------------------------------- Preliminary Results of Review In accordance with 19 CFR 351.221(b)(4)(i), we preliminarily determine the following net countervailable subsidy rates exist for the POR, January 01, 2024, through December 31, 2024. ------------------------------------------------------------------------ Subsidy rate Company (percent ad valorem) ------------------------------------------------------------------------ Hyundai Steel Company \\12\\.............................. 0.58 KG Dongbu Steel Co., Ltd.\\13\\........................... 4.82 Companies Not Selected for Individual Review \\14\\....... 2.22 ------------------------------------------------------------------------"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+            "checked_at": "2026-10-11T09:13:44.288486+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20699.htm",
+            "evidence": [
+              {
+                "claim": "8 октября опубликованы предварительные результаты компенсационного пересмотра C-580-879 по коррозионностойкой стали из Южной Кореи за 2024 год. Расчётные уровни субсидирования: 0,58% для «Хёндэ Стил», 4,82% для «Кей Джи Донбу Стил» и 2,22% для компаний без индивидуальной проверки. Заинтересованным сторонам предложено представить комментарии.",
+                "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64353-64355] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20699] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-580-879] Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Recission, In Part, of Countervailing Duty Administrative Review; 2024 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of certain corrosion-resistant steel products (CORE) from the Republic of Korea (Korea), during the period of review (POR) January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review with respect to Dongkuk Coated Metal Co., Ltd (Dongkuk CM). Interested parties are invited to comment on these preliminary results. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Henry Wolfe, AD/CVD Operations, Office VIII, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW Washington, DC 20230; telephone: (202) 482-0574. SUPPLEMENTARY INFORMATION: Background On July 25, 2016, Commerce published a countervailing duty (CVD) order on CORE from Korea.\\1\\ On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i), Commerce initiated an administrative review of the Order.\\2\\ On September 30, 2025, Commerce selected Hyundai Steel Company (Hyundai Steel) and KG Dongbu Steel Co., Ltd (KG Dongbu Steel) as the mandatory respondents in this review.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Corrosion-Resistant Steel Products from India, Italy Republic of Korea and the People's Republic of China: Countervailing Duty Order, 81 FR 48387 (July 25, 2016) (Order). \\2\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews 90 FR 41043 (August 22, 2025); see also Order. \\3\\ See Memorandum, ``Respondent Selection,'' dated September 30, 2025. --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\4\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\5\\ On May 14, 2026, we extended the deadline for the preliminary results of this review until September 30, 2026.\\6\\ On September 25, 2026, we extended the deadline for the preliminary results of this review an additional five days.\\7\\ Accordingly, the deadline for these preliminary results is now October 5, 2026. --------------------------------------------------------------------------- \\4\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\5 \\ See Memorandum, ``Tolling of All Case Deadlines,'' dated November 24, 2025. \\6\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Countervailing Duty Administrative Review,'' dated May 14, 2026. \\7\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Countervailing Duty Administrative Review,'' dated September 25, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum.\\8\\ A list of topics included in the Preliminary Decision Memorandum is provided in Appendix I. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Administrative Review of the Countervailing Duty Order on Certain Corrosion-Resistant Steel Products from the Republic of Korea; 2024,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The product covered by the Order is CORE from Korea. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Recission of Administrative Review, In Part In accordance with 19 CFR 351.213(d)(1), Commerce will rescind an administrative review, in whole or in part, if all parties that requested the review withdraw their requests within 90 days of the date of publication of the notice of initiation of the requested review. Commerce received a timely-filed withdrawal request with respect to Dongkuk CM. Because the withdrawal request was timely filed, and no other parties requested a review of this [[Page 64354]] company, in accordance with 19 CFR 351.213(d)(1), Commerce is rescinding this review of the Order with respect to Dongkuk CM. Methodology Commerce is conducting this administrative review in accordance with 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each of the subsidy programs found countervailable, Commerce preliminarily determines that there is a subsidy, i.e., a financial contribution by an ``authority'' that gives rise to a benefit to the recipient, and that the subsidy is specific.\\9\\ For a full description of the methodology underlying our preliminary results, see the Preliminary Decision Memorandum. --------------------------------------------------------------------------- \\9\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Rate for Non-Individually Examined Companies The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(e)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non- selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2), which generally parallels the process for determining the all-others rate in an investigation under section 705(c)(5) of the Act. Section 705(c)(5)(A) of the Act and 19 CFR 351.109(f) state that for companies not investigated, in general, we will determine an all-others rate by weight averaging the countervailable subsidy rates established for each of the companies individually investigated, excluding zero and de minimis rates or any rates based entirely on facts available. Accordingly, to determine the rate for companies not selected for individual examination, Commerce's practice is to weight-average the net subsidy rates for the selected mandatory respondents, excluding rates that are zero, de minimis, or based entirely on facts available.\\10\\ In this administrative review, we preliminarily calculated countervailable subsidy rates for the mandatory respondents, Hyundai Steel and KG Dongbu Steel, that are not zero, de minimis, or based entirely on facts available. Accordingly, we are preliminarily assigning to the companies under review that were not selected for individual examination a countervailable subsidy rate equal to the weighted average of the countervailable subsidy rates calculated for Hyundai Steel and KG Dongbu Steel, weighted by the mandatory respondents' publicly ranged sales values for the merchandise under consideration, consistent with the guidance in section 705(c)(5)(A)(i) of the Act.\\11\\ --------------------------------------------------------------------------- \\10\\ See, e.g., Certain Pasta from Italy: Final Results of the 13th (2008) Countervailing Duty Administrative Review,75 FR 37386, 37387 (June 29, 2010). \\11 \\ With two respondents under examination, Commerce normally calculates: (A) a weighted-average of the estimated subsidy rates calculated for the examined respondents; (B) a simple average of the estimated subsidy rates calculated for the examined respondents; and (C) a weighted-average of the estimated subsidy rates calculated for the examined respondents using each company's publicly-ranged U.S. sales values for the merchandise under consideration. Commerce then compares (B) and (C) to (A) and selects the rate closest to (A) as the most appropriate rate for all other producers and exporters. See 19 CFR 351.109(f)(2)(ii). See also Memorandum, ``Calculation of the Weighted Average Subsidy Rate for the Companies Not Selected for Individual Examination,'' dated concurrently with this notice. --------------------------------------------------------------------------- Preliminary Results of Review In accordance with 19 CFR 351.221(b)(4)(i), we preliminarily determine the following net countervailable subsidy rates exist for the POR, January 01, 2024, through December 31, 2024. ------------------------------------------------------------------------ Subsidy rate Company (percent ad valorem) ------------------------------------------------------------------------ Hyundai Steel Company \\12\\.............................. 0.58 KG Dongbu Steel Co., Ltd.\\13\\........................... 4.82 Companies Not Selected for Individual Review \\14\\....... 2.22 ------------------------------------------------------------------------"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-us-korea-core-cvd-prelim2024-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Тайвань и США: нулевая предварительная маржа по бумажным пакетам",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+          "name": "Федеральный реестр США"
+        }
+      ],
+      "theme": "Предварительный антидемпинговый пересмотр бумажных пакетов",
+      "jurisdictions": [
+        "Тайвань",
+        "США"
+      ],
+      "act": "A-583-872; FR Doc. 2026-20691; предварительные результаты пересмотра за 2024–2025 годы",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "us-taiwan-paperbags-prelim20261008",
+        "cross_border_relevance": "Мера относится к импорту тайваньских бумажных пакетов в США. A-583-872 — отдельная страна происхождения, участник и дело относительно прежних публикаций по Колумбии, Индии, Малайзии и Камбодже. Предварительная нулевая маржа не подменяет отмену пошлины."
+      },
+      "slug": "2026-10-11_1300_-us-taiwan-paperbags-prelim20261008",
+      "caption": "Тайвань и США: нулевая предварительная маржа по бумажным пакетам\n\n8 октября 2026 года опубликованы предварительные результаты пересмотра A-583-872 по бумажным пакетам из Тайваня за период 03.01.2024–30.06.2025. Для компании «Хаур Тай» рассчитана демпинговая маржа 0,00%. Пересмотр в отношении ещё пяти компаний прекращён после отзыва всех заявок. Стороны могут комментировать предварительный результат.\n\nПочему это важно: Нулевая предварительная маржа одного производителя не означает отмены меры для всех тайваньских поставщиков. Участникам поставок стоит проверить своё участие в пересмотре.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+          "checked_at": "2026-10-11T09:13:44.889472+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года опубликованы предварительные результаты пересмотра A-583-872 по бумажным пакетам из Тайваня за период 03.01.2024–30.06.2025. Для компании «Хаур Тай» рассчитана демпинговая маржа 0,00%. Пересмотр в отношении ещё пяти компаний прекращён после отзыва всех заявок. Стороны могут комментировать предварительный результат.",
+              "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64339-64341] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20691] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-583-872] Certain Paper Shopping Bags From Taiwan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024- 2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain paper shopping bags (paper bags) from Taiwan for the period of review (POR) January 3, 2024, through June 30, 2025. Commerce preliminarily finds that Haur Tyi Paper Bag Co., Ltd (Haurtyi) did not make sales of subject merchandise at prices below normal value (NV) during the POR. Additionally, we are rescinding this review, in part, with respect to five companies for which all [[Page 64340]] requests for review were withdrawn. We invite interested parties to comment on these preliminary results. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Nathan James, AD/CVD Operations, Office V, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-5305. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, Commerce initiated an administrative review of the AD order on paper bags,\\1\\ in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act).\\2\\ This review covers six producers/exporters of subject merchandise.\\3\\ Commerce selected one mandatory respondent for individual examination, Haurtyi.\\4\\ --------------------------------------------------------------------------- \\1\\ See Certain Paper Shopping Bags from Cambodia, Colombia, India, Malaysia, Portugal, Taiwan, the People's Republic of China, and the Socialist Republic of Vietnam: Antidumping Duty Orders, 89 FR 58334 (July 18, 2024) (Order). \\2\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews, 90 FR 41043 (August 22, 2025). \\3\\ Id. \\4\\ See Memorandum, ``Respondent Selection,'' dated September 30, 2025. --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\5\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\6\\ Further, on May 28, 2026, we extended the deadline for completing the preliminary results of this review by 113 days, until September 30, 2026.\\7\\ --------------------------------------------------------------------------- \\5\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\6\\ See Memorandum, ``Tolling of all Case Deadlines,'' dated November 24, 2025. \\7\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review; 2024-2025,'' dated May 28, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of the review, see the Preliminary Decision Memorandum.\\8\\ A list of the topics discussed in the Preliminary Decision Memorandum is included as the appendix to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Antidumping Duty Administrative Review of Certain Paper Shopping Bags from Taiwan; 2024-2025,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The product covered by the scope of the Order is paper bags from Taiwan. For a full description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part In accordance with 19 CFR 351.213(d)(1), Commerce will rescind an administrative review, in whole or in part, if all parties that requested the review withdraw their requests within 90 days of the date of publication of the notice of initiation of the requested review. Commerce received timely filed withdrawal requests with respect to Chung Tai Bag King Corporation, Chyan Tay International Corp, Toolsworks International Ltd., Xiamen Yasili Trade Co., Ltd., and Zheng Da Paper Industry Co., Ltd., pursuant to 19 CFR 351.213(d)(1).\\9\\ Because the withdrawal requests were timely filed, and no other parties requested a review of these companies, in accordance with 19 CFR 351.213(d)(1), Commerce is rescinding this administrative review with respect to these five companies. --------------------------------------------------------------------------- \\9\\ See Petitioner's Letters, ``Withdrawal of Request for Administrative Review,'' dated January 27, 2026 (two filings). --------------------------------------------------------------------------- Methodology Commerce is conducting this review in accordance with section 751(a) of the Act. Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Preliminary Results of the Review Commerce preliminarily determines that the following estimated weighted-average dumping margin exists for the period January 3, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted-average Exporter/producer dumping margin (percent) ------------------------------------------------------------------------ Haur Tyi Paper Bag Co., Ltd......................... 0.00 ------------------------------------------------------------------------"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+            "checked_at": "2026-10-11T09:13:44.889472+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20691.htm",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года опубликованы предварительные результаты пересмотра A-583-872 по бумажным пакетам из Тайваня за период 03.01.2024–30.06.2025. Для компании «Хаур Тай» рассчитана демпинговая маржа 0,00%. Пересмотр в отношении ещё пяти компаний прекращён после отзыва всех заявок. Стороны могут комментировать предварительный результат.",
+                "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64339-64341] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20691] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-583-872] Certain Paper Shopping Bags From Taiwan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024- 2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) is conducting an administrative review of the antidumping duty (AD) order on certain paper shopping bags (paper bags) from Taiwan for the period of review (POR) January 3, 2024, through June 30, 2025. Commerce preliminarily finds that Haur Tyi Paper Bag Co., Ltd (Haurtyi) did not make sales of subject merchandise at prices below normal value (NV) during the POR. Additionally, we are rescinding this review, in part, with respect to five companies for which all [[Page 64340]] requests for review were withdrawn. We invite interested parties to comment on these preliminary results. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Nathan James, AD/CVD Operations, Office V, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-5305. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, Commerce initiated an administrative review of the AD order on paper bags,\\1\\ in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act).\\2\\ This review covers six producers/exporters of subject merchandise.\\3\\ Commerce selected one mandatory respondent for individual examination, Haurtyi.\\4\\ --------------------------------------------------------------------------- \\1\\ See Certain Paper Shopping Bags from Cambodia, Colombia, India, Malaysia, Portugal, Taiwan, the People's Republic of China, and the Socialist Republic of Vietnam: Antidumping Duty Orders, 89 FR 58334 (July 18, 2024) (Order). \\2\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews, 90 FR 41043 (August 22, 2025). \\3\\ Id. \\4\\ See Memorandum, ``Respondent Selection,'' dated September 30, 2025. --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\5\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\6\\ Further, on May 28, 2026, we extended the deadline for completing the preliminary results of this review by 113 days, until September 30, 2026.\\7\\ --------------------------------------------------------------------------- \\5\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\6\\ See Memorandum, ``Tolling of all Case Deadlines,'' dated November 24, 2025. \\7\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review; 2024-2025,'' dated May 28, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of the review, see the Preliminary Decision Memorandum.\\8\\ A list of the topics discussed in the Preliminary Decision Memorandum is included as the appendix to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Antidumping Duty Administrative Review of Certain Paper Shopping Bags from Taiwan; 2024-2025,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The product covered by the scope of the Order is paper bags from Taiwan. For a full description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part In accordance with 19 CFR 351.213(d)(1), Commerce will rescind an administrative review, in whole or in part, if all parties that requested the review withdraw their requests within 90 days of the date of publication of the notice of initiation of the requested review. Commerce received timely filed withdrawal requests with respect to Chung Tai Bag King Corporation, Chyan Tay International Corp, Toolsworks International Ltd., Xiamen Yasili Trade Co., Ltd., and Zheng Da Paper Industry Co., Ltd., pursuant to 19 CFR 351.213(d)(1).\\9\\ Because the withdrawal requests were timely filed, and no other parties requested a review of these companies, in accordance with 19 CFR 351.213(d)(1), Commerce is rescinding this administrative review with respect to these five companies. --------------------------------------------------------------------------- \\9\\ See Petitioner's Letters, ``Withdrawal of Request for Administrative Review,'' dated January 27, 2026 (two filings). --------------------------------------------------------------------------- Methodology Commerce is conducting this review in accordance with section 751(a) of the Act. Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Preliminary Results of the Review Commerce preliminarily determines that the following estimated weighted-average dumping margin exists for the period January 3, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted-average Exporter/producer dumping margin (percent) ------------------------------------------------------------------------ Haur Tyi Paper Bag Co., Ltd......................... 0.00 ------------------------------------------------------------------------"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-us-taiwan-paperbags-prelim20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: итог пятилетнего пересмотра мер по метионину",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+          "name": "Федеральный реестр США"
+        }
+      ],
+      "theme": "Окончательные результаты пятилетнего пересмотра метионина",
+      "jurisdictions": [
+        "США",
+        "Франция",
+        "Япония",
+        "Испания"
+      ],
+      "act": "A-427-831, A-588-879, A-469-822; FR Doc. 2026-20384; первый ускоренный пятилетний пересмотр",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "us-methionine-ad-firstsunset-20261005",
+        "cross_border_relevance": "Меры относятся к поставкам метионина из Франции, Японии и Испании в США. Прочитан официальный новый результат пересмотра, опубликованный 05.10; прогноз вероятной маржи при отмене мер не назван действующей ставкой или самостоятельным продлением меры."
+      },
+      "slug": "2026-10-11_1300_-us-methionine-ad-firstsunset-20261005",
+      "caption": "США: итог пятилетнего пересмотра мер по метионину\n\n5 октября 2026 года опубликованы окончательные результаты первого ускоренного пятилетнего пересмотра антидемпинговых мер по метионину из Франции, Японии и Испании. Минторг США считает, что отмена мер вероятно привела бы к продолжению или возобновлению демпинга. В оценке указаны маржи до 43,82%, 76,50% и 37,53% соответственно.\n\nПочему это важно: Поставщикам стоит учитывать выводы пересмотра при планировании экспорта в США. Указанные прогнозные маржи не являются новыми ставками пошлины.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+          "checked_at": "2026-10-11T09:13:45.246199+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликованы окончательные результаты первого ускоренного пятилетнего пересмотра антидемпинговых мер по метионину из Франции, Японии и Испании. Минторг США считает, что отмена мер вероятно привела бы к продолжению или возобновлению демпинга. В оценке указаны маржи до 43,82%, 76,50% и 37,53% соответственно.",
+              "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026) [Federal Register Volume 91, Number 191 (Monday, October 5, 2026)] [Notices] [Pages 63273-63274] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20384] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-427-831, A-588-879, A-469-822] Methionine From France, Japan, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on methionine from France, Japan, and Spain would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the ``Final Results of Sunset Reviews'' section of this notice. DATES: Applicable October 5, 2026. FOR FURTHER INFORMATION CONTACT: Scott Davison, AD/CVD Operations, Office IV, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1015. SUPPLEMENTARY INFORMATION: Background On July 13, 2021, Commerce published the France Order,\\1 \\and on September 14, 2021, Commerce published the Japan and Spain Orders, in the Federal Register. On June 1, 2026, Commerce published the notice of initiation of the first sunset review of the Orders, pursuant to section 751(c) of the Tariff Act of 1930, as amended (the Act).\\2\\ --------------------------------------------------------------------------- \\1\\ See Methionine from France: Antidumping Duty Order 86 FR 36705 (July 13, 2021 (France Order); see also Methionine from Japan and Spain: Antidumping Duty Orders, 86 FR 51119 (September 14, 2021) (Japan and Spain Orders) (collectively, Orders). \\2\\ See Initiation of Five-Year (Sunset) Reviews, 91 FR 32376 (June 1, 2026). --------------------------------------------------------------------------- On June 15, 2026, Commerce received a timely and complete notice of intent to participate in the sunset review from Novus International within the deadline specified in the 19 CFR 351.218(d)(1)(i).\\3 \\Novus International [[Page 63274]] claimed interested party status under section 771(9)(C) of the Act as manufacturers, producers, and wholesalers of a domestic like product in the United States. On July 1, 2026, pursuant to 19 CFR 351.218(d)(3)(i), Novus International filed a timely and adequate substantive response.\\4\\ --------------------------------------------------------------------------- \\3\\ See Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from France,'' dated June 15, 2026; see also Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from Japan,'' dated June 15, 2026; see also Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from Spain,'' dated June 15, 2026. \\4\\ See Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from France: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026; see also Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from Japan: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026; see also Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from Spain: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026. --------------------------------------------------------------------------- Commerce did not receive a substantive response from any respondent interested party. On July 27, 2026, Commerce notified the International Trade Commission (ITC) that it did not receive substantive response from any respondent interested parties \\5\\ As a result, pursuant to section 751(c)(3)(B) of the Act and 19 CFR 351.218(e)(1)(ii)(C)(2), Commerce is conducting expedited (120-day) sunset reviews of the Orders. --------------------------------------------------------------------------- \\5\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 21, 2026'' dated July 27, 2026. --------------------------------------------------------------------------- Scope of the Orders The product covered by these Orders is methionine from France, Japan, and Spain. For the full description of the scope of the Orders, see the Issues and Decisions Memorandum.\\6\\ --------------------------------------------------------------------------- \\6\\ See Memorandum, ``Issues and Decision Memorandum for the Final Results of the Expedited First Sunset Review of the Antidumping Duty Orders on Methionine from France, Japan, and Spain,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Analysis of Comments Received A complete discussion of all issues raised in this sunset review, including the likelihood of continuation or recurrence of dumping in the event of revocation of the Orders and the magnitude of the margins likely to prevail if the Orders were to be revoked, is provided in the Issues and Decision Memorandum.\\7\\ A list of the topics discussed in the Issues and Decision Memorandum is attached in the appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System, which is available to registered users at https://access.trade.gov . In addition, complete versions of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\7\\ Id. --------------------------------------------------------------------------- Final Results of Sunset Reviews Pursuant to sections 751(c)(1), 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Orders would be likely to lead to continuation or recurrence of dumping and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 43.82 percent for France, 76.50 percent for Japan, and 37.53 percent for Spain."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+            "checked_at": "2026-10-11T09:13:45.246199+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20384.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликованы окончательные результаты первого ускоренного пятилетнего пересмотра антидемпинговых мер по метионину из Франции, Японии и Испании. Минторг США считает, что отмена мер вероятно привела бы к продолжению или возобновлению демпинга. В оценке указаны маржи до 43,82%, 76,50% и 37,53% соответственно.",
+                "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026) [Federal Register Volume 91, Number 191 (Monday, October 5, 2026)] [Notices] [Pages 63273-63274] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20384] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-427-831, A-588-879, A-469-822] Methionine From France, Japan, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on methionine from France, Japan, and Spain would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the ``Final Results of Sunset Reviews'' section of this notice. DATES: Applicable October 5, 2026. FOR FURTHER INFORMATION CONTACT: Scott Davison, AD/CVD Operations, Office IV, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1015. SUPPLEMENTARY INFORMATION: Background On July 13, 2021, Commerce published the France Order,\\1 \\and on September 14, 2021, Commerce published the Japan and Spain Orders, in the Federal Register. On June 1, 2026, Commerce published the notice of initiation of the first sunset review of the Orders, pursuant to section 751(c) of the Tariff Act of 1930, as amended (the Act).\\2\\ --------------------------------------------------------------------------- \\1\\ See Methionine from France: Antidumping Duty Order 86 FR 36705 (July 13, 2021 (France Order); see also Methionine from Japan and Spain: Antidumping Duty Orders, 86 FR 51119 (September 14, 2021) (Japan and Spain Orders) (collectively, Orders). \\2\\ See Initiation of Five-Year (Sunset) Reviews, 91 FR 32376 (June 1, 2026). --------------------------------------------------------------------------- On June 15, 2026, Commerce received a timely and complete notice of intent to participate in the sunset review from Novus International within the deadline specified in the 19 CFR 351.218(d)(1)(i).\\3 \\Novus International [[Page 63274]] claimed interested party status under section 771(9)(C) of the Act as manufacturers, producers, and wholesalers of a domestic like product in the United States. On July 1, 2026, pursuant to 19 CFR 351.218(d)(3)(i), Novus International filed a timely and adequate substantive response.\\4\\ --------------------------------------------------------------------------- \\3\\ See Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from France,'' dated June 15, 2026; see also Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from Japan,'' dated June 15, 2026; see also Novus International's Letter, ``Notice of Intent to Participate in the First Five-Year Review of the Antidumping Duty Order on Methionine from Spain,'' dated June 15, 2026. \\4\\ See Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from France: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026; see also Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from Japan: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026; see also Novus International's Letter, ``Five-Year (``Sunset'') Review of the Antidumping Duty Order on Methionine from Spain: Novus International, Inc.'s Substantive Response,'' dated July 1, 2026. --------------------------------------------------------------------------- Commerce did not receive a substantive response from any respondent interested party. On July 27, 2026, Commerce notified the International Trade Commission (ITC) that it did not receive substantive response from any respondent interested parties \\5\\ As a result, pursuant to section 751(c)(3)(B) of the Act and 19 CFR 351.218(e)(1)(ii)(C)(2), Commerce is conducting expedited (120-day) sunset reviews of the Orders. --------------------------------------------------------------------------- \\5\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 21, 2026'' dated July 27, 2026. --------------------------------------------------------------------------- Scope of the Orders The product covered by these Orders is methionine from France, Japan, and Spain. For the full description of the scope of the Orders, see the Issues and Decisions Memorandum.\\6\\ --------------------------------------------------------------------------- \\6\\ See Memorandum, ``Issues and Decision Memorandum for the Final Results of the Expedited First Sunset Review of the Antidumping Duty Orders on Methionine from France, Japan, and Spain,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Analysis of Comments Received A complete discussion of all issues raised in this sunset review, including the likelihood of continuation or recurrence of dumping in the event of revocation of the Orders and the magnitude of the margins likely to prevail if the Orders were to be revoked, is provided in the Issues and Decision Memorandum.\\7\\ A list of the topics discussed in the Issues and Decision Memorandum is attached in the appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System, which is available to registered users at https://access.trade.gov . In addition, complete versions of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\7\\ Id. --------------------------------------------------------------------------- Final Results of Sunset Reviews Pursuant to sections 751(c)(1), 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Orders would be likely to lead to continuation or recurrence of dumping and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 43.82 percent for France, 76.50 percent for Japan, and 37.53 percent for Spain."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-us-methionine-ad-firstsunset-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Китай и США: итог второго пересмотра меры по меламину",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+          "name": "Федеральный реестр США"
+        }
+      ],
+      "theme": "Окончательный пятилетний антидемпинговый пересмотр меламина",
+      "jurisdictions": [
+        "Китай",
+        "США"
+      ],
+      "act": "A-570-020; FR Doc. 2026-20383; второй ускоренный пятилетний пересмотр",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex, выпуск 13:00 МСК 11.10.2026",
+        "event_key": "us-china-melamine-ad-secondsunset-20261005",
+        "cross_border_relevance": "Мера относится к импорту меламина из Китая в США. Сверены дело A-570-020, второй ускоренный пятилетний пересмотр и его первая официальная публикация 05.10. Новые ставки либо окончательное продление меры не выводятся из решения о вероятном возобновлении демпинга."
+      },
+      "slug": "2026-10-11_1300_-us-china-melamine-ad-secondsunset-20261005",
+      "caption": "Китай и США: итог второго пересмотра меры по меламину\n\n5 октября 2026 года опубликованы окончательные результаты второго ускоренного пятилетнего пересмотра антидемпинговой меры A-570-020 по меламину из Китая. Минторг США считает, что отмена меры вероятно привела бы к продолжению или возобновлению демпинга с маржой до 363,31%.\n\nПочему это важно: Экспортёрам и импортёрам меламина стоит учитывать итог процедуры. Прогнозная маржа 363,31% не означает установления новой пошлины в таком размере.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+          "checked_at": "2026-10-11T09:13:45.688760+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликованы окончательные результаты второго ускоренного пятилетнего пересмотра антидемпинговой меры A-570-020 по меламину из Китая. Минторг США считает, что отмена меры вероятно привела бы к продолжению или возобновлению демпинга с маржой до 363,31%.",
+              "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026) [Federal Register Volume 91, Number 191 (Monday, October 5, 2026)] [Notices] [Pages 63272-63273] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20383] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-570-020] Melamine From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on melamine from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the ``Final Results of Sunset Review'' section of this notice. DATES: Applicable October 5, 2026. FOR FURTHER INFORMATION CONTACT: Daniel Saba, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-5849. SUPPLEMENTARY INFORMATION: Background On December 28, 2015, Commerce published the Order in the Federal [[Page 63273]] Register.\\1\\ On June 1, 2026, Commerce published the Notice of Initiation of this second sunset review of the Order, pursuant to section 751(c) of the Tariff Act of 1930, as amended (the Act).\\2\\ On June 12, 2026, Commerce received a timely and complete notice of intent to participate from the domestic interested party \\3\\ within the deadline specified in 19 CFR 351.218(d)(1)(i).\\4\\ The domestic interested party claimed the interested party status under section 771(9)(C) of the Act, as a manufacturer of a domestic like product in the United States.\\5\\ On June 22, 2026, Commerce notified the U.S. International Trade Commission (ITC) that it had received a notice of intent to participate from a domestic interested party.\\6\\ --------------------------------------------------------------------------- \\1\\ See Melamine from the People's Republic of China: Antidumping Duty and Countervailing Duty Orders, 80 FR 80751 (December 28, 2015) (Order). \\2\\ See Initiation of Five-Year (Sunset) Reviews, 91 FR 32376 (June 1, 2026) (Notice of Initiation). \\3\\ The domestic interested party is Cornerstone Chemical Company (Cornerstone). \\4\\ See Cornerstone's Letter, ``Domestic Interested Party Notice of Intent to Participate,'' dated June 12, 2026. \\5\\ Id. \\6\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 1, 2026,'' dated June 22, 2026. --------------------------------------------------------------------------- On July 1, 2026, pursuant to 19 CFR 351.218(d)(3)(i), the domestic interested party filed a timely and adequate substantive response.\\7\\ Commerce did not receive a substantive response from any respondent interested party. On July 27, 2026, Commerce notified the ITC that it did not receive a substantive response from any respondent interested parties.\\8\\ As a result, pursuant to section 751(c)(3)(B) of the Act and 19 CFR 351.218(e)(1)(ii)(C)(2), Commerce is conducting an expedited (120-day) sunset review of the Order. --------------------------------------------------------------------------- \\7\\ See Cornerstone's Letter, ``Domestic Interested Party Substantive Response,'' dated July 1, 2026 (Substantive Response). \\8\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 1, 2026,'' dated July 27, 2026. --------------------------------------------------------------------------- Scope of the Order The product covered by this Order is melamine from China. For the full description of the scope of the Order, see the Issues and Decision Memorandum.\\9\\ --------------------------------------------------------------------------- \\9\\ See Memorandum, ``Issues and Decision Memorandum for the Expedited Sunset Review of the Antidumping Duty Order on Melamine from the People's Republic of China,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Analysis of Comments Received A complete discussion of all issues raised in this sunset review, including the likelihood of continuation or recurrence of dumping in the event of revocation of the Order and the magnitude of the margins likely to prevail if the Order were to be revoked, is provided in the accompanying Issues and Decision Memorandum.\\10\\ A list of the topics discussed in the Issues and Decision Memorandum is attached in the appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System, which is available to registered users at https:// access.trade.gov. In addition, a complete version of the Issues and Decision Memorandum can be accessed at https://access.trade.gov/ frnotices. --------------------------------------------------------------------------- \\10\\ Id. --------------------------------------------------------------------------- Final Results of Sunset Review Pursuant to sections 751(c)(1) and 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Order would be likely to lead to continuation or recurrence of dumping, and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 363.31 percent."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+            "checked_at": "2026-10-11T09:13:45.688760+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20383.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликованы окончательные результаты второго ускоренного пятилетнего пересмотра антидемпинговой меры A-570-020 по меламину из Китая. Минторг США считает, что отмена меры вероятно привела бы к продолжению или возобновлению демпинга с маржой до 363,31%.",
+                "source_quote": "Federal Register, Volume 91 Issue 191 (Monday, October 5, 2026) [Federal Register Volume 91, Number 191 (Monday, October 5, 2026)] [Notices] [Pages 63272-63273] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20383] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-570-020] Melamine From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on melamine from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the ``Final Results of Sunset Review'' section of this notice. DATES: Applicable October 5, 2026. FOR FURTHER INFORMATION CONTACT: Daniel Saba, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-5849. SUPPLEMENTARY INFORMATION: Background On December 28, 2015, Commerce published the Order in the Federal [[Page 63273]] Register.\\1\\ On June 1, 2026, Commerce published the Notice of Initiation of this second sunset review of the Order, pursuant to section 751(c) of the Tariff Act of 1930, as amended (the Act).\\2\\ On June 12, 2026, Commerce received a timely and complete notice of intent to participate from the domestic interested party \\3\\ within the deadline specified in 19 CFR 351.218(d)(1)(i).\\4\\ The domestic interested party claimed the interested party status under section 771(9)(C) of the Act, as a manufacturer of a domestic like product in the United States.\\5\\ On June 22, 2026, Commerce notified the U.S. International Trade Commission (ITC) that it had received a notice of intent to participate from a domestic interested party.\\6\\ --------------------------------------------------------------------------- \\1\\ See Melamine from the People's Republic of China: Antidumping Duty and Countervailing Duty Orders, 80 FR 80751 (December 28, 2015) (Order). \\2\\ See Initiation of Five-Year (Sunset) Reviews, 91 FR 32376 (June 1, 2026) (Notice of Initiation). \\3\\ The domestic interested party is Cornerstone Chemical Company (Cornerstone). \\4\\ See Cornerstone's Letter, ``Domestic Interested Party Notice of Intent to Participate,'' dated June 12, 2026. \\5\\ Id. \\6\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 1, 2026,'' dated June 22, 2026. --------------------------------------------------------------------------- On July 1, 2026, pursuant to 19 CFR 351.218(d)(3)(i), the domestic interested party filed a timely and adequate substantive response.\\7\\ Commerce did not receive a substantive response from any respondent interested party. On July 27, 2026, Commerce notified the ITC that it did not receive a substantive response from any respondent interested parties.\\8\\ As a result, pursuant to section 751(c)(3)(B) of the Act and 19 CFR 351.218(e)(1)(ii)(C)(2), Commerce is conducting an expedited (120-day) sunset review of the Order. --------------------------------------------------------------------------- \\7\\ See Cornerstone's Letter, ``Domestic Interested Party Substantive Response,'' dated July 1, 2026 (Substantive Response). \\8\\ See Commerce's Letter, ``Sunset Reviews Initiated on June 1, 2026,'' dated July 27, 2026. --------------------------------------------------------------------------- Scope of the Order The product covered by this Order is melamine from China. For the full description of the scope of the Order, see the Issues and Decision Memorandum.\\9\\ --------------------------------------------------------------------------- \\9\\ See Memorandum, ``Issues and Decision Memorandum for the Expedited Sunset Review of the Antidumping Duty Order on Melamine from the People's Republic of China,'' dated concurrently with, and hereby adopted by, this notice (Issues and Decision Memorandum). --------------------------------------------------------------------------- Analysis of Comments Received A complete discussion of all issues raised in this sunset review, including the likelihood of continuation or recurrence of dumping in the event of revocation of the Order and the magnitude of the margins likely to prevail if the Order were to be revoked, is provided in the accompanying Issues and Decision Memorandum.\\10\\ A list of the topics discussed in the Issues and Decision Memorandum is attached in the appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System, which is available to registered users at https:// access.trade.gov. In addition, a complete version of the Issues and Decision Memorandum can be accessed at https://access.trade.gov/ frnotices. --------------------------------------------------------------------------- \\10\\ Id. --------------------------------------------------------------------------- Final Results of Sunset Review Pursuant to sections 751(c)(1) and 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Order would be likely to lead to continuation or recurrence of dumping, and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 363.31 percent."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1300_-us-china-melamine-ad-secondsunset-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

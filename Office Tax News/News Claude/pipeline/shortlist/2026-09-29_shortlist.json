@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-29",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 619,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/mondelinge-afspraak-over-gebruik-tweede-woning-niet-aannemelijk-aanslag-forensenbelasting-blijft-in-stand/",
+      "ecli": "",
+      "act": "",
+      "title": "Mondelinge afspraak over gebruik tweede woning niet aannemelijk: aanslag forensenbelasting blijft in stand",
+      "summary": "",
+      "published_at": "2026-09-29",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 620,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/zuid-hollandse-weggebruiker-gaat-meer-wegenbelasting-betalen/",
+      "ecli": "",
+      "act": "",
+      "title": "Zuid-Hollandse weggebruiker gaat meer wegenbelasting betalen",
+      "summary": "",
+      "published_at": "2026-09-29",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

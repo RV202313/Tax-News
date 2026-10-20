@@ -1,0 +1,750 @@
+{
+  "date": "2026-10-07",
+  "release": "2026-10-07_1700_editorial",
+  "items": [
+    {
+      "title": "США: окончательный пересмотр по немелованной бумаге из Португалии",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm"
+        }
+      ],
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm",
+        "source_quote": "[Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)]"
+      },
+      "theme": "окончательный пересмотр по немелованной бумаге из Португалии",
+      "jurisdictions": "США, Португалия",
+      "act": "A-471-807; FR Doc. 2026-20484",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-portugal-paper-final-review-20261006",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Pending current-slot complete catalog/SQLite30days/prior and future reservation review.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-us-portugal-paper-final-review-20261006",
+      "caption": "США: окончательный пересмотр по немелованной бумаге из Португалии\n\n6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по немелованной бумаге из Португалии за период с 1 марта 2024 года по 28 февраля 2025 года. Минторг США установил, что проверяемый производитель и экспортёр «Навигатор» осуществлял продажи ниже нормальной стоимости.\n\nПочему это важно: Покупателям португальской бумаги стоит сверить поставщика и результаты пересмотра при расчёте антидемпинговых платежей. Вывод касается «Навигатора» и проверяемого периода; условия для других поставщиков следует проверять отдельно.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm",
+          "checked_at": "2026-10-07T13:31:31.263391+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по немелованной бумаге из Португалии за период с 1 марта 2024 года по 28 февраля 2025 года. Минторг США установил, что проверяемый производитель и экспортёр «Навигатор» осуществлял продажи ниже нормальной стоимости.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) determines that The Navigator Company, S.A (Navigator), the only producer/exporter subject to this review, made sales of subject merchandise at less than normal value (NV) during the period of review (POR), March 1, 2024, through February 28, 2025."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm",
+            "checked_at": "2026-10-07T13:31:31.263391+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20484.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года опубликованы окончательные результаты антидемпингового пересмотра по немелованной бумаге из Португалии за период с 1 марта 2024 года по 28 февраля 2025 года. Минторг США установил, что проверяемый производитель и экспортёр «Навигатор» осуществлял продажи ниже нормальной стоимости.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) determines that The Navigator Company, S.A (Navigator), the only producer/exporter subject to this review, made sales of subject merchandise at less than normal value (NV) during the period of review (POR), March 1, 2024, through February 28, 2025."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-us-portugal-paper-final-review-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: предложено прекратить пересмотр пошлины по польским матрасам",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm"
+        }
+      ],
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm",
+        "source_quote": "[Federal Register Volume 91, Number 191 (Monday, October 5, 2026)]"
+      },
+      "theme": "предложено прекратить пересмотр пошлины по польским матрасам",
+      "jurisdictions": "США, Польша",
+      "act": "A-455-807; FR Doc. 2026-20382",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-poland-mattress-preliminary-rescission-20261005",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Pending current-slot complete catalog/SQLite30days/prior and future reservation review.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-us-poland-mattress-preliminary-rescission-20261005",
+      "caption": "США: предложено прекратить пересмотр пошлины по польским матрасам\n\n5 октября 2026 года опубликовано предварительное намерение Минторга США прекратить антидемпинговый административный пересмотр по матрасам из Польши за период с 1 июля 2024 года по 30 июня 2025 года. Предварительный вывод связан с отсутствием у компании «Коррект» добросовестной продажи в проверяемом периоде.\n\nПочему это важно: Участникам поставок польских матрасов стоит учитывать риск прекращения пересмотра без установления новой индивидуальной ставки для «Коррект». Вывод пока предварительный и не означает отмену действующей антидемпинговой меры.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm",
+          "checked_at": "2026-10-07T13:31:31.265249+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликовано предварительное намерение Минторга США прекратить антидемпинговый административный пересмотр по матрасам из Польши за период с 1 июля 2024 года по 30 июня 2025 года. Предварительный вывод связан с отсутствием у компании «Коррект» добросовестной продажи в проверяемом периоде.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) preliminarily determines that CORRECT--K. B[lstrok]aszczyk i Wsp[oacute]lnicy Sp. K. (CORRECT) did not make a bona fide sale of mattresses from Poland during the period of review (POR) of July 1, 2024 through June 30, 2025. Therefore, Commerce preliminarily intends to rescind this administrative review."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm",
+            "checked_at": "2026-10-07T13:31:31.265249+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20382.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликовано предварительное намерение Минторга США прекратить антидемпинговый административный пересмотр по матрасам из Польши за период с 1 июля 2024 года по 30 июня 2025 года. Предварительный вывод связан с отсутствием у компании «Коррект» добросовестной продажи в проверяемом периоде.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) preliminarily determines that CORRECT--K. B[lstrok]aszczyk i Wsp[oacute]lnicy Sp. K. (CORRECT) did not make a bona fide sale of mattresses from Poland during the period of review (POR) of July 1, 2024 through June 30, 2025. Therefore, Commerce preliminarily intends to rescind this administrative review."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-us-poland-mattress-preliminary-rescission-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: предварительный пересмотр по нефтегазопромысловым трубам из Украины",
+      "sources": [
+        {
+          "name": "Federal Register, Правительственное издательское управление США",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm"
+        }
+      ],
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm",
+        "source_quote": "[Federal Register Volume 91, Number 191 (Monday, October 5, 2026)]"
+      },
+      "theme": "предварительный пересмотр по нефтегазопромысловым трубам из Украины",
+      "jurisdictions": "США, Украина",
+      "act": "A-823-815; FR Doc. 2026-20376",
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-ukraine-octg-preliminary-review-20261005",
+        "cross_border_relevance": "Официальный документ касается антидемпингового или компенсационного регулирования международного импорта. Проверены товар, страна происхождения, период и стадия процедуры; дата публикации отделена от даты решения и проверяемого периода.",
+        "history_review": "Pending current-slot complete catalog/SQLite30days/prior and future reservation review.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-us-ukraine-octg-preliminary-review-20261005",
+      "caption": "США: предварительный пересмотр по нефтегазопромысловым трубам из Украины\n\n5 октября 2026 года опубликованы предварительные результаты антидемпингового пересмотра по нефтегазопромысловым трубам из Украины за период с 1 июля 2024 года по 30 июня 2025 года. Минторг США предварительно установил продажи ниже нормальной стоимости и предложил заинтересованным сторонам представить комментарии.\n\nПочему это важно: Экспортёрам украинских труб и их американским покупателям стоит изучить расчёты пересмотра и возможность представить замечания. Предварительный вывод о демпинге ещё может измениться до окончательных результатов.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm",
+          "checked_at": "2026-10-07T13:31:31.266728+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года опубликованы предварительные результаты антидемпингового пересмотра по нефтегазопромысловым трубам из Украины за период с 1 июля 2024 года по 30 июня 2025 года. Минторг США предварительно установил продажи ниже нормальной стоимости и предложил заинтересованным сторонам представить комментарии.",
+              "source_quote": "The U.S. Department of Commerce (Commerce) preliminarily determines that the producer/exporter subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 01, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm",
+            "checked_at": "2026-10-07T13:31:31.266728+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20376.htm",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года опубликованы предварительные результаты антидемпингового пересмотра по нефтегазопромысловым трубам из Украины за период с 1 июля 2024 года по 30 июня 2025 года. Минторг США предварительно установил продажи ниже нормальной стоимости и предложил заинтересованным сторонам представить комментарии.",
+                "source_quote": "The U.S. Department of Commerce (Commerce) preliminarily determines that the producer/exporter subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 01, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-us-ukraine-octg-preliminary-review-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: ФНС пояснила группы ставок НДФЛ для прибыли КИК и нерезидентов",
+      "sources": [
+        {
+          "name": "УФНС России по Московской области",
+          "url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/"
+        }
+      ],
+      "theme": "НДФЛ: группировка прибыли контролируемых иностранных компаний и доходов нерезидентов",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение УФНС от 07.10.2026; приказ ФНС 20.08.2025 № ЕД-7-21/732@; статьи 210 и 224 НК РФ",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/",
+        "source_quote": "Дата публикации: 07.10.2026 08:55"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "ru-fns-cfc-nonresident-income-rate-groups-20261007",
+        "cross_border_relevance": "Прочитана свежая датированная официальная публикация о группировке прибыли КИК и доходов налоговых нерезидентов. Старые приказы не объявлены новыми; вывод ограничен проверкой налогового уведомления и не отождествляет виды доходов.",
+        "history_review": "Pending complete current catalog/SQLite30days and prior/future releases.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-ru-fns-cfc-nonresident-income-rate-groups-20261007",
+      "caption": "Россия: ФНС пояснила группы ставок НДФЛ для прибыли КИК и нерезидентов\n\n7 октября 2026 года УФНС по Московской области пояснило группировку доходов в налоговом уведомлении. Прибыль контролируемой иностранной компании, в том числе фиксированная, относится к первой группе со ставками 13/15/18/20/22%. Доходы физических лиц — нерезидентов названы среди примеров для иных групп. Ставку следует определять с учётом вида дохода и применимых положений НК РФ.\n\nПочему это важно: Владельцам иностранных компаний и консультантам стоит сверить группу доходов и налоговый статус при проверке уведомления. Это разъяснение действующего порядка: публикация не устанавливает новую шкалу ставок и не означает, что ко всем доходам нерезидента применяется одинаковая ставка.\n\nИсточник: https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/",
+          "checked_at": "2026-10-07T13:31:31.267973+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/",
+          "evidence": [
+            {
+              "claim": "7 октября 2026 года УФНС по Московской области пояснило группировку доходов в налоговом уведомлении. Прибыль контролируемой иностранной компании, в том числе фиксированная, относится к первой группе со ставками 13/15/18/20/22%. Доходы физических лиц — нерезидентов названы среди примеров для иных групп. Ставку следует определять с учётом вида дохода и применимых положений НК РФ.",
+              "source_quote": "Для целей применения налоговых ставок совокупные налоговые базы распределены по группам доходов. Коды группы доходов утверждены в Приложении № 4 к Приказу ФНС России от 20.10.2025 № ЕД-7-11/913@. В связи с этим, в налоговом уведомлении в новом разделе по графе «Налоговые ставки» указывается номер группы ставок соответствующей группы доходов, при этом группы доходов с кодом начиная от «04» до «11» (за исключением кода «08») объединены в «Иную группу», группа доходов с кодом «08» включена в «Первую группу». Учитывая изложенное, в налоговом уведомлении отражаются следующие группы: - «Первая группа» (13/15/18/20/22%) для доходов, в частности, от осуществления трудовых обязанностей физическими лицами, в виде сумм прибыли контролируемой иностранной компании (в том числе фиксированной прибыли контролируемой иностранной компании), в виде цифровой валюты, полученной в результате осуществления майнинга цифровой валюты (п. 2.1 ст. 210 НК РФ, п. 3.1 ст. 224 НК РФ); - «Вторая группа» (13/15%) для доходов, например, дивидендов, от продажи имущества, операций с ценными бумагами, в виде процентов по вкладам (остаткам на счетах) в банках (п.6 ст. 210 НК РФ); - «Третья группа» (13/15%) для доходов в виде денежного довольствия и иных дополнительных выплат, связанных с участием в специальной военной операции (выполнением задач в этот период) ряда физлиц (мобилизованных, добровольцев, сотрудников Следственного комитета РФ и др.), оплаты труда (денежного довольствия (содержания)) лиц, работающих в районах Крайнего Севера, в части, которая относится к районным коэффициентам и процентным надбавкам за работу там (пп. 6.1 и 6.2 ст. 210 НК РФ); - «Иные группы» (9, 15, 30, 35% налоговая ставка, установленная международным законодательством) для доходов, например, физических лиц, не являющихся налоговыми резидентами Российской Федерации, в виде стоимости любых выигрышей и призов, получаемых в проводимых конкурсах, играх и других мероприятиях в целях рекламы товаров, работ и услуг (пп. 2, 3, 5 и 6 ст. 224 НК РФ, ст. 232 НК РФ)."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/",
+            "checked_at": "2026-10-07T13:31:31.267973+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn50/news/activities_fts/16654159/",
+            "evidence": [
+              {
+                "claim": "7 октября 2026 года УФНС по Московской области пояснило группировку доходов в налоговом уведомлении. Прибыль контролируемой иностранной компании, в том числе фиксированная, относится к первой группе со ставками 13/15/18/20/22%. Доходы физических лиц — нерезидентов названы среди примеров для иных групп. Ставку следует определять с учётом вида дохода и применимых положений НК РФ.",
+                "source_quote": "Для целей применения налоговых ставок совокупные налоговые базы распределены по группам доходов. Коды группы доходов утверждены в Приложении № 4 к Приказу ФНС России от 20.10.2025 № ЕД-7-11/913@. В связи с этим, в налоговом уведомлении в новом разделе по графе «Налоговые ставки» указывается номер группы ставок соответствующей группы доходов, при этом группы доходов с кодом начиная от «04» до «11» (за исключением кода «08») объединены в «Иную группу», группа доходов с кодом «08» включена в «Первую группу». Учитывая изложенное, в налоговом уведомлении отражаются следующие группы: - «Первая группа» (13/15/18/20/22%) для доходов, в частности, от осуществления трудовых обязанностей физическими лицами, в виде сумм прибыли контролируемой иностранной компании (в том числе фиксированной прибыли контролируемой иностранной компании), в виде цифровой валюты, полученной в результате осуществления майнинга цифровой валюты (п. 2.1 ст. 210 НК РФ, п. 3.1 ст. 224 НК РФ); - «Вторая группа» (13/15%) для доходов, например, дивидендов, от продажи имущества, операций с ценными бумагами, в виде процентов по вкладам (остаткам на счетах) в банках (п.6 ст. 210 НК РФ); - «Третья группа» (13/15%) для доходов в виде денежного довольствия и иных дополнительных выплат, связанных с участием в специальной военной операции (выполнением задач в этот период) ряда физлиц (мобилизованных, добровольцев, сотрудников Следственного комитета РФ и др.), оплаты труда (денежного довольствия (содержания)) лиц, работающих в районах Крайнего Севера, в части, которая относится к районным коэффициентам и процентным надбавкам за работу там (пп. 6.1 и 6.2 ст. 210 НК РФ); - «Иные группы» (9, 15, 30, 35% налоговая ставка, установленная международным законодательством) для доходов, например, физических лиц, не являющихся налоговыми резидентами Российской Федерации, в виде стоимости любых выигрышей и призов, получаемых в проводимых конкурсах, играх и других мероприятиях в целях рекламы товаров, работ и услуг (пп. 2, 3, 5 и 6 ст. 224 НК РФ, ст. 232 НК РФ)."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-ru-fns-cfc-nonresident-income-rate-groups-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: ВТП предложила общую базу проверки сертификатов происхождения СНГ",
+      "sources": [
+        {
+          "name": "Внешнеторговая палата Казахстана",
+          "url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng"
+        }
+      ],
+      "theme": "Предложение о цифровой проверке происхождения товаров СНГ",
+      "jurisdictions": "Казахстан, СНГ",
+      "act": "Инициатива ВПК на XXVI заседании Совета руководителей палат СНГ 02.10.2026",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng",
+        "source_quote": "Дата публикации 02 октября 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "kz-cis-origin-certificate-verification-proposal-20261002",
+        "cross_border_relevance": "Прочитан первичный отчёт инициатора о цифровой проверке происхождения товаров для внешней торговли. Предложение не представлено как принятая таможенная обязанность. Дата события и публикации совпадает.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-kz-cis-origin-certificate-verification-proposal-20261002",
+      "caption": "Казахстан: ВТП предложила общую базу проверки сертификатов происхождения СНГ\n\nНа заседании руководителей палат СНГ 2 октября 2026 года Внешнеторговая палата Казахстана представила инициативу общей базы проверки сертификатов происхождения товаров с защищёнными QR-кодами и электронными подписями. Предложено также проработать взаимное признание электронных подписей для внешнеторговых документов.\n\nПочему это важно: Экспортёрам и таможенным представителям стоит следить за развитием проверки происхождения товаров, от которой зависит применение торговых преференций. Сообщение не подтверждает запуск базы или изменение действующих требований к сертификатам.\n\nИсточник: https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng",
+          "checked_at": "2026-10-07T13:31:31.269733+00:00",
+          "status_code": 200,
+          "final_url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng",
+          "evidence": [
+            {
+              "claim": "На заседании руководителей палат СНГ 2 октября 2026 года Внешнеторговая палата Казахстана представила инициативу общей базы проверки сертификатов происхождения товаров с защищёнными QR-кодами и электронными подписями. Предложено также проработать взаимное признание электронных подписей для внешнеторговых документов.",
+              "source_quote": "В рамках цифровой повестки ВПК предложила обмениваться опытом по развитию электронных сервисов и синхронизации реестров палат. В частности, была представлена инициатива создания единой базы проверки сертификатов происхождения товаров стран СНГ с использованием защищенных QR-кодов и электронных цифровых подписей. Также предложено проработать взаимное признание электронных подписей для упрощения оформления внешнеторговых документов."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng",
+            "checked_at": "2026-10-07T13:31:31.269733+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://kazcic.kz/news/vnesnetorgovaia-palata-kazaxstana-priniala-ucastie-v-xxvi-zasedanii-soveta-rukovoditelei-palat-gosudarstv-ucastnikov-sng",
+            "evidence": [
+              {
+                "claim": "На заседании руководителей палат СНГ 2 октября 2026 года Внешнеторговая палата Казахстана представила инициативу общей базы проверки сертификатов происхождения товаров с защищёнными QR-кодами и электронными подписями. Предложено также проработать взаимное признание электронных подписей для внешнеторговых документов.",
+                "source_quote": "В рамках цифровой повестки ВПК предложила обмениваться опытом по развитию электронных сервисов и синхронизации реестров палат. В частности, была представлена инициатива создания единой базы проверки сертификатов происхождения товаров стран СНГ с использованием защищенных QR-кодов и электронных цифровых подписей. Также предложено проработать взаимное признание электронных подписей для упрощения оформления внешнеторговых документов."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-kz-cis-origin-certificate-verification-proposal-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: предложена смешанная пошлина на диоксид титана из Китая",
+      "sources": [
+        {
+          "name": "Управление торговых защитных мер Великобритании",
+          "url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide"
+        }
+      ],
+      "theme": "Предложенная антидемпинговая пошлина на рутильный диоксид титана",
+      "jurisdictions": "Великобритания, Китай",
+      "act": "Предварительная рекомендация TRA по рутильному диоксиду титана из Китая от 07.10.2026",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide",
+        "source_quote": "Published: 7 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "uk-china-rutile-titanium-dioxide-recommendation-20261007",
+        "cross_border_relevance": "Прочитан свежий официальный текст о предложенной пошлине на импорт из Китая. Сверены категории экспортёров, процентные ставки, минимальные суммы и срок замечаний; окончательная мера не заявлена.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-uk-china-rutile-titanium-dioxide-recommendation-20261007",
+      "caption": "Великобритания: предложена смешанная пошлина на диоксид титана из Китая\n\n7 октября 2026 года Управление торговых защитных мер Великобритании опубликовало предварительную рекомендацию о пятилетней антидемпинговой мере на рутильный диоксид титана из Китая. Для сотрудничающих экспортёров предложено 48,29% стоимости с минимумом 0,665 фунта за килограмм; для остальных — 63,66% с минимумом 0,876 фунта за килограмм. Замечания принимаются до 26 октября.\n\nПочему это важно: Импортёрам сырья для красок, пластмасс и бумаги стоит оценить предложенную нагрузку и возможность представить замечания. Это рекомендация: окончательное введение новых ставок публикацией не подтверждено.\n\nИсточник: https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide",
+          "checked_at": "2026-10-07T13:31:31.474985+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide",
+          "evidence": [
+            {
+              "claim": "7 октября 2026 года Управление торговых защитных мер Великобритании опубликовало предварительную рекомендацию о пятилетней антидемпинговой мере на рутильный диоксид титана из Китая. Для сотрудничающих экспортёров предложено 48,29% стоимости с минимумом 0,665 фунта за килограмм; для остальных — 63,66% с минимумом 0,876 фунта за килограмм. Замечания принимаются до 26 октября.",
+              "source_quote": "The TRA has now published its intended recommendation, proposing that a mixed anti-dumping duty should be applied on titanium dioxide for a period of five years. The rates of such duties would be as follows: Cooperating, sampled exporters: 48.29% ad valorum, with a minimum of £0.665 per kg; Cooperating, non-sampled exporters: 48.29% ad valorum, with a minimum of £0.665 per kg; All other overseas exporters: 63.66% ad valorum, with a minimum of £0.876 per kg. An ad valorem duty is a measure that is based on a percentage of the value of the goods. In this case, the TRA has proposed a mixed duty – a combination of ad valorem and a specific duty – to maximise the duty’s effectiveness. Which duty applies in this instance depends on which generates the most tariff revenue. Further information on the forms different tariffs take can be found on the TRA’s blog . Interested parties have until 26 October to comment on these initial findings and can do so via the TRA’s Trade Remedies Service ."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide",
+            "checked_at": "2026-10-07T13:31:31.474985+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/news/new-duty-proposed-on-imports-of-chinese-rutile-titanium-dioxide",
+            "evidence": [
+              {
+                "claim": "7 октября 2026 года Управление торговых защитных мер Великобритании опубликовало предварительную рекомендацию о пятилетней антидемпинговой мере на рутильный диоксид титана из Китая. Для сотрудничающих экспортёров предложено 48,29% стоимости с минимумом 0,665 фунта за килограмм; для остальных — 63,66% с минимумом 0,876 фунта за килограмм. Замечания принимаются до 26 октября.",
+                "source_quote": "The TRA has now published its intended recommendation, proposing that a mixed anti-dumping duty should be applied on titanium dioxide for a period of five years. The rates of such duties would be as follows: Cooperating, sampled exporters: 48.29% ad valorum, with a minimum of £0.665 per kg; Cooperating, non-sampled exporters: 48.29% ad valorum, with a minimum of £0.665 per kg; All other overseas exporters: 63.66% ad valorum, with a minimum of £0.876 per kg. An ad valorem duty is a measure that is based on a percentage of the value of the goods. In this case, the TRA has proposed a mixed duty – a combination of ad valorem and a specific duty – to maximise the duty’s effectiveness. Which duty applies in this instance depends on which generates the most tariff revenue. Further information on the forms different tariffs take can be found on the TRA’s blog . Interested parties have until 26 October to comment on these initial findings and can do so via the TRA’s Trade Remedies Service ."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-uk-china-rutile-titanium-dioxide-recommendation-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: предложены окончательные пошлины на китайские стреловые подъёмники",
+      "sources": [
+        {
+          "name": "Управление торговых защитных мер Великобритании",
+          "url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china"
+        }
+      ],
+      "theme": "Проект окончательных антидемпинговых мер на подъёмники из Китая",
+      "jurisdictions": "Великобритания, Китай",
+      "act": "Проект окончательного вывода TRA от 05.10.2026; сообщение ведомства 06.10.2026",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china",
+        "source_quote": "Published: 6 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "uk-china-boom-lift-intended-final-determination-20261005",
+        "cross_border_relevance": "Прочитан официальный источник о новом этапе антидемпингового расследования импортной техники. Предыдущая временная мера отделена от проекта окончательной; статус, ставка и срок замечаний сверены.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-uk-china-boom-lift-intended-final-determination-20261005",
+      "caption": "Великобритания: предложены окончательные пошлины на китайские стреловые подъёмники\n\n6 октября 2026 года Управление торговых защитных мер Великобритании сообщило о проекте окончательного вывода по стреловым подъёмникам из Китая, опубликованном 5 октября. Предложены антидемпинговые пошлины до 82,89%. Затронутые компании могут направить замечания до 20 октября; после рассмотрения дополнительных доказательств ведомство подготовит окончательную рекомендацию.\n\nПочему это важно: Импортёрам подъёмной техники стоит проверить проект и подготовить доказательства до окончания обсуждения. Предложенные окончательные ставки нельзя смешивать с временными мерами, уже введёнными в августе, или считать утверждёнными.\n\nИсточник: https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china",
+          "checked_at": "2026-10-07T13:31:47.944240+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года Управление торговых защитных мер Великобритании сообщило о проекте окончательного вывода по стреловым подъёмникам из Китая, опубликованном 5 октября. Предложены антидемпинговые пошлины до 82,89%. Затронутые компании могут направить замечания до 20 октября; после рассмотрения дополнительных доказательств ведомство подготовит окончательную рекомендацию.",
+              "source_quote": "On Monday 5 October, the Trade Remedies Authority (TRA) published its intended final determination and recommendation for remedies in its anti-dumping investigation into boom lifts from China. Boom lifts — also known as cherry pickers — are aerial work platforms used to lift people, equipment, or materials to elevated heights. They are used across multiple sectors in the UK for tasks including construction, maintenance, and installation. In its Statement of Essential Facts (SEF), the TRA investigation has found evidence that boom lift imports from China are being dumped in the UK market, and this has caused or is causing injury to the UK industry. The TRA’s interim findings are that an anti-dumping measure should be put in place, with duties of up to 82.89%. This investigation began on 19 December 2025. By analysing import volumes, cost of production, pricing data and injury factors, the TRA has calculated that Chinese boom lift import prices undercut the UK industry by more than 25%. As part of its investigation process, the TRA conducts an Economic Interest Test (EIT) to consider the economic impacts — both beneficial and harmful — of imposing a trade remedy measure. Following this assessment, the TRA has made the decision that the anti-dumping measure is in the economic interest of the UK and it intends to recommend the remedy to the Secretary of State for Business, Innovation, Science and Trade. UK producers received initial support on 20 August 2026, when the UK Government imposed provisional anti-dumping measures on imports of boom lifts from China, following a recommendation by the TRA. What happens next? If you think your business may be affected, you can comment via the TRA’s public file by 20 October 2026. The TRA may then consider any additional evidence presented, before making its final recommendation to the Secretary of State for Business, Innovation, Science and Trade."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china",
+            "checked_at": "2026-10-07T13:31:47.944240+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/government/news/tra-proposes-new-anti-dumping-measure-on-boom-lifts-from-china",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года Управление торговых защитных мер Великобритании сообщило о проекте окончательного вывода по стреловым подъёмникам из Китая, опубликованном 5 октября. Предложены антидемпинговые пошлины до 82,89%. Затронутые компании могут направить замечания до 20 октября; после рассмотрения дополнительных доказательств ведомство подготовит окончательную рекомендацию.",
+                "source_quote": "On Monday 5 October, the Trade Remedies Authority (TRA) published its intended final determination and recommendation for remedies in its anti-dumping investigation into boom lifts from China. Boom lifts — also known as cherry pickers — are aerial work platforms used to lift people, equipment, or materials to elevated heights. They are used across multiple sectors in the UK for tasks including construction, maintenance, and installation. In its Statement of Essential Facts (SEF), the TRA investigation has found evidence that boom lift imports from China are being dumped in the UK market, and this has caused or is causing injury to the UK industry. The TRA’s interim findings are that an anti-dumping measure should be put in place, with duties of up to 82.89%. This investigation began on 19 December 2025. By analysing import volumes, cost of production, pricing data and injury factors, the TRA has calculated that Chinese boom lift import prices undercut the UK industry by more than 25%. As part of its investigation process, the TRA conducts an Economic Interest Test (EIT) to consider the economic impacts — both beneficial and harmful — of imposing a trade remedy measure. Following this assessment, the TRA has made the decision that the anti-dumping measure is in the economic interest of the UK and it intends to recommend the remedy to the Secretary of State for Business, Innovation, Science and Trade. UK producers received initial support on 20 August 2026, when the UK Government imposed provisional anti-dumping measures on imports of boom lifts from China, following a recommendation by the TRA. What happens next? If you think your business may be affected, you can comment via the TRA’s public file by 20 October 2026. The TRA may then consider any additional evidence presented, before making its final recommendation to the Secretary of State for Business, Innovation, Science and Trade."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-uk-china-boom-lift-intended-final-determination-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: TTB обсуждает продление учёта цен импортируемых крупных сигар",
+      "sources": [
+        {
+          "name": "Federal Register — TTB",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm"
+        }
+      ],
+      "theme": "Консультация об учёте цен для акциза на импорт крупных сигар",
+      "jurisdictions": "США, импорт товаров",
+      "act": "FR Doc 2026-20417; Docket TTB-2026-0001; OMB 1513-0071",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm",
+        "source_quote": "[Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)]"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "us-ttb-large-cigar-import-price-records-consultation-20261006",
+        "cross_border_relevance": "Прочитано новое официальное уведомление TTB: конкретный сбор информации OMB 1513-0071 прямо охватывает импортёров и цены для проверки акциза. Действующая обязанность отделена от новой консультации о продлении разрешения. Срок и реквизиты сверены в Federal Register.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-us-ttb-large-cigar-import-price-records-consultation-20261006",
+      "caption": "США: TTB обсуждает продление учёта цен импортируемых крупных сигар\n\n6 октября 2026 года Бюро по налогам и торговле алкоголем и табаком США опубликовало запрос замечаний к сбору информации, включая учёт отпускных цен крупных сигар их производителями и импортёрами. Для этого вида учёта запрошено только продление действующего разрешения, без изменения программы. Письменные замечания принимаются до 7 декабря 2026 года.\n\nПочему это важно: Импортёры крупных сигар могут высказать замечания об учёте цен, который используется для проверки федерального акциза. Публикация открывает обсуждение административной нагрузки и не вводит новую форму или ставку налога.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm",
+          "checked_at": "2026-10-07T13:31:48.345531+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года Бюро по налогам и торговле алкоголем и табаком США опубликовало запрос замечаний к сбору информации, включая учёт отпускных цен крупных сигар их производителями и импортёрами. Для этого вида учёта запрошено только продление действующего разрешения, без изменения программы. Письменные замечания принимаются до 7 декабря 2026 года.",
+              "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63651-63656] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20417] ======================================================================= ----------------------------------------------------------------------- DEPARTMENT OF THE TREASURY Alcohol and Tobacco Tax and Trade Bureau [Docket No. TTB-2026-0001] Proposed Information Collections; Comment Request (No. 99) AGENCY: Alcohol and Tobacco Tax and Trade Bureau (TTB); Treasury. ACTION: Notice and request for comments. ----------------------------------------------------------------------- SUMMARY: As part of our continuing effort to reduce paperwork and respondent burden, and as required by the Paperwork Reduction Act of 1995, we invite comments on the continuing or proposed information collections listed below in this document. DATES: We must receive your written comments on or before December 7, 2026. ADDRESSES: You may send comments on the information collections described in this document using one of these two methods: Internet--To submit comments electronically, use the comment form for this document posted on the `` Regulations.gov '' e- rulemaking website at https://www.regulations.gov within Docket No. TTB-2026-0001. Mail--Send comments to the Paperwork Reduction Act Officer, Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005. [[Page 63652]] Please submit separate comments for each specific information collection described in this document. You must reference the information collection's title, form number or recordkeeping requirement number (if any), and OMB control number in your comment. You may view copies of this document, the relevant TTB forms, and any comments received at https://www.regulations.gov within Docket No. TTB-2026-0001. TTB has posted a link to that docket on its website at https://www.ttb.gov/rrd/information-collection-notices . You also may obtain paper copies of this document, the listed forms, and any comments received by contacting TTB's Paperwork Reduction Act Officer at the addresses or telephone number shown below. FOR FURTHER INFORMATION CONTACT: Michael Hoover, Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005; 202-453-1039, ext. 135; or complete the Regulations and Rulings Division contact form at https://www.ttb.gov/contact-rrd . SUPPLEMENTARY INFORMATION: Request for Comments The Department of the Treasury and its Alcohol and Tobacco Tax and Trade Bureau (TTB), as part of a continuing effort to reduce paperwork and respondent burden, invite the general public and other Federal agencies to comment on the proposed or continuing information collections described below, as required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.). Comments submitted in response to this document will be included or summarized in our request for Office of Management and Budget (OMB) approval of the relevant information collection. All comments are part of the public record and subject to disclosure. Please do not include any confidential or inappropriate material in your comments. We invite comments on: (a) Whether an information collection is necessary for the proper performance of the agency's functions, including whether the information has practical utility; (b) the accuracy of the agency's estimate of the information collection's burden; (c) ways to enhance the quality, utility, and clarity of the information collected; (d) ways to minimize the information collection's burden on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide the requested information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the collection of information has a valid OMB control number. Information Collections Open for Comment Currently, we are seeking comments on the following forms, letterhead applications or notices, recordkeeping requirements, questionnaires, or surveys: OMB Control No. 1513-0001 Title: Tax Information Authorization. TTB Form Number: TTB F 5000.19. Abstract: In general, the Internal Revenue Code (IRC) at 26 U.S.C. 6103 protects the privacy of taxpayer information by prohibiting the disclosure of tax returns and taxpayer information to unauthorized persons while allowing a taxpayer to authorize a representative to receive otherwise confidential tax information. Under that authority, the Alcohol and Tobacco Tax and Trade Bureau (TTB) requires a taxpayer to file form TTB F 5000.19 to authorize a representative, who does not have the power of attorney, to receive their otherwise confidential tax information. TTB uses the collected information to identify the taxpayer's designated representative and the scope of that representative's authority to obtain their otherwise confidential tax information. Current Actions: There are no current program changes or adjustments to this information collection at this time, and TTB is submitting it for extension purposes only. Type of Review: Extension of a currently approved collection. Affected Public: Businesses or other for-profits; Individuals or households. Estimated Annual Burden Number of Respondents: 10. Average Responses per Respondent: 1 (one). Number of Responses: 10. Average Per-response Burden: 1 hour. Total Burden: 10 hours. OMB Control No. 1513-0003 Title: Referral of Information. TTB Form Number: TTB F 5000.21. Abstract: TTB personnel may identify, during investigations or other duties, apparent violations of State and local government laws and regulations, and TTB uses form TTB F 5000.21, Referral of Information, to provide information to such external agencies if disclosure is authorized under 26 U.S.C. 6103 or other Federal laws. This form includes a section for an external agency to respond to TTB regarding its action on the referral. The TTB-requested response from external agencies provides information as to the utility of the referrals and potential enforcement actions taken by those agencies against TTB-regulated entities. Current Actions: There are no program changes to this information collection at this time, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is decreasing the estimated number of annual respondents, responses, and total burden hours associated with this collection. Type of Review: Extension of a currently approved collection. Affected Public: State, local, and tribal governments. Estimated Annual Burden Number of Respondents: 25. Average Responses per Respondent: 1 (one). Number of Responses: 25. Average Per-response Burden: 1 hour. Total Burden: 25 hours. OMB Control No. 1513-0041 Title: Distilled Spirits Plants--Records and Monthly Reports of Processing Operations. TTB Form and Recordkeeping Numbers: TTB F 5110.28 and TTB REC 5110/ 03. Abstract: The IRC at 26 U.S.C. 5207 requires that distilled spirits plant (DSP) proprietors keep records and submit reports regarding their production, storage, denaturation, and processing operations in as the Secretary of the Treasury (the Secretary) prescribes by regulation. As defined in that section, processing activities include receipt or transfer of alcoholic ingredients used in spirits production, bottling and packaging of distilled spirits, and removal of distilled spirits from the DSP premises. Under that authority, the TTB regulations in 27 CFR part 19 require DSP proprietors to keep certain records related to their processing operations, and based on those records, to submit monthly summary reports of their processing operations using form TTB F 5110.28. TTB uses the collected information to ensure that the relevant tax provisions of the IRC are appropriately applied and to produce generalized distilled spirits statistical reports for release to the public. [[Page 63653]] Current Actions: There are no program changes to this information collection, and TTB is submitting for extension purposes only. As for adjustments, due to a change in agency estimates resulting from continued growth in the number of DSPs in the United States, TTB is increasing the estimated number of annual respondents, total responses, and burden hours associated with this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits; State and local governments. Estimated Annual Burden Number of Respondents: 6,100. Average Responses per Respondent: 12 (once per month). Number of Responses: 73,200. Average Per-response Burden: 2 hours (1 hour recordkeeping and 1 hour reporting). Total Burden: 146,000 hours. OMB Control No. 1513-0058 Title: Usual and Customary Business Records Maintained by Brewers. TTB Recordkeeping Number: TTB REC 5130/1. Abstract: The IRC at 26 U.S.C. 5415 requires brewers to keep records containing such information as the Secretary prescribes by regulation and make them available for Government inspection, while 26 U.S.C. 5555 requires any person liable for Federal excise tax on alcohol beverages to keep records, make reports, and comply with regulations prescribed by the Secretary. Under those IRC provisions, the TTB regulations in 27 CFR part 25, Beer, require brewers to keep certain usual and customary business records documenting their operations, including production and packaging of beer and other brewery products and inventories, removals, returns, shipments, storage, and transfers of such products. TTB uses the collected information to establish a brewer's excise tax liability and verify tax claims, and verify that beer is produced, packaged, stored, shipped, and transferred in accordance with the relevant Federal laws and regulations. Current Actions: There are no program changes associated with this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is increasing the estimated number of annual respondents and responses to this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses or other for-profits. Estimated Annual Burden Number of Respondents: 15,380. Average Responses per Respondent: 1 (one) per year. Number of Responses: 15,380. Average Per-response and Total Burden: This information collection consists of usual and customary records kept by respondents during the normal course of business, regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0059 Title: Usual and Customary Business Records Relating to Tax-Free Alcohol. TTB Recordkeeping Number: TTB REC 5150/3. Abstract: In general, the IRC at 26 U.S.C. 5001 imposes Federal excise tax on distilled spirits produced in or imported into the United States, but, under sections 26 U.S.C. 5214(a)(2) and (a)(3), distilled spirits may be withdrawn free of tax for nonbeverage purposes for use by Federal, State, and local governments, and for use by certain educational organizations and institutions, research laboratories, hospitals, blood banks, sanitariums, and nonprofit clinics, subject to regulations prescribed by the Secretary. In addition, the IRC at 26 U.S.C. 5275 requires persons that procure or use distilled spirits withdrawn free of tax under those sections to keep records and make reports regarding the receipt and use of such spirits as required by regulation. Under that IRC authority, the TTB regulations in 27 CFR part 22 require tax-free alcohol users to maintain certain usual and customary business records regarding the inventory, receipt, and disposition of such alcohol. TTB uses the collected information to account for tax-free spirits and detect their diversion to taxable beverage use. Current Actions: There are no program changes to this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is decreasing the estimated number of annual respondents, responses, and total burden hours associated with this collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits. Estimated Annual Burden Number of Respondents: 5,050. Average Responses per Respondent: 1 (one) per year. Number of Responses: 5,050. Average Per-response and Total Burden: This information collection consists of usual and customary records kept by respondents during the normal course of business, regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0062 Title: Usual and Customary Business Records Relating to Denatured Spirits. TTB Recordkeeping Number: TTB REC 5150/1. Abstract: Denatured distilled spirits, which generally are not subject to Federal excise tax, may be used for industrial purposes in the manufacture of nonbeverage products. To prevent diversion of denatured spirits to taxable beverage use, the IRC at 26 U.S.C. 5271- 5275 imposes a system of permits, bonds, recordkeeping, and reporting requirements on persons that procure or use such alcohol and authorize the Secretary to issue regulations regarding those matters. Under those authorities, the TTB regulations in 27 CFR part 20 require industrial alcohol users to keep certain usual and customary business records regarding the procurement, distribution, and use of denatured spirits. To protect the revenue, TTB uses the required records to account for denatured spirits and ensure compliance with statutory and regulatory requirements. Current Actions: There are no program changes associated with this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is increasing the estimated number of annual respondents and responses to this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits. Estimated Annual Burden Number of Respondents: 5,770. Average Responses per Respondent: 1 (one). Number of Responses: 5,770. Average Per-response and Total Burden: None. This information collection consists of usual and customary records kept by respondents during the normal course of business, [[Page 63654]] regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0071 Title: Tobacco Products Importer or Manufacturer--Records of Large Cigar Wholesale Prices. TTB Recordkeeping Number: TTB REC 5230/1. Abstract: In general, the IRC at 26 U.S.C. 5701 imposes Federal excise taxes on tobacco products and cigarette papers and tubes, and, as described at 26 U.S.C. 5701(a)(2), the excise tax on large cigars is based on a percentage of the price at which such cigars are sold by the manufacturer or importer. The IRC at 26 U.S.C. 5741 also requires every manufacturer and importer of tobacco products to keep records in such manner as the Secretary prescribes by regulation. Under those authorities, the TTB regulations at 27 CFR 40.187 and 41.181 require that manufacturers and importers of large cigars maintain certain records regarding the price for which those cigars are sold. TTB uses the collected information to verify that the appropriate amount of excise tax is paid on large cigars. Current Actions: There are no program changes or adjustments associated with this information collection at this time, and TTB is submitting it for extension purposes only. Type of Review: Extension of a currently approved collection."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm",
+            "checked_at": "2026-10-07T13:31:48.345531+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20417.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года Бюро по налогам и торговле алкоголем и табаком США опубликовало запрос замечаний к сбору информации, включая учёт отпускных цен крупных сигар их производителями и импортёрами. Для этого вида учёта запрошено только продление действующего разрешения, без изменения программы. Письменные замечания принимаются до 7 декабря 2026 года.",
+                "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63651-63656] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20417] ======================================================================= ----------------------------------------------------------------------- DEPARTMENT OF THE TREASURY Alcohol and Tobacco Tax and Trade Bureau [Docket No. TTB-2026-0001] Proposed Information Collections; Comment Request (No. 99) AGENCY: Alcohol and Tobacco Tax and Trade Bureau (TTB); Treasury. ACTION: Notice and request for comments. ----------------------------------------------------------------------- SUMMARY: As part of our continuing effort to reduce paperwork and respondent burden, and as required by the Paperwork Reduction Act of 1995, we invite comments on the continuing or proposed information collections listed below in this document. DATES: We must receive your written comments on or before December 7, 2026. ADDRESSES: You may send comments on the information collections described in this document using one of these two methods: Internet--To submit comments electronically, use the comment form for this document posted on the `` Regulations.gov '' e- rulemaking website at https://www.regulations.gov within Docket No. TTB-2026-0001. Mail--Send comments to the Paperwork Reduction Act Officer, Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005. [[Page 63652]] Please submit separate comments for each specific information collection described in this document. You must reference the information collection's title, form number or recordkeeping requirement number (if any), and OMB control number in your comment. You may view copies of this document, the relevant TTB forms, and any comments received at https://www.regulations.gov within Docket No. TTB-2026-0001. TTB has posted a link to that docket on its website at https://www.ttb.gov/rrd/information-collection-notices . You also may obtain paper copies of this document, the listed forms, and any comments received by contacting TTB's Paperwork Reduction Act Officer at the addresses or telephone number shown below. FOR FURTHER INFORMATION CONTACT: Michael Hoover, Regulations and Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, 1310 G Street NW, Box 12, Washington, DC 20005; 202-453-1039, ext. 135; or complete the Regulations and Rulings Division contact form at https://www.ttb.gov/contact-rrd . SUPPLEMENTARY INFORMATION: Request for Comments The Department of the Treasury and its Alcohol and Tobacco Tax and Trade Bureau (TTB), as part of a continuing effort to reduce paperwork and respondent burden, invite the general public and other Federal agencies to comment on the proposed or continuing information collections described below, as required by the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.). Comments submitted in response to this document will be included or summarized in our request for Office of Management and Budget (OMB) approval of the relevant information collection. All comments are part of the public record and subject to disclosure. Please do not include any confidential or inappropriate material in your comments. We invite comments on: (a) Whether an information collection is necessary for the proper performance of the agency's functions, including whether the information has practical utility; (b) the accuracy of the agency's estimate of the information collection's burden; (c) ways to enhance the quality, utility, and clarity of the information collected; (d) ways to minimize the information collection's burden on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide the requested information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the collection of information has a valid OMB control number. Information Collections Open for Comment Currently, we are seeking comments on the following forms, letterhead applications or notices, recordkeeping requirements, questionnaires, or surveys: OMB Control No. 1513-0001 Title: Tax Information Authorization. TTB Form Number: TTB F 5000.19. Abstract: In general, the Internal Revenue Code (IRC) at 26 U.S.C. 6103 protects the privacy of taxpayer information by prohibiting the disclosure of tax returns and taxpayer information to unauthorized persons while allowing a taxpayer to authorize a representative to receive otherwise confidential tax information. Under that authority, the Alcohol and Tobacco Tax and Trade Bureau (TTB) requires a taxpayer to file form TTB F 5000.19 to authorize a representative, who does not have the power of attorney, to receive their otherwise confidential tax information. TTB uses the collected information to identify the taxpayer's designated representative and the scope of that representative's authority to obtain their otherwise confidential tax information. Current Actions: There are no current program changes or adjustments to this information collection at this time, and TTB is submitting it for extension purposes only. Type of Review: Extension of a currently approved collection. Affected Public: Businesses or other for-profits; Individuals or households. Estimated Annual Burden Number of Respondents: 10. Average Responses per Respondent: 1 (one). Number of Responses: 10. Average Per-response Burden: 1 hour. Total Burden: 10 hours. OMB Control No. 1513-0003 Title: Referral of Information. TTB Form Number: TTB F 5000.21. Abstract: TTB personnel may identify, during investigations or other duties, apparent violations of State and local government laws and regulations, and TTB uses form TTB F 5000.21, Referral of Information, to provide information to such external agencies if disclosure is authorized under 26 U.S.C. 6103 or other Federal laws. This form includes a section for an external agency to respond to TTB regarding its action on the referral. The TTB-requested response from external agencies provides information as to the utility of the referrals and potential enforcement actions taken by those agencies against TTB-regulated entities. Current Actions: There are no program changes to this information collection at this time, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is decreasing the estimated number of annual respondents, responses, and total burden hours associated with this collection. Type of Review: Extension of a currently approved collection. Affected Public: State, local, and tribal governments. Estimated Annual Burden Number of Respondents: 25. Average Responses per Respondent: 1 (one). Number of Responses: 25. Average Per-response Burden: 1 hour. Total Burden: 25 hours. OMB Control No. 1513-0041 Title: Distilled Spirits Plants--Records and Monthly Reports of Processing Operations. TTB Form and Recordkeeping Numbers: TTB F 5110.28 and TTB REC 5110/ 03. Abstract: The IRC at 26 U.S.C. 5207 requires that distilled spirits plant (DSP) proprietors keep records and submit reports regarding their production, storage, denaturation, and processing operations in as the Secretary of the Treasury (the Secretary) prescribes by regulation. As defined in that section, processing activities include receipt or transfer of alcoholic ingredients used in spirits production, bottling and packaging of distilled spirits, and removal of distilled spirits from the DSP premises. Under that authority, the TTB regulations in 27 CFR part 19 require DSP proprietors to keep certain records related to their processing operations, and based on those records, to submit monthly summary reports of their processing operations using form TTB F 5110.28. TTB uses the collected information to ensure that the relevant tax provisions of the IRC are appropriately applied and to produce generalized distilled spirits statistical reports for release to the public. [[Page 63653]] Current Actions: There are no program changes to this information collection, and TTB is submitting for extension purposes only. As for adjustments, due to a change in agency estimates resulting from continued growth in the number of DSPs in the United States, TTB is increasing the estimated number of annual respondents, total responses, and burden hours associated with this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits; State and local governments. Estimated Annual Burden Number of Respondents: 6,100. Average Responses per Respondent: 12 (once per month). Number of Responses: 73,200. Average Per-response Burden: 2 hours (1 hour recordkeeping and 1 hour reporting). Total Burden: 146,000 hours. OMB Control No. 1513-0058 Title: Usual and Customary Business Records Maintained by Brewers. TTB Recordkeeping Number: TTB REC 5130/1. Abstract: The IRC at 26 U.S.C. 5415 requires brewers to keep records containing such information as the Secretary prescribes by regulation and make them available for Government inspection, while 26 U.S.C. 5555 requires any person liable for Federal excise tax on alcohol beverages to keep records, make reports, and comply with regulations prescribed by the Secretary. Under those IRC provisions, the TTB regulations in 27 CFR part 25, Beer, require brewers to keep certain usual and customary business records documenting their operations, including production and packaging of beer and other brewery products and inventories, removals, returns, shipments, storage, and transfers of such products. TTB uses the collected information to establish a brewer's excise tax liability and verify tax claims, and verify that beer is produced, packaged, stored, shipped, and transferred in accordance with the relevant Federal laws and regulations. Current Actions: There are no program changes associated with this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is increasing the estimated number of annual respondents and responses to this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses or other for-profits. Estimated Annual Burden Number of Respondents: 15,380. Average Responses per Respondent: 1 (one) per year. Number of Responses: 15,380. Average Per-response and Total Burden: This information collection consists of usual and customary records kept by respondents during the normal course of business, regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0059 Title: Usual and Customary Business Records Relating to Tax-Free Alcohol. TTB Recordkeeping Number: TTB REC 5150/3. Abstract: In general, the IRC at 26 U.S.C. 5001 imposes Federal excise tax on distilled spirits produced in or imported into the United States, but, under sections 26 U.S.C. 5214(a)(2) and (a)(3), distilled spirits may be withdrawn free of tax for nonbeverage purposes for use by Federal, State, and local governments, and for use by certain educational organizations and institutions, research laboratories, hospitals, blood banks, sanitariums, and nonprofit clinics, subject to regulations prescribed by the Secretary. In addition, the IRC at 26 U.S.C. 5275 requires persons that procure or use distilled spirits withdrawn free of tax under those sections to keep records and make reports regarding the receipt and use of such spirits as required by regulation. Under that IRC authority, the TTB regulations in 27 CFR part 22 require tax-free alcohol users to maintain certain usual and customary business records regarding the inventory, receipt, and disposition of such alcohol. TTB uses the collected information to account for tax-free spirits and detect their diversion to taxable beverage use. Current Actions: There are no program changes to this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is decreasing the estimated number of annual respondents, responses, and total burden hours associated with this collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits. Estimated Annual Burden Number of Respondents: 5,050. Average Responses per Respondent: 1 (one) per year. Number of Responses: 5,050. Average Per-response and Total Burden: This information collection consists of usual and customary records kept by respondents during the normal course of business, regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0062 Title: Usual and Customary Business Records Relating to Denatured Spirits. TTB Recordkeeping Number: TTB REC 5150/1. Abstract: Denatured distilled spirits, which generally are not subject to Federal excise tax, may be used for industrial purposes in the manufacture of nonbeverage products. To prevent diversion of denatured spirits to taxable beverage use, the IRC at 26 U.S.C. 5271- 5275 imposes a system of permits, bonds, recordkeeping, and reporting requirements on persons that procure or use such alcohol and authorize the Secretary to issue regulations regarding those matters. Under those authorities, the TTB regulations in 27 CFR part 20 require industrial alcohol users to keep certain usual and customary business records regarding the procurement, distribution, and use of denatured spirits. To protect the revenue, TTB uses the required records to account for denatured spirits and ensure compliance with statutory and regulatory requirements. Current Actions: There are no program changes associated with this information collection, and TTB is submitting it for extension purposes only. As for adjustments, due to changes in agency estimates, TTB is increasing the estimated number of annual respondents and responses to this information collection. Type of Review: Extension of a currently approved collection. Affected Public: Businesses and other for-profits. Estimated Annual Burden Number of Respondents: 5,770. Average Responses per Respondent: 1 (one). Number of Responses: 5,770. Average Per-response and Total Burden: None. This information collection consists of usual and customary records kept by respondents during the normal course of business, [[Page 63654]] regardless of any regulatory requirement to do so. As such, under the OMB regulations at 5 CFR 1320.3(b)(2), this information collection imposes no additional burden on respondents. OMB Control No. 1513-0071 Title: Tobacco Products Importer or Manufacturer--Records of Large Cigar Wholesale Prices. TTB Recordkeeping Number: TTB REC 5230/1. Abstract: In general, the IRC at 26 U.S.C. 5701 imposes Federal excise taxes on tobacco products and cigarette papers and tubes, and, as described at 26 U.S.C. 5701(a)(2), the excise tax on large cigars is based on a percentage of the price at which such cigars are sold by the manufacturer or importer. The IRC at 26 U.S.C. 5741 also requires every manufacturer and importer of tobacco products to keep records in such manner as the Secretary prescribes by regulation. Under those authorities, the TTB regulations at 27 CFR 40.187 and 41.181 require that manufacturers and importers of large cigars maintain certain records regarding the price for which those cigars are sold. TTB uses the collected information to verify that the appropriate amount of excise tax is paid on large cigars. Current Actions: There are no program changes or adjustments associated with this information collection at this time, and TTB is submitting it for extension purposes only. Type of Review: Extension of a currently approved collection."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-us-ttb-large-cigar-import-price-records-consultation-20261006.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Финляндия: предложены изменения налоговой нейтральности реорганизаций в ЕЭЗ",
+      "sources": [
+        {
+          "name": "Правительство Финляндии",
+          "url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125"
+        }
+      ],
+      "theme": "Проект изменения налоговой нейтральности реорганизаций компаний ЕЭЗ",
+      "jurisdictions": "Финляндия, ЕЭЗ",
+      "act": "HE 211/2026 vp; VM/2026/176; решение правительства 01.10.2026",
+      "source_published_at": "2026-10-01",
+      "publication_date_evidence": {
+        "url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125",
+        "source_quote": "Valtioneuvoston yleisistunto 1.10.2026 13.00"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "fi-eea-corporate-restructuring-he211-government-proposal-20261001",
+        "cross_border_relevance": "Прочитано сообщение правительства о проекте: оно прямо уточняет охват реорганизаций компаний Европейской экономической зоны. Статус внесённого предложения и планируемое начало применения отделены от принятого закона. Это HE 211/2026 и VM/2026/176, отдельный документ от опубликованного ранее проекта иностранных фондов VM/2026/177.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-fi-eea-corporate-restructuring-he211-government-proposal-20261001",
+      "caption": "Финляндия: предложены изменения налоговой нейтральности реорганизаций в ЕЭЗ\n\n1 октября 2026 года правительство Финляндии одобрило для внесения в парламент законопроект HE 211/2026. Предлагается уточнить применение правил к реорганизациям между компаниями Европейской экономической зоны и разрешить налогово-нейтральную передачу бизнеса при отрицательной стоимости передаваемых чистых активов. Предполагаемая дата вступления изменений в силу — 1 января 2027 года.\n\nПочему это важно: Группам с финскими компаниями стоит проверить планируемые реорганизации и условия передачи активов в ЕЭЗ. Одобрение правительственного предложения не означает принятия закона парламентом; рассчитывать налоговые последствия сделки нужно с учётом дальнейшего рассмотрения.\n\nИсточник: https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125",
+          "checked_at": "2026-10-07T13:31:48.596368+00:00",
+          "status_code": 200,
+          "final_url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125",
+          "evidence": [
+            {
+              "claim": "1 октября 2026 года правительство Финляндии одобрило для внесения в парламент законопроект HE 211/2026. Предлагается уточнить применение правил к реорганизациям между компаниями Европейской экономической зоны и разрешить налогово-нейтральную передачу бизнеса при отрицательной стоимости передаваемых чистых активов. Предполагаемая дата вступления изменений в силу — 1 января 2027 года.",
+              "source_quote": "Elinkeinotulon verottamisesta annettuun lakiin ehdotetaan lisättäväksi säännökset veroneutraalista vastikkeettomasta sisaryhtiösulautumisesta. Lakiin lisättäisiin myös säännökset yhtiöittämällä toteutettavasta jakautumisesta, osakevastikkeen allokaatiosta asunto-osakeyhtiön ja keskinäisen kiinteistöosakeyhtiön jakautumisessa sekä jakautuvan yhtiön osakkeiden hankintamenon kohdistamisesta julkisesti noteerattujen vastaanottavien yhtiöiden ja jakautuneen yhtiön osakkeille. Sulautumisessa ja jakautumisessa annettavan rahavastikkeen enimmäismäärää ehdotetaan lisäksi nostettavan aikaisemmasta. Veroneutraali liiketoimintasiirto mahdollistettaisiin myös negatiivisen nettoapportin tilanteissa ja lain sanamuotoa täsmennettäisiin koskemaan Euroopan talousalueella olevien yhtiöiden välisiä yritysjärjestelyjä. Lisäksi tuloverolakia ehdotetaan muutettavaksi siten, että vastaanottavalla yhteisöllä olisi oikeus vähentää sulautuneen ja jakautuneen yhteisön tappiot myös silloin, kun yhteisöt ovat kuuluneet samaan konserniin tappiovuoden alusta lukien. Samalla selvennettäisiin muusta kuin julkisesti noteeratusta yhtiöstä saadun osingon verotusta koskevaa säännöstä siten, että osakkeen matemaattisella arvolla tarkoitettaisiin yhtiön osakkeen verovuoden lopussa olevaa matemaattista arvoa. Lisäksi varojen arvostamisesta verotuksessa annettua lakia ehdotetaan muutettavaksi siten, että yhtiön osakkeen matemaattinen arvo laskettaisiin sulautumisen ja jakautumisen yhteydessä aina uudelleen yritysjärjestelyn toteuttamisverovuodelle. Lisäksi osakeantitilanteiden osalta osakkeen matemaattisen arvon laskentaa selkeytettäisiin ja yhdenmukaistettaisiin. Lakiin tuotaisiin lisäksi säännökset negatiivisen nettoapportin huomioimisesta matemaattisen arvon ja vertailuarvon laskennassa. Ehdotetut lait on tarkoitettu tulemaan voimaan 1.1.2027. Esitys Valtioneuvosto antaa eduskunnalle hallituksen esityksen verolainsäädännön yritysjärjestelysäännösten ja eräiden muiden lakien muuttamisesta Päätös Valtioneuvosto hyväksyi esityksen."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125",
+            "checked_at": "2026-10-07T13:31:48.596368+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://valtioneuvosto.fi/paatokset/paatos?decisionId=7125",
+            "evidence": [
+              {
+                "claim": "1 октября 2026 года правительство Финляндии одобрило для внесения в парламент законопроект HE 211/2026. Предлагается уточнить применение правил к реорганизациям между компаниями Европейской экономической зоны и разрешить налогово-нейтральную передачу бизнеса при отрицательной стоимости передаваемых чистых активов. Предполагаемая дата вступления изменений в силу — 1 января 2027 года.",
+                "source_quote": "Elinkeinotulon verottamisesta annettuun lakiin ehdotetaan lisättäväksi säännökset veroneutraalista vastikkeettomasta sisaryhtiösulautumisesta. Lakiin lisättäisiin myös säännökset yhtiöittämällä toteutettavasta jakautumisesta, osakevastikkeen allokaatiosta asunto-osakeyhtiön ja keskinäisen kiinteistöosakeyhtiön jakautumisessa sekä jakautuvan yhtiön osakkeiden hankintamenon kohdistamisesta julkisesti noteerattujen vastaanottavien yhtiöiden ja jakautuneen yhtiön osakkeille. Sulautumisessa ja jakautumisessa annettavan rahavastikkeen enimmäismäärää ehdotetaan lisäksi nostettavan aikaisemmasta. Veroneutraali liiketoimintasiirto mahdollistettaisiin myös negatiivisen nettoapportin tilanteissa ja lain sanamuotoa täsmennettäisiin koskemaan Euroopan talousalueella olevien yhtiöiden välisiä yritysjärjestelyjä. Lisäksi tuloverolakia ehdotetaan muutettavaksi siten, että vastaanottavalla yhteisöllä olisi oikeus vähentää sulautuneen ja jakautuneen yhteisön tappiot myös silloin, kun yhteisöt ovat kuuluneet samaan konserniin tappiovuoden alusta lukien. Samalla selvennettäisiin muusta kuin julkisesti noteeratusta yhtiöstä saadun osingon verotusta koskevaa säännöstä siten, että osakkeen matemaattisella arvolla tarkoitettaisiin yhtiön osakkeen verovuoden lopussa olevaa matemaattista arvoa. Lisäksi varojen arvostamisesta verotuksessa annettua lakia ehdotetaan muutettavaksi siten, että yhtiön osakkeen matemaattinen arvo laskettaisiin sulautumisen ja jakautumisen yhteydessä aina uudelleen yritysjärjestelyn toteuttamisverovuodelle. Lisäksi osakeantitilanteiden osalta osakkeen matemaattisen arvon laskentaa selkeytettäisiin ja yhdenmukaistettaisiin. Lakiin tuotaisiin lisäksi säännökset negatiivisen nettoapportin huomioimisesta matemaattisen arvon ja vertailuarvon laskennassa. Ehdotetut lait on tarkoitettu tulemaan voimaan 1.1.2027. Esitys Valtioneuvosto antaa eduskunnalle hallituksen esityksen verolainsäädännön yritysjärjestelysäännösten ja eräiden muiden lakien muuttamisesta Päätös Valtioneuvosto hyväksyi esityksen."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-fi-eea-corporate-restructuring-he211-government-proposal-20261001.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Уругвай: налоговая служба подтвердила туристическую льготу по НДС для нерезидентов",
+      "sources": [
+        {
+          "name": "Главное налоговое управление Уругвая",
+          "url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones"
+        }
+      ],
+      "theme": "Льгота по НДС для туристических услуг резидентам и нерезидентам",
+      "jurisdictions": "Уругвай, иностранные туристы",
+      "act": "Руководство DGI от 02.10.2026; Decreto № 235/026 от 01.10.2026",
+      "source_published_at": "2026-10-02",
+      "publication_date_evidence": {
+        "url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones",
+        "source_quote": "02/10/2026 Compartir Beneficios fiscales a favor de consumidores finales"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-07",
+        "event_key": "uy-tourism-vat-nonresidents-decree235-guidance-20261002",
+        "cross_border_relevance": "Прочитано обновлённое официальное руководство DGI, прямо охватывающее нерезидентов. Свежая дата подтверждена видимым заголовком и указанием нового декрета, дополнительно прочитано сообщение MEF от 1 октября о его подписании. Девять процентных пунктов не подменены ставкой девять процентов; условия льготы и исключение гостиничного проживания сохранены.",
+        "language_review": "Русский текст проверен; статус документа, цифры, даты и реквизиты сверены с прочитанным первоисточником."
+      },
+      "slug": "2026-10-07_1700_-uy-tourism-vat-nonresidents-decree235-guidance-20261002",
+      "caption": "Уругвай: налоговая служба подтвердила туристическую льготу по НДС для нерезидентов\n\n2 октября 2026 года налоговая служба Уругвая опубликовала руководство с учётом декрета № 235/026 от 1 октября. Снижение НДС на девять процентных пунктов для перечисленных гастрономических и туристических услуг при оплате картой или электронными деньгами распространяется на резидентов и нерезидентов. Льгота отражается в расчёте оператора платёжного инструмента.\n\nПочему это важно: Иностранным туристам и обслуживающим их компаниям стоит проверить вид услуги и оформление оплаты. Льгота зависит от установленных условий и не распространяется автоматически на любую покупку или проживание в отеле.\n\nИсточник: https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones",
+          "checked_at": "2026-10-07T13:31:48.915616+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones",
+          "evidence": [
+            {
+              "claim": "2 октября 2026 года налоговая служба Уругвая опубликовала руководство с учётом декрета № 235/026 от 1 октября. Снижение НДС на девять процентных пунктов для перечисленных гастрономических и туристических услуг при оплате картой или электронными деньгами распространяется на резидентов и нерезидентов. Льгота отражается в расчёте оператора платёжного инструмента.",
+              "source_quote": "02/10/2026 Compartir Beneficios fiscales a favor de consumidores finales que abonen con tarjetas de crédito, tarjetas de débito, instrumentos de dinero electrónico o instrumentos análogos. Información vigente (última actualización: Decreto N° 235/026 de 01/10/2026). 1- Información general del régimen Beneficio Se obtiene una rebaja en la tasa del IVA de 9 puntos porcentuales. Cuando se trate de adquisiciones realizadas a contribuyentes de IVA Mínimo la reducción se determinará aplicando un descuento de 7,38% sobre el importe total de la operación. Servicios comprendidos Servicios gastronómicos, cuando sean prestados por restaurantes, bares, cantinas, cafeterías, salones de té y similares, o por hoteles, moteles, apart hoteles, hosterías, estancias turísticas, hoteles de campo, granjas turísticas, posadas de campo, casas de campo y camping hostels, siempre que dichas prestaciones no integren el concepto de hospedaje. También quedan incluidas las operaciones correspondientes a visitas guiadas, degustación de vinos y productos locales realizadas en establecimientos enoturísticos registrados en el Ministerio de Turismo, siempre que los productos locales sean consumidos en dichos establecimientos. Servicios de catering para la realización de fiestas y eventos. Servicios para fiestas y eventos, no incluidos en el punto anterior. Arrendamiento de vehículos sin chofer. Servicios de mediación en el arrendamiento de inmuebles con destino turístico. En el Decreto 537/005 y la Resolución 12/006 se encuentran las definiciones de cada concepto. Obtención del beneficio Abonando la compra mediante la utilización de tarjetas de crédito, tarjetas de débito, instrumentos de dinero electrónico o instrumentos análogos que tenga por titular una persona física. El consumidor del servicio recibe el comprobante por el consumo sin ningún tipo de descuento; el beneficio se concreta mediante un descuento que la entidad administradora de los instrumentos de pago incluirá en su liquidación de consumos. Si el pago se realiza parcialmente con los instrumentos de pago mencionados la reducción se aplicará en proporción al monto abonado con tales instrumentos respecto del importe total de la venta. Alcance Alcanza a todas las personas, residentes y no residentes en Uruguay."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones",
+            "checked_at": "2026-10-07T13:31:48.915616+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/reduccion-iva-determinadas-operaciones",
+            "evidence": [
+              {
+                "claim": "2 октября 2026 года налоговая служба Уругвая опубликовала руководство с учётом декрета № 235/026 от 1 октября. Снижение НДС на девять процентных пунктов для перечисленных гастрономических и туристических услуг при оплате картой или электронными деньгами распространяется на резидентов и нерезидентов. Льгота отражается в расчёте оператора платёжного инструмента.",
+                "source_quote": "02/10/2026 Compartir Beneficios fiscales a favor de consumidores finales que abonen con tarjetas de crédito, tarjetas de débito, instrumentos de dinero electrónico o instrumentos análogos. Información vigente (última actualización: Decreto N° 235/026 de 01/10/2026). 1- Información general del régimen Beneficio Se obtiene una rebaja en la tasa del IVA de 9 puntos porcentuales. Cuando se trate de adquisiciones realizadas a contribuyentes de IVA Mínimo la reducción se determinará aplicando un descuento de 7,38% sobre el importe total de la operación. Servicios comprendidos Servicios gastronómicos, cuando sean prestados por restaurantes, bares, cantinas, cafeterías, salones de té y similares, o por hoteles, moteles, apart hoteles, hosterías, estancias turísticas, hoteles de campo, granjas turísticas, posadas de campo, casas de campo y camping hostels, siempre que dichas prestaciones no integren el concepto de hospedaje. También quedan incluidas las operaciones correspondientes a visitas guiadas, degustación de vinos y productos locales realizadas en establecimientos enoturísticos registrados en el Ministerio de Turismo, siempre que los productos locales sean consumidos en dichos establecimientos. Servicios de catering para la realización de fiestas y eventos. Servicios para fiestas y eventos, no incluidos en el punto anterior. Arrendamiento de vehículos sin chofer. Servicios de mediación en el arrendamiento de inmuebles con destino turístico. En el Decreto 537/005 y la Resolución 12/006 se encuentran las definiciones de cada concepto. Obtención del beneficio Abonando la compra mediante la utilización de tarjetas de crédito, tarjetas de débito, instrumentos de dinero electrónico o instrumentos análogos que tenga por titular una persona física. El consumidor del servicio recibe el comprobante por el consumo sin ningún tipo de descuento; el beneficio se concreta mediante un descuento que la entidad administradora de los instrumentos de pago incluirá en su liquidación de consumos. Si el pago se realiza parcialmente con los instrumentos de pago mencionados la reducción se aplicará en proporción al monto abonado con tales instrumentos respecto del importe total de la venta. Alcance Alcanza a todas las personas, residentes y no residentes en Uruguay."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-07\\2026-10-07_1700_-uy-tourism-vat-nonresidents-decree235-guidance-20261002.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

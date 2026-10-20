@@ -42,6 +42,10 @@ class FakeClient:
         self.calls.append("get_me")
         return SimpleNamespace(username="academy_of_beps")
 
+    async def iter_messages(self, chat_id, limit):
+        if False:
+            yield None
+
     async def send_file(self, chat_id, image, **kwargs):
         self.calls.append(("send_file", chat_id, image, kwargs))
         self.next_id += 1
@@ -152,10 +156,25 @@ class EndToEndAcceptance(unittest.TestCase):
                     f"{title}\n\nИсточник: {url}{disclaimer}\n\n"
                     "#налоги #АкадемияBEPS #АкадемияБЕПС"
                 ),
-                "theme": ",".join(item.get("topics", [])),
+                "theme": "Налоговая тема: " + ",".join(item.get("topics", [])),
                 "jurisdictions": ",".join(item.get("jurisdiction_names", [])),
+                "source_published_at": "2099-01-01",
+                "publication_date_evidence": {"url": url, "source_quote": "2099-01-01"},
+                "editorial_review": {"reviewed_by": "offline acceptance",
+                    "event_key": f"acceptance-{item['n']}",
+                    "cross_border_relevance": "Офлайн-проверка проводки источников, доставки и дедупликации международных налоговых материалов."},
                 "act": item.get("act") or item.get("ecli") or "",
                 "sources": [{"label": item["source"], "url": url}],
+                "source_verifications": [{
+                    "url": url,
+                    "checked_at": "2026-01-01T08:00:00+00:00",
+                    "status_code": 200,
+                    "final_url": url,
+                    "evidence": [{
+                        "claim": title,
+                        "source_quote": "Fixture source evidence for acceptance test",
+                    }],
+                }],
                 "image_spec": {"badge": item["source"][:24]},
                 "channels": ["telegram_channel", "vk", "linkedin", "email"],
                 "item_type": item.get("item_type", ""), "court": court,
@@ -164,7 +183,11 @@ class EndToEndAcceptance(unittest.TestCase):
                 "approval": {"status": "approved", "by": "offline acceptance",
                              "evidence": f"fixture-{item['n']}"},
             })
-        release = {"date": "2099-01-01", "release": "acceptance", "items": release_items}
+        # Geography in this engine fixture is explicit; collection scoring is
+        # tested separately and does not impose the editorial release quotas.
+        for n, item in enumerate(release_items):
+            item['jurisdictions'] = 'Россия' if n < 2 else 'Казахстан' if n < 4 else 'Нидерланды'
+        release = {"date": "2099-01-01", "release": "2099-01-01_0900_editorial", "items": release_items}
         publish_batch.validate_release(release, execution=True)
         assets = publish_batch.prepare_assets(self.root, release)
         self.assertEqual(len(assets), 10)
@@ -174,6 +197,7 @@ class EndToEndAcceptance(unittest.TestCase):
         session.chmod(0o600)
         fake = FakeClient()
         with mock.patch.object(publish_batch, "ensure_session_idle", return_value=None), \
+             mock.patch.object(publish_batch, "ensure_editorial_delivery_window", return_value=None), \
              mock.patch.dict(os.environ, {"TELEGRAM_API_ID": "123", "TELEGRAM_API_HASH": "hash"}):
             sent = asyncio.run(publish_batch.execute_editorial(
                 self.root, release, assets, session_path=session,
@@ -186,9 +210,13 @@ class EndToEndAcceptance(unittest.TestCase):
             if line.startswith("| 2099-")
         ]), 10)
 
-        # Двойной прогон: select и delivery не порождают повторов.
+        # Повторный отбор исключает доставленные темы и сохраняет два
+        # неопубликованных кандидата для следующего выпуска.
         second = select_news.run("2099-01-01", 10, str(self.root))
-        self.assertEqual(json.loads(Path(second["out_path"]).read_text(encoding="utf-8"))["items"], [])
+        remaining = json.loads(Path(second["out_path"]).read_text(encoding="utf-8"))["items"]
+        self.assertEqual(len(remaining), 2)
+        self.assertFalse({i['url'] for i in remaining}.intersection(
+            s['url'] for item in release_items for s in item['sources']))
         sent_again = asyncio.run(publish_batch.execute_editorial(
             self.root, release, assets, session_path=self.tmp / "missing.session",
             env_path=self.tmp / "missing.env", client_factory=lambda *_: None,

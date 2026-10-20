@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 25 Sep 2026 09:54:28 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Standpunt kwalificatie Jersey Limited Company</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 09:48:41 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167763</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Jersey Limited Company vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Jersey Limited Company vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De kwalificatie vindt plaats in verband met de belastingheffing ten aanzien van een naar het recht van Jersey opgerichte Limited Company.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Met welke Nederlandse rechtsvorm is een Jersey Limited Company vergelijkbaar voor de toepassing van de  Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Een Jersey Limited Company is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 op grond van artikel 2, tweede lid, Besluit vergelijking buitenlandse rechtsvormen aan te merken als een niet-vergelijkbare rechtsvorm. Mogelijk is in een voorgelegd geval sprake van vergelijkbaarheid met een fonds voor gemene rekening als bedoeld in artikel 2, vierde lid, Wet Vpb 1969 of een transparant fonds als bedoeld in artikel 2.14bis, zevende lid, van de Wet IB 2001. Dit is afhankelijk van de relevante feiten en omstandigheden van het geval. De beoordeling hiervan is voorbehouden aan de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-jersey-limited-company/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-jersey-limited-company/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/10/Jersey.jpg" length="66699" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Macau Limitada</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 08:49:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167765</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Macau Limitada vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Macau Limitada vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De kwalificatie vindt plaats in verband met de belastingheffing ten aanzien van een naar het recht van Macau opgerichte Sociedade por quotas. Deze rechtsvorm draagt in het handelsverkeer de naam Limitada. In dit standpunt wordt daarom de aanduiding ‘Macau Limitada’ gebruikt.</p>
+
+
+
+<p class="wp-block-paragraph">Met welke Nederlandse rechtsvorm is een Macau Limitada vergelijkbaar voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021?</p>
+
+
+
+<p class="wp-block-paragraph">Een Macau Limitada is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse nv of Nederlandse bv. Deze kwalificatie geldt ook voor de in de Macau Codigo Commercial genoemde Sociedade Unipessoal Limitada, een variant van de Macau Limitada met slechts een participant.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-macau-limitada/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-macau-limitada/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/Macau.jpg" length="66123" type="image/jpeg" />	</item>
+		<item>
+		<title>Inspecteur handelt niet voortvarend bij navordering erfenis</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-5-2/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-5-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 05:04:00 +0000</pubDate>
+				<category><![CDATA[Erf- en schenkbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167745</guid>
+
+					<description><![CDATA[Hof Amsterdam oordeelt dat de inspecteur niet voortvarend genoeg heeft gehandeld bij de navordering van erfbelasting over Belgisch vermogen. De navorderingsaanslag en vergrijpboete worden daarom vernietigd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam oordeelt dat de inspecteur niet voortvarend genoeg heeft gehandeld bij de navordering van erfbelasting over Belgisch vermogen. De navorderingsaanslag en vergrijpboete worden daarom vernietigd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw erft in 2010 vermogen van haar echtgenoot. Belgische rekeningen worden niet in de aangifte erfbelasting vermeld. In september 2020 verstrekt zij de inspecteur informatie over deze rekeningen. Pas op 1 april 2021 wordt intern onderzocht of het Belgische vermogen gevolgen heeft voor de erfbelasting. In februari 2022 volgt een navorderingsaanslag erfbelasting van € 20.007 met een vergrijpboete. In geschil is onder meer of de inspecteur bij de navordering voldoende voortvarend heeft gehandeld.</p>
+
+
+
+<h3 class="wp-block-heading">Meer dan zes maanden vertraging</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur inkomstenbelasting en de inspecteur erfbelasting voor de voortvarendheidseis één bestuursorgaan zijn. De termijn begint daarom al bij ontvangst van de informatie over het buitenlandse vermogen in september 2020. Tot 1 april 2021 zijn geen relevante werkzaamheden voor de erfbelasting over 2010 verricht. Daarmee is sprake van een onverklaarbare vertraging van meer dan zes maanden. Dat de vrouw haar verklaring niet volledig naar waarheid heeft ingevuld, maakt dit niet anders. Het hof vernietigt de navorderingsaanslag en de vergrijpboete.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-66?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 66 SW 1956</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2574" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 21-07-2026, ECLI:NL:GHAMS:2026:2574, 25/726 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-5-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/12/Uitstel.jpg" length="26026" type="image/jpeg" />	</item>
+		<item>
+		<title>Waarderingsregel bijtelling auto niet in strijd met EU-recht</title>
+		<link>https://www.taxence.nl/loonbelasting/automatische-concepten-5-3/</link>
+					<comments>https://www.taxence.nl/loonbelasting/automatische-concepten-5-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 05:03:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167747</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat de waarderingsregel voor de bijtelling wegens privégebruik van een auto niet in strijd is met het EU-recht. Recente Europese rechtspraak geeft geen aanleiding om hierover prejudiciële vragen te stellen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat de waarderingsregel voor de bijtelling wegens privégebruik van een auto niet in strijd is met het EU-recht. Recente Europese rechtspraak geeft geen aanleiding om hierover prejudiciële vragen te stellen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een werknemer krijgt van zijn werkgever een auto ter beschikking voor privégebruik. De werkgever houdt daarom over verschillende tijdvakken van 2020 tot en met 2023 loonheffing in op grond van de bijtellingsregeling. De werknemer stelt dat de waarderingsregel van artikel 13bis Wet LB 1964 in strijd is met art. 110 VWEU. Over hetzelfde geschilpunt heeft hij al eerder geprocedeerd tot aan de Hoge Raad. Volgens de werknemer geeft een recent arrest van het HvJ EU aanleiding om de kwestie opnieuw aan het HvJ EU voor te leggen.</p>
+
+
+
+<h3 class="wp-block-heading">Geen nieuwe argumenten voor ander oordeel</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank ziet in de aangevoerde argumenten geen nieuwe standpunten die tot een ander oordeel leiden en sluit aan bij de eerdere rechtspraak dat geen sprake is van strijd met art. 110 VWEU. Hoewel herhaald procederen onder bijzondere omstandigheden misbruik van procesrecht kan opleveren, is die grens hier nog niet bereikt. De beroepen zijn ongegrond. Wel krijgt de werknemer € 4.500 immateriële schadevergoeding wegens overschrijding van de redelijke termijn.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-13bis?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13bis Wet LB 1964</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001506-110?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 110 VWEU</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9026" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 10-09-2026, ECLI:NL:RBZWB:2026:9026, BRE 22/209 tot en met 22/220, 22/586, 22/629, 22/1577, 22/1578, 22/3742, 22/4796, 22/4804, 22/4809, 22/5184, 22/6015, 23/1104, 23/1242, 23/2022, 23/2373 en 23/3122 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/loonbelasting/automatische-concepten-5-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/01/Auto-bestuurder.jpg" length="28433" type="image/jpeg" />	</item>
+		<item>
+		<title>Nederland wil ruimere EU-regels voor financiering groeibedrijven</title>
+		<link>https://www.taxence.nl/nieuws/nederland-wil-ruimere-eu-regels-voor-financiering-groeibedrijven/</link>
+					<comments>https://www.taxence.nl/nieuws/nederland-wil-ruimere-eu-regels-voor-financiering-groeibedrijven/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167742</guid>
+
+					<description><![CDATA[Innovatieve startups en scale-ups dreigen financiering mis te lopen doordat zij volgens Europese regels ten onrechte kunnen worden aangemerkt als een Onderneming in Moeilijkheden (OIM). Nederland en tien andere EU-landen vinden het voorstel van de Europese Commissie om de regels vanaf 2027 aan te passen niet ver genoeg gaan.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Innovatieve startups en scale-ups dreigen financiering mis te lopen doordat zij volgens Europese regels ten onrechte kunnen worden aangemerkt als een Onderneming in Moeilijkheden (OIM). Nederland en tien andere EU-landen vinden het voorstel van de Europese Commissie om de regels vanaf 2027 aan te passen niet ver genoeg gaan.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Minister Heleen Herbert van Economische Zaken en Klimaat heeft samen met België, Duitsland, Frankrijk, Italië, Letland, Luxemburg, Oostenrijk, Polen, Slowakije en Tsjechië voorstellen gedaan om de Europese definitie te verbeteren. De landen willen dat achtergestelde leningen en andere vormen van quasi-eigen vermogen worden meegeteld als volwaardig eigen vermogen.</p>
+
+
+
+<p class="wp-block-paragraph">De elf landen hebben hun voorstellen in een gezamenlijk statement naar de Europese Commissie gestuurd. Ook staat het onderwerp op 24 september op de agenda van de Raad voor Concurrentievermogen in Brussel. Herbert bespreekt de kwestie daarnaast met Eurocommissaris Teresa Ribera, die verantwoordelijk is voor mededinging.</p>
+
+
+
+<h3 class="wp-block-heading">Groeibedrijven vallen buiten de boot</h3>
+
+
+
+<p class="wp-block-paragraph">De Europese OIM-regels zijn bedoeld om te voorkomen dat niet-levensvatbare bedrijven via subsidies, garanties of leningen staatssteun ontvangen. Daarmee moet oneerlijke concurrentie worden voorkomen. Volgens Nederland en de andere landen hebben de regels echter onbedoeld nadelige gevolgen voor innovatieve startups en scale-ups.</p>
+
+
+
+<p class="wp-block-paragraph">Dat heeft te maken met de manier waarop deze ondernemingen zich financieren. Groeibedrijven maken relatief vaak gebruik van durfkapitaal, achtergestelde leningen en andere financieringsvormen die kenmerken hebben van zowel vreemd als eigen vermogen. Bij de beoordeling of sprake is van een Onderneming in Moeilijkheden wordt deze financiering volgens het ministerie niet als eigen vermogen meegeteld.</p>
+
+
+
+<p class="wp-block-paragraph">Daardoor kunnen startups en scale-ups op papier aan de OIM-definitie voldoen, terwijl zij volgens het ministerie financieel gezond en levensvatbaar zijn. Het gevolg kan zijn dat deze ondernemingen niet in aanmerking komen voor subsidies, garanties of leningen.</p>
+
+
+
+<h3 class="wp-block-heading">Voorstel Commissie gaat niet ver genoeg</h3>
+
+
+
+<p class="wp-block-paragraph">De Europese Commissie heeft inmiddels voorgesteld de OIM-regels vanaf 2027 aan te passen. Nederland en de tien andere landen vinden die wijziging onvoldoende, omdat achtergestelde leningen en ander quasi-eigen vermogen daarin niet als volwaardig eigen vermogen worden behandeld.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens Herbert zijn de huidige regels verouderd en kunnen zij veelbelovende groeibedrijven onnodig in hun ontwikkeling belemmeren. De minister ziet investeringen in innovatie en technologie als belangrijk voor economische groei en voor het verminderen van de afhankelijkheid van landen buiten de EU.</p>
+
+
+
+<p class="wp-block-paragraph">Het is niet de eerste keer dat Nederland aandringt op aanpassing. In mei riepen acht EU-landen, eveneens onder leiding van Nederland, al op om de OIM-definitie te wijzigen. Met het nieuwe gezamenlijke voorstel leggen inmiddels elf lidstaten concreet op tafel hoe de regels volgens hen moeten worden aangepast.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.rijksoverheid.nl/actueel/nieuws/2026/09/24/europese-aanpak-belemmerende-regel-financiering-groeibedrijven-onvoldoende" data-type="link" data-id="https://www.rijksoverheid.nl/actueel/nieuws/2026/09/24/europese-aanpak-belemmerende-regel-financiering-groeibedrijven-onvoldoende" target="_blank" rel="noreferrer noopener">Ministerie van Economische Zaken en Klimaat, 24 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nederland-wil-ruimere-eu-regels-voor-financiering-groeibedrijven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/Groei.jpg" length="31545" type="image/jpeg" />	</item>
+		<item>
+		<title>Staatssecretaris verkent herstelmogelijkheid foutieve lijfrente-overboeking</title>
+		<link>https://www.taxence.nl/nieuws/staatssecretaris-verkent-herstelmogelijkheid-foutieve-lijfrente-overboeking/</link>
+					<comments>https://www.taxence.nl/nieuws/staatssecretaris-verkent-herstelmogelijkheid-foutieve-lijfrente-overboeking/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 03:52:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167758</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg wil verkennen of bij lijfrenterekeningen onder strikte voorwaarden opnieuw een goedkeuring voor overboekingen naar verkeerde rekeningnummers terug zou kunnen keren. De eerdere regeling is geschrapt vanwege signalen van calculerend gedrag en betere mogelijkheden om foutieve overboekingen te voorkomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg wil verkennen of bij lijfrenterekeningen onder strikte voorwaarden opnieuw een goedkeuring voor overboekingen naar verkeerde rekeningnummers terug zou kunnen keren.</strong> <strong>De eerdere regeling is geschrapt vanwege signalen van calculerend gedrag en betere mogelijkheden om foutieve overboekingen te voorkomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De regelingen voor herstel van een foutieve overboeking naar een lijfrenterekening en voor geruisloze terugstorting van te veel betaalde premie of te hoge inleg zijn per 31 maart 2026 vervallen. Ze waren in 2012 ingevoerd als ‘helpende hand’ voor nieuwe aanbieders van lijfrentesparen.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens Eerenberg werd de regeling voor onjuiste overboekingen steeds vaker gebruikt voor betalingen die verder terug in de tijd lagen. Omdat duidelijke voorwaarden aan de herstelmogelijkheid ontbraken, leek deze volgens hem meer op een ‘spijtoptantenregeling’. Ook waren er signalen dat de regeling calculerend gedrag in de hand kon werken door voor de jaargrens geld te storten en dit daarna terug te vragen om box 3-heffing te ontwijken.</p>
+
+
+
+<h2 class="wp-block-heading">Minder noodzaak voor terugstorting</h2>
+
+
+
+<p class="wp-block-paragraph">De regeling voor geruisloze terugstorting is eveneens geschrapt. De wet kent al een beperkte saldomethode tot € 2.269 per kalenderjaar voor niet-afgetrokken premies. Daarnaast zijn met de Wet toekomst pensioenen de jaarruimte en reserveringsruimte substantieel verhoogd. Daardoor heeft de aanvullende goedkeuring volgens de staatssecretaris aan belang verloren.</p>
+
+
+
+<p class="wp-block-paragraph">In 2025 ontving de Belastingdienst 582 verzoeken voor foutieve overboekingen na drie maanden en geruisloze terugstortingen. In dat jaar werden in totaal 657.694 overboekingen op lijfrenteproducten aangegeven. Sinds de aanpassing van het verzamelbesluit zijn 48 verzoeken ontvangen.</p>
+
+
+
+<h2 class="wp-block-heading">Geen overgangsrecht</h2>
+
+
+
+<p class="wp-block-paragraph">Eerenberg acht overgangsrecht niet nodig. De wettelijke beperkte saldomethode biedt volgens hem in principe voldoende ruimte bij vergissingen. Bovendien kunnen financiële instellingen door technologische ontwikkelingen waarschuwingen geven bij overboekingen naar lijfrenterekeningen.</p>
+
+
+
+<p class="wp-block-paragraph">De staatssecretaris wil de oude regelingen niet volledig herstellen. Voor foutieve overboekingen ziet hij wel ruimte voor nader onderzoek. Hij is bereid te verkennen of een goedkeuring voor overboekingen naar verkeerde rekeningnummers kan terugkeren en onder welke strikte voorwaarden. Daarvoor moeten financiële instellingen adequate maatregelen nemen om abusievelijke overboekingen zoveel mogelijk te voorkomen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16989&amp;did=2026D45896" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/kamervragen/detail?id=2026Z16989&amp;did=2026D45896" target="_blank" rel="noreferrer noopener">Antwoord op Kamervragen over het verzamelbesluit lijfrenten en andere periodieke uitkeringen, Ministerie van Financien, 24 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/staatssecretaris-verkent-herstelmogelijkheid-foutieve-lijfrente-overboeking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/lijfrente-man.jpg" length="31929" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet past eigenwoningforfait niet aan na onderzoek</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-past-eigenwoningforfait-niet-aan-na-onderzoek/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-past-eigenwoningforfait-niet-aan-na-onderzoek/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 03:39:00 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167752</guid>
+
+					<description><![CDATA[Het eigenwoningforfait is lager dan zou volgen uit de oorspronkelijke onderbouwing, blijkt uit onderzoek van SEO. Het kabinet ziet desondanks geen aanleiding voor aanpassing, omdat in het Coalitieakkoord is afgesproken de fiscale behandeling van de eigen woning niet te wijzigen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het eigenwoningforfait is lager dan zou volgen uit de oorspronkelijke onderbouwing, blijkt uit onderzoek van SEO. Het kabinet ziet desondanks geen aanleiding voor aanpassing, omdat in het Coalitieakkoord is afgesproken de fiscale behandeling van de eigen woning niet te wijzigen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Staatssecretaris Eerenberg van Financiën heeft, mede namens de minister van Volkshuisvesting en Ruimtelijke Ordening, het rapport <em>Actualisering eigenwoningforfait</em> van SEO aan de Tweede Kamer aangeboden.</p>
+
+
+
+<p class="wp-block-paragraph">Aanleiding voor het onderzoek was de constatering van de Algemene Rekenkamer en het rapport <em>Belastingen in maatschappelijk perspectief</em> dat de onderbouwing van het eigenwoningforfait niet meer actueel is. De laatste cijfermatige onderbouwing dateert namelijk uit het begin van de jaren negentig van de vorige eeuw. Om die reden was in de Strategische Evaluatieagenda aangekondigd dat het eigenwoningforfait zou worden onderzocht.</p>
+
+
+
+<h3 class="wp-block-heading">Eigenwoningforfait zou anders kunnen worden ingevuld</h3>
+
+
+
+<p class="wp-block-paragraph">Het onderzoek van SEO laat volgens de staatssecretaris zien dat het huidige eigenwoningforfait lager is dan zou volgen uit de oorspronkelijke onderbouwing. SEO geeft daarmee aan dat het eigenwoningforfait desgewenst anders ingevuld zou kunnen worden. De staatssecretaris noemt het rapport een relevante inhoudelijke verdieping.</p>
+
+
+
+<p class="wp-block-paragraph">Het eigenwoningforfait is het bedrag dat voor een eigen woning bij het belastbare inkomen in box 1 wordt opgeteld. De hoogte daarvan is gekoppeld aan de WOZ-waarde van de woning. Het SEO-onderzoek was erop gericht de oorspronkelijke onderbouwing van dit forfait te actualiseren.</p>
+
+
+
+<h3 class="wp-block-heading">Geen wijziging fiscale behandeling eigen woning</h3>
+
+
+
+<p class="wp-block-paragraph">De uitkomsten van het onderzoek leiden echter niet tot een beleidswijziging. Het kabinet heeft in het Coalitieakkoord afgesproken dat het niet voornemens is om de fiscale behandeling van de eigen woning te wijzigen. Volgens de staatssecretaris geldt die afspraak daarmee ook voor eventuele aanpassingen van het eigenwoningforfait.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet neemt de uitkomsten van het SEO-onderzoek daarmee voor kennisgeving aan als inhoudelijke verdieping, maar verbindt er op dit moment geen aanpassing van het eigenwoningforfait aan.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19837&amp;did=2026D45900" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z19837&amp;did=2026D45900" target="_blank" rel="noreferrer noopener">Kabinetsreactie onderzoek eigenwoningforfait, nr. 2026-0000362829, Ministerie van Financien, 24 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-past-eigenwoningforfait-niet-aan-na-onderzoek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/woning-waarde.jpg" length="25883" type="image/jpeg" />	</item>
+		<item>
+		<title>RB: Belastingplan 2027 maakt stelsel complexer</title>
+		<link>https://www.taxence.nl/nieuws/rb-belastingplan-2027-maakt-stelsel-complexer/</link>
+					<comments>https://www.taxence.nl/nieuws/rb-belastingplan-2027-maakt-stelsel-complexer/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 03:20:00 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Branchenieuws]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167754</guid>
+
+					<description><![CDATA[Het Register Belastingadviseurs (RB) is kritisch op het pakket Belastingplan 2027. Volgens de beroepsvereniging vormen de voorgestelde maatregelen een lappendeken van uiteenlopende fiscale onderwerpen en leiden verschillende nieuwe maatregelen juist tot meer complexiteit en hogere administratieve lasten. Volgens het RB lijken veel maatregelen vooral te zijn ingegeven door budgettaire overwegingen. Tegelijkertijd worden fiscale faciliteiten versoberd<a class="read-more" href="https://www.taxence.nl/nieuws/rb-belastingplan-2027-maakt-stelsel-complexer/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Register Belastingadviseurs (RB) is kritisch op het pakket Belastingplan 2027. Volgens de beroepsvereniging vormen de voorgestelde maatregelen een lappendeken van uiteenlopende fiscale onderwerpen en leiden verschillende nieuwe maatregelen juist tot meer complexiteit en hogere administratieve lasten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens het RB lijken veel maatregelen vooral te zijn ingegeven door budgettaire overwegingen. Tegelijkertijd worden fiscale faciliteiten versoberd of afgeschaft vanuit de wens om het belastingstelsel te vereenvoudigen en negatief geëvalueerde regelingen te heroverwegen. Het RB constateert echter dat nieuwe maatregelen die vereenvoudiging deels weer tenietdoen.</p>
+
+
+
+<p class="wp-block-paragraph">Als voorbeelden noemt de organisatie de pseudo-eindheffing voor fossiele auto’s, het beperkte overgangsrecht voor de youngtimerregeling, maatregelen rond overlijdensdividend in combinatie met excessief lenen, de afschaffing van de bosbouwvrijstelling en de vormgeving van de Wet fiscale stimulering van start-ups en scale-ups.</p>
+
+
+
+<h2 class="wp-block-heading">Kritiek op auto- en box 3-onzekerheid</h2>
+
+
+
+<p class="wp-block-paragraph">Het RB handhaaft zijn eerdere kritiek op de pseudo-eindheffing voor fossiele auto’s. Het gebruik van afwijkende definities voor hetzelfde begrip binnen dezelfde wet kan volgens de organisatie tot verwarring leiden.</p>
+
+
+
+<p class="wp-block-paragraph">Ook het overgangsrecht voor de youngtimerregeling kan volgens het RB tot een opmerkelijke situatie leiden. Auto’s uit 2008, 2009 en 2010 vallen daardoor eerst wel, vervolgens tijdelijk niet en daarna opnieuw wel onder de regeling. Daarbij komt dat de catalogusprijs die nodig is om de tijdelijke bijtelling te berekenen juist voor deze auto’s niet bij de RDW is te raadplegen.</p>
+
+
+
+<p class="wp-block-paragraph">Het RB spreekt daarnaast zijn teleurstelling uit over de aanhoudende onzekerheid rond het toekomstige box 3-stelsel. Daarmee blijft volgens de organisatie ook onduidelijkheid bestaan over mogelijke aanpassingen van andere fiscale regelingen die als dekking voor een oplossing in box 3 kunnen dienen. Het RB constateert dat verschillende genoemde dekkingsmaatregelen met name ondernemers in het kleinbedrijf kunnen treffen, terwijl deze groep ook door andere onderdelen van het Belastingplan 2027 wordt geraakt.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen over Aof-premie en staatssteun</h2>
+
+
+
+<p class="wp-block-paragraph">Verder vraagt het RB aandacht voor de verhoging van de Aof-premie ter dekking van de vrijheidsbijdrage. Vanwege lopende procedures bestaat volgens de organisatie onzekerheid over de vraag of een hogere Aof-premie mag worden gebruikt voor andere uitgaven dan de financiering van het arbeidsongeschiktheidsfonds.</p>
+
+
+
+<p class="wp-block-paragraph">Tot slot wijst het RB erop dat bij de voorgestelde fiscale regeling voor start-ups en scale-ups mogelijk sprake is van ongeoorloofde staatssteun.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: RB, 25 september 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/rb-belastingplan-2027-maakt-stelsel-complexer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/02/Complex.jpg" length="77205" type="image/jpeg" />	</item>
+		<item>
+		<title>Masterclass Btw-processen in SAP S/4HANA &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:44:31 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[BTW]]></category>
+		<category><![CDATA[BTW en overdrachtsbelasting]]></category>
+		<category><![CDATA[Masterclasses]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167721</guid>
+
+					<description><![CDATA[SAP S/4HANA &#8211; leer de kracht hiervan benutten voor een geoptimaliseerde btw-blauwdruk Ontdek de essentiële aspecten van btw-processen in SAP S/4HANA tijdens onze masterclass, onder leiding van tax technology specialist Roger Haenen. Sta je aan de vooravond van een SAP S/4HANA implementatie of ben je hier mee bezig? Schrijf je in voor deze cursus en<a class="read-more" href="https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>SAP S/4HANA &#8211; leer de kracht hiervan benutten voor een geoptimaliseerde btw-blauwdruk</p>
+<p>Ontdek de essentiële aspecten van btw-processen in SAP S/4HANA tijdens onze masterclass, onder leiding van tax technology specialist Roger Haenen. Sta je aan de vooravond van een SAP S/4HANA implementatie of ben je hier mee bezig? Schrijf je in voor deze cursus en benut de kracht van SAP S/4HANA voor een geoptimaliseerde btw-blauwdruk voor de toekomst.</p>
+<p><strong>Wat is het?</strong> <br /> Een juiste btw-behandeling van transacties binnen uw bedrijf hangt af van de btw-logica in uw ERP-systeem. Sta je aan de vooravond van of ben je bezig met een transitie naar SAP S/4HANA? Dan is dit het juiste moment om na te denken over de opzet van SAP voor btw-doeleinden. Deze masterclass biedt praktische handvatten om keuzes te maken, of u nu kiest voor SAP of juist een externe oplossing zoals een btw-engine of SAP-add-on. Tijdens de cursus wordt ook besproken of deze keuze een IT- en/of btw-verantwoordelijkheid is en hoe hierin samen de juiste keuze te maken.</p>
+<p><strong> Waarom is het belangrijk om hiermee aan de slag te gaan? <br /> </strong>Deze masterclass is essentieel voor iedereen die betrokken is bij de btw-processen van een bedrijf. Het begrijpen van de btw-logica in SAP S/4HANA en het maken van strategische keuzes kan aanzienlijke voordelen opleveren, zoals efficiëntieverbeteringen en kostenbesparingen, maar bovenal het voldoen aan wet- en regelgeving. Veelal is de fiscale functie niet, nauwelijks of te laat betrokken en zijn al een aantal kritische ontwerpkeuzes bepaald. Het opzetten van een btw werkstroom binnen een SAP S/4HANA transformatie is cruciaal voor de toekomst van de btw functie voor de komende 10 tot 15 jaar.</p>
+<p><strong>Doel van de cursus <br /> </strong>Het hoofddoel van deze cursus is deelnemers voorzien van de nodige kennis en tools om strategische beslissingen te nemen met betrekking tot btw-processen in SAP S/4HANA. Hierdoor kunnen ze bijdragen aan een geoptimaliseerde btw-verwerking binnen hun organisatie.</p>
+<p><strong>Doelgroep: Voor wie is deze cursus van belang?<br /></strong>Deze masterclass is ideaal voor btw-specialisten, IT-professionals betrokken bij ERP-transformaties, financiële managers en professionals die verantwoordelijk zijn voor de btw-processen binnen hun organisatie.</p>
+<p><strong style="letter-spacing: 0.05em">Inhoud &amp; structuur:</strong></p>
+<p>Wat is (SAP) ERP en wat brengt SAP S/4HANA?<br />
+Belangrijke componenten voor btw binnen SAP ERP &amp; S/4HANA<br />
+Additionele mogelijkheden voor btw &amp; tax binnen en buiten S/4HANA<br />
+Btw in SAP of btw engine?<br />
+Hoe te beginnen?<br />
+Vijf do’s en dont’s vóór of tijdens een SAP implementatie<br />
+Open forum/Q&amp;A</p>
+<p><strong>Na het volgen van deze masterclass:&nbsp;</strong></p>
+<p>Heb je inzicht in de btw-logica binnen SAP S/4HANA.<br />
+Heb je voldoende kennis ontwikkeld om strategische keuzes te maken met betrekking tot btw-processen.<br />
+Heb je praktische handvatten voor een geoptimaliseerde btw-verwerking in SAP S/4HANA en additionele software (bijv. compliance of e-invoicing)<br />
+Begrijp je de voordelen en uitdagingen van het gebruik van een tax engine in vergelijking met de standaard SAP btw-behandeling.<br />
+Heb je voldoende kennis om te beoordelen of een tax engine een geschikte oplossing is voor specifieke bedrijfsbehoeften.</p>
+<p><strong>Eventuele vereiste voorkennis of ervaring:<br /> </strong>Basiskennis van btw-processen en een algemene bekendheid met SAP wordt aanbevolen.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/masterclasses/3094/btw-processen-in-sap-s-4-hana" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Niet-ingehouden loonheffing verlaagt belastbaar inkomen</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-5/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-5/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:12:38 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167736</guid>
+
+					<description><![CDATA[Rechtbank Noord-Nederland oordeelt dat niet-ingehouden loonheffing niet tot het belastbaar inkomen van een dga behoort als de inspecteur niet aannemelijk maakt dat dit bedrag op een andere manier aan hem ten goede is gekomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Nederland oordeelt dat niet-ingehouden loonheffing niet tot het belastbaar inkomen van een dga behoort als de inspecteur niet aannemelijk maakt dat dit bedrag op een andere manier aan hem ten goede is gekomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een dga geeft voor 2023 een loon van € 29.880 van zijn bv aan en € 7.442 aan ingehouden loonheffing. De inspecteur stelt het belastbaar inkomen uit werk en woning overeenkomstig de aangifte vast, maar corrigeert de ingehouden loonheffing naar nihil. Volgens de dga heeft zijn bv de loonheffing wel van zijn loon afgezonderd. Als dat niet zo is, stelt hij dat hij erop mocht vertrouwen dat zijn bv de loonheffing zou inhouden. Subsidiair voert hij aan dat, als geen loonheffing is ingehouden, het bedrag van € 7.442 ook niet door hem is genoten.</p>
+
+
+
+<h3 class="wp-block-heading">Geen verrekening maar ook geen loon</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de dga niet aannemelijk maakt dat de bv de € 7.442 daadwerkelijk heeft ingehouden of dat hij erop mocht vertrouwen dat dit zou gebeuren. De loonheffing kan daarom niet worden verrekend. De inspecteur maakt echter evenmin aannemelijk dat het bedrag op een andere manier aan de dga ten goede is gekomen. De € 7.442 behoort daarom niet tot zijn belastbaar inkomen. Het beroep op interne compensatie vanwege een hoger gebruikelijk loon is te laat gedaan.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.146?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.146 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 12a</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-13a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13a Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNNE_2026_3900" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Nederland, 08-09-2026, ECLI:NL:RBNNE:2026:3900, LEE 25/3524 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+	</channel>
+</rss>

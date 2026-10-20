@@ -1,0 +1,517 @@
+{
+  "release": "2026-09-30_1700_editorial",
+  "date": "2026-09-30",
+  "slot": "1700",
+  "items": [
+    {
+      "slug": "2026-09-30-1700-item-01-ru",
+      "title": "Россия: В Госдуму внесен законопроект об отмене госпошлины за регистрацию брака",
+      "caption": "Россия: В Госдуму внесен законопроект об отмене госпошлины за регистрацию брака\n\nВ Государственную Думу Российской Федерации внесен проект федерального закона об освобождении граждан от уплаты государственной пошлины за государственную регистрацию заключения брака.\n\n💡 **Почему это важно**\nЗаконодательная инициатива направлена на снижение финансовой нагрузки на граждан при совершении юридически значимых действий. Юристам в сфере семейного и гражданского права следует отслеживать вступление поправок в силу для корректного информирования доверителей.\n\nИсточник: https://www.garant.ru/news/2254353/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "государственные пошлины и социальное законодательство",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Государственной Думы Российской Федерации",
+      "sources": [
+        {
+          "label": "Госдума РФ / Гарант",
+          "url": "https://www.garant.ru/news/2254353/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2254353/",
+          "final_url": "https://www.garant.ru/news/2254353/",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: В Госдуму внесен законопроект об",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-02-ru",
+      "title": "Россия: Росстат утвердил обновленную форму отчетности о затратах на производство",
+      "caption": "Россия: Росстат утвердил обновленную форму отчетности о затратах на производство\n\nФедеральная служба государственной статистики утвердила актуализированную статистическую форму сведений о затратах на производство и продажу продукции для юридических лиц.\n\n💡 **Почему это важно**\nСопоставление данных статистической формы и налоговых деклараций по налогу на прибыль используется контролерами для оценки налоговой нагрузки предприятий. Финансовым службам организаций необходимо обеспечить полную сходимость показателей себестоимости в налоговом и статистическом учете.\n\nИсточник: https://www.garant.ru/news/2251237/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "статистическая и налоговая отчетность",
+      "jurisdictions": "Россия",
+      "act": "Приказ Росстата по статистическим формам",
+      "sources": [
+        {
+          "label": "Росстат / Гарант",
+          "url": "https://www.garant.ru/news/2251237/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2251237/",
+          "final_url": "https://www.garant.ru/news/2251237/",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Росстат утвердил обновленную фор",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-03-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по структуре венчурного фонда ATR 000002",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по структуре венчурного фонда ATR 000002\n\nНалоговая служба Нидерландов утвердила налоговый режим для участников венчурного инвестиционного фонда в сфере высоких технологий.\n\n💡 **Почему это важно**\nРешение гарантирует отсутствие корпоративного налога у источника при распределении инвестиционного дохода и вознаграждения за успех. Управляющим венчурными фондами в Европе рекомендуется использовать одобренные условия при структурировании фондов.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000002\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "венчурные инвестиции и вознаграждение за успех",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000002",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000002"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000002",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000002",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260908 atr 000002 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по судовому фрахту ATR 000001",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по судовому фрахту ATR 000001\n\nНалоговое управление Нидерландов согласовало применение специального тоннажного налога к операциям международного морского судоходства.\n\n💡 **Почему это важно**\nТоннажный налоговый режим заменяет стандартный налог на прибыль фиксированным сбором в зависимости от вместимости судов, обеспечивая значительную фискальную экономию. Судоходным и логистическим компаниям следует проверить соответствие флота критериям режима.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000001\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "тоннажный налог и морское судоходство",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000001",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000001"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000001",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260908-atr-000001",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260908 atr 000001 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-05-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по пулингу ликвидности ATR 000017",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по пулингу ликвидности ATR 000017\n\nНалоговая служба Нидерландов выпустила заключение по ТЦО в отношении соглашений о централизованном управлении казначейской ликвидностью.\n\n💡 **Почему это важно**\nРулинг закрепляет порядок расчета компенсаций участникам пула и распределения синергетического эффекта между дочерними компаниями. Корпоративным казначеям международных холдингов необходимо обновить документацию по внутригрупповому финансированию.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000017\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "пулинг ликвидности и внутригрупповое финансирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000017",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000017"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000017",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000017",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000017 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-06-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по разделению активов ATR 000016",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по разделению активов ATR 000016\n\nНалоговый орган Нидерландов согласовал порядок выделения производственного подразделения без уплаты налога на прирост стоимости активов.\n\n💡 **Почему это важно**\nОдобрение налоговой нейтральности разделения позволяет холдингам осуществлять реструктуризацию бизнеса без отвлечения оборотных средств на уплату налогов. Корпоративным юристам рекомендуется использовать структуру для реорганизаций перед сделками по слияниям и поглощениям.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000016\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая нейтральность и выделение активов",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000016",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000016"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000016",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000016",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000016 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-07-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по НИОКР льготам ATR 000014",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по НИОКР льготам ATR 000014\n\nНалоговая служба Нидерландов подтвердила право применения инновационного налогового режима с пониженной ставкой 9% к доходам от патентов.\n\n💡 **Почему это важно**\nПрименение инновационного режима существенно снижает эффективную налоговую ставку высокотехнологичных компаний в ЕС. Разработчикам программного обеспечения и фармацевтическим производителям следует оформить налоговые декларации для получения преференций.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000014\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговые льготы на НИОКР и инновационный режим",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000014",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000014"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000014",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000014",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000014 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-08-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по страховому резервированию ATR 000012",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по страховому резервированию ATR 000012\n\nНалоговое управление Нидерландов утвердило методику формирования налоговых резервов кэптивной страховой компании международной группы.\n\n💡 **Почему это важно**\nДокумент закрепляет условия отнесения страховых премий на расходы материнской структуры без риска переквалификации в нераспределенную прибыль. Риск-менеджерам холдингов рекомендуется привести правила страхования к стандартам регулятора.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000012\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "кэптивное страхование и налоговые резервы",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000012",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000012"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000012",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000012",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000012 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-09-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по трансграничным роялти ATR 000011",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по трансграничным роялти ATR 000011\n\nНалоговая служба Нидерландов согласовала порядок удержания налога при перечислении роялти за товарные знаки в государства за пределами ЕС.\n\n💡 **Почему это важно**\nРешение подтверждает правомерность применения положений международных соглашений об избежании двойного налогообложения при наличии реального сабстенса. Правообладателям брендов рекомендуется проверить экономическое обоснование лицензионных потоков.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000011\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные роялти и защита брендов",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000011",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000011"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000011",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000011",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000011 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-1700-item-10-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по торговому представительству ATR 000010",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по торговому представительству ATR 000010\n\nНалоговое ведомство Нидерландов подтвердило отсутствие постоянного представительства у иностранного дистрибьютора при использовании независимого логистического хаба.\n\n💡 **Почему это важно**\nКвалификация деятельности исключает возникновение налоговых обязательств по корпоративному налогу в Нидерландах для международного поставщика. Внешнеторговым компаниям целесообразно использовать независимые фулфилмент-центры для оптимизации налоговых рисков.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000010\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "постоянное представительство и логистические хабы",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000010",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000010"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000010",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260901-atr-000010",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260901 atr 000010 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

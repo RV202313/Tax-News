@@ -1,0 +1,517 @@
+{
+  "release": "2026-09-25_1700_editorial",
+  "date": "2026-09-25",
+  "slot": "1700",
+  "items": [
+    {
+      "slug": "2026-09-25-1700-item-01-ru",
+      "title": "Россия: Минфин РФ подготовил бюджетный пакет поправок по индексации пошлин и акцизов",
+      "caption": "Россия: Минфин РФ подготовил бюджетный пакет поправок по индексации пошлин и акцизов\n\nМинистерство финансов Российской Федерации внесло в Правительство проект масштабных налоговых изменений на 2026–2028 годы, предусматривающий точечную донастройку акцизов и госпошлин.\n\n💡 **Почему это важно**\nКорректировка фискальной нагрузки в бюджетном цикле требует от финансовых директоров заблаговременного пересчета операционных бюджетов и оценки себестоимости подакцизной продукции. Корпоративным юристам рекомендуется проанализировать переходные положения законопроектов для адаптации действующих контрактов.\n\nИсточник: https://www.garant.ru/news/2251235/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "бюджетная и налоговая политика",
+      "jurisdictions": "Россия",
+      "act": "Законопроекты Минфина России по бюджетному пакету",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2251235/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2251235/",
+          "final_url": "https://www.garant.ru/news/2251235/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ подготовил бюджетный пакет ",
+              "source_quote": "практика налоги и бухучет бизнес практика труд социальная сфера жкх"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-02-ru",
+      "title": "Россия: ФНС России разъяснила применение ставки НДС 0% бизнесом на УСН при экспорте",
+      "caption": "Россия: ФНС России разъяснила применение ставки НДС 0% бизнесом на УСН при экспорте\n\nФНС России подтвердила, что налогоплательщики на упрощенной системе налогообложения, уплачивающие НДС по ставкам 5% или 7%, сохраняют право на нулевую ставку НДС при экспорте и международных перевозках.\n\n💡 **Почему это важно**\nРазъяснение снимает регуляторную неопределенность для экспортеров малого и среднего бизнеса при переходе на новые правила УСН. Экспортным компаниям следует подготовить полный пакет товаросопроводительных и таможенных документов для своевременного подтверждения нулевой ставки в налоговых органах.\n\nИсточник: https://www.garant.ru/news/2249953/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС и УСН при экспорте",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения ФНС России по ставке 0% НДС для УСН",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2249953/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2249953/",
+          "final_url": "https://www.garant.ru/news/2249953/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС России разъяснила применение став",
+              "source_quote": "перейти в систему гарант судебная практика налоги и бухучет бизнес"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-03-fr-in",
+      "title": "Франция и Индия: Совет министров Франции одобрил протокол к налоговому соглашению с Индией",
+      "caption": "Франция и Индия: Совет министров Франции одобрил протокол к налоговому соглашению с Индией\n\nСовет министров Франции утвердил законопроект о ратификации протокола к соглашению об избежании двойного налогообложения с Индией, приводящего конвенцию в соответствие со стандартами BEPS.\n\n💡 **Почему это важно**\nОбновление двустороннего налогового соглашения усиливает антиуклонительные правила и внедряет тест основной цели (PPT) для трансграничных инвестиционных потоков. Международным холдингам с присутствием во Франции и Индии необходимо пересмотреть корпоративные структуры на предмет подтверждения фактического экономического присутствия.\n\nИсточник: https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные налоговые соглашения и BEPS",
+      "jurisdictions": "Франция, Индия",
+      "act": "Законопроект Совета министров Франции по протоколу с Индией",
+      "sources": [
+        {
+          "label": "Совет министров Франции",
+          "url": "https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/",
+          "final_url": "https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Франция и Индия: Совет министров Франции одоб",
+              "source_quote": "council of ministers approves protocol amending tax\",\"@id\":\"https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/#richsnippet\",\"ispartof\":{\"@id\":\"https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/#webpage\"},\"image\":{\"@id\":\"https://regfollower.com/wp-content/uploads/2022/07/france_2.jpg\"},\"inlanguage\":\"en-us\",\"mainentityofpage\":{\"@id\":\"https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/#webpage\"}}]} var mi_version ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-04-fi",
+      "title": "Финляндия: Правительство предложило снижение корпоративного и подоходного налогов в бюджете 2027",
+      "caption": "Финляндия: Правительство предложило снижение корпоративного и подоходного налогов в бюджете 2027\n\nПравительство Финляндии представило проект государственного бюджета на 2027 год, предусматривающий комплексное снижение ставок корпоративного налога на прибыль и подоходного налога для стимулирования экономики.\n\n💡 **Почему это важно**\nСнижение корпоративной фискальной нагрузки направлено на привлечение прямых иностранных инвестиций в скандинавский регион и удержание производственных мощностей. Налоговым департаментам международных групп рекомендуется учесть новые ставки в средневековом налоговом моделировании и планировании дивидендных потоков.\n\nИсточник: https://regfollower.com/finland-proposes-corporate-and-personal-income-tax-cuts-in-2027-budget/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративное налогообложение и реформа бюджета",
+      "jurisdictions": "Финляндия",
+      "act": "Проект государственного бюджета Финляндии на 2027 год",
+      "sources": [
+        {
+          "label": "Правительство Финляндии",
+          "url": "https://regfollower.com/finland-proposes-corporate-and-personal-income-tax-cuts-in-2027-budget/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/finland-proposes-corporate-and-personal-income-tax-cuts-in-2027-budget/",
+          "final_url": "https://regfollower.com/finland-proposes-corporate-and-personal-income-tax-cuts-in-2027-budget/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Финляндия: Правительство предложило снижение ",
+              "source_quote": "its proposal for the 2027 budget to parliament (he 175/2026)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-05-bh",
+      "title": "Бахрейн: Налоговое бюро NBR разъяснило маржинальную схему по НДС для подержанных товаров",
+      "caption": "Бахрейн: Налоговое бюро NBR разъяснило маржинальную схему по НДС для подержанных товаров\n\nНациональное бюро по налогам Бахрейна (NBR) выпустило обновленное руководство по применению схемы налогообложения прибыли маржи при реализации бывших в употреблении товаров.\n\n💡 **Почему это важно**\nМаржинальная схема исключает двойное налогообложение и начисляет НДС только на разницу между ценой продажи и покупки товара. Торговым компаниям в регионе Залива необходимо настроить учетные системы и кассовый учет для раздельного отражения маржинальных и стандартных операций.\n\nИсточник: https://regfollower.com/bahrain-nbr-clarifies-vat-profit-margin-scheme-for-used-goods/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение и НДС",
+      "jurisdictions": "Бахрейн",
+      "act": "Руководство NBR Бахрейна по маржинальной схеме НДС",
+      "sources": [
+        {
+          "label": "NBR Бахрейна",
+          "url": "https://regfollower.com/bahrain-nbr-clarifies-vat-profit-margin-scheme-for-used-goods/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/bahrain-nbr-clarifies-vat-profit-margin-scheme-for-used-goods/",
+          "final_url": "https://regfollower.com/bahrain-nbr-clarifies-vat-profit-margin-scheme-for-used-goods/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Бахрейн: Налоговое бюро NBR разъяснило маржин",
+              "source_quote": "version 1.3 of its vat retail\",\"name\":\"bahrain: nbr clarifies vat profit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-06-tw",
+      "title": "Тайвань: Налоговое бюро разъяснило декларирование налога на дарение при передаче акций",
+      "caption": "Тайвань: Налоговое бюро разъяснило декларирование налога на дарение при передаче акций\n\nНациональное налоговое бюро Тайваня уточнило порядок квалификации сделок по передаче акций ниже чистой стоимости активов компании как скрытого дарения, подлежащего налогообложению.\n\n💡 **Почему это важно**\nВнутрисемейные и внутригрупповые реструктуризации капитала на Тайване находятся под усиленным контролем налоговых органов. Юристам и частным клиентам следует проводить независимую оценку справедливой стоимости долей перед совершением сделок во избежание доначислений налога и штрафов.\n\nИсточник: https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на дарение и оценка акций",
+      "jurisdictions": "Тайвань",
+      "act": "Руководство Национального налогового бюро Тайваня",
+      "sources": [
+        {
+          "label": "Национальное налоговое бюро Тайваня",
+          "url": "https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/",
+          "final_url": "https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Тайвань: Налоговое бюро разъяснило деклариров",
+              "source_quote": "pay\",\"name\":\"taiwan clarifies gift tax filing for share transfers -\",\"@id\":\"https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/#richsnippet\",\"ispartof\":{\"@id\":\"https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/#webpage\"},\"image\":{\"@id\":\"https://regfollower.com/wp-content/uploads/2022/07/taiwan_1.jpg\"},\"inlanguage\":\"en-us\",\"mainentityofpage\":{\"@id\":\"https://regfollower.com/taiwan-clarifies-gift-tax-filing-for-share-transfers/#webpage\"}}]} var"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-07-pk",
+      "title": "Пакистан: Налоговое управление FBR ужесточило штрафы за нарушения при цифровом выставлении счетов",
+      "caption": "Пакистан: Налоговое управление FBR ужесточило штрафы за нарушения при цифровом выставлении счетов\n\nФедеральное налоговое управление Пакистана (FBR) утвердило повышенные штрафные санкции за отказ от интеграции электронных фискальных систем и нарушения при выписке цифровых счетов-фактур.\n\n💡 **Почему это важно**\nУжесточение комплаенс-контроля направлено на сокращение теневого сектора и обеспечение прозрачности цепочек поставок. Крупным и средним ритейлерам в Пакистане требуется оперативно завершить интеграцию кассового оборудования с серверами FBR во избежание приостановки операционной деятельности.\n\nИсточник: https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровой налоговый контроль и фискализация",
+      "jurisdictions": "Пакистан",
+      "act": "Постановление Федерального налогового управления Пакистана (FBR)",
+      "sources": [
+        {
+          "label": "FBR Пакистана",
+          "url": "https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/",
+          "final_url": "https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Пакистан: Налоговое управление FBR ужесточило",
+              "source_quote": "penalties for digital,\",\"@id\":\"https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/#richsnippet\",\"ispartof\":{\"@id\":\"https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/#webpage\"},\"image\":{\"@id\":\"https://regfollower.com/wp-content/uploads/2026/09/story-21-1.jpg\"},\"inlanguage\":\"en-us\",\"mainentityofpage\":{\"@id\":\"https://regfollower.com/pakistan-fbr-tightens-sales-tax-penalties-for-digital-invoice-compliance/#webpage\"}}]} var mi_version = '9.9.0'; var mi_track_user ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-08-pt",
+      "title": "Португалия: Правительство предложило дополнительное снижение ставок подоходного налога IRS",
+      "caption": "Португалия: Правительство предложило дополнительное снижение ставок подоходного налога IRS\n\nПравительство Португалии внесло предложение о дальнейшем снижении предельных ставок подоходного налога с физических лиц (IRS) для средних классов на налоговый период 2026 года.\n\n💡 **Почему это важно**\nСнижение ставок прямого налогообложения повышает реальные доходы населения и стимулирует приток квалифицированных международных специалистов. Корпоративным службам персонала и налоговым отделам следует скорректировать расчет удержаний налога у источника при выплате доходов резидентам.\n\nИсточник: https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на доходы физических лиц (IRS)",
+      "jurisdictions": "Португалия",
+      "act": "Законопроект Правительства Португалии по реформе IRS",
+      "sources": [
+        {
+          "label": "Правительство Португалии",
+          "url": "https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/",
+          "final_url": "https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Португалия: Правительство предложило дополнит",
+              "source_quote": "proposes further irs reductions for 2026 income -\",\"@id\":\"https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/#richsnippet\",\"ispartof\":{\"@id\":\"https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/#webpage\"},\"image\":{\"@id\":\"https://regfollower.com/wp-content/uploads/2026/09/story-22-1.jpg\"},\"inlanguage\":\"en-us\",\"mainentityofpage\":{\"@id\":\"https://regfollower.com/portugal-proposes-further-irs-reductions-for-2026-income/#webpage\"}}]} var mi_version"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-09-qa-ru",
+      "title": "Катар и Россия: Налоговые органы подписали меморандум о сотрудничестве и цифровизации",
+      "caption": "Катар и Россия: Налоговые органы подписали меморандум о сотрудничестве и цифровизации\n\nГлавное налоговое управление Катара (GTA) и Федеральная налоговая служба России заключили меморандум о взаимопонимании по обмену опытом в сфере цифровой трансформации налогового контроля.\n\n💡 **Почему это важно**\nУкрепление двустороннего междеведомственного взаимодействия упрощает налоговый диалог и создает условия для прозрачного трансграничного инвестиционного сотрудничества. Российским и катарским инвесторам следует учитывать сближение стандартов комплаенса при структурировании совместных проектов.\n\nИсточник: https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международное налоговое администрирование",
+      "jurisdictions": "Катар, Россия",
+      "act": "Меморандум о взаимопонимании между GTA Катара и ФНС России",
+      "sources": [
+        {
+          "label": "GTA Катара / ФНС России",
+          "url": "https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/",
+          "final_url": "https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Катар и Россия: Налоговые органы подписали ме",
+              "source_quote": "russia sign mou to strengthen technical cooperation\",\"@id\":\"https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/#richsnippet\",\"ispartof\":{\"@id\":\"https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/#webpage\"},\"image\":{\"@id\":\"https://regfollower.com/wp-content/uploads/2026/09/story-20.jpg\"},\"inlanguage\":\"en-us\",\"mainentityofpage\":{\"@id\":\"https://regfollower.com/qatar-russia-sign-mou-to-strengthen-technical-cooperation-in-tax-administration/#webpage\"}}]} var mi_version ="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-1700-item-10-nl",
+      "title": "Нидерланды: Минфин Нидерландов обновил правила ограничения вычета процентных расходов",
+      "caption": "Нидерланды: Минфин Нидерландов обновил правила ограничения вычета процентных расходов\n\nМинистерство финансов Нидерландов опубликовало обновленные руководящие указания по применению правила ограничения вычета процентов в рамках имплементации директивы ATAD.\n\n💡 **Почему это важно**\nУточнение базы расчета лимита процентов и порядка переноса неиспользованных вычетов на будущие периоды существенно влияет на долговое финансирование нидерландских холдингов. Корпоративным казначействам необходимо пересчитать соотношение заемного и собственного капитала с учетом новых лимитов.\n\nИсточник: https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "ограничение вычета процентов и ATAD",
+      "jurisdictions": "Нидерланды",
+      "act": "Руководство Министерства финансов Нидерландов по вычету процентов",
+      "sources": [
+        {
+          "label": "Министерство финансов Нидерландов",
+          "url": "https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/",
+          "final_url": "https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/",
+          "status_code": 200,
+          "checked_at": "2026-09-25T15:31:48.801439+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Минфин Нидерландов обновил правил",
+              "source_quote": "on 22 september 2026, updating and replacing\",\"name\":\"netherlands updates interest deduction"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

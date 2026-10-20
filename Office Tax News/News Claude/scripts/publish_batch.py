@@ -15,26 +15,41 @@ import json
 import os
 import re
 import shutil
+import ssl
 import subprocess
 import sys
 import tempfile
-from datetime import datetime, timezone
+import time
+from datetime import datetime, timedelta, timezone
+from html import unescape
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.error import HTTPError, URLError
+from urllib.parse import urlsplit, urlunsplit
+from urllib.request import Request, urlopen
 
 from cards import resolve_image
 from common import load_env
 from session_guard import exclusive_session_lock
+from check_editorial_sources import page_text, ssl_context
+from source_http import source_headers
+from editorial_quality import validate_editorial_quality
+
+def _get_ssl_context():
+    return ssl_context()
 
 DEFAULT_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_TELEGRAM_ROOT = DEFAULT_ROOT.parent / ".telegram_auth"
 DEFAULT_SESSION = Path(os.getenv("ACADEMY_SESSION_PATH", str(DEFAULT_TELEGRAM_ROOT / "academy_news_windows.session")))
 DEFAULT_ENV = Path(os.getenv("ACADEMY_ENV_PATH", str(DEFAULT_TELEGRAM_ROOT / ".env")))
 EDITORIAL_CHAT_ID = -1004472011991
+MOSCOW_TZ = timezone(timedelta(hours=3), name="MSK")
+MOSCOW_SLOTS = (9, 13, 17)
+EDITORIAL_WINDOW_MINUTES = 15
 ALLOWED_CHANNELS = {"telegram_channel", "vk", "linkedin", "site", "email"}
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9._-]{2,120}$")
 URL_RE = re.compile(r"https?://\S+", re.IGNORECASE)
 HASHTAG_RE = re.compile(r"#[^\s]+")
+HTML_TAG_RE = re.compile(r"<[^>]+>")
 LATIN_WORD_RE = re.compile(r"(?<![\w])([A-Za-z][A-Za-z'’.-]{2,})(?![\w])")
 # Смешанное написание и официальные термины, которые нельзя надёжно отличить
 # от обычных английских слов только по регистру. Аббревиатуры целиком в верхнем
@@ -81,6 +96,25 @@ def parse_datetime(value: str) -> datetime:
     return parsed
 
 
+def ensure_editorial_delivery_window(now: datetime | None = None,
+                                     release_name: str | None = None) -> None:
+    """Allow Telegram delivery only in an agreed Moscow editorial window."""
+    if os.environ.get("ALLOW_ANY_DELIVERY_WINDOW") in {"1", "true", "True"}:
+        return
+    moscow_now = (now or datetime.now(timezone.utc)).astimezone(MOSCOW_TZ)
+    if moscow_now.hour not in MOSCOW_SLOTS or moscow_now.minute > EDITORIAL_WINDOW_MINUTES:
+        raise ValueError(
+            "Telegram-доставка разрешена только в окне 09:00/13:00/17:00 "
+            "Europe/Moscow; прямой запуск вне слота заблокирован"
+        )
+    if release_name is not None:
+        expected = f"{moscow_now:%Y-%m-%d}_{moscow_now:%H}00_editorial"
+        if release_name != expected:
+            raise ValueError(
+                f"Выпуск {release_name!r} не соответствует текущему слоту {expected!r}"
+            )
+
+
 def _source_list(raw) -> list[dict]:
     out = []
     for value in raw or []:
@@ -97,6 +131,135 @@ def _source_list(raw) -> list[dict]:
     if not out:
         raise ValueError("У поста нет первичного источника")
     return out
+
+
+def _canonical_url(value: str) -> str:
+    """Normalize only presentation differences; never silently change a source."""
+    parts = urlsplit(str(value or ""))
+    return urlunsplit((parts.scheme.casefold(), parts.netloc.casefold(), parts.path or "/",
+                       parts.query, ""))
+
+
+def _normal_text(value: str) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip().casefold()
+
+
+def _source_verifications(item: dict) -> list[dict]:
+    raw = item.get("source_verifications")
+    if not isinstance(raw, list) or not raw:
+        raise ValueError("нет source_verifications: обязательного доказательства по первоисточнику")
+    source_urls = {_canonical_url(src["url"]) for src in item["sources"]}
+    verified_urls: set[str] = set()
+    out = []
+    for entry in raw:
+        if not isinstance(entry, dict):
+            raise ValueError("source_verifications должен быть списком объектов")
+        url = str(entry.get("url") or "")
+        if _canonical_url(url) not in source_urls:
+            raise ValueError(f"source_verifications содержит URL, которого нет в sources: {url!r}")
+        try:
+            checked_at = parse_datetime(entry.get("checked_at"))
+        except ValueError as exc:
+            raise ValueError(f"некорректный checked_at первоисточника: {exc}") from exc
+        if checked_at > datetime.now(timezone.utc) + timedelta(minutes=5):
+            raise ValueError("checked_at первоисточника находится в будущем")
+        final_url = str(entry.get("final_url") or "")
+        final_parts = urlsplit(final_url)
+        if final_parts.scheme not in {"http", "https"} or not final_parts.netloc:
+            raise ValueError("нет корректного final_url после открытия первоисточника")
+        if final_url != url:
+            raise ValueError("final_url не совпадает с URL первоисточника")
+        if entry.get("status_code") != 200:
+            raise ValueError("первоисточник не был подтверждён ответом HTTP 200")
+        evidence = entry.get("evidence")
+        if not isinstance(evidence, list) or not evidence:
+            raise ValueError("нет evidence: цитаты, подтверждающей тезис новости")
+        for proof in evidence:
+            if not isinstance(proof, dict):
+                raise ValueError("каждая evidence должна быть объектом")
+            claim = _normal_text(proof.get("claim"))
+            quote = _normal_text(proof.get("source_quote"))
+            if len(claim) < 12:
+                raise ValueError("evidence.claim слишком короткий")
+            if len(quote) < 16:
+                raise ValueError("evidence.source_quote слишком короткая")
+        verified_urls.add(_canonical_url(url))
+        out.append(dict(entry))
+    missing = source_urls - verified_urls
+    if missing:
+        raise ValueError("не все указанные sources имеют открытое доказательство: " + ", ".join(sorted(missing)))
+    return out
+
+
+def _page_text(content: bytes, content_type: str) -> str:
+    """Extract enough visible text to locate an attested source quote.
+
+    The release gate intentionally accepts only readable text/HTML. A PDF or a
+    JavaScript shell may be a valid webpage, but is not machine-verifiable here
+    and must therefore fail closed instead of becoming a publication source.
+    """
+    return _normal_text(page_text(content, content_type))
+
+
+def verify_sources_live(release: dict, *, timeout_seconds: int = 20) -> None:
+    """Fail-closed publication gate: reopen every cited source and match proof.
+
+    An editor attests each material claim with a verbatim quote in
+    ``source_verifications``. Immediately before any external delivery, this
+    gate opens the same URL again, requires HTTP 200 and confirms that both the
+    quote and the claim used in the Russian post are present. No network issue,
+    redirect surprise, or unsupported source format is treated as a pass.
+    """
+    errors = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    }
+    for index, item in enumerate(release["items"], start=1):
+        prefix = f"items[{index}]"
+        try:
+            checks = _source_verifications(item)
+        except ValueError as exc:
+            errors.append(f"{prefix}: {exc}")
+            continue
+        post_text = _normal_text(item.get('caption', ''))
+        for check in checks:
+            url = str(check["url"])
+            last_exc = None
+            for attempt in range(3):
+                try:
+                    request = Request(url, headers=source_headers(url))
+                    with urlopen(request, timeout=timeout_seconds, context=_get_ssl_context()) as response:
+                        status = int(response.getcode())
+                        final_url = response.geturl()
+                        content_type = response.headers.get("Content-Type", "")
+                        content = response.read(2_000_001)
+                    if status != 200:
+                        raise ValueError(f"HTTP {status}")
+                    if len(content) > 2_000_000:
+                        raise ValueError("ответ источника превышает 2 МБ")
+                    if final_url != url or final_url != str(check["final_url"]):
+                        raise ValueError("итоговый URL отличается от редакционно проверенного")
+                    page = _page_text(content, content_type)
+                    publication = item.get("publication_date_evidence") or {}
+                    if publication.get("url") == url and _normal_text(publication.get("source_quote")) not in page:
+                        raise ValueError("доказательство даты публикации отсутствует в первоисточнике")
+                    for proof in check["evidence"]:
+                        claim = _normal_text(proof["claim"])
+                        quote = _normal_text(proof["source_quote"])
+                        if claim not in post_text:
+                            raise ValueError(f"тезис evidence не найден в тексте новости: {proof['claim']!r}")
+                        if quote not in page:
+                            raise ValueError("цитата-доказательство отсутствует в открытом первоисточнике")
+                    last_exc = None
+                    break
+                except (HTTPError, URLError, TimeoutError, OSError, ValueError) as exc:
+                    last_exc = exc
+                    time.sleep(1)
+            if last_exc is not None:
+                errors.append(f"{prefix}: источник {url} не прошёл live-проверку: {last_exc}")
+    if errors:
+        raise ValueError("Публикация заблокирована: первоисточники не подтверждены:\n- " + "\n- ".join(errors))
 
 
 def load_release(path: Path) -> dict:
@@ -155,8 +318,12 @@ def validate_release(release: dict, *, execution: bool, strict_count: bool = Tru
         for hashtag in ("#АкадемияBEPS", "#АкадемияБЕПС"):
             if hashtag not in caption:
                 errors.append(f"{prefix}: нет {hashtag}")
-        if item.get("sources") and not any(src["url"] in caption for src in item["sources"]):
+        if item.get("sources") and not all(src["url"] in caption for src in item["sources"]):
             errors.append(f"{prefix}: в caption нет прямой ссылки на первоисточник")
+        try:
+            _source_verifications(item)
+        except ValueError as exc:
+            errors.append(f"{prefix}: {exc}")
         channels = item.get("channels")
         if not isinstance(channels, list) or not channels:
             errors.append(f"{prefix}: channels должен быть непустым списком")
@@ -189,6 +356,7 @@ def validate_release(release: dict, *, execution: bool, strict_count: bool = Tru
             errors.append(f"{prefix}: нет индивидуального approval (status/by/evidence)")
     if errors:
         raise ValueError("Выпуск не прошёл валидацию:\n- " + "\n- ".join(errors))
+    validate_editorial_quality(release)
 
 
 def prepare_assets(root: Path, release: dict) -> dict[str, Path]:
@@ -298,6 +466,8 @@ def write_run_record(root: Path, release: dict, approved_path: Path, *,
                      expected_approved_sha256: str = "") -> Path:
     """Создать атомарный immutable release-of-record с SHA-256 и run_id."""
     run_id = release.get("run_id") or release_run_id(release, approved_path, scope)
+    if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9._-]*", run_id) or ".." in run_id:
+        raise RuntimeError("Небезопасный run_id")
     release["run_id"] = run_id
     parent = root / "pipeline" / "run_records" / release["date"]
     parent.mkdir(parents=True, exist_ok=True)
@@ -308,11 +478,23 @@ def write_run_record(root: Path, release: dict, approved_path: Path, *,
     if run_dir.exists():
         summary = run_dir / "run_record.json"
         if not summary.exists():
-            raise RuntimeError(f"run_id уже занят неполным каталогом: {run_id}")
-        payload = verify_run_record(summary)
-        if payload.get("approved_source_sha256") != approved_sha:
-            raise RuntimeError(f"run_id collision с другим approved: {run_id}")
-        return summary
+            copied_approved = run_dir / "approved.json"
+            if not copied_approved.is_file() or _sha256(copied_approved) != approved_sha:
+                raise RuntimeError(f"Неполный run_id не принадлежит текущему approved: {run_id}")
+            delivered = {r.get("slug") for r in load_deliveries(root, release["date"])
+                         if r.get("release") == release["release"]
+                         and r.get("delivery") == "telegram_editorial" and r.get("post_id")}
+            if scope == "editorial" and not {i["slug"] for i in release["items"]}.issubset(delivered):
+                raise RuntimeError("Нельзя восстановить receipt без подтверждения всех доставок")
+            # Preserve the interrupted artifacts; receipts below come solely
+            # from the durable sidecar and never cause a Telegram resend.
+            quarantine = parent / f".incomplete-{run_id}-{time.time_ns()}"
+            run_dir.rename(quarantine)
+        else:
+            payload = verify_run_record(summary)
+            if payload.get("approved_source_sha256") != approved_sha:
+                raise RuntimeError(f"run_id collision с другим approved: {run_id}")
+            return summary
 
     temp_dir = Path(tempfile.mkdtemp(prefix=f".{run_id}.", dir=parent))
     try:
@@ -434,14 +616,16 @@ def upsert_catalog(catalog: Path, release_date: str, item: dict, chat_id: str) -
         lines.append(row)
     else:
         lines[match] = row
-    fd, tmp_name = tempfile.mkstemp(prefix=f".{catalog.name}.", dir=catalog.parent)
-    os.close(fd)
-    tmp = Path(tmp_name)
-    try:
-        tmp.write_text("\n".join(lines) + "\n", encoding="utf-8")
-        os.replace(tmp, catalog)
-    finally:
-        tmp.unlink(missing_ok=True)
+    content = "\n".join(lines) + "\n"
+    for attempt in range(5):
+        try:
+            catalog.write_text(content, encoding="utf-8")
+            break
+        except (OSError, PermissionError):
+            if attempt == 4:
+                raise
+            import time
+            time.sleep(0.2)
 
 
 def ensure_session_idle(session_path: Path) -> None:
@@ -502,7 +686,45 @@ async def execute_editorial(root: Path, release: dict, assets: dict[str, Path],
             me = await client.get_me()
             if me is None or (getattr(me, "username", "") or "").casefold() != "academy_of_beps":
                 raise RuntimeError("Неверный Telegram-аккаунт; отправка остановлена")
+            # A process can die after Telegram accepted a file but before the
+            # local receipt was fsynced. Reconcile our own recent messages
+            # before retrying; a history read failure stops delivery closed.
+            slot_start = datetime.strptime(
+                release["release"], "%Y-%m-%d_%H00_editorial"
+            ).replace(tzinfo=MOSCOW_TZ)
+            recent_by_caption = {}
+            async for message in client.iter_messages(EDITORIAL_CHAT_ID, limit=200):
+                sent_at = getattr(message, "date", None)
+                if sent_at is None:
+                    continue
+                if sent_at.tzinfo is None:
+                    sent_at = sent_at.replace(tzinfo=timezone.utc)
+                sent_at = sent_at.astimezone(MOSCOW_TZ)
+                if sent_at < slot_start:
+                    break
+                if (sent_at.hour != slot_start.hour or sent_at.date() != slot_start.date()
+                        or not getattr(message, "out", False)
+                        or not getattr(message, "media", None)):
+                    continue
+                caption = str(getattr(message, "message", "") or "").replace("\r\n", "\n")
+                if caption and getattr(message, "id", None):
+                    recent_by_caption.setdefault(caption, message)
             for item in pending:
+                ensure_editorial_delivery_window(release_name=str(release["release"]))
+                caption = str(item["caption"]).replace("\r\n", "\n")
+                recovered = recent_by_caption.pop(caption, None)
+                if recovered is not None:
+                    record = {
+                        "date": release["date"], "release": release["release"],
+                        "run_id": release.get("run_id", ""),
+                        "slug": item["slug"], "delivery": "telegram_editorial",
+                        "post_id": str(recovered.id), "post_url": "",
+                        "recorded_at": recovered.date.isoformat(),
+                    }
+                    append_delivery(root, record)
+                    upsert_catalog(catalog, release["date"], item, str(recovered.id))
+                    emitted.append(record)
+                    continue
                 # Корневой мануал требует account gate непосредственно
                 # перед каждым действием отправки, а не только при connect.
                 me = await client.get_me()
@@ -607,6 +829,8 @@ def main() -> int:
     parser.add_argument("--root", default=str(DEFAULT_ROOT))
     parser.add_argument("--execute-editorial", action="store_true")
     parser.add_argument("--execute-non-telegram", action="store_true")
+    parser.add_argument("--verify-sources-live", action="store_true",
+                        help="Открыть и сверить первоисточники без создания ассетов и доставки.")
     parser.add_argument("--backfill-run-record", action="store_true",
                         help="Без сети: честный backfill approved+release-sidecar; volatile artifacts не подменяются.")
     parser.add_argument("--verify-run-record", default="",
@@ -626,9 +850,15 @@ def main() -> int:
         approved_sha_at_start = _sha256(approved_path)
         release = load_release(approved_path)
         execution = args.execute_editorial or args.execute_non_telegram
+        if args.verify_sources_live and execution:
+            raise ValueError("--verify-sources-live используется только без execute-флагов")
         if args.backfill_run_record and execution:
             raise ValueError("--backfill-run-record несовместим с execute-флагами")
         validate_release(release, execution=execution)
+        if args.verify_sources_live:
+            verify_sources_live(release)
+            print("[publish] source verification passed (no delivery)")
+            return 0
         if args.backfill_run_record:
             release["run_id"] = release_run_id(release, approved_path, "backfill")
             run_record = write_run_record(
@@ -640,12 +870,18 @@ def main() -> int:
             "editorial" if args.execute_editorial else "nontelegram"
         )
         if execution:
+            if args.execute_editorial:
+                ensure_editorial_delivery_window(release_name=str(release["release"]))
+            verify_sources_live(release)
             release["run_id"] = release_run_id(release, approved_path, scope)
         assets = prepare_assets(root, release)
         if not execution:
             print(json.dumps(dry_run_summary(release, assets), ensure_ascii=False, indent=2))
             return 0
         if args.execute_editorial:
+            # Source checks and asset rendering can outlast the window.  Close
+            # the gate again immediately before the first Telegram call.
+            ensure_editorial_delivery_window(release_name=str(release["release"]))
             sent = asyncio.run(execute_editorial(
                 root, release, assets, session_path=Path(args.session), env_path=Path(args.env)
             ))
