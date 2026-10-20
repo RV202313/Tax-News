@@ -92,12 +92,14 @@ sources:
     lang: ru
     weight: 3.0
     method: http
-    parser: html_links
+    parser: auto
     window_hours: 48
     require_topics_any: &beps_topics
       [dta, nl_ru, substance_migration, transfer_pricing, advance_rulings,
        pillar2, withholding_dividend, exchange_info, crypto_tax,
        cross_border_trade_tax]
+    rss_endpoints:
+      - "https://rss.garant.ru/news/"
     endpoints:
       - "https://www.garant.ru/ia/aggregator/nalogi-i-buhuchet/"
     html:
@@ -106,12 +108,9 @@ sources:
       exclude: ["/rss", "/aggregator/[a-z\\-]+/?$", "/search", "/login", "utm_", "#", "/seminar", "/services"]
       path_hint: "/news/\\d+/?"
     note: >
-      RSS (/rss/, /rss/all/) отдаёт пустое тело через web_fetch, хотя
-      присутствует в навигации живого сайта — используем HTML-агрегатор
-      категории «Налоги и бухучёт». windows-1251, корректно декодируется.
-      Явной даты публикации в списке нет — при отборе ориентироваться на
-      попадание в текущий прогон (URL/заголовок не встречался ранее в
-      state.sqlite) и при необходимости открывать статью для даты.
+      Доменный HTML-агрегатор может отвечать HTTP 403; используем официальный
+      общий RSS https://rss.garant.ru/news/ (проверен прямым HTTP 200 и
+      парсингом). Общий поток фильтруется по целевым налоговым темам.
 
   - id: ru_fns
     name: ФНС России — федеральные налоговые новости
@@ -156,19 +155,17 @@ sources:
     name: Верховный Суд РФ — экономическая коллегия и налоговые споры
     lang: ru
     weight: 2.0
-    method: http
-    collector: "scripts/collect_vs.py"
-    parser: vs_ajax_json
-    prefiltered: true
+    method: chrome
+    parser: none
     default_topic: ru_tax_admin
     window_hours: 720
-    endpoints:
-      - "https://vsrf.ru/documents/reviews/?init=y&year={YEAR}&keyword=налог"
-      - "https://vsrf.ru/press_center/news/?init=y&year={YEAR}&keyword=налог"
+    url: "https://vsrf.ru/documents/"
     note: >
-      Официальные XHR-листинги ВС: налоговые обзоры и пресс-материалы по
-      keyword=налог за текущий год. collector сохраняет исходный JSON; это не
-      заменяет RAS Arbitr. Обзоры помечаются item_type=court_review.
+      Старые XHR-маршруты /documents/reviews/ и /press_center/news/ возвращают
+      HTTP 404; новый раздел документов отдаёт клиентскую оболочку, а его
+      публичный API в текущем окружении не подтверждён. До повторной проверки
+      официального интерфейса источник требует ручного сбора в браузере;
+      не выполнять неподтверждённые запросы.
 
   - id: intl_regfollower
     name: Regfollower — международные налоговые изменения
@@ -276,4 +273,3 @@ sources:
       samenvattingen по ATR/APA. Мониторить новые advance tax rulings и advance
       pricing agreements, особенно международные структуры, substance,
       deelnemingsvrijstelling и transfer pricing.
-

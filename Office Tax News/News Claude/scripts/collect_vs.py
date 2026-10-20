@@ -13,6 +13,7 @@ import sys
 from datetime import date as date_cls
 from pathlib import Path
 
+import http_support
 import requests
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -27,7 +28,7 @@ def collect(root: str, run_date: str, session=None) -> list[Path]:
     out_dir = Path(root).resolve() / "pipeline" / "raw" / run_date
     out_dir.mkdir(parents=True, exist_ok=True)
     year = date_cls.fromisoformat(run_date).year
-    client = session or requests.Session()
+    client = session or http_support.new_session()
     headers = {"User-Agent": UA, "X-Requested-With": "XMLHttpRequest"}
     saved = []
     errors = []

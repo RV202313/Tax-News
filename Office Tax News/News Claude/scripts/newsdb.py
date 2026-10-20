@@ -389,22 +389,16 @@ def _recent_titles(conn, days=DUP_WINDOW_DAYS):
     return [r["title_norm"] for r in rows]
 
 
-def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
-    """Дубликат: состояние кандидатов + каталог уже использованных материалов."""
-    if url and get_item_by_url(conn, url) is not None:
-        return True
+def is_in_published_catalog(conn, url, ecli, title_norm, act_norm=""):
+    """Проверить кандидата по индексу уже опубликованных материалов."""
     if url and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='url' AND value=? LIMIT 1", (url,)
     ).fetchone() is not None:
-        return True
-    if ecli and get_item_by_ecli(conn, ecli) is not None:
         return True
     if ecli and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='ecli' AND value=? LIMIT 1",
         (ecli.casefold(),),
     ).fetchone() is not None:
-        return True
-    if act_norm and get_item_by_act(conn, act_norm) is not None:
         return True
     if act_norm and conn.execute(
         "SELECT 1 FROM catalog_keys WHERE kind='act' AND value=? LIMIT 1",
@@ -412,12 +406,6 @@ def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
     ).fetchone() is not None:
         return True
     if title_norm:
-        for existing in _recent_titles(conn):
-            if not existing:
-                continue
-            ratio = difflib.SequenceMatcher(None, title_norm, existing).ratio()
-            if ratio >= DUP_RATIO:
-                return True
         rows = conn.execute(
             "SELECT title_norm, topic_norm FROM catalog_entries"
         ).fetchall()
@@ -428,6 +416,23 @@ def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
                 ).ratio() >= DUP_RATIO:
                     return True
     return False
+
+
+def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
+    """Дубликат: состояние кандидатов + каталог уже использованных материалов."""
+    if url and get_item_by_url(conn, url) is not None:
+        return True
+    if ecli and get_item_by_ecli(conn, ecli) is not None:
+        return True
+    if act_norm and get_item_by_act(conn, act_norm) is not None:
+        return True
+    if title_norm:
+        for existing in _recent_titles(conn):
+            if existing and difflib.SequenceMatcher(
+                None, title_norm, existing
+            ).ratio() >= DUP_RATIO:
+                return True
+    return is_in_published_catalog(conn, url, ecli, title_norm, act_norm)
 
 
 _MD_LINK_RE = re.compile(r"\[[^\]]+\]\((https?://[^)]+)\)", re.IGNORECASE)

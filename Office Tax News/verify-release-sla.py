@@ -13,7 +13,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, time
+from datetime import datetime, time, timedelta
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -97,6 +97,21 @@ def check_collection(now: datetime, critical: list[str], warnings: list[str], de
     last = read_json(LOG_DIR / "last-run.json", {})
     if last.get("exit_code") != 0:
         critical.append("Последний запуск сборщика отсутствует или завершился ошибкой")
+    due_slots = [now.replace(hour=hour, minute=12, second=0, microsecond=0)
+                 for hour in (8, 12, 16)
+                 if now >= now.replace(hour=hour, minute=0, second=0, microsecond=0)
+                 + timedelta(minutes=12)]
+    finished_at = None
+    if last.get("finished"):
+        try:
+            finished_at = datetime.fromisoformat(last["finished"])
+            if finished_at.tzinfo is None:
+                finished_at = finished_at.replace(tzinfo=now.tzinfo)
+            finished_at = finished_at.astimezone(now.tzinfo)
+        except (TypeError, ValueError):
+            pass
+    if due_slots and (finished_at is None or finished_at < due_slots[-1]):
+        critical.append("Сбор новостей пропущен по расписанию или давно не завершался")
     date = now.strftime("%Y-%m-%d")
     manifest = read_json(NEWS_ROOT / "pipeline" / "raw" / date / "collection_manifest.json", {})
     sources = manifest.get("sources") or {}
@@ -116,7 +131,8 @@ def check_collection(now: datetime, critical: list[str], warnings: list[str], de
                              "sources_ok": sorted(key for key, value in sources.items()
                                                   if value.get("state") == "ok"),
                              "sources_failed": failed, "sources_incomplete": incomplete,
-                             "expected_runs_by_now": expected_runs}
+                             "expected_runs_by_now": expected_runs,
+                             "latest_required_run_after": due_slots[-1].isoformat() if due_slots else None}
 
 
 def check_neuro_yurist(now: datetime, warnings: list[str], details: dict) -> None:

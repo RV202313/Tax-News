@@ -57,7 +57,8 @@ foreach ($taskName in $requiredTasks) {
             [void]$status.actions_taken.Add("Enabled $taskName")
             Add-Issue $status "Task was disabled: $taskName"
         }
-        if ($info.LastTaskResult -ne 0) {
+        if ($info.LastRunTime -gt [datetime]'2000-01-01' -and
+            $task.State -ne 'Running' -and $info.LastTaskResult -ne 0) {
             Add-Issue $status "Task last run failed: $taskName (code $($info.LastTaskResult))"
             $status.tasks_healthy = $false
         }
@@ -65,6 +66,72 @@ foreach ($taskName in $requiredTasks) {
     } catch {
         Add-Issue $status "Task missing or unreadable: $taskName"
         $status.tasks_healthy = $false
+    }
+}
+
+$collectorTaskName = 'Academy BEPS - Website collection'
+$collectorRegistration = Join-Path $rootDir 'register-collector-task.ps1'
+try {
+    $collectorTask = Get-ScheduledTask -TaskName $collectorTaskName -ErrorAction Stop
+} catch {
+    if (Test-Path -LiteralPath $collectorRegistration) {
+        try {
+            & powershell.exe -NoProfile -ExecutionPolicy Bypass -File $collectorRegistration *>> $watchdogLog
+            if ($LASTEXITCODE -ne 0) { throw "Registration exited with code $LASTEXITCODE" }
+            $collectorTask = Get-ScheduledTask -TaskName $collectorTaskName -ErrorAction Stop
+            [void]$status.actions_taken.Add('Registered missing website collection task')
+            Log-Message 'Recovered missing website collection task'
+        } catch {
+            Add-Issue $status "Cannot register website collection task: $_"
+        }
+    }
+}
+
+if ($collectorTask) {
+    try {
+        $collectorInfo = Get-ScheduledTaskInfo -TaskName $collectorTaskName -ErrorAction Stop
+        $runPath = Join-Path $logDir 'last-run.json'
+        $retryPath = Join-Path $logDir 'collector-retry.json'
+        $lastRun = $null
+        if (Test-Path -LiteralPath $runPath) {
+            $lastRun = Get-Content -LiteralPath $runPath -Raw -Encoding UTF8 | ConvertFrom-Json
+        }
+        $failedRun = ($lastRun -and [int]$lastRun.exit_code -ne 0) -or
+            ($collectorInfo.LastRunTime -gt [datetime]'2000-01-01' -and
+             $collectorInfo.LastTaskResult -ne 0)
+
+        $dueSlots = @(8, 12, 16) | ForEach-Object { $now.Date.AddHours($_).AddMinutes(12) } |
+            Where-Object { $now -ge $_ }
+        $staleRun = $false
+        if ($dueSlots.Count -gt 0 -and $collectorTask.State -ne 'Running') {
+            $finishedAt = [datetime]::MinValue
+            if ($lastRun -and $lastRun.finished) {
+                try { $finishedAt = [datetime]::Parse($lastRun.finished).ToLocalTime() } catch {}
+            }
+            $staleRun = $finishedAt -lt $dueSlots[-1]
+        }
+
+        $retryState = $null
+        if (Test-Path -LiteralPath $retryPath) {
+            try { $retryState = Get-Content -LiteralPath $retryPath -Raw -Encoding UTF8 | ConvertFrom-Json } catch {}
+        }
+        $retrySlot = if ($dueSlots.Count -gt 0) { $dueSlots[-1].ToString('yyyy-MM-dd-HH') } else { $null }
+        $retryCount = if ($retryState -and $retryState.slot -eq $retrySlot) {
+            [int]$retryState.attempts
+        } else { 0 }
+        $retryIntervalElapsed = -not $retryState -or $retryState.slot -ne $retrySlot -or
+            $now - [datetime]::Parse($retryState.started) -ge [TimeSpan]::FromMinutes(30)
+        $retryAllowed = $retrySlot -and $retryCount -lt 3 -and $retryIntervalElapsed
+        if ($collectorTask.State -ne 'Running' -and ($failedRun -or $staleRun) -and $retryAllowed) {
+            Start-ScheduledTask -TaskName $collectorTaskName -ErrorAction Stop
+            @{started=$now.ToString('o'); slot=$retrySlot; attempts=($retryCount + 1);
+              reason=$(if ($failedRun) { 'failed' } else { 'stale' })} |
+                ConvertTo-Json | Set-Content -LiteralPath $retryPath -Encoding UTF8
+            [void]$status.actions_taken.Add('Restarted website collection after failure or missed run')
+            Log-Message "Started recovery run $($retryCount + 1)/3 for collection slot $retrySlot"
+        }
+    } catch {
+        Add-Issue $status "Cannot recover website collection task: $_"
     }
 }
 

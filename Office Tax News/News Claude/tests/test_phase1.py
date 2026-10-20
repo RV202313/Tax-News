@@ -18,6 +18,7 @@ SCRIPTS = PROJECT / "scripts"
 sys.path.insert(0, str(SCRIPTS))
 
 import collect_sources  # noqa: E402
+import daily_run  # noqa: E402
 import newsdb  # noqa: E402
 import parse_feeds  # noqa: E402
 import select_news  # noqa: E402
@@ -243,6 +244,77 @@ class ParserTransportTests(TempProject):
             (self.tmp / "pipeline/raw/2026-07-17/feed_1.txt").read_bytes(), self.RSS
         )
 
+    def test_chrome_source_is_manual_even_when_collector_is_configured(self):
+        (self.tmp / "config").mkdir(parents=True)
+        (self.tmp / "config" / "sources.yaml").write_text(
+            "sources:\n"
+            "  - id: browser\n    method: chrome\n    collector: scripts/missing.js\n",
+            encoding="utf-8",
+        )
+        manifest = collect_sources.collect(str(self.tmp), "2026-07-17")
+        self.assertEqual(manifest["sources"]["browser"]["state"], "manual")
+        self.assertEqual(manifest["_summary"]["failed"], [])
+
+    def test_daily_run_reports_failed_sources_after_building_digest(self):
+        run_date = "2099-01-01"
+        raw_dir = self.tmp / "pipeline" / "raw" / run_date
+        raw_dir.mkdir(parents=True)
+        (raw_dir / "collection_manifest.json").write_text(
+            json.dumps({"date": run_date, "sources": {
+                "feed": {"state": "failed"}, "other_feed": {"state": "ok"},
+            }}),
+            encoding="utf-8",
+        )
+        def run_command(command, **_kwargs):
+            if command[1] == "scripts/make_digest.py":
+                digest_dir = self.tmp / "pipeline" / "digest"
+                digest_dir.mkdir(parents=True)
+                (digest_dir / f"{run_date}_digest.md").write_text("# Digest\n", encoding="utf-8")
+            return mock.Mock(returncode=0)
+
+        with mock.patch.object(
+            daily_run.subprocess, "run", side_effect=run_command
+        ) as run, mock.patch.object(
+            sys, "argv",
+            ["daily_run.py", "--date", run_date, "--root", str(self.tmp), "--no-telegram"],
+        ):
+            self.assertEqual(daily_run.main(), 1)
+        self.assertEqual(run.call_count, 4)
+
+    def test_daily_run_fails_if_collector_does_not_write_manifest(self):
+        with mock.patch.object(
+            daily_run.subprocess, "run", return_value=mock.Mock(returncode=0)
+        ) as run, mock.patch.object(
+            sys, "argv",
+            ["daily_run.py", "--date", "2099-01-01", "--root", str(self.tmp), "--no-telegram"],
+        ):
+            self.assertEqual(daily_run.main(), 1)
+        self.assertEqual(run.call_count, 3)
+
+    def test_daily_run_succeeds_only_with_verified_output(self):
+        run_date = "2099-01-01"
+        raw_dir = self.tmp / "pipeline" / "raw" / run_date
+        raw_dir.mkdir(parents=True)
+        (raw_dir / "collection_manifest.json").write_text(
+            json.dumps({"date": run_date, "sources": {"feed": {"state": "ok"}}}),
+            encoding="utf-8",
+        )
+
+        def run_command(command, **_kwargs):
+            if command[1] == "scripts/make_digest.py":
+                digest_dir = self.tmp / "pipeline" / "digest"
+                digest_dir.mkdir(parents=True)
+                (digest_dir / f"{run_date}_digest.md").write_text("# Digest\n", encoding="utf-8")
+            return mock.Mock(returncode=0)
+
+        with mock.patch.object(daily_run.subprocess, "run", side_effect=run_command) as run, \
+             mock.patch.object(
+                 sys, "argv",
+                 ["daily_run.py", "--date", run_date, "--root", str(self.tmp), "--no-telegram"],
+             ):
+            self.assertEqual(daily_run.main(), 0)
+        self.assertEqual(run.call_count, 4)
+
     def test_cross_source_batch_duplicate_keeps_one(self):
         self.copy_configs()
         inbox = self.tmp / "pipeline" / "inbox"
@@ -262,6 +334,9 @@ class ParserTransportTests(TempProject):
         )
         result = select_news.run("2026-07-17", 15, str(self.tmp))
         self.assertEqual(result["n_shortlisted"], 1)
+        retry = select_news.run("2026-07-17", 15, str(self.tmp))
+        self.assertEqual(retry["n_collected_new"], 0)
+        self.assertEqual(retry["n_shortlisted"], result["n_shortlisted"])
 
     def test_broad_source_requires_target_topic(self):
         self.copy_configs()
