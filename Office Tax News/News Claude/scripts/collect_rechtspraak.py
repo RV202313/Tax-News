@@ -31,6 +31,8 @@ import sys
 import time
 from datetime import datetime, timedelta
 
+import http_support
+
 try:
     import requests
 except ImportError:  # pragma: no cover
@@ -78,7 +80,7 @@ def run(run_date, root):
     raw_dir = os.path.join(root, "pipeline", "raw", run_date)
     os.makedirs(raw_dir, exist_ok=True)
 
-    session = requests.Session()
+    session = http_support.new_session()
     session.headers.update({
         "User-Agent": USER_AGENT,
         "Accept": "application/atom+xml, application/xml;q=0.9, */*;q=0.1",
@@ -129,4 +131,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

@@ -33,6 +33,8 @@ import time
 from datetime import date as date_cls, timedelta
 from pathlib import Path
 
+import http_support
+
 try:
     import requests
 except ImportError:  # pragma: no cover
@@ -139,7 +141,7 @@ def collect(root, run_date, only=None, skip_telegram=False):
     raw.mkdir(parents=True, exist_ok=True)
     yesterday = (date_cls.fromisoformat(run_date) - timedelta(days=1)).isoformat()
 
-    session = requests.Session()
+    session = http_support.new_session()
     session.headers.update({"User-Agent": UA, "Accept-Language": "ru,en;q=0.8,nl;q=0.6"})
 
     manifest = {"date": run_date, "sources": {}}
@@ -154,6 +156,12 @@ def collect(root, run_date, only=None, skip_telegram=False):
 
         if skip_telegram and "telegram" in str(src.get("collector", "")).lower():
             manifest["sources"][sid] = {"state": "manual", "detail": "Telegram disabled for local collection"}
+            incomplete.append(f"{sid}:manual")
+            continue
+
+        if method == "chrome":
+            manifest["sources"][sid] = {"state": "manual",
+                                        "detail": "нужна браузерная сессия (Chrome), автосбор не выполняется"}
             incomplete.append(f"{sid}:manual")
             continue
 
@@ -194,12 +202,6 @@ def collect(root, run_date, only=None, skip_telegram=False):
             else:
                 failed.append(sid)
             continue
-        if method == "chrome":
-            manifest["sources"][sid] = {"state": "manual",
-                                        "detail": "нужна браузерная сессия (Chrome), автосбор не выполняется"}
-            incomplete.append(f"{sid}:manual")
-            continue
-
         # RSS-first: rss_endpoints пробуем перед обычными endpoints.
         endpoints = list(src.get("rss_endpoints") or []) + list(src.get("endpoints") or [])
         if not endpoints:
@@ -287,4 +289,3 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

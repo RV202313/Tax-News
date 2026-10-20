@@ -374,7 +374,26 @@ def _run_connected(date, top, root, conn):
         score = base + jurisdiction_w + (FRESHNESS_BONUS if fresh else 0.0) + engagement_bonus
 
         title_norm = newsdb.normalize_title(title)
+        existing = (
+            newsdb.get_item_by_url(conn, url)
+            or newsdb.get_item_by_ecli(conn, ecli)
+            or newsdb.get_item_by_act(conn, act_norm)
+        )
+        if existing is None and title_norm:
+            existing = conn.execute(
+                "SELECT * FROM items WHERE title_norm=? ORDER BY id DESC LIMIT 1",
+                (title_norm,),
+            ).fetchone()
         dup = newsdb.is_duplicate(conn, url, ecli, title_norm, act_norm)
+        same_run_candidate = bool(
+            existing
+            and existing["run_date"] == date
+            and existing["status"] in {"collected", "shortlisted"}
+        )
+        if dup and same_run_candidate and not newsdb.is_in_published_catalog(
+            conn, url, ecli, title_norm, act_norm
+        ):
+            dup = False
 
         candidate = {
             "source": source,
@@ -565,4 +584,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

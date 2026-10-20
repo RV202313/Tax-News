@@ -10,7 +10,7 @@ import sys
 from datetime import date as date_cls
 from pathlib import Path
 
-import requests
+import http_support
 
 from common import load_env
 
@@ -43,7 +43,13 @@ def main() -> int:
     # Записываем в runs фактическое покрытие ДО генерации дайджеста, чтобы оно
     # было видно и в markdown, и в веб-портале.
     manifest_path = root / "pipeline" / "raw" / args.date / "collection_manifest.json"
-    manifest = json.loads(manifest_path.read_text(encoding="utf-8")) if manifest_path.exists() else {"sources": {}}
+    if not manifest_path.is_file():
+        print(f"[daily] Манифест сбора не создан: {manifest_path}", file=sys.stderr)
+        return 1
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    if manifest.get("date") != args.date or not isinstance(manifest.get("sources"), dict):
+        print(f"[daily] Манифест сбора некорректен: {manifest_path}", file=sys.stderr)
+        return 1
     source_states = manifest.get("sources", {})
     ok = [sid for sid, rec in source_states.items() if rec.get("state") == "ok"]
     failed = [f"{sid}:{rec.get('state', 'unknown')}" for sid, rec in source_states.items()
@@ -61,18 +67,32 @@ def main() -> int:
     result = subprocess.run([py, "scripts/make_digest.py", "--date", args.date, "--root", str(root)], cwd=root, text=True)
     if result.returncode:
         return result.returncode
+    digest_path = root / "pipeline" / "digest" / f"{args.date}_digest.md"
+    if not digest_path.is_file() or digest_path.stat().st_size == 0:
+        print(f"[daily] Дайджест не создан или пуст: {digest_path}", file=sys.stderr)
+        return 1
     load_env(root / ".env.portal")
     token, chat = os.getenv("TELEGRAM_BOT_TOKEN", ""), os.getenv("TELEGRAM_DIGEST_CHAT_ID", "")
     if token and chat and not args.no_telegram:
-        digest = (root / "pipeline" / "digest" / f"{args.date}_digest.md").read_text(encoding="utf-8")
+        digest = digest_path.read_text(encoding="utf-8")
         warning = ("\n\n⚠ Сбои автосбора: " + ", ".join(sorted(failed)) if failed else "")
         coverage = ("\n\nℹ Ручной добор: " + ", ".join(sorted(incomplete))
                     if incomplete else "")
         text = f"Дайджест готов: {args.date}\n\n{digest[:3500]}{warning}{coverage}\n\nПортал: http://127.0.0.1:8765"
-        response = requests.post(f"https://api.telegram.org/bot{token}/sendMessage", json={"chat_id": chat, "text": text}, timeout=20)
+        response = http_support.new_session().post(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            json={"chat_id": chat, "text": text}, timeout=20,
+        )
         response.raise_for_status()
     else:
         print("[daily] Telegram не настроен: дайджест доступен в портале.")
+    if failed:
+        print("[daily] Сбор завершён с ошибками источников: " + ", ".join(sorted(failed)),
+              file=sys.stderr)
+        return 1
+    if not ok:
+        print("[daily] Ни один источник не подтвердил успешный сбор.", file=sys.stderr)
+        return 1
     return 0
 
 
