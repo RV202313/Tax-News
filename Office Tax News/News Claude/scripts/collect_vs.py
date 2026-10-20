@@ -24,38 +24,20 @@ ENDPOINT = "https://www.vsrf.ru/"
 def collect(root: str, run_date: str, session=None) -> list[Path]:
     out_dir = Path(root).resolve() / "pipeline" / "raw" / run_date
     out_dir.mkdir(parents=True, exist_ok=True)
-    year = date_cls.fromisoformat(run_date).year
+    # Validate the date before composing the output directory.
+    date_cls.fromisoformat(run_date)
     client = session or http_support.new_session()
-    headers = {"User-Agent": UA, "X-Requested-With": "XMLHttpRequest"}
-    saved = []
-    errors = []
-    for number, (endpoint, keyword) in enumerate(ENDPOINTS, start=1):
-        try:
-            params = {"init": "y", "year": str(year)}
-            if keyword:
-                params["keyword"] = keyword
-            response = client.get(
-                endpoint,
-                params=params,
-                headers=headers,
-                timeout=30,
-            )
-            response.raise_for_status()
-            payload = response.content
-            # Проверяем JSON до записи, но сохраняем исходные байты ответа.
-            parsed = response.json()
-            if not isinstance(parsed, dict) or "list" not in parsed:
-                raise ValueError("ответ не похож на XHR-листинг ВС РФ")
-            target = out_dir / f"ru_vs_{number}.txt"
-            target.write_bytes(payload)
-            saved.append(target)
-        except (requests.RequestException, ValueError) as exc:
-            errors.append(f"{endpoint}: {type(exc).__name__}: {exc}")
-    for message in errors:
-        print(f"[vs] {message}", file=sys.stderr)
-    if not saved:
-        raise RuntimeError("ни один официальный endpoint ВС РФ не собран")
-    return saved
+    try:
+        response = client.get(ENDPOINT, headers={"User-Agent": UA}, timeout=30)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise RuntimeError(f"{ENDPOINT}: {type(exc).__name__}: {exc}") from exc
+    payload = response.content
+    if b"/documents/" not in payload and b"/press_center/news/" not in payload:
+        raise RuntimeError("главная страница ВС РФ не содержит карточек материалов")
+    target = out_dir / "ru_vs_1.txt"
+    target.write_bytes(payload)
+    return [target]
 
 
 def main() -> int:

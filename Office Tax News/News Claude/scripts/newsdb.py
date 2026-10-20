@@ -421,16 +421,30 @@ def is_in_published_catalog(conn, url, ecli, title_norm, act_norm=""):
     return False
 
 
-def is_duplicate(conn, url, ecli, title_norm, act_norm=""):
-    """Дубликат: состояние кандидатов + каталог уже использованных материалов."""
-    if url and get_item_by_url(conn, url) is not None:
+def is_duplicate(conn, url, ecli, title_norm, act_norm="", include_collected=True):
+    """Дубликат: состояние кандидатов + каталог уже использованных материалов.
+
+    include_collected=False: собранные, но не доставленные элементы дублем не считаются.
+    """
+    def counts(row):
+        if row is None:
+            return False
+        if include_collected:
+            return True
+        if row["status"] in ("published", "delivered", "posted"):
+            return True
+        return conn.execute(
+            "SELECT 1 FROM published WHERE item_id=? AND post_id!='' LIMIT 1", (row["id"],)
+        ).fetchone() is not None
+
+    if url and counts(get_item_by_url(conn, url)):
         return True
-    if ecli and get_item_by_ecli(conn, ecli) is not None:
+    if ecli and counts(get_item_by_ecli(conn, ecli)):
         return True
-    if act_norm and get_item_by_act(conn, act_norm) is not None:
+    if act_norm and counts(get_item_by_act(conn, act_norm)):
         return True
     if title_norm:
-        for existing in _recent_titles(conn):
+        for existing in _recent_titles(conn, published_only=not include_collected):
             if existing and difflib.SequenceMatcher(
                 None, title_norm, existing
             ).ratio() >= DUP_RATIO:

@@ -27,8 +27,11 @@ try {
     }
     $newsLog = Join-Path $newsLogDir "$newsStamp.log"
     Set-Location -LiteralPath $newsRoot
+    $previousEap = $ErrorActionPreference
+    $ErrorActionPreference = 'Continue'
     & $newsPython -u 'scripts\daily_run.py' --root $newsRoot --no-telegram *> $newsLog
     $newsExit = $LASTEXITCODE
+    $ErrorActionPreference = $previousEap
     if ($backupWarning) { Add-Content -LiteralPath $newsLog -Value $backupWarning -Encoding UTF8 }
     $manifestPath = Join-Path $newsRoot "pipeline\raw\$((Get-Date).ToString('yyyy-MM-dd'))\collection_manifest.json"
     $digestPath = Join-Path $newsRoot "pipeline\digest\$((Get-Date).ToString('yyyy-MM-dd'))_digest.md"

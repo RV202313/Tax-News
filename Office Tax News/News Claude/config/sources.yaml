@@ -105,6 +105,7 @@ sources:
     lang: en
     weight: 3.5
     method: http
+    optional: true   # сайт блокирует автоматические запросы (HTTP 403)
     parser: html_links
     window_hours: 168
     endpoints: ["https://www.oecd.org/en/topics/cross-border-and-international-tax.html"]
@@ -247,17 +248,19 @@ sources:
     name: Верховный Суд РФ — экономическая коллегия и налоговые споры
     lang: ru
     weight: 2.0
-    method: chrome
-    parser: none
+    method: http
+    optional: true   # витрина нестабильна; сбой не должен ронять весь сбор
+    collector: "scripts/collect_vs.py"
+    parser: vs_ajax_json
+    prefiltered: true
     default_topic: ru_tax_admin
     window_hours: 720
-    url: "https://vsrf.ru/documents/"
+    endpoints:
+      - "https://www.vsrf.ru/"
     note: >
-      Старые XHR-маршруты /documents/reviews/ и /press_center/news/ возвращают
-      HTTP 404; новый раздел документов отдаёт клиентскую оболочку, а его
-      публичный API в текущем окружении не подтверждён. До повторной проверки
-      официального интерфейса источник требует ручного сбора в браузере;
-      не выполнять неподтверждённые запросы.
+      Публичная витрина ВС РФ. Старые XHR-листинги сняты сайтом; collector
+      сохраняет исходный HTML и пропускает только карточки с налоговыми
+      терминами в фактическом тексте. Это не заменяет RAS Arbitr.
 
   - id: intl_regfollower
     name: Regfollower — международные налоговые изменения

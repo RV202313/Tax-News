@@ -250,6 +250,12 @@ def collect(root, run_date, only=None, skip_telegram=False):
         (ok if saved else failed).append(sid)
         time.sleep(PAUSE)
 
+    optional_ids = {s.get("id") for s in cfg.get("sources", []) if s.get("optional")}
+    for sid in [s for s in failed if s in optional_ids]:
+        manifest["sources"][sid]["state"] = "degraded"
+        failed.remove(sid)
+        incomplete.append(f"{sid}:degraded")
+
     manifest["_summary"] = {"ok": sorted(ok), "failed": sorted(failed),
                             "incomplete": sorted(incomplete)}
     _persist_manifest(raw, manifest, only=only)
