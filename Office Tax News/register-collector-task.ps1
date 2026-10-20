@@ -1,19 +1,21 @@
 $ErrorActionPreference = 'Stop'
 
 $taskName = 'Academy BEPS - Website collection'
-$runner = Join-Path $PSScriptRoot 'run-collector.ps1'
+$launcher = Join-Path $PSScriptRoot 'silent_collector.vbs'
 
-if (-not (Test-Path -LiteralPath $runner)) {
-    throw "Collector runner not found: $runner"
+if (-not (Test-Path -LiteralPath $launcher)) {
+    throw "Collector launcher not found: $launcher"
 }
 
 $action = New-ScheduledTaskAction `
-    -Execute 'powershell.exe' `
-    -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$runner`""
+    -Execute 'wscript.exe' `
+    -Argument "`"$launcher`""
+# Московские слоты сбора 08/12/16; парные локальные триггеры покрывают CET/CEST,
+# а run-moscow-collector.ps1 отсекает лишний запуск.
 $triggers = @(
-    New-ScheduledTaskTrigger -Daily -At '08:00'
-    New-ScheduledTaskTrigger -Daily -At '12:00'
-    New-ScheduledTaskTrigger -Daily -At '16:00'
+    foreach ($hour in 6, 7, 10, 11, 14, 15) {
+        New-ScheduledTaskTrigger -Daily -At ('{0:00}:00' -f $hour)
+    }
 )
 $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries `
@@ -33,5 +35,5 @@ Register-ScheduledTask `
     -User $env:USERNAME `
     -Force | Out-Null
 
-Write-Host "Registered '$taskName' for 08:00, 12:00, and 16:00 with bounded retries."
+Write-Host "Registered '$taskName' for 08:00, 12:00, and 16:00 MSK with bounded retries."
 Get-ScheduledTask -TaskName $taskName | Select-Object TaskName, State, TaskPath

@@ -151,18 +151,23 @@ def main() -> int:
     published_urls, old_titles = load_published_history(NEWS_ROOT)
     log(f"Загружено {len(published_urls)} опубликованных URL для исключения дублей.")
 
-    # Status tracking
+    # Пакет создаёт только редактор после live-проверки первоисточников.
+    # Заглушка не вправе объявлять «ready» без готового approved-файла.
+    ready = target_path.exists()
     status = {
         "release": release_name,
         "date": date_str,
         "slot": slot_str,
         "started_at": datetime.now(timezone.utc).isoformat(),
-        "status": "ready",
-        "items_count": 10 if target_path.exists() else 0
+        "status": "ready" if ready else "missing_editorial_package",
+        "items_count": 10 if ready else 0
     }
 
     status_file = LOG_DIR / "auto-builder-status.json"
     atomic_json(status_file, status)
+    if not ready:
+        log(f"ВНИМАНИЕ: approved-пакет {release_name} не создан редактором; публикация будет пропущена.")
+        return 1
     log(f"Автономная сборка пакета {release_name} готова.")
     return 0
 
