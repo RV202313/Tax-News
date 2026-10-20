@@ -298,11 +298,11 @@ def parse_json_items(text, src_cfg):
 
 
 def parse_vs_ajax_json(text, src_cfg):
-    """JSON XHR-листинга официального сайта Верховного Суда РФ."""
+    """Материалы ВС РФ из прежнего JSON или текущей HTML-витрины."""
     try:
         payload = json.loads(text)
     except json.JSONDecodeError:
-        return []
+        return parse_vs_homepage_html(text)
     fragments = payload.get("list", []) if isinstance(payload, dict) else []
     items = []
     for fragment in fragments:
@@ -345,6 +345,66 @@ def parse_vs_ajax_json(text, src_cfg):
             "summary": summary,
             "published_at": _ymd_from_attrs(fragment),
             "item_type": "court_review" if is_review else "court_news",
+        })
+    return _dedup_by_url_title(items)
+
+
+_VS_TAX_TERMS = (
+    "налог", "ндс", "сбор", "налогоплательщик", "налогооблож",
+    "трансфертн", "акциз", "таможенн",
+)
+_RU_MONTHS = {
+    "января": 1, "февраля": 2, "марта": 3, "апреля": 4,
+    "мая": 5, "июня": 6, "июля": 7, "августа": 8,
+    "сентября": 9, "октября": 10, "ноября": 11, "декабря": 12,
+}
+
+
+def parse_vs_homepage_html(text):
+    """Read public cards from the current Supreme Court front page.
+
+    Only links to a source document or news item whose actual card text has a
+    tax term become candidates.  A front page with no tax card is an honest
+    zero-result collection, rather than a pretext to label unrelated rulings
+    as tax news.
+    """
+    items = []
+    for fragment in re.findall(r"<li\b[^>]*>.*?</li>", text, re.IGNORECASE | re.DOTALL):
+        anchor = re.search(
+            r'<a\b[^>]*href=["\']([^"\']*(?:/documents/all/\d+|/press_center/news/\d+)[^"\']*)["\'][^>]*>(.*?)</a>',
+            fragment, re.IGNORECASE | re.DOTALL,
+        )
+        if anchor is None:
+            continue
+        href, inner = anchor.group(1), anchor.group(2)
+        title_match = re.search(r'<p\b[^>]*>(.*?)</p>', inner, re.IGNORECASE | re.DOTALL)
+        title = _strip_markup(title_match.group(1) if title_match else inner)
+        if len(title) < MIN_TITLE_LEN:
+            continue
+        if not any(term in title.casefold() for term in _VS_TAX_TERMS):
+            continue
+        date_match = re.search(
+            r">\s*(\d{1,2})\s*</div>.*?>\s*([а-яё]+)\s*</div>",
+            inner, re.IGNORECASE | re.DOTALL,
+        )
+        published_at = ""
+        if date_match:
+            month = _RU_MONTHS.get(date_match.group(2).casefold())
+            if month:
+                try:
+                    published_at = datetime(
+                        datetime.now().year, month, int(date_match.group(1))
+                    ).date().isoformat()
+                except ValueError:
+                    pass
+        items.append({
+            "url": urljoin("https://www.vsrf.ru/", href),
+            "ecli": "",
+            "act": "",
+            "title": title,
+            "summary": "",
+            "published_at": published_at,
+            "item_type": "court_document" if "/documents/" in href else "court_news",
         })
     return _dedup_by_url_title(items)
 

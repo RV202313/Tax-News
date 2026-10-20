@@ -18,10 +18,7 @@ import requests
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-ENDPOINTS = (
-    ("https://vsrf.ru/documents/reviews/", None),
-    ("https://vsrf.ru/press_center/news/", "налог"),
-)
+ENDPOINT = "https://www.vsrf.ru/"
 
 
 def collect(root: str, run_date: str, session=None) -> list[Path]:

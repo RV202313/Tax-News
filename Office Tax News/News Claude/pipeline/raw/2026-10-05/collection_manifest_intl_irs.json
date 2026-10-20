@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-05",
+  "sources": {
+    "intl_irs": {
+      "state": "ok",
+      "files": [
+        "intl_irs_1.txt"
+      ],
+      "fetches": [
+        {
+          "file": "intl_irs_1.txt",
+          "transport": "html",
+          "url": "https://www.irs.gov/newsroom/news-releases-for-current-month",
+          "status": 200,
+          "content_type": "text/html; charset=UTF-8",
+          "bytes": 106879
+        }
+      ],
+      "detail": ""
+    }
+  },
+  "_summary": {
+    "ok": [
+      "intl_irs"
+    ],
+    "failed": [],
+    "incomplete": []
+  }
+}

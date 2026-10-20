@@ -1,0 +1,517 @@
+{
+  "release": "2026-10-15_0900_editorial",
+  "date": "2026-10-15",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-10-15-0900-item-01-ru",
+      "title": "Россия: С 2027 года администрирование взносов на травматизм планируют передать ФНС России",
+      "caption": "Россия: С 2027 года администрирование взносов на травматизм планируют передать ФНС России\n\nПравительство подготовило законопроект о консолидации всех видов обязательного социального страхования в едином налоговом ведомстве.\n\n💡 **Почему это важно**\nПередача полномочий объединит проверки и сведет отчетность в единый расчет по страховым взносам. Бухгалтериям организаций следует подготовиться к унификации форм контроля.\n\nИсточник: https://www.garant.ru/news/2266416/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "страховые взносы на травматизм и налоговое администрирование",
+      "jurisdictions": "Россия",
+      "act": "Законопроект Правительства РФ",
+      "sources": [
+        {
+          "label": "Правительство РФ / Гарант",
+          "url": "https://www.garant.ru/news/2266416/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2266416/",
+          "final_url": "https://www.garant.ru/news/2266416/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: С 2027 года администрирование вз",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-02-ru",
+      "title": "Россия: Минфин разъяснил порядок подтверждения расходов на медицинские услуги для налогового вычета",
+      "caption": "Россия: Минфин разъяснил порядок подтверждения расходов на медицинские услуги для налогового вычета\n\nФинансовое ведомство уточнило перечень документов, необходимых для оформления социального вычета по налогу на доходы физических лиц.\n\n💡 **Почему это важно**\nПредоставление справки установленной формы медицинскими учреждениями исключает споры с инспекцией при камеральной проверке декларации. Гражданам и работодателям полезно учитывать официальную позицию.\n\nИсточник: https://www.garant.ru/news/2267429/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на доходы физических лиц и социальный налоговый вычет",
+      "jurisdictions": "Россия",
+      "act": "Разъяснения Минфина России",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2267429/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2267429/",
+          "final_url": "https://www.garant.ru/news/2267429/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин разъяснил порядок подтвер",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-03-ru",
+      "title": "Россия: ФНС напомнила о статусе несовершеннолетних граждан в качестве самостоятельных налогоплательщиков",
+      "caption": "Россия: ФНС напомнила о статусе несовершеннолетних граждан в качестве самостоятельных налогоплательщиков\n\nНалоговая служба пояснила порядок исполнения обязанностей по уплате имущественных налогов родителями и законными представителями детей.\n\n💡 **Почему это важно**\nНаличие долей в недвижимости у детей влечет формирование налоговых уведомлений на их имя. Родителям необходимо проверять налоговые начисления в личных кабинетах до наступления срока уплаты.\n\nИсточник: https://www.garant.ru/news/2267807/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "имущественные налоги и налогообложение несовершеннолетних",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России / Гарант",
+          "url": "https://www.garant.ru/news/2267807/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2267807/",
+          "final_url": "https://www.garant.ru/news/2267807/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: ФНС напомнила о статусе несоверш",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по структуре филиала и распределению прибыли ATR 000003",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по структуре филиала и распределению прибыли ATR 000003\n\nНалоговая служба Нидерландов утвердила метод пропорционального распределения общехозяйственных расходов постоянного представительства.\n\n💡 **Почему это важно**\nДокумент исключает двойное налогообложение доходов филиала и подтверждает правомерность вычета управленческих затрат. Международным группам рекомендуется руководствоваться утвержденными формулами.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "постоянное представительство и распределение расходов",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000003",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000003",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260922 atr 000003 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-05-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому распределению дивидендов ATR 000002",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по внутригрупповому распределению дивидендов ATR 000002\n\nНалоговое ведомство Нидерландов согласовало применение режима освобождения участия при каскадном распределении чистой прибыли.\n\n💡 **Почему это важно**\nРулинг закрепляет нулевую ставку налога у источника при соблюдении условий реального присутствия промежуточного холдинга. Корпоративным юристам целесообразно учитывать критерии оценки субстанции.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000002\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "освобождение участия и налог у источника на дивиденды",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000002",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000002"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000002",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260922-atr-000002",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260922 atr 000002 | belastingdienst hoofdnavigatie home menu sluiten open zoeken waar bent u naar o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-06-nl",
+      "title": "Нидерланды: Суд постановил, что отсутствие счетов-фактур исключает вычет НДС независимо от позиции консультанта",
+      "caption": "Нидерланды: Суд постановил, что отсутствие счетов-фактур исключает вычет НДС независимо от позиции консультанта\n\nНалоговый суд Нидерландов подтвердил правомерность доначисления НДС при отсутствии надлежащих первичных документов от поставщиков.\n\n💡 **Почему это важно**\nСсылка на недобросовестность внешнего советника не освобождает налогоплательщика от штрафов при отсутствии счетов-фактур. Руководителям компаний важно наладить строгий внутренний документооборот.\n\nИсточник: https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "вычеты по НДС и требования к первичным счетам-фактурам",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Налогового суда Нидерландов",
+      "sources": [
+        {
+          "label": "Taxence / Судебная практика",
+          "url": "https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/",
+          "final_url": "https://www.taxence.nl/nieuws/geen-beroep-op-adviseur-bij-ontbrekende-btw-facturen/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Суд постановил, что отсутств",
+              "source_quote": "knowledge fiscaal en meer tax talks vakblad estate planning specials kennisbank geen beroep op adviseur bij ontbrekende "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-07-kz",
+      "title": "Казахстан: Парламент одобрил проект республиканского бюджета на трехлетний период",
+      "caption": "Казахстан: Парламент одобрил проект республиканского бюджета на трехлетний период\n\nЗаконодательный орган утвердил основные макроэкономические параметры доходов и расходов государства на 2027-2029 годы.\n\n💡 **Почему это важно**\nБюджет предусматривает сохранение ключевых мер господдержки и сбалансированную налоговую политику для реального сектора экономики. Предприятиям рекомендуется учесть прогнозные параметры при планировании инвестиций.\n\nИсточник: https://uchet.kz/news/kurultay-odobril-proekt-respublikanskogo-byudzheta-na-predstoyashchie-tri-goda/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "республиканский бюджет и фискальные параметры",
+      "jurisdictions": "Казахстан",
+      "act": "Законопроект о республиканском бюджете РК",
+      "sources": [
+        {
+          "label": "Учет.kz / Казахстан",
+          "url": "https://uchet.kz/news/kurultay-odobril-proekt-respublikanskogo-byudzheta-na-predstoyashchie-tri-goda/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/kurultay-odobril-proekt-respublikanskogo-byudzheta-na-predstoyashchie-tri-goda/",
+          "final_url": "https://uchet.kz/news/kurultay-odobril-proekt-respublikanskogo-byudzheta-na-predstoyashchie-tri-goda/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Парламент одобрил проект респ",
+              "source_quote": "курултай одобрил проект республиканского бюджета на предстоящие три года — uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-08-kz",
+      "title": "Казахстан: Налогоплательщикам напомнили о необходимости проверки карточек товаров в Национальном каталоге",
+      "caption": "Казахстан: Налогоплательщикам напомнили о необходимости проверки карточек товаров в Национальном каталоге\n\nОператор маркировки призвал участников оборота завершить верификацию номенклатурных позиций до 26 октября.\n\n💡 **Почему это важно**\nНекорректное заполнение карточек приводит к сбоям при формировании электронных сопроводительных накладных и задержке поставок. Торговым компаниям необходимо сверить данные в каталоге.\n\nИсточник: https://uchet.kz/news/do-26-oktyabrya-nuzhno-proverit-kartochki-tovarov-v-nkt/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "маркировка и национальный каталог товаров",
+      "jurisdictions": "Казахстан",
+      "act": "Информационное сообщение оператора маркировки РК",
+      "sources": [
+        {
+          "label": "Учет.kz / Казахстан",
+          "url": "https://uchet.kz/news/do-26-oktyabrya-nuzhno-proverit-kartochki-tovarov-v-nkt/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://uchet.kz/news/do-26-oktyabrya-nuzhno-proverit-kartochki-tovarov-v-nkt/",
+          "final_url": "https://uchet.kz/news/do-26-oktyabrya-nuzhno-proverit-kartochki-tovarov-v-nkt/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Казахстан: Налогоплательщикам напомнили ",
+              "source_quote": "до 26 октября нужно проверить карточки товаров в нкт — uchet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-09-int",
+      "title": "Кипр: Парламент рассматривает законопроект о внедрении признанного внутреннего минимального налога QDMTT",
+      "caption": "Кипр: Парламент рассматривает законопроект о внедрении признанного внутреннего минимального налога QDMTT\n\nПалата представителей Кипра приступила к обсуждению поправок, обеспечивающих сбор дополнительного налога на уровне национальной юрисдикции.\n\n💡 **Почему это важно**\nВнедрение квалифицированного внутреннего налога предотвращает уплату налога в пользу иностранных государств по правилам Pillar Two. Кипрским структурам международных групп следует оценить расчет эффективной ставки.\n\nИсточник: https://regfollower.com/cyprus-house-of-representatives-considers-pillar-two-amendments-to-introduce-recognised-qdmtt/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "внутренний минимальный налог QDMTT и правила Pillar Two",
+      "jurisdictions": "Кипр",
+      "act": "Законопроект Палаты представителей Кипра",
+      "sources": [
+        {
+          "label": "Regfollower / Кипр",
+          "url": "https://regfollower.com/cyprus-house-of-representatives-considers-pillar-two-amendments-to-introduce-recognised-qdmtt/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/cyprus-house-of-representatives-considers-pillar-two-amendments-to-introduce-recognised-qdmtt/",
+          "final_url": "https://regfollower.com/cyprus-house-of-representatives-considers-pillar-two-amendments-to-introduce-recognised-qdmtt/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Кипр: Парламент рассматривает законопрое",
+              "source_quote": "the updated framework addresses previous regulatory concerns by establishing standalone domestic charges, distinct accou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-15-0900-item-10-int",
+      "title": "Сингапур: Налоговое управление обновило руководство по второму компоненту глобального минимального налога",
+      "caption": "Сингапур: Налоговое управление обновило руководство по второму компоненту глобального минимального налога\n\nФискальный регулятор Сингапура уточнил порядок взаимодействия национальных преференциальных режимов с правилами Pillar Two.\n\n💡 **Почему это важно**\nСинхронизация льготных пакетов с международными стандартами обеспечивает сохранение инвестиционной привлекательности региональных штаб-квартир. Азиатским холдингам необходимо проанализировать обновленные положения.\n\nИсточник: https://regfollower.com/singapore-updates-pillar-two-guidance-outlining-side-by-side-package-rules/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "второй компонент и согласование инвестиционных льгот",
+      "jurisdictions": "Сингапур",
+      "act": "Руководство Налогового управления Сингапура",
+      "sources": [
+        {
+          "label": "Regfollower / Сингапур",
+          "url": "https://regfollower.com/singapore-updates-pillar-two-guidance-outlining-side-by-side-package-rules/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "multicountry balanced quota"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/singapore-updates-pillar-two-guidance-outlining-side-by-side-package-rules/",
+          "final_url": "https://regfollower.com/singapore-updates-pillar-two-guidance-outlining-side-by-side-package-rules/",
+          "status_code": 200,
+          "checked_at": "2026-10-15T07:23:00.276067+00:00",
+          "evidence": [
+            {
+              "claim": "Сингапур: Налоговое управление обновило ",
+              "source_quote": "singapore updates pillar two guidance outlining skip to content sign in thursday, october 15, 2026 tax corporate pillar "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

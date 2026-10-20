@@ -1,0 +1,823 @@
+{
+  "date": "2026-10-20",
+  "release": "2026-10-20_1700_editorial",
+  "items": [
+    {
+      "title": "СНГ: Минфин России представил опыт регулирования бухучета и аудита",
+      "theme": "Бухгалтерский учет и аудит в СНГ",
+      "jurisdictions": [
+        "Россия",
+        "СНГ"
+      ],
+      "act": "Сообщение Минфина России о XXIII заседании Координационного совета по бухучету государств СНГ",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+        "source_quote": "19 октября 2026 13:00"
+      },
+      "sources": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+          "label": "Минфин России"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "cis-minfin-accounting-audit-council-40699",
+        "cross_border_relevance": "Развитие стандартов бухгалтерского учета и аудита в рамках СНГ."
+      },
+      "slug": "2026-10-20_1700_-cis-minfin-accounting-audit-council-40699",
+      "caption": "СНГ: Минфин России представил опыт регулирования бухучета и аудита\n\n19 октября 2026 года Минфин России сообщил об итогах заседания Координационного совета по бухучету СНГ. Минфин России представил опыт применения стандартов МСФО и совершенствования регулирования бухгалтерского учета и аудита на заседании Координационного совета государств – участников СНГ.\n\nПочему это важно: гармонизация правил финансовой отчетности и аудита в СНГ упрощает трансграничную отчетность холдингов.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+          "checked_at": "2026-10-20T11:24:08.870199+00:00",
+          "status_code": 200,
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+          "evidence": [
+            {
+              "claim": "Минфин России представил опыт применения стандартов МСФО и совершенствования регулирования бухгалтерского учета и аудита на заседании Координационного совета государств – участников СНГ.",
+              "source_quote": "Регулирование бухгалтерского учета и аудиторской деятельности в странах СНГ обсудили на ХXIII заседании Координационного совета по бухгалтерскому учету государств – участников Союза."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+            "checked_at": "2026-10-20T11:24:08.870199+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40699-regulirovanie_bukhgalterskogo_ucheta_i_audita_v_sng_minfin_rossii_predstavil_rossiiskii_opyt",
+            "evidence": [
+              {
+                "claim": "Минфин России представил опыт применения стандартов МСФО и совершенствования регулирования бухгалтерского учета и аудита на заседании Координационного совета государств – участников СНГ.",
+                "source_quote": "Регулирование бухгалтерского учета и аудиторской деятельности в странах СНГ обсудили на ХXIII заседании Координационного совета по бухгалтерскому учету государств – участников Союза."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-cis-minfin-accounting-audit-council-40699.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: обновлена форма налоговой декларации по ЕСХН за 2026 год",
+      "theme": "Форма налоговой декларации по ЕСХН",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Приказ ФНС России от 03.09.2026 № ЕД-1-3/654@",
+      "source_published_at": "2026-10-20",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+        "source_quote": "Дата публикации: 20.10.2026 09:30"
+      },
+      "sources": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+          "label": "ФНС России"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "ru-fns-eshn-declaration-form-update-16660912",
+        "cross_border_relevance": "Обновление порядка налогового декларирования и отчетности сельхозпроизводителей."
+      },
+      "slug": "2026-10-20_1700_-ru-fns-eshn-declaration-form-update-16660912",
+      "caption": "Россия: обновлена форма налоговой декларации по ЕСХН за 2026 год\n\n20 октября 2026 года ФНС России сообщила об обновлении декларации по ЕСХН. ФНС России утвердила обновленную форму налоговой декларации по ЕСХН за 2026 год с новыми строками в Разделе 2 для учета страховых взносов.\n\nПочему это важно: плательщикам единого сельхозналога необходимо учесть новые строки декларации при подготовке годовой отчетности.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+          "checked_at": "2026-10-20T11:24:08.871428+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+          "evidence": [
+            {
+              "claim": "ФНС России утвердила обновленную форму налоговой декларации по ЕСХН за 2026 год с новыми строками в Разделе 2 для учета страховых взносов.",
+              "source_quote": "Налоговую декларацию по ЕСХН за налоговый период 2026 года необходимо представлять по обновленной форме."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+            "checked_at": "2026-10-20T11:24:08.871428+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16660912/",
+            "evidence": [
+              {
+                "claim": "ФНС России утвердила обновленную форму налоговой декларации по ЕСХН за 2026 год с новыми строками в Разделе 2 для учета страховых взносов.",
+                "source_quote": "Налоговую декларацию по ЕСХН за налоговый период 2026 года необходимо представлять по обновленной форме."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-ru-fns-eshn-declaration-form-update-16660912.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: Всемирный банк изучил систему управления налоговыми рисками",
+      "theme": "Управление налоговыми рисками и искусственный интеллект",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Сообщение КГД Казахстана о визите Всемирного банка по налоговым рискам",
+      "source_published_at": "2026-10-20",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+        "source_quote": "20 октября 2026 Всемирный банк изучил систему управления налоговыми рисками в Казахстане, стороны обсудили применение ИИ и аналитики"
+      },
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru",
+          "label": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "label": "Официальная датированная лента КГД"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "kz-kgd-world-bank-tax-risks-ai-1313935",
+        "cross_border_relevance": "Модернизация системы оценки налоговых рисков и применение ИИ в налоговом администрировании."
+      },
+      "slug": "2026-10-20_1700_-kz-kgd-world-bank-tax-risks-ai-1313935",
+      "caption": "Казахстан: Всемирный банк изучил систему управления налоговыми рисками\n\n20 октября 2026 года КГД сообщил о визите Всемирного банка по рискам. Представители Всемирного банка завершили технический визит в КГД Казахстана, обсудив оценку налоговых рисков и применение искусственного интеллекта.\n\nПочему это важно: внедрение моделей искусственного интеллекта в систему управления рисками усиливает цифровой комплаенс и автоматизацию отбора налогоплательщиков.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru\nИсточник: https://www.gov.kz/org/kgd/press/news/1?directions=714\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru",
+          "checked_at": "2026-10-20T11:24:08.872243+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru",
+          "evidence": [
+            {
+              "claim": "Представители Всемирного банка завершили технический визит в КГД Казахстана, обсудив оценку налоговых рисков и применение искусственного интеллекта.",
+              "source_quote": "С 12 по 16 октября 2026 года представители Всемирного банка провели технический рабочий визит в Комитет государственных доходов Министерства финансов Республики Казахстан."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "checked_at": "2026-10-20T11:24:24.604350+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "evidence": [
+            {
+              "claim": "20 октября 2026 года КГД сообщил о визите Всемирного банка по рискам.",
+              "source_quote": "20 октября 2026 Всемирный банк изучил систему управления налоговыми рисками в Казахстане, стороны обсудили применение ИИ и аналитики"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru",
+            "checked_at": "2026-10-20T11:24:08.872243+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1313935?lang=ru",
+            "evidence": [
+              {
+                "claim": "Представители Всемирного банка завершили технический визит в КГД Казахстана, обсудив оценку налоговых рисков и применение искусственного интеллекта.",
+                "source_quote": "С 12 по 16 октября 2026 года представители Всемирного банка провели технический рабочий визит в Комитет государственных доходов Министерства финансов Республики Казахстан."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-20T11:24:24.604350+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "20 октября 2026 года КГД сообщил о визите Всемирного банка по рискам.",
+                "source_quote": "20 октября 2026 Всемирный банк изучил систему управления налоговыми рисками в Казахстане, стороны обсудили применение ИИ и аналитики"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-kz-kgd-world-bank-tax-risks-ai-1313935.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: делегация КГД приняла участие в сессии Финансового комитета ВТамО",
+      "theme": "Международное таможенное сотрудничество ВТамО",
+      "jurisdictions": [
+        "Казахстан",
+        "ВТамО"
+      ],
+      "act": "Сообщение КГД Казахстана об участии в 112-й сессии Финансового комитета ВТамО",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+        "source_quote": "19 октября 2026 Казахстан принял участие в 112-й сессии Финансового комитета Всемирной таможенной организации"
+      },
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru",
+          "label": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "label": "Официальная датированная лента КГД"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "kz-kgd-wco-112th-financial-session-1313646",
+        "cross_border_relevance": "Международное бюджетное и регуляторное таможенное сотрудничество в рамках ВТамО."
+      },
+      "slug": "2026-10-20_1700_-kz-kgd-wco-112th-financial-session-1313646",
+      "caption": "Казахстан: делегация КГД приняла участие в сессии Финансового комитета ВТамО\n\n19 октября 2026 года КГД сообщил об участии в сессии Финансового комитета ВТамО. Казахстан принял участие в 112-й сессии Финансового комитета ВТамО в Брюсселе, уделив внимание механизму членских взносов и бюджетным обязательствам.\n\nПочему это важно: участие в бюджетных органах ВТамО определяет распределение финансовой нагрузки и доступность программ технической помощи для таможенного контроля.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru\nИсточник: https://www.gov.kz/org/kgd/press/news/1?directions=714\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru",
+          "checked_at": "2026-10-20T11:24:08.873252+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru",
+          "evidence": [
+            {
+              "claim": "Казахстан принял участие в 112-й сессии Финансового комитета ВТамО в Брюсселе, уделив внимание механизму членских взносов и бюджетным обязательствам.",
+              "source_quote": "7-8 октября 2026 года в г. Брюссель (Королевство Бельгия) состоялась внеочередная 112-я сессия Финансового комитета Всемирной таможенной организации (далее - ВТамО) , в работе которой приняла участие делегация Комитета государственных доходов Министерства финансов Республики Казахстан."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "checked_at": "2026-10-20T11:24:23.814419+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+          "evidence": [
+            {
+              "claim": "19 октября 2026 года КГД сообщил об участии в сессии Финансового комитета ВТамО.",
+              "source_quote": "19 октября 2026 Казахстан принял участие в 112-й сессии Финансового комитета Всемирной таможенной организации"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru",
+            "checked_at": "2026-10-20T11:24:08.873252+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1313646?lang=ru",
+            "evidence": [
+              {
+                "claim": "Казахстан принял участие в 112-й сессии Финансового комитета ВТамО в Брюсселе, уделив внимание механизму членских взносов и бюджетным обязательствам.",
+                "source_quote": "7-8 октября 2026 года в г. Брюссель (Королевство Бельгия) состоялась внеочередная 112-я сессия Финансового комитета Всемирной таможенной организации (далее - ВТамО) , в работе которой приняла участие делегация Комитета государственных доходов Министерства финансов Республики Казахстан."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "checked_at": "2026-10-20T11:24:23.814419+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/1?directions=714",
+            "evidence": [
+              {
+                "claim": "19 октября 2026 года КГД сообщил об участии в сессии Финансового комитета ВТамО.",
+                "source_quote": "19 октября 2026 Казахстан принял участие в 112-й сессии Финансового комитета Всемирной таможенной организации"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-kz-kgd-wco-112th-financial-session-1313646.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: суд подтвердил исключительное право налога на бельгийскую пенсию",
+      "theme": "Налогообложение трансграничных пенсий по СИДН",
+      "jurisdictions": [
+        "Нидерланды",
+        "Бельгия"
+      ],
+      "act": "Решение Апелляционного суда Арнем-Леуварден по трансграничной пенсии",
+      "source_published_at": "2026-10-20",
+      "publication_date_evidence": {
+        "url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+        "source_quote": "20 oktober 2026"
+      },
+      "sources": [
+        {
+          "url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+          "label": "Taxence"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "nl-belgium-pension-taxation-court-taxence",
+        "cross_border_relevance": "Применение налогового соглашения между Нидерландами и Бельгией к пенсионным выплатам."
+      },
+      "slug": "2026-10-20_1700_-nl-belgium-pension-taxation-court-taxence",
+      "caption": "Нидерланды: суд подтвердил исключительное право налога на бельгийскую пенсию\n\n20 октября 2026 года опубликовано решение суда о налогообложении трансграничной пенсии. Апелляционный суд Арнем-Леуварден постановил, что Нидерланды как государство резидентства обладают исключительным правом налогообложения бельгийской пенсии.\n\nПочему это важно: резидентам Нидерландов с зарубежными пенсионными выплатами необходимо учитывать правила СИДН во избежание отказа в зачете налога.\n\nИсточник: https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+          "checked_at": "2026-10-20T11:24:08.874643+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+          "evidence": [
+            {
+              "claim": "Апелляционный суд Арнем-Леуварден постановил, что Нидерланды как государство резидентства обладают исключительным правом налогообложения бельгийской пенсии.",
+              "source_quote": "Nederland heeft als woonstaat het exclusieve heffingsrecht over een Belgisch pensioen en een Belgische verzekeringsuitkering."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+            "checked_at": "2026-10-20T11:24:08.874643+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.taxence.nl/nieuws/nederland-mag-volledig-heffen-over-belgisch-pensioen/",
+            "evidence": [
+              {
+                "claim": "Апелляционный суд Арнем-Леуварден постановил, что Нидерланды как государство резидентства обладают исключительным правом налогообложения бельгийской пенсии.",
+                "source_quote": "Nederland heeft als woonstaat het exclusieve heffingsrecht over een Belgisch pensioen en een Belgische verzekeringsuitkering."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-nl-belgium-pension-taxation-court-taxence.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: закон о единой регистрации по НДС вступает в силу с 2027 года",
+      "theme": "Имплементация директивы ЕС о НДС в цифровую эпоху",
+      "jurisdictions": [
+        "Нидерланды",
+        "ЕС"
+      ],
+      "act": "Закон Нидерландов от 07.10.2026 об имплементации Директивы ЕС 2025/516",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+        "source_quote": "19 oktober 2026"
+      },
+      "sources": [
+        {
+          "url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+          "label": "Taxence"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "nl-vida-vat-single-registration-law-2027",
+        "cross_border_relevance": "Имплементация директивы ЕС о НДС в цифровую эпоху (VIDA) и правила OSS."
+      },
+      "slug": "2026-10-20_1700_-nl-vida-vat-single-registration-law-2027",
+      "caption": "Нидерланды: закон о единой регистрации по НДС вступает в силу с 2027 года\n\n19 октября 2026 года опубликована информация о законе по НДС в официальном вестнике. Закон об имплементации правил единой регистрации по НДС пакета VIDA опубликован в официальном издании и вступает в силу с 1 января 2027 года.\n\nПочему это важно: расширение процедур единого окна OSS упрощает трансграничную торговлю товарами в ЕС без множественной местной регистрации.\n\nИсточник: https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+          "checked_at": "2026-10-20T11:24:08.981516+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+          "evidence": [
+            {
+              "claim": "Закон об имплементации правил единой регистрации по НДС пакета VIDA опубликован в официальном издании и вступает в силу с 1 января 2027 года.",
+              "source_quote": "De Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+            "checked_at": "2026-10-20T11:24:08.981516+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.taxence.nl/nieuws/wet-implementatie-richtlijn-btw-in-het-digitale-tijdperk-enkele-btw-registratie-in-werking-per-1-januari-2027/",
+            "evidence": [
+              {
+                "claim": "Закон об имплементации правил единой регистрации по НДС пакета VIDA опубликован в официальном издании и вступает в силу с 1 января 2027 года.",
+                "source_quote": "De Wet implementatie Richtlijn btw in het digitale tijdperk – enkele btw-registratie is in het Staatsblad gepubliceerd en treedt in werking met ingang van 1 januari 2027."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-nl-vida-vat-single-registration-law-2027.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: реформа режима нон-домов привела к отъезду 14 миллиардеров",
+      "theme": "Реформа режима налогообложения лиц без домицилия",
+      "jurisdictions": [
+        "Великобритания"
+      ],
+      "act": "Анализ последствий налоговой реформы Великобритании в отношении нон-домов",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+        "source_quote": "19 oktober 2026"
+      },
+      "sources": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+          "label": "TaxLive"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "uk-non-dom-billionaires-departure-taxlive",
+        "cross_border_relevance": "Миграция налоговых резидентов и изменение специального режима non-domiciles."
+      },
+      "slug": "2026-10-20_1700_-uk-non-dom-billionaires-departure-taxlive",
+      "caption": "Великобритания: реформа режима нон-домов привела к отъезду 14 миллиардеров\n\n19 октября 2026 года опубликованы данные об оттоке резидентов из-за налоговых мер. Не менее 14 миллиардеров покинули Великобританию на фоне ужесточения налоговых льгот и реформы режима лиц без постоянного домицилия.\n\nПочему это важно: пересмотр льготного режима стимулирует переезд состоятельных физических лиц и смену налогового резидентства в Европе.\n\nИсточник: https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+          "checked_at": "2026-10-20T11:24:23.739031+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+          "evidence": [
+            {
+              "claim": "Не менее 14 миллиардеров покинули Великобританию на фоне ужесточения налоговых льгот и реформы режима лиц без постоянного домицилия.",
+              "source_quote": "14 miljardairs hebben recentelijk het Verenigd Koninkrijk verlaten in verband met het invoeren van maatregelen die hen (meer) belasting laat betalen."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+            "checked_at": "2026-10-20T11:24:23.739031+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.taxlive.nl/nl/documenten/nieuws/fd-14-miljardairs-vertrokken-uit-vk-door-aanscherping-belastingregime-non-domiciles/",
+            "evidence": [
+              {
+                "claim": "Не менее 14 миллиардеров покинули Великобританию на фоне ужесточения налоговых льгот и реформы режима лиц без постоянного домицилия.",
+                "source_quote": "14 miljardairs hebben recentelijk het Verenigd Koninkrijk verlaten in verband met het invoeren van maatregelen die hen (meer) belasting laat betalen."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-uk-non-dom-billionaires-departure-taxlive.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Норвегия и Таиланд подписали новое соглашение об избежании двойного налогообложения",
+      "theme": "Международные налоговые соглашения СИДН",
+      "jurisdictions": [
+        "Норвегия",
+        "Таиланд"
+      ],
+      "act": "Соглашение между Норвегией и Таиландом об избежании двойного налогообложения",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+        "source_quote": "19 October, 2026"
+      },
+      "sources": [
+        {
+          "url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+          "label": "Regfollower"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "norway-thailand-income-tax-treaty-regfollower",
+        "cross_border_relevance": "Новый двусторонний налоговый договор между Норвегией и Таиландом."
+      },
+      "slug": "2026-10-20_1700_-norway-thailand-income-tax-treaty-regfollower",
+      "caption": "Норвегия и Таиланд подписали новое соглашение об избежании двойного налогообложения\n\n19 октября 2026 года опубликовано сообщение о подписании нового налогового соглашения. Норвегия и Таиланд подписали новое соглашение об избежании двойного налогообложения на ежегодных встречах МВФ и Всемирного банка в Бангкоке.\n\nПочему это важно: новое соглашение заменит договор 2003 года и приведет правила налогообложения трансграничных инвестиций в соответствие со стандартами ОЭСР.\n\nИсточник: https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+          "checked_at": "2026-10-20T11:24:23.999489+00:00",
+          "status_code": 200,
+          "final_url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+          "evidence": [
+            {
+              "claim": "Норвегия и Таиланд подписали новое соглашение об избежании двойного налогообложения на ежегодных встречах МВФ и Всемирного банка в Бангкоке.",
+              "source_quote": "Norway and Thailand signed a new income tax treaty on 15 October 2026 to eliminate double taxation, prevent tax evasion and avoidance, and strengthen bilateral trade and investment."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+            "checked_at": "2026-10-20T11:24:23.999489+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://regfollower.com/norway-thailand-sign-new-income-tax-treaty/",
+            "evidence": [
+              {
+                "claim": "Норвегия и Таиланд подписали новое соглашение об избежании двойного налогообложения на ежегодных встречах МВФ и Всемирного банка в Бангкоке.",
+                "source_quote": "Norway and Thailand signed a new income tax treaty on 15 October 2026 to eliminate double taxation, prevent tax evasion and avoidance, and strengthen bilateral trade and investment."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-norway-thailand-income-tax-treaty-regfollower.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Чехия: парламент одобрил налоговое соглашение с Мальтой",
+      "theme": "Ратификация международного налогового соглашения СИДН",
+      "jurisdictions": [
+        "Чехия",
+        "Мальта"
+      ],
+      "act": "Соглашение между Чехией и Мальтой об избежании двойного налогообложения от 2025 года",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+        "source_quote": "19 October, 2026"
+      },
+      "sources": [
+        {
+          "url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+          "label": "Regfollower"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "czech-republic-malta-tax-treaty-regfollower",
+        "cross_border_relevance": "Ратификация налогового соглашения между Чехией и Мальтой."
+      },
+      "slug": "2026-10-20_1700_-czech-republic-malta-tax-treaty-regfollower",
+      "caption": "Чехия: парламент одобрил налоговое соглашение с Мальтой\n\n19 октября 2026 года опубликовано сообщение об одобрении налогового соглашения парламентом. Палата депутатов Чехии одобрила соглашение об избежании двойного налогообложения с Мальтой после ранее полученного одобрения Сената.\n\nПочему это важно: завершение парламентской ратификации открывает путь к подписанию договора президентом и обновлению правил налогообложения дивидендов и роялти.\n\nИсточник: https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+          "checked_at": "2026-10-20T11:24:24.437862+00:00",
+          "status_code": 200,
+          "final_url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+          "evidence": [
+            {
+              "claim": "Палата депутатов Чехии одобрила соглашение об избежании двойного налогообложения с Мальтой после ранее полученного одобрения Сената.",
+              "source_quote": "The Czech Republic has completed parliamentary approval of its 2025 income and capital tax treaty with Malta, which aims to prevent double taxation and tax evasion."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+            "checked_at": "2026-10-20T11:24:24.437862+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://regfollower.com/czech-republic-parliament-approves-income-tax-treaty-with-malta/",
+            "evidence": [
+              {
+                "claim": "Палата депутатов Чехии одобрила соглашение об избежании двойного налогообложения с Мальтой после ранее полученного одобрения Сената.",
+                "source_quote": "The Czech Republic has completed parliamentary approval of its 2025 income and capital tax treaty with Malta, which aims to prevent double taxation and tax evasion."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-czech-republic-malta-tax-treaty-regfollower.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Кувейт опубликовал многостороннее соглашение по обмену страновыми отчетами",
+      "theme": "Международный автоматический обмен страновыми отчетами CBCR",
+      "jurisdictions": [
+        "Кувейт",
+        "ОЭСР"
+      ],
+      "act": "Декрет-закон Кувейта № 116 от 2026 года об утверждении многостороннего соглашения по CBCR",
+      "source_published_at": "2026-10-19",
+      "publication_date_evidence": {
+        "url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+        "source_quote": "19 October, 2026"
+      },
+      "sources": [
+        {
+          "url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+          "label": "Regfollower"
+        }
+      ],
+      "editorial_review": {
+        "reviewed_by": "Codex — проверены смысл, видимая дата, реквизиты, релевантность и уникальность события",
+        "event_key": "kuwait-gazettes-cbcr-mcaa-regfollower",
+        "cross_border_relevance": "Имплементация многостороннего автоматического обмена страновыми отчетами CbCR."
+      },
+      "slug": "2026-10-20_1700_-kuwait-gazettes-cbcr-mcaa-regfollower",
+      "caption": "Кувейт опубликовал многостороннее соглашение по обмену страновыми отчетами\n\n19 октября 2026 года опубликовано сообщение о публикации соглашения в официальном вестнике. Кувейт опубликовал в официальном вестнике декрет-закон о соглашении по автоматическому обмену страновыми отчетами CBCR.\n\nПочему это важно: вступление соглашения в силу повышает требования к налоговой прозрачности международных групп компаний и контролю трансфертного ценообразования.\n\nИсточник: https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+          "checked_at": "2026-10-20T11:24:24.527383+00:00",
+          "status_code": 200,
+          "final_url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+          "evidence": [
+            {
+              "claim": "Кувейт опубликовал в официальном вестнике декрет-закон о соглашении по автоматическому обмену страновыми отчетами CBCR.",
+              "source_quote": "Kuwait has approved the Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports through Decree-Law No. 116 of 2026, published in the Official Gazette on 18 October 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+            "checked_at": "2026-10-20T11:24:24.527383+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://regfollower.com/kuwait-gazettes-agreement-on-the-exchange-of-country-by-country-reports/",
+            "evidence": [
+              {
+                "claim": "Кувейт опубликовал в официальном вестнике декрет-закон о соглашении по автоматическому обмену страновыми отчетами CBCR.",
+                "source_quote": "Kuwait has approved the Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports through Decree-Law No. 116 of 2026, published in the Official Gazette on 18 October 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-20\\2026-10-20_1700_-kuwait-gazettes-cbcr-mcaa-regfollower.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

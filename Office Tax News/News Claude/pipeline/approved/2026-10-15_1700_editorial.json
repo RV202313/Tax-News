@@ -1,0 +1,827 @@
+{
+  "date": "2026-10-15",
+  "release": "2026-10-15_1700_editorial",
+  "items": [
+    {
+      "title": "Россия: Минфин обозначил приоритеты переговоров по налоговой конвенции ООН",
+      "sources": [
+        {
+          "label": "Минфин России",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke"
+        }
+      ],
+      "theme": "Переговоры по конвенции ООН о международном налоговом сотрудничестве",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Выступление Ивана Чебескова на встрече министров финансов в Бангкоке 14.10.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke",
+        "source_quote": "14 октября 2026 20:40"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ru-un-tax-bangkok-20261014",
+        "cross_border_relevance": "Официальная позиция России по налогообложению трансграничных услуг и урегулированию международных налоговых споров; не выдаётся за согласованную конвенцию."
+      },
+      "slug": "2026-10-15_1700_-ru-un-tax-bangkok-20261014",
+      "caption": "Россия: Минфин обозначил приоритеты переговоров по налоговой конвенции ООН\n\nНа встрече министров финансов в Бангкоке 14 октября Иван Чебесков заявил, что странам важно согласовать принципы налогообложения трансграничных услуг и урегулирования налоговых споров в рамках работы над конвенцией ООН. Это позиция российской делегации на переговорах.\n\nПочему это важно: Компаниям с трансграничными услугами стоит отслеживать ход переговоров: обсуждаемые принципы могут повлиять на будущее распределение налоговых прав между странами. Само выступление новых обязанностей не вводит.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke",
+          "checked_at": "2026-10-15T13:05:43.261233+00:00",
+          "status_code": 200,
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke",
+          "evidence": [
+            {
+              "claim": "На встрече министров финансов в Бангкоке 14 октября Иван Чебесков заявил, что странам важно согласовать принципы налогообложения трансграничных услуг и урегулирования налоговых споров в рамках работы над конвенцией ООН. Это позиция российской делегации на переговорах.",
+              "source_quote": "14 октября 2026 года в Бангкоке (Таиланд) состоялась встреча министров финансов, посвященная перспективам международного налогового сотрудничества по линии ООН. Российскую делегацию на мероприятии представил замминистра финансов Иван Чебесков. По его словам, Рамочная конвенция ООН и Протоколы к ней должны стать основным международным инструментом, регулирующим налоговые правила. На данном этапе странам важно согласовать ключевые принципы налогообложения трансграничных услуг и урегулирования налоговых споров."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke",
+            "checked_at": "2026-10-15T13:05:43.261233+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40691-mezhdunarodnoe_nalogovoe_sotrudnichestvo_obsudili_v_bangkoke",
+            "evidence": [
+              {
+                "claim": "На встрече министров финансов в Бангкоке 14 октября Иван Чебесков заявил, что странам важно согласовать принципы налогообложения трансграничных услуг и урегулирования налоговых споров в рамках работы над конвенцией ООН. Это позиция российской делегации на переговорах.",
+                "source_quote": "14 октября 2026 года в Бангкоке (Таиланд) состоялась встреча министров финансов, посвященная перспективам международного налогового сотрудничества по линии ООН. Российскую делегацию на мероприятии представил замминистра финансов Иван Чебесков. По его словам, Рамочная конвенция ООН и Протоколы к ней должны стать основным международным инструментом, регулирующим налоговые правила. На данном этапе странам важно согласовать ключевые принципы налогообложения трансграничных услуг и урегулирования налоговых споров."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-ru-un-tax-bangkok-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: Минфин назвал ошибки проверок при возврате экспортного НДС",
+      "sources": [
+        {
+          "label": "Минфин Казахстана",
+          "url": "https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru"
+        },
+        {
+          "label": "Официальная датированная публикация",
+          "url": "https://www.gov.kz/org/minfin/press/news?lang=ru"
+        }
+      ],
+      "theme": "Экспортный НДС и ошибки налоговых и таможенных проверок",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Сообщение Минфина Казахстана о результатах налоговых и таможенных жалоб за девять месяцев 2026 года, опубликовано 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/minfin/press/news?lang=ru",
+        "source_quote": "13 октября 2026 Минфин обсудил качество налоговых проверок и итоги рассмотрения жалоб бизнеса"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "kz-export-vat-appeals-20261013",
+        "cross_border_relevance": "Официальная практика возврата экспортного НДС и рассмотрения таможенных споров. Статистика57 относится к общему кругу проверок, не приписывается исключительно экспортёрам."
+      },
+      "slug": "2026-10-15_1700_-kz-export-vat-appeals-20261013",
+      "caption": "Казахстан: Минфин назвал ошибки проверок при возврате экспортного НДС\n\nСообщение опубликовано 13 октября 2026 года. Минфин сообщил, что среди причин отмены результатов налоговых проверок были ошибки в расчёте возвращаемого НДС и неучёт документов, подтверждающих экспорт. По итогам рассмотрения жалоб за девять месяцев 2026 года результаты 57 проверок полностью или частично отменены в пользу бизнеса.\n\nПочему это важно: Экспортёрам стоит проверить, учёл ли проверяющий документы об экспортных операциях и правильно ли рассчитана сумма возврата. Сообщение описывает практику рассмотрения жалоб и не вводит новый порядок возврата НДС.\n\nИсточник: https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru\nИсточник: https://www.gov.kz/org/minfin/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru",
+          "checked_at": "2026-10-15T13:05:43.262991+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru",
+          "evidence": [
+            {
+              "claim": "Минфин сообщил, что среди причин отмены результатов налоговых проверок были ошибки в расчёте возвращаемого НДС и неучёт документов, подтверждающих экспорт. По итогам рассмотрения жалоб за девять месяцев 2026 года результаты 57 проверок полностью или частично отменены в пользу бизнеса.",
+              "source_quote": "Участники обсудили причины отмены результатов налоговых проверок по итогам рассмотрения жалоб Апе лляционной комиссией. Среди них недостатки в отчетах «Пирамида», ошибки при расчете сумм НДС, подлежащих возврату, несвоевременное направление запросов на проведение встречных проверок и неучет документов, подтверждающих экспортные операции. Также отмечены недостатки анализа цепочек прослеживаемости товаров и оценки возможности выполнения работ или оказания услуг. Также представлены итоги работы Апелляционной комиссии по рассмотрению налоговых и таможенных споров за девять месяцев 2026 года. Из 323 поступивших жалоб налогоплательщиков и участников внешнеэкономической деятельности рассмотрены 194. По итогам рассмотрения жалоб полностью или частично отменены результаты 57 проверок в пользу бизнеса."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/minfin/press/news?lang=ru",
+          "checked_at": "2026-10-15T13:05:58.271452+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/minfin/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "Сообщение опубликовано 13 октября 2026 года.",
+              "source_quote": "13 октября 2026 Минфин обсудил качество налоговых проверок и итоги рассмотрения жалоб бизнеса"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru",
+            "checked_at": "2026-10-15T13:05:43.262991+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/minfin/press/news/details/1310234?lang=ru",
+            "evidence": [
+              {
+                "claim": "Минфин сообщил, что среди причин отмены результатов налоговых проверок были ошибки в расчёте возвращаемого НДС и неучёт документов, подтверждающих экспорт. По итогам рассмотрения жалоб за девять месяцев 2026 года результаты 57 проверок полностью или частично отменены в пользу бизнеса.",
+                "source_quote": "Участники обсудили причины отмены результатов налоговых проверок по итогам рассмотрения жалоб Апе лляционной комиссией. Среди них недостатки в отчетах «Пирамида», ошибки при расчете сумм НДС, подлежащих возврату, несвоевременное направление запросов на проведение встречных проверок и неучет документов, подтверждающих экспортные операции. Также отмечены недостатки анализа цепочек прослеживаемости товаров и оценки возможности выполнения работ или оказания услуг. Также представлены итоги работы Апелляционной комиссии по рассмотрению налоговых и таможенных споров за девять месяцев 2026 года. Из 323 поступивших жалоб налогоплательщиков и участников внешнеэкономической деятельности рассмотрены 194. По итогам рассмотрения жалоб полностью или частично отменены результаты 57 проверок в пользу бизнеса."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/minfin/press/news?lang=ru",
+            "checked_at": "2026-10-15T13:05:58.271452+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/minfin/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "Сообщение опубликовано 13 октября 2026 года.",
+                "source_quote": "13 октября 2026 Минфин обсудил качество налоговых проверок и итоги рассмотрения жалоб бизнеса"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-kz-export-vat-appeals-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: обновлено руководство FATCA по отсутствующим налоговым номерам США",
+      "sources": [
+        {
+          "label": "Налоговая служба Ирландии",
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx"
+        }
+      ],
+      "theme": "FATCA и временное послабление по сообщению американских TIN",
+      "jurisdictions": [
+        "Ирландия",
+        "США"
+      ],
+      "act": "Revenue eBrief147/26, 09.10.2026; обновление пункта4.3 Tax and Duty Manual38-03-22",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+        "source_quote": "Published: 09 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "ie-fatca-tin-guide-20261009",
+        "cross_border_relevance": "Обновление правил международной финансовой отчётности ирландских организаций о налоговых резидентахСША; не пересказ самого старогоNotice, а новое официальное изменение руководства."
+      },
+      "slug": "2026-10-15_1700_-ie-fatca-tin-guide-20261009",
+      "caption": "Ирландия: обновлено руководство FATCA по отсутствующим налоговым номерам США\n\nОфициальная публикация от 9 октября 2026 года. Налоговая служба Ирландии обновила пункт 4.3 руководства 38-03-22 по FATCA — американскому закону об отчётности по зарубежным счетам. Изменение учитывает уведомление IRS № 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении налоговых номеров США.\n\nПочему это важно: Финансовым организациям следует сверить процедуры работы со счетами американских клиентов с обновлённым руководством. Уведомление не означает общего освобождения от отчётности FATCA.\n\nИсточник: https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+          "checked_at": "2026-10-15T13:05:43.264146+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+          "evidence": [
+            {
+              "claim": "Налоговая служба Ирландии обновила пункт 4.3 руководства 38-03-22 по FATCA — американскому закону об отчётности по зарубежным счетам. Изменение учитывает уведомление IRS № 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении налоговых номеров США.",
+              "source_quote": "This eBrief is to inform customers that Tax and Duty Manual Part 38-03-22 - Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland - has been updated. Paragraph 4.3 has been updated to reflect guidance issued by the IRS in IRS Notice 2024-78 - Extension of Temporary Relief for Foreign Financial Institutions to Report U.S. Taxpayer Identification Numbers."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+            "checked_at": "2026-10-15T13:05:43.264146+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+            "evidence": [
+              {
+                "claim": "Налоговая служба Ирландии обновила пункт 4.3 руководства 38-03-22 по FATCA — американскому закону об отчётности по зарубежным счетам. Изменение учитывает уведомление IRS № 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении налоговых номеров США.",
+                "source_quote": "This eBrief is to inform customers that Tax and Duty Manual Part 38-03-22 - Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland - has been updated. Paragraph 4.3 has been updated to reflect guidance issued by the IRS in IRS Notice 2024-78 - Extension of Temporary Relief for Foreign Financial Institutions to Report U.S. Taxpayer Identification Numbers."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-ie-fatca-tin-guide-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: HMRC опубликовало перечень юрисдикций для отчётности цифровых платформ за 2026 год",
+      "sources": [
+        {
+          "label": "HMRC, перечень юрисдикций отчётности",
+          "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100"
+        },
+        {
+          "label": "Официальная история изменений",
+          "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates"
+        }
+      ],
+      "theme": "Международная отчётность цифровых платформ и охват Новой Зеландии",
+      "jurisdictions": [
+        "Великобритания",
+        "Новая Зеландия"
+      ],
+      "act": "HMRC IEIM906100, обновление перечня для2026 reportable period15.10.2026",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates",
+        "source_quote": "15 October 2026 published amendments Reportable Jurisdictions for the 2026 Reportable Period Update to reflect the 2026 reportable period"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "uk-platform-jurisdictions-20261015",
+        "cross_border_relevance": "Международный обмен налоговой информацией о продавцах цифровых платформ. Дата подтверждена конкретной записьюIEIM906100 в журнале; не утверждается, что исключение дляНЗ впервые возникло15октября."
+      },
+      "slug": "2026-10-15_1700_-uk-platform-jurisdictions-20261015",
+      "caption": "Великобритания: HMRC опубликовало перечень юрисдикций для отчётности цифровых платформ за 2026 год\n\nОбновление перечня за 2026 год опубликовано 15 октября 2026 года. В перечне HMRC для отчётного периода 2026 года Новая Зеландия охвачена только по аренде недвижимости и личным услугам. Операторам платформ не следует сообщать HMRC данные о продажах товаров и аренде транспортных средств продавцами — резидентами Новой Зеландии.\n\nПочему это важно: Операторам платформ нужно учитывать не только страну резидентства продавца, но и вид его деятельности: от этого зависит включение данных в международную отчётность.\n\nИсточник: https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100\nИсточник: https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100",
+          "checked_at": "2026-10-15T13:05:43.265826+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100",
+          "evidence": [
+            {
+              "claim": "В перечне HMRC для отчётного периода 2026 года Новая Зеландия охвачена только по аренде недвижимости и личным услугам. Операторам платформ не следует сообщать HMRC данные о продажах товаров и аренде транспортных средств продавцами — резидентами Новой Зеландии.",
+              "source_quote": "**New Zealand is only a reportable jurisdiction with regard to the provision of the rental of immovable property (see IEIM901520 ) or the provision of personal services (see IEIM901510 ). New Zealand is not a reportable jurisdiction with regard to the sale of goods (see IEIM901540 ) or the rental of a means of transport (see IEIM901530 ). Therefore platform operators should not report information to HMRC in respect of sellers who have sold goods or provided the rental of a means of transport who are resident in New Zealand."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates",
+          "checked_at": "2026-10-15T13:05:54.127146+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates",
+          "evidence": [
+            {
+              "claim": "Обновление перечня за 2026 год опубликовано 15 октября 2026 года.",
+              "source_quote": "15 October 2026 published amendments Reportable Jurisdictions for the 2026 Reportable Period Update to reflect the 2026 reportable period"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100",
+            "checked_at": "2026-10-15T13:05:43.265826+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/ieim906100",
+            "evidence": [
+              {
+                "claim": "В перечне HMRC для отчётного периода 2026 года Новая Зеландия охвачена только по аренде недвижимости и личным услугам. Операторам платформ не следует сообщать HMRC данные о продажах товаров и аренде транспортных средств продавцами — резидентами Новой Зеландии.",
+                "source_quote": "**New Zealand is only a reportable jurisdiction with regard to the provision of the rental of immovable property (see IEIM901520 ) or the provision of personal services (see IEIM901510 ). New Zealand is not a reportable jurisdiction with regard to the sale of goods (see IEIM901540 ) or the rental of a means of transport (see IEIM901530 ). Therefore platform operators should not report information to HMRC in respect of sellers who have sold goods or provided the rental of a means of transport who are resident in New Zealand."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates",
+            "checked_at": "2026-10-15T13:05:54.127146+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.uk/hmrc-internal-manuals/international-exchange-of-information/updates",
+            "evidence": [
+              {
+                "claim": "Обновление перечня за 2026 год опубликовано 15 октября 2026 года.",
+                "source_quote": "15 October 2026 published amendments Reportable Jurisdictions for the 2026 Reportable Period Update to reflect the 2026 reportable period"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-uk-platform-jurisdictions-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: SARS вынесла на обсуждение правила предварительных таможенных решений",
+      "sources": [
+        {
+          "label": "SARS, официальное описание проекта",
+          "url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/"
+        }
+      ],
+      "theme": "Проект процедур предварительных таможенных решений по классификации, стоимости и происхождению",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "Проект правил74B Customs and Excise Act1964, публикация14.10.2026; замечаниядо04.11.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/",
+        "source_quote": "Date published: 14 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "za-advance-rulings-draft-20261014",
+        "cross_border_relevance": "Предварительные таможенные решения определяют тарифы и параметры налогообложения импортных товаров. Использовано читаемое официальное описание проекта, детали PDF не додумывались."
+      },
+      "slug": "2026-10-15_1700_-za-advance-rulings-draft-20261014",
+      "caption": "ЮАР: SARS вынесла на обсуждение правила предварительных таможенных решений\n\nSARS опубликовала проект правил 74B о предварительных таможенных решениях по тарифной классификации, таможенной стоимости и происхождению товаров. Проект охватывает подачу заявлений, сборы, подтверждающие документы, изменение и отзыв решений. Замечания принимаются до 4 ноября 2026 года.\n\nПочему это важно: Импортёры и консультанты могут оценить предлагаемые процедуры получения определённости до ввоза товаров и направить замечания. Пока это проект, а не вступивший в силу порядок.\n\nИсточник: https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/",
+          "checked_at": "2026-10-15T13:05:43.338571+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/",
+          "evidence": [
+            {
+              "claim": "SARS опубликовала проект правил 74B о предварительных таможенных решениях по тарифной классификации, таможенной стоимости и происхождению товаров. Проект охватывает подачу заявлений, сборы, подтверждающие документы, изменение и отзыв решений. Замечания принимаются до 4 ноября 2026 года.",
+              "source_quote": "4 November 2026 New! Customs and Excise Act, 1964 Draft Amendments to Rules Insertion of rules 74B – Advance rulings Comments on rules to be recorded on the Customs & Excise Rule Amendments Comment Sheet . Explanatory Note The draft rules prescribe the procedures and requirements relating to advance rulings under the Customs and Excise Act, 1964. They provide for definitions, delegation of powers, applications for advance rulings, applicable fees, the information and supporting documents required for applications, and specific requirements for advance tariff, valuation and origin rulings. The rules also provide for record keeping, publication of advance rulings, notification to the Commissioner of changes in circumstances, and the amendment and withdrawal of advance rulings. Date published: 14 October 2026"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/",
+            "checked_at": "2026-10-15T13:05:43.338571+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/legal-counsel/preparation-of-legislation/draft-documents-for-public-comment/",
+            "evidence": [
+              {
+                "claim": "SARS опубликовала проект правил 74B о предварительных таможенных решениях по тарифной классификации, таможенной стоимости и происхождению товаров. Проект охватывает подачу заявлений, сборы, подтверждающие документы, изменение и отзыв решений. Замечания принимаются до 4 ноября 2026 года.",
+                "source_quote": "4 November 2026 New! Customs and Excise Act, 1964 Draft Amendments to Rules Insertion of rules 74B – Advance rulings Comments on rules to be recorded on the Customs & Excise Rule Amendments Comment Sheet . Explanatory Note The draft rules prescribe the procedures and requirements relating to advance rulings under the Customs and Excise Act, 1964. They provide for definitions, delegation of powers, applications for advance rulings, applicable fees, the information and supporting documents required for applications, and specific requirements for advance tariff, valuation and origin rulings. The rules also provide for record keeping, publication of advance rulings, notification to the Commissioner of changes in circumstances, and the amendment and withdrawal of advance rulings. Date published: 14 October 2026"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-za-advance-rulings-draft-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг: на границе изъяли около восьми тонн табака с неуплаченной пошлиной",
+      "sources": [
+        {
+          "label": "Таможня Гонконга",
+          "url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html"
+        }
+      ],
+      "theme": "Ввоз табака с неуплаченной пошлиной и таможенный контроль на Шэньчжэнь-Бэй",
+      "jurisdictions": [
+        "Гонконг",
+        "Китай"
+      ],
+      "act": "Сообщение таможни13.10.2026 об изъятии табака наШэньчжэнь-Бэй12.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html",
+        "source_quote": "Ends/Tuesday, October 13, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "hk-tobacco-shenzhen-20261012",
+        "cross_border_relevance": "Прямой случай трансграничного ввоза облагаемого табака и неуплаты таможенной пошлины; оценка суммы не выдается за установленное судом доначисление."
+      },
+      "slug": "2026-10-15_1700_-hk-tobacco-shenzhen-20261012",
+      "caption": "Гонконг: на границе изъяли около восьми тонн табака с неуплаченной пошлиной\n\nОфициальная публикация от 13 октября 2026 года. Таможня Гонконга сообщила об изъятии 12 октября на пункте Шэньчжэнь-Бэй около 8 000 кг табака с неуплаченной пошлиной. Оценочная сумма пошлины — около 32 млн гонконгских долларов. Табак обнаружен во въезжавшем грузовике; водитель задержан, расследование продолжается.\n\nПочему это важно: Импортёрам табачной продукции важно сверять фактический груз с декларацией и документами об уплате пошлины. Задержание описывает стадию расследования и не является обвинительным приговором.\n\nИсточник: https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html",
+          "checked_at": "2026-10-15T13:05:43.580235+00:00",
+          "status_code": 200,
+          "final_url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html",
+          "evidence": [
+            {
+              "claim": "Таможня Гонконга сообщила об изъятии 12 октября на пункте Шэньчжэнь-Бэй около 8 000 кг табака с неуплаченной пошлиной. Оценочная сумма пошлины — около 32 млн гонконгских долларов. Табак обнаружен во въезжавшем грузовике; водитель задержан, расследование продолжается.",
+              "source_quote": "Hong Kong Customs detected a duty-not-paid manufactured tobacco smuggling case at the Shenzhen Bay Control Point yesterday (October 12). A total of about 8 000 kilograms of duty-not-paid manufactured tobacco, with an estimated market value of about $53.4 million and a duty potential of about $32 million, was seized from an inbound medium goods vehicle (MGV). A male local driver involved in the case was arrested. Based on intelligence analysis, Customs officers intercepted the MGV, declared as carrying wood-plastic flooring in the above-mentioned Control Point. Upon examination, Customs officers did not find any declared goods but about 300 boxes of unmanifested and duty-not-paid manufactured tobacco in the MGV, and immediately arrested the 51-year-old local male driver. The case is still under investigation."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html",
+            "checked_at": "2026-10-15T13:05:43.580235+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_5697.html",
+            "evidence": [
+              {
+                "claim": "Таможня Гонконга сообщила об изъятии 12 октября на пункте Шэньчжэнь-Бэй около 8 000 кг табака с неуплаченной пошлиной. Оценочная сумма пошлины — около 32 млн гонконгских долларов. Табак обнаружен во въезжавшем грузовике; водитель задержан, расследование продолжается.",
+                "source_quote": "Hong Kong Customs detected a duty-not-paid manufactured tobacco smuggling case at the Shenzhen Bay Control Point yesterday (October 12). A total of about 8 000 kilograms of duty-not-paid manufactured tobacco, with an estimated market value of about $53.4 million and a duty potential of about $32 million, was seized from an inbound medium goods vehicle (MGV). A male local driver involved in the case was arrested. Based on intelligence analysis, Customs officers intercepted the MGV, declared as carrying wood-plastic flooring in the above-mentioned Control Point. Upon examination, Customs officers did not find any declared goods but about 300 boxes of unmanifested and duty-not-paid manufactured tobacco in the MGV, and immediately arrested the 51-year-old local male driver. The case is still under investigation."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-hk-tobacco-shenzhen-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: по заявке «Ядзаки» в свободной таможенной зоне открыто обсуждение до 18 ноября",
+      "sources": [
+        {
+          "label": "Federal Register, Совет по свободным таможенным зонам",
+          "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc"
+        }
+      ],
+      "theme": "Заявка на производство медных клемм в FTZ16 с импортными компонентами",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "B-127-2026; FR Doc2026-20774; Federal Register09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc",
+        "source_quote": "Publication Date 10/09/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "us-yazaki-production-b127-2026",
+        "cross_border_relevance": "Пошлины на импортные компоненты при производстве в свободной таможенной зоне США. Открытое обсуждение заявки не выдаётся за разрешение производственной деятельности; не создаётся второй материал о той жеYazaki."
+      },
+      "slug": "2026-10-15_1700_-us-yazaki-production-b127-2026",
+      "caption": "США: по заявке «Ядзаки» в свободной таможенной зоне открыто обсуждение до 18 ноября\n\nОфициальная публикация от 9 октября 2026 года. Совет по свободным таможенным зонам США опубликовал заявку «Ядзаки Норт Америка» на производство штампованных медных клемм в зоне FTZ 16 в Петоски. Предлагаемые импортные компоненты облагаются по обычным ставкам от нуля до 3%; замечания по заявке принимаются до 18 ноября 2026 года. Эта публикация описывает заявку, а не предоставленное разрешение на производство.\n\nПочему это важно: Поставщикам следует оценить заявленный перечень компонентов и ограничения на их помещение в зону. При импорте из отдельных стран сохраняется особый режим товаров, подпадающих под меры по разделам 232 и 301; сама заявка не подтверждает предоставление тарифных льгот.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc",
+          "checked_at": "2026-10-15T13:05:54.400721+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc",
+          "evidence": [
+            {
+              "claim": "Совет по свободным таможенным зонам США опубликовал заявку «Ядзаки Норт Америка» на производство штампованных медных клемм в зоне FTZ 16 в Петоски. Предлагаемые импортные компоненты облагаются по обычным ставкам от нуля до 3%; замечания по заявке принимаются до 18 ноября 2026 года. Эта публикация описывает заявку, а не предоставленное разрешение на производство.",
+              "source_quote": "Department of Commerce Foreign-Trade Zones Board [B-127-2026] Yazaki North America, Inc. submitted a notification of proposed production activity to the FTZ Board (the Board) for its facility in Petoskey, Michigan within FTZ 16. The notification conforming to the requirements of the Board's regulations ( 15 CFR 400.22 ) was received on September 21, 2026. Pursuant to 15 CFR 400.14(b) , FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board. The benefits that may stem from conducting production activity under FTZ procedures are explained in the background section of the Board's website—accessible via www.trade.gov/​ftz . The proposed finished product is stamped copper terminals (duty free). The proposed foreign-status materials/components include: copper-zinc alloy coils; copper-nickel alloy coils; refined copper coils; copper-tin alloy coils; and flat-rolled cold-rolled stainless steel (duty rate ranges from duty-free to 3.0%). The request indicates that certain materials/components are subject to duties under section 232 of the Trade ( printed page 64635) Expansion Act of 1962 or section 301 of the Trade Act of 1974, depending on the country of origin. The applicable section 232 and section 301 decisions require subject merchandise to be admitted to FTZs in privileged foreign status ( 19 CFR 146.41 ). Public comment is invited from interested parties. Submissions shall be addressed to the Board's Executive Secretary and sent to: ftz@trade.gov . The closing period for their receipt is November 18, 2026. A copy of the notification will be available for public inspection in the “Online FTZ Information System” section of the Board's website. For further information, contact John Frye at John.Frye@trade.gov . "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc",
+            "checked_at": "2026-10-15T13:05:54.400721+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20774/foreign-trade-zone-ftz-16-notification-of-proposed-production-activity-yazaki-north-america-inc",
+            "evidence": [
+              {
+                "claim": "Совет по свободным таможенным зонам США опубликовал заявку «Ядзаки Норт Америка» на производство штампованных медных клемм в зоне FTZ 16 в Петоски. Предлагаемые импортные компоненты облагаются по обычным ставкам от нуля до 3%; замечания по заявке принимаются до 18 ноября 2026 года. Эта публикация описывает заявку, а не предоставленное разрешение на производство.",
+                "source_quote": "Department of Commerce Foreign-Trade Zones Board [B-127-2026] Yazaki North America, Inc. submitted a notification of proposed production activity to the FTZ Board (the Board) for its facility in Petoskey, Michigan within FTZ 16. The notification conforming to the requirements of the Board's regulations ( 15 CFR 400.22 ) was received on September 21, 2026. Pursuant to 15 CFR 400.14(b) , FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board. The benefits that may stem from conducting production activity under FTZ procedures are explained in the background section of the Board's website—accessible via www.trade.gov/​ftz . The proposed finished product is stamped copper terminals (duty free). The proposed foreign-status materials/components include: copper-zinc alloy coils; copper-nickel alloy coils; refined copper coils; copper-tin alloy coils; and flat-rolled cold-rolled stainless steel (duty rate ranges from duty-free to 3.0%). The request indicates that certain materials/components are subject to duties under section 232 of the Trade ( printed page 64635) Expansion Act of 1962 or section 301 of the Trade Act of 1974, depending on the country of origin. The applicable section 232 and section 301 decisions require subject merchandise to be admitted to FTZs in privileged foreign status ( 19 CFR 146.41 ). Public comment is invited from interested parties. Submissions shall be addressed to the Board's Executive Secretary and sent to: ftz@trade.gov . The closing period for their receipt is November 18, 2026. A copy of the notification will be available for public inspection in the “Online FTZ Information System” section of the Board's website. For further information, contact John Frye at John.Frye@trade.gov . "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-us-yazaki-production-b127-2026.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: «Норман Нобл» подала заявку на производство медизделий в таможенной зоне",
+      "sources": [
+        {
+          "label": "Federal Register, Совет по свободным таможенным зонам",
+          "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc"
+        }
+      ],
+      "theme": "Импортные компоненты и заявка на производство медизделий в FTZ40R",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "B-129-2026; FR Doc2026-20775; Federal Register09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc",
+        "source_quote": "Publication Date 10/09/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "us-norman-noble-b129-2026",
+        "cross_border_relevance": "Тарифный режим импортных материалов для медицинских изделий; статус уведомления о заявке и приглашения к обсуждению отделён от будущего производственного разрешения."
+      },
+      "slug": "2026-10-15_1700_-us-norman-noble-b129-2026",
+      "caption": "США: «Норман Нобл» подала заявку на производство медизделий в таможенной зоне\n\nОфициальная публикация от 9 октября 2026 года. Совет по свободным таможенным зонам США опубликовал заявку «Норман Нобл» на производство медицинских изделий в подзоне 40R в Огайо с использованием импортных компонентов. Заявленные компоненты имеют обычные ставки пошлины от нуля до 6,6%. Замечания принимаются до 18 ноября 2026 года; эта публикация описывает заявку, а не разрешение на производство.\n\nПочему это важно: Производителям и поставщикам важно сверить перечень сырья с заявкой и учесть ограничения для компонентов под дополнительными пошлинами по разделам 232 и 301. Режим зоны не отменяет эти ограничения автоматически.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc",
+          "checked_at": "2026-10-15T13:05:54.455749+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc",
+          "evidence": [
+            {
+              "claim": "Совет по свободным таможенным зонам США опубликовал заявку «Норман Нобл» на производство медицинских изделий в подзоне 40R в Огайо с использованием импортных компонентов. Заявленные компоненты имеют обычные ставки пошлины от нуля до 6,6%. Замечания принимаются до 18 ноября 2026 года; эта публикация описывает заявку, а не разрешение на производство.",
+              "source_quote": "Department of Commerce Foreign-Trade Zones Board [B-129-2026] The Cleveland Cuyahoga County Port Authority, grantee of FTZ 40, submitted a notification of proposed production activity to the FTZ Board (the Board) on behalf of Norman Noble Company Inc. (Norman Noble) for Norman Noble's facilities in Highland Heights, Ohio, within Subzone 40R. The notification conforming to the requirements of the Board's regulations ( 15 CFR 400.22 ) was received on September 25, 2026. Pursuant to 15 CFR 400.14(b) , FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board. The benefits that may stem from conducting production activity under FTZ procedures are explained in the background section of the Board's website—accessible via www.trade.gov/​ftz . The proposed finished products include: stents (abdominal aortic aneurysm; cardio; carotid; neurovascular; peripheral below-the-knee; superficial femoral artery; venous); tips (atherectomy; clot removal); atrial fibrillation frame bars; various plates (extremity; maxillofacial); screws (extremity; maxillofacial); heart pump cannulas; anchors (ligament repair; extremity suture); assemblies (spinal implant; multi-leaf collimator); vessel closure implants; extremity staples; and, vena cava filters (duty rate is duty-free). The proposed foreign-status materials/components include tungsten plates, nitinol tubes, and stainless steel tubes (duty rate ranges from duty-free to 6.6%). The request indicates that certain materials/components are subject to duties under section 232 of the Trade Expansion Act of 1962, or section 301 of the Trade Act of 1974, depending on the country of origin. The applicable section 232, and section 301 decisions require subject merchandise to be admitted to FTZs in privileged foreign status ( 19 CFR 146.41 ). Public comment is invited from interested parties. Submissions shall be addressed to the Board's Executive Secretary and sent to: ftz@trade.gov . The closing period for their receipt is November 18, 2026. A copy of the notification will be available for public inspection in the “Online FTZ Information System” section of the Board's website. For further information, contact Juanita Chen at juanita.chen@trade.gov . "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc",
+            "checked_at": "2026-10-15T13:05:54.455749+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20775/foreign-trade-zone-ftz-40-notification-of-proposed-production-activity-norman-noble-company-inc",
+            "evidence": [
+              {
+                "claim": "Совет по свободным таможенным зонам США опубликовал заявку «Норман Нобл» на производство медицинских изделий в подзоне 40R в Огайо с использованием импортных компонентов. Заявленные компоненты имеют обычные ставки пошлины от нуля до 6,6%. Замечания принимаются до 18 ноября 2026 года; эта публикация описывает заявку, а не разрешение на производство.",
+                "source_quote": "Department of Commerce Foreign-Trade Zones Board [B-129-2026] The Cleveland Cuyahoga County Port Authority, grantee of FTZ 40, submitted a notification of proposed production activity to the FTZ Board (the Board) on behalf of Norman Noble Company Inc. (Norman Noble) for Norman Noble's facilities in Highland Heights, Ohio, within Subzone 40R. The notification conforming to the requirements of the Board's regulations ( 15 CFR 400.22 ) was received on September 25, 2026. Pursuant to 15 CFR 400.14(b) , FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board. The benefits that may stem from conducting production activity under FTZ procedures are explained in the background section of the Board's website—accessible via www.trade.gov/​ftz . The proposed finished products include: stents (abdominal aortic aneurysm; cardio; carotid; neurovascular; peripheral below-the-knee; superficial femoral artery; venous); tips (atherectomy; clot removal); atrial fibrillation frame bars; various plates (extremity; maxillofacial); screws (extremity; maxillofacial); heart pump cannulas; anchors (ligament repair; extremity suture); assemblies (spinal implant; multi-leaf collimator); vessel closure implants; extremity staples; and, vena cava filters (duty rate is duty-free). The proposed foreign-status materials/components include tungsten plates, nitinol tubes, and stainless steel tubes (duty rate ranges from duty-free to 6.6%). The request indicates that certain materials/components are subject to duties under section 232 of the Trade Expansion Act of 1962, or section 301 of the Trade Act of 1974, depending on the country of origin. The applicable section 232, and section 301 decisions require subject merchandise to be admitted to FTZs in privileged foreign status ( 19 CFR 146.41 ). Public comment is invited from interested parties. Submissions shall be addressed to the Board's Executive Secretary and sent to: ftz@trade.gov . The closing period for their receipt is November 18, 2026. A copy of the notification will be available for public inspection in the “Online FTZ Information System” section of the Board's website. For further information, contact Juanita Chen at juanita.chen@trade.gov . "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-us-norman-noble-b129-2026.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: назначены слушания по жирным кислотам из Индонезии и Малайзии",
+      "sources": [
+        {
+          "label": "Federal Register, Комиссия по международной торговле США",
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and"
+        }
+      ],
+      "theme": "График заключительной стадии торгово-защитного расследования по жирным кислотам",
+      "jurisdictions": [
+        "США",
+        "Индонезия",
+        "Малайзия"
+      ],
+      "act": "USITC701-TA-785-786 и731-TA-1773-1774(Final); FR Doc2026-20903",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and",
+        "source_quote": "Publication Date 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "us-fatty-acids-final-schedule-20261014",
+        "cross_border_relevance": "Антидемпинговые и компенсационные меры по импорту изИндонезии иМалайзии; новая официальная публикация графика14Oct, noticeissued08Oct. Не утверждается ни окончательная ставка, ни новый факт субсидирования."
+      },
+      "slug": "2026-10-15_1700_-us-fatty-acids-final-schedule-20261014",
+      "caption": "США: назначены слушания по жирным кислотам из Индонезии и Малайзии\n\nУведомление опубликовано 14 октября 2026 года. Комиссия по международной торговле США назначила слушания заключительной стадии антидемпингового и компенсационного расследований по жирным кислотам из Индонезии и Малайзии на 4 февраля 2027 года. Заявки на выступление принимаются до 28 января 2027 года. Это процессуальное уведомление, а не окончательное решение о пошлинах.\n\nПочему это важно: Производителям, экспортёрам и импортёрам нужно заранее определить, будут ли они участвовать в установлении ущерба американской отрасли, и подготовить доказательства к установленным срокам.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and",
+          "checked_at": "2026-10-15T13:05:54.761575+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and",
+          "evidence": [
+            {
+              "claim": "Комиссия по международной торговле США назначила слушания заключительной стадии антидемпингового и компенсационного расследований по жирным кислотам из Индонезии и Малайзии на 4 февраля 2027 года. Заявки на выступление принимаются до 28 января 2027 года. Это процессуальное уведомление, а не окончательное решение о пошлинах.",
+              "source_quote": "International Trade Commission [Investigation Nos. 701-TA-785-786 and 731-TA-1773-1774 (Final)] AGENCY: United States International Trade Commission. ACTION: Notice. SUMMARY: The Commission hereby gives notice of the scheduling of the final phase of antidumping and countervailing duty investigation Nos. 701-TA-785-786 and 731-TA-1773-1774 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of fatty acids from Indonesia and Malaysia, provided for in subheadings 2915.70.01, 2915.90.10, 2916.15.10, 2916.15.51, 3823.11.00, 3823.12.00, 3823.19.20, and 3823.19.40 of the Harmonized Tariff Schedule of the United States, preliminarily determined by the Department of Commerce (“Commerce”) to be subsidized and sold at less-than-fair-value. DATES: September 22, 2026. FOR FURTHER INFORMATION CONTACT: Stamen Borisson ((202) 205-3125), Office of Investigations, U.S. International Trade Commission, 500 E Street SW, Washington, DC 20436. Hearing-impaired persons can obtain information on this matter by contacting the Commission's TDD terminal on 202-205-1810. Persons with mobility impairments who will need special assistance in gaining access to the Commission should contact the Office of the Secretary at 202-205-2000. General information concerning the Commission may also be obtained by accessing its internet server ( https://www.usitc.gov ). The public record for these investigations may be viewed on the Commission's electronic docket (EDIS) at https://edis.usitc.gov . SUPPLEMENTARY INFORMATION: Scope. —For purposes of these investigations, Commerce has defined the subject merchandise as “certain fatty acids, which are organic acids made of a hydrocarbon chain with a carboxylic acid group at one end with a carbon chain length of C6, C8, C10, C12, C14, C16, or C18, with an iodine value below 105g/100 g and with a ratio of free fatty acids to triglycerides of at least 97 percent, including single fatty acid (also referred to as “pure cut”), and blends containing a combination of two or more carbon chain lengths.” ( 91 FR 60096 ; 91 FR 60092 , September 22, 2026) Background. —The final phase of these investigations is being scheduled pursuant to sections 705(b) and 731(b) of the Tariff Act of 1930 ( 19 U.S.C. 1671d(b) and 1673d(b) ), as a result of affirmative preliminary determinations by Commerce that certain benefits which constitute subsidies within the meaning of § 703 of the Act ( 19 U.S.C. 1671b ) are being provided to manufacturers, producers, or exporters in Indonesia and Malaysia of fatty acids, and that such products are being sold in the United States at less than fair value within the meaning of § 733 of the Act ( 19 U.S.C. 1673b ). The investigations were requested in petitions filed on January 28, 2026, by Vantage Specialty Chemicals, Inc., Deerfield, Illinois. For further information concerning the conduct of this phase of the investigations, hearing procedures, and rules of general application, consult the Commission's Rules of Practice and Procedure, part 201, subparts A and B ( 19 CFR part 201 ), and part 207, subparts A and C ( 19 CFR part 207 ). Participation in the investigations and public service list. —Persons, including industrial users of the subject merchandise and, if the merchandise is sold at the retail level, representative consumer organizations, wishing to participate in the final phase of these investigations as parties must file an entry of appearance with the Secretary to the Commission, as provided in § 201.11 of the Commission's rules, no later than 21 days prior to the hearing date specified in this notice. A party that filed a notice of appearance during the preliminary phase of the investigations need not file an additional notice of appearance during this final phase. The Secretary will maintain a public service list containing the names and addresses of all persons, or their representatives, who are parties to the investigations. Please note the Secretary's Office will accept only electronic filings during this time. Filings must be made through the Commission's Electronic Document Information System (EDIS, https://edis.usitc.gov ). No in-person paper-based filings or paper copies of any electronic filings will be accepted until further notice. Limited disclosure of business proprietary information (BPI) under an administrative protective order (APO) and BPI service list. —Pursuant to § 207.7(a) of the Commission's rules, the Secretary will make BPI gathered in the final phase of these investigations available to authorized applicants under the APO issued in the investigations, provided that the application is made no later than 21 days prior to the hearing date specified in this notice. Authorized applicants must represent interested parties, as defined by 19 U.S.C. 1677(9) , who are parties to the investigations. A party granted access to BPI in the preliminary phase of the investigations need not reapply for such access. A separate service list will be maintained by the Secretary for those parties authorized to receive BPI under the APO. Staff report. —The prehearing staff report in the final phase of these investigations will be placed in the nonpublic record on January 21, 2027, and a public version will be issued thereafter, pursuant to § 207.22 of the Commission's rules. Hearing. —The Commission will hold a hearing in connection with the final phase of these investigations beginning at 9:30 a.m. on February 4, 2027. Requests to appear at the hearing should be filed in writing with the Secretary to the Commission on or before January 28, 2027. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and",
+            "checked_at": "2026-10-15T13:05:54.761575+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20903/fatty-acids-from-indonesia-and-malaysia-scheduling-of-the-final-phase-of-countervailing-duty-and",
+            "evidence": [
+              {
+                "claim": "Комиссия по международной торговле США назначила слушания заключительной стадии антидемпингового и компенсационного расследований по жирным кислотам из Индонезии и Малайзии на 4 февраля 2027 года. Заявки на выступление принимаются до 28 января 2027 года. Это процессуальное уведомление, а не окончательное решение о пошлинах.",
+                "source_quote": "International Trade Commission [Investigation Nos. 701-TA-785-786 and 731-TA-1773-1774 (Final)] AGENCY: United States International Trade Commission. ACTION: Notice. SUMMARY: The Commission hereby gives notice of the scheduling of the final phase of antidumping and countervailing duty investigation Nos. 701-TA-785-786 and 731-TA-1773-1774 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of fatty acids from Indonesia and Malaysia, provided for in subheadings 2915.70.01, 2915.90.10, 2916.15.10, 2916.15.51, 3823.11.00, 3823.12.00, 3823.19.20, and 3823.19.40 of the Harmonized Tariff Schedule of the United States, preliminarily determined by the Department of Commerce (“Commerce”) to be subsidized and sold at less-than-fair-value. DATES: September 22, 2026. FOR FURTHER INFORMATION CONTACT: Stamen Borisson ((202) 205-3125), Office of Investigations, U.S. International Trade Commission, 500 E Street SW, Washington, DC 20436. Hearing-impaired persons can obtain information on this matter by contacting the Commission's TDD terminal on 202-205-1810. Persons with mobility impairments who will need special assistance in gaining access to the Commission should contact the Office of the Secretary at 202-205-2000. General information concerning the Commission may also be obtained by accessing its internet server ( https://www.usitc.gov ). The public record for these investigations may be viewed on the Commission's electronic docket (EDIS) at https://edis.usitc.gov . SUPPLEMENTARY INFORMATION: Scope. —For purposes of these investigations, Commerce has defined the subject merchandise as “certain fatty acids, which are organic acids made of a hydrocarbon chain with a carboxylic acid group at one end with a carbon chain length of C6, C8, C10, C12, C14, C16, or C18, with an iodine value below 105g/100 g and with a ratio of free fatty acids to triglycerides of at least 97 percent, including single fatty acid (also referred to as “pure cut”), and blends containing a combination of two or more carbon chain lengths.” ( 91 FR 60096 ; 91 FR 60092 , September 22, 2026) Background. —The final phase of these investigations is being scheduled pursuant to sections 705(b) and 731(b) of the Tariff Act of 1930 ( 19 U.S.C. 1671d(b) and 1673d(b) ), as a result of affirmative preliminary determinations by Commerce that certain benefits which constitute subsidies within the meaning of § 703 of the Act ( 19 U.S.C. 1671b ) are being provided to manufacturers, producers, or exporters in Indonesia and Malaysia of fatty acids, and that such products are being sold in the United States at less than fair value within the meaning of § 733 of the Act ( 19 U.S.C. 1673b ). The investigations were requested in petitions filed on January 28, 2026, by Vantage Specialty Chemicals, Inc., Deerfield, Illinois. For further information concerning the conduct of this phase of the investigations, hearing procedures, and rules of general application, consult the Commission's Rules of Practice and Procedure, part 201, subparts A and B ( 19 CFR part 201 ), and part 207, subparts A and C ( 19 CFR part 207 ). Participation in the investigations and public service list. —Persons, including industrial users of the subject merchandise and, if the merchandise is sold at the retail level, representative consumer organizations, wishing to participate in the final phase of these investigations as parties must file an entry of appearance with the Secretary to the Commission, as provided in § 201.11 of the Commission's rules, no later than 21 days prior to the hearing date specified in this notice. A party that filed a notice of appearance during the preliminary phase of the investigations need not file an additional notice of appearance during this final phase. The Secretary will maintain a public service list containing the names and addresses of all persons, or their representatives, who are parties to the investigations. Please note the Secretary's Office will accept only electronic filings during this time. Filings must be made through the Commission's Electronic Document Information System (EDIS, https://edis.usitc.gov ). No in-person paper-based filings or paper copies of any electronic filings will be accepted until further notice. Limited disclosure of business proprietary information (BPI) under an administrative protective order (APO) and BPI service list. —Pursuant to § 207.7(a) of the Commission's rules, the Secretary will make BPI gathered in the final phase of these investigations available to authorized applicants under the APO issued in the investigations, provided that the application is made no later than 21 days prior to the hearing date specified in this notice. Authorized applicants must represent interested parties, as defined by 19 U.S.C. 1677(9) , who are parties to the investigations. A party granted access to BPI in the preliminary phase of the investigations need not reapply for such access. A separate service list will be maintained by the Secretary for those parties authorized to receive BPI under the APO. Staff report. —The prehearing staff report in the final phase of these investigations will be placed in the nonpublic record on January 21, 2027, and a public version will be issued thereafter, pursuant to § 207.22 of the Commission's rules. Hearing. —The Commission will hold a hearing in connection with the final phase of these investigations beginning at 9:30 a.m. on February 4, 2027. Requests to appear at the hearing should be filed in writing with the Secretary to the Commission on or before January 28, 2027. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-us-fatty-acids-final-schedule-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг анонсировал публикацию распоряжений по шести налоговым соглашениям",
+      "sources": [
+        {
+          "label": "Правительство Гонконга",
+          "url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm"
+        }
+      ],
+      "theme": "Предстоящая публикация распоряжений по шести соглашениям об избежании двойного налогообложения",
+      "jurisdictions": [
+        "Гонконг",
+        "Барбадос",
+        "Иордания",
+        "Кыргызстан",
+        "Мальдивы",
+        "Норвегия",
+        "Руанда"
+      ],
+      "act": "Официальное сообщениеP2026101400352 от14.10.2026 о публикации16.10.2026 шести распоряжений поCDTA",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm",
+        "source_quote": "Ends/Wednesday, October 14, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex",
+        "event_key": "hk-six-cdta-gazette-announcement-20261014",
+        "cross_border_relevance": "Шесть двусторонних соглашений о налогообложении трансграничных доходов. Новость — официальный анонс14октября будущей публикации и рассмотрения; принятие распоряжений6октября не выдаётся за вступление договоров в силу."
+      },
+      "slug": "2026-10-15_1700_-hk-six-cdta-gazette-announcement-20261014",
+      "caption": "Гонконг анонсировал публикацию распоряжений по шести налоговым соглашениям\n\nПравительство Гонконга 14 октября сообщило, что распоряжения по налоговым соглашениям с Барбадосом, Иорданией, Кыргызстаном, Мальдивами, Норвегией и Руандой будут опубликованы 16 октября. На рассмотрение Законодательного совета их планируется внести 21 октября. Сами соглашения вступят в силу после завершения ратификационных процедур обеими сторонами.\n\nПочему это важно: Инвесторам следует отдельно отслеживать публикацию распоряжений и вступление соглашений в силу. Анонс ещё не даёт основания применять договорные налоговые льготы.\n\nИсточник: https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm",
+          "checked_at": "2026-10-15T13:05:55.031057+00:00",
+          "status_code": 200,
+          "final_url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm",
+          "evidence": [
+            {
+              "claim": "Правительство Гонконга 14 октября сообщило, что распоряжения по налоговым соглашениям с Барбадосом, Иорданией, Кыргызстаном, Мальдивами, Норвегией и Руандой будут опубликованы 16 октября. На рассмотрение Законодательного совета их планируется внести 21 октября. Сами соглашения вступят в силу после завершения ратификационных процедур обеими сторонами.",
+              "source_quote": "The Chief Executive in Council made six Orders under the Inland Revenue Ordinance (Cap. 112) on October 6, 2026, to implement respectively the Comprehensive Avoidance of Double Taxation Agreements (CDTAs) that Hong Kong signed with Barbados, Jordan, the Kyrgyz Republic, Maldives, Norway and Rwanda. The Orders will be gazetted on October 16. \"The CDTAs ensure that residents of Hong Kong and the relevant tax jurisdictions will not be subject to double taxation on the same income, and enable investors to assess more effectively the potential tax burden arising from their cross-border economic activities, thereby promoting bilateral trade and investment,\" a spokesman for the Financial Services and the Treasury Bureau said. The Orders will be tabled at the Legislative Council on October 21 for negative vetting. The six CDTAs will enter into force after both Hong Kong and the relevant tax jurisdictions have completed their respective ratification procedures. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm",
+            "checked_at": "2026-10-15T13:05:55.031057+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.info.gov.hk/gia/general/202610/14/P2026101400352.htm",
+            "evidence": [
+              {
+                "claim": "Правительство Гонконга 14 октября сообщило, что распоряжения по налоговым соглашениям с Барбадосом, Иорданией, Кыргызстаном, Мальдивами, Норвегией и Руандой будут опубликованы 16 октября. На рассмотрение Законодательного совета их планируется внести 21 октября. Сами соглашения вступят в силу после завершения ратификационных процедур обеими сторонами.",
+                "source_quote": "The Chief Executive in Council made six Orders under the Inland Revenue Ordinance (Cap. 112) on October 6, 2026, to implement respectively the Comprehensive Avoidance of Double Taxation Agreements (CDTAs) that Hong Kong signed with Barbados, Jordan, the Kyrgyz Republic, Maldives, Norway and Rwanda. The Orders will be gazetted on October 16. \"The CDTAs ensure that residents of Hong Kong and the relevant tax jurisdictions will not be subject to double taxation on the same income, and enable investors to assess more effectively the potential tax burden arising from their cross-border economic activities, thereby promoting bilateral trade and investment,\" a spokesman for the Financial Services and the Treasury Bureau said. The Orders will be tabled at the Legislative Council on October 21 for negative vetting. The six CDTAs will enter into force after both Hong Kong and the relevant tax jurisdictions have completed their respective ratification procedures. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1700_-hk-six-cdta-gazette-announcement-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

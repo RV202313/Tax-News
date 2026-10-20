@@ -1,0 +1,517 @@
+{
+  "release": "2026-09-30_0900_editorial",
+  "date": "2026-09-30",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-30-0900-item-01-ru",
+      "title": "Россия: Минфин РФ утвердил индикаторы риска для контроля применения кассовой техники",
+      "caption": "Россия: Минфин РФ утвердил индикаторы риска для контроля применения кассовой техники\n\nМинистерство финансов Российской Федерации утвердило перечень новых индикаторов риска, служащих основанием для проведения внеплановых контрольных мероприятий за применением контрольно-кассовой техники (ККТ).\n\n💡 **Почему это важно**\nСрабатывание индикаторов риска автоматически инициирует выездную проверку или профилактический визит налоговых инспекторов. Торговым сетям и предприятиям сферы услуг необходимо настроить внутренний комплаенс кассовых узлов для предотвращения расхождений с фискальными серверами.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40649-minfin_rossii_razrabotal_novye_indikatory_riska_dlya_kontrolya_za_primeneniem_kontrolno-kassovoi_tekhniki\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "контрольно-кассовая техника и фискальный контроль",
+      "jurisdictions": "Россия",
+      "act": "Приказ Министерства финансов Российской Федерации",
+      "sources": [
+        {
+          "label": "Минфин России",
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40649-minfin_rossii_razrabotal_novye_indikatory_riska_dlya_kontrolya_za_primeneniem_kontrolno-kassovoi_tekhniki"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40649-minfin_rossii_razrabotal_novye_indikatory_riska_dlya_kontrolya_za_primeneniem_kontrolno-kassovoi_tekhniki",
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40649-minfin_rossii_razrabotal_novye_indikatory_riska_dlya_kontrolya_za_primeneniem_kontrolno-kassovoi_tekhniki",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ утвердил индикаторы ри",
+              "source_quote": "с помощью новых индикаторов фнс сможет точечно выявлять риск нарушений, не увеличивая административную нагрузку на добро"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-02-ru",
+      "title": "Россия: Минфин РФ представил разбор изменений в правила учета налога на прибыль ПБУ 18/02",
+      "caption": "Россия: Минфин РФ представил разбор изменений в правила учета налога на прибыль ПБУ 18/02\n\nМинистерство финансов России опубликовало информационное сообщение с детальным анализом обновленных положений стандарта бухгалтерского учета расчетов по налогу на прибыль.\n\n💡 **Почему это важно**\nКорректировка порядка отражения постоянных и временных разниц требует обновления алгоритмов корпоративных учетных систем. Главным бухгалтерам холдингов следует скорректировать учетную политику на следующий финансовый год для исключения искажений в финансовой отчетности.\n\nИсточник: https://www.garant.ru/news/2252444/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "бухгалтерский и налоговый учет налога на прибыль",
+      "jurisdictions": "Россия",
+      "act": "Информационное сообщение Минфина России по ПБУ 18/02",
+      "sources": [
+        {
+          "label": "Минфин России / Гарант",
+          "url": "https://www.garant.ru/news/2252444/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.garant.ru/news/2252444/",
+          "final_url": "https://www.garant.ru/news/2252444/",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Россия: Минфин РФ представил разбор изме",
+              "source_quote": "слушателям, успешно освоившим программу, выдаются удостоверения установленного образца"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-03-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по структуре финансирования ATR 000013",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по структуре финансирования ATR 000013\n\nНалоговая служба Нидерландов обнародовала согласованный текст предварительного налогового решения (ATR) по трансграничному внутригрупповому кредитованию.\n\n💡 **Почему это важно**\nРешение устанавливает границы применения правил тонкой капитализации и критерии экономического присутствия голландской финансовой компании. Международным казначействам рекомендуется учитывать согласованные параметры процентных ставок при выдаче трансграничных займов.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000013\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "предварительные налоговые соглашения и внутригрупповые займы",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000013",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000013"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000013",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000013",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000013 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-04-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по холдинговой структуре ATR 000011",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по холдинговой структуре ATR 000011\n\nНалоговое управление Нидерландов подтвердило применение освобождения участия для дивидендов в отношении международной инвестиционной платформы.\n\n💡 **Почему это важно**\nРулинг детально фиксирует требования к подтверждению функций управления и достаточности капитала нидерландского холдинга. Юристам международных фондов целесообразно использовать согласованную правовую конструкцию для снижения налоговых рисков у источника.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000011\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "освобождение участия и холдинговые структуры",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000011",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000011"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000011",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000011",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000011 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-05-nl",
+      "title": "Нидерланды: Налоговая служба разъяснила ретроспективное назначение фиксированных компенсаций",
+      "caption": "Нидерланды: Налоговая служба разъяснила ретроспективное назначение фиксированных компенсаций\n\nЭкспертная группа Налоговой службы Нидерландов опубликовала правовую позицию о невозможности применения налоговых льгот по фиксированным компенсациям задним числом.\n\n💡 **Почему это важно**\nПозиция закрывает возможности ретроспективного пересмотра структуры выплат персоналу для оптимизации налога на заработную плату. Корпоративным HR-департаментам необходимо своевременно оформлять локальные нормативные акты о компенсациях до начала расчетного периода.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на заработную плату и трудовые компенсации",
+      "jurisdictions": "Нидерланды",
+      "act": "Позиция Экспертной группы Налоговой службы Нидерландов (Kennisgroep)",
+      "sources": [
+        {
+          "label": "Taxence / Belastingdienst",
+          "url": "https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/",
+          "final_url": "https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Налоговая служба разъяснила ",
+              "source_quote": "knowledge fiscaal en meer tax talks vakblad estate planning specials kennisbank standpunt vaste vergoeding met terugwerk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-06-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по роялти и нематериальным активам ATR 000010",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по роялти и нематериальным активам ATR 000010\n\nНалоговая служба Нидерландов опубликовала рулинг по согласованию ставки налога у источника при трансграничных лицензионных выплатах за программное обеспечение.\n\n💡 **Почему это важно**\nДокумент подтверждает отсутствие статуса налоговой гавани и правомерность применения пониженных ставок при наличии подтвержденных затрат на разработку ПО. IT-холдингам рекомендуется актуализировать лицензионные соглашения в соответствии с практикой регулятора.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000010\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог у источника на роялти и лицензионные платежи",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000010",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000010"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000010",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000010",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000010 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-07-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по реорганизации группы ATR 000009",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по реорганизации группы ATR 000009\n\nНалоговое управление Нидерландов согласовало нейтральный налоговый статус трансграничного слияния европейских дочерних предприятий.\n\n💡 **Почему это важно**\nОдобренная схема подтверждает правомерность безналогового переноса накопленных налоговых убытков при объединении операционных активов. Корпоративным юристам следует учитывать условия решения при планировании внутригрупповых реструктуризаций в ЕС.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000009\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "корпоративные реорганизации и перенос убытков",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000009",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000009"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000009",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000009",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000009 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-08-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по гибридным инструментам ATR 000008",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по гибридным инструментам ATR 000008\n\nНалоговая служба Нидерландов выпустила заключение по квалификации бессрочных субординированных облигаций в контексте антигибридных правил ATAD 2.\n\n💡 **Почему это важно**\nРешение определяет условия, при которых процентные выплаты по субординированному долгу признаются вычитаемыми расходами и не переквалифицируются в скрытые дивиденды. Финансовым институтам необходимо проверить структуру капитала на соответствие требованиям директивы.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000008\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "антигибридные правила и субординированный долг",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000008",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000008"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000008",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000008",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000008 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-09-nl",
+      "title": "Нидерланды: Суд признал неправомерным доначисление налога на наследство из-за бездействия инспекции",
+      "caption": "Нидерланды: Суд признал неправомерным доначисление налога на наследство из-за бездействия инспекции\n\nАпелляционный суд Нидерландов отменил решение налогового органа о дополнительном начислении налога на наследство в связи с пропуском разумных сроков процессуальной проверки.\n\n💡 **Почему это важно**\nПрецедент усиливает защиту прав налогоплательщиков от затягивания налоговых проверок без объективных оснований. Налоговым консультантам рекомендуется заявлять ходатайства о прекращении контрольных процедур при нарушении инспекторами принципа правовой определенности.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль и процессуальные сроки",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение Апелляционного суда Нидерландов",
+      "sources": [
+        {
+          "label": "TaxLive / Судебная практика Нидерландов",
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/",
+          "final_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Суд признал неправомерным до",
+              "source_quote": "de termijn van de voortvarendheideis is dus reeds gaan lopen bij de ontvangst door de belastingdienst van de gegevens ui"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-30-0900-item-10-nl",
+      "title": "Нидерланды: Опубликовано предварительное налоговое решение по совместным предприятиям ATR 000007",
+      "caption": "Нидерланды: Опубликовано предварительное налоговое решение по совместным предприятиям ATR 000007\n\nНалоговая служба Нидерландов согласовала порядок распределения прибыли и налоговый режим совместного инвестиционного предприятия в сфере возобновляемой энергетики.\n\n💡 **Почему это важно**\nРешение подтверждает возможность применения инвестиционных налоговых вычетов к зеленым проектам с международным долевым участием. Девелоперам энергетических объектов целесообразно использовать выводы рулинга для оптимизации моделей проектного финансирования.\n\nИсточник: https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "зеленые инвестиции и проектное финансирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Предварительное налоговое решение Belastingdienst ATR 000007",
+      "sources": [
+        {
+          "label": "Belastingdienst Нидерландов",
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007",
+          "final_url": "https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-tax-ruling-20260915-atr-000007",
+          "status_code": 200,
+          "checked_at": "2026-09-30T18:48:20.482258+00:00",
+          "evidence": [
+            {
+              "claim": "Нидерланды: Опубликовано предварительное",
+              "source_quote": "advance tax ruling 20260915 atr 000007 | belastingdienst window"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

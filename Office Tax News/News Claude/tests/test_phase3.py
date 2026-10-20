@@ -8,6 +8,7 @@ import shutil
 import sys
 import tempfile
 import unittest
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from types import SimpleNamespace
 from unittest import mock
@@ -59,10 +60,24 @@ class TempProject(unittest.TestCase):
                     f"Налоговая новость {number}.\n\nИсточник: {url}\n\n"
                     "#тест #АкадемияBEPS #АкадемияБЕПС"
                 ),
-                "theme": f"Тема {number}",
-                "jurisdictions": "Россия",
+                "theme": f"Налоговая тема {number}",
+                "jurisdictions": "Россия" if number <= 2 else "Казахстан" if number <= 4 else "Нидерланды",
+                "source_published_at": "2026-07-18",
+                "publication_date_evidence": {"url": url, "source_quote": "2026-07-18"},
+                "editorial_review": {"reviewed_by": "offline fixture", "event_key": f"test-{number}",
+                                     "cross_border_relevance": "Тест проверки международного налогообложения и таможенных процедур."},
                 "act": f"Акт {number}",
                 "sources": [{"label": "Official", "url": url}],
+                "source_verifications": [{
+                    "url": url,
+                    "checked_at": "2026-07-18T08:00:00+00:00",
+                    "status_code": 200,
+                    "final_url": url,
+                    "evidence": [{
+                        "claim": f"Налоговая новость {number}",
+                        "source_quote": f"Official source evidence {number}",
+                    }],
+                }],
                 "image_path": str(self.image),
                 "image_credit": "Academy BEPS",
                 "image_rights": "original artwork",
@@ -74,7 +89,7 @@ class TempProject(unittest.TestCase):
                     "evidence": f"test approval {number}",
                 }
             items.append(item)
-        return {"date": "2026-07-18", "release": "test-0900", "items": items}
+        return {"date": "2026-07-18", "release": "2026-07-18_0900_editorial", "items": items}
 
 
 class ValidationTests(TempProject):
@@ -93,6 +108,55 @@ class ValidationTests(TempProject):
         release["items"][0]["caption"] = "#АкадемияBEPS #АкадемияБЕПС"
         with self.assertRaisesRegex(ValueError, "прямой ссылки"):
             publish_batch.validate_release(release, execution=False)
+
+    def test_source_verification_is_mandatory(self):
+        release = self.release()
+        del release["items"][0]["source_verifications"]
+        with self.assertRaisesRegex(ValueError, "source_verifications"):
+            publish_batch.validate_release(release, execution=False)
+
+    def test_live_source_gate_requires_the_attested_quote(self):
+        release = self.release()
+        item = release["items"][0]
+
+        class Response:
+            headers = {"Content-Type": "text/html; charset=utf-8"}
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_):
+                return False
+
+            def getcode(self):
+                return 200
+
+            def geturl(self):
+                return item["sources"][0]["url"]
+
+            def read(self, _):
+                return b"<html><body>2026-07-18 Official source evidence 1</body></html>"
+
+        with mock.patch.object(publish_batch, "urlopen", return_value=Response()):
+            publish_batch.verify_sources_live({"items": [item]})
+        with mock.patch.object(publish_batch, "urlopen", return_value=Response()):
+            item["source_verifications"][0]["evidence"][0]["source_quote"] = "Missing source proof"
+            with self.assertRaisesRegex(ValueError, "Публикация заблокирована"):
+                publish_batch.verify_sources_live({"items": [item]})
+
+    def test_direct_editorial_delivery_is_blocked_outside_moscow_slot(self):
+        with self.assertRaisesRegex(ValueError, "прямой запуск вне слота"):
+            publish_batch.ensure_editorial_delivery_window(
+                datetime(2026, 9, 25, 8, 30, tzinfo=timezone(timedelta(hours=3)))
+            )
+        publish_batch.ensure_editorial_delivery_window(
+            datetime(2026, 9, 25, 9, 10, tzinfo=timezone(timedelta(hours=3)))
+        )
+        with self.assertRaisesRegex(ValueError, "не соответствует текущему слоту"):
+            publish_batch.ensure_editorial_delivery_window(
+                datetime(2026, 9, 25, 9, 10, tzinfo=timezone(timedelta(hours=3))),
+                release_name="2026-09-25_1700_editorial",
+            )
 
     def test_anglo_russian_mixture_is_rejected(self):
         release = self.release()
@@ -170,6 +234,42 @@ class ValidationTests(TempProject):
         with self.assertRaisesRegex(RuntimeError, "SHA-256"):
             publish_batch.verify_run_record(first)
 
+    def test_interrupted_receipt_recovers_without_altering_deliveries(self):
+        release = self.release()
+        approved = self.root / 'pipeline/approved/recovery.json'
+        approved.parent.mkdir(parents=True)
+        approved.write_text(json.dumps(release), encoding='utf-8')
+        run_id = publish_batch.release_run_id(release, approved, 'editorial')
+        interrupted = self.root / 'pipeline/run_records' / release['date'] / run_id
+        interrupted.mkdir(parents=True)
+        shutil.copy2(approved, interrupted / 'approved.json')
+        (interrupted / 'interrupted.txt').write_text('preserve me')
+        for n, item in enumerate(release['items']):
+            publish_batch.append_delivery(self.root, {'date': release['date'], 'release': release['release'],
+                'slug': item['slug'], 'delivery': 'telegram_editorial', 'post_id': str(800+n)})
+        before = (self.root / 'pipeline/published' / f"{release['date']}.jsonl").read_bytes()
+        receipt = publish_batch.write_run_record(self.root, release, approved, scope='editorial')
+        verified = publish_batch.verify_run_record(receipt)
+        self.assertEqual(verified['delivery_coverage']['delivered_slugs'], 10)
+        self.assertEqual((self.root / 'pipeline/published' / f"{release['date']}.jsonl").read_bytes(), before)
+        preserved = list(interrupted.parent.glob('.incomplete-*'))
+        self.assertEqual(len(preserved), 1)
+        self.assertEqual((preserved[0] / 'interrupted.txt').read_text(), 'preserve me')
+
+    def test_interrupted_receipt_without_delivery_proof_is_preserved_and_blocked(self):
+        release = self.release()
+        approved = self.root / 'pipeline/approved/recovery.json'
+        approved.parent.mkdir(parents=True)
+        approved.write_text(json.dumps(release), encoding='utf-8')
+        run_id = publish_batch.release_run_id(release, approved, 'editorial')
+        interrupted = self.root / 'pipeline/run_records' / release['date'] / run_id
+        interrupted.mkdir(parents=True)
+        shutil.copy2(approved, interrupted / 'approved.json')
+        with self.assertRaisesRegex(RuntimeError, 'без подтверждения'):
+            publish_batch.write_run_record(self.root, release, approved, scope='editorial')
+        self.assertTrue((interrupted / 'approved.json').exists())
+        self.assertFalse((interrupted / 'run_record.json').exists())
+
     def test_run_record_rejects_approved_drift_after_execute_started(self):
         approved_path = self.root / "pipeline/approved/release.json"
         approved_path.parent.mkdir(parents=True)
@@ -185,10 +285,11 @@ class ValidationTests(TempProject):
 
 
 class FakeClient:
-    def __init__(self, username="academy_of_beps"):
+    def __init__(self, username="academy_of_beps", history=None):
         self.username = username
         self.calls = []
         self.next_id = 500
+        self.history = history or []
 
     async def connect(self):
         self.calls.append("connect")
@@ -196,6 +297,10 @@ class FakeClient:
     async def get_me(self):
         self.calls.append("get_me")
         return SimpleNamespace(username=self.username)
+
+    async def iter_messages(self, chat_id, limit):
+        for message in self.history:
+            yield message
 
     async def send_file(self, chat_id, image, **kwargs):
         self.calls.append(("send_file", chat_id, image, kwargs))
@@ -207,6 +312,30 @@ class FakeClient:
 
 
 class EditorialDeliveryTests(TempProject):
+    def test_crash_after_send_before_receipt_recovers_without_resend(self):
+        release = self.release()
+        assets = publish_batch.prepare_assets(self.root, release)
+        session = self.tmp / "session.session"
+        session.write_bytes(b"fixture")
+        session.chmod(0o600)
+        recovered = SimpleNamespace(
+            id=800, message=release["items"][0]["caption"], out=True,
+            media=object(), date=datetime(2026, 7, 18, 9, 2,
+                                          tzinfo=timezone(timedelta(hours=3))),
+        )
+        fake = FakeClient(history=[recovered])
+        with mock.patch.object(publish_batch, "ensure_session_idle", return_value=None), \
+             mock.patch.object(publish_batch, "ensure_editorial_delivery_window", return_value=None), \
+             mock.patch.dict(os.environ, {"TELEGRAM_API_ID": "123", "TELEGRAM_API_HASH": "hash"}):
+            asyncio.run(publish_batch.execute_editorial(
+                self.root, release, assets, session_path=session,
+                env_path=self.tmp / "missing.env", client_factory=lambda *_: fake,
+            ))
+        receipts = publish_batch.load_deliveries(self.root, release["date"])
+        self.assertEqual(len(receipts), 10)
+        self.assertEqual(receipts[0]["post_id"], "800")
+        self.assertEqual(len([call for call in fake.calls if isinstance(call, tuple)]), 9)
+
     def test_sidecar_prevents_resend_and_catalog_is_repairable(self):
         release = self.release()
         assets = publish_batch.prepare_assets(self.root, release)
@@ -215,6 +344,7 @@ class EditorialDeliveryTests(TempProject):
         session.chmod(0o600)
         fake = FakeClient()
         with mock.patch.object(publish_batch, "ensure_session_idle", return_value=None), \
+             mock.patch.object(publish_batch, "ensure_editorial_delivery_window", return_value=None), \
              mock.patch.dict(os.environ, {"TELEGRAM_API_ID": "123", "TELEGRAM_API_HASH": "hash"}):
             sent = asyncio.run(publish_batch.execute_editorial(
                 self.root, release, assets, session_path=session,

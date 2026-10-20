@@ -1,0 +1,879 @@
+{
+  "date": "2026-10-15",
+  "release": "2026-10-15_1300_editorial",
+  "items": [
+    {
+      "title": "Россия и ЕАЭС: ЕЭК увеличила срок реимпорта запчастей для тяжёлых самосвалов",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/"
+        }
+      ],
+      "theme": "Реимпорт запасных частей без ввозных пошлин и налогов",
+      "jurisdictions": [
+        "Россия",
+        "ЕАЭС"
+      ],
+      "act": "ЕЭК: решение о десятилетнем реимпорте запчастей для самосвалов; сообщение 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/",
+        "source_quote": "13.10.2026 Таможенное сотрудничество"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "eaeu-dump-truck-reimport-20261013",
+        "cross_border_relevance": "Обратный ввоз экспортированных из России и других стран ЕАЭС комплектующих прямо затрагивает таможенные пошлины и импортные налоги.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-eaeu-dump-truck-reimport-20261013",
+      "caption": "Россия и ЕАЭС: ЕЭК увеличила срок реимпорта запчастей для тяжёлых самосвалов\n\n13 октября ЕЭК сообщила о принятом решении: для неиспользованных запчастей и оборудования, вывозимых вместе с произведёнными в ЕАЭС карьерными самосвалами массой свыше 40 тонн, срок возврата без ввозных пошлин и налогов увеличен до десяти лет.\n\nПочему это важно: Российским экспортёрам такой техники стоит проверить условия возврата комплектующих; сообщение о решении не устанавливает дату начала его применения.\n\nИсточник: https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/",
+          "checked_at": "2026-10-15T09:27:26.745520+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/",
+          "evidence": [
+            {
+              "claim": "13 октября ЕЭК сообщила о принятом решении: для неиспользованных запчастей и оборудования, вывозимых вместе с произведёнными в ЕАЭС карьерными самосвалами массой свыше 40 тонн, срок возврата без ввозных пошлин и налогов увеличен до десяти лет.",
+              "source_quote": "ЕЭК увеличила до 10 лет срок обратного ввоза запчастей для тяжелой техники ЕЭК увеличила до 10 лет срок обратного ввоза запчастей для тяжелой техники 13.10.2026 Таможенное сотрудничество Коллегия Евразийской экономической комиссии увеличила срок возврата неиспользованных запасных частей и оборудования для тяжелой техники, произведенной на территории стран Евразийского экономического союза, без уплаты таможенных платежей. Согласно действующим нормам товары, вывезенные с таможенной территории ЕАЭС в рамках экспорта, могут ввозиться обратно с заявлением таможенной процедуры реимпорта без уплаты ввозных таможенных пошлин, налогов. Для отдельных категорий товаров такой обратный ввоз допускается в сроки, превышающие общеустановленный Таможенным кодексом ЕАЭС трехлетний период. Такое регулирование предусмотрено Решением Коллегии от 11 декабря 2018 года № 203. В частности, для произведенных в ЕАЭС автомобилей-самосвалов, предназначенных для эксплуатации в условиях бездорожья и имеющих полную массу более 40 тонн, этот срок составляет 10 лет. На практике вместе с тяжелой техникой за пределы ЕАЭС вывозятся комплекты соответствующих запасных частей и оборудования, необходимые для ее ремонта и технического обслуживания. В случае возврата в одно из государств Союза неиспользованных компонентов, например, ввиду аннулирования контракта после истечения трех лет, сами автомобили-самосвалы сохраняют право на процедуру реимпорта, в то время как их запасные части и оборудование подлежат помещению под таможенную процедуру выпуска для внутреннего потребления с обязательной уплатой таможенных платежей. Это создает дополнительную финансовую и административную нагрузку на промышленные предприятия. Принятое решение Коллегии ЕЭК устанавливает для запасных частей и оборудования тот же десятилетний период для реимпорта, что и для самих автомобилей-самосвалов, при условии их возврата на таможенную территорию Союза до истечения указанного срока."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/",
+            "checked_at": "2026-10-15T09:27:26.745520+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/eek-uvelichila-do-10-let-srok-obratnogo-vvoza-zapchastey-dlya-tyazheloy-tekhniki/",
+            "evidence": [
+              {
+                "claim": "13 октября ЕЭК сообщила о принятом решении: для неиспользованных запчастей и оборудования, вывозимых вместе с произведёнными в ЕАЭС карьерными самосвалами массой свыше 40 тонн, срок возврата без ввозных пошлин и налогов увеличен до десяти лет.",
+                "source_quote": "ЕЭК увеличила до 10 лет срок обратного ввоза запчастей для тяжелой техники ЕЭК увеличила до 10 лет срок обратного ввоза запчастей для тяжелой техники 13.10.2026 Таможенное сотрудничество Коллегия Евразийской экономической комиссии увеличила срок возврата неиспользованных запасных частей и оборудования для тяжелой техники, произведенной на территории стран Евразийского экономического союза, без уплаты таможенных платежей. Согласно действующим нормам товары, вывезенные с таможенной территории ЕАЭС в рамках экспорта, могут ввозиться обратно с заявлением таможенной процедуры реимпорта без уплаты ввозных таможенных пошлин, налогов. Для отдельных категорий товаров такой обратный ввоз допускается в сроки, превышающие общеустановленный Таможенным кодексом ЕАЭС трехлетний период. Такое регулирование предусмотрено Решением Коллегии от 11 декабря 2018 года № 203. В частности, для произведенных в ЕАЭС автомобилей-самосвалов, предназначенных для эксплуатации в условиях бездорожья и имеющих полную массу более 40 тонн, этот срок составляет 10 лет. На практике вместе с тяжелой техникой за пределы ЕАЭС вывозятся комплекты соответствующих запасных частей и оборудования, необходимые для ее ремонта и технического обслуживания. В случае возврата в одно из государств Союза неиспользованных компонентов, например, ввиду аннулирования контракта после истечения трех лет, сами автомобили-самосвалы сохраняют право на процедуру реимпорта, в то время как их запасные части и оборудование подлежат помещению под таможенную процедуру выпуска для внутреннего потребления с обязательной уплатой таможенных платежей. Это создает дополнительную финансовую и административную нагрузку на промышленные предприятия. Принятое решение Коллегии ЕЭК устанавливает для запасных частей и оборудования тот же десятилетний период для реимпорта, что и для самих автомобилей-самосвалов, при условии их возврата на таможенную территорию Союза до истечения указанного срока."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-eaeu-dump-truck-reimport-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: таможни тюркских государств согласовали подготовку обмена данными",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru"
+        },
+        {
+          "label": "Официальный журнал дат публикаций",
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru"
+        }
+      ],
+      "theme": "Международный обмен таможенными данными и упрощённый коридор",
+      "jurisdictions": [
+        "Казахстан",
+        "Турция",
+        "Узбекистан",
+        "Кыргызстан",
+        "Азербайджан"
+      ],
+      "act": "Протокол 12-го заседания руководителей таможенных администраций ОТГ, 12.10.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+        "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "kz-otg-customs-20261012",
+        "cross_border_relevance": "Планируемый межгосударственный обмен касается таможенного оформления международных грузов и контроля перевозок через границы.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-kz-otg-customs-20261012",
+      "caption": "Казахстан: таможни тюркских государств согласовали подготовку обмена данными\n\nКГД опубликовал сообщение 14 октября 2026 года. На заседании 12 октября в Бишкеке таможенные службы договорились о цифровом обмене данными. Технические условия упрощённого таможенного коридора планируют реализовать до 1 марта 2027 года, после чего перейти к пилотному обмену.\n\nПочему это важно: Перевозчикам стоит следить за запуском пилота. Договорённости пока не означают введения нового порядка декларирования.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru\nИсточник: https://www.gov.kz/org/kgd/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+          "checked_at": "2026-10-15T09:27:26.747472+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+          "evidence": [
+            {
+              "claim": "На заседании 12 октября в Бишкеке таможенные службы договорились о цифровом обмене данными. Технические условия упрощённого таможенного коридора планируют реализовать до 1 марта 2027 года, после чего перейти к пилотному обмену.",
+              "source_quote": "12 октября в Бишкеке состоялось 12-е заседание руководителей таможенных администраций государств - членов Организации тюркских государств (ОТГ). Делегацию Комитета государственных доходов Министерства финансов Республики Казахстан возглавил Председатель Комитета Жандос Дуйсембиев. В заседании под председательством главы Государственной таможенной службы Кыргызской Республики Улана Кимсанова приняли участие руководители таможенных служб Азербайджана, Казахстана, Турции и Узбекистана, Генеральный секретарь ОТГ Кубанычбек Омуралиев и Генеральный секретарь Всемирной таможенной организации Иан Сондерс. Также в работе участвовали представители Государственной таможенной службы Туркменистана и Международного союза автомобильного транспорта (IRU). Одним из ключевых итогов встречи стали конкретные договорённости по цифровому обмену данными, упрощению таможенных процедур и развитию транзитных маршрутов. До 1 марта 2027 года таможенные службы планируют завершить реализацию Технических условий информационного обмена в рамках Соглашения о создании упрощенного таможенного коридора. Это позволит перейти к пилотному электронному обмену данными между таможенными службами стран ОТГ. Его официальный запуск планируется провести на следующем заседании в Турции. Для бизнеса и международных перевозчиков такой обмен означает возможность более оперативного прохождения таможенных процедур и сокращения времени доставки грузов между странами."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "checked_at": "2026-10-15T09:27:38.207404+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "КГД опубликовал сообщение 14 октября 2026 года.",
+              "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+            "checked_at": "2026-10-15T09:27:26.747472+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+            "evidence": [
+              {
+                "claim": "На заседании 12 октября в Бишкеке таможенные службы договорились о цифровом обмене данными. Технические условия упрощённого таможенного коридора планируют реализовать до 1 марта 2027 года, после чего перейти к пилотному обмену.",
+                "source_quote": "12 октября в Бишкеке состоялось 12-е заседание руководителей таможенных администраций государств - членов Организации тюркских государств (ОТГ). Делегацию Комитета государственных доходов Министерства финансов Республики Казахстан возглавил Председатель Комитета Жандос Дуйсембиев. В заседании под председательством главы Государственной таможенной службы Кыргызской Республики Улана Кимсанова приняли участие руководители таможенных служб Азербайджана, Казахстана, Турции и Узбекистана, Генеральный секретарь ОТГ Кубанычбек Омуралиев и Генеральный секретарь Всемирной таможенной организации Иан Сондерс. Также в работе участвовали представители Государственной таможенной службы Туркменистана и Международного союза автомобильного транспорта (IRU). Одним из ключевых итогов встречи стали конкретные договорённости по цифровому обмену данными, упрощению таможенных процедур и развитию транзитных маршрутов. До 1 марта 2027 года таможенные службы планируют завершить реализацию Технических условий информационного обмена в рамках Соглашения о создании упрощенного таможенного коридора. Это позволит перейти к пилотному электронному обмену данными между таможенными службами стран ОТГ. Его официальный запуск планируется провести на следующем заседании в Турции. Для бизнеса и международных перевозчиков такой обмен означает возможность более оперативного прохождения таможенных процедур и сокращения времени доставки грузов между странами."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "checked_at": "2026-10-15T09:27:38.207404+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "КГД опубликовал сообщение 14 октября 2026 года.",
+                "source_quote": "14 октября 2026 Таможенные службы тюркских государств договорились о новых шагах по цифровизации и ускорению перевозок"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-kz-otg-customs-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: КГД разъяснил проверку обеспечения таможенных платежей в «Кеден»",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru"
+        },
+        {
+          "label": "Официальный журнал дат публикаций",
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru"
+        }
+      ],
+      "theme": "Электронное обеспечение уплаты таможенных пошлин и налогов",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Разъяснение КГД о регистрации обеспечения ТПиН в ЦС Кеден, 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+        "source_quote": "13 октября 2026 Обеспечение исполнения обязанности по уплате таможенных платежей и налогов"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "kz-keden-guarantees-20261013",
+        "cross_border_relevance": "Обеспечение требуется при международном перемещении товаров и непосредственно связано с исполнением обязанности по уплате таможенных пошлин и налогов.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-kz-keden-guarantees-20261013",
+      "caption": "Казахстан: КГД разъяснил проверку обеспечения таможенных платежей в «Кеден»\n\nРазъяснение опубликовано 13 октября 2026 года. КГД пояснил: в системе «Кеден» сведения о страховании, банковских гарантиях и обременениях залога проверяются через интеграции информационных систем, без дополнительного запроса соответствующих документов у участников ВЭД.\n\nПочему это важно: Импортёрам стоит проверить сведения о выбранном обеспечении. Это разъяснение работы системы, а не запуск нового модуля: он действует с ноября 2024 года.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru\nИсточник: https://www.gov.kz/org/kgd/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru",
+          "checked_at": "2026-10-15T09:27:26.748505+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru",
+          "evidence": [
+            {
+              "claim": "КГД пояснил: в системе «Кеден» сведения о страховании, банковских гарантиях и обременениях залога проверяются через интеграции информационных систем, без дополнительного запроса соответствующих документов у участников ВЭД.",
+              "source_quote": "С ноября 2024 года в цифровой системе «Кеден» функционирует модуль «Регистрация обеспечения исполнения обязанности по ТПиН», предусматривающий подачу заявления на регистрацию обеспечения исполнения обязанности по уплате таможенных пошлин и налогов (далее-обеспечение) при помещении товаров под таможенные процедуры, для юридических лиц в рамках реестровой деятельности. В рамках единого информационного пространства обеспечивается полный цикл оказания государственной услуги - от подачи заявления и проведения необходимых проверок до регистрации обеспечения и его дальнейшего использования при осуществлении таможенных операций. В целях автоматизации проверки представляемых сведений в ЦС «Кеден» реализованы интеграции информационными системами. В частности, обеспечивается получение сведений о договорах страхования и банковских гарантиях, а также проведение проверки наличия обременения по договорам залога. Это позволяет осуществлять необходимые проверки непосредственно в информационной системе без дополнительного запроса и представления соответствующих документов УВЭД. В системе предусматривается отображение статусов заявления и обеспечения на этапах принятия, регистрации, а также при использовании обеспечения в рамках соответствующих таможенных процедур и случаев."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "checked_at": "2026-10-15T09:27:38.124939+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение опубликовано 13 октября 2026 года.",
+              "source_quote": "13 октября 2026 Обеспечение исполнения обязанности по уплате таможенных платежей и налогов"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru",
+            "checked_at": "2026-10-15T09:27:26.748505+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310002?lang=ru",
+            "evidence": [
+              {
+                "claim": "КГД пояснил: в системе «Кеден» сведения о страховании, банковских гарантиях и обременениях залога проверяются через интеграции информационных систем, без дополнительного запроса соответствующих документов у участников ВЭД.",
+                "source_quote": "С ноября 2024 года в цифровой системе «Кеден» функционирует модуль «Регистрация обеспечения исполнения обязанности по ТПиН», предусматривающий подачу заявления на регистрацию обеспечения исполнения обязанности по уплате таможенных пошлин и налогов (далее-обеспечение) при помещении товаров под таможенные процедуры, для юридических лиц в рамках реестровой деятельности. В рамках единого информационного пространства обеспечивается полный цикл оказания государственной услуги - от подачи заявления и проведения необходимых проверок до регистрации обеспечения и его дальнейшего использования при осуществлении таможенных операций. В целях автоматизации проверки представляемых сведений в ЦС «Кеден» реализованы интеграции информационными системами. В частности, обеспечивается получение сведений о договорах страхования и банковских гарантиях, а также проведение проверки наличия обременения по договорам залога. Это позволяет осуществлять необходимые проверки непосредственно в информационной системе без дополнительного запроса и представления соответствующих документов УВЭД. В системе предусматривается отображение статусов заявления и обеспечения на этапах принятия, регистрации, а также при использовании обеспечения в рамках соответствующих таможенных процедур и случаев."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "checked_at": "2026-10-15T09:27:38.124939+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение опубликовано 13 октября 2026 года.",
+                "source_quote": "13 октября 2026 Обеспечение исполнения обязанности по уплате таможенных платежей и налогов"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-kz-keden-guarantees-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: таможня фиксирует переход от интернет-посылок к крупным партиям",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/"
+        }
+      ],
+      "theme": "Ввоз интернет-товаров и изменение структуры таможенного декларирования",
+      "jurisdictions": [
+        "Нидерланды",
+        "ЕС",
+        "Китай"
+      ],
+      "act": "Сообщение Douane о декларациях e-commerce, 13.10.2026",
+      "source_published_at": "2026-10-13",
+      "publication_date_evidence": {
+        "url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+        "source_quote": "Publicatiedatum 13-10-2026, 13:00"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "nl-ecommerce-declarations-20261013",
+        "cross_border_relevance": "Статистика относится к импорту интернет-товаров из третьих стран и выбору таможенного режима для трансграничных поставок.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-nl-ecommerce-declarations-20261013",
+      "caption": "Нидерланды: таможня фиксирует переход от интернет-посылок к крупным партиям\n\n13 октября таможня сообщила: в августе и сентябре число строк деклараций электронной торговли снизилось примерно на 70% к тем же месяцам 2025 года, а в обычной системе декларирования выросло на 43%.\n\nПочему это важно: Импортёрам интернет-товаров стоит пересчитать модель поставок с учётом оформления крупных партий. Эти данные показывают изменение торговли, а не новую налоговую обязанность.\n\nИсточник: https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+          "checked_at": "2026-10-15T09:27:26.749856+00:00",
+          "status_code": 200,
+          "final_url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+          "evidence": [
+            {
+              "claim": "13 октября таможня сообщила: в августе и сентябре число строк деклараций электронной торговли снизилось примерно на 70% к тем же месяцам 2025 года, а в обычной системе декларирования выросло на 43%.",
+              "source_quote": "Publicatiedatum 13-10-2026, 13:00 | Laatste update 13-10-2026, 13:40 | Nieuwsbericht Drie maanden na het afschaffen van de vrijstelling van invoerrechten ziet de Douane nog steeds een flinke daling van het aantal e-commerceaangiften en een stijging van reguliere zendingen. Dit betekent waarschijnlijk dat bedrijven meer gebundeld hun spullen invoeren. 70% minder aangifteregels Uit de laatste douanecijfers over e-commerce blijkt dat in augustus en september de daling van het aantal aangifteregels van e-commercegoederen doorzette. Ten opzichte van dezelfde periode in 2025 daalde het aantal aangifteregels met ongeveer 70 procent. Daartegenover staat een stijging van 43 procent van het aantal aangifteregels binnen het reguliere aangiftesysteem (DMS). Voor reguliere (bulk)zendingen gelden de normale douaneregels voor onder andere invoerrechten en btw en is geen aanvullende handling fee verschuldigd."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+            "checked_at": "2026-10-15T09:27:26.749856+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.douane.nl/aantal-e-commerceaangiften-blijft-dalen/",
+            "evidence": [
+              {
+                "claim": "13 октября таможня сообщила: в августе и сентябре число строк деклараций электронной торговли снизилось примерно на 70% к тем же месяцам 2025 года, а в обычной системе декларирования выросло на 43%.",
+                "source_quote": "Publicatiedatum 13-10-2026, 13:00 | Laatste update 13-10-2026, 13:40 | Nieuwsbericht Drie maanden na het afschaffen van de vrijstelling van invoerrechten ziet de Douane nog steeds een flinke daling van het aantal e-commerceaangiften en een stijging van reguliere zendingen. Dit betekent waarschijnlijk dat bedrijven meer gebundeld hun spullen invoeren. 70% minder aangifteregels Uit de laatste douanecijfers over e-commerce blijkt dat in augustus en september de daling van het aantal aangifteregels van e-commercegoederen doorzette. Ten opzichte van dezelfde periode in 2025 daalde het aantal aangifteregels met ongeveer 70 procent. Daartegenover staat een stijging van 43 procent van het aantal aangifteregels binnen het reguliere aangiftesysteem (DMS). Voor reguliere (bulk)zendingen gelden de normale douaneregels voor onder andere invoerrechten en btw en is geen aanvullende handling fee verschuldigd."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-nl-ecommerce-declarations-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Сингапур: IRAS уточнило подтверждение нулевой ставки при местной передаче экспортных товаров",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address"
+        },
+        {
+          "label": "Официальный журнал дат публикаций",
+          "url": "https://www.iras.gov.sg/latest-updates"
+        }
+      ],
+      "theme": "Подтверждение экспорта и нулевая ставка GST",
+      "jurisdictions": [
+        "Сингапур"
+      ],
+      "act": "IRAS: обновление руководства о местной доставке зарубежному покупателю, 14.10.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.iras.gov.sg/latest-updates",
+        "source_quote": "Supplying to Overseas customers with Local Delivery Address Pages 14 Oct 2026 Amendments Amendments Page has been enhanced for readability, with a new section on required export documents introduced"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "sg-export-evidence-20261014",
+        "cross_border_relevance": "Руководство прямо регулирует экспортные поставки иностранным покупателям через местный адрес доставки и документы для нулевой ставки косвенного налога.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-sg-export-evidence-20261014",
+      "caption": "Сингапур: IRAS уточнило подтверждение нулевой ставки при местной передаче экспортных товаров\n\n14 октября 2026 года IRAS обновило разъяснение. Для нулевой ставки GST при передаче товаров своему экспедитору перед экспортом IRAS требует иметь предусмотренные экспортные документы не позднее 60 дней с момента поставки.\n\nПочему это важно: При продажах иностранному покупателю одной оплаты из-за рубежа недостаточно: поставщику нужно подтвердить вывоз. GST — сингапурский налог на товары и услуги.\n\nИсточник: https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address\nИсточник: https://www.iras.gov.sg/latest-updates\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address",
+          "checked_at": "2026-10-15T09:27:26.750918+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address",
+          "evidence": [
+            {
+              "claim": "Для нулевой ставки GST при передаче товаров своему экспедитору перед экспортом IRAS требует иметь предусмотренные экспортные документы не позднее 60 дней с момента поставки.",
+              "source_quote": "Supplying to overseas customers with local delivery address Share: On this page: GST chargeable on goods delivered locally When can you apply 0% GST Required export documents Common scenarios Common error on output tax Related Content GST chargeable on goods delivered locally GST-registered businesses must charge GST on goods delivered locally. If you deliver goods in Singapore to your overseas customer’s local customer, you must charge GST as the goods are not exported. When can you apply 0% GST You can zero-rate your supply only if all of the following conditions are met at the time of supply : You are certain the goods will be or have been exported; You maintain the required export documents to support zero-rating within 60 days from the time of supply ; and You have custody of the goods and control over the export arrangement. If you do not meet all the above conditions, you must charge GST as the supply is treated as a local supply, unless the Comptroller specifically allows zero-rating. For specific circumstances where zero-rating may still be allowed, please refer to \"Indirect Export\" in GST: A Guide on Export (PDF, 796KB). Required export documents To support zero-rating, you must maintain the required export documents for your scenario. Refer to: GST: A Guide on Exports (PDF, 796KB) for most export situations GST: Guide on Hand-Carried Exports Scheme (PDF, 352KB) for hand-carried exports via Changi Airport If you do not maintain the required documents, you must charge GST. Common scenarios Scenario GST treatment Reason You deliver the goods to your local customer who will export them later Charge your local customer GST at 9%. Even though you might be able to obtain the required export documents subsequently, at the time of supply, you cannot be certain that the goods will be exported. You therefore cannot zero-rate the supply of goods to your customer. You deliver the goods to a local freight forwarder appointed by your overseas customer Charge your overseas customer GST at 9%. You can charge 0% GST if at the time of supply: You are certain the goods will be exported; and if you maintained all the export documents as required for your relevant scenario in GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. You do not have custody of the goods nor control over the export arrangement once the goods are with the freight forwarder. However, if you maintain the relevant supporting documents and are certain the goods will be exported, then you can charge 0% GST. You deliver the goods to your freight forwarder before exporting the goods overseas to your customer Charge your overseas customer GST at 0% if you maintained all the export documents as required for your relevant scenario in GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. You are certain that the goods will be or have been exported. You also retain custody of the goods, control the export arrangements, and maintain the relevant supporting documents. You deliver the goods to a local employee of your overseas customer, who will hand-carry them out of Singapore via Changi Airport Charge your overseas customer GST at 0% only if you maintained all the export documents as required for your relevant scenario in: GST: Guide on Hand-Carried Exports Scheme (PDF, 352KB); or GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. Zero-rating is allowed regardless of whether the goods are hand-carried out of Singapore by your overseas customer, yourself, or any person appointed by either party, provided that you maintain the required export evidence. If you are unsure whether the goods will be or have been exported, or cannot substantiate this with export evidence, you must charge GST to your customers, whether they are local or overseas. Common error on output tax Find out if you can zero-rate the sale of goods to your overseas customers by watching the video below. You may also view other videos on \"Common GST Errors on Output Tax\". Related content Pages Exporting of Goods Documents GST: Guide on Exports (PDF, 936KB) Documents GST: Guide on Hand-Carried Exports Scheme (PDF, 480KB) Inland Revenue Authority of Singapore Careers News & Events Useful links SUBSCRIBE TO OUR eALERTS Contact Us Feedback IRAS Facebook IRAS Instagram IRAS TikTok IRAS Twitter IRAS LinkedIn IRAS Youtube Add Telegram Icon to IRAS Website IRAS Whatsapp Sitemap Report Vulnerability Privacy Statement Terms of Use & Browser Compatibility © 2026, Government of Singapore Last updated 14 October 2026"
+            }
+          ]
+        },
+        {
+          "url": "https://www.iras.gov.sg/latest-updates",
+          "checked_at": "2026-10-15T09:27:38.053753+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/latest-updates",
+          "evidence": [
+            {
+              "claim": "14 октября 2026 года IRAS обновило разъяснение.",
+              "source_quote": "Supplying to Overseas customers with Local Delivery Address Pages 14 Oct 2026 Amendments Amendments Page has been enhanced for readability, with a new section on required export documents introduced"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address",
+            "checked_at": "2026-10-15T09:27:26.750918+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/common-scenarios---do-i-charge-gst/supplying-to-overseas-customers-with-local-delivery-address",
+            "evidence": [
+              {
+                "claim": "Для нулевой ставки GST при передаче товаров своему экспедитору перед экспортом IRAS требует иметь предусмотренные экспортные документы не позднее 60 дней с момента поставки.",
+                "source_quote": "Supplying to overseas customers with local delivery address Share: On this page: GST chargeable on goods delivered locally When can you apply 0% GST Required export documents Common scenarios Common error on output tax Related Content GST chargeable on goods delivered locally GST-registered businesses must charge GST on goods delivered locally. If you deliver goods in Singapore to your overseas customer’s local customer, you must charge GST as the goods are not exported. When can you apply 0% GST You can zero-rate your supply only if all of the following conditions are met at the time of supply : You are certain the goods will be or have been exported; You maintain the required export documents to support zero-rating within 60 days from the time of supply ; and You have custody of the goods and control over the export arrangement. If you do not meet all the above conditions, you must charge GST as the supply is treated as a local supply, unless the Comptroller specifically allows zero-rating. For specific circumstances where zero-rating may still be allowed, please refer to \"Indirect Export\" in GST: A Guide on Export (PDF, 796KB). Required export documents To support zero-rating, you must maintain the required export documents for your scenario. Refer to: GST: A Guide on Exports (PDF, 796KB) for most export situations GST: Guide on Hand-Carried Exports Scheme (PDF, 352KB) for hand-carried exports via Changi Airport If you do not maintain the required documents, you must charge GST. Common scenarios Scenario GST treatment Reason You deliver the goods to your local customer who will export them later Charge your local customer GST at 9%. Even though you might be able to obtain the required export documents subsequently, at the time of supply, you cannot be certain that the goods will be exported. You therefore cannot zero-rate the supply of goods to your customer. You deliver the goods to a local freight forwarder appointed by your overseas customer Charge your overseas customer GST at 9%. You can charge 0% GST if at the time of supply: You are certain the goods will be exported; and if you maintained all the export documents as required for your relevant scenario in GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. You do not have custody of the goods nor control over the export arrangement once the goods are with the freight forwarder. However, if you maintain the relevant supporting documents and are certain the goods will be exported, then you can charge 0% GST. You deliver the goods to your freight forwarder before exporting the goods overseas to your customer Charge your overseas customer GST at 0% if you maintained all the export documents as required for your relevant scenario in GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. You are certain that the goods will be or have been exported. You also retain custody of the goods, control the export arrangements, and maintain the relevant supporting documents. You deliver the goods to a local employee of your overseas customer, who will hand-carry them out of Singapore via Changi Airport Charge your overseas customer GST at 0% only if you maintained all the export documents as required for your relevant scenario in: GST: Guide on Hand-Carried Exports Scheme (PDF, 352KB); or GST: A Guide on Exports (PDF, 796KB) within 60 days from the time of supply. Zero-rating is allowed regardless of whether the goods are hand-carried out of Singapore by your overseas customer, yourself, or any person appointed by either party, provided that you maintain the required export evidence. If you are unsure whether the goods will be or have been exported, or cannot substantiate this with export evidence, you must charge GST to your customers, whether they are local or overseas. Common error on output tax Find out if you can zero-rate the sale of goods to your overseas customers by watching the video below. You may also view other videos on \"Common GST Errors on Output Tax\". Related content Pages Exporting of Goods Documents GST: Guide on Exports (PDF, 936KB) Documents GST: Guide on Hand-Carried Exports Scheme (PDF, 480KB) Inland Revenue Authority of Singapore Careers News & Events Useful links SUBSCRIBE TO OUR eALERTS Contact Us Feedback IRAS Facebook IRAS Instagram IRAS TikTok IRAS Twitter IRAS LinkedIn IRAS Youtube Add Telegram Icon to IRAS Website IRAS Whatsapp Sitemap Report Vulnerability Privacy Statement Terms of Use & Browser Compatibility © 2026, Government of Singapore Last updated 14 October 2026"
+              }
+            ]
+          },
+          {
+            "url": "https://www.iras.gov.sg/latest-updates",
+            "checked_at": "2026-10-15T09:27:38.053753+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/latest-updates",
+            "evidence": [
+              {
+                "claim": "14 октября 2026 года IRAS обновило разъяснение.",
+                "source_quote": "Supplying to Overseas customers with Local Delivery Address Pages 14 Oct 2026 Amendments Amendments Page has been enhanced for readability, with a new section on required export documents introduced"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-sg-export-evidence-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Великобритания: опубликованы позиции сторон в споре Синтра о бремени доказывания",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.supremecourt.uk/cases/uksc-2026-0011"
+        }
+      ],
+      "theme": "Бремя доказывания при штрафах за НДС в трансграничной торговле",
+      "jurisdictions": [
+        "Великобритания",
+        "Панама",
+        "ЕС"
+      ],
+      "act": "UKSC/2026/0011 Sintra Global Inc; письменные позиции от 14.10.2026",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.supremecourt.uk/cases/uksc-2026-0011",
+        "source_quote": "Written arguments PDF Appellant’s written case Sintra Global, Inc and another (Appellant) PDF | 481.35 KB 14 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "uk-sintra-submissions-20261014",
+        "cross_border_relevance": "Спор связан с трансграничной торговлей алкоголем между Великобританией и ЕС и доказыванием задолженности по НДС и ответственности за её неуплату.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "court_case",
+      "slug": "2026-10-15_1300_-uk-sintra-submissions-20261014",
+      "caption": "Великобритания: опубликованы позиции сторон в споре Синтра о бремени доказывания\n\nВ карточке дела UKSC/2026/0011 письменные позиции сторон и изложение фактов датированы 14 октября. Спор касается того, кто доказывает наличие основного долга по НДС при обжаловании штрафа. Решение Верховного суда ещё не вынесено.\n\nПочему это важно: Участникам трансграничной торговли алкоголем стоит следить за спором: распределение бремени доказывания влияет на подготовку доказательств. Обзор не является налоговой консультацией.\n\nИсточник: https://www.supremecourt.uk/cases/uksc-2026-0011\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.supremecourt.uk/cases/uksc-2026-0011",
+          "checked_at": "2026-10-15T09:27:26.860821+00:00",
+          "status_code": 200,
+          "final_url": "https://www.supremecourt.uk/cases/uksc-2026-0011",
+          "evidence": [
+            {
+              "claim": "В карточке дела UKSC/2026/0011 письменные позиции сторон и изложение фактов датированы 14 октября. Спор касается того, кто доказывает наличие основного долга по НДС при обжаловании штрафа. Решение Верховного суда ещё не вынесено.",
+              "source_quote": "Commissioners for His Majesty's Revenue and Customs (Respondent) v Sintra Global Inc and another (Appellants) - UK Supreme Court Visit JCPC Cases Portal About the Court The Justices How to Appeal Visit us Education News Shop Cases Portal About the Court The Justices How to Appeal Visit us Education News Shop Toggle dark mode Home Cases UKSC/2026/0011 • TAX Commissioners for His Majesty's Revenue and Customs (Respondent) v Sintra Global Inc and another (Appellants) Hearing listed Contents Case summary Appeal Permission to Appeal Previous proceedings Change log Case summary Case ID UKSC/2026/0011 Parties Appellant(s) Sintra Global Inc & Parul Keshavlal Malde Respondent(s) The Commissioners for His Majesty's Revenue and Customs Issue When a taxpayer appeals against an HMRC penalty on the basis that the underlying tax claimed is not owed, does the burden rest on the taxpayer to prove that he or she is not liable to pay the underlying tax? Facts The First Appellant, Sintra Global Inc (‘Sintra Global’), is a Panamanian company which conducted a substantial cross-border trade in alcohol between the UK and the European Union. The Second Appellant, Mr Parul Malde, is Sintra’s principal. HMRC allege that Sintra Global systematically evaded paying VAT and UK excise duties on alcohol, by mislabelling consignments of alcoholic drinks as for consumption in mainland European countries with lower alcohol duties and then smuggling them to the UK. It is HMRC’s case that between 2004 and 2015 companies controlled by Mr Malde avoided in excess of £50 million of VAT and excise duty. Mr Malde’s companies never registered for VAT and his case is that they never sold any alcoholic beverages for consumption in the UK. HMRC’s ‘best of judgment’ assessment is that between April 2012 and June 2015 Sintra Global failed to pay £8.9 million of VAT. HMRC imposed a registration penalty of £8.9 million in respect of Sintra Global’s non-registration for and payment of VAT. HMRC imposed a personal liability notice making Mr Malde Liable for Sintra Global’s registration penalty. It also separately imposed a director’s liability notice making him personally liable for a £11,162,180 civil evasion penalty imposed on a Belizean company, Sintra SA. Prior to 2012, Mr Malde conducted his cross-border alcohol trading business through Sintra SA. Sintra Global appealed against the registration penalty. Mr Malde appealed against the personal liability notice and the director’s liability notice. Importantly for the course of the litigation, neither company appealed against the underlying VAT assessments. However, the basis of Mr Malde and Sintra Global’s appeal against the penalties was that the two companies were not in fact liable to pay any VAT. The First Tier Tribunal (‘FTT’) upheld Sintra Global and Mr Malde’s appeals. In doing so, the FTT held that HMRC bore the burden of proving that the companies owed the underlying VAT. HMRC appealed to the Upper Tribunal (‘UT’). The UT agreed with the FTT that HMRC bore the burden of proving that the underlying tax was owed. However, HMRC’s appeal succeeded on other grounds. HMRC appealed again to the Court of Appeal and succeeded before the Court of Appeal. The Court of Appeal held that, contrary to the FTT and UT’s conclusions, the legal burden of proof lay with Mr Malde and Sintra Global. Mr Malde and Sintra Global now seek permission to appeal to the Supreme Court. Date of issue 19 January 2026 Case origin PTA Written arguments PDF Appellant’s written case Sintra Global, Inc and another (Appellant) PDF | 481.35 KB 14 October 2026 PDF Respondent’s written case The Commissioners for His Majesty's Revenue and Customs (Respondent) PDF | 478.40 KB 14 October 2026 Statements of Facts and Issues PDF Statement of Facts and Issues Joint (Appellant) PDF | 424.55 KB 14 October 2026 Appeal Hearing dates and panels are subject to change Justices Lord Sales Lord Briggs Lord Burrows Lady Rose Lord Snowden Hearing dates Full hearing Start date 2 November 2026 End date 3 November 2026 Permission to Appeal Justices Lord Sales Lord Burrows Lady Rose Permission to Appeal decision date 30 March 2026 Permission to Appeal decision Granted Previous proceedings Change log Last updated 1 April 2026 Back to top Sign up for updates about this case Sign up to receive email alerts when this case is updated. Sign up I agree to the Court processing my information in line with its privacy policy. Website Information Cookie Policy Privacy Policy Accessibility Terms and Conditions Social Media Policy Sitemap Working for Us Job Listings JA Recruitment Appointment of Justices Diversity and Inclusion Contact Us Contact Us Case Management Portal General Enquiry Complaints Book a Room during a Hearing Hold your Event at the UKSC Information Requests Press Office Press Office Cymraeg Welsh language link Toggle dark mode Go to the JCPC website © 2026 UK Supreme Court. All rights reserved."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.supremecourt.uk/cases/uksc-2026-0011",
+            "checked_at": "2026-10-15T09:27:26.860821+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.supremecourt.uk/cases/uksc-2026-0011",
+            "evidence": [
+              {
+                "claim": "В карточке дела UKSC/2026/0011 письменные позиции сторон и изложение фактов датированы 14 октября. Спор касается того, кто доказывает наличие основного долга по НДС при обжаловании штрафа. Решение Верховного суда ещё не вынесено.",
+                "source_quote": "Commissioners for His Majesty's Revenue and Customs (Respondent) v Sintra Global Inc and another (Appellants) - UK Supreme Court Visit JCPC Cases Portal About the Court The Justices How to Appeal Visit us Education News Shop Cases Portal About the Court The Justices How to Appeal Visit us Education News Shop Toggle dark mode Home Cases UKSC/2026/0011 • TAX Commissioners for His Majesty's Revenue and Customs (Respondent) v Sintra Global Inc and another (Appellants) Hearing listed Contents Case summary Appeal Permission to Appeal Previous proceedings Change log Case summary Case ID UKSC/2026/0011 Parties Appellant(s) Sintra Global Inc & Parul Keshavlal Malde Respondent(s) The Commissioners for His Majesty's Revenue and Customs Issue When a taxpayer appeals against an HMRC penalty on the basis that the underlying tax claimed is not owed, does the burden rest on the taxpayer to prove that he or she is not liable to pay the underlying tax? Facts The First Appellant, Sintra Global Inc (‘Sintra Global’), is a Panamanian company which conducted a substantial cross-border trade in alcohol between the UK and the European Union. The Second Appellant, Mr Parul Malde, is Sintra’s principal. HMRC allege that Sintra Global systematically evaded paying VAT and UK excise duties on alcohol, by mislabelling consignments of alcoholic drinks as for consumption in mainland European countries with lower alcohol duties and then smuggling them to the UK. It is HMRC’s case that between 2004 and 2015 companies controlled by Mr Malde avoided in excess of £50 million of VAT and excise duty. Mr Malde’s companies never registered for VAT and his case is that they never sold any alcoholic beverages for consumption in the UK. HMRC’s ‘best of judgment’ assessment is that between April 2012 and June 2015 Sintra Global failed to pay £8.9 million of VAT. HMRC imposed a registration penalty of £8.9 million in respect of Sintra Global’s non-registration for and payment of VAT. HMRC imposed a personal liability notice making Mr Malde Liable for Sintra Global’s registration penalty. It also separately imposed a director’s liability notice making him personally liable for a £11,162,180 civil evasion penalty imposed on a Belizean company, Sintra SA. Prior to 2012, Mr Malde conducted his cross-border alcohol trading business through Sintra SA. Sintra Global appealed against the registration penalty. Mr Malde appealed against the personal liability notice and the director’s liability notice. Importantly for the course of the litigation, neither company appealed against the underlying VAT assessments. However, the basis of Mr Malde and Sintra Global’s appeal against the penalties was that the two companies were not in fact liable to pay any VAT. The First Tier Tribunal (‘FTT’) upheld Sintra Global and Mr Malde’s appeals. In doing so, the FTT held that HMRC bore the burden of proving that the companies owed the underlying VAT. HMRC appealed to the Upper Tribunal (‘UT’). The UT agreed with the FTT that HMRC bore the burden of proving that the underlying tax was owed. However, HMRC’s appeal succeeded on other grounds. HMRC appealed again to the Court of Appeal and succeeded before the Court of Appeal. The Court of Appeal held that, contrary to the FTT and UT’s conclusions, the legal burden of proof lay with Mr Malde and Sintra Global. Mr Malde and Sintra Global now seek permission to appeal to the Supreme Court. Date of issue 19 January 2026 Case origin PTA Written arguments PDF Appellant’s written case Sintra Global, Inc and another (Appellant) PDF | 481.35 KB 14 October 2026 PDF Respondent’s written case The Commissioners for His Majesty's Revenue and Customs (Respondent) PDF | 478.40 KB 14 October 2026 Statements of Facts and Issues PDF Statement of Facts and Issues Joint (Appellant) PDF | 424.55 KB 14 October 2026 Appeal Hearing dates and panels are subject to change Justices Lord Sales Lord Briggs Lord Burrows Lady Rose Lord Snowden Hearing dates Full hearing Start date 2 November 2026 End date 3 November 2026 Permission to Appeal Justices Lord Sales Lord Burrows Lady Rose Permission to Appeal decision date 30 March 2026 Permission to Appeal decision Granted Previous proceedings Change log Last updated 1 April 2026 Back to top Sign up for updates about this case Sign up to receive email alerts when this case is updated. Sign up I agree to the Court processing my information in line with its privacy policy. Website Information Cookie Policy Privacy Policy Accessibility Terms and Conditions Social Media Policy Sitemap Working for Us Job Listings JA Recruitment Appointment of Justices Diversity and Inclusion Contact Us Contact Us Case Management Portal General Enquiry Complaints Book a Room during a Hearing Hold your Event at the UKSC Information Requests Press Office Press Office Cymraeg Welsh language link Toggle dark mode Go to the JCPC website © 2026 UK Supreme Court. All rights reserved."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-uk-sintra-submissions-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Япония: опубликованы окончательные результаты пересмотра пошлин на горячекатаную сталь",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative"
+        }
+      ],
+      "theme": "Окончательный пересмотр антидемпинговых пошлин на сталь",
+      "jurisdictions": [
+        "США",
+        "Япония"
+      ],
+      "act": "A-588-869; FR 2026-20934; окончательные результаты 2023–2024",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+        "source_quote": "Publication Date 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "us-japan-hotrolled-20261014",
+        "cross_border_relevance": "Производство определяет антидемпинговые или компенсационные платежи при импорте конкретного товара из указанной страны в США; прямо влияет на стоимость трансграничных поставок.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-us-japan-hotrolled-20261014",
+      "caption": "США и Япония: опубликованы окончательные результаты пересмотра пошлин на горячекатаную сталь\n\n14 октября 2026 года опубликованы результаты пересмотра. Минторг США в окончательных результатах пересмотра за октябрь 2023 — сентябрь 2024 года установил демпинговую маржу 13,96% для группы Ниппон Стил и 0% для Токио Стил.\n\nПочему это важно: Импортёрам японской стали нужно сверить своего производителя с результатами пересмотра: показатели разных компаний отличаются.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+          "checked_at": "2026-10-15T09:27:38.099609+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+          "evidence": [
+            {
+              "claim": "Минторг США в окончательных результатах пересмотра за октябрь 2023 — сентябрь 2024 года установил демпинговую маржу 13,96% для группы Ниппон Стил и 0% для Токио Стил.",
+              "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) determines that certain producers/exporters of hot-rolled steel flat products (hot-rolled steel) from Japan sold subject merchandise in the United States at prices below normal value during the period of review (POR) October 1, 2023, through September 30, 2024. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Jun Jack Zhao or Myrna Lobo, AD/CVD Operations, Office VII, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1396 or (202) 482-2371, respectively. SUPPLEMENTARY INFORMATION: Background On October 3, 2016, Commerce published in the Federal Register the antidumping duty (AD) order on hot-rolled steel from Japan. [ 1 ] On April 10, 2026, Commerce published the Preliminary Results of this review in the Federal Register and invited interested parties to comment. [ 2 ] For a complete summary of the events that have occurred since the Preliminary Results, as well as a full discussion of the issues raised by parties for these final results, see the Issues and Decision Memorandum. [ 3 ] Commerce conducted this review in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act). Scope of the Order 4 The merchandise covered by the Order is hot-rolled steel from Japan. For a complete description of the scope of the Order, see the Issues and Decision Memorandum. Analysis of Comments Received We addressed all issues raised in the case and rebuttal briefs in the Issues and Decision Memorandum. The list of topics discussed in the Issues and Decision Memorandum is attached as an appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Changes Since the Preliminary Results Based on our review and analysis of the comments received from parties, we made certain changes to the preliminary margin calculations for Nippon Steel Corporation (NSC). For a detailed discussion of these changes, see the Issues and Decision Memorandum. Review-Specific Rate for Non-Examined Companies The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non-selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2) , which generally parallels the process for determining the all-others rate in an investigation under section 735(c)(5) of the Act. Section 735(c)(5)(A) of the Act and 19 CFR 351.109(f) state that for companies not investigated, in general, we will determine an all-others rate by weight averaging the AD rates established for each of the companies individually investigated, excluding zero and de minimis rates or any rates based entirely on facts available. Where the estimated weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this review, we calculated estimated weighted-average dumping margins of zero percent for Tokyo Steel Manufacturing Co., Ltd. (Tokyo Steel) and 13.96 percent for NSC. Section 735(c)(5)(A) of the Act states that “{t}he estimated all-others rate shall be an amount equal to the weighted average of the estimated weighted average dumping margins established for exporters and producers individually investigated, excluding any zero and de minimis margins, and any margins determined entirely under section 776.” Consistent with section 735(c)(5)(A) of the Act, we assigned the companies not selected for individual examination in this review a weighted-average dumping margin based on the rate of 13.96 percent calculated for Tokyo Steel. The companies not selected for individual examination are listed in Appendix II. Final Results of Review Commerce determines that the following estimated weighted-average dumping margins exist for the period October 1, 2023, through September 30, 2024: ( printed page 65178) Producer/exporter Weighted-average dumping margin (percent) Nippon Steel Corporation/Nippon Steel Nisshin Co., Ltd./Nippon Steel Trading Corporation 5 13.96 Tokyo Steel Manufacturing Co., Ltd. 0.00 Review-Specific Rate for Non-Examined Companies JFE Steel Corporation; JFE Shoji Trade Corporation; JFE Shoji Corporation 13.96 Honda Trading Corporation 13.96 Marubeni-Itochu Steel Inc 13.96 Tetsusho Kayaba Corporation 13.96 Toyo Corporation 13.96 Disclosure Commerce intends to disclose to interested parties the calculations performed for these final results of review within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Assessment Rates Commerce intends to issue assessment instructions to U.S. Customs and Border Protection (CBP) no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Where the respondent reported reliable entered values, we calculated importer- (or customer-) specific ad valorem rates by aggregating the dumping margins calculated for all U.S. sales to each importer (or customer) and dividing this amount by the total entered value of the sales to each importer (or customer). [ 6 ] Where Commerce calculated a weighted-average dumping margin by dividing the total amount of dumping for reviewed sales to that party by the total sales quantity associated with those transactions, Commerce will direct CBP to assess importer- (or customer-) specific assessment rates based on the resulting per-unit rates. [ 7 ] Where an importer- (or customer-) specific ad valorem or per-unit rate is greater than de minimis ( i.e., 0.50 percent), Commerce will instruct CBP to collect the appropriate duties at the time of liquidation. [ 8 ] Where an importer- (or customer-) specific ad valorem or per-unit rate is zero or de minimis, Commerce will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 9 ] Consistent with Commerce's assessment practice, for entries of subject merchandise during the POR produced by NSC or Tokyo Steel for which the producer did not know that its merchandise was destined for the United States, we will instruct CBP to liquidate unreviewed entries at the all-others rate ( i.e., 5.58 percent [ 10 ] ) if there is no rate for the intermediate company(ies) involved in the transaction. [ 11 ] For the companies which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Review-Specific Rate for Non-Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 12 ] Cash Deposit Requirements The following cash deposit requirements will be effective for all shipments of subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided for by section 751(a)(2)(C) of the Act: (1) the cash deposit rates for the companies listed in these final results will be equal to the weighted-average dumping margins established in the final results of this review; (2) for merchandise exported by producers or exporters not covered in this review but covered in a prior segment of this proceeding, the cash deposit rate will continue to be the company-specific rate published for the most recently completed segment in which the company was reviewed; (3) if the exporter is not a firm covered in this review or the original less-than-fair-value (LTFV) investigation, but the producer is, the cash deposit rate will be the rate established for the most recently completed segment of this proceeding for the producer of the subject merchandise; and (4) the cash deposit rate for all other producers or exporters will continue to be 5.58 percent, [ 13 ] the all-others rate established in the LTFV investigation. These cash deposit requirements, when imposed, shall remain in effect until further notice."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+            "checked_at": "2026-10-15T09:27:38.099609+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20934/certain-hot-rolled-steel-flat-products-from-japan-final-results-of-antidumping-duty-administrative",
+            "evidence": [
+              {
+                "claim": "Минторг США в окончательных результатах пересмотра за октябрь 2023 — сентябрь 2024 года установил демпинговую маржу 13,96% для группы Ниппон Стил и 0% для Токио Стил.",
+                "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) determines that certain producers/exporters of hot-rolled steel flat products (hot-rolled steel) from Japan sold subject merchandise in the United States at prices below normal value during the period of review (POR) October 1, 2023, through September 30, 2024. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Jun Jack Zhao or Myrna Lobo, AD/CVD Operations, Office VII, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1396 or (202) 482-2371, respectively. SUPPLEMENTARY INFORMATION: Background On October 3, 2016, Commerce published in the Federal Register the antidumping duty (AD) order on hot-rolled steel from Japan. [ 1 ] On April 10, 2026, Commerce published the Preliminary Results of this review in the Federal Register and invited interested parties to comment. [ 2 ] For a complete summary of the events that have occurred since the Preliminary Results, as well as a full discussion of the issues raised by parties for these final results, see the Issues and Decision Memorandum. [ 3 ] Commerce conducted this review in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act). Scope of the Order 4 The merchandise covered by the Order is hot-rolled steel from Japan. For a complete description of the scope of the Order, see the Issues and Decision Memorandum. Analysis of Comments Received We addressed all issues raised in the case and rebuttal briefs in the Issues and Decision Memorandum. The list of topics discussed in the Issues and Decision Memorandum is attached as an appendix to this notice. The Issues and Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Issues and Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Changes Since the Preliminary Results Based on our review and analysis of the comments received from parties, we made certain changes to the preliminary margin calculations for Nippon Steel Corporation (NSC). For a detailed discussion of these changes, see the Issues and Decision Memorandum. Review-Specific Rate for Non-Examined Companies The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non-selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2) , which generally parallels the process for determining the all-others rate in an investigation under section 735(c)(5) of the Act. Section 735(c)(5)(A) of the Act and 19 CFR 351.109(f) state that for companies not investigated, in general, we will determine an all-others rate by weight averaging the AD rates established for each of the companies individually investigated, excluding zero and de minimis rates or any rates based entirely on facts available. Where the estimated weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this review, we calculated estimated weighted-average dumping margins of zero percent for Tokyo Steel Manufacturing Co., Ltd. (Tokyo Steel) and 13.96 percent for NSC. Section 735(c)(5)(A) of the Act states that “{t}he estimated all-others rate shall be an amount equal to the weighted average of the estimated weighted average dumping margins established for exporters and producers individually investigated, excluding any zero and de minimis margins, and any margins determined entirely under section 776.” Consistent with section 735(c)(5)(A) of the Act, we assigned the companies not selected for individual examination in this review a weighted-average dumping margin based on the rate of 13.96 percent calculated for Tokyo Steel. The companies not selected for individual examination are listed in Appendix II. Final Results of Review Commerce determines that the following estimated weighted-average dumping margins exist for the period October 1, 2023, through September 30, 2024: ( printed page 65178) Producer/exporter Weighted-average dumping margin (percent) Nippon Steel Corporation/Nippon Steel Nisshin Co., Ltd./Nippon Steel Trading Corporation 5 13.96 Tokyo Steel Manufacturing Co., Ltd. 0.00 Review-Specific Rate for Non-Examined Companies JFE Steel Corporation; JFE Shoji Trade Corporation; JFE Shoji Corporation 13.96 Honda Trading Corporation 13.96 Marubeni-Itochu Steel Inc 13.96 Tetsusho Kayaba Corporation 13.96 Toyo Corporation 13.96 Disclosure Commerce intends to disclose to interested parties the calculations performed for these final results of review within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Assessment Rates Commerce intends to issue assessment instructions to U.S. Customs and Border Protection (CBP) no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Where the respondent reported reliable entered values, we calculated importer- (or customer-) specific ad valorem rates by aggregating the dumping margins calculated for all U.S. sales to each importer (or customer) and dividing this amount by the total entered value of the sales to each importer (or customer). [ 6 ] Where Commerce calculated a weighted-average dumping margin by dividing the total amount of dumping for reviewed sales to that party by the total sales quantity associated with those transactions, Commerce will direct CBP to assess importer- (or customer-) specific assessment rates based on the resulting per-unit rates. [ 7 ] Where an importer- (or customer-) specific ad valorem or per-unit rate is greater than de minimis ( i.e., 0.50 percent), Commerce will instruct CBP to collect the appropriate duties at the time of liquidation. [ 8 ] Where an importer- (or customer-) specific ad valorem or per-unit rate is zero or de minimis, Commerce will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 9 ] Consistent with Commerce's assessment practice, for entries of subject merchandise during the POR produced by NSC or Tokyo Steel for which the producer did not know that its merchandise was destined for the United States, we will instruct CBP to liquidate unreviewed entries at the all-others rate ( i.e., 5.58 percent [ 10 ] ) if there is no rate for the intermediate company(ies) involved in the transaction. [ 11 ] For the companies which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Review-Specific Rate for Non-Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 12 ] Cash Deposit Requirements The following cash deposit requirements will be effective for all shipments of subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided for by section 751(a)(2)(C) of the Act: (1) the cash deposit rates for the companies listed in these final results will be equal to the weighted-average dumping margins established in the final results of this review; (2) for merchandise exported by producers or exporters not covered in this review but covered in a prior segment of this proceeding, the cash deposit rate will continue to be the company-specific rate published for the most recently completed segment in which the company was reviewed; (3) if the exporter is not a firm covered in this review or the original less-than-fair-value (LTFV) investigation, but the producer is, the cash deposit rate will be the rate established for the most recently completed segment of this proceeding for the producer of the subject merchandise; and (4) the cash deposit rate for all other producers or exporters will continue to be 5.58 percent, [ 13 ] the all-others rate established in the LTFV investigation. These cash deposit requirements, when imposed, shall remain in effect until further notice."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-us-japan-hotrolled-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Индия: предварительная ставка субсидирования плёнки SRF составила 3,98%",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing"
+        }
+      ],
+      "theme": "Предварительный пересмотр компенсационных пошлин на ПЭТ-плёнку",
+      "jurisdictions": [
+        "США",
+        "Индия"
+      ],
+      "act": "C-533-825; FR 2026-20940; предварительные результаты за 2024",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing",
+        "source_quote": "Publication Date 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "us-india-petfilm-20261014",
+        "cross_border_relevance": "Производство определяет антидемпинговые или компенсационные платежи при импорте конкретного товара из указанной страны в США; прямо влияет на стоимость трансграничных поставок.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-us-india-petfilm-20261014",
+      "caption": "США и Индия: предварительная ставка субсидирования плёнки SRF составила 3,98%\n\n14 октября 2026 года опубликованы результаты пересмотра. Минторг США предварительно определил ставку компенсируемого субсидирования 3,98% для индийской SRF по пересмотру поставок ПЭТ-плёнки за 2024 год. Это предварительные результаты, а не окончательная новая ставка депозита.\n\nПочему это важно: Импортёрам и производителю стоит проверить расчёт и возможность представить возражения до окончательных результатов.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing",
+          "checked_at": "2026-10-15T09:27:38.122301+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing",
+          "evidence": [
+            {
+              "claim": "Минторг США предварительно определил ставку компенсируемого субсидирования 3,98% для индийской SRF по пересмотру поставок ПЭТ-плёнки за 2024 год. Это предварительные результаты, а не окончательная новая ставка депозита.",
+              "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to SRF Limited (SRF), a producer and exporter of polyethylene terephthalate film, sheet, and strip (PET film) from India. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding the review with respect to nine companies. Interested parties are invited to comment on these preliminary results. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Jack Vachon or Suresh Maniam, AD/CVD Operations, Office I, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-3572 or (202) 482-0176, respectively. SUPPLEMENTARY INFORMATION: Background On July 1, 2002, Commerce published in the Federal Register the countervailing duty order on PET film from India. [ 1 ] On August 22, 2025, Commerce published in the Federal Register the notice of initiation of an administrative review of the Order. [ 2 ] On September 30, 2025, Commerce selected Polyplex Corporation, Ltd. (Polyplex) and SRF as the mandatory respondents in this administrative review. [ 3 ] On November 20, 2025, interested parties timely withdrew their review request for with respect to all companies under review except SRF; the petitioners did not withdraw their request for review regarding SRF. [ 4 ] Therefore, on November ( printed page 65170) 25, 2025, because SRF was the only company remaining for which a review was requested and not withdrawn, we sent the initial questionnaire to SRF as it is the sole mandatory respondent in this review. [ 5 ] Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days. [ 6 ] Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days. [ 7 ] On May 15, 2026, Commerce extended the deadline for issuing the preliminary results of this review to no later than September 30, 2026. [ 8 ] On September 30, 2026, Commerce further extended the deadline for the preliminary results by seven days, until October 7, 2026. [ 9 ] For a complete description of the events that followed the initiation of this investigation, see the Preliminary Decision Memorandum. [ 10 ] A list of topics discussed in the Preliminary Decision Memorandum is included in Appendix I to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at http://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise covered by the Order is PET film from India. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Partial Rescission of Administrative Review Pursuant to 19 CFR 351.213(d)(1) , Commerce will rescind an administrative review, in whole or in part, if the parties that requested a review withdraw the request within 90 days of the date of publication of the notice of initiation. Commerce received timely filed withdrawal requests with respect to nine companies. Because the withdrawal requests were timely filed, and no other parties requested a review of these companies, in accordance with 19 CFR 351.213(d)(1) , Commerce is rescinding this review of the Order with respect to the nine companies. For a complete list of companies for which we are rescinding this administrative review, see Appendix II. Methodology Commerce is conducting this administrative review in accordance with section 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each subsidy program found countervailable, we preliminarily find that there is a subsidy ( i.e., a financial contribution by an “authority” that gives rise to a benefit to the recipient, and that the subsidy is specific). [ 11 ] For a full description of the methodology underlying our conclusions, including our reliance, in part, on adverse facts available (AFA) pursuant to sections 776(a) and (b) of the Act, see the Preliminary Decision Memorandum. Preliminary Results of Review Commerce preliminary determines that the following net countervailable subsidy rates exist for the period January 1, 2024, through December 31, 2024: Company Subsidy rate (percent ad valorem ) SRF Limited 3.98 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in accordance with 19 CFR 351.224(b) . Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. Pursuant to 19 CFR 351.309(c)(1)(ii) , we have modified the deadline for interested parties to submit case briefs to Commerce to no later than 21 days after the date of the publication of this notice. [ 12 ] Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 13 ] Interested parties who submit case briefs or rebuttal briefs in this review must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 14 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 15 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 16 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and ( printed page 65171) (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 17 ] Assessment Rates In accordance with section 751(a)(2)(C) of the Act and 19 CFR 351.221(b)(4)(i) , we preliminarily determined subsidy rates in the amounts shown above for SRF. Upon completion of the administrative review, consistent with section 751(a)(1) of the Act and 19 CFR 351.212(b)(2) , Commerce shall determine, and CBP shall assess, countervailing duties on all appropriate entries covered by this review. We intend to issue assessment instructions to CBP no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). For the companies for which the review is rescinded with these preliminary results, we will instruct CBP to assess countervailing duties on all appropriate entries at a rate equal to the cash deposit of estimated countervailing duties required at the time of entry, or withdrawal from warehouse, for consumption, during the period January 1, 2024, through December 31, 2024, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue appropriate assessment instructions directly to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Cash Deposit Requirements In accordance with section 751(a)(2)(C) of the Act, Commerce also intends upon publication of the final results, to instruct CBP to collect cash deposits of the estimated countervailing duties in the amount shown for SRF on shipments of subject merchandise entered, or withdrawn from warehouse, for consumption on or after the date of publication of the final results of this review. If the rate calculated in the final results is zero or de minimis, no cash deposit will be required on shipments of the subject merchandise entered or withdrawn from warehouse, for consumption on or after the date of publication of the final results of this review. For all non-reviewed firms, CBP will continue to collect cash deposits of estimated countervailing duties at the all-others rate or the most recent company-specific or all-others rate applicable to the company, as appropriate. These cash deposit requirements, when imposed, shall remain in effect until further notice. Final Results Unless extended, we intend to issue the final results of this administrative review, which will include the results of our analysis of the issues raised in the case briefs, within 120 days of publication of these preliminary results in the Federal Register , pursuant to section 751(a)(3)(A) of the Act and 19 CFR 351.213(h)(1) ."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing",
+            "checked_at": "2026-10-15T09:27:38.122301+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20940/polyethylene-terephthalate-film-sheet-and-strip-from-india-preliminary-results-of-countervailing",
+            "evidence": [
+              {
+                "claim": "Минторг США предварительно определил ставку компенсируемого субсидирования 3,98% для индийской SRF по пересмотру поставок ПЭТ-плёнки за 2024 год. Это предварительные результаты, а не окончательная новая ставка депозита.",
+                "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to SRF Limited (SRF), a producer and exporter of polyethylene terephthalate film, sheet, and strip (PET film) from India. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding the review with respect to nine companies. Interested parties are invited to comment on these preliminary results. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Jack Vachon or Suresh Maniam, AD/CVD Operations, Office I, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-3572 or (202) 482-0176, respectively. SUPPLEMENTARY INFORMATION: Background On July 1, 2002, Commerce published in the Federal Register the countervailing duty order on PET film from India. [ 1 ] On August 22, 2025, Commerce published in the Federal Register the notice of initiation of an administrative review of the Order. [ 2 ] On September 30, 2025, Commerce selected Polyplex Corporation, Ltd. (Polyplex) and SRF as the mandatory respondents in this administrative review. [ 3 ] On November 20, 2025, interested parties timely withdrew their review request for with respect to all companies under review except SRF; the petitioners did not withdraw their request for review regarding SRF. [ 4 ] Therefore, on November ( printed page 65170) 25, 2025, because SRF was the only company remaining for which a review was requested and not withdrawn, we sent the initial questionnaire to SRF as it is the sole mandatory respondent in this review. [ 5 ] Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days. [ 6 ] Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days. [ 7 ] On May 15, 2026, Commerce extended the deadline for issuing the preliminary results of this review to no later than September 30, 2026. [ 8 ] On September 30, 2026, Commerce further extended the deadline for the preliminary results by seven days, until October 7, 2026. [ 9 ] For a complete description of the events that followed the initiation of this investigation, see the Preliminary Decision Memorandum. [ 10 ] A list of topics discussed in the Preliminary Decision Memorandum is included in Appendix I to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at http://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise covered by the Order is PET film from India. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Partial Rescission of Administrative Review Pursuant to 19 CFR 351.213(d)(1) , Commerce will rescind an administrative review, in whole or in part, if the parties that requested a review withdraw the request within 90 days of the date of publication of the notice of initiation. Commerce received timely filed withdrawal requests with respect to nine companies. Because the withdrawal requests were timely filed, and no other parties requested a review of these companies, in accordance with 19 CFR 351.213(d)(1) , Commerce is rescinding this review of the Order with respect to the nine companies. For a complete list of companies for which we are rescinding this administrative review, see Appendix II. Methodology Commerce is conducting this administrative review in accordance with section 751(a)(1)(A) of the Tariff Act of 1930, as amended (the Act). For each subsidy program found countervailable, we preliminarily find that there is a subsidy ( i.e., a financial contribution by an “authority” that gives rise to a benefit to the recipient, and that the subsidy is specific). [ 11 ] For a full description of the methodology underlying our conclusions, including our reliance, in part, on adverse facts available (AFA) pursuant to sections 776(a) and (b) of the Act, see the Preliminary Decision Memorandum. Preliminary Results of Review Commerce preliminary determines that the following net countervailable subsidy rates exist for the period January 1, 2024, through December 31, 2024: Company Subsidy rate (percent ad valorem ) SRF Limited 3.98 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in accordance with 19 CFR 351.224(b) . Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. Pursuant to 19 CFR 351.309(c)(1)(ii) , we have modified the deadline for interested parties to submit case briefs to Commerce to no later than 21 days after the date of the publication of this notice. [ 12 ] Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 13 ] Interested parties who submit case briefs or rebuttal briefs in this review must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 14 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 15 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 16 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and ( printed page 65171) (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 17 ] Assessment Rates In accordance with section 751(a)(2)(C) of the Act and 19 CFR 351.221(b)(4)(i) , we preliminarily determined subsidy rates in the amounts shown above for SRF. Upon completion of the administrative review, consistent with section 751(a)(1) of the Act and 19 CFR 351.212(b)(2) , Commerce shall determine, and CBP shall assess, countervailing duties on all appropriate entries covered by this review. We intend to issue assessment instructions to CBP no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). For the companies for which the review is rescinded with these preliminary results, we will instruct CBP to assess countervailing duties on all appropriate entries at a rate equal to the cash deposit of estimated countervailing duties required at the time of entry, or withdrawal from warehouse, for consumption, during the period January 1, 2024, through December 31, 2024, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue appropriate assessment instructions directly to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Cash Deposit Requirements In accordance with section 751(a)(2)(C) of the Act, Commerce also intends upon publication of the final results, to instruct CBP to collect cash deposits of the estimated countervailing duties in the amount shown for SRF on shipments of subject merchandise entered, or withdrawn from warehouse, for consumption on or after the date of publication of the final results of this review. If the rate calculated in the final results is zero or de minimis, no cash deposit will be required on shipments of the subject merchandise entered or withdrawn from warehouse, for consumption on or after the date of publication of the final results of this review. For all non-reviewed firms, CBP will continue to collect cash deposits of estimated countervailing duties at the all-others rate or the most recent company-specific or all-others rate applicable to the company, as appropriate. These cash deposit requirements, when imposed, shall remain in effect until further notice. Final Results Unless extended, we intend to issue the final results of this administrative review, which will include the results of our analysis of the issues raised in the case briefs, within 120 days of publication of these preliminary results in the Federal Register , pursuant to section 751(a)(3)(A) of the Act and 19 CFR 351.213(h)(1) ."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-us-india-petfilm-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Малайзия: предварительная демпинговая маржа по стальным гвоздям — 2,01%",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty"
+        }
+      ],
+      "theme": "Предварительный пересмотр антидемпинговых пошлин на гвозди",
+      "jurisdictions": [
+        "США",
+        "Малайзия"
+      ],
+      "act": "A-557-816; FR 2026-20898; предварительные результаты 2024–2025",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+        "source_quote": "Publication Date 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "us-malaysia-nails-20261014",
+        "cross_border_relevance": "Производство определяет антидемпинговые или компенсационные платежи при импорте конкретного товара из указанной страны в США; прямо влияет на стоимость трансграничных поставок.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-us-malaysia-nails-20261014",
+      "caption": "США и Малайзия: предварительная демпинговая маржа по стальным гвоздям — 2,01%\n\n14 октября 2026 года опубликованы результаты пересмотра. Минторг США предварительно рассчитал маржу 2,01% для Регион Интернешнл и Регион Систем, а также для компаний, не отобранных для индивидуальной проверки, по пересмотру за июль 2024 — июнь 2025 года.\n\nПочему это важно: Импортёрам малайзийских гвоздей стоит проверить охват пересмотра. Предварительная маржа ещё не заменяет действующие ставки обеспечительного депозита.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+          "checked_at": "2026-10-15T09:27:39.105874+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+          "evidence": [
+            {
+              "claim": "Минторг США предварительно рассчитал маржу 2,01% для Регион Интернешнл и Регион Систем, а также для компаний, не отобранных для индивидуальной проверки, по пересмотру за июль 2024 — июнь 2025 года.",
+              "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily finds that producers/exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to 40 companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Tyler Weinhold, AD/CVD Operations, ( printed page 65167) Office VI, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1121. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i) , we initiated an administrative review of the antidumping duty (AD) order on certain steel nails (nails) from Malaysia. [ 1 ] On September 25, 2025, Commerce selected Region International Co., Ltd. and Region System Sdn. Bhd. (collectively, Region) as the sole mandatory respondent in this review. [ 2 ] Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days. [ 3 ] Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days. [ 4 ] Between June 3, 2026, and September 29, 2026, we extended the preliminary results of this review to no later than October 7, 2026. [ 5 ] For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum. [ 6 ] A list of the topics discussed in the Preliminary Decision Memorandum is attached as Appendix I this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise subject to the Order is nails from Malaysia. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part Pursuant to 19 CFR 351.213(d)(3) , it is Commerce's practice to rescind an administrative review of an AD order where it concludes that there were no suspended entries of subject merchandise during the POR. [ 7 ] Normally, upon completion of an administrative review, the suspended entries are liquidated at the AD assessment rate for the review period. [ 8 ] Therefore, for an administrative review to be conducted, there must be a reviewable, suspended entry that Commerce can instruct U.S. Customs and Border Protection (CBP) to liquidate at the AD assessment rate calculated for the POR. [ 9 ] Commerce notified all interested parties of its intent to rescind the instant review regarding the companies listed in Appendix III because there were no reviewable, suspended entries of subject merchandise from these companies during the POR and invited interested parties to comment. [ 10 ] No party commented on this memorandum. In the absence of any suspended entries of subject merchandise from these companies during the POR, we are rescinding this administrative review for the companies listed in Appendix III, in accordance with 19 CFR 351.213(d)(3) . Methodology Commerce is conducting this review in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act). Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies The Act and Commerce's regulations do not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. Generally, Commerce looks to section 735(c)(5) of the Act, which provides instructions for calculating the all-others rate in a market economy investigation, for guidance when calculating the rate for companies which were not selected for individual examination in an administrative review. Under section 735(c)(5)(A) of the Act, the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis ( i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this administrative review, we preliminarily calculated a weighted-average dumping margin for Region, the sole individually examined respondent in this review. Because this estimated weighted-average dumping margin is not zero, de minimis, or based entirely on facts otherwise available, we are preliminarily assigning the estimated ( printed page 65168) weighted-average dumping margin calculated for Region to the companies under review that were not selected for individual examination, consistent with the guidance in section 735(c)(5)(A) of the Act. Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margin exists for the period July 1, 2024, through June 30, 2025: Producer/exporter Weighted-average dumping margin (percent) Region International Co., Ltd. and Region System Sdn. Bhd. 2.01 Companies Not Selected for Individual Review 11 2.01 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. We will establish the deadline for interested parties to submit case briefs at a later date. Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 12 ] Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 13 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 14 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 15 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 16 ] Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1) , Commerce will determine, and CBP shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If Region's weighted-average dumping margin is not zero or de minimis ( i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales. [ 17 ] To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2) , we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If Region's weighted-average dumping margin is zero or de minimis or where an importer-specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 18 ] In accordance with Commerce's “automatic assessment” practice, for entries of subject merchandise during the POR produced by Region for which it did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the less-than-fair-value (LTFV) investigation if there is no rate for the intermediate company(ies) involved in the transaction. [ 19 ] For the companies listed in Appendix II which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Rate for Non-Individually Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 20 ] For the companies listed in Appendix III for which the review is being rescinded, Commerce will instruct CBP to assess antidumping duties on all appropriate entries. Antidumping duties shall be assessed at rates equal to the cash deposit rate for estimated antidumping duties required at the time of entry, or withdrawal from warehouse, for consumption, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue rescission instructions to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Commerce intends to issue assessment instructions to CBP regarding Region and the companies listed in Appendix II no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International ( printed page 65169) Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for the company listed above will be that established in the final results of this review, except if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1) , in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 2.66 percent, the all-others rate established in the LTFV investigation. [ 21 ] These cash deposit requirements, when imposed, shall remain in effect until further notice."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+            "checked_at": "2026-10-15T09:27:39.105874+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20898/certain-steel-nails-from-malaysia-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+            "evidence": [
+              {
+                "claim": "Минторг США предварительно рассчитал маржу 2,01% для Регион Интернешнл и Регион Систем, а также для компаний, не отобранных для индивидуальной проверки, по пересмотру за июль 2024 — июнь 2025 года.",
+                "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily finds that producers/exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to 40 companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 14, 2026. FOR FURTHER INFORMATION CONTACT: Tyler Weinhold, AD/CVD Operations, ( printed page 65167) Office VI, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-1121. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i) , we initiated an administrative review of the antidumping duty (AD) order on certain steel nails (nails) from Malaysia. [ 1 ] On September 25, 2025, Commerce selected Region International Co., Ltd. and Region System Sdn. Bhd. (collectively, Region) as the sole mandatory respondent in this review. [ 2 ] Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days. [ 3 ] Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days. [ 4 ] Between June 3, 2026, and September 29, 2026, we extended the preliminary results of this review to no later than October 7, 2026. [ 5 ] For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum. [ 6 ] A list of the topics discussed in the Preliminary Decision Memorandum is attached as Appendix I this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise subject to the Order is nails from Malaysia. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part Pursuant to 19 CFR 351.213(d)(3) , it is Commerce's practice to rescind an administrative review of an AD order where it concludes that there were no suspended entries of subject merchandise during the POR. [ 7 ] Normally, upon completion of an administrative review, the suspended entries are liquidated at the AD assessment rate for the review period. [ 8 ] Therefore, for an administrative review to be conducted, there must be a reviewable, suspended entry that Commerce can instruct U.S. Customs and Border Protection (CBP) to liquidate at the AD assessment rate calculated for the POR. [ 9 ] Commerce notified all interested parties of its intent to rescind the instant review regarding the companies listed in Appendix III because there were no reviewable, suspended entries of subject merchandise from these companies during the POR and invited interested parties to comment. [ 10 ] No party commented on this memorandum. In the absence of any suspended entries of subject merchandise from these companies during the POR, we are rescinding this administrative review for the companies listed in Appendix III, in accordance with 19 CFR 351.213(d)(3) . Methodology Commerce is conducting this review in accordance with section 751(a) of the Tariff Act of 1930, as amended (the Act). Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies The Act and Commerce's regulations do not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. Generally, Commerce looks to section 735(c)(5) of the Act, which provides instructions for calculating the all-others rate in a market economy investigation, for guidance when calculating the rate for companies which were not selected for individual examination in an administrative review. Under section 735(c)(5)(A) of the Act, the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis ( i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this administrative review, we preliminarily calculated a weighted-average dumping margin for Region, the sole individually examined respondent in this review. Because this estimated weighted-average dumping margin is not zero, de minimis, or based entirely on facts otherwise available, we are preliminarily assigning the estimated ( printed page 65168) weighted-average dumping margin calculated for Region to the companies under review that were not selected for individual examination, consistent with the guidance in section 735(c)(5)(A) of the Act. Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margin exists for the period July 1, 2024, through June 30, 2025: Producer/exporter Weighted-average dumping margin (percent) Region International Co., Ltd. and Region System Sdn. Bhd. 2.01 Companies Not Selected for Individual Review 11 2.01 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. We will establish the deadline for interested parties to submit case briefs at a later date. Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 12 ] Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 13 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 14 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 15 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 16 ] Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1) , Commerce will determine, and CBP shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If Region's weighted-average dumping margin is not zero or de minimis ( i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales. [ 17 ] To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2) , we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If Region's weighted-average dumping margin is zero or de minimis or where an importer-specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 18 ] In accordance with Commerce's “automatic assessment” practice, for entries of subject merchandise during the POR produced by Region for which it did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the less-than-fair-value (LTFV) investigation if there is no rate for the intermediate company(ies) involved in the transaction. [ 19 ] For the companies listed in Appendix II which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Rate for Non-Individually Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 20 ] For the companies listed in Appendix III for which the review is being rescinded, Commerce will instruct CBP to assess antidumping duties on all appropriate entries. Antidumping duties shall be assessed at rates equal to the cash deposit rate for estimated antidumping duties required at the time of entry, or withdrawal from warehouse, for consumption, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue rescission instructions to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Commerce intends to issue assessment instructions to CBP regarding Region and the companies listed in Appendix II no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International ( printed page 65169) Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for the company listed above will be that established in the final results of this review, except if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1) , in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 2.66 percent, the all-others rate established in the LTFV investigation. [ 21 ] These cash deposit requirements, when imposed, shall remain in effect until further notice."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-us-malaysia-nails-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Италия: Минторг опубликовал предварительные маржи по макаронам",
+      "sources": [
+        {
+          "label": "Официальный первоисточник",
+          "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty"
+        }
+      ],
+      "theme": "Предварительный пересмотр антидемпинговых пошлин на макароны",
+      "jurisdictions": [
+        "США",
+        "Италия"
+      ],
+      "act": "A-475-818; FR 2026-21042; предварительные результаты 2024–2025",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+        "source_quote": "Publication Date 10/15/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-15",
+        "event_key": "us-italy-pasta-20261015",
+        "cross_border_relevance": "Производство определяет антидемпинговые или компенсационные платежи при импорте конкретного товара из указанной страны в США; прямо влияет на стоимость трансграничных поставок.",
+        "semantic_review": "Прочитан явный текст первоисточника. Сверены объект, статус, период и реквизиты; практический вывод сформулирован как действие для проверки, а не новая обязанность."
+      },
+      "item_type": "official_notice",
+      "slug": "2026-10-15_1300_-us-italy-pasta-20261015",
+      "caption": "США и Италия: Минторг опубликовал предварительные маржи по макаронам\n\n15 октября 2026 года опубликованы результаты пересмотра. В пересмотре за июль 2024 — июнь 2025 года Минторг США предварительно определил маржи: Ла Молизана — 3,62%, Пастифичо Лучо Гарофало — 6,47%, компании без индивидуальной проверки — 5,05%.\n\nПочему это важно: Импортёрам итальянских макарон стоит сверить производителя и расчёт. Это предварительные результаты; новые депозиты будут зависеть от окончательного решения.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+          "checked_at": "2026-10-15T09:27:49.321332+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+          "evidence": [
+            {
+              "claim": "В пересмотре за июль 2024 — июнь 2025 года Минторг США предварительно определил маржи: Ла Молизана — 3,62%, Пастифичо Лучо Гарофало — 6,47%, компании без индивидуальной проверки — 5,05%.",
+              "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to 15 companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 15, 2026. FOR FURTHER INFORMATION CONTACT: Walter Ankner or T.J. Worthington, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-8374 or (202) 482-4567, respectively. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i) , we initiated an administrative review of the antidumping duty order on certain pasta (pasta) from Italy. [ 1 ] On September 24, 2025, Commerce selected La Molisana, S.p.A. (La Molisana) and Pastificio Lucio Garofalo S.p.A. (Garofalo) as the mandatory respondents in this review. [ 2 ] On September 3, 2025, La Doria Pasta PL S.r.l. (La Doria) timely withdrew its request for review. [ 3 ] On October 28, 2025, 8th Avenue Food & Provisions, Inc. and Winland Foods, Inc. (collectively, the domestic interested parties) timely withdrew their request for review of 17 companies. [ 4 ] On October 29, 2025, Pastificio Di Martino Gaetano e Flli S.p.A. (Di Martino) timely withdrew its request for review. [ 5 ] On November 10, 2025, Marchesi Frescobaldi Soc. Agricola S.r.l. (Frescobaldi) timely withdrew its request for review. [ 6 ] On January 27, 2026, Barilla America Inc. and Barilla G. e R. Fratelli Società per Azioni Socio Unico (collectively, Barilla) timely withdrew their request for review. [ 7 ] For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum. [ 8 ] A list of the topics discussed in the Preliminary Decision Memorandum is attached as Appendix I of this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise subject to the Order is pasta from Italy. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part Pursuant to 19 CFR 351.213(d)(1) , Commerce will rescind an administrative review, in whole or in part, if a party who requested a review withdraws its request within 90 days of the date of publication of notice of initiation. As noted above, Commerce received timely-filed withdrawal requests with respect to the companies listed in Appendix III, and no other parties requested an administrative review of these companies. Therefore, we are rescinding this administrative review with respect to these companies, pursuant to 19 CFR 351.213(d)(1) . Methodology Commerce is conducting this review in accordance with section 751(a)(1)(B) and (2) of the Tariff Act of 1930, as amended (the Act). Export price and constructed export price are calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies The Act and Commerce's regulations do not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. Generally, Commerce looks to section 735(c)(5) of the Act, which provides instructions for calculating the all-others rate in a market economy investigation, for guidance when calculating the rate for companies which were not selected for individual examination in an administrative review. Under section 735(c)(5)(A) of the Act, the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis ( i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers ( printed page 65526) not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this administrative review, we preliminarily calculated weighted-average dumping margins for the mandatory respondents, La Molisana and Garofalo, that are not zero, de minimis, or based entirely on facts available. Accordingly, we are preliminarily assigning to the companies under review that were not selected for individual examination a weighted-average dumping margin equal to the simple average of the estimated weighted-average dumping margins calculated for La Molisana and Garofalo, consistent with 19 CFR 351.109(g) . [ 9 ] Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margins exist for the period July 1, 2024, through June 30, 2025: Producer/exporter Weighted- average dumping margin (percent) La Molisana, S.p.A 3.62 Pastificio Lucio Garofalo S.p.A 6.47 Companies Not Selected for Individual Review 10 5.05 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Verification As provided in section 782(i)(3) of the Act, Commerce intends to verify the information relied upon in making its final results. Public Comment Pursuant to 19 CFR 351.309(c) , interested parties may submit case briefs to Commerce no later than seven days after the date on which the last verification report is issued in this review. Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 11 ] Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 12 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 13 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 14 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 15 ] Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1) , Commerce will determine, and U.S. Customs and Border Protection (CBP) shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If La Molisana's or Garofalo's weighted-average dumping margin is not zero or de minimis ( i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales. [ 16 ] To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2) , we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If La Molisana's or Garofalo's weighted-average dumping margin is zero or de minimis or where an importer-specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 17 ] In accordance with Commerce's “automatic assessment” practice, for entries of subject merchandise during the POR produced by La Molisana or Garofalo for which they did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the less-than-fair-value (LTFV) investigation if there is no rate for the intermediate company(ies) involved in the transaction. [ 18 ] ( printed page 65527) For the companies listed in Appendix II which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Rate for Non-Individually Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 19 ] For the companies listed in Appendix III for which the review is being rescinded, Commerce will instruct CBP to assess antidumping duties on all appropriate entries. Antidumping duties shall be assessed at rates equal to the cash deposit rate for estimated antidumping duties required at the time of entry, or withdrawal from warehouse, for consumption, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue rescission instructions to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Commerce intends to issue assessment instructions to CBP regarding La Molisana, Garofalo, and the companies listed in Appendix II no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for the companies listed above will be that established in the final results of this review, except if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1) , in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 15.45 percent, the rate established in the Section 129 Determination. [ 20 ] These cash deposit requirements, when imposed, shall remain in effect until further notice."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+            "checked_at": "2026-10-15T09:27:49.321332+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21042/certain-pasta-from-italy-preliminary-results-and-rescission-in-part-of-antidumping-duty",
+            "evidence": [
+              {
+                "claim": "В пересмотре за июль 2024 — июнь 2025 года Минторг США предварительно определил маржи: Ла Молизана — 3,62%, Пастифичо Лучо Гарофало — 6,47%, компании без индивидуальной проверки — 5,05%.",
+                "source_quote": "AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. In addition, we are rescinding the review with respect to 15 companies. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 15, 2026. FOR FURTHER INFORMATION CONTACT: Walter Ankner or T.J. Worthington, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-8374 or (202) 482-4567, respectively. SUPPLEMENTARY INFORMATION: Background On August 22, 2025, based on timely requests for review, in accordance with 19 CFR 351.221(c)(1)(i) , we initiated an administrative review of the antidumping duty order on certain pasta (pasta) from Italy. [ 1 ] On September 24, 2025, Commerce selected La Molisana, S.p.A. (La Molisana) and Pastificio Lucio Garofalo S.p.A. (Garofalo) as the mandatory respondents in this review. [ 2 ] On September 3, 2025, La Doria Pasta PL S.r.l. (La Doria) timely withdrew its request for review. [ 3 ] On October 28, 2025, 8th Avenue Food & Provisions, Inc. and Winland Foods, Inc. (collectively, the domestic interested parties) timely withdrew their request for review of 17 companies. [ 4 ] On October 29, 2025, Pastificio Di Martino Gaetano e Flli S.p.A. (Di Martino) timely withdrew its request for review. [ 5 ] On November 10, 2025, Marchesi Frescobaldi Soc. Agricola S.r.l. (Frescobaldi) timely withdrew its request for review. [ 6 ] On January 27, 2026, Barilla America Inc. and Barilla G. e R. Fratelli Società per Azioni Socio Unico (collectively, Barilla) timely withdrew their request for review. [ 7 ] For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum. [ 8 ] A list of the topics discussed in the Preliminary Decision Memorandum is attached as Appendix I of this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/​frnotices . Scope of the Order The merchandise subject to the Order is pasta from Italy. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Rescission of Administrative Review, in Part Pursuant to 19 CFR 351.213(d)(1) , Commerce will rescind an administrative review, in whole or in part, if a party who requested a review withdraws its request within 90 days of the date of publication of notice of initiation. As noted above, Commerce received timely-filed withdrawal requests with respect to the companies listed in Appendix III, and no other parties requested an administrative review of these companies. Therefore, we are rescinding this administrative review with respect to these companies, pursuant to 19 CFR 351.213(d)(1) . Methodology Commerce is conducting this review in accordance with section 751(a)(1)(B) and (2) of the Tariff Act of 1930, as amended (the Act). Export price and constructed export price are calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies The Act and Commerce's regulations do not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(c)(2) of the Act. Generally, Commerce looks to section 735(c)(5) of the Act, which provides instructions for calculating the all-others rate in a market economy investigation, for guidance when calculating the rate for companies which were not selected for individual examination in an administrative review. Under section 735(c)(5)(A) of the Act, the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis ( i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act provides that Commerce may use “any reasonable method to establish the estimated all-others rate for exporters and producers ( printed page 65526) not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated.” In this administrative review, we preliminarily calculated weighted-average dumping margins for the mandatory respondents, La Molisana and Garofalo, that are not zero, de minimis, or based entirely on facts available. Accordingly, we are preliminarily assigning to the companies under review that were not selected for individual examination a weighted-average dumping margin equal to the simple average of the estimated weighted-average dumping margins calculated for La Molisana and Garofalo, consistent with 19 CFR 351.109(g) . [ 9 ] Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margins exist for the period July 1, 2024, through June 30, 2025: Producer/exporter Weighted- average dumping margin (percent) La Molisana, S.p.A 3.62 Pastificio Lucio Garofalo S.p.A 6.47 Companies Not Selected for Individual Review 10 5.05 Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register , in accordance with 19 CFR 351.224(b) . Verification As provided in section 782(i)(3) of the Act, Commerce intends to verify the information relied upon in making its final results. Public Comment Pursuant to 19 CFR 351.309(c) , interested parties may submit case briefs to Commerce no later than seven days after the date on which the last verification report is issued in this review. Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs. [ 11 ] Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities. [ 12 ] All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii) , we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs. [ 13 ] Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f) . [ 14 ] Pursuant to 19 CFR 351.310(c) , interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing. [ 15 ] Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1) , Commerce will determine, and U.S. Customs and Border Protection (CBP) shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If La Molisana's or Garofalo's weighted-average dumping margin is not zero or de minimis ( i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales. [ 16 ] To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2) , we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If La Molisana's or Garofalo's weighted-average dumping margin is zero or de minimis or where an importer-specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties. [ 17 ] In accordance with Commerce's “automatic assessment” practice, for entries of subject merchandise during the POR produced by La Molisana or Garofalo for which they did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the less-than-fair-value (LTFV) investigation if there is no rate for the intermediate company(ies) involved in the transaction. [ 18 ] ( printed page 65527) For the companies listed in Appendix II which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the “Rate for Non-Individually Examined Companies” section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable. [ 19 ] For the companies listed in Appendix III for which the review is being rescinded, Commerce will instruct CBP to assess antidumping duties on all appropriate entries. Antidumping duties shall be assessed at rates equal to the cash deposit rate for estimated antidumping duties required at the time of entry, or withdrawal from warehouse, for consumption, in accordance with 19 CFR 351.212(c)(1)(i) . Commerce intends to issue rescission instructions to CBP no earlier than 35 days after the date of publication of this notice in the Federal Register . Commerce intends to issue assessment instructions to CBP regarding La Molisana, Garofalo, and the companies listed in Appendix II no earlier than 35 days after the date of publication of the final results of this review in the Federal Register . If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired ( i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for the companies listed above will be that established in the final results of this review, except if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1) , in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 15.45 percent, the rate established in the Section 129 Determination. [ 20 ] These cash deposit requirements, when imposed, shall remain in effect until further notice."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-15\\2026-10-15_1300_-us-italy-pasta-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

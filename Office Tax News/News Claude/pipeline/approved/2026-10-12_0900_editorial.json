@@ -1,0 +1,760 @@
+{
+  "date": "2026-10-12",
+  "release": "2026-10-12_0900_editorial",
+  "items": [
+    {
+      "title": "Казахстан: Минфин подтвердил начисление НДС при ввозе буровой установки",
+      "sources": [
+        {
+          "name": "Минфин Казахстана",
+          "url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027"
+        }
+      ],
+      "theme": "Тарифная классификация импортного оборудования и импортный НДС",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Апелляционный обзор Минфина Казахстана от 09.10.2026: классификация буровой установки HFJG-150Jet; акт проверки 23.02.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027",
+        "source_quote": "Дата публикации 09 октября 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "kz-drill-classification-249027-20261009",
+        "cross_border_relevance": "Официальный административный апелляционный обзор о классификации ввезённого из Китая оборудования и начислении импортного НДС. Дата публикации обзора отделена от дат проверки и решения; новый закон или судебное решение не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-kz-drill-classification-249027-20261009",
+      "caption": "Казахстан: Минфин подтвердил начисление НДС при ввозе буровой установки\n\n9 октября 2026 года Минфин Казахстана опубликовал итог таможенного спора по буровой установке. Глубину бурения свыше 200 метров документально не подтвердили; начисление НДС признано правомерным. Апелляционная комиссия поддержала результаты проверки.\n\nПочему это важно: Импортёрам оборудования стоит согласовать технические характеристики в документах поставщика: противоречия могут помешать подтверждению выбранного товарного кода и льготного порядка уплаты НДС.\n\nИсточник: https://www.gov.kz/memleket/entities/minfin/press/article/details/249027\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027",
+          "checked_at": "2026-10-12T05:15:29.379896+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года Минфин Казахстана опубликовал итог таможенного спора по буровой установке. Глубину бурения свыше 200 метров документально не подтвердили; начисление НДС признано правомерным. Апелляционная комиссия поддержала результаты проверки.",
+              "source_quote": "На основании вышеизложенного, учитывая отсутствие документального подтверждения факта глубины бурения товара – «буровая установка для анкерного цементирования HFJG-150Jet» свыше 200 метров, а также информацию с официального сайта поставщика, начисление НДС по результатам таможенной проверки таможенного органа правомерно. Решением Апелляционной комиссии результаты таможенной проверки признаны правомерными."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027",
+            "checked_at": "2026-10-12T05:15:29.379896+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/minfin/press/article/details/249027",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года Минфин Казахстана опубликовал итог таможенного спора по буровой установке. Глубину бурения свыше 200 метров документально не подтвердили; начисление НДС признано правомерным. Апелляционная комиссия поддержала результаты проверки.",
+                "source_quote": "На основании вышеизложенного, учитывая отсутствие документального подтверждения факта глубины бурения товара – «буровая установка для анкерного цементирования HFJG-150Jet» свыше 200 метров, а также информацию с официального сайта поставщика, начисление НДС по результатам таможенной проверки таможенного органа правомерно. Решением Апелляционной комиссии результаты таможенной проверки признаны правомерными."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-kz-drill-classification-249027-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: ФНС пояснила зачёт платежа при нескольких документах на одну поставку",
+      "sources": [
+        {
+          "name": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/"
+        }
+      ],
+      "theme": "Дублированные документы при импорте из ЕАЭС и зачёт обеспечительного платежа",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Письмо ФНС от 22.09.2026 № ЕА-36-15/8421@; официальная публикация 07.10.2026",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/",
+        "source_quote": "Дата публикации: 07.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "ru-fns8421-duplicate-dopp-20261007",
+        "cross_border_relevance": "Письмо непосредственно касается косвенных налогов при ввозе в Россию из государств ЕАЭС. Первичная официальная публикация 7 октября отделена от даты письма 22 сентября. Иное событие, чем письмо8583 о статусе Обеспечен или отсутствии ДОПП."
+      },
+      "slug": "2026-10-12_0900_-ru-fns8421-duplicate-dopp-20261007",
+      "caption": "Россия: ФНС пояснила зачёт платежа при нескольких документах на одну поставку\n\nФНС опубликовала 7 октября 2026 года письмо от 22.09.2026 № ЕА-36-15/8421@. При нескольких документах о предстоящей поставке на один импорт они отражаются в разделе 4 декларации по косвенным налогам. Превышение обеспечительного платежа над налогом зачитывается на единый налоговый счёт после камеральной проверки; статус документа меняется на «Погашен».\n\nПочему это важно: Импортёрам из ЕАЭС стоит сверить документы по одной поставке и фактически принятые товары: задвоение документов требует корректного отражения и контроля последующего зачёта платежа.\n\nИсточник: https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/",
+          "checked_at": "2026-10-12T05:15:29.381847+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/",
+          "evidence": [
+            {
+              "claim": "ФНС опубликовала 7 октября 2026 года письмо от 22.09.2026 № ЕА-36-15/8421@. При нескольких документах о предстоящей поставке на один импорт они отражаются в разделе 4 декларации по косвенным налогам. Превышение обеспечительного платежа над налогом зачитывается на единый налоговый счёт после камеральной проверки; статус документа меняется на «Погашен».",
+              "source_quote": "Таким образом, в случаях, когда у налогоплательщика-импортера оформлено несколько ДОПП по одной поставке (например, изменение наименования перевозчика после получения статуса «Обеспечен»), ДОПП отражаются в разделе 4 декларации в соответствии с Порядком, при этом в строке 031 раздела 1 декларации отражается сумма налога по товарам, принятым на учет (в строке 030 раздела 3 декларации – сумма акциза по товарам, принятым на учет). В случае превышения суммы ОП над суммой исчисленного налога (акциза) сумма превышения зачитывается на Единый налоговый счет по результатам завершения камеральной налоговой проверки. Статус ДОПП при этом меняется на «Погашен»."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/",
+            "checked_at": "2026-10-12T05:15:29.381847+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn77/about_fts/about_nalog/16654254/",
+            "evidence": [
+              {
+                "claim": "ФНС опубликовала 7 октября 2026 года письмо от 22.09.2026 № ЕА-36-15/8421@. При нескольких документах о предстоящей поставке на один импорт они отражаются в разделе 4 декларации по косвенным налогам. Превышение обеспечительного платежа над налогом зачитывается на единый налоговый счёт после камеральной проверки; статус документа меняется на «Погашен».",
+                "source_quote": "Таким образом, в случаях, когда у налогоплательщика-импортера оформлено несколько ДОПП по одной поставке (например, изменение наименования перевозчика после получения статуса «Обеспечен»), ДОПП отражаются в разделе 4 декларации в соответствии с Порядком, при этом в строке 031 раздела 1 декларации отражается сумма налога по товарам, принятым на учет (в строке 030 раздела 3 декларации – сумма акциза по товарам, принятым на учет). В случае превышения суммы ОП над суммой исчисленного налога (акциза) сумма превышения зачитывается на Единый налоговый счет по результатам завершения камеральной налоговой проверки. Статус ДОПП при этом меняется на «Погашен»."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-ru-fns8421-duplicate-dopp-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ОАЭ: выпущено руководство по охвату и регистрации для минимального налога",
+      "sources": [
+        {
+          "name": "Федеральное налоговое управление ОАЭ",
+          "url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx"
+        }
+      ],
+      "theme": "Pillar 2: руководство по охвату и регистрации QDMTT",
+      "jurisdictions": [
+        "ОАЭ"
+      ],
+      "act": "Официальное сообщение FTA от 08.10.2026 о Top-up Tax Guide on Scope and Registration",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx",
+        "source_quote": "Thursday, October 08,2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "ae-qdmt-scope-registration-guide-20261008",
+        "cross_border_relevance": "Официальное руководство касается международных групп и регистрации по доплате к минимальному налогу. Единственный выбранный материал Pillar2 на сегодняшний день; не утверждается новая дата вступления в силу."
+      },
+      "slug": "2026-10-12_0900_-ae-qdmt-scope-registration-guide-20261008",
+      "caption": "ОАЭ: выпущено руководство по охвату и регистрации для минимального налога\n\n8 октября 2026 года Федеральное налоговое управление ОАЭ сообщило о выпуске руководства по сфере применения и регистрации для доплаты к налогу международных групп компаний в рамках Pillar 2 — второго компонента реформы BEPS. Это разъяснение действующего режима.\n\nПочему это важно: Группам с компаниями в ОАЭ стоит проверить, подпадают ли они под режим, и сопоставить регистрационные действия с новым руководством. Само сообщение не вводит новый налог.\n\nИсточник: https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx",
+          "checked_at": "2026-10-12T05:15:29.382998+00:00",
+          "status_code": 200,
+          "final_url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года Федеральное налоговое управление ОАЭ сообщило о выпуске руководства по сфере применения и регистрации для доплаты к налогу международных групп компаний в рамках Pillar 2 — второго компонента реформы BEPS. Это разъяснение действующего режима.",
+              "source_quote": "Federal Tax Authority Issues New Guide on Scope and Registration for Top-up Tax on Multinational Enterprises"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx",
+            "checked_at": "2026-10-12T05:15:29.382998+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.issues.new.guide.on.scope.and.registration.for.topup.tax.on.multinational.enterprises.aspx",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года Федеральное налоговое управление ОАЭ сообщило о выпуске руководства по сфере применения и регистрации для доплаты к налогу международных групп компаний в рамках Pillar 2 — второго компонента реформы BEPS. Это разъяснение действующего режима.",
+                "source_quote": "Federal Tax Authority Issues New Guide on Scope and Registration for Top-up Tax on Multinational Enterprises"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-ae-qdmt-scope-registration-guide-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Бразилия: таможенные обращения переведены в единый онлайн-сервис",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende"
+        }
+      ],
+      "theme": "таможенные обращения переведены в единый онлайн-сервис",
+      "jurisdictions": [
+        "Бразилия"
+      ],
+      "act": "Официальное сообщение Receita Federal от 09.10.2026 о переносе таможенных консультаций в Receita Atende",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende",
+        "source_quote": "Publicado em 09/10/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "br-customs-service-migration-20261009",
+        "cross_border_relevance": "Датированное существенное изменение сервиса таможенных консультаций участников импорта и экспорта. Налоговые ставки и новые обязательные декларации не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-br-customs-service-migration-20261009",
+      "caption": "Бразилия: таможенные обращения переведены в единый онлайн-сервис\n\n9 октября 2026 года налоговая служба Бразилии сообщила о переносе таможенных консультаций в единый сервис. Заявители теперь направляют обращение и отслеживают его рассмотрение непосредственно в системе.\n\nПочему это важно: Участникам внешней торговли стоит обновить рабочий маршрут обращения за таможенными разъяснениями и контролировать ответы в сервисе.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende",
+          "checked_at": "2026-10-12T05:15:29.384285+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года налоговая служба Бразилии сообщила о переносе таможенных консультаций в единый сервис. Заявители теперь направляют обращение и отслеживают его рассмотрение непосредственно в системе.",
+              "source_quote": "A Receita Federal informa que o serviço de orientação sobre assuntos aduaneiros passou a ser disponibilizado no Receita Atende, sistema que permite registrar e acompanhar solicitações diretamente pela internet. Antes, o usuário preenchia um formulário on-line e recebia a resposta por e-mail. Com a mudança, tanto o envio da solicitação quanto o acompanhamento do atendimento são realizados diretamente no sistema, proporcionando mais praticidade e transparência durante o processo."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende",
+            "checked_at": "2026-10-12T05:15:29.384285+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-migra-servico-de-orientacao-sobre-assuntos-aduaneiros-para-o-receita-atende",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года налоговая служба Бразилии сообщила о переносе таможенных консультаций в единый сервис. Заявители теперь направляют обращение и отслеживают его рассмотрение непосредственно в системе.",
+                "source_quote": "A Receita Federal informa que o serviço de orientação sobre assuntos aduaneiros passou a ser disponibilizado no Receita Atende, sistema que permite registrar e acompanhar solicitações diretamente pela internet. Antes, o usuário preenchia um formulário on-line e recebia a resposta por e-mail. Com a mudança, tanto o envio da solicitação quanto o acompanhamento do atendimento são realizados diretamente no sistema, proporcionando mais praticidade e transparência durante o processo."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-br-customs-service-migration-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: обсуждается форма для передачи акций иностранной компании",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm"
+        }
+      ],
+      "theme": "обсуждается форма для передачи акций иностранной компании",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "FR Doc.2026-20743; Form8838; OMB1545-1395; section367 consultation",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm",
+        "source_quote": "Friday, October 9, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "us-form8838-pra-202620743",
+        "cross_border_relevance": "Форма напрямую касается передачи акций или ценных бумаг иностранной корпорации. Консультация о продлении согласованного сбора сведений без изменений; не новая материальная налоговая норма."
+      },
+      "slug": "2026-10-12_0900_-us-form8838-pra-202620743",
+      "caption": "США: обсуждается форма для передачи акций иностранной компании\n\n9 октября 2026 года IRS, налоговая служба США, открыла консультацию по форме 8838 для передачи акций иностранной компании с соглашением о признании дохода. Замечания принимаются до 8 декабря 2026 года. Действующий сбор сведений менять не предлагается.\n\nПочему это важно: Участникам трансграничных реорганизаций стоит оценить трудоёмкость формы и возможность предложить упрощение. Это консультация об отчётности, а не новый налог.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm",
+          "checked_at": "2026-10-12T05:15:29.434814+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года IRS, налоговая служба США, открыла консультацию по форме 8838 для передачи акций иностранной компании с соглашением о признании дохода. Замечания принимаются до 8 декабря 2026 года. Действующий сбор сведений менять не предлагается.",
+              "source_quote": "ACTION: Notice of information collection; request for comments. ----------------------------------------------------------------------- SUMMARY: In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice. DATES: Written comments should be received on or before December 8, 2026 to be assured of consideration. ADDRESSES: Direct all written comments to Andres Garcia, Internal Revenue Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 20224, or by email to [email protected] . Include ``OMB Control No. 1545-1395'' in the subject line of the message. FOR FURTHER INFORMATION CONTACT: Requests for additional information or copies of this collection should be directed to Marcus W. McCrary, 470- 769-2001. SUPPLEMENTARY INFORMATION: The IRS, in accordance with the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3506(c)(2)(A)), provides the general public and Federal agencies with an opportunity to comment on proposed, revised, and continuing collections of information. This helps the IRS assess the impact and minimize the burden of its information collection requirements. Comments submitted in response to this notice will be summarized and/or included in the request for OMB approval. All comments will become a matter of public record, and viewable on relevant websites. For this reason, please do not include in your comments information of a confidential nature, such as sensitive personal information. Comments are invited on: (a) Whether the collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (b) the accuracy of the agency's estimate of the burden of the collection of information; (c) ways to enhance the quality, utility, and clarity of the information to be collected; (d) ways to minimize the burden of the collection of information on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide information. Title: Consent To Extend the Time To Assess Tax Under Section 367-- Gain Recognition Agreement. OMB Control Number: 1545-1395. Form Number: 8838. Abstract: Form 8838 is used to extend the statute of limitations for U.S. persons who transfer stock or securities to a foreign corporation. The form is filed when the transferor makes a gain recognition agreement. This agreement allows the transferor to defer the payment of tax on the transfer. The IRS uses Form 8838 so that it may assess tax against the transferor after the [[Page 64743]] expiration of the original statute of limitations. Current Actions: There is no change to the existing collection."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm",
+            "checked_at": "2026-10-12T05:15:29.434814+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20743.htm",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года IRS, налоговая служба США, открыла консультацию по форме 8838 для передачи акций иностранной компании с соглашением о признании дохода. Замечания принимаются до 8 декабря 2026 года. Действующий сбор сведений менять не предлагается.",
+                "source_quote": "ACTION: Notice of information collection; request for comments. ----------------------------------------------------------------------- SUMMARY: In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice. DATES: Written comments should be received on or before December 8, 2026 to be assured of consideration. ADDRESSES: Direct all written comments to Andres Garcia, Internal Revenue Service, Room 6526, 1111 Constitution Avenue NW, Washington, DC 20224, or by email to [email protected] . Include ``OMB Control No. 1545-1395'' in the subject line of the message. FOR FURTHER INFORMATION CONTACT: Requests for additional information or copies of this collection should be directed to Marcus W. McCrary, 470- 769-2001. SUPPLEMENTARY INFORMATION: The IRS, in accordance with the Paperwork Reduction Act of 1995 (PRA) (44 U.S.C. 3506(c)(2)(A)), provides the general public and Federal agencies with an opportunity to comment on proposed, revised, and continuing collections of information. This helps the IRS assess the impact and minimize the burden of its information collection requirements. Comments submitted in response to this notice will be summarized and/or included in the request for OMB approval. All comments will become a matter of public record, and viewable on relevant websites. For this reason, please do not include in your comments information of a confidential nature, such as sensitive personal information. Comments are invited on: (a) Whether the collection of information is necessary for the proper performance of the functions of the agency, including whether the information shall have practical utility; (b) the accuracy of the agency's estimate of the burden of the collection of information; (c) ways to enhance the quality, utility, and clarity of the information to be collected; (d) ways to minimize the burden of the collection of information on respondents, including through the use of automated collection techniques or other forms of information technology; and (e) estimates of capital or start-up costs and costs of operation, maintenance, and purchase of services to provide information. Title: Consent To Extend the Time To Assess Tax Under Section 367-- Gain Recognition Agreement. OMB Control Number: 1545-1395. Form Number: 8838. Abstract: Form 8838 is used to extend the statute of limitations for U.S. persons who transfer stock or securities to a foreign corporation. The form is filed when the transferor makes a gain recognition agreement. This agreement allows the transferor to defer the payment of tax on the transfer. The IRS uses Form 8838 so that it may assess tax against the transferor after the [[Page 64743]] expiration of the original statute of limitations. Current Actions: There is no change to the existing collection."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-us-form8838-pra-202620743.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и Китай: опубликован список заявлений об охвате торговых пошлин",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm"
+        }
+      ],
+      "theme": "опубликован список заявлений об охвате торговых пошлин",
+      "jurisdictions": [
+        "США",
+        "Китай"
+      ],
+      "act": "FR Doc.2026-20693; A-570-170/C-570-171; August2026 scope applications for aluminum liners",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm",
+        "source_quote": "Thursday, October 8, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "us-china-aluminum-scope-applications-202620693",
+        "cross_border_relevance": "Новая официальная публикация списка заявлений о товарном охвате антидемпинговых и компенсационных мер на импорт. Даты старых заявлений не подменены датой публикации; окончательный исход и открытие расследования не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-us-china-aluminum-scope-applications-202620693",
+      "caption": "США и Китай: опубликован список заявлений об охвате торговых пошлин\n\n8 октября 2026 года Минторг США опубликовал список августовских заявлений о том, охватывают ли торговые пошлины отдельные алюминиевые изделия из Китая. Публикация списка сама по себе не подтверждает начало расследования по охвату.\n\nПочему это важно: Импортёрам похожих изделий стоит сверить описание товара и статус отдельного производства: заявление ещё не означает, что пошлина применяется или отменена.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm",
+          "checked_at": "2026-10-12T05:15:29.828146+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года Минторг США опубликовал список августовских заявлений о том, охватывают ли торговые пошлины отдельные алюминиевые изделия из Китая. Публикация списка сама по себе не подтверждает начало расследования по охвату.",
+              "source_quote": "SUMMARY: The U.S. Department of Commerce (Commerce) received scope ruling applications, requesting that scope inquiries be conducted to determine whether identified products are covered by the scope of antidumping duty (AD) and/or countervailing duty (CVD) orders and that Commerce issue scope rulings pursuant to those inquiries. In accordance with Commerce's regulations, we are notifying the public of the filing of the scope ruling applications listed below in the month of August 2026. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Yasmin Bordas, AD/CVD Operations, Customs Liaison Unit, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230, telephone: (202) 482-3813. Notice of Scope Ruling Applications In accordance with 19 CFR 351.225(d)(3), we are notifying the public of the following scope ruling applications related to AD and CVD orders and findings filed in or around the month of August 2026. This notification includes, for each scope application: (1) identification of the AD and/or CVD orders at issue (19 CFR 351.225(c)(1)); (2) concise public descriptions of the products at issue, including the physical characteristics (including chemical, dimensional and technical characteristics) of the products (19 CFR 351.225(c)(2)(ii)); (3) the countries where the products are produced and the countries from where the products are exported (19 CFR 351.225(c)(2)(i)(B)); (4) the full names of the applicants; and (5) the dates that the scope applications were filed with Commerce and the name of the Antidumping and Countervailing Duty Electronic Service System (ACCESS) scope segment where the scope applications can be found.\\1\\ This notice does not include applications which have been rejected and not properly resubmitted. The scope ruling applications listed below are available on Commerce's online e-filing and document management system, ACCESS, at https://access.trade.gov . --------------------------------------------------------------------------- \\1\\ See Regulations to Improve Administration and Enforcement of Antidumping and Countervailing Duty Laws, 86 FR 52300, 52316 (September 20, 2021) (Final Rule) (``It is our expectation that the Federal Register list will include, where appropriate, for each scope application the following data: (1) identification of the AD and/or CVD orders at issue; (2) a concise public summary of the product's description, including the physical characteristics (including chemical, dimensional and technical characteristics) of the product; (3) the country(ies) where the product is produced and the country from where the product is exported; (4) the full name of the applicant; and (5) the date that the scope application was filed with Commerce.''). --------------------------------------------------------------------------- Scope Ruling Applications Disposable Aluminum Containers, Pans, Trays, and Lids from the People's Republic of China (China) (A-570-170/C-570-171); Aluminum Drip Liners; \\2\\ produced in and exported from China; submitted by Traeger Pellet Grills LLC (``Traeger''); August 11, 2026; ACCESS scope segment ``SCO-- Traeger Drip Liners'' --------------------------------------------------------------------------- \\2\\ The products are aluminum components of Traeger's grease management system. The products are typically rectangular with rounded corners and are formed from aluminum alloy 8011 foil. They are dimensioned to conform to the drip tray of a specific Traeger grill model. The products do not have raised or rigid sidewalls; instead, the perimeter is rolled solely to provide structural integrity and prevent tearing. --------------------------------------------------------------------------- Disposable Aluminum Containers, Pans, Trays, and Lids from China (A- 570-170/C-570-171); Aluminum Bucket Liners; \\3\\ produced in and exported from China; submitted by Traeger Pellet Grills LLC (``Traeger''); August 11, 2026; ACCESS scope segment ``SCO--Traeger Bucket Liners'' --------------------------------------------------------------------------- \\3\\ The products are aluminum grease bucket liners. The products are made from aluminum alloy 8011 foil. While capacity, dimensions, and packaging may vary, all bucket liners are consumable components of Traeger's wood pellet grill grease and ash management system. The products are generally cylindrical or slightly tapered in shape with an open top and a rolled or reinforced rim. The product is designed to conform to a collection bucket that is a durable component of a grill. The product serves as a disposable insert for a durable component. --------------------------------------------------------------------------- Notification to Interested Parties This list of scope ruling applications is not an identification of scope inquiries that have been initiated."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm",
+            "checked_at": "2026-10-12T05:15:29.828146+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20693.htm",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года Минторг США опубликовал список августовских заявлений о том, охватывают ли торговые пошлины отдельные алюминиевые изделия из Китая. Публикация списка сама по себе не подтверждает начало расследования по охвату.",
+                "source_quote": "SUMMARY: The U.S. Department of Commerce (Commerce) received scope ruling applications, requesting that scope inquiries be conducted to determine whether identified products are covered by the scope of antidumping duty (AD) and/or countervailing duty (CVD) orders and that Commerce issue scope rulings pursuant to those inquiries. In accordance with Commerce's regulations, we are notifying the public of the filing of the scope ruling applications listed below in the month of August 2026. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Yasmin Bordas, AD/CVD Operations, Customs Liaison Unit, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230, telephone: (202) 482-3813. Notice of Scope Ruling Applications In accordance with 19 CFR 351.225(d)(3), we are notifying the public of the following scope ruling applications related to AD and CVD orders and findings filed in or around the month of August 2026. This notification includes, for each scope application: (1) identification of the AD and/or CVD orders at issue (19 CFR 351.225(c)(1)); (2) concise public descriptions of the products at issue, including the physical characteristics (including chemical, dimensional and technical characteristics) of the products (19 CFR 351.225(c)(2)(ii)); (3) the countries where the products are produced and the countries from where the products are exported (19 CFR 351.225(c)(2)(i)(B)); (4) the full names of the applicants; and (5) the dates that the scope applications were filed with Commerce and the name of the Antidumping and Countervailing Duty Electronic Service System (ACCESS) scope segment where the scope applications can be found.\\1\\ This notice does not include applications which have been rejected and not properly resubmitted. The scope ruling applications listed below are available on Commerce's online e-filing and document management system, ACCESS, at https://access.trade.gov . --------------------------------------------------------------------------- \\1\\ See Regulations to Improve Administration and Enforcement of Antidumping and Countervailing Duty Laws, 86 FR 52300, 52316 (September 20, 2021) (Final Rule) (``It is our expectation that the Federal Register list will include, where appropriate, for each scope application the following data: (1) identification of the AD and/or CVD orders at issue; (2) a concise public summary of the product's description, including the physical characteristics (including chemical, dimensional and technical characteristics) of the product; (3) the country(ies) where the product is produced and the country from where the product is exported; (4) the full name of the applicant; and (5) the date that the scope application was filed with Commerce.''). --------------------------------------------------------------------------- Scope Ruling Applications Disposable Aluminum Containers, Pans, Trays, and Lids from the People's Republic of China (China) (A-570-170/C-570-171); Aluminum Drip Liners; \\2\\ produced in and exported from China; submitted by Traeger Pellet Grills LLC (``Traeger''); August 11, 2026; ACCESS scope segment ``SCO-- Traeger Drip Liners'' --------------------------------------------------------------------------- \\2\\ The products are aluminum components of Traeger's grease management system. The products are typically rectangular with rounded corners and are formed from aluminum alloy 8011 foil. They are dimensioned to conform to the drip tray of a specific Traeger grill model. The products do not have raised or rigid sidewalls; instead, the perimeter is rolled solely to provide structural integrity and prevent tearing. --------------------------------------------------------------------------- Disposable Aluminum Containers, Pans, Trays, and Lids from China (A- 570-170/C-570-171); Aluminum Bucket Liners; \\3\\ produced in and exported from China; submitted by Traeger Pellet Grills LLC (``Traeger''); August 11, 2026; ACCESS scope segment ``SCO--Traeger Bucket Liners'' --------------------------------------------------------------------------- \\3\\ The products are aluminum grease bucket liners. The products are made from aluminum alloy 8011 foil. While capacity, dimensions, and packaging may vary, all bucket liners are consumable components of Traeger's wood pellet grill grease and ash management system. The products are generally cylindrical or slightly tapered in shape with an open top and a rolled or reinforced rim. The product is designed to conform to a collection bucket that is a durable component of a grill. The product serves as a disposable insert for a durable component. --------------------------------------------------------------------------- Notification to Interested Parties This list of scope ruling applications is not an identification of scope inquiries that have been initiated."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-us-china-aluminum-scope-applications-202620693.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: опубликован очередной перечень неоформленных таможенных грузов",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/"
+        }
+      ],
+      "theme": "опубликован очередной перечень неоформленных таможенных грузов",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "SARS weekly unentered goods notice114 от05.10.2026; новый перечень за29.09–04.10.2026",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/",
+        "source_quote": "5 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "za-unentered-goods-list114-20261005",
+        "cross_border_relevance": "Таможенные грузы импорта и экспорта на государственных складах. Новый недельный перечень, не повтор июльского перечня102; индивидуальные товарные позиции PDF в подпись не перенесены."
+      },
+      "slug": "2026-10-12_0900_-za-unentered-goods-list114-20261005",
+      "caption": "ЮАР: опубликован очередной перечень неоформленных таможенных грузов\n\n5 октября 2026 года SARS, налоговая служба ЮАР, сообщила о новом еженедельном списке неоформленных товаров на государственных таможенных складах.\n\nПочему это важно: Импортёрам и экспортёрам стоит сверить наличие своих грузов в новом перечне и уточнить порядок оформления у таможни. Это уведомление о конкретном списке, а не новая обязанность.\n\nИсточник: https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/",
+          "checked_at": "2026-10-12T05:15:46.056520+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/",
+          "evidence": [
+            {
+              "claim": "5 октября 2026 года SARS, налоговая служба ЮАР, сообщила о новом еженедельном списке неоформленных товаров на государственных таможенных складах.",
+              "source_quote": "Customs Weekly List of Unentered Goods now available"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/",
+            "checked_at": "2026-10-12T05:15:46.056520+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-114/",
+            "evidence": [
+              {
+                "claim": "5 октября 2026 года SARS, налоговая служба ЮАР, сообщила о новом еженедельном списке неоформленных товаров на государственных таможенных складах.",
+                "source_quote": "Customs Weekly List of Unentered Goods now available"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-za-unentered-goods-list114-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Черногория и Румыния: опубликован проект основы налоговых переговоров",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore"
+        }
+      ],
+      "theme": "опубликован проект основы налоговых переговоров",
+      "jurisdictions": [
+        "Черногория",
+        "Румыния"
+      ],
+      "act": "Материалы141-го заседания правительства Черногории 08.10.2026, пункт19: проект основы переговоров по договору с Румынией",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore",
+        "source_quote": "Objavljeno: 08.10.2026."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "me-ro-dta-negotiating-basis-agenda141-20261008",
+        "cross_border_relevance": "Новый датированный официальный проект основы переговоров по двустороннему налоговому договору. Только публикация материалов для обсуждения; одобрение переговоров, ратификация и новые льготы не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-me-ro-dta-negotiating-basis-agenda141-20261008",
+      "caption": "Черногория и Румыния: опубликован проект основы налоговых переговоров\n\nВ материалах заседания правительства Черногории от 8 октября 2026 года опубликован проект основы переговоров о договоре с Румынией об устранении двойного налогообложения. Это предложение для обсуждения; о подписании или вступлении договора в силу здесь не сообщается.\n\nПочему это важно: Бизнесу с операциями в обеих странах стоит отслеживать дальнейшие переговоры. Материалы заседания пока не дают основания применять новые договорные льготы.\n\nИсточник: https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore",
+          "checked_at": "2026-10-12T05:15:46.319540+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore",
+          "evidence": [
+            {
+              "claim": "В материалах заседания правительства Черногории от 8 октября 2026 года опубликован проект основы переговоров о договоре с Румынией об устранении двойного налогообложения. Это предложение для обсуждения; о подписании или вступлении договора в силу здесь не сообщается.",
+              "source_quote": "Predlog osnove za vođenje pregovora i zaključivanje Ugovora između Crne Gore i Rumunije o otklanjanju dvostrukog oporezivanja"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore",
+            "checked_at": "2026-10-12T05:15:46.319540+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.me/clanak/saopstenje-sa-141-sjednice-vlade-crne-gore",
+            "evidence": [
+              {
+                "claim": "В материалах заседания правительства Черногории от 8 октября 2026 года опубликован проект основы переговоров о договоре с Румынией об устранении двойного налогообложения. Это предложение для обсуждения; о подписании или вступлении договора в силу здесь не сообщается.",
+                "source_quote": "Predlog osnove za vođenje pregovora i zaključivanje Ugovora između Crne Gore i Rumunije o otklanjanju dvostrukog oporezivanja"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-me-ro-dta-negotiating-basis-agenda141-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Бразилия: в Рио-де-Жанейро задержаны девять контейнеров из Китая",
+      "sources": [
+        {
+          "name": "Официальный первоисточник",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro"
+        }
+      ],
+      "theme": "в Рио-де-Жанейро задержаны девять контейнеров из Китая",
+      "jurisdictions": [
+        "Бразилия",
+        "Китай"
+      ],
+      "act": "Сообщение Receita Federal от07.10.2026 об итогах второго этапа Operação Play Fake, девять контейнеров изКНР",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+        "source_quote": "Publicado em 07/10/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "br-china-playfake-second-stage-20261007",
+        "cross_border_relevance": "Конкретный новый этап проверки китайских импортных поставок и обнаруженных таможенных несоответствий. Уголовная виновность, конфискация и новые тарифы не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-br-china-playfake-second-stage-20261007",
+      "caption": "Бразилия: в Рио-де-Жанейро задержаны девять контейнеров из Китая\n\n7 октября 2026 года налоговая служба Бразилии сообщила о задержании в порту Рио-де-Жанейро девяти контейнеров с неправильно оформленными товарами из Китая. Это результат таможенного контроля конкретных грузов.\n\nПочему это важно: Импортёрам стоит проверить полноту и достоверность деклараций и документов поставщика: несоответствие сведений фактическому грузу может остановить оформление.\n\nИсточник: https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+          "checked_at": "2026-10-12T05:15:46.390699+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+          "evidence": [
+            {
+              "claim": "7 октября 2026 года налоговая служба Бразилии сообщила о задержании в порту Рио-де-Жанейро девяти контейнеров с неправильно оформленными товарами из Китая. Это результат таможенного контроля конкретных грузов.",
+              "source_quote": "nove contêineres com mercadorias irregulares provenientes da China no Porto do Rio de Janeiro"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+            "checked_at": "2026-10-12T05:15:46.390699+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+            "evidence": [
+              {
+                "claim": "7 октября 2026 года налоговая служба Бразилии сообщила о задержании в порту Рио-де-Жанейро девяти контейнеров с неправильно оформленными товарами из Китая. Это результат таможенного контроля конкретных грузов.",
+                "source_quote": "nove contêineres com mercadorias irregulares provenientes da China no Porto do Rio de Janeiro"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-br-china-playfake-second-stage-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США и ЕС: открыт сбор замечаний о влиянии углеродного пограничного механизма",
+      "sources": [
+        {
+          "name": "Торговое представительство США, официальное уведомление",
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm"
+        }
+      ],
+      "theme": "Консультация о влиянии CBAM на торговлю США и ЕС",
+      "jurisdictions": [
+        "США",
+        "ЕС"
+      ],
+      "act": "FR Doc.2026-20615; USTR-2026-0661; консультация CBAM от08.10.2026",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm",
+        "source_quote": "Thursday, October 8, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12",
+        "event_key": "us-eu-cbam-comments-202620615",
+        "cross_border_relevance": "Прямое влияние углеродной пограничной платы ЕС на трансграничные поставки американских производителей. Новый этап — консультация USTR; принятие расширения CBAM и новые налоговые обязанности не утверждаются."
+      },
+      "slug": "2026-10-12_0900_-us-eu-cbam-comments-202620615",
+      "caption": "США и ЕС: открыт сбор замечаний о влиянии углеродного пограничного механизма\n\n8 октября 2026 года Торговое представительство США открыло консультацию о влиянии CBAM — углеродного пограничного механизма ЕС — и предложений по расширению его охвата на американскую торговлю. Замечания принимаются до 9 ноября 2026 года. Это сбор мнений, а не решение об изменении механизма.\n\nПочему это важно: Американским экспортёрам и импортёрам ЕС стоит оценить влияние механизма на поставки и подготовить обоснованные замечания, пока консультация открыта.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm",
+          "checked_at": "2026-10-12T05:15:46.839929+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года Торговое представительство США открыло консультацию о влиянии CBAM — углеродного пограничного механизма ЕС — и предложений по расширению его охвата на американскую торговлю. Замечания принимаются до 9 ноября 2026 года. Это сбор мнений, а не решение об изменении механизма.",
+              "source_quote": "SUMMARY: The Office of the United States Trade Representative (USTR) invites comments regarding the current and potential impact of the European Union's (EU) Carbon Border Adjustment Mechanism (CBAM) on U.S. producers, including small- and medium-sized producers; workers; U.S. direct and indirect exports; and overall U.S. trade with the EU. Under CBAM, EU importers of products covered by the CBAM (covered products) in the aluminum, cement, electricity, fertilizer, hydrogen, and iron and steel sectors are required to declare information on carbon dioxide and other specified greenhouse gas emissions generated in the production of imported goods and to purchase CBAM certificates based on the amount of that embedded carbon. The EU began the full implementation of CBAM on January 1, 2026. The EU is also considering legislative proposals to expand CBAM coverage to downstream steel- and aluminum-intensive products. USTR is seeking comments on the impact of the CBAM on U.S. trade with the EU, as well as the potential impact of the EU's proposals to expand CBAM coverage. Such comments will help inform continued USTR and U.S. government engagement with the EU on CBAM. DATES: The deadline for submission of comments is November 9, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm",
+            "checked_at": "2026-10-12T05:15:46.839929+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20615.htm",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года Торговое представительство США открыло консультацию о влиянии CBAM — углеродного пограничного механизма ЕС — и предложений по расширению его охвата на американскую торговлю. Замечания принимаются до 9 ноября 2026 года. Это сбор мнений, а не решение об изменении механизма.",
+                "source_quote": "SUMMARY: The Office of the United States Trade Representative (USTR) invites comments regarding the current and potential impact of the European Union's (EU) Carbon Border Adjustment Mechanism (CBAM) on U.S. producers, including small- and medium-sized producers; workers; U.S. direct and indirect exports; and overall U.S. trade with the EU. Under CBAM, EU importers of products covered by the CBAM (covered products) in the aluminum, cement, electricity, fertilizer, hydrogen, and iron and steel sectors are required to declare information on carbon dioxide and other specified greenhouse gas emissions generated in the production of imported goods and to purchase CBAM certificates based on the amount of that embedded carbon. The EU began the full implementation of CBAM on January 1, 2026. The EU is also considering legislative proposals to expand CBAM coverage to downstream steel- and aluminum-intensive products. USTR is seeking comments on the impact of the CBAM on U.S. trade with the EU, as well as the potential impact of the EU's proposals to expand CBAM coverage. Such comments will help inform continued USTR and U.S. government engagement with the EU on CBAM. DATES: The deadline for submission of comments is November 9, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_0900_-us-eu-cbam-comments-202620615.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

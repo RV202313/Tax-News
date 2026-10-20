@@ -1,0 +1,767 @@
+{
+  "date": "2026-10-11",
+  "release": "2026-10-11_0900_editorial",
+  "items": [
+    {
+      "title": "Казахстан: Минфин описал работу единого окна для таможенного декларирования",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+          "name": "Министерство финансов Казахстана"
+        }
+      ],
+      "theme": "Электронное таможенное декларирование и единое окно KEDEN",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Брифинг Асета Турысова 09.10.2026: цифровые сервисы Минфина и KEDEN",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+        "source_quote": "О результатах цифровизации рассказал вице-министр финансов Асет Турысов на брифинге в Службе центральных коммуникаций 9 октября 2026 года."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "kz-keden-turysov-20261009",
+        "cross_border_relevance": "KEDEN предназначена для электронного таможенного декларирования трансграничного ввоза и вывоза товаров. Описана работа сервиса; новый обязательный режим не утверждается."
+      },
+      "slug": "2026-10-11_0900_-kz-keden-turysov-20261009",
+      "caption": "Казахстан: Минфин описал работу единого окна для таможенного декларирования\n\n9 октября 2026 года вице-министр финансов Казахстана Асет Турысов сообщил на брифинге: система KEDEN обеспечивает электронное таможенное декларирование и подачу документов по принципу «одного окна». Единый личный кабинет предпринимателя объединяет сервисы Минфина, уведомления и техническую поддержку. Это сообщение о работе цифровых сервисов, а не введение нового налога.\n\nПочему это важно: Участникам внешней торговли стоит проверить доступ к таможенным сервисам и уведомлениям в едином кабинете: это помогает организовать подачу документов и взаимодействие с ведомством.\n\nИсточник: https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+          "checked_at": "2026-10-11T05:08:17.809595+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года вице-министр финансов Казахстана Асет Турысов сообщил на брифинге: система KEDEN обеспечивает электронное таможенное декларирование и подачу документов по принципу «одного окна». Единый личный кабинет предпринимателя объединяет сервисы Минфина, уведомления и техническую поддержку. Это сообщение о работе цифровых сервисов, а не введение нового налога.",
+              "source_quote": "Министерство финансов Республики Казахстан внедряет цифровые инструменты для упрощения работы бизнеса, повышения прозрачности бюджета и предупреждения финансовых нарушений. О результатах цифровизации рассказал вице-министр финансов Асет Турысов на брифинге в Службе центральных коммуникаций 9 октября 2026 года. Интегрированная система налогового администрирования (ИСНА) заменила семь прежних систем и адаптирована к новому Налоговому кодексу. Внедрено предзаполнение деклараций и автоматизирован расчет оборота по НДС. С начала года принято 7,9 млн налоговых отчетов, реализовано 75 интеграций с госорганами и банками. Smart Data Finance объединяет данные из 80 источников. По итогам камерального контроля начислено 322 млрд тенге налогов. ИИ помогает выявлять риски до проведения проверок. Их отображение в цифровых сервисах позволит предпринимателям заранее устранять нарушения. Национальный каталог товаров содержит порядка 33,5 млн товарных позиций. Созданная на его основе База данных цен используется в бюджетном планировании. По оценке на основе данных за 2024 год прогнозная экономия может составить 200 млрд тенге в год. Система KEDEN обеспечивает электронное таможенное декларирование и подачу документов по принципу «одного окна». Единый личный кабинет предпринимателя объединяет доступ к сервисам Минфина, уведомления и техническую поддержку."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+            "checked_at": "2026-10-11T05:08:17.809595+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/minfin/press/news/details/1308366?lang=ru",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года вице-министр финансов Казахстана Асет Турысов сообщил на брифинге: система KEDEN обеспечивает электронное таможенное декларирование и подачу документов по принципу «одного окна». Единый личный кабинет предпринимателя объединяет сервисы Минфина, уведомления и техническую поддержку. Это сообщение о работе цифровых сервисов, а не введение нового налога.",
+                "source_quote": "Министерство финансов Республики Казахстан внедряет цифровые инструменты для упрощения работы бизнеса, повышения прозрачности бюджета и предупреждения финансовых нарушений. О результатах цифровизации рассказал вице-министр финансов Асет Турысов на брифинге в Службе центральных коммуникаций 9 октября 2026 года. Интегрированная система налогового администрирования (ИСНА) заменила семь прежних систем и адаптирована к новому Налоговому кодексу. Внедрено предзаполнение деклараций и автоматизирован расчет оборота по НДС. С начала года принято 7,9 млн налоговых отчетов, реализовано 75 интеграций с госорганами и банками. Smart Data Finance объединяет данные из 80 источников. По итогам камерального контроля начислено 322 млрд тенге налогов. ИИ помогает выявлять риски до проведения проверок. Их отображение в цифровых сервисах позволит предпринимателям заранее устранять нарушения. Национальный каталог товаров содержит порядка 33,5 млн товарных позиций. Созданная на его основе База данных цен используется в бюджетном планировании. По оценке на основе данных за 2024 год прогнозная экономия может составить 200 млрд тенге в год. Система KEDEN обеспечивает электронное таможенное декларирование и подачу документов по принципу «одного окна». Единый личный кабинет предпринимателя объединяет доступ к сервисам Минфина, уведомления и техническую поддержку."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-kz-keden-turysov-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия остаётся в обновлённом налоговом списке ЕС",
+      "sources": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+          "name": "Европейская комиссия, налоговый и таможенный департамент"
+        }
+      ],
+      "theme": "Обновление налогового списка ЕС и сохранение России в приложении I",
+      "jurisdictions": [
+        "Россия",
+        "ЕС",
+        "Панама",
+        "Вьетнам"
+      ],
+      "act": "Ревизия приложений I и II налогового списка Совета ЕС от 09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+        "source_quote": "Publication date 9 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "eu-tax-list-russia-20261009",
+        "cross_border_relevance": "Обновление налогового списка ЕС и сохранение России в приложении I. Прямое влияние на трансграничные налоговые структуры, обмен информацией и отчётность; статус документа проверен по видимому первоисточнику."
+      },
+      "slug": "2026-10-11_0900_-eu-tax-list-russia-20261009",
+      "caption": "Россия остаётся в обновлённом налоговом списке ЕС\n\n9 октября 2026 года Совет ЕС обновил перечень юрисдикций, не сотрудничающих в налоговой сфере. Панама и Вьетнам перенесены из приложения I в приложение II на время углублённой проверки обмена информацией. В приложении I осталось восемь юрисдикций, включая Российскую Федерацию.\n\nПочему это важно: При проверке трансграничных структур и платежей с участием России следует учитывать её сохранение в перечне. Для Панамы и Вьетнама изменился статус мониторинга; применимые налоговые последствия нужно сверять по правилам соответствующего государства ЕС.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+          "checked_at": "2026-10-11T05:08:17.811100+00:00",
+          "status_code": 200,
+          "final_url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года Совет ЕС обновил перечень юрисдикций, не сотрудничающих в налоговой сфере. Панама и Вьетнам перенесены из приложения I в приложение II на время углублённой проверки обмена информацией. В приложении I осталось восемь юрисдикций, включая Российскую Федерацию.",
+              "source_quote": "On 9 October, EU Finance Ministers agreed on the latest revision of the EU list of non-cooperative tax jurisdictions. News article 9 October 2026 Directorate-General for Taxation and Customs Union 3 min read The update reflects both progress made by jurisdictions through cooperation with the EU and remaining concerns in the areas of tax transparency and fair taxation. Updates made to Annex I The Council decided to remove Panama and Viet Nam from Annex I, the list of non-cooperative jurisdictions, following significant steps taken to address outstanding issues. Both jurisdictions were moved to Annex II (the list of cooperative jurisdictions) pending an in-depth review by the Global Forum of their exchange of information frameworks. This development confirms the positive effects of constructive engagement with jurisdictions on tax good governance matters. The Council also recognised the progress achieved by Vanuatu on tax transparency, although the jurisdiction remains in Annex I due to outstanding concerns in another area. In turn, further concerns were identified for Anguilla , as the jurisdiction did not address the issues related to its exchange of information framework. The Council regrets this development and has invited the jurisdiction to engage with the EU’s Code of Conduct Group and the Global Forum to resolve the issues. Following these changes, Annex I comprises 8 jurisdictions : American Samoa, Anguilla, Guam, Palau, the Russian Federation, Turks and Caicos, US Virgin Islands, and Vanuatu."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+            "checked_at": "2026-10-11T05:08:17.811100+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года Совет ЕС обновил перечень юрисдикций, не сотрудничающих в налоговой сфере. Панама и Вьетнам перенесены из приложения I в приложение II на время углублённой проверки обмена информацией. В приложении I осталось восемь юрисдикций, включая Российскую Федерацию.",
+                "source_quote": "On 9 October, EU Finance Ministers agreed on the latest revision of the EU list of non-cooperative tax jurisdictions. News article 9 October 2026 Directorate-General for Taxation and Customs Union 3 min read The update reflects both progress made by jurisdictions through cooperation with the EU and remaining concerns in the areas of tax transparency and fair taxation. Updates made to Annex I The Council decided to remove Panama and Viet Nam from Annex I, the list of non-cooperative jurisdictions, following significant steps taken to address outstanding issues. Both jurisdictions were moved to Annex II (the list of cooperative jurisdictions) pending an in-depth review by the Global Forum of their exchange of information frameworks. This development confirms the positive effects of constructive engagement with jurisdictions on tax good governance matters. The Council also recognised the progress achieved by Vanuatu on tax transparency, although the jurisdiction remains in Annex I due to outstanding concerns in another area. In turn, further concerns were identified for Anguilla , as the jurisdiction did not address the issues related to its exchange of information framework. The Council regrets this development and has invited the jurisdiction to engage with the EU’s Code of Conduct Group and the Global Forum to resolve the issues. Following these changes, Annex I comprises 8 jurisdictions : American Samoa, Anguilla, Guam, Palau, the Russian Federation, Turks and Caicos, US Virgin Islands, and Vanuatu."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-eu-tax-list-russia-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: обновлено разъяснение FATCA об американских налоговых номерах",
+      "sources": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+          "name": "Налоговая служба Ирландии"
+        }
+      ],
+      "theme": "FATCA: американские налоговые идентификаторы в отчётности иностранных финансовых организаций",
+      "jurisdictions": [
+        "Ирландия",
+        "США"
+      ],
+      "act": "Revenue eBrief 147/26; TDM Part 38-03-22 paragraph 4.3; IRS Notice 2024-78",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+        "source_quote": "Published: 09 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "ie-fatca-guidance-14726",
+        "cross_border_relevance": "FATCA: американские налоговые идентификаторы в отчётности иностранных финансовых организаций. Прямое влияние на трансграничные налоговые структуры, обмен информацией и отчётность; статус документа проверен по видимому первоисточнику."
+      },
+      "slug": "2026-10-11_0900_-ie-fatca-guidance-14726",
+      "caption": "Ирландия: обновлено разъяснение FATCA об американских налоговых номерах\n\n9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 147/26. В руководстве по FATCA — американскому закону об отчётности по зарубежным счетам — обновлён пункт 4.3 с учётом уведомления налоговой службы США (IRS) 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении американских налоговых идентификаторов.\n\nПочему это важно: Ирландским финансовым организациям и консультантам стоит сверить процедуры сбора и отчётности по американским налоговым номерам с обновлённым пунктом 4.3. Новость сообщает об обновлении ирландского руководства; условия послабления требуют проверки по самому уведомлению IRS.\n\nИсточник: https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+          "checked_at": "2026-10-11T05:08:17.812588+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 147/26. В руководстве по FATCA — американскому закону об отчётности по зарубежным счетам — обновлён пункт 4.3 с учётом уведомления налоговой службы США (IRS) 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении американских налоговых идентификаторов.",
+              "source_quote": "09 October 2026 Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland This eBrief is to inform customers that Tax and Duty Manual Part 38-03-22 - Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland - has been updated. Paragraph 4.3 has been updated to reflect guidance issued by the IRS in IRS Notice 2024-78 - Extension of Temporary Relief for Foreign Financial Institutions to Report U.S. Taxpayer Identification Numbers."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+            "checked_at": "2026-10-11T05:08:17.812588+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1472026.aspx",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 147/26. В руководстве по FATCA — американскому закону об отчётности по зарубежным счетам — обновлён пункт 4.3 с учётом уведомления налоговой службы США (IRS) 2024-78 о продлении временного послабления для иностранных финансовых организаций при сообщении американских налоговых идентификаторов.",
+                "source_quote": "09 October 2026 Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland This eBrief is to inform customers that Tax and Duty Manual Part 38-03-22 - Guidance Notes on the Implementation of Foreign Account Tax Compliance Act (FATCA) in Ireland - has been updated. Paragraph 4.3 has been updated to reflect guidance issued by the IRS in IRS Notice 2024-78 - Extension of Temporary Relief for Foreign Financial Institutions to Report U.S. Taxpayer Identification Numbers."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-ie-fatca-guidance-14726.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: обновлено руководство об акцизе на табак в багаже путешественников",
+      "sources": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Акциз при трансграничном ввозе табачных изделий в багаже",
+      "jurisdictions": [
+        "Ирландия"
+      ],
+      "act": "Revenue eBrief 145/26; Control and Examination of Baggage, Appendix 3",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+        "source_quote": "Published: 09 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "ie-baggage-excise-14526",
+        "cross_border_relevance": "Акциз при трансграничном ввозе табачных изделий в багаже"
+      },
+      "slug": "2026-10-11_0900_-ie-baggage-excise-14526",
+      "caption": "Ирландия: обновлено руководство об акцизе на табак в багаже путешественников\n\n9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 145/26 об обновлении руководства по контролю и досмотру багажа. Приложение 3 приведено в соответствие с изменениями бюджета 2027 в части акциза на табачные изделия, ввозимые в багаже путешественника.\n\nПочему это важно: При ввозе табака в Ирландию расчёт акциза следует сверять с обновлённым приложением. Сообщение не устанавливает новую беспошлинную норму и не подтверждает освобождение любого багажа от платежей.\n\nИсточник: https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "checked_at": "2026-10-11T05:08:17.813903+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 145/26 об обновлении руководства по контролю и досмотру багажа. Приложение 3 приведено в соответствие с изменениями бюджета 2027 в части акциза на табачные изделия, ввозимые в багаже путешественника.",
+              "source_quote": "09 October 2026 Tax and Duty manual on the Control and Examination of Baggage The tax and duty manual on the Control and Examination of Baggage has been amended with the following: In section 11.1.3 , there was an update to the lists of accredited Diplomatic and Consular Representatives. Appendix 3 has been amended to reflect the Budget 2027 changes in Excise Duty to be charged on imported tobacco products in a traveller's baggage. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+            "checked_at": "2026-10-11T05:08:17.813903+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года налоговая служба Ирландии выпустила разъяснение № 145/26 об обновлении руководства по контролю и досмотру багажа. Приложение 3 приведено в соответствие с изменениями бюджета 2027 в части акциза на табачные изделия, ввозимые в багаже путешественника.",
+                "source_quote": "09 October 2026 Tax and Duty manual on the Control and Examination of Baggage The tax and duty manual on the Control and Examination of Baggage has been amended with the following: In section 11.1.3 , there was an update to the lists of accredited Diplomatic and Consular Representatives. Appendix 3 has been amended to reflect the Budget 2027 changes in Excise Duty to be charged on imported tobacco products in a traveller's baggage. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-ie-baggage-excise-14526.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: уточнены исключения из антидемпинговых пошлин на горячекатаный прокат",
+      "sources": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Льготный импорт проката и исключения из антидемпинговой меры",
+      "jurisdictions": [
+        "ЮАР",
+        "Китай",
+        "Япония",
+        "Тайвань"
+      ],
+      "act": "SARS Notice R.7991; GG 55506; item 215.02; ITAC Minute M02/2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+        "source_quote": "9 October 2026 New! GG 55506 R.7991"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "za-steel-rebate-r7991",
+        "cross_border_relevance": "Льготный импорт проката и исключения из антидемпинговой меры"
+      },
+      "slug": "2026-10-11_0900_-za-steel-rebate-r7991",
+      "caption": "ЮАР: уточнены исключения из антидемпинговых пошлин на горячекатаный прокат\n\n9 октября 2026 года в официальной газете № 55506 опубликовано уведомление R.7991. Поправка к позиции 215.02 части 1 приложения 2 перечисляет позиции льготного ввоза, которые исключаются из применимых антидемпинговых пошлин на определённый горячекатаный плоский прокат из Китая, Японии и Тайваня. В официальном реестре налоговой службы ЮАР (SARS) указано ретроактивное действие с 19 марта 2026 года.\n\nПочему это важно: Импортёрам такого проката нужно сверить товарную позицию и код льготы с уведомлением. Исключение связано с конкретными позициями: сообщение не означает отмену всех пошлин на сталь из этих стран.\n\nИсточник: https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+          "checked_at": "2026-10-11T05:08:17.975497+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года в официальной газете № 55506 опубликовано уведомление R.7991. Поправка к позиции 215.02 части 1 приложения 2 перечисляет позиции льготного ввоза, которые исключаются из применимых антидемпинговых пошлин на определённый горячекатаный плоский прокат из Китая, Японии и Тайваня. В официальном реестре налоговой службы ЮАР (SARS) указано ретроактивное действие с 19 марта 2026 года.",
+              "source_quote": "9 October 2026 New! GG 55506 R.7991 Amendment to Part 1 of Schedule No. 2, by the substitution of various items under item 215.02 in order to list the rebate items intended to be excluded from the applicable anti-dumping duties on certain flat-rolled products of iron, non-alloy or other alloy steel of a width of 600 mm or more, whether or not in coils (including products cut to length), not further worked than hot-rolled, including pickled and oiled, hot-rolled, not clad, plated or coated, (excluding stainless and grain-oriented silicon electrical steel, classifiable under various tariff subheadings under Chapter 72, originating in or imported from the Peoples Republic of China, Japan and Chinese Taipei (ITAC Minute M02/2026) Notice R.7991 With retrospective effect from 19 March 2026 "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+            "checked_at": "2026-10-11T05:08:17.975497+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/legal-counsel/secondary-legislation/tariff-amendments/tariff-amendments-2026/",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года в официальной газете № 55506 опубликовано уведомление R.7991. Поправка к позиции 215.02 части 1 приложения 2 перечисляет позиции льготного ввоза, которые исключаются из применимых антидемпинговых пошлин на определённый горячекатаный плоский прокат из Китая, Японии и Тайваня. В официальном реестре налоговой службы ЮАР (SARS) указано ретроактивное действие с 19 марта 2026 года.",
+                "source_quote": "9 October 2026 New! GG 55506 R.7991 Amendment to Part 1 of Schedule No. 2, by the substitution of various items under item 215.02 in order to list the rebate items intended to be excluded from the applicable anti-dumping duties on certain flat-rolled products of iron, non-alloy or other alloy steel of a width of 600 mm or more, whether or not in coils (including products cut to length), not further worked than hot-rolled, including pickled and oiled, hot-rolled, not clad, plated or coated, (excluding stainless and grain-oriented silicon electrical steel, classifiable under various tariff subheadings under Chapter 72, originating in or imported from the Peoples Republic of China, Japan and Chinese Taipei (ITAC Minute M02/2026) Notice R.7991 With retrospective effect from 19 March 2026 "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-za-steel-rebate-r7991.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Гонконг: объявлены таможенные процедуры на новом пункте Хуанган",
+      "sources": [
+        {
+          "url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Таможенный контроль при трансграничном перемещении автомобилей и багажа",
+      "jurisdictions": [
+        "Гонконг",
+        "Китай"
+      ],
+      "act": "Arrangements for new Huanggang Port; government announcement 09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+        "source_quote": "Arrangements ready for new port October 9, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "hk-huanggang-clearance-20261009",
+        "cross_border_relevance": "Таможенный контроль при трансграничном перемещении автомобилей и багажа"
+      },
+      "slug": "2026-10-11_0900_-hk-huanggang-clearance-20261009",
+      "caption": "Гонконг: объявлены таможенные процедуры на новом пункте Хуанган\n\n9 октября 2026 года власти Гонконга сообщили, что начало работы нового пограничного пункта Хуанган запланировано на 12 октября в 06:30 по местному времени. Для пассажиров трансграничных частных автомобилей предусмотрено раздельное прохождение контроля: пассажиры выходят с личным багажом, а выезжающие автомобили сначала проходят оценку рисков у таможенного поста и при необходимости направляются на досмотр.\n\nПочему это важно: Путешественникам между Гонконгом и Шэньчжэнем стоит заранее учесть новый порядок прохождения границы. Разделение пассажиров и автомобиля влияет на организацию таможенного контроля и перевозку личного багажа.\n\nИсточник: https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+          "checked_at": "2026-10-11T05:08:18.273778+00:00",
+          "status_code": 200,
+          "final_url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года власти Гонконга сообщили, что начало работы нового пограничного пункта Хуанган запланировано на 12 октября в 06:30 по местному времени. Для пассажиров трансграничных частных автомобилей предусмотрено раздельное прохождение контроля: пассажиры выходят с личным багажом, а выезжающие автомобили сначала проходят оценку рисков у таможенного поста и при необходимости направляются на досмотр.",
+              "source_quote": "October 9, 2026 The Government today outlined the comprehensive arrangements for the opening of the new Huanggang Port, which is scheduled to commence operation at 6.30am on October 12. Immigration clearance services at the port will start from 6.30am on that day. Prior to this switchover time, all passengers must continue to use the Lok Ma Chau Control Point to travel between Hong Kong and Shenzhen. The Immigration Department (ImmD) will ensure that all passengers arriving at the Lok Ma Chau Control Point or the temporary port building of the Huanggang Port in Shenzhen before 6.30am will be able to complete their immigration clearance procedures. The ImmD appealed to eligible Hong Kong residents to enrol for the new “collaborative inspection” automated channels in advance via the “HK e-Channel” mobile application. To closely monitor operations and ensure timely response measures, the ImmD will set up a joint command centre with relevant departments, including the Hong Kong Police Force (HKPF), the Customs & Excise Department (C&ED) and the Transport Department (TD). It will also maintain close liaison with Mainland authorities, including the Shenzhen General Station of Exit & Entry Frontier Inspection. Meanwhile, the C&ED reminded travellers that a “passenger-vehicle separation” arrangement will be implemented at the new Huanggang Port. Under this measure, general passengers in cross-boundary private vehicles must disembark at the drop-off area, carrying their personal luggage and belongings to the immigration clearance hall to undergo clearance procedures. Outbound vehicles will first pass through the “customs front kiosk” for risk assessment, and vehicles requiring further inspection must proceed to the designated examination area. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+            "checked_at": "2026-10-11T05:08:18.273778+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.news.gov.hk/eng/2026/10/20261009/20261009_142929_315.html",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года власти Гонконга сообщили, что начало работы нового пограничного пункта Хуанган запланировано на 12 октября в 06:30 по местному времени. Для пассажиров трансграничных частных автомобилей предусмотрено раздельное прохождение контроля: пассажиры выходят с личным багажом, а выезжающие автомобили сначала проходят оценку рисков у таможенного поста и при необходимости направляются на досмотр.",
+                "source_quote": "October 9, 2026 The Government today outlined the comprehensive arrangements for the opening of the new Huanggang Port, which is scheduled to commence operation at 6.30am on October 12. Immigration clearance services at the port will start from 6.30am on that day. Prior to this switchover time, all passengers must continue to use the Lok Ma Chau Control Point to travel between Hong Kong and Shenzhen. The Immigration Department (ImmD) will ensure that all passengers arriving at the Lok Ma Chau Control Point or the temporary port building of the Huanggang Port in Shenzhen before 6.30am will be able to complete their immigration clearance procedures. The ImmD appealed to eligible Hong Kong residents to enrol for the new “collaborative inspection” automated channels in advance via the “HK e-Channel” mobile application. To closely monitor operations and ensure timely response measures, the ImmD will set up a joint command centre with relevant departments, including the Hong Kong Police Force (HKPF), the Customs & Excise Department (C&ED) and the Transport Department (TD). It will also maintain close liaison with Mainland authorities, including the Shenzhen General Station of Exit & Entry Frontier Inspection. Meanwhile, the C&ED reminded travellers that a “passenger-vehicle separation” arrangement will be implemented at the new Huanggang Port. Under this measure, general passengers in cross-boundary private vehicles must disembark at the drop-off area, carrying their personal luggage and belongings to the immigration clearance hall to undergo clearance procedures. Outbound vehicles will first pass through the “customs front kiosk” for risk assessment, and vehicles requiring further inspection must proceed to the designated examination area. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-hk-huanggang-clearance-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: одобрены заявки на беспошлинный ввоз научных приборов",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Освобождение от импортной пошлины на иностранные научные приборы",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "FR Doc. 2026-20490; duty-free scientific instruments decision; docket 25-067",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "us-scientific-instruments-20490",
+        "cross_border_relevance": "Освобождение от импортной пошлины на иностранные научные приборы"
+      },
+      "slug": "2026-10-11_0900_-us-scientific-instruments-20490",
+      "caption": "США: одобрены заявки на беспошлинный ввоз научных приборов\n\n6 октября 2026 года опубликовано решение Минторга США об одобрении перечисленных в уведомлении заявок на беспошлинный ввоз зарубежных научных приборов. Ведомство указало, что ему не известны произведённые в США на момент заказа приборы эквивалентной научной ценности для заявленных целей. Среди заявителей — Институт горного дела и технологий Нью-Мексико.\n\nПочему это важно: Университетам и исследовательским организациям при закупках за рубежом полезно проверить возможность применения специальной процедуры. Одобрение относится к перечисленным заявкам и приборам; это не общее освобождение любого научного оборудования от пошлины.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+          "checked_at": "2026-10-11T05:08:31.909835+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года опубликовано решение Минторга США об одобрении перечисленных в уведомлении заявок на беспошлинный ввоз зарубежных научных приборов. Ведомство указало, что ему не известны произведённые в США на момент заказа приборы эквивалентной научной ценности для заявленных целей. Среди заявителей — Институт горного дела и технологий Нью-Мексико.",
+              "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63521-63522] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20490] ======================================================================= ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration New Mexico Institute of Mining and Technology et.al, Notice of Decision on Application for Duty-Free Entry of Scientific Instruments This is a decision pursuant to Section 6(c) of the Educational, Scientific, and Cultural Materials Importation Act of 1966 (Pub. L. 89- 651, as amended by Pub. L. 106-36; 80 Stat. 897; 15 CFR part 301). On August 25, 2026, the Department of Commerce published a notice in the Federal Register requesting public comment on whether instruments of equivalent scientific value, for the purposes for which the instruments identified in the docket(s) below are intended to be used, are being manufactured in the United States. See New Mexico Institute of Mining and Technology et al.; Application(s) for Duty-Free Entry of Scientific Instruments 91 FR 54847, August 25, 2026. We received no public comments. Comments: None received. Decision: Approved. We know of no instrument of equivalent scientific value to the foreign instrument described below, for such purposes as this is intended to be used, that was being manufactured in the United States at the time of order. ------------------------------------------------------------------------ Docket No. Applicant Instrument ------------------------------------------------------------------------ 25-067............ New Mexico Institute of JXA-IHP200F Field Mining and Technology. Emission Electron Probe MicroAnalyzer (EPMA). "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+            "checked_at": "2026-10-11T05:08:31.909835+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20490.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года опубликовано решение Минторга США об одобрении перечисленных в уведомлении заявок на беспошлинный ввоз зарубежных научных приборов. Ведомство указало, что ему не известны произведённые в США на момент заказа приборы эквивалентной научной ценности для заявленных целей. Среди заявителей — Институт горного дела и технологий Нью-Мексико.",
+                "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63521-63522] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20490] ======================================================================= ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration New Mexico Institute of Mining and Technology et.al, Notice of Decision on Application for Duty-Free Entry of Scientific Instruments This is a decision pursuant to Section 6(c) of the Educational, Scientific, and Cultural Materials Importation Act of 1966 (Pub. L. 89- 651, as amended by Pub. L. 106-36; 80 Stat. 897; 15 CFR part 301). On August 25, 2026, the Department of Commerce published a notice in the Federal Register requesting public comment on whether instruments of equivalent scientific value, for the purposes for which the instruments identified in the docket(s) below are intended to be used, are being manufactured in the United States. See New Mexico Institute of Mining and Technology et al.; Application(s) for Duty-Free Entry of Scientific Instruments 91 FR 54847, August 25, 2026. We received no public comments. Comments: None received. Decision: Approved. We know of no instrument of equivalent scientific value to the foreign instrument described below, for such purposes as this is intended to be used, that was being manufactured in the United States at the time of order. ------------------------------------------------------------------------ Docket No. Applicant Instrument ------------------------------------------------------------------------ 25-067............ New Mexico Institute of JXA-IHP200F Field Mining and Technology. Emission Electron Probe MicroAnalyzer (EPMA). "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-us-scientific-instruments-20490.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Камбоджа: США опубликовали предварительные расчёты по бумажным пакетам",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Антидемпинговый пересмотр импорта бумажных пакетов из Камбоджи",
+      "jurisdictions": [
+        "США",
+        "Камбоджа"
+      ],
+      "act": "A-555-002; FR Doc. 2026-20777; review 2024–2025",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 195 (Friday, October 9, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "us-cambodia-paperbags-20777",
+        "cross_border_relevance": "Антидемпинговый пересмотр импорта бумажных пакетов из Камбоджи"
+      },
+      "slug": "2026-10-11_0900_-us-cambodia-paperbags-20777",
+      "caption": "Камбоджа: США опубликовали предварительные расчёты по бумажным пакетам\n\n9 октября 2026 года Минторг США опубликовал предварительные результаты антидемпингового пересмотра по бумажным пакетам для покупок из Камбоджи, дело A-555-002, за период с 3 января 2024 года по 30 июня 2025 года. В зависимости от производителя предварительная маржа составляет 20,08% или 73,30%. Результаты открыты для замечаний; это ещё не окончательно установленные новые ставки.\n\nПочему это важно: Экспортёрам и импортёрам стоит оценить риск по своему поставщику и подготовить замечания. Уведомление связывает новые требования к денежному обеспечению с публикацией окончательных результатов пересмотра.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "checked_at": "2026-10-11T05:08:33.796512+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года Минторг США опубликовал предварительные результаты антидемпингового пересмотра по бумажным пакетам для покупок из Камбоджи, дело A-555-002, за период с 3 января 2024 года по 30 июня 2025 года. В зависимости от производителя предварительная маржа составляет 20,08% или 73,30%. Результаты открыты для замечаний; это ещё не окончательно установленные новые ставки.",
+              "source_quote": "Federal Register, Volume 91 Issue 195 (Friday, October 9, 2026) [Federal Register Volume 91, Number 195 (Friday, October 9, 2026)] [Notices] [Pages 64639-64641] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20777] [[Page 64639]] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-555-002] Certain Paper Shopping Bags From Cambodia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that certain paper shopping bags (paper shopping bags) from Cambodia were sold in the United States at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 9, 2026. FOR FURTHER INFORMATION CONTACT: Travis Hargett, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-4604. SUPPLEMENTARY INFORMATION: Background On July 18, 2024, Commerce published in the Federal Register the antidumping duty (AD) order on paper shopping bags from Cambodia.\\1\\ On June 30, 2025, Commerce published in the Federal Register a notice of opportunity to request an administrative review of the Order.\\2\\ On August 22, 2025, based on timely requests for review, in accordance with section 751(a)(1) of the Tariff Act of 1930, as amended (the Act), and 19 CFR 351.221(c)(1)(i), we initiated an administrative review of the Order covering four producers/exporters.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Paper Shopping Bags from Cambodia, Colombia, India, Malaysia, Portugal, Taiwan, the People's Republic of China, and the Socialist Republic of Vietnam: Antidumping Duty Orders, 89 FR 58334 (July 18, 2024) (Order). \\2\\ See Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List, 90 FR 27841 (June 30, 2025). \\3\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews, 90 FR 41043 (August 22, 2025). --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\4\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\5\\ On May 15, 2026, we extended the preliminary results of this review to September 30, 2026.\\6\\ On September 23, 2026, we extended the preliminary results of this review to October 7, 2026.\\7\\ --------------------------------------------------------------------------- \\4\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\5\\ See Memorandum, ``Tolling of all Case Deadlines,'' dated November 24, 2025. \\6\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review,'' dated May 15, 2026. \\7\\ See Memorandum, ``Second Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review,'' dated September 23, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum.\\8\\ A list of the topics discussed in the Preliminary Decision Memorandum is attached as an appendix to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Administrative Review of the Antidumping Duty Order on Certain Paper Shopping Bags from Cambodia; 2024-2025,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The merchandise subject to the Order is paper shopping bags from Cambodia. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Methodology Commerce is conducting this review in accordance with section 751(a) of the Act. Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. Furthermore, pursuant to section 776(a) and (b) of the Act, Commerce has preliminarily relied upon facts otherwise available, with adverse inferences for UUPak Company Limited (UUPak). For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies There are two companies for which a review was requested, and which were not selected as mandatory respondents or found to be affiliated with a mandatory respondent. The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(e)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non-selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2), which generally parallels the process for determining the all-others rate in an investigation under section 735(c)(5) of the Act. Under section 735(c)(5)(A) of the Act and 19 CFR 351.109(f), the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis (i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act and 19 CFR 351.109(f)(2)(iii) provide that Commerce may use ``any reasonable method'' to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated. In this administrative review, we preliminarily calculated a weighted-average dumping margin for Nice Packaging (Cambodia) Co., Ltd. (Nice Packaging) that is not zero, de minimis, or based entirely on facts otherwise available, and preliminarily assigned a dumping margin for UUPak based entirely on facts otherwise available. Therefore, we are preliminarily assigning the weighted-average dumping margin calculated for Nice Packaging to the companies under review that were not selected for individual examination, consistent with the guidance in section 735(c)(5)(A) of the Act. Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping [[Page 64640]] margins exist for the period January 3, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted- average Producer/exporter dumping margin (percent) ------------------------------------------------------------------------ Nice Packaging (Cambodia) Co., Ltd.......................... 20.08 UUPak Company Limited....................................... * 73.30 Brandart S.p.A.............................................. 20.08 TB Packaging (Cambodia) Co., Ltd............................ 20.08 ------------------------------------------------------------------------ * This rate is based on total AFA. Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register, in accordance with 19 CFR 351.224(b). Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. Pursuant to 19 CFR 351.309(c)(1)(ii), we have modified the deadline for interested parties to submit case briefs to Commerce to no later than 21 days after the date of the publication of this notice.\\9\\ Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs.\\10\\ Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities.\\11\\ All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. --------------------------------------------------------------------------- \\9\\ See 19 CFR 351.309. \\10\\ See 19 CFR 351.309(d); see also Administrative Protective Order, Service, and Other Procedures in Antidumping and Countervailing Duty Proceedings, 88 FR 67069, 67077 (September 29, 2023) (APO and Service Procedures). \\11\\ See 19 CFR 351.309(c)(2) and (d)(2). --------------------------------------------------------------------------- As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii), we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs.\\12\\ Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f).\\13\\ --------------------------------------------------------------------------- \\12\\ We use the term ``issue'' here to describe an argument that Commerce would normally address in a comment of the Issues and Decision Memorandum. \\13\\ See APO and Service Procedures. --------------------------------------------------------------------------- Pursuant to 19 CFR 351.310(c), interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing.\\14\\ --------------------------------------------------------------------------- \\14\\ See 19 CFR 351.310(d). --------------------------------------------------------------------------- Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1), Commerce will determine, and U.S. Customs and Border Protection (CBP) shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If Nice Packaging's weighted-average dumping margin is not zero or de minimis (i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales.\\15\\ To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2), we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If Nice Packaging's weighted- average dumping margin is zero or de minimis or where an importer- specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties.\\16\\ --------------------------------------------------------------------------- \\15\\ See 19 CFR 351.212(b)(1). \\16\\ See 19 CFR 351.106(c)(2); see also Antidumping Proceeding: Calculation of the Weighted-Average Dumping Margin and Assessment Rate in Certain Antidumping Proceedings; Final Modification, 77 FR 8101, 8103 (February 14, 2012). --------------------------------------------------------------------------- In accordance with Commerce's ``automatic assessment'' practice, for entries of subject merchandise during the POR produced by Nice Packaging for which it did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the LTFV investigation if there is no rate for the intermediate company(ies) involved in the transaction.\\17\\ --------------------------------------------------------------------------- \\17\\ For a full discussion of this practice, see Antidumping and Countervailing Duty Proceedings: Assessment of Antidumping Duties, 68 FR 23954 (May 6, 2003). --------------------------------------------------------------------------- For the companies listed above which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the ``Rate for Non- Individually Examined Companies'' section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable.\\18\\ --------------------------------------------------------------------------- \\18\\ See section 751(a)(2)(C) of the Act. --------------------------------------------------------------------------- Commerce intends to issue assessment instructions to CBP regarding Nice Packaging, UUPak Company Limited, and the non-selected companies listed above no earlier than 35 days after the date of publication of the final results of this review in the Federal Register. If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired (i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for each company listed above will be the rate established in the final results of this review, except [[Page 64641]] if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1), in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 7.07 percent, the all-others rate established in the LTFV investigation.\\19\\ These cash deposit requirements, when imposed, shall remain in effect until further notice. --------------------------------------------------------------------------- \\19\\ See Order, 89 FR at 58335. --------------------------------------------------------------------------- "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+            "checked_at": "2026-10-11T05:08:33.796512+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года Минторг США опубликовал предварительные результаты антидемпингового пересмотра по бумажным пакетам для покупок из Камбоджи, дело A-555-002, за период с 3 января 2024 года по 30 июня 2025 года. В зависимости от производителя предварительная маржа составляет 20,08% или 73,30%. Результаты открыты для замечаний; это ещё не окончательно установленные новые ставки.",
+                "source_quote": "Federal Register, Volume 91 Issue 195 (Friday, October 9, 2026) [Federal Register Volume 91, Number 195 (Friday, October 9, 2026)] [Notices] [Pages 64639-64641] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20777] [[Page 64639]] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [A-555-002] Certain Paper Shopping Bags From Cambodia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that certain paper shopping bags (paper shopping bags) from Cambodia were sold in the United States at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 9, 2026. FOR FURTHER INFORMATION CONTACT: Travis Hargett, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-4604. SUPPLEMENTARY INFORMATION: Background On July 18, 2024, Commerce published in the Federal Register the antidumping duty (AD) order on paper shopping bags from Cambodia.\\1\\ On June 30, 2025, Commerce published in the Federal Register a notice of opportunity to request an administrative review of the Order.\\2\\ On August 22, 2025, based on timely requests for review, in accordance with section 751(a)(1) of the Tariff Act of 1930, as amended (the Act), and 19 CFR 351.221(c)(1)(i), we initiated an administrative review of the Order covering four producers/exporters.\\3\\ --------------------------------------------------------------------------- \\1\\ See Certain Paper Shopping Bags from Cambodia, Colombia, India, Malaysia, Portugal, Taiwan, the People's Republic of China, and the Socialist Republic of Vietnam: Antidumping Duty Orders, 89 FR 58334 (July 18, 2024) (Order). \\2\\ See Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List, 90 FR 27841 (June 30, 2025). \\3\\ See Initiation of Antidumping and Countervailing Duty Administrative Reviews, 90 FR 41043 (August 22, 2025). --------------------------------------------------------------------------- Due to the lapse in appropriations and Federal Government shutdown, on November 14, 2025, Commerce tolled all deadlines in administrative proceedings by 47 days.\\4\\ Additionally, due to a backlog of documents that were electronically filed via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS) during the Federal Government shutdown, on November 24, 2025, Commerce tolled all deadlines in administrative proceedings by an additional 21 days.\\5\\ On May 15, 2026, we extended the preliminary results of this review to September 30, 2026.\\6\\ On September 23, 2026, we extended the preliminary results of this review to October 7, 2026.\\7\\ --------------------------------------------------------------------------- \\4\\ See Memorandum, ``Deadlines Affected by the Shutdown of the Federal Government,'' dated November 14, 2025. \\5\\ See Memorandum, ``Tolling of all Case Deadlines,'' dated November 24, 2025. \\6\\ See Memorandum, ``Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review,'' dated May 15, 2026. \\7\\ See Memorandum, ``Second Extension of Deadline for Preliminary Results of Antidumping Duty Administrative Review,'' dated September 23, 2026. --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this review, see the Preliminary Decision Memorandum.\\8\\ A list of the topics discussed in the Preliminary Decision Memorandum is attached as an appendix to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via ACCESS, which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\8\\ See Memorandum, ``Decision Memorandum for the Preliminary Results of the Administrative Review of the Antidumping Duty Order on Certain Paper Shopping Bags from Cambodia; 2024-2025,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Order The merchandise subject to the Order is paper shopping bags from Cambodia. For a complete description of the scope of the Order, see the Preliminary Decision Memorandum. Methodology Commerce is conducting this review in accordance with section 751(a) of the Act. Export price is calculated in accordance with section 772 of the Act. NV is calculated in accordance with section 773 of the Act. Furthermore, pursuant to section 776(a) and (b) of the Act, Commerce has preliminarily relied upon facts otherwise available, with adverse inferences for UUPak Company Limited (UUPak). For a full description of the methodology underlying our conclusions, see the Preliminary Decision Memorandum. Rate for Non-Individually Examined Companies There are two companies for which a review was requested, and which were not selected as mandatory respondents or found to be affiliated with a mandatory respondent. The Act does not address the establishment of a rate to apply to companies not selected for individual examination when Commerce limits its examination in an administrative review pursuant to section 777A(e)(2) of the Act. However, Commerce's regulation at 19 CFR 351.109(g) states that Commerce will determine the rate for non-selected companies by following the process set forth in 19 CFR 351.109(f)(1)-(2), which generally parallels the process for determining the all-others rate in an investigation under section 735(c)(5) of the Act. Under section 735(c)(5)(A) of the Act and 19 CFR 351.109(f), the all-others rate is normally an amount equal to the weighted average of the estimated weighted-average dumping margins established for exporters and producers individually investigated, excluding any rates that are zero, de minimis (i.e., less than 0.5 percent), or determined entirely on the basis of facts available. Where the weighted-average dumping margin for each of the individually examined companies is zero, de minimis, or based entirely on facts available, section 735(c)(5)(B) of the Act and 19 CFR 351.109(f)(2)(iii) provide that Commerce may use ``any reasonable method'' to establish the estimated all-others rate for exporters and producers not individually investigated, including averaging the estimated weighted-average dumping margins determined for the exporters and producers individually investigated. In this administrative review, we preliminarily calculated a weighted-average dumping margin for Nice Packaging (Cambodia) Co., Ltd. (Nice Packaging) that is not zero, de minimis, or based entirely on facts otherwise available, and preliminarily assigned a dumping margin for UUPak based entirely on facts otherwise available. Therefore, we are preliminarily assigning the weighted-average dumping margin calculated for Nice Packaging to the companies under review that were not selected for individual examination, consistent with the guidance in section 735(c)(5)(A) of the Act. Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping [[Page 64640]] margins exist for the period January 3, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted- average Producer/exporter dumping margin (percent) ------------------------------------------------------------------------ Nice Packaging (Cambodia) Co., Ltd.......................... 20.08 UUPak Company Limited....................................... * 73.30 Brandart S.p.A.............................................. 20.08 TB Packaging (Cambodia) Co., Ltd............................ 20.08 ------------------------------------------------------------------------ * This rate is based on total AFA. Disclosure Commerce intends to disclose its calculations and analysis performed to interested parties for these preliminary results within five days of any public announcement or, if there is no public announcement, within five days of the date of publication of this notice in the Federal Register, in accordance with 19 CFR 351.224(b). Public Comment Case briefs or other written comments may be submitted to the Assistant Secretary for Enforcement and Compliance. Pursuant to 19 CFR 351.309(c)(1)(ii), we have modified the deadline for interested parties to submit case briefs to Commerce to no later than 21 days after the date of the publication of this notice.\\9\\ Rebuttal briefs, limited to issues raised in the case briefs, may be filed not later than five days after the date for filing case briefs.\\10\\ Interested parties who submit case briefs or rebuttal briefs in this proceeding must submit: (1) a table of contents listing each issue; and (2) a table of authorities.\\11\\ All briefs must be filed electronically using ACCESS. An electronically filed document must be received successfully in its entirety in ACCESS by 5:00 p.m. Eastern Time on the established deadline. --------------------------------------------------------------------------- \\9\\ See 19 CFR 351.309. \\10\\ See 19 CFR 351.309(d); see also Administrative Protective Order, Service, and Other Procedures in Antidumping and Countervailing Duty Proceedings, 88 FR 67069, 67077 (September 29, 2023) (APO and Service Procedures). \\11\\ See 19 CFR 351.309(c)(2) and (d)(2). --------------------------------------------------------------------------- As provided under 19 CFR 351.309(c)(2)(iii) and (d)(2)(iii), we request that interested parties provide at the beginning of their briefs a public executive summary for each issue raised in their briefs.\\12\\ Further, we request that interested parties limit their public executive summary of each issue to no more than 450 words, not including citations. We intend to use the public executive summaries as the basis of the comment summaries included in the issues and decision memorandum that will accompany the final results in this administrative review. We request that interested parties include footnotes for relevant citations in the public executive summary of each issue. Note that Commerce has amended certain of its requirements pertaining to the service of documents in 19 CFR 351.303(f).\\13\\ --------------------------------------------------------------------------- \\12\\ We use the term ``issue'' here to describe an argument that Commerce would normally address in a comment of the Issues and Decision Memorandum. \\13\\ See APO and Service Procedures. --------------------------------------------------------------------------- Pursuant to 19 CFR 351.310(c), interested parties who wish to request a hearing must submit a written request to the Assistant Secretary for Enforcement and Compliance, filed electronically via ACCESS by 5:00 p.m. Eastern Time within 30 days after the date of publication of this notice. Requests should contain: (1) the party's name, address, and telephone number; (2) the number of participants, and whether any participant is a foreign national; and (3) a list of issues to be discussed. Oral presentations at the hearing will be limited to issues raised in the briefs. If a request for a hearing is made, Commerce will inform parties of the scheduled date for the hearing.\\14\\ --------------------------------------------------------------------------- \\14\\ See 19 CFR 351.310(d). --------------------------------------------------------------------------- Assessment Rates Pursuant to section 751(a)(2)(A) of the Act and 19 CFR 351.212(b)(1), Commerce will determine, and U.S. Customs and Border Protection (CBP) shall assess, antidumping duties on all appropriate entries of subject merchandise in accordance with the final results of this review. If Nice Packaging's weighted-average dumping margin is not zero or de minimis (i.e., less than 0.50 percent) in the final results of this review, Commerce intends to calculate importer-specific assessment rates on the basis of the ratio of the total amount of dumping calculated for each importer's examined sales to the total entered value of those sales. Where we do not have entered values for all U.S. sales to a particular importer, we will calculate an importer-specific, per-unit assessment rate on the basis of the ratio of the total amount of dumping calculated for the importer's examined sales to the total quantity of those sales.\\15\\ To determine whether an importer-specific, per-unit assessment rate is de minimis, in accordance with 19 CFR 351.106(c)(2), we also will calculate an importer-specific ad valorem ratio based on estimated entered values. If Nice Packaging's weighted- average dumping margin is zero or de minimis or where an importer- specific ad valorem assessment rate is zero or de minimis, we will instruct CBP to liquidate appropriate entries without regard to antidumping duties.\\16\\ --------------------------------------------------------------------------- \\15\\ See 19 CFR 351.212(b)(1). \\16\\ See 19 CFR 351.106(c)(2); see also Antidumping Proceeding: Calculation of the Weighted-Average Dumping Margin and Assessment Rate in Certain Antidumping Proceedings; Final Modification, 77 FR 8101, 8103 (February 14, 2012). --------------------------------------------------------------------------- In accordance with Commerce's ``automatic assessment'' practice, for entries of subject merchandise during the POR produced by Nice Packaging for which it did not know that the merchandise was destined for the United States, we intend to instruct CBP to liquidate those entries at the all-others rate calculated in the LTFV investigation if there is no rate for the intermediate company(ies) involved in the transaction.\\17\\ --------------------------------------------------------------------------- \\17\\ For a full discussion of this practice, see Antidumping and Countervailing Duty Proceedings: Assessment of Antidumping Duties, 68 FR 23954 (May 6, 2003). --------------------------------------------------------------------------- For the companies listed above which were not selected for individual review, we will assign an assessment rate based on the review-specific rate, calculated as noted in the ``Rate for Non- Individually Examined Companies'' section, above. The final results of this review shall be the basis for the assessment of antidumping duties on entries of merchandise covered by the final results of this review and for future deposits of estimated duties, where applicable.\\18\\ --------------------------------------------------------------------------- \\18\\ See section 751(a)(2)(C) of the Act. --------------------------------------------------------------------------- Commerce intends to issue assessment instructions to CBP regarding Nice Packaging, UUPak Company Limited, and the non-selected companies listed above no earlier than 35 days after the date of publication of the final results of this review in the Federal Register. If a timely summons is filed at the U.S. Court of International Trade, the assessment instructions will direct CBP not to liquidate relevant entries until the time for parties to file a request for a statutory injunction has expired (i.e., within 90 days of publication). Cash Deposit Requirements The following deposit requirements will be effective for all shipments of the subject merchandise entered, or withdrawn from warehouse, for consumption on or after the publication date of the final results of this administrative review, as provided by section 751(a)(2)(C) of the Act: (1) the cash deposit rate for each company listed above will be the rate established in the final results of this review, except [[Page 64641]] if the rate is less than 0.50 percent and, therefore, de minimis within the meaning of 19 CFR 351.106(c)(1), in which case the cash deposit rate will be zero; (2) for previously investigated or reviewed companies not covered by this review, the cash deposit rate will continue to be the company-specific cash deposit rate published for the most recently completed segment of this proceeding in which the company participated; (3) if the exporter is not a firm covered in this review, or the LTFV investigation, but the manufacturer is, then the cash deposit rate will be the rate established for the most recent segment for the manufacturer of the merchandise; and (4) the cash deposit rate for all other manufacturers or exporters will continue to be 7.07 percent, the all-others rate established in the LTFV investigation.\\19\\ These cash deposit requirements, when imposed, shall remain in effect until further notice. --------------------------------------------------------------------------- \\19\\ See Order, 89 FR at 58335. --------------------------------------------------------------------------- "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-us-cambodia-paperbags-20777.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: предварительный вывод по субсидиям на китайское вещество CBS",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Компенсационная мера и денежное обеспечение импорта CBS из Китая",
+      "jurisdictions": [
+        "США",
+        "Китай"
+      ],
+      "act": "C-570-235; FR Doc. 2026-20692; preliminary CVD determination",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "us-china-cbs-20692",
+        "cross_border_relevance": "Компенсационная мера и денежное обеспечение импорта CBS из Китая"
+      },
+      "slug": "2026-10-11_0900_-us-china-cbs-20692",
+      "caption": "США: предварительный вывод по субсидиям на китайское вещество CBS\n\n8 октября 2026 года Минторг США опубликовал предварительный вывод о субсидировании химического соединения CBS из Китая, дело C-570-235. Для перечисленных компаний и категории «прочие» предварительная ставка составляет 107,57%. Предписаны приостановление окончательного таможенного расчёта и денежное обеспечение по предварительной ставке. Приостановление охватывает также поставки начиная с даты за 90 дней до публикации уведомления, если расчёт по ним ещё не завершён.\n\nПочему это важно: Импортёрам CBS следует проверить охват товара и поставщика и потребность в денежном обеспечении. Предварительный вывод не равнозначен завершению расследования.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+          "checked_at": "2026-10-11T05:08:33.838051+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+          "evidence": [
+            {
+              "claim": "8 октября 2026 года Минторг США опубликовал предварительный вывод о субсидировании химического соединения CBS из Китая, дело C-570-235. Для перечисленных компаний и категории «прочие» предварительная ставка составляет 107,57%. Предписаны приостановление окончательного таможенного расчёта и денежное обеспечение по предварительной ставке. Приостановление охватывает также поставки начиная с даты за 90 дней до публикации уведомления, если расчёт по ним ещё не завершён.",
+              "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64337-64339] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20692] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-570-235] N-Cyclohexylbenzothiazole-2-Sulfenamide From the People's Republic of China: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, and Alignment of Final Determination With Final Antidumping Duty Determination AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to producers and exporters of N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS) from the People's Republic of China (China). The period of investigation is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Brendan Santschi, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-4141. SUPPLEMENTARY INFORMATION: Background This preliminary determination is made in accordance with section 703(b) of the Tariff Act of 1930, as amended (the Act). Commerce published the notice of initiation of this investigation on June 2, 2026.\\1\\ On July 8, 2026, Commerce postponed the preliminary determination of this investigation and the revised deadline is now October 5, 2026.\\2\\ --------------------------------------------------------------------------- \\1\\ See N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Initiation of Countervailing Duty Investigation, 91 FR 32946 (June 2, 2026) (Initiation Notice), and accompanying Initiation Checklist. \\2\\ See N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Postponement of Preliminary Determination in the Countervailing Duty Investigation, 91 FR 42176 (July 8, 2026). --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this investigation, see the Preliminary Decision Memorandum.\\3\\ A list of topics discussed in the Preliminary Decision Memorandum is included as Appendix II to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\3\\ See Memorandum, ``Decision Memorandum for the Preliminary Affirmative Determination in the Countervailing Duty Investigation of N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Investigation The product covered by this investigation is CBS from China. For a complete description of the scope of this investigation, see Appendix I. Scope Comments In accordance with the Preamble to Commerce's regulations,\\4\\ the Initiation Notice set aside a period of time for parties to raise issues regarding product coverage (i.e., scope).\\5\\ No interested party commented on the scope of the investigation as it appeared in the Initiation Notice. --------------------------------------------------------------------------- \\4\\ See Antidumping Duties; Countervailing Duties, Final Rule, 62 FR 27296, 27323 (May 19, 1997) (Preamble). \\5\\ See Initiation Notice. --------------------------------------------------------------------------- Methodology Commerce is conducting this investigation in accordance with section 701 of the Act. For each of the subsidy programs found countervailable, Commerce preliminarily determines that there is a subsidy, i.e., a financial contribution by an ``authority'' that [[Page 64338]] gives rise to a benefit to the recipient, and that the subsidy is specific.\\6\\ --------------------------------------------------------------------------- \\6\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Commerce notes that, in making these findings, it relied on facts available and, because it finds that Shandong Derek New Materials Co., Ltd (Derek), Shandong Yanggu Huatai International Co., Ltd (Huatai), and the companies that did not respond to Commerce's quantity and value questionnaire, which include Alchemy Trading Shanghai Limited, Kemai Chemical Company Limited, SAIC Motor Corporation Limited, Shandong Sunsine Chemical Co., Ltd., and Yingtai International Trading Co. (collectively, non-responsive companies), did not act to the best of their ability to respond to Commerce's requests for information, it drew an adverse inference where appropriate in selecting from among the facts otherwise available.\\7\\ For further information, see the ``Use of Facts Otherwise Available and Adverse Inferences'' section in the Preliminary Decision Memorandum. --------------------------------------------------------------------------- \\7\\ See sections 776(a) and (b) of the Act. --------------------------------------------------------------------------- Preliminary Affirmative Determination of Critical Circumstances In accordance with section 703(e)(1) of the Act, Commerce preliminarily determines that critical circumstances exist with respect to imports of CBS from China for Derek, Huatai, the non-responsive companies, and all other exporters or producers not individually examined. For a full description of the methodology and results of Commerce's analysis, see the Preliminary Decision Memorandum. Alignment As noted in the Preliminary Decision Memorandum, in accordance with section 705(a)(1) of the Act and 19 CFR 351.210(b)(4), Commerce is aligning the final countervailing duty (CVD) determination in this investigation with the final determination in the companion antidumping duty (AD) investigation of CBS from China based on a request made by LANXESS Corporation (the petitioner).\\8\\ Consequently, the final CVD determination will be issued on the same date as the final AD determination, which is currently scheduled to be issued no later than January 11, 2027, unless postponed. --------------------------------------------------------------------------- \\8\\ See Petitioner's Letter, ``Request for Alignment of the Countervailing Duty Investigation with the Concurrent Antidumping Duty Investigation,'' dated September 16, 2026. --------------------------------------------------------------------------- All-Others Rate Sections 703(d) and 705(c)(5)(A) of the Act provide that in the preliminary determination, Commerce shall determine an estimated all- others rate for companies not individually examined. This rate shall be an amount equal to the weighted average of the estimated subsidy rates established for those companies individually examined, excluding any zero and de minimis rates and any rates based entirely under section 776 of the Act. Pursuant to section 705(c)(5)(A)(ii) of the Act, if the individual estimated countervailable subsidy rates established for all exporters and producers individually examined are zero, de minimis, or determined based entirely on facts otherwise available, Commerce may use any reasonable method to establish the estimated subsidy rate for all other producers or exporters. Commerce has preliminarily determined the individually estimated subsidy rate for the individually examined respondent under section 776 of the Act. Thus, this rate is the only rate available in this proceeding for deriving the all-others rate. Consequently, pursuant to sections 703(d)(1)(A)(i) and 705(c)(5)(A)(ii) of the Act, Commerce has established the all-others rate by using the countervailable subsidy rate assigned to the companies listed below. For a full description of the methodology underlying Commerce's analysis, see the Preliminary Decision Memorandum. Preliminary Determination Commerce preliminarily determines that the following estimated countervailable subsidy rates exist: ------------------------------------------------------------------------ Subsidy rate Company (percent ad valorem) ------------------------------------------------------------------------ Shandong Derek New Materials Co., Ltd................... *107.57 Shandong Yanggu Huatai International Co., Ltd........... *107.57 Alchemy Trading Shanghai Limited........................ *107.57 Kemai Chemical Company Limited.......................... *107.57 SAIC Motor Corporation Limited.......................... *107.57 Shandong Sunsine Chemical Co., Ltd...................... *107.57 Yingtai International Trading Co........................ *107.57 All Others.............................................. 107.57 ------------------------------------------------------------------------ * Rate is based on facts available with adverse inferences. Suspension of Liquidation In accordance with section 703(d)(2) of the Act, Commerce will direct U.S. Customs and Border Protection (CBP) to suspend liquidation of entries of subject merchandise as described in the scope of the investigation section entered, or withdrawn from warehouse, for consumption on or after the date of publication of this notice in the Federal Register. Further, pursuant to section 703(d)(1)(B) of the Act and 19 CFR 351.107(e), Commerce will instruct CBP to require a cash deposit equal to the estimated company-specific countervailable subsidy rate or the estimated all-others rate, as follows: (1) the cash deposit rate for the respondents listed above will be equal to the company- specific estimated individual countervailable subsidy rate determined in this preliminary determination; (2) if both the producer and exporter of the subject merchandise have company-specific estimated subsidy rates determined in this preliminary determination, and their rates differ, then the applicable cash deposit rate will be the higher of these two rates; (3) if either the producer or the exporter, but not both, of the subject merchandise have a company-specific estimated subsidy rate determined in this preliminary determination, the applicable cash deposit rate will be that company's company-specific rate; and (4) the cash deposit rate for all other producers and exporters will be equal to the estimated all-others subsidy rate. Section 703(e)(2) of the Act provides that, given an affirmative determination of critical circumstances, any suspension of liquidation shall apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of: (a) the date which is 90 days before the date on which the suspension of liquidation was first ordered; or (b) the date on which notice of initiation of the investigation was published. Commerce preliminarily finds that critical circumstances exist for imports of subject merchandise produced and/or exported by Derek, Huatai, the non- responsive companies, and all other producers and/or exporters. In accordance with section 703(e)(2)(A) of the Act, the suspension of liquidation shall apply to unliquidated entries of merchandise from the exporters/producers identified in this paragraph that were entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the publication of this notice. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+            "checked_at": "2026-10-11T05:08:33.838051+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20692.htm",
+            "evidence": [
+              {
+                "claim": "8 октября 2026 года Минторг США опубликовал предварительный вывод о субсидировании химического соединения CBS из Китая, дело C-570-235. Для перечисленных компаний и категории «прочие» предварительная ставка составляет 107,57%. Предписаны приостановление окончательного таможенного расчёта и денежное обеспечение по предварительной ставке. Приостановление охватывает также поставки начиная с даты за 90 дней до публикации уведомления, если расчёт по ним ещё не завершён.",
+                "source_quote": "Federal Register, Volume 91 Issue 194 (Thursday, October 8, 2026) [Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)] [Notices] [Pages 64337-64339] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20692] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-570-235] N-Cyclohexylbenzothiazole-2-Sulfenamide From the People's Republic of China: Preliminary Affirmative Countervailing Duty Determination, Preliminary Affirmative Critical Circumstances Determination, and Alignment of Final Determination With Final Antidumping Duty Determination AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies are being provided to producers and exporters of N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS) from the People's Republic of China (China). The period of investigation is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination. DATES: Applicable October 8, 2026. FOR FURTHER INFORMATION CONTACT: Brendan Santschi, AD/CVD Operations, Office III, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-4141. SUPPLEMENTARY INFORMATION: Background This preliminary determination is made in accordance with section 703(b) of the Tariff Act of 1930, as amended (the Act). Commerce published the notice of initiation of this investigation on June 2, 2026.\\1\\ On July 8, 2026, Commerce postponed the preliminary determination of this investigation and the revised deadline is now October 5, 2026.\\2\\ --------------------------------------------------------------------------- \\1\\ See N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Initiation of Countervailing Duty Investigation, 91 FR 32946 (June 2, 2026) (Initiation Notice), and accompanying Initiation Checklist. \\2\\ See N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China: Postponement of Preliminary Determination in the Countervailing Duty Investigation, 91 FR 42176 (July 8, 2026). --------------------------------------------------------------------------- For a complete description of the events that followed the initiation of this investigation, see the Preliminary Decision Memorandum.\\3\\ A list of topics discussed in the Preliminary Decision Memorandum is included as Appendix II to this notice. The Preliminary Decision Memorandum is a public document and is on file electronically via Enforcement and Compliance's Antidumping and Countervailing Duty Centralized Electronic Service System (ACCESS), which is available to registered users at https://access.trade.gov . In addition, a complete version of the Preliminary Decision Memorandum can be accessed directly at https://access.trade.gov/frnotices . --------------------------------------------------------------------------- \\3\\ See Memorandum, ``Decision Memorandum for the Preliminary Affirmative Determination in the Countervailing Duty Investigation of N-Cyclohexylbenzothiazole-2-Sulfenamide from the People's Republic of China,'' dated concurrently with, and hereby adopted by, this notice (Preliminary Decision Memorandum). --------------------------------------------------------------------------- Scope of the Investigation The product covered by this investigation is CBS from China. For a complete description of the scope of this investigation, see Appendix I. Scope Comments In accordance with the Preamble to Commerce's regulations,\\4\\ the Initiation Notice set aside a period of time for parties to raise issues regarding product coverage (i.e., scope).\\5\\ No interested party commented on the scope of the investigation as it appeared in the Initiation Notice. --------------------------------------------------------------------------- \\4\\ See Antidumping Duties; Countervailing Duties, Final Rule, 62 FR 27296, 27323 (May 19, 1997) (Preamble). \\5\\ See Initiation Notice. --------------------------------------------------------------------------- Methodology Commerce is conducting this investigation in accordance with section 701 of the Act. For each of the subsidy programs found countervailable, Commerce preliminarily determines that there is a subsidy, i.e., a financial contribution by an ``authority'' that [[Page 64338]] gives rise to a benefit to the recipient, and that the subsidy is specific.\\6\\ --------------------------------------------------------------------------- \\6\\ See sections 771(5)(B) and (D) of the Act regarding financial contribution; section 771(5)(E) of the Act regarding benefit; and section 771(5A) of the Act regarding specificity. --------------------------------------------------------------------------- Commerce notes that, in making these findings, it relied on facts available and, because it finds that Shandong Derek New Materials Co., Ltd (Derek), Shandong Yanggu Huatai International Co., Ltd (Huatai), and the companies that did not respond to Commerce's quantity and value questionnaire, which include Alchemy Trading Shanghai Limited, Kemai Chemical Company Limited, SAIC Motor Corporation Limited, Shandong Sunsine Chemical Co., Ltd., and Yingtai International Trading Co. (collectively, non-responsive companies), did not act to the best of their ability to respond to Commerce's requests for information, it drew an adverse inference where appropriate in selecting from among the facts otherwise available.\\7\\ For further information, see the ``Use of Facts Otherwise Available and Adverse Inferences'' section in the Preliminary Decision Memorandum. --------------------------------------------------------------------------- \\7\\ See sections 776(a) and (b) of the Act. --------------------------------------------------------------------------- Preliminary Affirmative Determination of Critical Circumstances In accordance with section 703(e)(1) of the Act, Commerce preliminarily determines that critical circumstances exist with respect to imports of CBS from China for Derek, Huatai, the non-responsive companies, and all other exporters or producers not individually examined. For a full description of the methodology and results of Commerce's analysis, see the Preliminary Decision Memorandum. Alignment As noted in the Preliminary Decision Memorandum, in accordance with section 705(a)(1) of the Act and 19 CFR 351.210(b)(4), Commerce is aligning the final countervailing duty (CVD) determination in this investigation with the final determination in the companion antidumping duty (AD) investigation of CBS from China based on a request made by LANXESS Corporation (the petitioner).\\8\\ Consequently, the final CVD determination will be issued on the same date as the final AD determination, which is currently scheduled to be issued no later than January 11, 2027, unless postponed. --------------------------------------------------------------------------- \\8\\ See Petitioner's Letter, ``Request for Alignment of the Countervailing Duty Investigation with the Concurrent Antidumping Duty Investigation,'' dated September 16, 2026. --------------------------------------------------------------------------- All-Others Rate Sections 703(d) and 705(c)(5)(A) of the Act provide that in the preliminary determination, Commerce shall determine an estimated all- others rate for companies not individually examined. This rate shall be an amount equal to the weighted average of the estimated subsidy rates established for those companies individually examined, excluding any zero and de minimis rates and any rates based entirely under section 776 of the Act. Pursuant to section 705(c)(5)(A)(ii) of the Act, if the individual estimated countervailable subsidy rates established for all exporters and producers individually examined are zero, de minimis, or determined based entirely on facts otherwise available, Commerce may use any reasonable method to establish the estimated subsidy rate for all other producers or exporters. Commerce has preliminarily determined the individually estimated subsidy rate for the individually examined respondent under section 776 of the Act. Thus, this rate is the only rate available in this proceeding for deriving the all-others rate. Consequently, pursuant to sections 703(d)(1)(A)(i) and 705(c)(5)(A)(ii) of the Act, Commerce has established the all-others rate by using the countervailable subsidy rate assigned to the companies listed below. For a full description of the methodology underlying Commerce's analysis, see the Preliminary Decision Memorandum. Preliminary Determination Commerce preliminarily determines that the following estimated countervailable subsidy rates exist: ------------------------------------------------------------------------ Subsidy rate Company (percent ad valorem) ------------------------------------------------------------------------ Shandong Derek New Materials Co., Ltd................... *107.57 Shandong Yanggu Huatai International Co., Ltd........... *107.57 Alchemy Trading Shanghai Limited........................ *107.57 Kemai Chemical Company Limited.......................... *107.57 SAIC Motor Corporation Limited.......................... *107.57 Shandong Sunsine Chemical Co., Ltd...................... *107.57 Yingtai International Trading Co........................ *107.57 All Others.............................................. 107.57 ------------------------------------------------------------------------ * Rate is based on facts available with adverse inferences. Suspension of Liquidation In accordance with section 703(d)(2) of the Act, Commerce will direct U.S. Customs and Border Protection (CBP) to suspend liquidation of entries of subject merchandise as described in the scope of the investigation section entered, or withdrawn from warehouse, for consumption on or after the date of publication of this notice in the Federal Register. Further, pursuant to section 703(d)(1)(B) of the Act and 19 CFR 351.107(e), Commerce will instruct CBP to require a cash deposit equal to the estimated company-specific countervailable subsidy rate or the estimated all-others rate, as follows: (1) the cash deposit rate for the respondents listed above will be equal to the company- specific estimated individual countervailable subsidy rate determined in this preliminary determination; (2) if both the producer and exporter of the subject merchandise have company-specific estimated subsidy rates determined in this preliminary determination, and their rates differ, then the applicable cash deposit rate will be the higher of these two rates; (3) if either the producer or the exporter, but not both, of the subject merchandise have a company-specific estimated subsidy rate determined in this preliminary determination, the applicable cash deposit rate will be that company's company-specific rate; and (4) the cash deposit rate for all other producers and exporters will be equal to the estimated all-others subsidy rate. Section 703(e)(2) of the Act provides that, given an affirmative determination of critical circumstances, any suspension of liquidation shall apply to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of: (a) the date which is 90 days before the date on which the suspension of liquidation was first ordered; or (b) the date on which notice of initiation of the investigation was published. Commerce preliminarily finds that critical circumstances exist for imports of subject merchandise produced and/or exported by Derek, Huatai, the non- responsive companies, and all other producers and/or exporters. In accordance with section 703(e)(2)(A) of the Act, the suspension of liquidation shall apply to unliquidated entries of merchandise from the exporters/producers identified in this paragraph that were entered, or withdrawn from warehouse, for consumption on or after the date which is 90 days before the publication of this notice. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-us-china-cbs-20692.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: исправлена ставка в результатах пересмотров по китайским мойкам",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Исправление результатов пересмотров компенсационной пошлины на импорт моек",
+      "jurisdictions": [
+        "США",
+        "Китай"
+      ],
+      "act": "C-570-984; FR Doc. 2026-20481; correction to 2018-15883 and 2023-23269",
+      "source_published_at": "2026-10-06",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+        "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review",
+        "event_key": "us-china-sinks-correction-20481",
+        "cross_border_relevance": "Исправление результатов пересмотров компенсационной пошлины на импорт моек"
+      },
+      "slug": "2026-10-11_0900_-us-china-sinks-correction-20481",
+      "caption": "США: исправлена ставка в результатах пересмотров по китайским мойкам\n\n6 октября 2026 года Минторг США опубликовал техническое исправление по компенсационной пошлине на штампованные мойки из нержавеющей стали из Китая, дело C-570-984. В итогах первого и второго пятилетних пересмотров, опубликованных в 2018 и 2023 годах, ставка категории «прочие» ошибочно указана как 8,61%; её исправили на 8,51%.\n\nПочему это важно: Импортёрам и консультантам следует использовать исправленные значения при работе с результатами этих пересмотров. Документ корректирует прежние уведомления и не объявляет введение новой универсальной ставки на все китайские мойки.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+          "checked_at": "2026-10-11T05:08:33.858088+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+          "evidence": [
+            {
+              "claim": "6 октября 2026 года Минторг США опубликовал техническое исправление по компенсационной пошлине на штампованные мойки из нержавеющей стали из Китая, дело C-570-984. В итогах первого и второго пятилетних пересмотров, опубликованных в 2018 и 2023 годах, ставка категории «прочие» ошибочно указана как 8,61%; её исправили на 8,51%.",
+              "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63523-63524] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20481] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-570-984] Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited First and Second Sunset Reviews of the Countervailing Duty Order; Correction AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. ACTION: Notice; correction. ----------------------------------------------------------------------- SUMMARY: The U.S. Department of Commerce (Commerce) published notice in the Federal Register of July 25, 2018 and October 20, 2023 in which Commerce announced the final results of the first and second sunset reviews of the countervailing duty (CVD) order on drawn stainless steel sinks from the People's Republic of China (China). These notices incorrectly stated an all-others rate of 8.61 percent. FOR FURTHER INFORMATION CONTACT: Sarah Keith, AD/CVD Operations, Office II, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-0264. SUPPLEMENTARY INFORMATION: Background On July 25, 2018, Commerce published in the Federal Register the Final Results of the first CVD sunset review of drawn stainless steel sinks from China.\\1\\ On October 20, 2023, Commerce published in the Federal Register the Final Results of the second CVD sunset review of drawn stainless steel sinks from China.\\2\\ We incorrectly stated in both notices that the all-others rate is 8.61 percent. --------------------------------------------------------------------------- \\1\\ See Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order, 83 FR 35212 (July 25, 2018). \\2\\ See Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order, 88 FR 72428 (October 20, 2023). --------------------------------------------------------------------------- Correction In the Federal Register of July 25, 2018, in FR Doc 2018-15883 on page 35213, in the first column, correct the final line of the ``Net subsidy rate %'' table (i.e., All Others) to state: ``8.51.'' In the Federal Register of October 20, 2023, in FR Doc 2023-23269 on page 72429, in the second column, correct the final line of the ``Subsidy rate (percent ad valorem)'' table (i.e., All Others) to state: ``8.51.'' [[Page 63524]] "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+            "checked_at": "2026-10-11T05:08:33.858088+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/html/2026-20481.htm",
+            "evidence": [
+              {
+                "claim": "6 октября 2026 года Минторг США опубликовал техническое исправление по компенсационной пошлине на штампованные мойки из нержавеющей стали из Китая, дело C-570-984. В итогах первого и второго пятилетних пересмотров, опубликованных в 2018 и 2023 годах, ставка категории «прочие» ошибочно указана как 8,61%; её исправили на 8,51%.",
+                "source_quote": "Federal Register, Volume 91 Issue 192 (Tuesday, October 6, 2026) [Federal Register Volume 91, Number 192 (Tuesday, October 6, 2026)] [Notices] [Pages 63523-63524] From the Federal Register Online via the Government Publishing Office [ www.gpo.gov ] [FR Doc No: 2026-20481] ----------------------------------------------------------------------- DEPARTMENT OF COMMERCE International Trade Administration [C-570-984] Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited First and Second Sunset Reviews of the Countervailing Duty Order; Correction AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. ACTION: Notice; correction. ----------------------------------------------------------------------- SUMMARY: The U.S. Department of Commerce (Commerce) published notice in the Federal Register of July 25, 2018 and October 20, 2023 in which Commerce announced the final results of the first and second sunset reviews of the countervailing duty (CVD) order on drawn stainless steel sinks from the People's Republic of China (China). These notices incorrectly stated an all-others rate of 8.61 percent. FOR FURTHER INFORMATION CONTACT: Sarah Keith, AD/CVD Operations, Office II, Enforcement and Compliance, International Trade Administration, U.S. Department of Commerce, 1401 Constitution Avenue NW, Washington, DC 20230; telephone: (202) 482-0264. SUPPLEMENTARY INFORMATION: Background On July 25, 2018, Commerce published in the Federal Register the Final Results of the first CVD sunset review of drawn stainless steel sinks from China.\\1\\ On October 20, 2023, Commerce published in the Federal Register the Final Results of the second CVD sunset review of drawn stainless steel sinks from China.\\2\\ We incorrectly stated in both notices that the all-others rate is 8.61 percent. --------------------------------------------------------------------------- \\1\\ See Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order, 83 FR 35212 (July 25, 2018). \\2\\ See Drawn Stainless Steel Sinks From the People's Republic of China: Final Results of the Expedited Second Sunset Review of the Countervailing Duty Order, 88 FR 72428 (October 20, 2023). --------------------------------------------------------------------------- Correction In the Federal Register of July 25, 2018, in FR Doc 2018-15883 on page 35213, in the first column, correct the final line of the ``Net subsidy rate %'' table (i.e., All Others) to state: ``8.51.'' In the Federal Register of October 20, 2023, in FR Doc 2023-23269 on page 72429, in the second column, correct the final line of the ``Subsidy rate (percent ad valorem)'' table (i.e., All Others) to state: ``8.51.'' [[Page 63524]] "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_0900_-us-china-sinks-correction-20481.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

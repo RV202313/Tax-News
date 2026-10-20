@@ -1,0 +1,821 @@
+{
+  "date": "2026-10-12",
+  "release": "2026-10-12_1700_editorial",
+  "items": [
+    {
+      "title": "Россия: УФНС пояснило получение ИНН иностранцами через биометрию",
+      "sources": [
+        {
+          "url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+          "name": "УФНС России по Республике Марий Эл"
+        }
+      ],
+      "theme": "Беззаявительная постановка иностранных физических лиц на налоговый учёт через биометрию",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Памятка УФНС Марий Эл08.10.2026 №16654587 о приказе ФНС10.07.2026 №ЕД-1-14/466@",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+        "source_quote": "Дата публикации: 08.10.2026 11:26"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "ru-foreign-individual-taxid-biometry-16654587-20261008",
+        "cross_border_relevance": "Налоговый учёт иностранных физических лиц при переезде в Россию для трудовой деятельности. Свежая официальная памятка8Oct о действующем с сентября механизме; дата прежнего приказа10Jul не названа датой новой обязанности. Обязательные шаги до и после въезда прочитаны; не обещается универсальное присвоение ИНН без биометрии. Иное событие, чем постановка иностранных юридических лиц и обособленных подразделений на учёт."
+      },
+      "slug": "2026-10-12_1700_-ru-foreign-individual-taxid-biometry-16654587-20261008",
+      "caption": "Россия: УФНС пояснило получение ИНН иностранцами через биометрию\n\n8 октября УФНС по Марий Эл напомнило о беззаявительном получении ИНН иностранными гражданами. Учётную запись и биометрические данные нужно зарегистрировать до въезда в Россию, а после пересечения границы — подтвердить биометрию в уполномоченном отделении банка.\n\nПочему это важно: Работодателям и консультантам иностранных работников полезно заранее согласовать эти шаги: постановка на налоговый учёт основана на сведениях цифровых систем.\n\nИсточник: https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+          "checked_at": "2026-10-12T13:13:43.984950+00:00",
+          "status_code": 200,
+          "final_url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+          "evidence": [
+            {
+              "claim": "8 октября УФНС по Марий Эл напомнило о беззаявительном получении ИНН иностранными гражданами. Учётную запись и биометрические данные нужно зарегистрировать до въезда в Россию, а после пересечения границы — подтвердить биометрию в уполномоченном отделении банка.",
+              "source_quote": "Дата публикации: 08.10.2026 11:26 Это архивная публикация - она может содержать устаревшую информацию. УФНС России по Республике Марий Эл напоминает, что с сентября 2026 года иностранные граждане и лица без гражданства могут получить идентификационный номер налогоплательщика (ИНН) в беззаявительном порядке. Постановка на налоговый учет осуществляется на основании сведений, поступающих в ФНС России из Единой системы идентификации и аутентификации (ЕСИА) и Единой биометрической системы, без необходимости личного обращения заявителя в налоговые органы или подачи заявления. Данная процедура сократилась с пяти дней до нескольких часов. Правила закреплены приказом ФНС России от 10 июля 2026 года № ЕД-1-14/466@ . Для этого иностранному гражданину или лицу без гражданства необходимо выполнить следующий порядок действий: заблаговременно, до въезда на территорию Российской Федерации, создать учетную запись в ЕСИА посредством мобильного приложения RuID и пройти процедуру регистрации биометрических персональных данных в Единой биометрической системе; после пересечения государственной границы Российской Федерации подтвердить биометрические данные в уполномоченном отделении кредитной организации. При поступлении в ФНС России сведений из ЕСИА сотрудники налогового органа в течение одного дня обеспечивают постановку иностранца на учет. Сведения о присвоенном ИНН направляются в личный кабинет пользователя на Едином портале государственных и муниципальных услуг (портал Госуслуг). Новый механизм способствует упрощению административных процедур для иностранных граждан, планирующих осуществление трудовой деятельности на территории Российской Федерации."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+            "checked_at": "2026-10-12T13:13:43.984950+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.nalog.gov.ru/rn12/ifns/imns12_23_12/info/16654587/",
+            "evidence": [
+              {
+                "claim": "8 октября УФНС по Марий Эл напомнило о беззаявительном получении ИНН иностранными гражданами. Учётную запись и биометрические данные нужно зарегистрировать до въезда в Россию, а после пересечения границы — подтвердить биометрию в уполномоченном отделении банка.",
+                "source_quote": "Дата публикации: 08.10.2026 11:26 Это архивная публикация - она может содержать устаревшую информацию. УФНС России по Республике Марий Эл напоминает, что с сентября 2026 года иностранные граждане и лица без гражданства могут получить идентификационный номер налогоплательщика (ИНН) в беззаявительном порядке. Постановка на налоговый учет осуществляется на основании сведений, поступающих в ФНС России из Единой системы идентификации и аутентификации (ЕСИА) и Единой биометрической системы, без необходимости личного обращения заявителя в налоговые органы или подачи заявления. Данная процедура сократилась с пяти дней до нескольких часов. Правила закреплены приказом ФНС России от 10 июля 2026 года № ЕД-1-14/466@ . Для этого иностранному гражданину или лицу без гражданства необходимо выполнить следующий порядок действий: заблаговременно, до въезда на территорию Российской Федерации, создать учетную запись в ЕСИА посредством мобильного приложения RuID и пройти процедуру регистрации биометрических персональных данных в Единой биометрической системе; после пересечения государственной границы Российской Федерации подтвердить биометрические данные в уполномоченном отделении кредитной организации. При поступлении в ФНС России сведений из ЕСИА сотрудники налогового органа в течение одного дня обеспечивают постановку иностранца на учет. Сведения о присвоенном ИНН направляются в личный кабинет пользователя на Едином портале государственных и муниципальных услуг (портал Госуслуг). Новый механизм способствует упрощению административных процедур для иностранных граждан, планирующих осуществление трудовой деятельности на территории Российской Федерации."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-ru-foreign-individual-taxid-biometry-16654587-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: ДГД напомнил об ограничениях на личную технику при ввозе",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru",
+          "name": "ДГД Атырауской области"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+          "name": "Официальная датированная лента ДГД"
+        }
+      ],
+      "theme": "Количественные ограничения на личную технику при пересечении таможенной границы",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Памятка ДГД Атырауской области от 08.10.2026 №1307589 о деньгах и личных вещах на границе",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+        "source_quote": "08 октября 2026 Порядок ввоза и вывоза денег и личных вещей через границу"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "kz-atyrau-personal-tech-border-1307589-20261008",
+        "cross_border_relevance": "Официальная свежая памятка о таможенном перемещении товаров физическими лицами. Выбран только подтверждённый раздел личных вещей с условиями частоты поездок и использования. Не переносим противоречивое обобщение валютных ограничений ЕАЭС; не заявляем новую норму или беспошлинность. Продолжение свободного утреннего резерва1307589, а не новая версия другой новости."
+      },
+      "slug": "2026-10-12_1700_-kz-atyrau-personal-tech-border-1307589-20261008",
+      "caption": "Казахстан: ДГД напомнил об ограничениях на личную технику при ввозе\n\nДГД Атырауской области опубликовал памятку 8 октября 2026 года. Для граждан, пересекающих границу не чаще раза в месяц, памятка указывает пределы ввоза личной техники: два телефона, два планшета и один ноутбук на человека. Эти количественные ограничения не распространяются на ранее использованные личные вещи для собственных нужд.\n\nПочему это важно: Перед поездкой стоит проверить количество новой техники и её назначение. Для личных вещей, которыми уже пользовались, ведомство отдельно оговаривает исключение.\n\nИсточник: https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru\nИсточник: https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru",
+          "checked_at": "2026-10-12T13:13:43.986841+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru",
+          "evidence": [
+            {
+              "claim": "Для граждан, пересекающих границу не чаще раза в месяц, памятка указывает пределы ввоза личной техники: два телефона, два планшета и один ноутбук на человека. Эти количественные ограничения не распространяются на ранее использованные личные вещи для собственных нужд.",
+              "source_quote": "Для граждан, пересекающих границу не чаще одного раза в месяц, установлены нормы ввоза отдельных видов товаров для личного пользования. На одного человека допускается ввозить: • не более 2 мобильных телефонов; • не более 2 планшетных компьютеров; • 1 ноутбук; • до 5 единиц ювелирных изделий; • 1 велосипед; • 1 детскую коляску. При этом установленные количественные ограничения не распространяются на личные вещи, которые уже использовались гражданином ранее и перемещаются им для собственных нужд."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+          "checked_at": "2026-10-12T13:13:59.979313+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Атырауской области опубликовал памятку 8 октября 2026 года.",
+              "source_quote": "08 октября 2026 Порядок ввоза и вывоза денег и личных вещей через границу"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru",
+            "checked_at": "2026-10-12T13:13:43.986841+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/details/1307589?lang=ru",
+            "evidence": [
+              {
+                "claim": "Для граждан, пересекающих границу не чаще раза в месяц, памятка указывает пределы ввоза личной техники: два телефона, два планшета и один ноутбук на человека. Эти количественные ограничения не распространяются на ранее использованные личные вещи для собственных нужд.",
+                "source_quote": "Для граждан, пересекающих границу не чаще одного раза в месяц, установлены нормы ввоза отдельных видов товаров для личного пользования. На одного человека допускается ввозить: • не более 2 мобильных телефонов; • не более 2 планшетных компьютеров; • 1 ноутбук; • до 5 единиц ювелирных изделий; • 1 велосипед; • 1 детскую коляску. При этом установленные количественные ограничения не распространяются на личные вещи, которые уже использовались гражданином ранее и перемещаются им для собственных нужд."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+            "checked_at": "2026-10-12T13:13:59.979313+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd-atyrau/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Атырауской области опубликовал памятку 8 октября 2026 года.",
+                "source_quote": "08 октября 2026 Порядок ввоза и вывоза денег и личных вещей через границу"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-kz-atyrau-personal-tech-border-1307589-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Сингапур и Кыргызстан подписали налоговое соглашение",
+      "sources": [
+        {
+          "url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+          "name": "Налоговое управление Сингапура, релиз Минфина"
+        }
+      ],
+      "theme": "Подписание двустороннего налогового соглашения Сингапур — Кыргызстан",
+      "jurisdictions": [
+        "Сингапур",
+        "Кыргызстан"
+      ],
+      "act": "Соглашение Сингапура и Кыргызской Республики об избежании двойного налогообложения, подписание 12.10.2026",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+        "source_quote": "MINISTRY OF FINANCE 12 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "sg-kg-dta-signature-20261012",
+        "cross_border_relevance": "Прямое двустороннее налоговое соглашение; официальный релиз датирован сегодняшним днём. Подписание отделено от вступления в силу, которое зависит от ратификации обеими сторонами. Ставки и льготы не объявлены применимыми уже сегодня. Иное соглашение, чем ранее опубликованные переговоры Сингапур—Филиппины."
+      },
+      "slug": "2026-10-12_1700_-sg-kg-dta-signature-20261012",
+      "caption": "Сингапур и Кыргызстан подписали налоговое соглашение\n\n12 октября 2026 года Сингапур и Кыргызстан подписали соглашение об избежании двойного налогообложения. Оно вступит в силу после ратификации обеими странами.\n\nПочему это важно: Для планируемых инвестиций появился согласованный договорный текст. При расчёте налогов по текущим платежам ещё нужно учитывать стадию ратификации.\n\nИсточник: https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+          "checked_at": "2026-10-12T13:13:43.988039+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+          "evidence": [
+            {
+              "claim": "12 октября 2026 года Сингапур и Кыргызстан подписали соглашение об избежании двойного налогообложения. Оно вступит в силу после ратификации обеими странами.",
+              "source_quote": "Singapore and the Kyrgyz Republic signed an Avoidance of Double Taxation Agreement (“DTA”) on 12 October 2026. The DTA was signed by Mr Jeffrey Siow, Minister for Transport and Second Minister for Finance, for Singapore, and Mr Sydykov Bakyt Tolomushevich, Minister of Economy and Commerce, for the Kyrgyz Republic. The DTA clarifies the taxing rights of both countries on income arising from cross-border business activities, and addresses the double taxation of such income. This will lower barriers to cross-border investment and trade and economic flows between both countries. Key terms of the DTA can be found in the Annex. The full text of the DTA is available on the Inland Revenue Authority of Singapore’s website here . The DTA will enter into force after ratification by both countries."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+            "checked_at": "2026-10-12T13:13:43.988039+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/news-events/newsroom/singapore-and-the-kyrgyz-republic-sign-avoidance-of-double-taxation-agreement",
+            "evidence": [
+              {
+                "claim": "12 октября 2026 года Сингапур и Кыргызстан подписали соглашение об избежании двойного налогообложения. Оно вступит в силу после ратификации обеими странами.",
+                "source_quote": "Singapore and the Kyrgyz Republic signed an Avoidance of Double Taxation Agreement (“DTA”) on 12 October 2026. The DTA was signed by Mr Jeffrey Siow, Minister for Transport and Second Minister for Finance, for Singapore, and Mr Sydykov Bakyt Tolomushevich, Minister of Economy and Commerce, for the Kyrgyz Republic. The DTA clarifies the taxing rights of both countries on income arising from cross-border business activities, and addresses the double taxation of such income. This will lower barriers to cross-border investment and trade and economic flows between both countries. Key terms of the DTA can be found in the Annex. The full text of the DTA is available on the Inland Revenue Authority of Singapore’s website here . The DTA will enter into force after ratification by both countries."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-sg-kg-dta-signature-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Сингапур: Антигуа и Барбуда добавлена в список обмена страновыми отчётами",
+      "sources": [
+        {
+          "url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)",
+          "name": "IRAS, страновая отчётность"
+        },
+        {
+          "url": "https://www.iras.gov.sg/latest-updates/",
+          "name": "IRAS, журнал содержательных обновлений"
+        }
+      ],
+      "theme": "Автоматический обмен страновыми отчётами Сингапур — Антигуа и Барбуда",
+      "jurisdictions": [
+        "Сингапур",
+        "Антигуа и Барбуда"
+      ],
+      "act": "IRAS CbCR exchange list, содержательное обновление 08.10.2026: Antigua and Barbuda FY2025",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.iras.gov.sg/latest-updates/",
+        "source_quote": "Country-by-Country Reporting (CbCR) Pages 08 Oct 2026 Amendments Amendments Added Antigua and Barbuda to the list of jurisdictions that have exchange relationships with Singapore"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "sg-ag-cbcr-exchange-list-20261008",
+        "cross_border_relevance": "Подтверждено конкретное содержательное обновление в официальном журнале, а не одна дата обновления сайта: добавлен новый партнёр автоматического обмена. Основная страница показывает страну и FY2025. BEPS13 — страновая отчётность, не Pillar2/GloBE; суточный лимит минимального налога не затрагивается."
+      },
+      "slug": "2026-10-12_1700_-sg-ag-cbcr-exchange-list-20261008",
+      "caption": "Сингапур: Антигуа и Барбуда добавлена в список обмена страновыми отчётами\n\n8 октября налоговая служба Сингапура обновила список партнёров по обмену страновой отчётностью. Антигуа и Барбуда включена в список обмена отчётами международных групп компаний с финансового 2025 года. Речь идёт об отчётности по странам, предусмотренной направлением 13 проекта BEPS.\n\nПочему это важно: Группам с присутствием в обеих юрисдикциях стоит учесть нового партнёра при проверке маршрута передачи страновых отчётов налоговым органам.\n\nИсточник: https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)\nИсточник: https://www.iras.gov.sg/latest-updates/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)",
+          "checked_at": "2026-10-12T13:13:43.989191+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)",
+          "evidence": [
+            {
+              "claim": "Антигуа и Барбуда включена в список обмена отчётами международных групп компаний с финансового 2025 года. Речь идёт об отчётности по странам, предусмотренной направлением 13 проекта BEPS.",
+              "source_quote": "What is CbCR? CbCR is a form of reporting by MNEs initiated by the Organisation for Economic Co-operation and Development (OECD) in the Base Erosion and Profit Shifting (BEPS) Action 13 Report. In keeping with Singapore’s commitment to implement certain measures under the BEPS Project, Singapore-headquartered MNEs meeting certain requirements must prepare and file CbC Reports to IRAS for FYs beginning on or after 1 Jan 2017 . Qualifying Competent Authority Agreement On 21 Jun 2017, Singapore signed the Multilateral Competent Authority Agreement on the exchange of CbC Reports (CbC MCAA). The signing of the CbC MCAA will enable Singapore to efficiently establish a wide network of exchange relationships for the automatic exchange of CbC Reports. View the press release . The CbC MCAA is a multilateral framework agreement based on the Convention on Mutual Administrative Assistance in Tax Matters . It provides a standardised and efficient mechanism to facilitate the automatic exchange of CbC Reports. Under the CbC MCAA, signatories to the MCAA will automatically exchange CbC Reports with one another on a bilateral basis if both parties are mutually agreeable. CbC Reports submitted to IRAS will be provided to tax authorities of jurisdictions with which Singapore has established bilateral Automatic Exchange of Information (AEOI) relationships under the MCAA. At the present time, not all signatories to the MCAA have provided full or complete notifications of their intended exchange relationships. Some jurisdictions may also increase their exchange relationships over time. The list of exchange relationships below is therefore not the final list of exchange relationships that Singapore will enter into. For more information, please visit the OECD webpage . List of Jurisdictions Jurisdiction Exchange relationship effective from 1. Albania FY 2024 2. Andorra FY 2018 3. Anguilla FY 2019 4. Antigua and Barbuda [NEW!] FY 2025"
+            }
+          ]
+        },
+        {
+          "url": "https://www.iras.gov.sg/latest-updates/",
+          "checked_at": "2026-10-12T13:14:00.366613+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/latest-updates/",
+          "evidence": [
+            {
+              "claim": "8 октября налоговая служба Сингапура обновила список партнёров по обмену страновой отчётностью.",
+              "source_quote": "Country-by-Country Reporting (CbCR) Pages 08 Oct 2026 Amendments Amendments Added Antigua and Barbuda to the list of jurisdictions that have exchange relationships with Singapore"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)",
+            "checked_at": "2026-10-12T13:13:43.989191+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/taxes/international-tax/country-by-country-reporting-(cbcr)",
+            "evidence": [
+              {
+                "claim": "Антигуа и Барбуда включена в список обмена отчётами международных групп компаний с финансового 2025 года. Речь идёт об отчётности по странам, предусмотренной направлением 13 проекта BEPS.",
+                "source_quote": "What is CbCR? CbCR is a form of reporting by MNEs initiated by the Organisation for Economic Co-operation and Development (OECD) in the Base Erosion and Profit Shifting (BEPS) Action 13 Report. In keeping with Singapore’s commitment to implement certain measures under the BEPS Project, Singapore-headquartered MNEs meeting certain requirements must prepare and file CbC Reports to IRAS for FYs beginning on or after 1 Jan 2017 . Qualifying Competent Authority Agreement On 21 Jun 2017, Singapore signed the Multilateral Competent Authority Agreement on the exchange of CbC Reports (CbC MCAA). The signing of the CbC MCAA will enable Singapore to efficiently establish a wide network of exchange relationships for the automatic exchange of CbC Reports. View the press release . The CbC MCAA is a multilateral framework agreement based on the Convention on Mutual Administrative Assistance in Tax Matters . It provides a standardised and efficient mechanism to facilitate the automatic exchange of CbC Reports. Under the CbC MCAA, signatories to the MCAA will automatically exchange CbC Reports with one another on a bilateral basis if both parties are mutually agreeable. CbC Reports submitted to IRAS will be provided to tax authorities of jurisdictions with which Singapore has established bilateral Automatic Exchange of Information (AEOI) relationships under the MCAA. At the present time, not all signatories to the MCAA have provided full or complete notifications of their intended exchange relationships. Some jurisdictions may also increase their exchange relationships over time. The list of exchange relationships below is therefore not the final list of exchange relationships that Singapore will enter into. For more information, please visit the OECD webpage . List of Jurisdictions Jurisdiction Exchange relationship effective from 1. Albania FY 2024 2. Andorra FY 2018 3. Anguilla FY 2019 4. Antigua and Barbuda [NEW!] FY 2025"
+              }
+            ]
+          },
+          {
+            "url": "https://www.iras.gov.sg/latest-updates/",
+            "checked_at": "2026-10-12T13:14:00.366613+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/latest-updates/",
+            "evidence": [
+              {
+                "claim": "8 октября налоговая служба Сингапура обновила список партнёров по обмену страновой отчётностью.",
+                "source_quote": "Country-by-Country Reporting (CbCR) Pages 08 Oct 2026 Amendments Amendments Added Antigua and Barbuda to the list of jurisdictions that have exchange relationships with Singapore"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-sg-ag-cbcr-exchange-list-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Сингапур: налоговая служба уточнила удержание с выплат иностранным артистам",
+      "sources": [
+        {
+          "url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+          "name": "Налоговое управление Сингапура"
+        }
+      ],
+      "theme": "Удержание налога с трудового дохода и выплат сторонних площадок иностранным артистам",
+      "jurisdictions": [
+        "Сингапур"
+      ],
+      "act": "IRAS FAQ4 о налогообложении иностранных артистов: содержательное обновление 09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+        "source_quote": "Last updated 9 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "sg-foreign-artistes-payer-workpass-faq-20261009",
+        "cross_border_relevance": "Налог у источника по вознаграждениям иностранных исполнителей. В официальном журнале IRAS прямо подтверждено обновление FAQ о разных видах разрешений и налоговой отчётности9Oct; дата не выводится из технических метаданных. Выбран условный порядок для обычных разрешений; исключение не распространено на все выплаты или специальные старые разрешения. Новая налоговая ставка не утверждается."
+      },
+      "slug": "2026-10-12_1700_-sg-foreign-artistes-payer-workpass-faq-20261009",
+      "caption": "Сингапур: налоговая служба уточнила удержание с выплат иностранным артистам\n\n9 октября налоговая служба Сингапура уточнила разъяснения для иностранных артистов с обычным разрешением на работу. Удержание налога зависит от плательщика: для трудового дохода от работодателя оно не применяется, а для выплат от другого лица действует порядок для артистов-нерезидентов.\n\nПочему это важно: Организаторам выступлений и агентам стоит различать трудовой доход и выплаты сторонних площадок перед расчётом удержания.\n\nИсточник: https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+          "checked_at": "2026-10-12T13:13:44.022879+00:00",
+          "status_code": 200,
+          "final_url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+          "evidence": [
+            {
+              "claim": "9 октября налоговая служба Сингапура уточнила разъяснения для иностранных артистов с обычным разрешением на работу. Удержание налога зависит от плательщика: для трудового дохода от работодателя оно не применяется, а для выплат от другого лица действует порядок для артистов-нерезидентов.",
+              "source_quote": "If you are a regular work pass holder (e.g., Employment Pass or S Pass holder), the withholding tax treatment depends on who makes the payment to you. If the payer is your employer Withholding tax does not apply to your employment income. Your employer must comply with the relevant employer tax obligations, including tax clearance requirements for foreign employees where applicable. If the payer is a person other than your employer (e.g., Commissions or proceeds from flower garland sales paid to you by an entertainment outlet where your employer assigned you to provide entertainment services) The withholding tax treatment for non-resident public entertainers continues to apply."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+            "checked_at": "2026-10-12T13:13:44.022879+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.iras.gov.sg/taxes/withholding-tax/payments-to-non-resident-public-entertainer-(artiste-musician-sportsman-etc-)/tax-obligations-of-non-resident-public-entertainer",
+            "evidence": [
+              {
+                "claim": "9 октября налоговая служба Сингапура уточнила разъяснения для иностранных артистов с обычным разрешением на работу. Удержание налога зависит от плательщика: для трудового дохода от работодателя оно не применяется, а для выплат от другого лица действует порядок для артистов-нерезидентов.",
+                "source_quote": "If you are a regular work pass holder (e.g., Employment Pass or S Pass holder), the withholding tax treatment depends on who makes the payment to you. If the payer is your employer Withholding tax does not apply to your employment income. Your employer must comply with the relevant employer tax obligations, including tax clearance requirements for foreign employees where applicable. If the payer is a person other than your employer (e.g., Commissions or proceeds from flower garland sales paid to you by an entertainment outlet where your employer assigned you to provide entertainment services) The withholding tax treatment for non-resident public entertainers continues to apply."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-sg-foreign-artistes-payer-workpass-faq-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Панама: ЕС решил исключить страну из налогового списка несотрудничающих юрисдикций",
+      "sources": [
+        {
+          "url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+          "name": "Представительство ЕС в Панаме"
+        }
+      ],
+      "theme": "Исключение Панамы из списка несотрудничающих налоговых юрисдикций ЕС",
+      "jurisdictions": [
+        "Панама",
+        "ЕС"
+      ],
+      "act": "Решение министров финансов ЕС от09.10.2026 об исключении Панамы из AnnexI; официальный релиз EEAS09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+        "source_quote": "09.10.2026 Press and information team of the Delegation to PANAMA"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "eu-panama-annex1-delisting-20261009",
+        "cross_border_relevance": "Прямая международная налоговая кооперация и конкретное изменение статуса страны. Читаемое официальное сообщение EEAS заменяет закрытый403 сайт СоветаЕС. Не утверждаем автоматическую отмену всех национальных защитных мер или дату публикации решения в Official Journal."
+      },
+      "slug": "2026-10-12_1700_-eu-panama-annex1-delisting-20261009",
+      "caption": "Панама: ЕС решил исключить страну из налогового списка несотрудничающих юрисдикций\n\n9 октября 2026 года министры финансов ЕС решили исключить Панаму из списка юрисдикций, не сотрудничающих по налоговым вопросам. Представительство ЕС связывает решение с проведёнными реформами налоговой системы страны.\n\nПочему это важно: Группам с панамскими структурами стоит проверить, как решение учитывается в национальных защитных налоговых мерах и процедурах проверки контрагентов.\n\nИсточник: https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+          "checked_at": "2026-10-12T13:13:44.074667+00:00",
+          "status_code": 200,
+          "final_url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+          "evidence": [
+            {
+              "claim": "9 октября 2026 года министры финансов ЕС решили исключить Панаму из списка юрисдикций, не сотрудничающих по налоговым вопросам. Представительство ЕС связывает решение с проведёнными реформами налоговой системы страны.",
+              "source_quote": "On 9 October 2026, EU Finance Ministers decided to remove Panama from the list of non-cooperative jurisdictions for tax purposes (Annex I), recognising the tangible reforms undertaken by the Panamanian authorities to address the EU’s concerns on fair taxation."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+            "checked_at": "2026-10-12T13:13:44.074667+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.eeas.europa.eu/delegations/panama/panama-removed-eu-list-non-cooperative-jurisdictions-tax-purposes_en",
+            "evidence": [
+              {
+                "claim": "9 октября 2026 года министры финансов ЕС решили исключить Панаму из списка юрисдикций, не сотрудничающих по налоговым вопросам. Представительство ЕС связывает решение с проведёнными реформами налоговой системы страны.",
+                "source_quote": "On 9 October 2026, EU Finance Ministers decided to remove Panama from the list of non-cooperative jurisdictions for tax purposes (Annex I), recognising the tangible reforms undertaken by the Panamanian authorities to address the EU’s concerns on fair taxation."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-eu-panama-annex1-delisting-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Южная Корея и США: опубликованы предварительные итоги пересмотра по стали с покрытием",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+          "name": "Минторг США, официальная публикация"
+        }
+      ],
+      "theme": "Антидемпинговый пересмотр импорта стали с антикоррозионным покрытием из Южной Кореи",
+      "jurisdictions": [
+        "Южная Корея",
+        "США"
+      ],
+      "act": "A-580-878; FR Doc2026-20698; предварительный антидемпинговый пересмотр CORE2024–2025",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+        "source_quote": "Thursday, October 8, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "us-korea-core-ad-a580878-preliminary-202620698",
+        "cross_border_relevance": "Антидемпинговая мера по трансграничному импорту. Самостоятельный процессA-580-878; ранее опубликованный C-580-879/20699 относится к компенсационной пошлине, а C-580-884/20778 к другому горячекатаному товару. Исход предварительный; новые окончательные ставки или завершение производства не утверждаются. Продолжение сохранённого свободного резерва20698."
+      },
+      "slug": "2026-10-12_1700_-us-korea-core-ad-a580878-preliminary-202620698",
+      "caption": "Южная Корея и США: опубликованы предварительные итоги пересмотра по стали с покрытием\n\n8 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра стали с антикоррозионным покрытием из Южной Кореи за период 1 июля 2024 — 30 июня 2025 года. Ведомство предварительно установило продажи ниже нормальной стоимости и принимает замечания сторон.\n\nПочему это важно: Экспортёры и импортёры могут проверить расчёты и представить возражения до окончательного результата пересмотра.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+          "checked_at": "2026-10-12T13:13:58.905497+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+          "evidence": [
+            {
+              "claim": "8 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра стали с антикоррозионным покрытием из Южной Кореи за период 1 июля 2024 — 30 июня 2025 года. Ведомство предварительно установило продажи ниже нормальной стоимости и принимает замечания сторон.",
+              "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-580-878] Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 8, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+            "checked_at": "2026-10-12T13:13:58.905497+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20698.htm",
+            "evidence": [
+              {
+                "claim": "8 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра стали с антикоррозионным покрытием из Южной Кореи за период 1 июля 2024 — 30 июня 2025 года. Ведомство предварительно установило продажи ниже нормальной стоимости и принимает замечания сторон.",
+                "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-580-878] Certain Corrosion-Resistant Steel Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), July 1, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 8, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-us-korea-core-ad-a580878-preliminary-202620698.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Камбоджа и США: опубликован предварительный пересмотр пошлины на бумажные пакеты",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "name": "Минторг США, официальная публикация"
+        }
+      ],
+      "theme": "Антидемпинговый пересмотр бумажных пакетов из Камбоджи",
+      "jurisdictions": [
+        "Камбоджа",
+        "США"
+      ],
+      "act": "A-555-002; FR Doc2026-20777; предварительные результаты пересмотра2024–2025",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+        "source_quote": "Friday, October 9, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "us-cambodia-paperbags-ad-a555002-202620777",
+        "cross_border_relevance": "Новая официальная публикация предварительного пересмотра импортной торговой пошлины. Камбоджийское производствоA-555-002 отделено от ранее опубликованного индийского A-533-917 по той же группе товаров. Не утверждается окончательная новая пошлина."
+      },
+      "slug": "2026-10-12_1700_-us-cambodia-paperbags-ad-a555002-202620777",
+      "caption": "Камбоджа и США: опубликован предварительный пересмотр пошлины на бумажные пакеты\n\n9 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра бумажных торговых пакетов из Камбоджи за период 3 января 2024 — 30 июня 2025 года. Предварительно установлены продажи ниже нормальной стоимости; стороны могут подать замечания.\n\nПочему это важно: Поставщикам пакетов стоит сверить свои данные с предварительным расчётом и оценить необходимость участия в обсуждении до окончательного решения.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "checked_at": "2026-10-12T13:13:59.271598+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+          "evidence": [
+            {
+              "claim": "9 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра бумажных торговых пакетов из Камбоджи за период 3 января 2024 — 30 июня 2025 года. Предварительно установлены продажи ниже нормальной стоимости; стороны могут подать замечания.",
+              "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-555-002] Certain Paper Shopping Bags From Cambodia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that certain paper shopping bags (paper shopping bags) from Cambodia were sold in the United States at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 9, 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+            "checked_at": "2026-10-12T13:13:59.271598+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20777.htm",
+            "evidence": [
+              {
+                "claim": "9 октября Минторг США опубликовал предварительные итоги антидемпингового пересмотра бумажных торговых пакетов из Камбоджи за период 3 января 2024 — 30 июня 2025 года. Предварительно установлены продажи ниже нормальной стоимости; стороны могут подать замечания.",
+                "source_quote": "DEPARTMENT OF COMMERCE International Trade Administration [A-555-002] Certain Paper Shopping Bags From Cambodia: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025 AGENCY: Enforcement and Compliance, International Trade Administration, Department of Commerce. SUMMARY: The U.S. Department of Commerce (Commerce) preliminarily determines that certain paper shopping bags (paper shopping bags) from Cambodia were sold in the United States at less than normal value (NV) during the period of review (POR), January 3, 2024, through June 30, 2025. Interested parties are invited to comment on these preliminary results of review. DATES: Applicable October 9, 2026."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-us-cambodia-paperbags-ad-a555002-202620777.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: опубликовано уведомление о производстве оборудования в зоне внешней торговли",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+          "name": "Совет США по зонам внешней торговли, официальная публикация"
+        }
+      ],
+      "theme": "Планируемое производство оборудования с иностранными компонентами в зоне внешней торговли США",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "B-128-2026; FTZ50 Sanyo Denki America; FR Doc2026-20776, публикация09.10.2026",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+        "source_quote": "Friday, October 9, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "us-ftz50-sanyo-proposed-production-b1282026",
+        "cross_border_relevance": "Таможенный режим производства с иностранными компонентами и проектная товарная номенклатура. Новое опубликованное уведомление9Oct отделено от даты поступления заявки24Sep; разрешение, освобождение от пошлин и отмена мер232/301 не утверждаются. Статус — proposed production, а не approval."
+      },
+      "slug": "2026-10-12_1700_-us-ftz50-sanyo-proposed-production-b1282026",
+      "caption": "США: опубликовано уведомление о производстве оборудования в зоне внешней торговли\n\n9 октября опубликовано уведомление компании «Саньо Дэнки Америка» о планируемом производстве в зоне внешней торговли №50 в Калифорнии. Работа по процедурам зоны будет ограничена перечисленными иностранными компонентами и готовыми изделиями, которые впоследствии разрешит совет по этим зонам.\n\nПочему это важно: Поставщикам оборудования важно сверить товарный состав проекта: уведомление о производстве ещё предполагает последующее разрешение для конкретной номенклатуры.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+          "checked_at": "2026-10-12T13:13:59.342450+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+          "evidence": [
+            {
+              "claim": "9 октября опубликовано уведомление компании «Саньо Дэнки Америка» о планируемом производстве в зоне внешней торговли №50 в Калифорнии. Работа по процедурам зоны будет ограничена перечисленными иностранными компонентами и готовыми изделиями, которые впоследствии разрешит совет по этим зонам.",
+              "source_quote": "Sanyo Denki America, Inc. submitted a notification of proposed production activity to the FTZ Board (the Board) for its facilities in Torrance, California, within FTZ 50. The notification conforming to the requirements of the Board's regulations (15 CFR 400.22) was received on September 24, 2026. Pursuant to 15 CFR 400.14(b), FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+            "checked_at": "2026-10-12T13:13:59.342450+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/html/2026-20776.htm",
+            "evidence": [
+              {
+                "claim": "9 октября опубликовано уведомление компании «Саньо Дэнки Америка» о планируемом производстве в зоне внешней торговли №50 в Калифорнии. Работа по процедурам зоны будет ограничена перечисленными иностранными компонентами и готовыми изделиями, которые впоследствии разрешит совет по этим зонам.",
+                "source_quote": "Sanyo Denki America, Inc. submitted a notification of proposed production activity to the FTZ Board (the Board) for its facilities in Torrance, California, within FTZ 50. The notification conforming to the requirements of the Board's regulations (15 CFR 400.22) was received on September 24, 2026. Pursuant to 15 CFR 400.14(b), FTZ production activity would be limited to the specific foreign-status material(s)/component(s) and specific finished product(s) described in the submitted notification (summarized below) and subsequently authorized by the Board."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-us-ftz50-sanyo-proposed-production-b1282026.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: владельцам грузов доступен свежий недельный таможенный перечень",
+      "sources": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+          "name": "Налоговая служба ЮАР"
+        }
+      ],
+      "theme": "Новый недельный перечень неоформленных таможенных грузов ЮАР за5–11октября2026",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "SARS weekly unentered goods notice115 от12.10.2026; Revision121 за05–11.10.2026",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+        "source_quote": "12 October 2026 – The state provides state warehouses"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-12 17:00",
+        "event_key": "za-unentered-goods-notice115-revision121-20261012",
+        "cross_border_relevance": "Таможенный перечень импортных и экспортных грузов. Новый материальный этап: ссылка115 ведёт к официальному PDF Revision121, Effective Date12October2026, WEEKLY LIST05/10/2026–11/10/2026, проверенному по читаемому первичному PDF черезweb. Утренний notice114 был за29Sep–04Oct, не тот же выпуск. В подпись перенесено только подтверждённое HTMLуведомление, без непроверенных товарных позицийPDF."
+      },
+      "slug": "2026-10-12_1700_-za-unentered-goods-notice115-revision121-20261012",
+      "caption": "ЮАР: владельцам грузов доступен свежий недельный таможенный перечень\n\n12 октября налоговая служба ЮАР (SARS) разместила очередное уведомление о недельном перечне неоформленных грузов на государственных складах. Ведомство предупреждает импортёров, экспортёров и других заинтересованных лиц: если грузы останутся неоформленными, ими распорядятся по закону о таможне и акцизах.\n\nПочему это важно: Владельцам задержанных отправлений стоит проверить новый перечень и связаться с таможней для оформления груза.\n\nИсточник: https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+          "checked_at": "2026-10-12T13:13:59.603886+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+          "evidence": [
+            {
+              "claim": "12 октября налоговая служба ЮАР (SARS) разместила очередное уведомление о недельном перечне неоформленных грузов на государственных складах. Ведомство предупреждает импортёров, экспортёров и других заинтересованных лиц: если грузы останутся неоформленными, ими распорядятся по закону о таможне и акцизах.",
+              "source_quote": "12 October 2026 – The state provides state warehouses for the safekeeping of goods. These are managed by Customs. The purpose of this list of unentered goods is to notify the importer, exporter and any other person that has interest in the goods that the goods have been taken up into the State warehouse and if they remain unentered they will be disposed in accordance with the provisions of the Customs & Excise Act."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+            "checked_at": "2026-10-12T13:13:59.603886+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/latest-news/customs-weekly-list-of-unentered-goods-now-available-115/",
+            "evidence": [
+              {
+                "claim": "12 октября налоговая служба ЮАР (SARS) разместила очередное уведомление о недельном перечне неоформленных грузов на государственных складах. Ведомство предупреждает импортёров, экспортёров и других заинтересованных лиц: если грузы останутся неоформленными, ими распорядятся по закону о таможне и акцизах.",
+                "source_quote": "12 October 2026 – The state provides state warehouses for the safekeeping of goods. These are managed by Customs. The purpose of this list of unentered goods is to notify the importer, exporter and any other person that has interest in the goods that the goods have been taken up into the State warehouse and if they remain unentered they will be disposed in accordance with the provisions of the Customs & Excise Act."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-12\\2026-10-12_1700_-za-unentered-goods-notice115-revision121-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 12 Oct 2026 09:00:40 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Onjuiste aangifte leidt tot omkering voor hele aanslag</title>
+		<link>https://www.taxence.nl/nieuws/onjuiste-aangifte-leidt-tot-omkering-voor-hele-aanslag/</link>
+					<comments>https://www.taxence.nl/nieuws/onjuiste-aangifte-leidt-tot-omkering-voor-hele-aanslag/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 07:46:05 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Fiscaal procesrecht]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168262</guid>
+
+					<description><![CDATA[De Hoge Raad oordeelt dat bij een inhoudelijk gebrek in de aangifte de omkering en verzwaring van de bewijslast voor de gehele aanslag geldt als de vereiste aangifte niet is gedaan. De omkering hoeft dan niet te worden beperkt tot de onderdelen van de aanslag waarop het gebrek betrekking heeft.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Hoge Raad oordeelt dat bij een inhoudelijk gebrek in de aangifte de omkering en verzwaring van de bewijslast voor de gehele aanslag geldt als de vereiste aangifte niet is gedaan. De omkering hoeft dan niet te worden beperkt tot de onderdelen van de aanslag waarop het gebrek betrekking heeft.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv doet voor 2015 aangifte vpb naar een belastbaar bedrag van € 374.423. Kort daarna laat de inspecteur weten dat een lopend boekenonderzoek wordt uitgebreid naar de aangiften vpb over 2013 tot en met 2015. Toch wordt de aanslag geautomatiseerd overeenkomstig de aangifte vastgesteld. Na het boekenonderzoek legt de inspecteur een navorderingsaanslag op naar een belastbaar bedrag van ruim € 2,1 miljoen. Een van de correcties betreft € 250.000 aan advieskosten. Tussen partijen staat vast dat deze factuur niet is betaald, dat daar geen tegenprestatie tegenover staat en dat deze per vergissing in de administratie is opgenomen. In geschil is onder meer of de inspecteur mag navorderen en of de bewijslast voor de gehele aanslag mag worden omgekeerd en verzwaard.</p>
+
+
+
+<h2 class="wp-block-heading">Navordering wegens kenbare fout</h2>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad laat het oordeel in stand dat de inspecteur mag navorderen op grond van art. 16 lid 2 letter c AWR. De te weinig geheven belasting bedraagt ten minste 30% van de volgens de wet verschuldigde belasting. Daarmee wordt wettelijk verondersteld dat de fout voor de bv kenbaar is. Alleen als de bv bij ontvangst van de aanslag redelijkerwijs mocht aannemen dat deze toch juist was, kan dat anders zijn. Daarvan is geen sprake. De bv wist of moest weten dat de aftrek van € 250.000 onjuist was. Dat oordeel is volgens de Hoge Raad juridisch juist en niet onbegrijpelijk.</p>
+
+
+
+<h2 class="wp-block-heading">Omkering geldt voor gehele aanslag</h2>
+
+
+
+<p class="wp-block-paragraph">Bij inhoudelijke gebreken is de vereiste aangifte niet gedaan als de volgens de aangifte verschuldigde belasting zowel relatief als absoluut aanzienlijk lager is dan de werkelijk verschuldigde belasting en de belastingplichtige dit wist of moest weten. Is daarvan sprake, dan geldt de omkering en verzwaring van de bewijslast voor de gehele bestreden aanslag. Er is volgens de Hoge Raad geen reden om die zware bewijslast te beperken tot bepaalde geschilpunten. Dit ligt anders als de vereiste aangifte ontbreekt doordat een vraag in het aangiftebiljet niet of onjuist is beantwoord. In zo’n geval kan de omkering wel beperkt blijven tot geschilpunten waarvoor het antwoord op die vraag relevant is. Het cassatieberoep van de bv is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-25?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 25</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27e?lid=BWBR0002320&amp;pid=c-NDFRFORMBEL&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27e AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1484" target="_blank" rel="noreferrer noopener">Hoge Raad, 09-10-2026, ECLI:NL:HR:2026:1484, 24/01480 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/onjuiste-aangifte-leidt-tot-omkering-voor-hele-aanslag/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/02/Administratie-controle.jpg" length="35227" type="image/jpeg" />	</item>
+		<item>
+		<title>Cashbonus bij afkoop aandelenrechten buiten aftrekverbod</title>
+		<link>https://www.taxence.nl/nieuws/cashbonus-bij-afkoop-aandelenrechten-buiten-aftrekverbod/</link>
+					<comments>https://www.taxence.nl/nieuws/cashbonus-bij-afkoop-aandelenrechten-buiten-aftrekverbod/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 07:43:25 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168265</guid>
+
+					<description><![CDATA[Een bv mag een voorziening vormen voor een cashbonus waarmee voorwaardelijke rechten op aandelen van werknemers zijn afgekocht. Volgens de Hoge Raad is van toekenning in de zin van het aftrekverbod pas sprake als de opschortende voorwaarden zijn vervuld.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Een bv mag een voorziening vormen voor een cashbonus waarmee voorwaardelijke rechten op aandelen van werknemers zijn afgekocht. Volgens de Hoge Raad is van toekenning in de zin van het aftrekverbod pas sprake als de opschortende voorwaarden zijn vervuld.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In 2013 en 2014 kent de Franse moedervennootschap van een bv (de SA) aan vijf werknemers van de bv voorwaardelijke rechten op levering van aandelen in de SA toe. De aandelen worden geleverd onder de opschortende voorwaarde dat de werknemer na vier jaar nog in dienst is en aan prestatievoorwaarden is voldaan. In 2015 wordt 66,7% van de aandelen in de SA verkocht aan een andere Franse vennootschap (de SAS). Omdat de SAS de resterende aandelen van de markt wil halen, krijgen de werknemers een cashbonus aangeboden in ruil voor het afzien van hun rechten. Die bonus is niet gekoppeld aan voorwaarden en wordt in december 2016 en juni 2018 uitbetaald. De werknemers gaan akkoord. De bonus van in totaal € 630.750 komt ten laste van de bv. In geschil is of de bv daarvoor in 2015 een voorziening mag vormen, of dat het aftrekverbod van art. 10 lid 1 letter j Wet Vpb 1969 dat verhindert.</p>
+
+
+
+<h2 class="wp-block-heading">Afkoop vóór vervulling voorwaarden</h2>
+
+
+
+<p class="wp-block-paragraph">Hof &#8216;s-Hertogenbosch oordeelt dat het aftrekverbod aangrijpt bij de daadwerkelijke toekenning van optierechten, het moment waarop pseudo-aandeelhouderschap ontstaat. Bij toekenning onder opschortende voorwaarden krijgen de verbintenissen volgens art. 6:22 BW pas werking na vervulling van de voorwaarden. Het aftrekverbod verzet zich er wel tegen dat de bv vooruitlopend op die vervulling een voorziening vormt. Maar hier zijn de voorwaarden nooit vervuld: de rechten zijn vóór dat moment afgekocht tegen de cashbonus. Daarom valt de bonus niet onder het aftrekverbod en mag de bv een voorziening van € 630.750 vormen.</p>
+
+
+
+<h2 class="wp-block-heading">Aftrekverbod volgt civiele werking</h2>
+
+
+
+<p class="wp-block-paragraph">De staatssecretaris betoogt in cassatie dat ook toekenning onder opschortende voorwaarden onder het aftrekverbod valt. De Hoge Raad volgt dat niet. Het aftrekverbod is in 2007 ingevoerd om de aftrek van de waarde van aan werknemers toegekende aandelen en optierechten uit te sluiten. Noch de wettekst, noch de wetsgeschiedenis bevat aanwijzingen dat de wetgever wilde afwijken van de temporele werking van een opschortende voorwaarde uit art. 6:22 BW. Daar is ook geen aanleiding voor, want zolang de voorwaarden niet zijn vervuld, kan toch al geen bedrag ten laste van de winst komen. Pas bij vervulling worden de rechten afdwingbaar, ontstaat pseudo-aandeelhouderschap en grijpt het aftrekverbod in. Het hof oordeelt dus terecht dat van toekenning nooit sprake is geweest. Het cassatieberoep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-10?lid=BWBR0002672&amp;pid=c-NDFRVPB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10, eerste lid, letter j Wet Vpb 1969</a><br>Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_HR_2026_1631" target="_blank" rel="noreferrer noopener">Hoge Raad, 09-10-2026, ECLI:NL:HR:2026:1631, 23/01315 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/cashbonus-bij-afkoop-aandelenrechten-buiten-aftrekverbod/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/12/Bonus-eindejaar.jpg" length="33410" type="image/jpeg" />	</item>
+		<item>
+		<title>Online Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 07:15:43 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[AI & Tax Technology]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=165702</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>Tijdens deze online basistraining leer je in twee uur welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.&nbsp;Deze cursus is exclusief ontwikkeld voor Lefebvre Sdu Licent Academy met een focus op de dagelijkse uitdagingen binnen de aangifte- en adviespraktijk.&nbsp;</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op 7 oktober of 16 december wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/3057/online-basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/online-basistraining-ai-voor-de-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tweede nota van wijziging Belastingplan 2027</title>
+		<link>https://www.taxence.nl/nieuws/tweede-nota-van-wijziging-belastingplan-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/tweede-nota-van-wijziging-belastingplan-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 07:06:00 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168277</guid>
+
+					<description><![CDATA[De Tweede nota van wijziging bij het Belastingplan 2027 bevat verschillende maatregelen die onder meer voortvloeien uit de augustusbesluitvorming. De belangrijkste wijzigingen betreffen de koopkracht, een uitzondering op de earningsstrippingmaatregel voor woningcorporaties, de accijnzen op benzine en diesel, overgangsrecht voor specifieke zorgkosten en een aanpassing rond de bosbouwvrijstelling. Koopkracht: aanvangspunt toptarief omhoog Het kabinet draait<a class="read-more" href="https://www.taxence.nl/nieuws/tweede-nota-van-wijziging-belastingplan-2027/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede nota van wijziging bij het Belastingplan 2027 bevat verschillende maatregelen die onder meer voortvloeien uit de augustusbesluitvorming. De belangrijkste wijzigingen betreffen de koopkracht, een uitzondering op de earningsstrippingmaatregel voor woningcorporaties, de accijnzen op benzine en diesel, overgangsrecht voor specifieke zorgkosten en een aanpassing rond de bosbouwvrijstelling.</strong></p>
+
+
+
+<h2 class="wp-block-heading">Koopkracht: aanvangspunt toptarief omhoog</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet draait de eerder voorgestelde bevriezing van het aanvangspunt van het toptarief in de inkomstenbelasting voor 2027 terug. Hierdoor komt deze grens uit op € 80.578, in plaats van € 78.426. Tegelijkertijd wordt de arbeidskorting minder verhoogd dan aanvankelijk voorzien: de verhoging bedraagt € 133, oftewel € 40 minder dan in het oorspronkelijke Belastingplan 2027. Voor 2028 wordt het aanvangspunt van het toptarief vervolgens wel bevroren op € 80.578.</p>
+
+
+
+<h2 class="wp-block-heading">Renteaftrek woningcorporaties verruimd</h2>
+
+
+
+<p class="wp-block-paragraph">Een punt betreft de vennootschapsbelasting voor woningcorporaties. Zij worden gedeeltelijk uitgezonderd van de earningsstrippingmaatregel, de generieke renteaftrekbeperking die Nederland naar aanleiding van de Europese antibelastingontwijkingsrichtlijn ATAD heeft ingevoerd. Het deel van het saldo aan renten en van de gecorrigeerde winst dat is toe te rekenen aan diensten van algemeen economisch belang (DAEB), blijft voortaan buiten beschouwing bij toepassing van deze renteaftrekbeperking. Niet-DAEB-activiteiten blijven er wel onder vallen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil hiermee de financiële slagkracht en investeringscapaciteit van woningcorporaties vergroten. Voor de uitzondering wordt circa € 100 miljoen extra uitgetrokken boven op het reeds gereserveerde budget voor de Vpb-faciliteit. De maatregel treedt naar verwachting op 1 januari 2028 in werking, maar pas nadat is vastgesteld dat geen sprake is van ongeoorloofde staatssteun.</p>
+
+
+
+<p class="wp-block-paragraph">De bestaande regels voor voort te wentelen niet-aftrekbare rente blijven gelden. Oude én nieuwe voortgewentelde rentesaldi kunnen dus alleen worden afgetrokken voor zover daarvoor volgens de reguliere earningsstrippingregels ruimte bestaat.</p>
+
+
+
+<h2 class="wp-block-heading">Accijnskorting benzine en diesel langer van kracht</h2>
+
+
+
+<p class="wp-block-paragraph">Ook de tijdelijke accijnskorting wordt aangepast. Voor 2027 wordt de korting op benzine voortgezet en ook die op diesel verlengd. In 2028 wordt de korting gedeeltelijk afgebouwd. Vanaf 1 januari 2029 vervalt zij volledig. Het benzinetarief bedraagt daardoor € 0,85169 per liter in 2027, € 0,94673 in 2028 en € 1,07280 in 2029. Voor diesel gaat het om respectievelijk € 0,55229, € 0,61580 en € 0,70052 per liter. Ook op Bonaire, Sint Eustatius en Saba wordt de benzineaccijnskorting gefaseerd beëindigd.</p>
+
+
+
+<h2 class="wp-block-heading">Zorgkosten en bosbouwvrijstelling</h2>
+
+
+
+<p class="wp-block-paragraph">Omdat de aftrek voor specifieke zorgkosten per 1 januari 2028 wordt afgeschaft, komt er overgangsrecht. Teruggaven of nagekomen betalingen die na die datum worden ontvangen maar betrekking hebben op eerder afgetrokken zorgkosten, blijven als negatieve persoonsgebonden aftrek belast. Daarmee wordt voorkomen dat achteraf een te hoge aftrek in stand blijft.</p>
+
+
+
+<p class="wp-block-paragraph">Tot slot wordt een technisch probleem rond de afschaffing van de bosbouwvrijstelling per 2029 opgelost. Voor Vpb-plichtigen met een gebroken boekjaar blijft de oude regeling gelden tot het einde van het lopende boekjaar. Zo worden extra administratieve lasten voorkomen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21872&amp;did=2026D50329" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21872&amp;did=2026D50329" target="_blank" rel="noreferrer noopener">Tweede Nota van wijziging BP 2027, Ministerie van Financiën, 9 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/tweede-nota-van-wijziging-belastingplan-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/Ministerie-van-Financien-.jpg" length="84237" type="image/jpeg" />	</item>
+		<item>
+		<title>Stand van zaken pakket Belastingplan 2027</title>
+		<link>https://www.taxence.nl/nieuws/stand-van-zaken-pakket-belastingplan-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/stand-van-zaken-pakket-belastingplan-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 06:19:56 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168259</guid>
+
+					<description><![CDATA[Staatssecretaris Eerenberg stuurt een Kamerbrief met de stand van zaken van het Belastingplan 2027. Daarbij gaat het onder meer om box 3, maatregelen om werken meer te laten lonen, een fiscale investeringsfaciliteit voor agrariërs en de aftrek specifieke zorgkosten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Staatssecretaris Eerenberg stuurt een Kamerbrief met de stand van zaken van het Belastingplan 2027. Daarbij gaat het onder meer om box 3, maatregelen om werken meer te laten lonen, een fiscale investeringsfaciliteit voor agrariërs en de aftrek specifieke zorgkosten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De novelle op het wetsvoorstel Wet werkelijk rendement box 3 ligt voor advies bij de Afdeling advisering van de Raad van State. Het advies wordt naar verwachting op 28 oktober uitgebracht. Staatssecretaris Eerenberg streeft ernaar de novelle uiterlijk 2 november bij de Tweede Kamer in te dienen en deze mee te laten lopen in de plenaire behandeling van het pakket Belastingplan. Het kabinet wil dat gelijktijdig over de novelle en het pakket Belastingplan wordt gestemd, zodat ook de Eerste Kamer voldoende tijd heeft voor behandeling. De dekking in de novelle wordt nog aangepast naar aanleiding van aangenomen moties bij de Algemene Financiële Beschouwingen.</p>
+
+
+
+<h2 class="wp-block-heading">Werken meer laten lonen</h2>
+
+
+
+<p class="wp-block-paragraph">De Kamer heeft de wens geuit om werken meer te laten lonen en de koopkracht verder te versterken. Het kabinet heeft hiervoor aanvullende middelen vrijgemaakt. Een wijziging van het Belastingplan is inmiddels via een nota van wijziging ingediend. Uiterlijk 2 november ontvangt de Kamer meer informatie over een verdere aanpassing waardoor werken meer gaat lonen. Stand van zaken pakket Belastin…</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast zijn twee eerder aangekondigde maatregelen aan het Belastingplan 2027 toegevoegd: het verlengen en langzamer afbouwen van de accijnskorting op diesel en benzine en een uitzondering voor woningcorporaties op de renteaftrekbeperking.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet heeft ook budget gereserveerd voor een mogelijke fiscale investeringsfaciliteit dier en klimaat. Hiermee kunnen agrariërs worden ondersteund bij investeringen in dierenwelzijn en natuurbevordering. De vormgeving, afbakening, uitvoerings- en staatssteunaspecten en mogelijke alternatieven worden het komende halfjaar onderzocht. De uitkomsten worden betrokken bij de besluitvorming over de Voorjaarsnota 2027.</p>
+
+
+
+<h2 class="wp-block-heading">Aftrek specifieke zorgkosten</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil de aftrek specifieke zorgkosten afschaffen omdat de regeling volgens het kabinet fundamentele tekortkomingen kent. Burgers moeten kosten voorfinancieren, de uiteindelijke omvang van het fiscale voordeel is vooraf niet duidelijk en de regeling is complex en foutgevoelig. Ook is zij ongericht en voor de Belastingdienst lastig uitvoerbaar. Deze tekortkomingen zijn volgens het kabinet niet weg te nemen door aanpassingen aan de bestaande regeling.</p>
+
+
+
+<p class="wp-block-paragraph">Een volwaardig uitgewerkt alternatief is er echter nog niet. De ministeries van VWS en Financiën werken verder aan mogelijkheden om de stapeling van zorgkosten te beperken. Daarbij worden mogelijkheden binnen én buiten de fiscale regeling onderzocht.</p>
+
+
+
+<p class="wp-block-paragraph">Gelijktijdig met deze brief zijn de nota&#8217;s naar aanleiding van het verslag en een nota van wijziging verstuurd.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/983ecb26-ef67-4508-a8eb-2d2f49f0f6f2" data-type="link" data-id="https://open.overheid.nl/details/983ecb26-ef67-4508-a8eb-2d2f49f0f6f2" target="_blank" rel="noreferrer noopener">Stand van zaken pakket Belastingplan 2027, 9 oktober 2026, nr. 2026-0000400553, Ministerie van Financiën</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/stand-van-zaken-pakket-belastingplan-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/190726105723.TweedeKamer-hoog.resized.2880x2880_cropped-25-0-0-0-0.png" length="825309" type="image/png" />	</item>
+		<item>
+		<title>Vooraankondiging arresten Hoge Raad 16 oktober 2026</title>
+		<link>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-16-oktober-2026/</link>
+					<comments>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-16-oktober-2026/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 04:58:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168261</guid>
+
+					<description><![CDATA[Onder voorbehoud zal de Hoge Raad op vrijdag 16 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Onder voorbehoud zal de Hoge Raad op vrijdag 16 oktober 2026 de volgende arresten in genoemde zaken wijzen. De met toepassing van artikel 80a RO en 81 RO te wijzen arresten zijn ook in dit overzicht opgenomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten met voorliggende uitspraak behandeld in NTFR</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>21/02570</td><td>Gerechtshof Arnhem-Leeuwarden 25 mei 2021, nrs. 19/00547 en 19/00672<br>ECLI:NL:GHARL:2021:4945 <em>Terechte toekenning proceskostenvergoeding beroep omdat noodzaak instellen beroep niet uitsluitend voortvloeide uit handelwijze belanghebbende</em></td><td>NTFR 2021/1936</td></tr><tr><td>24/04413</td><td>Gerechtshof Amsterdam 17 oktober 2024, nr. 23/797<br>ECLI:NL:GHAMS:2024:3234 <em>Geen proceskostenvergoeding omdat instellen beroep voortvloeide uit handelwijze belanghebbende</em></td><td>NTFR 2025/53</td></tr><tr><td>25/01027</td><td>Gerechtshof Amsterdam 6 februari 2025, nr. 24/3392<br>ECLI:NL:GHAMS:2025:407 <em>Voor oorlog gevluchte Oekraïner is geen ingekomen werknemer</em></td><td>NTFR 2025/620</td></tr><tr><td>25/01890</td><td>Gerechtshof Den Haag 3 april 2025, nr. 24/280<br>ECLI:NL:GHDHA:2025:564 <em>Hoger beroep niet-ontvankelijk door niet overleggen recente machtiging en kopie ID-bewijs</em></td><td>NTFR 2025/950</td></tr><tr><td>26/01954</td><td>Gerechtshof Amsterdam 29 augustus 2025, nrs. 24/3863 en 24/3864<br>ECLI:NL:GHAMS:2025:3428 <em>Nederland heffingsbevoegd bij buitenlands pensioen wegens duurzame band</em></td><td>NTFR 2026/833</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak in NTFR is gepubliceerd zonder samenvatting</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td><td><strong>NTFR-nr.</strong></td></tr><tr><td>25/00067</td><td>Gerechtshof Den Haag 12 december 2024, nr. 23/1262<br>ECLI:NL:GHDHA:2024:2386 <em>Waardevermindering wegens schade(verleden) niet aannemelijk gemaakt</em></td><td>&nbsp;</td></tr><tr><td>25/01334</td><td>Gerechtshof ’s-Hertogenbosch 26 februari 2025, nr. 23/1439<br>ECLI:NL:GHSHE:2025:544 <em>Aannemelijk dat belanghebbende binnenlands belastingplichtig is / niet aannemelijk dat hij ook in Brunei woonde</em></td><td>&nbsp;</td></tr><tr><td>25/01607</td><td>Gerechtshof Den Haag 13 maart 2025, nr. 24/72<br>ECLI:NL:GHDHA:2025:539 <em>Hoger beroep niet-ontvankelijk door niet overleggen recente volmacht</em></td><td>&nbsp;</td></tr><tr><td>25/01892</td><td>Gerechtshof Den Haag 3 april 2025, nrs. 24/328 t/m 24/330 en 24/332 t/m 24/342<br>ECLI:NL:GHDHA:2025:565 <em>Door ontbreken recente machtiging is er gerede twijfel over vertegenwoordigingsbevoegdheid</em></td><td>&nbsp;</td></tr><tr><td>25/01947</td><td>Gerechtshof Den Haag 10 april 2025, nr. 24/104<br>ECLI:NL:GHDHA:2025:630 <em>Hoger beroep niet-ontvankelijk wegens niet verstrekken recente machtiging</em></td><td>&nbsp;</td></tr><tr><td>25/01948</td><td>Gerechtshof Den Haag 10 april 2025, nr. 24/102<br>ECLI:NL:GHDHA:2025:629 <em>Hoger beroep niet-ontvankelijk wegens niet verstrekken recente machtiging</em></td><td>&nbsp;</td></tr><tr><td>25/01949</td><td>Gerechtshof Den Haag 10 april 2025, nr. 24/124<br>ECLI:NL:GHDHA:2025:633 <em>Hoger beroep niet-ontvankelijk wegens niet verstrekken recente machtiging</em></td><td>&nbsp;</td></tr><tr><td>25/01950</td><td>Gerechtshof Den Haag 10 april 2025, nr. 24/14<br>ECLI:NL:GHDHA:2025:628 <em>Hoger beroep niet-ontvankelijk wegens niet verstrekken recente machtiging</em></td><td>&nbsp;</td></tr><tr><td>26/00150</td><td>Gerechtshof Amsterdam 2 december 2025, nr. 24/69<br>ECLI:NL:GHAMS:2025:3212 <em>Niet-ontvankelijkheid beroep wegens ontbreken recente machtiging in WOZ-procedure</em></td><td>&nbsp;</td></tr><tr><td>26/02069</td><td>Rechtbank Zeeland-West-Brabant 10 april 2026, nrs. 25/4755 en 25/5449<br>ECLI:NL:RBZWB:2026:2927 <em>Geen bestuursrechtelijke rechtsgang tegen verrekeningsbesluit ontvanger</em></td><td>&nbsp;</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>Arresten waarvan de voorliggende uitspraak niet (in NTFR) is gepubliceerd</strong></p>
+
+
+
+<figure class="wp-block-table is-style-stripes has-small-font-size"><table class="has-fixed-layout"><tbody><tr><td><strong>Rolnr. HR</strong></td><td><strong>Gegevens voorliggende uitspraak</strong></td></tr><tr><td>25/01605</td><td>Gerechtshof Den Haag, nr. 24/12</td></tr><tr><td>26/01230</td><td>Gerechtshof ’s-Hertogenbosch 18 februari 2026, nrs. 23/1266 en 23/1267, ECLI:NL:GHSHE:2026:409</td></tr><tr><td>26/01542</td><td>Gerechtshof Amsterdam, nrs. 25/674 t/m 25/675</td></tr><tr><td>26/01543</td><td>Gerechtshof Amsterdam, nrs. 25/653 t/m 25/673</td></tr><tr><td>26/01544</td><td>Gerechtshof Amsterdam, nrs. 25/483 t/m 25/497</td></tr><tr><td>26/01545</td><td>Gerechtshof Amsterdam, nrs. 25/592 t/m 25/595</td></tr><tr><td>26/01546</td><td>Gerechtshof Amsterdam, nrs. 25/604 t/m 25/607</td></tr><tr><td>26/01547</td><td>Gerechtshof Amsterdam, nr. 25/393</td></tr><tr><td>26/01548</td><td>Gerechtshof Amsterdam, nr. 25/801</td></tr><tr><td>26/01549</td><td>Gerechtshof Amsterdam, nr. 25/394</td></tr><tr><td>26/01550</td><td>Gerechtshof Amsterdam, nr. 25/395</td></tr><tr><td>26/01551</td><td>Gerechtshof Amsterdam, nr. 25/800</td></tr><tr><td>26/01552</td><td>Gerechtshof Amsterdam, nr. 25/799</td></tr></tbody></table></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vooraankondiging-arresten-hoge-raad-16-oktober-2026/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/rechtspraak-12.jpg" length="20498" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet kiest voor geleidelijke aanpassing youngtimerregeling</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-kiest-voor-geleidelijke-aanpassing-youngtimerregeling/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-kiest-voor-geleidelijke-aanpassing-youngtimerregeling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 12 Oct 2026 03:38:00 +0000</pubDate>
+				<category><![CDATA[Auto]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168269</guid>
+
+					<description><![CDATA[Het kabinet geeft gebruikers en de branche meer tijd om zich aan te passen aan de gewijzigde youngtimerregeling. Vanaf 2029 moet een greentimerregeling voor oudere elektrische auto’s een duurzaam alternatief bieden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet geeft gebruikers en de branche meer tijd om zich aan te passen aan de gewijzigde youngtimerregeling. Vanaf 2029 moet een greentimerregeling voor oudere elektrische auto’s een duurzaam alternatief bieden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet heeft in het wetsvoorstel Belastingplan 2027 voorgesteld om de leeftijdsgrens van de youngtimerregeling per 1 januari 2027 te verhogen naar 17 jaar in plaats van 25 jaar. Per 1 januari 2028 wordt de grens verhoogd naar 20 jaar. Hiermee krijgt de bestaande groep gebruikers een jaar extra om zich aan te passen. Ook de branche krijgt meer tijd om de bedrijfsvoering aan te passen.</p>
+
+
+
+<h2 class="wp-block-heading">Geen hogere bijtelling voor vervuilende youngtimers</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil vooralsnog geen hogere bijtelling invoeren voor bijvoorbeeld vervuilende diesel-youngtimers. Het bijtellingspercentage heeft als doel om bij benadering het genoten privévoordeel van de auto forfaitair vast te stellen. Een verhoging van het tarief moet daarom goed kunnen worden onderbouwd. Het kabinet wil eerst onderzoeken of de huidige forfaits in de bijtelling het genoten privévoordeel voldoende benaderen. De resultaten worden volgend voorjaar met de Kamer gedeeld.</p>
+
+
+
+<p class="wp-block-paragraph">Een uitsterfconstructie waarbij auto’s die nu aan de youngtimercriteria voldoen blijvend onder de regeling vallen, vindt het kabinet onwenselijk. Dit zou een financiële stimulans geven om in oudere, vervuilende fossiele auto’s te blijven rijden. Bovendien leidt dit tot extra budgettaire derving waarvoor geen dekking beschikbaar is.</p>
+
+
+
+<h2 class="wp-block-heading">Greentimerregeling vanaf 2029</h2>
+
+
+
+<p class="wp-block-paragraph">Als duurzaam alternatief wil het kabinet vanaf 2029 een greentimerregeling invoeren. Elektrische auto’s van vijf tot acht jaar oud komen daarbij in aanmerking voor een bijtellingspercentage van 14% over de cataloguswaarde. Hiermee wil het kabinet ook de export van elektrische auto’s zoveel mogelijk voorkomen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet kiest bewust voor de cataloguswaarde en niet voor de waarde in het economische verkeer. De cataloguswaarde is een objectief en controleerbaar gegeven en daardoor eenvoudiger uitvoerbaar. Bij het bepalen van de korting is rekening gehouden met de hogere cataloguswaarde van oudere elektrische auto’s. Volgens het kabinet levert het tarief van 14% voor een greentimer nog steeds een korting van circa 25% op ten opzichte van de bijtelling voor een vergelijkbare nieuwe auto.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/8d88cc44-ac8f-434f-bebe-5833150a731d" data-type="link" data-id="https://open.overheid.nl/details/8d88cc44-ac8f-434f-bebe-5833150a731d" target="_blank" rel="noreferrer noopener">Antwoorden op vragen over Kamerbrief stand van zaken autobelastingen, nr. 2026-0000378862 Ministerie van Financiën, 5 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-kiest-voor-geleidelijke-aanpassing-youngtimerregeling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/04/Garage-auto.jpg" length="29157" type="image/jpeg" />	</item>
+		<item>
+		<title>AI in fiscale praktijk vraagt om menselijke controle</title>
+		<link>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/</link>
+					<comments>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Lindenberg]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:54:07 +0000</pubDate>
+				<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168176</guid>
+
+					<description><![CDATA[AI ondersteunt de fiscalist, maar controle en professionele verantwoordelijkheid blijven noodzakelijk.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>AI kan de fiscalist veel werk uit handen nemen, maar een overtuigend antwoord is nog geen betrouwbaar antwoord. In de tweede Tax Talks-aflevering over AI en fiscaliteit laat AI-expert en Register Belastingadviseur Ron Meijer zien hoe controle, vastlegging en transparantie het verschil maken.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een professioneel ogend AI-antwoord kan onjuiste bronnen, verouderde informatie, ontbrekende uitzonderingen of verkeerde berekeningen bevatten. Daarom moet de fiscalist feiten en omstandigheden, bronnen, actualiteit en berekeningen altijd zelf controleren. Uiteindelijk blijft degene die een advies, memo of ander document verstuurt verantwoordelijk voor de inhoud. Een fout kan niet worden afgeschoven op een AI-model.</p>
+
+
+
+<h2 class="wp-block-heading">Verificatieladder als controlemechanisme</h2>
+
+
+
+<p class="wp-block-paragraph">Om die controle structureel uit te voeren, werkt Meijer met een verificatieladder. Daarbij wordt eerst beoordeeld of een AI-antwoord plausibel is. Vervolgens worden feiten, bronnen, relevante passages, actualiteit en berekeningen gecontroleerd en vastgelegd. Ook kan AI worden gevraagd om tegenargumenten te formuleren, bijvoorbeeld vanuit het perspectief van de inspecteur, cliënt of rechter. Pas daarna volgt het professionele oordeel van de fiscalist. Door de uitgevoerde controles vast te leggen, kan de adviseur bovendien achteraf laten zien hoe een advies tot stand is gekomen.</p>
+
+
+
+<h2 class="wp-block-heading">Transparantie versterkt klantvertrouwen</h2>
+
+
+
+<p class="wp-block-paragraph">Professioneel AI-gebruik vraagt volgens Meijer ook om duidelijke afspraken binnen het kantoor. In de uitzending komen onder meer de AI Act, de AVG en beroepsregels aan bod. Een beknopt AI-beleid kan vastleggen welke toepassingen worden gebruikt, welke gegevens daarin mogen worden verwerkt en waar menselijke controle plaatsvindt. Tegelijkertijd is transparantie richting de klant belangrijk. De klant hoeft volgens Meijer niet op AI te vertrouwen, maar moet erop kunnen vertrouwen dat zijn adviseur AI verantwoord inzet, resultaten controleert en zelf instaat voor de kwaliteit van het uiteindelijke advies.</p>
+
+
+
+<h2 class="wp-block-heading">Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Tax Talks is hét online learning platform voor mkb-adviseurs. 30x Per jaar wordt een item beschikbaar gesteld dat je via het online platform kunt bekijken. Na het afronden van de bijbehorende kennistoets ontvang je een certificaat en PE-punten</em>.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf" href="https://www.licentacademy.nl/tax-talks?_sp=52adb5ab-cd44-48cf-b8b0-bad05abc9210.1762777697293" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf > i {display: none !important;}</style>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/Schermafbeelding-2026-10-09-095002-768x432.png" length="2942079" type="image/png" />	</item>
+		<item>
+		<title>Gebruikelijk loon terecht via loonheffing nageheven</title>
+		<link>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/</link>
+					<comments>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168166</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat de inspecteur het niet in de inkomstenbelasting gecorrigeerde gebruikelijk loon alsnog via de loonheffingen mag naheffen. De vergrijpboete wordt wel verlaagd van € 6.027 naar € 1.500.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat de inspecteur het niet in de inkomstenbelasting gecorrigeerde gebruikelijk loon alsnog via de loonheffingen mag naheffen. De vergrijpboete wordt wel verlaagd van € 6.027 naar € 1.500.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een broer en zus houden ieder 50% van de aandelen in een bv. De broer is bestuurder en verricht transport- en chauffeurswerkzaamheden. Voor de eerste 50 uur per week ontvangt hij loon van de bv. Meeruren factureert hij via zijn eenmanszaak aan een dochter-bv. In 2020 ontvangt hij € 22.667 loon en € 23.446 via zijn eenmanszaak. Na een boekenonderzoek stelt de inspecteur het gebruikelijk loon vast op € 46.000 en legt hij een naheffingsaanslag loonheffingen op over € 23.333. In geschil is onder meer of de inspecteur nog mag naheffen nu het gebruikelijk loon niet in de inkomstenbelasting van de broer is gecorrigeerd.</p>
+
+
+
+<h2 class="wp-block-heading">Naheffing gebruikelijk loon toegestaan</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur in beginsel mag kiezen tussen naheffing bij de inhoudingsplichtige en correctie in de inkomstenbelasting. Voor naheffing is geen nieuw feit nodig. Van een ambtelijk verzuim is geen sprake, omdat de inspecteur bij het vaststellen van de aanslag inkomstenbelasting mocht uitgaan van de juistheid van de aangifte. Hij hoefde niet te twijfelen aan het daarin opgenomen loon. Dat eerder geen correctie in de inkomstenbelasting is aangebracht, verhindert de naheffing daarom niet.</p>
+
+
+
+<h2 class="wp-block-heading">Boete verlaagd</h2>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het vertrouwens- en zorgvuldigheidsbeginsel slaagt niet. Het hof acht aannemelijk dat de werkzaamheden uitsluitend om fiscale redenen zijn verdeeld tussen loon en facturering via de eenmanszaak. De vergrijpboete is daarom terecht opgelegd. Omdat het bedrag aan te weinig geheven belasting in verhouding beperkt is, verlaagt het hof de boete naar € 1.500.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 lid</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67f?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67f AWR</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 12a</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-28a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 28a lid 2 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1945" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 22-07-2026, ECLI:NL:GHSHE:2026:1945, 24/1696 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Vrachtwagen-snelweg3.jpg" length="35946" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleggingspolis telt niet als banktegoed bij box 3-herstel</title>
+		<link>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/</link>
+					<comments>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:20:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168168</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een premievrije beleggingspolis die volledig is belegd op een kapitaalmarktrente-rekening geen banktegoed is voor de Wet rechtsherstel box 3. De vrouw krijgt wel rechtsherstel op basis van het werkelijk behaalde rendement.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een premievrije beleggingspolis die volledig is belegd op een kapitaalmarktrente-rekening geen banktegoed is voor de Wet rechtsherstel box 3. De vrouw krijgt wel rechtsherstel op basis van het werkelijk behaalde rendement.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De echtgenoot van een vrouw sluit in 1997 een beleggingspolis af. De polis is later verlengd tot 2027 en sinds 2017 premievrij. Het vermogen is op 1 januari 2020 volledig belegd in een zogenoemde Kapitaalmarktrente Rekening Oud. De waarde van de polis bedraagt dan € 1.148.698. Deze renterekening staat op naam van ABN AMRO Levensverzekering en wordt bij ABN AMRO Bank aangehouden. De vrouw stelt dat de rekening feitelijk als een gewone spaarrekening functioneert en daarom voor het rechtsherstel in box 3 als banktegoed moet worden behandeld. In geschil is daardoor welk forfaitair rendement op de waarde van de polis moet worden toegepast.</p>
+
+
+
+<h2 class="wp-block-heading">Polis blijft overige bezitting</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof kijkt naar de voorwaarden en de feitelijke afwikkeling van de polis. Dat de echtgenoten de rekening zelf als een bankrekening ervaren, is niet doorslaggevend. Door het premievrij maken is de verzekering niet beëindigd. De kapitaalmarktrente-rekening staat bovendien niet op naam van de echtgenoot maar op naam van de verzekeraar. Ook kan de echtgenoot niet rechtstreeks geld van de rekening opnemen. Daarvoor moet hij een verzoek indienen bij de verzekeraar, die een opname verwerkt als gedeeltelijke afkoop van de verzekering. De bank heeft daardoor geen rechtstreekse terugbetalingsverplichting tegenover de echtgenoot. De polis voldoet dus niet aan de wettelijke definitie van een deposito en kwalificeert niet als banktegoed.</p>
+
+
+
+<h2 class="wp-block-heading">Rechtsherstel naar werkelijk rendement</h2>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het gelijkheidsbeginsel leidt niet tot kwalificatie als banktegoed. Dat bepaalde andere vermogensrechten inmiddels wel als banktegoed worden behandeld, helpt de vrouw niet voor 2020. Die wetswijziging werkt slechts terug tot 1 januari 2023. Wel staat tussen partijen vast dat het forfaitaire box 3-inkomen hoger is dan het werkelijk behaalde rendement. Daarom biedt het hof rechtsherstel door uit te gaan van het werkelijke rendement. Het totale werkelijke rendement bedraagt € 46.101. Op basis van de gekozen verdeling tussen de echtgenoten stelt het hof het belastbaar inkomen uit sparen en beleggen van de vrouw vast op € 22.660.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.3?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.3 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6023">Gerechtshof Arnhem-Leeuwarden, 15-09-2026, ECLI:NL:GHARL:2026:6023, 25/2466 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/ABN-AMRO.jpg" length="49953" type="image/jpeg" />	</item>
+	</channel>
+</rss>

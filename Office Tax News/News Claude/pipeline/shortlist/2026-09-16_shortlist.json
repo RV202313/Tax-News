@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-16",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 502,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/georgia-san-marino-tax-treaty-amending-protocol-enters-into-force/",
+      "ecli": "",
+      "act": "",
+      "title": "Georgia, San Marino tax treaty amending protocol enters into force",
+      "summary": "The amending protocol to the Georgia–San Marino Income and Capital Tax Treaty (2012), signed on 17 October 2025, entered into force on 28 August 2026. The protocol removes the previous three-year time limit for mutual agreement procedures and updates the Georgia–San Marino tax treaty to align with the OECD’s 2017 Model Tax Convention. As the...",
+      "published_at": "2026-09-16",
+      "score": 15.0,
+      "topics": [
+        "dta"
+      ],
+      "jurisdictions": [
+        "ge"
+      ],
+      "jurisdiction_names": [
+        "Грузия"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 503,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/dominican-republic-dgii-clarifies-inheritance-tax-treatment-for-foreign-pensioners/",
+      "ecli": "",
+      "act": "",
+      "title": "Dominican Republic: DGII clarifies inheritance tax treatment for foreign pensioners",
+      "summary": "The Dominican Republic’s Tax Authority (DGII) clarified the inheritance tax treatment of estates of foreign pensioners or rentiers covered by Law 171-07 on Special Incentives for Pensioners and Rentiers of Foreign Source. The ruling, G.L. Núm. 5017XXX, was issued on 23 February 2026 and published online on 3 September 2026. Under Law 2569 on Successions...",
+      "published_at": "2026-09-16",
+      "score": 11.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

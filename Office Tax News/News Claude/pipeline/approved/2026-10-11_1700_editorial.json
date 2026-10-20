@@ -1,0 +1,825 @@
+{
+  "date": "2026-10-11",
+  "release": "2026-10-11_1700_editorial",
+  "items": [
+    {
+      "title": "Россия: США назначили полный пересмотр пошлин на бесшовные трубы",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+          "name": "Правительство США, официальная публикация USITC"
+        }
+      ],
+      "theme": "Полный пятилетний пересмотр торговых защитных мер по российским бесшовным трубам",
+      "jurisdictions": [
+        "Россия",
+        "США",
+        "Чехия",
+        "Южная Корея",
+        "Украина"
+      ],
+      "act": "FR Doc. 2026-20673; Investigation Nos. 701-TA-654-655 and 731-TA-1529-1532 (Review)",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+        "source_quote": "Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "ru-us-seamless-pipe-fullreview-schedule-20261008",
+        "cross_border_relevance": "Пересмотр антидемпинговых и компенсационных мер при импорте российских труб в США. Новая публикация расписания пересмотра; изменение ставок не утверждается."
+      },
+      "slug": "2026-10-11_1700_-ru-us-seamless-pipe-fullreview-schedule-20261008",
+      "caption": "Россия: США назначили полный пересмотр пошлин на бесшовные трубы\n\nУведомление опубликовано 8 октября 2026 года. Комиссия США по международной торговле назначила полный пятилетний пересмотр мер по бесшовным трубам, в том числе из России. Проверяется, приведёт ли отмена антидемпинговых и компенсационных мер к возобновлению ущерба. Это процедурный этап пересмотра, а не отмена пошлин.\n\nПочему это важно: Российским поставщикам и американским импортёрам следует учитывать продолжающийся пересмотр при планировании поставок; опубликованное уведомление само по себе не меняет ставки.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+          "checked_at": "2026-10-11T13:14:48.589009+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+          "evidence": [
+            {
+              "claim": "Комиссия США по международной торговле назначила полный пятилетний пересмотр мер по бесшовным трубам, в том числе из России. Проверяется, приведёт ли отмена антидемпинговых и компенсационных мер к возобновлению ущерба. Это процедурный этап пересмотра, а не отмена пошлин.",
+              "source_quote": "The Commission hereby gives notice of the scheduling of full reviews pursuant to the Tariff Act of 1930 to determine whether revocation of the antidumping duty orders on seamless carbon and alloy steel standard, line, and pressure pipe from Russia and South Korea and countervailing duty orders on seamless carbon and alloy steel standard, line, and pressure pipe from Czechia, Russia, South Korea, and Ukraine would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+            "checked_at": "2026-10-11T13:14:48.589009+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20673.htm",
+            "evidence": [
+              {
+                "claim": "Комиссия США по международной торговле назначила полный пятилетний пересмотр мер по бесшовным трубам, в том числе из России. Проверяется, приведёт ли отмена антидемпинговых и компенсационных мер к возобновлению ущерба. Это процедурный этап пересмотра, а не отмена пошлин.",
+                "source_quote": "The Commission hereby gives notice of the scheduling of full reviews pursuant to the Tariff Act of 1930 to determine whether revocation of the antidumping duty orders on seamless carbon and alloy steel standard, line, and pressure pipe from Russia and South Korea and countervailing duty orders on seamless carbon and alloy steel standard, line, and pressure pipe from Czechia, Russia, South Korea, and Ukraine would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-ru-us-seamless-pipe-fullreview-schedule-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: ДГД Астаны пояснил выбор метода таможенной оценки",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru",
+          "name": "ДГД Астаны"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "name": "Официальная датированная лента ДГД"
+        }
+      ],
+      "theme": "Последовательность методов определения таможенной стоимости",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Разъяснение ДГД Астаны от 08.10.2026 о методах определения таможенной стоимости",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+        "source_quote": "08 октября 2026 Методы определения таможенной стоимости товаров."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "kz-astana-customs-valuation-methods-20261008",
+        "cross_border_relevance": "Таможенная стоимость ввоза в ЕАЭС определяет базу импортных платежей. Материал о выборе метода оценки отличается от использованного разъяснения о риск-ориентированной проверке документов; новые правила не утверждаются."
+      },
+      "slug": "2026-10-11_1700_-kz-astana-customs-valuation-methods-20261008",
+      "caption": "Казахстан: ДГД Астаны пояснил выбор метода таможенной оценки\n\nРазъяснение опубликовано 8 октября 2026 года. ДГД Астаны напоминает: приоритетный метод определения таможенной стоимости — стоимость сделки. Если первый метод применить невозможно, последовательно используют методы по идентичным и однородным товарам. Декларант вправе выбрать очередность методов вычитания и сложения. Это разъяснение действующего порядка.\n\nПочему это важно: Импортёру стоит заранее подготовить документы для выбранного метода и объяснение невозможности оценки по стоимости сделки: от таможенной стоимости зависит база импортных платежей.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru",
+          "checked_at": "2026-10-11T13:14:48.590710+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Астаны напоминает: приоритетный метод определения таможенной стоимости — стоимость сделки. Если первый метод применить невозможно, последовательно используют методы по идентичным и однородным товарам. Декларант вправе выбрать очередность методов вычитания и сложения. Это разъяснение действующего порядка.",
+              "source_quote": "Основой таможенной стоимости ввозимых товаров должна быть в максимально возможной степени стоимость сделки с этими товарами в значении, определенном методом 1. В случае невозможности определения таможенной стоимости ввозимых товаров по стоимости сделки с ними таможенная стоимость товаров определяется в соответствии с методами 2 и 3, применяемыми последовательно. При этом могут быть проведены консультации между таможенным органом и декларантом в целях обоснованного выбора стоимостной основы для определения таможенной стоимости ввозимых товаров, отвечающей методам 2 и 3. В процессе консультаций таможенный орган и декларант могут обмениваться имеющейся у них информацией при условии соблюдения коммерческой тайны. Консультации проводятся в порядке и сроки, определенные уполномоченным органом. При невозможности определения таможенной стоимости ввозимых товаров в соответствии с методами 2 и 3 в качестве основы для определения таможенной стоимости товаров может использоваться либо цена, по которой оцениваемые, идентичные или однородные товары были проданы на таможенной территории Евразийского экономического союза, в соответствии с методом 4, либо расчетная стоимость товаров в соответствии с методом 5. Декларант имеет право выбрать очередность применения указанных методов при определении таможенной стоимости ввозимых товаров."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "checked_at": "2026-10-11T13:15:05.101672+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "Разъяснение опубликовано 8 октября 2026 года.",
+              "source_quote": "08 октября 2026 Методы определения таможенной стоимости товаров."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru",
+            "checked_at": "2026-10-11T13:14:48.590710+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307309?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Астаны напоминает: приоритетный метод определения таможенной стоимости — стоимость сделки. Если первый метод применить невозможно, последовательно используют методы по идентичным и однородным товарам. Декларант вправе выбрать очередность методов вычитания и сложения. Это разъяснение действующего порядка.",
+                "source_quote": "Основой таможенной стоимости ввозимых товаров должна быть в максимально возможной степени стоимость сделки с этими товарами в значении, определенном методом 1. В случае невозможности определения таможенной стоимости ввозимых товаров по стоимости сделки с ними таможенная стоимость товаров определяется в соответствии с методами 2 и 3, применяемыми последовательно. При этом могут быть проведены консультации между таможенным органом и декларантом в целях обоснованного выбора стоимостной основы для определения таможенной стоимости ввозимых товаров, отвечающей методам 2 и 3. В процессе консультаций таможенный орган и декларант могут обмениваться имеющейся у них информацией при условии соблюдения коммерческой тайны. Консультации проводятся в порядке и сроки, определенные уполномоченным органом. При невозможности определения таможенной стоимости ввозимых товаров в соответствии с методами 2 и 3 в качестве основы для определения таможенной стоимости товаров может использоваться либо цена, по которой оцениваемые, идентичные или однородные товары были проданы на таможенной территории Евразийского экономического союза, в соответствии с методом 4, либо расчетная стоимость товаров в соответствии с методом 5. Декларант имеет право выбрать очередность применения указанных методов при определении таможенной стоимости ввозимых товаров."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+            "checked_at": "2026-10-11T13:15:05.101672+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "Разъяснение опубликовано 8 октября 2026 года.",
+                "source_quote": "08 октября 2026 Методы определения таможенной стоимости товаров."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-kz-astana-customs-valuation-methods-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: реестр бездействующих охватывает постоянные учреждения нерезидентов",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru",
+          "name": "ДГД Астаны"
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "name": "Официальная датированная лента ДГД"
+        }
+      ],
+      "theme": "Налоговое администрирование постоянных учреждений нерезидентов",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Разъяснение ДГД Астаны от 09.10.2026 о реестре бездействующих налогоплательщиков",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+        "source_quote": "09 октября 2026 Реестр бездействующих налогоплательщиков."
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "kz-astana-inactive-registry-nonresident-pe-20261009",
+        "cross_border_relevance": "Официальное напоминание прямо распространяет правила налоговой отчётности на постоянные учреждения иностранных компаний; новое законодательное изменение не утверждается."
+      },
+      "slug": "2026-10-11_1700_-kz-astana-inactive-registry-nonresident-pe-20261009",
+      "caption": "Казахстан: реестр бездействующих охватывает постоянные учреждения нерезидентов\n\nДГД Астаны опубликовал напоминание 9 октября 2026 года. ДГД Астаны пояснил: в реестр бездействующих включают налогоплательщика, самостоятельно не представляющего отчётность двенадцать месяцев после последней отчётности. Правило охватывает и нерезидентов, работающих через постоянное учреждение или структурное подразделение. Приостановившие отчётность по Налоговому кодексу исключены из этого порядка.\n\nПочему это важно: Иностранным компаниям с присутствием в Казахстане стоит сверить фактическую подачу отчётности и статус её приостановления: отсутствие операций само по себе не равнозначно приостановлению отчётности.\n\nИсточник: https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru\nИсточник: https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru",
+          "checked_at": "2026-10-11T13:14:48.591858+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Астаны пояснил: в реестр бездействующих включают налогоплательщика, самостоятельно не представляющего отчётность двенадцать месяцев после последней отчётности. Правило охватывает и нерезидентов, работающих через постоянное учреждение или структурное подразделение. Приостановившие отчётность по Налоговому кодексу исключены из этого порядка.",
+              "source_quote": "В данный реестр включается налогоплательщик, самостоятельно не представляющий налоговую отчетность в течение двенадцати месяцев после представления последней налоговой отчетности. Положения описанные здесь применяются в отношении юридического лица – резидента, юридического лица – нерезидента, осуществляющего деятельность в Республике Казахстан через постоянное учреждение или структурное подразделение, индивидуального предпринимателя, за исключением налогоплательщиков, приостановивших представление налоговой отчетности в соответствии с Налоговым Кодексом РК."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "checked_at": "2026-10-11T13:15:05.089984+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+          "evidence": [
+            {
+              "claim": "ДГД Астаны опубликовал напоминание 9 октября 2026 года.",
+              "source_quote": "09 октября 2026 Реестр бездействующих налогоплательщиков."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru",
+            "checked_at": "2026-10-11T13:14:48.591858+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/details/1307932?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Астаны пояснил: в реестр бездействующих включают налогоплательщика, самостоятельно не представляющего отчётность двенадцать месяцев после последней отчётности. Правило охватывает и нерезидентов, работающих через постоянное учреждение или структурное подразделение. Приостановившие отчётность по Налоговому кодексу исключены из этого порядка.",
+                "source_quote": "В данный реестр включается налогоплательщик, самостоятельно не представляющий налоговую отчетность в течение двенадцати месяцев после представления последней налоговой отчетности. Положения описанные здесь применяются в отношении юридического лица – резидента, юридического лица – нерезидента, осуществляющего деятельность в Республике Казахстан через постоянное учреждение или структурное подразделение, индивидуального предпринимателя, за исключением налогоплательщиков, приостановивших представление налоговой отчетности в соответствии с Налоговым Кодексом РК."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+            "checked_at": "2026-10-11T13:15:05.089984+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/memleket/entities/kgd-astana/press/news/1?lang=ru",
+            "evidence": [
+              {
+                "claim": "ДГД Астаны опубликовал напоминание 9 октября 2026 года.",
+                "source_quote": "09 октября 2026 Реестр бездействующих налогоплательщиков."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-kz-astana-inactive-registry-nonresident-pe-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: предложены новые правила оформления недорогих посылок",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Проект оформления малостоимостных импортных отправлений",
+      "jurisdictions": [
+        "США"
+      ],
+      "act": "FR Doc. 2026-20650; USCBP-2026-0298; RIN 1685-AA38",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+        "source_quote": "Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "us-cbp-low-value-entry-proposal-20261008",
+        "cross_border_relevance": "Новый проект 8 октября об оформлении импорта до 2500 долларов. Отличается от использованной новости об отмене de minimis для 800 долларов: предмет — новые типы деклараций, данные и обеспечение; действующая льгота не утверждается."
+      },
+      "slug": "2026-10-11_1700_-us-cbp-low-value-entry-proposal-20261008",
+      "caption": "США: предложены новые правила оформления недорогих посылок\n\nОфициальный материал опубликован 8 октября 2026 года. Таможенная служба США предложила изменить оформление товаров стоимостью не более 2 500 долларов, создать электронный тип оформления почтовых отправлений и ввести обеспечение для отдельных упрощённых деклараций. Замечания принимаются до 7 декабря 2026 года. Это проект, а не вступившие в силу требования.\n\nПочему это важно: Интернет-магазинам, перевозчикам и импортёрам стоит оценить будущие требования к данным и обеспечению при поставках в США.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+          "checked_at": "2026-10-11T13:14:48.592782+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+          "evidence": [
+            {
+              "claim": "Таможенная служба США предложила изменить оформление товаров стоимостью не более 2 500 долларов, создать электронный тип оформления почтовых отправлений и ввести обеспечение для отдельных упрощённых деклараций. Замечания принимаются до 7 декабря 2026 года. Это проект, а не вступившие в силу требования.",
+              "source_quote": "SUMMARY: This document proposes to amend the U.S. Customs and Border Protection regulations to modify filing requirements for informal entries of goods valued at $2,500 or less and to establish a new electronic informal entry type for merchandise entering through the mail environment. This document also proposes other related changes such as requiring an additional data element for carriers pertaining to mail shipments and imposing bonding requirements for certain informal entries. DATES: Comments on the rule must be received on or before December 7, 2026. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+            "checked_at": "2026-10-11T13:14:48.592782+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20650.htm",
+            "evidence": [
+              {
+                "claim": "Таможенная служба США предложила изменить оформление товаров стоимостью не более 2 500 долларов, создать электронный тип оформления почтовых отправлений и ввести обеспечение для отдельных упрощённых деклараций. Замечания принимаются до 7 декабря 2026 года. Это проект, а не вступившие в силу требования.",
+                "source_quote": "SUMMARY: This document proposes to amend the U.S. Customs and Border Protection regulations to modify filing requirements for informal entries of goods valued at $2,500 or less and to establish a new electronic informal entry type for merchandise entering through the mail environment. This document also proposes other related changes such as requiring an additional data element for carriers pertaining to mail shipments and imposing bonding requirements for certain informal entries. DATES: Comments on the rule must be received on or before December 7, 2026. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-us-cbp-low-value-entry-proposal-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Южная Корея и США: предварительные маржи по стальным гвоздям",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Предварительный антидемпинговый пересмотр корейских стальных гвоздей",
+      "jurisdictions": [
+        "США",
+        "Южная Корея"
+      ],
+      "act": "A-580-874; FR Doc. 2026-20694; administrative review 2024–2025",
+      "source_published_at": "2026-10-08",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+        "source_quote": "Federal Register Volume 91, Number 194 (Thursday, October 8, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "us-korea-steel-nails-ad-preliminary-20261008",
+        "cross_border_relevance": "Импортные антидемпинговые платежи. Отдельный товар и дело A-580-874; не совпадает с пересмотрами корейского стального проката в ранних выпусках."
+      },
+      "slug": "2026-10-11_1700_-us-korea-steel-nails-ad-preliminary-20261008",
+      "caption": "Южная Корея и США: предварительные маржи по стальным гвоздям\n\nОфициальный материал опубликован 8 октября 2026 года. Минторг США опубликовал предварительные результаты антидемпингового пересмотра стальных гвоздей из Южной Кореи за июль 2024 — июнь 2025 года: маржа «Дже-иль» — 3,07%, «Кореа Уайр» — 0%. Для компаний, не отобранных для индивидуального рассмотрения, рассчитано 3,07%. Итоги ещё не окончательные.\n\nПочему это важно: Импортёрам нужно учитывать конкретного поставщика и предварительный статус расчёта; эти цифры сами по себе не означают новую окончательную ставку для всех поставок.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+          "checked_at": "2026-10-11T13:14:48.594077+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+          "evidence": [
+            {
+              "claim": "Минторг США опубликовал предварительные результаты антидемпингового пересмотра стальных гвоздей из Южной Кореи за июль 2024 — июнь 2025 года: маржа «Дже-иль» — 3,07%, «Кореа Уайр» — 0%. Для компаний, не отобранных для индивидуального рассмотрения, рассчитано 3,07%. Итоги ещё не окончательные.",
+              "source_quote": "Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margins exist for the period July 1, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted- average Producer/exporter dumping margin (percent) ------------------------------------------------------------------------ Je-il Co., Ltd.............................................. 3.07 Korea Wire Co., Ltd......................................... 0.00 Companies Not Selected for Individual Review\\11\\............ 3.07 ------------------------------------------------------------------------ "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+            "checked_at": "2026-10-11T13:14:48.594077+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/html/2026-20694.htm",
+            "evidence": [
+              {
+                "claim": "Минторг США опубликовал предварительные результаты антидемпингового пересмотра стальных гвоздей из Южной Кореи за июль 2024 — июнь 2025 года: маржа «Дже-иль» — 3,07%, «Кореа Уайр» — 0%. Для компаний, не отобранных для индивидуального рассмотрения, рассчитано 3,07%. Итоги ещё не окончательные.",
+                "source_quote": "Preliminary Results of Review As a result of this review, we preliminarily determine the following estimated weighted-average dumping margins exist for the period July 1, 2024, through June 30, 2025: ------------------------------------------------------------------------ Weighted- average Producer/exporter dumping margin (percent) ------------------------------------------------------------------------ Je-il Co., Ltd.............................................. 3.07 Korea Wire Co., Ltd......................................... 0.00 Companies Not Selected for Individual Review\\11\\............ 3.07 ------------------------------------------------------------------------ "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-us-korea-steel-nails-ad-preliminary-20261008.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Китай и США: итог пересмотра антидемпинговой меры по фосфатам калия",
+      "sources": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Итог антидемпингового пятилетнего пересмотра фосфатов калия",
+      "jurisdictions": [
+        "Китай",
+        "США"
+      ],
+      "act": "A-570-962; FR Doc. 2026-20378; third expedited sunset review",
+      "source_published_at": "2026-10-05",
+      "publication_date_evidence": {
+        "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+        "source_quote": "Federal Register Volume 91, Number 191 (Monday, October 5, 2026)"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "us-china-potassium-phosphate-ad-sunset-20261005",
+        "cross_border_relevance": "Первичная официальная публикация 5 октября и применимость с 5 октября, подпись 29 сентября не выдаётся за новую дату решения. Дело A-570-962 об антидемпинговой мере отличается от опубликованного C-570-963/20379 о компенсационной мере."
+      },
+      "slug": "2026-10-11_1700_-us-china-potassium-phosphate-ad-sunset-20261005",
+      "caption": "Китай и США: итог пересмотра антидемпинговой меры по фосфатам калия\n\nОфициальный материал опубликован 5 октября 2026 года. По итогам третьего ускоренного пятилетнего пересмотра Минторг США пришёл к выводу: отмена антидемпинговой меры по фосфатам калия из Китая, вероятно, приведёт к продолжению или возобновлению демпинга с маржами до 95,40%. Этот вывод не устанавливает новую единую ставку пошлины.\n\nПочему это важно: Поставщикам химического сырья и импортёрам следует сверять применимые меры по своему товару; оценочную маржу пересмотра нельзя автоматически подставлять в расчёт импортных платежей.\n\nИсточник: https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+          "checked_at": "2026-10-11T13:14:48.625085+00:00",
+          "status_code": 200,
+          "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+          "evidence": [
+            {
+              "claim": "По итогам третьего ускоренного пятилетнего пересмотра Минторг США пришёл к выводу: отмена антидемпинговой меры по фосфатам калия из Китая, вероятно, приведёт к продолжению или возобновлению демпинга с маржами до 95,40%. Этот вывод не устанавливает новую единую ставку пошлины.",
+              "source_quote": "Final Results of Sunset Review Pursuant to sections 751(c)(1), 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Order would be likely to lead to continuation or recurrence of dumping, and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 95.40 percent. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+            "checked_at": "2026-10-11T13:14:48.625085+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/html/2026-20378.htm",
+            "evidence": [
+              {
+                "claim": "По итогам третьего ускоренного пятилетнего пересмотра Минторг США пришёл к выводу: отмена антидемпинговой меры по фосфатам калия из Китая, вероятно, приведёт к продолжению или возобновлению демпинга с маржами до 95,40%. Этот вывод не устанавливает новую единую ставку пошлины.",
+                "source_quote": "Final Results of Sunset Review Pursuant to sections 751(c)(1), 752(c)(1) and (3) of the Act, Commerce determines that revocation of the Order would be likely to lead to continuation or recurrence of dumping, and that the magnitude of the dumping margins likely to prevail would be weighted-average dumping margins up to 95.40 percent. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-us-china-potassium-phosphate-ad-sunset-20261005.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС и Армения: опубликованы временные тарифные льготы",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Временные тарифные преференции для товаров армянского происхождения",
+      "jurisdictions": [
+        "ЕС",
+        "Армения"
+      ],
+      "act": "Регламент (ЕС) 2026/2269 от 07.10.2026; CELEX 32026R2269",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+        "source_quote": "Official Journal of the European Union EN L series 2026/2269 9.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "eu-armenia-tariff-preferences-oj-20261009",
+        "cross_border_relevance": "Новая официальная публикация регламента 9 октября, юридический текст от 7 октября. Отдельный этап после решения Совета 24 сентября. Читаемые статьи 1–2 подтверждают товарный охват, квоты и происхождение."
+      },
+      "slug": "2026-10-11_1700_-eu-armenia-tariff-preferences-oj-20261009",
+      "caption": "ЕС и Армения: опубликованы временные тарифные льготы\n\nОфициальный материал опубликован 9 октября 2026 года. Регламент ЕС 2026/2269 освобождает товары из Армении, перечисленные в приложении I, от адвалорных импортных пошлин. Для товаров приложения II освобождение действует в пределах тарифных квот. Льготы требуют соблюдения правил происхождения и административного сотрудничества по его проверке.\n\nПочему это важно: Экспортёру нужно сверить товарный код с приложением, доступность квоты и доказательства происхождения: льгота не распространяется автоматически на весь армянский экспорт.\n\nИсточник: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+          "checked_at": "2026-10-11T13:15:04.863989+00:00",
+          "status_code": 200,
+          "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+          "evidence": [
+            {
+              "claim": "Регламент ЕС 2026/2269 освобождает товары из Армении, перечисленные в приложении I, от адвалорных импортных пошлин. Для товаров приложения II освобождение действует в пределах тарифных квот. Льготы требуют соблюдения правил происхождения и административного сотрудничества по его проверке.",
+              "source_quote": "Article 1 Trade-liberalisation measures 1. The following trade-liberalisation measures are introduced: (a) the products originating in Armenia listed in Annex I shall be admitted for import into the Union exempted from ad valorem import duties; (b) the products originating in Armenia listed in Annex II shall be admitted for import into the Union exempted from ad valorem import duties within the limits of Union tariff quotas as set out in that Annex. 2. The tariff quotas referred to in paragraph 1, point (b), of this Article shall be managed by the Commission in accordance with Articles 49 to 54 of Implementing Regulation (EU) 2015/2447. Article 2 Conditions for entitlement to the trade-liberalisation measures The trade-liberalisation measures provided for in Article 1 shall be subject to the following conditions: (a) compliance by Armenia with the rules of origin provided for in Articles 59 to 70 of Delegated Regulation (EU) 2015/2446 and Articles 113 to 126 of Implementing Regulation (EU) 2015/2447; (b) Armenia engaging in close and effective administrative cooperation with the Union, including for the verification of evidence of origin, in order to prevent any risk of fraud; (c) Armenia abstaining from introducing new duties or charges having equivalent effect or new quantitative restrictions or measures having equivalent effect for imports originating in the Union, from increasing existing levels of duties or charges, and from introducing any other restrictions on trade with the Union, including discriminatory internal administrative measures, unless duly justified and notified to the Commission; and (d) Armenia respecting democratic principles, the rule of law, human rights and fundamental freedoms and countering the proliferation of weapons of mass destruction, as provided for in Articles 2 and 9 of the Partnership Agreement. For the purposes of point (a) of the first paragraph of this Article and without prejudice to Article 119(1) of Implementing Regulation (EU) 2015/2447, an invoice declaration may also be made out by an Armenian exporter registered in the Union’s Registered Exporter (REX) system in accordance with the relevant provisions of Articles 70, 72, 86, 89 and 91 of that Regulation. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+            "checked_at": "2026-10-11T13:15:04.863989+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2269",
+            "evidence": [
+              {
+                "claim": "Регламент ЕС 2026/2269 освобождает товары из Армении, перечисленные в приложении I, от адвалорных импортных пошлин. Для товаров приложения II освобождение действует в пределах тарифных квот. Льготы требуют соблюдения правил происхождения и административного сотрудничества по его проверке.",
+                "source_quote": "Article 1 Trade-liberalisation measures 1. The following trade-liberalisation measures are introduced: (a) the products originating in Armenia listed in Annex I shall be admitted for import into the Union exempted from ad valorem import duties; (b) the products originating in Armenia listed in Annex II shall be admitted for import into the Union exempted from ad valorem import duties within the limits of Union tariff quotas as set out in that Annex. 2. The tariff quotas referred to in paragraph 1, point (b), of this Article shall be managed by the Commission in accordance with Articles 49 to 54 of Implementing Regulation (EU) 2015/2447. Article 2 Conditions for entitlement to the trade-liberalisation measures The trade-liberalisation measures provided for in Article 1 shall be subject to the following conditions: (a) compliance by Armenia with the rules of origin provided for in Articles 59 to 70 of Delegated Regulation (EU) 2015/2446 and Articles 113 to 126 of Implementing Regulation (EU) 2015/2447; (b) Armenia engaging in close and effective administrative cooperation with the Union, including for the verification of evidence of origin, in order to prevent any risk of fraud; (c) Armenia abstaining from introducing new duties or charges having equivalent effect or new quantitative restrictions or measures having equivalent effect for imports originating in the Union, from increasing existing levels of duties or charges, and from introducing any other restrictions on trade with the Union, including discriminatory internal administrative measures, unless duly justified and notified to the Commission; and (d) Armenia respecting democratic principles, the rule of law, human rights and fundamental freedoms and countering the proliferation of weapons of mass destruction, as provided for in Articles 2 and 9 of the Partnership Agreement. For the purposes of point (a) of the first paragraph of this Article and without prejudice to Article 119(1) of Implementing Regulation (EU) 2015/2447, an invoice declaration may also be made out by an Armenian exporter registered in the Union’s Registered Exporter (REX) system in accordance with the relevant provisions of Articles 70, 72, 86, 89 and 91 of that Regulation. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-eu-armenia-tariff-preferences-oj-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС и Китай: регистрация импорта поливинилового спирта «Синопек»",
+      "sources": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Регистрация импорта китайского поливинилового спирта при повторном рассмотрении меры",
+      "jurisdictions": [
+        "ЕС",
+        "Китай"
+      ],
+      "act": "Исполнительный регламент (ЕС) 2026/2245 от 08.10.2026; CELEX 32026R2245",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+        "source_quote": "Official Journal of the European Union EN L series 2026/2245 9.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "eu-sinopec-pva-import-registration-20261009",
+        "cross_border_relevance": "Таможенная регистрация и возврат антидемпинговых платежей. Новый акт от 8 октября опубликован 9 октября; судебное решение 3 сентября — предыстория, не новая дата судебного события. Производители и код проверены по статье 1."
+      },
+      "slug": "2026-10-11_1700_-eu-sinopec-pva-import-registration-20261009",
+      "caption": "ЕС и Китай: регистрация импорта поливинилового спирта «Синопек»\n\nОфициальный материал опубликован 9 октября 2026 года. Регламент ЕС 2026/2245 предписывает регистрировать импорт определённых поливиниловых спиртов группы «Синопек» из Китая по коду TARIC 3905 30 00 91. Регистрация прекращается через девять месяцев после вступления регламента в силу. Документ также ограничивает решения о возврате антидемпинговых пошлин до завершения повторного рассмотрения.\n\nПочему это важно: Импортёрам продукции указанных производителей стоит сохранять документы по поставкам и отдельно оценивать условия возврата пошлин; регистрация сама по себе не задаёт новую ставку.\n\nИсточник: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+          "checked_at": "2026-10-11T13:15:05.102769+00:00",
+          "status_code": 200,
+          "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+          "evidence": [
+            {
+              "claim": "Регламент ЕС 2026/2245 предписывает регистрировать импорт определённых поливиниловых спиртов группы «Синопек» из Китая по коду TARIC 3905 30 00 91. Регистрация прекращается через девять месяцев после вступления регламента в силу. Документ также ограничивает решения о возврате антидемпинговых пошлин до завершения повторного рассмотрения.",
+              "source_quote": "Article 14(5) thereof, After informing the Member States, Whereas: (1) On 9 October 2026, the European Commission (‘the Commission’) announced, by a notice published in the Official Journal of the European Union ( 2 ) , the initiation of the reopening of an investigation concerning the implementation of the judgment of 3 September 2026 in Case C-319/24 P in relation to Commission Implementing Regulation (EU) 2020/1336 ( 3 ) . (2) In its judgment of 21 February 2024, in Case T-762/20 Sinopec Chongqing SVW and Others v Commission ( 4 ) the General Court of the European Union (‘the General Court’) partially annulled the Regulation at issue to the extent that it concerned the rate of the anti-dumping duty affecting imports into the European Union of certain PVA manufactured and sold by the Sinopec Group. (3) The judgment of the Court of Justice of the European Union (‘CJEU’) in Case C-319/24 P Commission v Sinopec Chongqing SVW Chemicals and others of 3 September 2026 ( 5 ) confirmed the findings of the judgment of the General Court only in so far as it concerned the downward adjustments to the export price under "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+            "checked_at": "2026-10-11T13:15:05.102769+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A32026R2245",
+            "evidence": [
+              {
+                "claim": "Регламент ЕС 2026/2245 предписывает регистрировать импорт определённых поливиниловых спиртов группы «Синопек» из Китая по коду TARIC 3905 30 00 91. Регистрация прекращается через девять месяцев после вступления регламента в силу. Документ также ограничивает решения о возврате антидемпинговых пошлин до завершения повторного рассмотрения.",
+                "source_quote": "Article 14(5) thereof, After informing the Member States, Whereas: (1) On 9 October 2026, the European Commission (‘the Commission’) announced, by a notice published in the Official Journal of the European Union ( 2 ) , the initiation of the reopening of an investigation concerning the implementation of the judgment of 3 September 2026 in Case C-319/24 P in relation to Commission Implementing Regulation (EU) 2020/1336 ( 3 ) . (2) In its judgment of 21 February 2024, in Case T-762/20 Sinopec Chongqing SVW and Others v Commission ( 4 ) the General Court of the European Union (‘the General Court’) partially annulled the Regulation at issue to the extent that it concerned the rate of the anti-dumping duty affecting imports into the European Union of certain PVA manufactured and sold by the Sinopec Group. (3) The judgment of the Court of Justice of the European Union (‘CJEU’) in Case C-319/24 P Commission v Sinopec Chongqing SVW Chemicals and others of 3 September 2026 ( 5 ) confirmed the findings of the judgment of the General Court only in so far as it concerned the downward adjustments to the export price under "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-eu-sinopec-pva-import-registration-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЕС: обсуждается продление механизмов борьбы с мошенничеством по НДС",
+      "sources": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Проект продления механизмов против мошенничества с НДС",
+      "jurisdictions": [
+        "ЕС"
+      ],
+      "act": "Официальное сообщение Еврокомиссии от 09.10.2026 о проекте продления механизмов RCM и QRM",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+        "source_quote": "News article 9 October 2026 Directorate-General for Taxation and Customs Union"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "eu-vat-rcm-qrm-official-proposal-news-20261009",
+        "cross_border_relevance": "Новая датированная содержательная публикация ЕК 9 октября; источник помечает приложенный проект также 9 октября. Предмет — противодействие потере НДС и переход к цифровой отчётности по трансграничным поставкам, а не Pillar Two. Дату из пересказа и спорную дату истечения прежнего режима в подпись не переношу."
+      },
+      "slug": "2026-10-11_1700_-eu-vat-rcm-qrm-official-proposal-news-20261009",
+      "caption": "ЕС: обсуждается продление механизмов борьбы с мошенничеством по НДС\n\nОфициальный материал опубликован 9 октября 2026 года. Еврокомиссия сообщила о предложении сохранить до июня 2030 года механизмы борьбы с мошенничеством по НДС: обратное начисление в чувствительных секторах и механизм быстрого реагирования. Проект предстоит обсудить Совету ЕС. Продление ещё не представлено как принятый закон.\n\nПочему это важно: Участникам поставок в ЕС стоит учитывать обсуждаемый переход к цифровой отчётности и проверять действующий режим НДС в конкретной стране, прежде чем менять порядок расчётов.\n\nИсточник: https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+          "checked_at": "2026-10-11T13:15:05.674577+00:00",
+          "status_code": 200,
+          "final_url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+          "evidence": [
+            {
+              "claim": "Еврокомиссия сообщила о предложении сохранить до июня 2030 года механизмы борьбы с мошенничеством по НДС: обратное начисление в чувствительных секторах и механизм быстрого реагирования. Проект предстоит обсудить Совету ЕС. Продление ещё не представлено как принятый закон.",
+              "source_quote": "Commission proposes extending key anti-VAT fraud tools until June 2030 - Taxation and Customs Union Skip to main content en Search Search Taxation and Customs Union Menu Close Menu Back Previous items Next items Home About us Directorate-General for Taxation and Customs Union Application of EU Law EU funding for customs and tax Transparency Portal Events Tenders and Grants Glossary Contact us See all Taxation Value Added Tax (VAT) Excise Duties Business Taxation Personal Taxation Other taxes Outermost regions Tax Transparency and Cooperation Economic Analysis National Tax Administrations EU Training See all Customs National customs administrations Rules of origin for goods Customs Controls EU Training EU Customs Reform Authorised Economic Operator (AEO) Prohibitions and Restrictions Customs Procedures for import and export EU Customs Union: facts and figures Union Customs code Customs security International affairs Electronic customs See all CBAM CBAM archive CBAM communication and news CBAM definitive regime CBAM legislation and guidance CBAM Registry CBAM sectors Price of CBAM certificates Verification of CBAM emissions See all Online services Online services and databases for Customs Online services and databases for Taxation See all News Home News Commission proposes extending key anti-VAT fraud tools until June 2030 Commission proposes extending key anti-VAT fraud tools until June 2030 A new Commission proposal adopted on 1 October 2026 aims to extend the optional reverse charge mechanism and the quick reaction mechanism against VAT fraud until 30 June 2030 . News article 9 October 2026 Directorate-General for Taxation and Customs Union 2 min read The proposal responds to calls from Member States, businesses and the European Parliament, and will help countries continue tackling fraud in high-risk sectors while preparing for new digital VAT reporting rules under the VAT in the Digital Age (VIDA) reform measures . In the EU, VAT fraud is still a serious issue that causes countries to lose public money. The Commission wants to give EU countries more time to use fast and practical anti-fraud VAT measures until the full long-term EU VAT reform is in place. The measures are mostly used to tackle missing trader fraud. Member States already have two tools in place to fight this type of fraud, which were due to expire on 30 June 2026. However, while the EU continues working on broader, long-term reforms of the VAT system, the proposal is to keep these anti-fraud measures available for four more years. The Reverse Charge Mechanism (RCM) allows Member States, in a number of pre-defined fraud-sensitive sectors, to shift the responsibility for paying VAT from the seller to the buyer, which can make certain types of fraud much harder. In addition, the Quick Reaction Mechanism ( QRM) offers the possibility to Member States, under strict conditions, to also apply the reverse charge mechanism in cases whereby sudden and massive fraud would be detected in other sectors. In the future, under VIDA’s Digital Reporting Requirements , there will be mandatory e-invoicing and real time reporting for cross-border supplies. In the meantime, Member States can introduce domestic e-invoicing requirements to better control the fraud risks. The proposal will now be discussed by the Council. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+            "checked_at": "2026-10-11T13:15:05.674577+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+            "evidence": [
+              {
+                "claim": "Еврокомиссия сообщила о предложении сохранить до июня 2030 года механизмы борьбы с мошенничеством по НДС: обратное начисление в чувствительных секторах и механизм быстрого реагирования. Проект предстоит обсудить Совету ЕС. Продление ещё не представлено как принятый закон.",
+                "source_quote": "Commission proposes extending key anti-VAT fraud tools until June 2030 - Taxation and Customs Union Skip to main content en Search Search Taxation and Customs Union Menu Close Menu Back Previous items Next items Home About us Directorate-General for Taxation and Customs Union Application of EU Law EU funding for customs and tax Transparency Portal Events Tenders and Grants Glossary Contact us See all Taxation Value Added Tax (VAT) Excise Duties Business Taxation Personal Taxation Other taxes Outermost regions Tax Transparency and Cooperation Economic Analysis National Tax Administrations EU Training See all Customs National customs administrations Rules of origin for goods Customs Controls EU Training EU Customs Reform Authorised Economic Operator (AEO) Prohibitions and Restrictions Customs Procedures for import and export EU Customs Union: facts and figures Union Customs code Customs security International affairs Electronic customs See all CBAM CBAM archive CBAM communication and news CBAM definitive regime CBAM legislation and guidance CBAM Registry CBAM sectors Price of CBAM certificates Verification of CBAM emissions See all Online services Online services and databases for Customs Online services and databases for Taxation See all News Home News Commission proposes extending key anti-VAT fraud tools until June 2030 Commission proposes extending key anti-VAT fraud tools until June 2030 A new Commission proposal adopted on 1 October 2026 aims to extend the optional reverse charge mechanism and the quick reaction mechanism against VAT fraud until 30 June 2030 . News article 9 October 2026 Directorate-General for Taxation and Customs Union 2 min read The proposal responds to calls from Member States, businesses and the European Parliament, and will help countries continue tackling fraud in high-risk sectors while preparing for new digital VAT reporting rules under the VAT in the Digital Age (VIDA) reform measures . In the EU, VAT fraud is still a serious issue that causes countries to lose public money. The Commission wants to give EU countries more time to use fast and practical anti-fraud VAT measures until the full long-term EU VAT reform is in place. The measures are mostly used to tackle missing trader fraud. Member States already have two tools in place to fight this type of fraud, which were due to expire on 30 June 2026. However, while the EU continues working on broader, long-term reforms of the VAT system, the proposal is to keep these anti-fraud measures available for four more years. The Reverse Charge Mechanism (RCM) allows Member States, in a number of pre-defined fraud-sensitive sectors, to shift the responsibility for paying VAT from the seller to the buyer, which can make certain types of fraud much harder. In addition, the Quick Reaction Mechanism ( QRM) offers the possibility to Member States, under strict conditions, to also apply the reverse charge mechanism in cases whereby sudden and massive fraud would be detected in other sectors. In the future, under VIDA’s Digital Reporting Requirements , there will be mandatory e-invoicing and real time reporting for cross-border supplies. In the meantime, Member States can introduce domestic e-invoicing requirements to better control the fraud risks. The proposal will now be discussed by the Council. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-eu-vat-rcm-qrm-official-proposal-news-20261009.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Италия и США: налоговая служба разобрала гибридные несоответствия",
+      "sources": [
+        {
+          "url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+          "name": "Официальный первоисточник"
+        }
+      ],
+      "theme": "Итальянские антигибридные правила и включение дохода по американскому GILTI/NCTI",
+      "jurisdictions": [
+        "Италия",
+        "США"
+      ],
+      "act": "Оригинальный анализ Agenzia delle Entrate/FiscoOggi от 07.10.2026 о GILTI/NCTI и антигибридных правилах",
+      "source_published_at": "2026-10-07",
+      "publication_date_evidence": {
+        "url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+        "source_quote": "Disallineamenti da ibridi: il caso del regime Usa “Gilti/Ncti” 7 ottobre 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-11",
+        "event_key": "it-fiscooggi-gilti-ncti-hybrid-analysis-20261007",
+        "cross_border_relevance": "Оригинальная новая аналитическая публикация самой налоговой службы 7 октября. Австралийское обновление 23 сентября и итальянский ответ 2023 года названы в тексте предысторией и не выдаются за свежие решения. Тема антигибридных расходов и КИК, а не глобальный минимальный налог."
+      },
+      "slug": "2026-10-11_1700_-it-fiscooggi-gilti-ncti-hybrid-analysis-20261007",
+      "caption": "Италия и США: налоговая служба разобрала гибридные несоответствия\n\nОфициальный материал опубликован 7 октября 2026 года. В новом анализе издания налоговой службы Италии поясняется: для устранения гибридного несоответствия включение дохода по правилам контролируемых иностранных компаний должно отвечать установленным условиям. Американский режим налогообложения зарубежной прибыли GILTI/NCTI не означает автоматического устранения несоответствия: предусмотренный вычет уменьшает облагаемую базу.\n\nПочему это важно: Международной группе стоит проверять фактическое включение дохода и условия итальянского вычета расходов. Материал разъясняет действующие правила, не вводя новую обязанность.\n\nИсточник: https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+          "checked_at": "2026-10-11T13:15:06.040796+00:00",
+          "status_code": 200,
+          "final_url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+          "evidence": [
+            {
+              "claim": "В новом анализе издания налоговой службы Италии поясняется: для устранения гибридного несоответствия включение дохода по правилам контролируемых иностранных компаний должно отвечать установленным условиям. Американский режим налогообложения зарубежной прибыли GILTI/NCTI не означает автоматического устранения несоответствия: предусмотренный вычет уменьшает облагаемую базу.",
+              "source_quote": "Per evitare l'applicazione della reazione primaria è necessario che il disallineamento sia stato effettivamente neutralizzato in un altro Stato, senza che la disposizione subordini tale neutralizzazione a una specifica modalità. In tale prospettiva possono assumere rilevanza anche le inclusioni di reddito derivanti dall'applicazione di un regime Cfc, purché idonee a neutralizzare il disallineamento. Tale principio, tuttavia, non implica che qualsiasi regime Cfc, o disposizione a esso assimilabile, possa automaticamente qualificarsi come una forma di inclusione rilevante ai fini delle hybrid mismatch rules . Sul punto, la circolare n. 2/E del 2022, richiamando il Report on neutralising the effects of hybrid mismatch arrangements ( Oecd , 2015 – Hma Report ), precisa che l’inclusione derivante dall’applicazione di un regime Cfc può assumere rilevanza ai fini della neutralizzazione del disallineamento soltanto al ricorrere di determinate condizioni, volte ad assicurare che il reddito sia effettivamente incluso nella base imponibile della controllante. In particolare, il citato Rapporto individua due condizioni di carattere generale: il componente di reddito deve essere integralmente incluso nella base imponibile della società controllante il componente deve essere assoggettato ad aliquota ordinaria. Tali requisiti assumono particolare rilievo nel valutare se il regime statunitense Gilti/Ncti possa essere considerato una forma alternativa di inclusione ai fini delle hybrid mismatch rules . Nel regime Gilti/Ncti, infatti, l'inclusione reddituale operata in capo alla controllante non determina l’assoggettamento ad aliquota ordinaria applicabile alla società, in quanto la disciplina statunitense prevede una specifica deduzione, che incide sulla relativa base imponibile. Più precisamente, la disposizione prevede, per i periodi d’imposta antecedenti al 1° gennaio 2026, una deduzione pari al 50% dell’importo rilevante e, a seguito delle modifiche introdotte, per i periodi d'imposta successivi al 31 dicembre 2025, la misura della deduzione è stata fissata al 40 per cento. Ne consegue, che il reddito rilevante ai fini Gilti/Ncti, pur formando oggetto di inclusione a livello del socio statunitense, non è integralmente assoggettato all'aliquota ordinaria statunitense, in quanto la deduzione prevista riduce la base imponibile riferibile a tale inclusione. "
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+            "checked_at": "2026-10-11T13:15:06.040796+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.fiscooggi.it/portale/-/disallineamenti-da-ibridi-il-caso-del-regime-usa-gilti/ncti-",
+            "evidence": [
+              {
+                "claim": "В новом анализе издания налоговой службы Италии поясняется: для устранения гибридного несоответствия включение дохода по правилам контролируемых иностранных компаний должно отвечать установленным условиям. Американский режим налогообложения зарубежной прибыли GILTI/NCTI не означает автоматического устранения несоответствия: предусмотренный вычет уменьшает облагаемую базу.",
+                "source_quote": "Per evitare l'applicazione della reazione primaria è necessario che il disallineamento sia stato effettivamente neutralizzato in un altro Stato, senza che la disposizione subordini tale neutralizzazione a una specifica modalità. In tale prospettiva possono assumere rilevanza anche le inclusioni di reddito derivanti dall'applicazione di un regime Cfc, purché idonee a neutralizzare il disallineamento. Tale principio, tuttavia, non implica che qualsiasi regime Cfc, o disposizione a esso assimilabile, possa automaticamente qualificarsi come una forma di inclusione rilevante ai fini delle hybrid mismatch rules . Sul punto, la circolare n. 2/E del 2022, richiamando il Report on neutralising the effects of hybrid mismatch arrangements ( Oecd , 2015 – Hma Report ), precisa che l’inclusione derivante dall’applicazione di un regime Cfc può assumere rilevanza ai fini della neutralizzazione del disallineamento soltanto al ricorrere di determinate condizioni, volte ad assicurare che il reddito sia effettivamente incluso nella base imponibile della controllante. In particolare, il citato Rapporto individua due condizioni di carattere generale: il componente di reddito deve essere integralmente incluso nella base imponibile della società controllante il componente deve essere assoggettato ad aliquota ordinaria. Tali requisiti assumono particolare rilievo nel valutare se il regime statunitense Gilti/Ncti possa essere considerato una forma alternativa di inclusione ai fini delle hybrid mismatch rules . Nel regime Gilti/Ncti, infatti, l'inclusione reddituale operata in capo alla controllante non determina l’assoggettamento ad aliquota ordinaria applicabile alla società, in quanto la disciplina statunitense prevede una specifica deduzione, che incide sulla relativa base imponibile. Più precisamente, la disposizione prevede, per i periodi d’imposta antecedenti al 1° gennaio 2026, una deduzione pari al 50% dell’importo rilevante e, a seguito delle modifiche introdotte, per i periodi d'imposta successivi al 31 dicembre 2025, la misura della deduzione è stata fissata al 40 per cento. Ne consegue, che il reddito rilevante ai fini Gilti/Ncti, pur formando oggetto di inclusione a livello del socio statunitense, non è integralmente assoggettato all'aliquota ordinaria statunitense, in quanto la deduzione prevista riduce la base imponibile riferibile a tale inclusione. "
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-11\\2026-10-11_1700_-it-fiscooggi-gilti-ncti-hybrid-analysis-20261007.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

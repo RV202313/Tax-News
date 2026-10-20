@@ -1,0 +1,517 @@
+{
+  "release": "2026-09-25_0900_editorial",
+  "date": "2026-09-25",
+  "slot": "0900",
+  "items": [
+    {
+      "slug": "2026-09-25-0900-item-01-ru",
+      "title": "Россия: ФНС России разъяснит правила контроля за применением онлайн-касс",
+      "caption": "Россия: ФНС России разъяснит правила контроля за применением онлайн-касс\n\nФНС России проведет вебинар по актуальным вопросам государственного контроля за соблюдением законодательства о применении контрольно-кассовой техники и мерам ответственности за нарушения.\n\n💡 **Почему это важно**\nУсиление дистанционного мониторинга кассовых чеков через операторов фискальных данных позволяет налоговым органам автоматически выявлять расхождения между выручкой и декларируемыми доходами. Организациям розничной торговли и сферы услуг необходимо регулярно проверять актуальность прошивок ККТ и правильность формирования обязательных реквизитов чека.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16651018/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговый контроль и ККТ",
+      "jurisdictions": "Россия",
+      "act": "Анонс вебинара ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651018/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651018/",
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16651018/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "россия: фнс россии разъяснит правила контроля за п",
+              "source_quote": "контроль и ответственность при применении онлайн-касс обсудят на вебинаре со спе"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-02-ru",
+      "title": "Россия: ФНС России развивает автоматизированную систему СПОТ для контроля налоговых рисков",
+      "caption": "Россия: ФНС России развивает автоматизированную систему СПОТ для контроля налоговых рисков\n\nФНС России расширила применение цифровой системы СПОТ для оперативного выявления рисков и сбора обратной связи от крупнейших налогоплательщиков.\n\n💡 **Почему это важно**\nИнтеграция превентивного скоринга рисков сокращает объем ручных истребований документов и позволяет бизнесу своевременно устранять методологические неточности в декларациях. Налоговым департаментам компаний рекомендуется наладить внутренний мониторинг контрольных соотношений до направления отчетности в ведомство.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16650989/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "цифровизация налогового контроля",
+      "jurisdictions": "Россия",
+      "act": "Заявление руководства ФНС России",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16650989/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16650989/",
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16650989/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "россия: фнс россии развивает автоматизированную си",
+              "source_quote": "мы используем чат системы спот как максимально честную обратную связь, - алексан"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-03-kz",
+      "title": "Казахстан: Миннацэкономики РК предложило отложить введение роялти на твердые ископаемые до 2029 года",
+      "caption": "Казахстан: Миннацэкономики РК предложило отложить введение роялти на твердые ископаемые до 2029 года\n\nМинистерство национальной экономики Республики Казахстан вынесло на обсуждение инициативу о переносе срока введения повышенных ставок роялти для недропользователей на 2029 год.\n\n💡 **Почему это важно**\nОтсрочка введения фискальной нагрузки снижает инвестиционные риски для горнодобывающих предприятий и сохраняет операционную рентабельность проектов. Международным инвесторам в секторе недропользования следует пересмотреть долгосрочные финансовые модели с учетом скорректированного графика налоговых изменений.\n\nИсточник: https://regfollower.com/kazakhstan-proposes-delaying-solid-minerals-royalties-to-2029/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение недропользования",
+      "jurisdictions": "Казахстан",
+      "act": "Инициатива Миннацэкономики РК",
+      "sources": [
+        {
+          "label": "Миннацэкономики РК",
+          "url": "https://regfollower.com/kazakhstan-proposes-delaying-solid-minerals-royalties-to-2029/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/kazakhstan-proposes-delaying-solid-minerals-royalties-to-2029/",
+          "final_url": "https://regfollower.com/kazakhstan-proposes-delaying-solid-minerals-royalties-to-2029/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "казахстан: миннацэкономики рк предложило отложить ",
+              "source_quote": "kazakhstan proposes delaying solid minerals royalties to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-04-fr",
+      "title": "Франция: Правительство Франции объявило об отмене упрощенного режима НДС с 2027 года",
+      "caption": "Франция: Правительство Франции объявило об отмене упрощенного режима НДС с 2027 года\n\nМинистерство экономики и финансов Франции подтвердило планы по полной отмене упрощенной схемы уплаты НДС для малого и среднего бизнеса с 1 января 2027 года.\n\n💡 **Почему это важно**\nПереход всех категорий налогоплательщиков на стандартную систему декларирования НДС потребует внедрения ежемесячной электронной отчетности. Компаниям, ведущим деятельность во Франции, необходимо подготовить учетные системы к полной интеграции с национальным порталом электронных счетов-фактур.\n\nИсточник: https://regfollower.com/france-to-abolish-simplified-vat-regime-from-2027/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "косвенное налогообложение и НДС",
+      "jurisdictions": "Франция",
+      "act": "Заявление Минфина Франции",
+      "sources": [
+        {
+          "label": "Минфин Франции",
+          "url": "https://regfollower.com/france-to-abolish-simplified-vat-regime-from-2027/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/france-to-abolish-simplified-vat-regime-from-2027/",
+          "final_url": "https://regfollower.com/france-to-abolish-simplified-vat-regime-from-2027/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "франция: правительство франции объявило об отмене ",
+              "source_quote": "france to abolish simplified vat regime from 2027 -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-05-bw",
+      "title": "Ботсвана: Налоговое управление Ботсваны выпустило руководство по механизму обратного начисления НДС",
+      "caption": "Ботсвана: Налоговое управление Ботсваны выпустило руководство по механизму обратного начисления НДС\n\nНалоговое управление Ботсваны (BURS) опубликовало детальные разъяснения по правилам применения обратного начисления налога на добавленную стоимость при импорте услуг.\n\n💡 **Почему это важно**\nИмпортеры консультационных, программных и инжиниринговых услуг обязаны самостоятельно исчислять и уплачивать НДС в бюджет. Несоблюдение правил обратного начисления ведет к отказу в вычете входящего налога и начислению штрафов при трансграничных расчетах.\n\nИсточник: https://regfollower.com/botswana-issues-vat-guidance-on-reverse-charged-supplies/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "НДС при импорте услуг",
+      "jurisdictions": "Ботсвана",
+      "act": "Руководство BURS Ботсваны",
+      "sources": [
+        {
+          "label": "BURS Ботсваны",
+          "url": "https://regfollower.com/botswana-issues-vat-guidance-on-reverse-charged-supplies/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/botswana-issues-vat-guidance-on-reverse-charged-supplies/",
+          "final_url": "https://regfollower.com/botswana-issues-vat-guidance-on-reverse-charged-supplies/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "ботсвана: налоговое управление ботсваны выпустило ",
+              "source_quote": "botswana issues vat guidance on reverse-charged supplies -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-06-xk-kw",
+      "title": "Косово и Кувейт: Согласован окончательный проект соглашения об избежании двойного налогообложения",
+      "caption": "Косово и Кувейт: Согласован окончательный проект соглашения об избежании двойного налогообложения\n\nМинистерство финансов Косово и Министерство финансов Кувейта завершили согласование текста двустороннего Соглашения об избежании двойного налогообложения.\n\n💡 **Почему это важно**\nДоговор устанавливает пониженные ставки налога у источника на дивиденды, проценты и роялти, а также включает современные антиуклонительные нормы по стандартам ОЭСР. Инвесторам из стран Ближнего Востока и Балканского региона стоит учесть новые правила при планировании трансграничных инвестиций.\n\nИсточник: https://regfollower.com/kosovo-kuwait-agree-to-finalise-income-tax-treaty/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "международные налоговые соглашения",
+      "jurisdictions": "Косово, Кувейт",
+      "act": "Согласование проекта СИДН",
+      "sources": [
+        {
+          "label": "Минфин Косово / Минфин Кувейта",
+          "url": "https://regfollower.com/kosovo-kuwait-agree-to-finalise-income-tax-treaty/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/kosovo-kuwait-agree-to-finalise-income-tax-treaty/",
+          "final_url": "https://regfollower.com/kosovo-kuwait-agree-to-finalise-income-tax-treaty/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "косово и кувейт: согласован окончательный проект с",
+              "source_quote": "kosovo, kuwait agree to finalise income tax treaty -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-07-th",
+      "title": "Таиланд: Департамент доходов Таиланда пересмотрел законопроект о регулировании цифровых платформ",
+      "caption": "Таиланд: Департамент доходов Таиланда пересмотрел законопроект о регулировании цифровых платформ\n\nДепартамент доходов Таиланда внес поправки в законопроект о платформенной экономике, ужесточающие требования к передаче данных о доходах продавцов маркетплейсов.\n\n💡 **Почему это важно**\nОператорам электронной коммерции и трансграничных сервисов потребуется наладить автоматическую передачу отчетности в налоговые органы Таиланда. Несоблюдение регламентов приведет к блокировке доступа к платежным шлюзам и штрафам.\n\nИсточник: https://regfollower.com/thailand-revises-proposed-digital-platform-economy-act/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение цифровых платформ",
+      "jurisdictions": "Таиланд",
+      "act": "Законопроект Департамента доходов Таиланда",
+      "sources": [
+        {
+          "label": "Департамент доходов Таиланда",
+          "url": "https://regfollower.com/thailand-revises-proposed-digital-platform-economy-act/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/thailand-revises-proposed-digital-platform-economy-act/",
+          "final_url": "https://regfollower.com/thailand-revises-proposed-digital-platform-economy-act/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "таиланд: департамент доходов таиланда пересмотрел ",
+              "source_quote": "thailand revises proposed digital platform economy act -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-08-zm",
+      "title": "Замбия: Налоговое управление Замбии запустило программу добровольного раскрытия налогов",
+      "caption": "Замбия: Налоговое управление Замбии запустило программу добровольного раскрытия налогов\n\nНалоговое управление Замбии (ZRA) объявило о старте расширенной программы добровольного декларирования скрытых доходов с освобождением от штрафов и пеней.\n\n💡 **Почему это важно**\nМеханизм добровольного раскрытия позволяет компаниям с международным участием урегулировать спорные обязательства прошлых периодов по налогу на прибыль без риска уголовной ответственности и блокировки счетов.\n\nИсточник: https://regfollower.com/zambia-zra-launches-extended-voluntary-disclosure-scheme/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налоговая амнистия и комплаенс",
+      "jurisdictions": "Замбия",
+      "act": "Решение ZRA Замбии",
+      "sources": [
+        {
+          "label": "ZRA Замбии",
+          "url": "https://regfollower.com/zambia-zra-launches-extended-voluntary-disclosure-scheme/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/zambia-zra-launches-extended-voluntary-disclosure-scheme/",
+          "final_url": "https://regfollower.com/zambia-zra-launches-extended-voluntary-disclosure-scheme/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "замбия: налоговое управление замбии запустило прог",
+              "source_quote": "zambia: zra launches extended voluntary disclosure scheme -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-09-nz",
+      "title": "Новая Зеландия: Налоговое управление открыло консультации по налогообложению некоммерческих структур",
+      "caption": "Новая Зеландия: Налоговое управление открыло консультации по налогообложению некоммерческих структур\n\nНалоговое управление Новой Зеландии (Налоговое управление) опубликовало консультационный документ по уточнению порядка освобождения от налога на прибыль трастов и фондов.\n\n💡 **Почему это важно**\nУточнение критериев благотворительной и некоммерческой деятельности направлено на исключение схем уклонения от налогов через частные трасты. Управляющим семейными активами в Новой Зеландии необходимо проверить соответствие учредительных документов новым требованиям.\n\nИсточник: https://regfollower.com/new-zealand-ir-consults-income-tax-treatment-of-nfps/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налогообложение трастов и фондов",
+      "jurisdictions": "Новая Зеландия",
+      "act": "Консультационный документ Налогового управления",
+      "sources": [
+        {
+          "label": "Налоговое управление Новой Зеландии",
+          "url": "https://regfollower.com/new-zealand-ir-consults-income-tax-treatment-of-nfps/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/new-zealand-ir-consults-income-tax-treatment-of-nfps/",
+          "final_url": "https://regfollower.com/new-zealand-ir-consults-income-tax-treatment-of-nfps/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "новая зеландия: налоговое управление открыло консу",
+              "source_quote": "new zealand: ir consults income tax treatment of nfps -"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2026-09-25-0900-item-10-au",
+      "title": "Австралия: Налоговое управление Австралии ужесточит правила налога на прирост капитала для нерезидентов",
+      "caption": "Австралия: Налоговое управление Австралии ужесточит правила налога на прирост капитала для нерезидентов\n\nНалоговое управление Австралии (ATO) предупредило об изменении правил налогообложения прироста капитала (CGT) для иностранных резидентов с октября 2026 года.\n\n💡 **Почему это важно**\nРасширение периметра активов, облагаемых налогом на прирост капитала при продаже иностранными инвесторами (включая непрямое владение недвижимостью и природными ресурсами), требует аудита корпоративных цепочек и оценки налоговых последствий сделок M&A.\n\nИсточник: https://regfollower.com/australia-ato-to-strengthen-foreign-resident-cgt-rules-from-october-2026/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "налог на прирост капитала и нерезиденты",
+      "jurisdictions": "Австралия",
+      "act": "Предостережение ATO Австралии",
+      "sources": [
+        {
+          "label": "ATO Австралии",
+          "url": "https://regfollower.com/australia-ato-to-strengthen-foreign-resident-cgt-rules-from-october-2026/"
+        }
+      ],
+      "image_spec": {
+        "badge": "TAX NEWS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "channels": [
+        "telegram_channel"
+      ],
+      "item_type": "official_notice",
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity",
+        "evidence": "editorial selection"
+      },
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/australia-ato-to-strengthen-foreign-resident-cgt-rules-from-october-2026/",
+          "final_url": "https://regfollower.com/australia-ato-to-strengthen-foreign-resident-cgt-rules-from-october-2026/",
+          "status_code": 200,
+          "checked_at": "2026-09-24T23:22:13.539569+00:00",
+          "evidence": [
+            {
+              "claim": "австралия: налоговое управление австралии ужесточи",
+              "source_quote": "australia: ato to strengthen foreign resident cgt rules"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

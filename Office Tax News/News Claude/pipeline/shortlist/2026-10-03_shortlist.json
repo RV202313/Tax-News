@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-03",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 683,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/france-clarifies-e-invoicing-rules-for-press-intermediaries/",
+      "ecli": "",
+      "act": "",
+      "title": "France clarifies e-invoicing rules for press intermediaries",
+      "summary": "France’s tax authorities issued ruling No. BOI-RES-TVA-000275 on 23 September 2026, confirming that intermediary transactions carried out by registered press-distribution intermediaries are excluded from the electronic invoicing obligation. Published by the French Directorate General of Public Finances, the ruling applies only to intermediation services covered by article 298 undecies of the CGI. Special VAT regime...",
+      "published_at": "2026-10-02",
+      "score": 12.0,
+      "topics": [
+        "advance_rulings"
+      ],
+      "jurisdictions": [
+        "eu"
+      ],
+      "jurisdiction_names": [
+        "Евространы"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 684,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/belastingverdrag-met-bangladesh-naar-staten-generaal/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingverdrag met Bangladesh naar Staten-Generaal",
+      "summary": "",
+      "published_at": "2026-10-02",
+      "score": 10.6,
+      "topics": [
+        "dta",
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 685,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/technische-wijzigingen-in-nota-van-wijziging-op-belastingplan-2027/",
+      "ecli": "",
+      "act": "",
+      "title": "Technische wijzigingen in nota van wijziging op Belastingplan 2027",
+      "summary": "",
+      "published_at": "2026-10-02",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

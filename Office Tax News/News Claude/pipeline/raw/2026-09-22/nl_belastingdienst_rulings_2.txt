@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html xml:lang="nl" lang="nl">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=2.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<link rel="schema.DCTERMS" href="https://purl.org/dc/terms/" />
+<link rel="schema.XSD" href="https://www.w3.org/2001/XMLSchema" />
+<link rel='canonical' href='https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa' />
+<title>Advance pricing agreements | Belastingdienst</title>
+<meta name='description' content='In deze samenvattingen leest u óf, en op welke onderdelen wij vooraf zekerheid geven over de toepassing van fiscale wet- en regelgeving.' />
+<meta name="distribution" content="global" />
+<meta name="robots" content="index,follow" />
+
+<meta name="uitsluiten" content="" />
+<meta name="seo_priority" content="0.40" />
+<meta name="language" content="nl" />
+<meta name='DCTERMS.identifier' scheme='XSD.anyURI' content='/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa' />
+<meta name="DCTERMS.title" content="Advance pricing agreements" />
+
+<meta name='DCTERMS.language' scheme='XSD.language' content='Nederlands' />
+<meta name="OVERHEID.authority" scheme="RIJKSOVERHEID.Organisatie" content="Belastingdienst" />
+<meta name="DCTERMS.creator" scheme="RIJKSOVERHEID.Organisatie" content="Belastingdienst" />
+<meta name='DCTERMS.modified' scheme='XSD.date' content='2026-09-16' />
+<meta name='DCTERMS.temporal' content='Jaaronafhankelijk' />
+<meta name="DCTERMS.spatial" scheme="OVERHEID.Koninkrijksdeel" content="Nederland" />
+<meta name='DCTERMS.audience' content='Ondernemer,Particulier' />
+<meta name='Taal' content='Nederlands'/>
+<meta name='Doelgroep' content='Ondernemer,Particulier' />
+
+
+
+
+
+
+
+
+
+
+<meta name='Belastingjaar' content='Jaaronafhankelijk' />
+<meta name="Display title" content="Advance pricing agreements" />
+
+
+<meta name='Datum' content='23-10-2019' />
+
+
+
+
+
+
+
+
+
+
+
+  <meta name="md-business" content="Belastingdienst">
+
+
+  <meta name="md-audience" content="Bedrijven|Particulieren" >
+
+
+  <meta name="md-theme" content="Contact">
+
+
+
+
+
+
+<link rel="stylesheet" href="https://download.belastingdienst.nl/assets/bold/bldc-themes/2.0.0/dist/css/basecolors.css">
+<link rel="stylesheet"
+  href="https://download.belastingdienst.nl/assets/bold/bldc-themes/2.0.0/dist/css/belastingdienst-light.css">
+
+
+
+
+<script>
+window.eventBuffer = window.eventBuffer || [];
+  document.addEventListener('bldcIconNotRegistered', (e) => {
+    if (window.eventBuffer) {
+      window.eventBuffer.push(e);
+    }
+  }, { capture: true }
+);
+</script>
+<script src="https://download.belastingdienst.nl/assets/bold/bldc-components/5.6.2/dist/esm/bldc-components.js" type="module" ></script> 
+<script>
+    
+    localStorage.setItem('bldcLanguage', 'nl');
+</script>
+<script src='/bld-assets/bold/bold-service-loader-5.6.2.js' type='module'></script>
+
+<script src="/bld-assets/bld/bld-scripts-loader/bld-scripts-loader.js" type="module" id="bld-js-loader"></script>
+
+
+
+
+
+
+<meta name="dgFilter" content='Ondernemer,Particulier'/>
+
+ <link rel="stylesheet" type="text/css" href="https://download.belastingdienst.nl/assets/bold/rofonts/1.0.2/css/rofonts.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="https://download.belastingdienst.nl/assets/css/fonts.css"/><link rel="stylesheet" type="text/css" media="all" href="/bld-assets/bld/belastingdienst.css"/>
+<link rel="shortcut icon" href="/bld-assets/bld/images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/bld-assets/bld/images/touch-icon.png" format="url" sizes="192x192">
+<link rel="apple-touch-icon" href="/bld-assets/bld/images/apple-touch-icon.png" format="url">
+<style id="acj">#bld-wrapper{display:none !important;}</style>
+
+
+
+
+<script>
+  if (self === top) {
+    var acj = document.getElementById("acj");
+    acj.parentNode.removeChild(acj)
+  } else {
+    top.location = self.location
+  }
+</script>
+
+</head>
+<body data-pageType="bld-target" class="doelpagina  belastingdienst-light">
+  <div id="bld-wrapper">
+    <header class="header">
+<div class="skiplinks">
+  <div class="container">
+    <ul></ul>
+  </div>
+</div>
+<section data-type="top-logo" class="bld-logo">
+  <div class="container">
+    <div class="row">
+      
+<div class="col-12">
+        <a tabindex="9" href="/wps/wcm/connect/nl/home/home">
+
+          <img id="bld-img-logo" src="https://www.belastingdienst.nl/bld-assets/bld/rhslogos/bld_logo.svg" alt="Logo Belastingdienst | Ministerie van Financiën, link naar homepage van Belastingdienst" />
+        </a>
+      </div>    </div>
+  </div>
+</section>
+
+
+
+<div data-toggle="sticky-onscroll">
+<nav aria-label="hoofdnavigatie" class="navbar">
+<h2 class="sr-only">Hoofdnavigatie</h2>
+<div class="navbar-wrapper" style="width: 100%;">
+  <div class="container level0">
+      <ul class="navbar-nav" id="navContentSkip">
+        <li class="nav-item home">
+          <a class="nav-link bld-knop-home" tabindex="10" href="/wps/wcm/connect/nl/home/home"><span class="sr-only sr-only-not-sm">Home</span></a>
+        </li>
+
+        <li class="nav-item menu dropdown" data-metrix-category="menu:megamenu">
+<a tabindex="20" id="bld-megamenu" class="nav-link bld-knop-menu dropdown-toggle" href="#"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>  Menu </span></a>
+          <div class="dropdown-menu" aria-labelledby="bld-megamenu">
+            <div class="container">
+              <div class="row">
+                <div class="col-12 d-none d-sm-block bld-mega-dropdown-close-container">
+                  <a tabindex="99" href="#" class="float-right bld-knop-sluiten py-0"><span>   Sluiten </span></a>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-3 bld-load-menu" data-url="
+
+
+  
+/wps/wcm/connect/nl/layouts/megamenu/megamenu_nl.json
+  
+
+
+
+
+  
+
+
+
+
+  
+
+" data-targetid="megamenu">
+                    <ul class="bld-menu bld-link-buttons">
+                    </ul>
+                </div>
+                <div class="d-none d-sm-block col-sm-6 col-md-8 col-lg-9 submenu-content" id="navbar-desktop">
+                </div>                  
+              </div>
+            </div>
+          </div>
+        </li>
+
+        <li class="nav-item search dropdown" data-metrix-category="search:navbar-search">
+          <a tabindex="120" id="bld-zoeken" class="d-flex d-sm-none nav-link bld-knop-zoek dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only">Open zoeken</span></a>
+          <div class="dropdown-menu" aria-labelledby="bld-zoeken">
+<form role="search" action="/wps/wcm/connect/nl/zoeken/zoeken" method="get" id="search-header">
+  <div class="input-group">
+    <label for="bldSearchInput" class="sr-only">Waar bent u naar op zoek?</label>
+    <input role="combobox" id="bldSearchInput" tabindex="121" type="text" value="" maxlength="256" class="form-control bld-search" name="q" placeholder="Waar bent u naar op zoek?" autocomplete="off" aria-haspopup="listbox" aria-controls="header-autosuggest-list" aria-expanded="false">
+    <div class="input-group-append">
+      <button tabindex="122" class="btn bld-btn-search " type="submit"><span class="icon">zoek</span></button>
+    </div>
+  </div>
+</form>
+          </div>
+        </li>
+
+        <li class="nav-item login dropdown" data-metrix-category="login:navbar-login">
+<a tabindex="130" id="bld-loginmenu" class="nav-link bld-knop-inloggen dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="sr-only sr-only-not-sm"> Inloggen</span></a>
+          <div class="dropdown-menu" aria-labelledby="bld-loginmenu">
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-4 offset-sm-8 col-md-3 offset-md-9 bld-load-menu" data-url="
+
+
+  
+/wps/wcm/connect/nl/layouts/megamenu/megamenu_nl.json
+  
+
+
+
+
+  
+
+
+
+
+  
+
+" data-targetid="login">
+                      <ul class="bld-menu bld-link-buttons">
+                    </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+
+      </ul>
+  </div>
+</div>
+    <div class="navbar container level1 d-none">
+    <ul class="navbar-nav">
+      <li>
+       <a tabindex="20" role="button" class="bld-knop-terug" href="#"><span class="sr-only">Naar hoofdmenu</span></a>
+      </li>
+      <li class="nav-item submenu dropdown">
+        <h3>Submenu kop</h3>
+        <div class="dropdown-menu">
+          <div class="submenu-content" id="navbar-mobile">
+          </div>
+        </div>
+      </li>
+      <li class="dropdown show">
+        <a tabindex="50" role="button" class="bld-knop-sluiten" href="#"><span class="sr-only">   Sluiten </span></a>
+      </li>
+    </ul>
+  </div>
+  <div id="overlay"></div>
+
+  
+
+
+
+  <nav aria-label="broodkruimelnavigatie" class="breadcrumb d-none d-sm-block d-print-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <span class="sr-only">U bevindt zich hier:</span>
+                <ol class="list-inline">
+<li><a tabindex="140" href="/wps/wcm/connect/nl/home/home">Home</a></li>
+<li><a tabindex="400" href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/">Contact</a></li><li><a tabindex="400" href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/">Uw rechten en plichten</a></li><li><a tabindex="400" href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/">Ruling</a></li><li>Advance pricing agreements</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+</div>  
+</header>
+
+    <main>
+      <div class="container">
+        <div class="row">
+
+          <!-- column 1 -->
+          <div class="col-sm-4 col-lg-3">
+            <!-- subnavigation -->
+            <nav aria-label="subnavigatie" data-type="subnavigation">
+  <div id="bld-backbutton-drop"></div>
+  <div id="subnavigatie" class="bld-subnavigatie"> 
+    <button aria-expanded='false' aria-controls="bld-subnavigatie-container" class="bldc-icon-meer"></button>
+    <div id="bld-subnavigatie-container">
+      
+
+
+
+
+
+<!-- Start navigator -->
+	<ul><li class='open'><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact" tabindex="500">Contact</a><ul>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/belastingtelefoon_bellen" tabindex="500">Bellen</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/langskomen" tabindex="500">Bezoeken</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/per_brief_of_email" tabindex="500">Postadressen Belastingdienst</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/mailen-met-de-belastingdienst" tabindex="500">Mailen met de Belastingdienst</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/adreswijziging_doorgeven" tabindex="500">Adreswijziging doorgeven</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/apps_voor_uw_mobiele_telefoon" tabindex="500">Apps voor uw smartphone of tablet</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/omgangsvormen" tabindex="500">Omgangsvormen</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/meningsverschil" tabindex="500">Meningsverschil</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/bewijslast" tabindex="500">Bewijslast</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/algemene-beginselen-van-behoorlijk-bestuur" tabindex="500">Algemene beginselen van behoorlijk bestuur</a></li>
+	<li class='open'><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst" tabindex="500">Uw rechten en plichten</a>	<ul>
+			<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/wanneer_aangifte_doen" tabindex="500">Over aangifte doen</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/navorderingsaanslag" tabindex="500">Navorderingsaanslag</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/boete" tabindex="500">Boete</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/betalen_door_verrekenen" tabindex="500">Betalen door verrekenen</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/kwijtschelding_van_belasting" tabindex="500">Kwijtschelding belasting</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/schuldsanering" tabindex="500">Schuldsanering</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/betalingsherinnering" tabindex="500">Betalingsherinnering</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/aanmaning" tabindex="500">Aanmaning</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/dwangbevel" tabindex="500">Dwangbevel</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/beslag-door-belastingdienst" tabindex="500">Beslag door de Belastingdienst (beslag leggen)</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/belastingrente" tabindex="500">Belastingrente</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/invorderingsrente" tabindex="500">Invorderingsrente</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/coulancerente" tabindex="500">Coulancerente</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/heffingsrente-tot-en-met-2011" tabindex="500">Heffingsrente</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/mededeling_zekerstelling_recht_op_bodemzaak" tabindex="500">Zekerstelling recht op bodemzaak</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/inkeerregeling" tabindex="500">Vrijwillige verbetering (inkeerregeling)</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/belastingdienst_landelijk_incasso_centrum" tabindex="500">Belastingdienst/Landelijk Incasso Centrum</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/hardheidsclausule" tabindex="500">Hardheidsclausule</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/vaststellingsovereenkomst2" tabindex="500">Vaststellingsovereenkomst</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/map-onderlinge-overlegprocedure-bij-dubbele-belastingheffing" tabindex="500">MAP: onderlinge overlegprocedure bij dubbele belastingheffing</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/vooroverleg" tabindex="500">Vooroverleg</a></li>
+		<li class='open'><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling" tabindex="500">Ruling</a>		<ul>
+				</ul></li>
+
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/registratie_van_onderhandse_akten" tabindex="500">Onderhandse akte laten registreren</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/legalisatie-en-apostille-documenten" tabindex="500">Legalisatie en apostille documenten</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/geheimhoudingsplicht" tabindex="500">Geheimhoudingsplicht</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/geluidsopname-maken-van-gesprek-met-belastingdienst" tabindex="500">Gesprek opnemen</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/strafrecht-fiscale-strafbeschikking" tabindex="500">Strafrecht, fiscale strafbeschikking</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/schadevergoeding" tabindex="500">Schadevergoeding</a></li>
+		<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/meldpunt-securitisatieverordening" tabindex="500">Meldpunt securitisatieverordening </a></li>
+	</ul></li>
+
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/verzoek-wet-open-overheid-woo" tabindex="500">Verzoek Wet open overheid (Woo)</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/fraude_misdaad_en_misstanden_melden" tabindex="500">Fraude, misdaad en misstanden melden</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/informatie_voor_softwareontwikkelaars" tabindex="500">Informatie voor softwareontwikkelaars</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/open-data" tabindex="500">Open data</a></li>
+</ul></li>
+
+</ul>
+<!-- Einde navigator -->
+      <nav id="to-menu" class="well well-sm" data-type="to-menu">
+  <ul class="nav"><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=nws">Nieuws</a></li><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=bd">Belangrijke datums</a></li><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=pef">Programma&#39;s en formulieren</a></li><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=bep">Brochures en publicaties</a></li><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=iah">Rekenhulpen</a></li><li><a class="dgFilter" href="/wps/wcm/connect/nl/productenoverzicht/productenoverzicht?product=vrst">Verstoringen</a></li></ul>
+</nav>
+    </div>
+  </div>
+</nav>             
+          </div>
+
+          <!-- column 2 -->
+          <div class="col-sm-8 col-lg-7">
+
+           <div id="mainContentSkip" tabindex="-1">
+            <!-- main content -->
+            <div id="rsp_hoofd_content" class="rs_skip rsbtn rs_preserve" >
+	<!-- RSPEAK_STOP --><!--googleoff: all-->
+		<a rel="nofollow" class="rsbtn_play" accesskey="L" title="" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=4329&lang=nl_nl&url=//www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/standaard_functies/prive/contact/rechten_en_plichten_bij_de_belastingdienst/ruling/apa&readid=hoofd_content"><span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Lees voor</span></span></span><span class="rsbtn_right rsimg rsplay rspart"></span></a>
+	<!-- RSPEAK_START --> <!--googleon: all-->
+</div>
+	
+            <article class="content_main" id="hoofd_content">
+              <h1>Advance pricing agreements</h1>
+              <div id="bldSubContent1"><p dir="ltr">In deze samenvattingen leest u of, en op welke onderdelen wij vooraf zekerheid geven over de toepassing van fiscale wet- en regelgeving:</p>
+
+<ul dir="ltr">
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260915-apa-000006" >Advance pricing agreement 20260915&nbsp;APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260901-apa-000013" >Advance pricing agreement 20260901 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260825-apa-000010" >Advance pricing agreement 20260825 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260825-apa-000002" >Advance pricing agreement 20260825 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260728-apa-000001" >Advance pricing agreement 20260728 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260721-apa-000005" >Advance pricing agreement 20260721&nbsp;APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260721-apa-000001" >Advance pricing agreement 20260721&nbsp;APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260714-apa-000013" >Advance pricing agreement 20260714&nbsp;APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260714-apa-000008" >Advance pricing agreement 20260714&nbsp;APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260707-apa-000013" >Advance pricing agreement 20260707&nbsp;APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260707-apa-000011" >Advance pricing agreement 20260707&nbsp;APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260630-apa-000015" >Advance pricing agreement 20260630 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260630-apa-000013" >Advance pricing agreement 20260630 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260630-apa-000010" >Advance pricing agreement 20260630 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260630-apa-000007" >Advance pricing agreement 20260630 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260630-apa-000004" >Advance pricing agreement 20260630 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260623-apa-000014" >Advance pricing agreement 20260623 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260623-apa-000012" >Advance pricing agreement 20260623 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260616-apa-000003" >Advance pricing agreement 20260616 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260616-apa-000002" >Advance pricing agreement 20260616 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260616-apa-000001" >Advance pricing agreement 20260616 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260609-apa-000016" >Advance pricing agreement 20260609 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260609-apa-000011" >Advance pricing agreement 20260609 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260609-apa-000007" >Advance pricing agreement 20260609 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260602-apa-000007" >Advance pricing agreement 20260602 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260526-apa-000005" >Advance pricing agreement 20260526&nbsp;APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260519-apa-000011" >Advance pricing agreement 20260519 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260519-apa-000003" >Advance pricing agreement 20260519 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260512-apa-000007" >Advance pricing agreement 20260512&nbsp;APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260512-apa-000002" >Advance pricing agreement 20260512&nbsp;APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260505-apa-000002" >Advance pricing agreement 20260505&nbsp;APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260512-apa-000002" >Advance pricing agreement 20260428 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260428-apa-000002" >Advance pricing agreement 20260428 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260428-apa-000001" >Advance pricing agreement 20260428 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260421-apa-000011" >Advance pricing agreement 20260421 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260421-apa-000002" >Advance pricing agreement 20260421 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260414-apa-000009" >Advance pricing agreement 20260414 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260414-apa-000007" >Advance pricing agreement 20260414 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260407-apa-000005" >Advance pricing agreement 20260407 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260331-apa-000018" >Advance pricing agreement 20260331 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260331-apa-000012" >Advance pricing agreement 20260331 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260324-apa-000006" >Advance pricing agreement 20260324 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260324-apa-000005" >Advance pricing agreement 20260324 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260324-apa-000002" >Advance pricing agreement 20260324 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260311-apa-000014" >Advance pricing agreement 20260311 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260311-apa-000011" >Advance pricing agreement 20260311 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260311-apa-000006" >Advance pricing agreement 20260311 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260224-apa-000006" >Advance pricing agreement 20260224 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260224-apa-000004" >Advance pricing agreement 20260224 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260224-apa-000003" >Advance pricing agreement 20260224 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260224-apa-000001" >Advance pricing agreement 20260224 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260217-apa-000016" >Advance pricing agreement 20260217&nbsp;APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260217-apa-000015" >Advance pricing agreement 20260217&nbsp;APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260217-apa-000013" >Advance pricing agreement 20260217&nbsp;APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260210-apa-000008" >Advance pricing agreement 20260217&nbsp;APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260217-apa-000006" >Advance pricing agreement 20260217&nbsp;APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260210-apa-000008" >Advance pricing agreement 20260210 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260127-apa-000001" >Advance pricing agreement 20260127&nbsp;APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20260120-apa-000006" >Advance pricing agreement 20260120 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000029" >Advance pricing agreement 20251223 APA 000029</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000027" >Advance pricing agreement 20251223 APA 000027</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000020" >Advance pricing agreement 20251223 APA 000020</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000018" >Advance pricing agreement 20251223 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000015" >Advance pricing agreement 20251223 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000007" >Advance pricing agreement 20251223 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251223-apa-000002" >Advance pricing agreement 20251223 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251216-apa-000005" >Advance pricing agreement 20251216 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251216-apa-000002" >Advance pricing agreement 20251216 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251209-apa-000014" >Advance pricing agreement 20251209&nbsp;APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251209-apa-000013" >Advance pricing agreement 20251209&nbsp;APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251209-apa-000009" >Advance pricing agreement 20251209&nbsp;APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251209-apa-000005" >Advance pricing agreement 20251209&nbsp;APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251209-apa-000002" >Advance pricing agreement 20251209&nbsp;APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251202-apa-000013" >Advance pricing agreement 20251202 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251202-apa-000006" >Advance pricing agreement 20251202 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251202-apa-000003" >Advance pricing agreement 20251202 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251202-apa-000002" >Advance pricing agreement 20251202 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251125-apa-000013" >Advance pricing agreement 20251125&nbsp;APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251125-apa-000010" >Advance pricing agreement 20251125&nbsp;APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251125-apa-000009" >Advance pricing agreement 20251125&nbsp;APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251125-apa-000004" >Advance pricing agreement 20251125&nbsp;APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251118-apa-000013" >Advance pricing agreement 20251118 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251118-apa-000012" >Advance pricing agreement 20251118 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251118-apa-000009" >Advance pricing agreement 20251118 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251118-apa-000007" >Advance pricing agreement 20251118 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251118-apa-000003" >Advance pricing agreement 20251118 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251104-apa-000005" >Advance pricing agreement 20251104 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251028-apa-000007" >Advance pricing agreement 20251028 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251028-apa-000005" >Advance pricing agreement 20251028 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251028-apa-000004" >Advance pricing agreement 20251028 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251028-apa-000001" >Advance pricing agreement 20251028 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251021-apa-000007" >Advance pricing agreement 20251021 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251021-apa-000004" >Advance pricing agreement 20251021 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251014-apa-000004" >Advance pricing agreement 20251014 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251014-apa-000003" >Advance pricing agreement 20251014 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251007-apa-000008" >Advance pricing agreement 20251007 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251007-apa-000004" >Advance pricing agreement 20251007 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251007-apa-000003" >Advance pricing agreement 20251007 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20251007-apa-000002" >Advance pricing agreement 20251007 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250923-apa-000001" >Advance pricing agreement 20250923 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250909-apa-000006" >Advance pricing agreement 20250909 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250909-apa-000004" >Advance pricing agreement 20250909 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250902-apa-000003" >Advance pricing agreement 20250902 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250826-apa-000002" >Advance pricing agreement 20250826 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250812-apa-000006" >Advance pricing agreement 20250812 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250812-apa-000005" >Advance pricing agreement 20250812 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250722-apa-000008" >Advance pricing agreement 20250722 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250722-apa-000005" >Advance pricing agreement 20250722 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250708-apa-000012" >Advance pricing agreement 20250708 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250708-apa-000010" >Advance pricing agreement 20250708 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250708-apa-000008" >Advance pricing agreement 20250708 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250708-apa-000003" >Advance pricing agreement 20250708 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250624-apa-000004" >Advance pricing agreement 20250624 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250624-apa-000003" >Advance pricing agreement 20250624 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250617-apa-000009" >Advance pricing agreement 20250617 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250617-apa-000002" >Advance pricing agreement 20250617 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250610-apa-000010" >Advance pricing agreement 20250610 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250610-apa-000005" >Advance pricing agreement 20250610 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250603-apa-000005" >Advance pricing agreement 20250603 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250527-apa-000008" >Advance pricing agreement 20250527 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250527-apa-000003" >Advance pricing agreement 20250527 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250527-apa-000002" >Advance pricing agreement 20250527 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250527-apa-000001" >Advance pricing agreement 20250527 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250520-apa-000004" >Advance pricing agreement 20250520 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250513-apa-000010" >Advance pricing agreement 20250513 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250513-apa-000008" >Advance pricing agreement 20250513 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250513-apa-000001" >Advance pricing agreement 20250513 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000023" >Advance pricing agreement 20250422 APA 000023</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000021" >Advance pricing agreement 20250422 APA 000021</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000018" >Advance pricing agreement 20250422 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000017" >Advance pricing agreement 20250422 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000009" >Advance pricing agreement 20250422 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000008" >Advance pricing agreement 20250422 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000006" >Advance pricing agreement 20250422 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000005" >Advance pricing agreement 20250422 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250422-apa-000002" >Advance pricing agreement 20250422 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250408-apa-000011" >Advance pricing agreement 20250408 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250408-apa-000009" >Advance pricing agreement 20250408 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250408-apa-000006" >Advance pricing agreement 20250408 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250408-apa-000003" >Advance pricing agreement 20250408 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250408-apa-000002" >Advance pricing agreement 20250408 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250401-apa-000005" >Advance pricing agreement 20250401 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250401-apa-000002" >Advance pricing agreement 20250401 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250401-apa-000001" >Advance pricing agreement 20250401 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250325-apa-000007" >Advance pricing agreement 20250325 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250325-apa-000006" >Advance pricing agreement 20250325 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250325-apa-000005" >Advance pricing agreement 20250325 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250318-apa-000017" >Advance pricing agreement 20250318 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250311-apa-000015" >Advance pricing agreement 20250311 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250311-apa-000007" >Advance pricing agreement 20250311 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250311-apa-000006" >Advance pricing agreement 20250311 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250311-apa-000005" >Advance pricing agreement 20250311 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250311-apa-000001" >Advance pricing agreement 20250311 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250304-apa-000011" >Advance pricing agreement 20250304 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250304-apa-000005" >Advance pricing agreement 20250304 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250225-apa-000005" >Advance pricing agreement 20250225 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250225-apa-000003" >Advance pricing agreement 20250225 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250218-apa-000011" >Advance pricing agreement 20250218 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250204-apa-000019" >Advance pricing agreement 20250204 APA 000019</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250121-apa-000001" >Advance pricing agreement 20250121 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250114-apa-000009" >Advance pricing agreement 20250114 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250114-apa-000006" >Advance pricing agreement 20250114 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20250114-apa-000002" >Advance pricing agreement 20250114 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000022" >Advance pricing agreement 20241224 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000018" >Advance pricing agreement 20241224 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000014" >Advance pricing agreement 20241224 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000012" >Advance pricing agreement 20241224 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000009" >Advance pricing agreement 20241224 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000007" >Advance pricing agreement 20241224 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000005" >Advance pricing agreement 20241224 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000004" >Advance pricing agreement 20241224 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000002" >Advance pricing agreement 20241224 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241224-apa-000001" >Advance pricing agreement 20241224 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241217-apa-000018" >Advance pricing agreement 20241217 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241217-apa-000008" >Advance pricing agreement 20241217 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241217-apa-000007" >Advance pricing agreement 20241217 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241217-apa-000003" >Advance pricing agreement 20241217 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241210-apa-000012" >Advance pricing agreement 20241210 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241210-apa-000003" >Advance pricing agreement 20241210 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241210-apa-000001" >Advance pricing agreement 20241210 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241203-apa-000004" >Advance pricing agreement 20241203 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241126-apa-000022" >Advance pricing agreement 20241126 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241126-apa-000021" >Advance pricing agreement 20241126 APA 000021</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241126-apa-000019" >Advance pricing agreement 20241126 APA 000019</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241126-apa-000014" >Advance pricing agreement 20241126 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241126-apa-000010" >Advance pricing agreement 20241126 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241119-apa-000007" >Advance pricing agreement 20241119 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241119-apa-000006" >Advance pricing agreement 20241119 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241112-apa-000010" >Advance pricing agreement 20241112 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000012" >Advance pricing agreement 20241105 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000011" >Advance pricing agreement 20241105 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000009" >Advance pricing agreement 20241105 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000008" >Advance pricing agreement 20241105 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000007" >Advance pricing agreement 20241105 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241105-apa-000006" >Advance pricing agreement 20241105 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241029-apa-000007" >Advance pricing agreement 20241029 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241029-apa-000003" >Advance pricing agreement 20241029 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241022-apa-000015" >Advance pricing agreement 20241022 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241022-apa-000002" >Advance pricing agreement 20241022 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241022-apa-000001" >Advance pricing agreement 20241022 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241015-apa-000010" >Advance pricing agreement 20241015 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241015-apa-000009" >Advance pricing agreement 20241015 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241015-apa-000001" >Advance pricing agreement 20241015 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241008-apa-000005" >Advance pricing agreement 20241008 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241001-apa-000013" >Advance pricing agreement 20241001 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241001-apa-000012" >Advance pricing agreement 20241001 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241001-apa-000009" >Advance pricing agreement 20241001 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241001-apa-000005" >Advance pricing agreement 20241001 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20241001-apa-000001" >Advance pricing agreement 20241001 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240917-apa-000010" >Advance pricing agreement 20240917 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240917-apa-000002" >Advance pricing agreement 20240917 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240910-apa-000003" >Advance pricing agreement 20240910 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240910-apa-000002" >Advance pricing agreement 20240910 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000009" >Advance pricing agreement 20240903 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000006" >Advance pricing agreement 20240903 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000005" >Advance pricing agreement 20240903 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000004" >Advance pricing agreement 20240903 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000003" >Advance pricing agreement 20240903 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000002" >Advance pricing agreement 20240903 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240903-apa-000001" >Advance pricing agreement 20240903 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240827-apa-000006" >Advance pricing agreement 20240827 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240827-apa-000004" >Advance pricing agreement 20240827 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240827-apa-000003" >Advance pricing agreement 20240827 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240806-apa-000004" >Advance pricing agreement 20240806 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240730-apa-000003" >Advance pricing agreement 20240730 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240716-apa-000006" >Advance pricing agreement 20240716 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240716-apa-000004" >Advance pricing agreement 20240716 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240709-apa-000018" >Advance pricing agreement 20240709 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240709-apa-000017" >Advance pricing agreement 20240709 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240709-apa-000013" >Advance pricing agreement 20240709 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240709-apa-000008" >Advance pricing agreement 20240709 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240709-apa-000006" >Advance pricing agreement 20240709 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240702-apa-000012" >Advance pricing agreement 20240702 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240702-apa-000011" >Advance pricing agreement 20240702 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240625-apa-000012" >Advance pricing agreement 20240625 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240625-apa-000007" >Advance pricing agreement 20240625 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240618-apa-000013" >Advance pricing agreement 20240618 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240618-apa-000009" >Advance pricing agreement 20240618 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240618-apa-000007" >Advance pricing agreement 20240618 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240618-apa-000002" >Advance pricing agreement 20240618 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240604-apa-00001" >Advance pricing agreement 20240604 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240528-apa-000012" >Advance pricing agreement 20240528 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240528-apa-000009" >Advance pricing agreement 20240528 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240528-apa-000007" >Advance pricing agreement 20240528 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240521-apa-000001" >Advance pricing agreement 20240521 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240514-apa-000001" >Advance pricing agreement 20240514 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240507-apa-000005" >Advance pricing agreement 20240507 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240507-apa-000004" >Advance pricing agreement 20240507 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240507-apa-000002" >Advance pricing agreement 20240507 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240423-apa-000006" >Advance pricing agreement 20240423 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240416-apa-000016" >Advance pricing agreement 20240416 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240409-apa-000001" >Advance pricing agreement 20240409 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240312-apa-000007" >Advance pricing agreement 20240312 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240220-apa-000006" >Advance pricing agreement 20240220 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240213-apa-000007" >Advance pricing agreement 20240213 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240213-apa-000003" >Advance pricing agreement 20240213 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240123-apa-000003" >Advance pricing agreement 20240123 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240116-apa-000004" >Advance pricing agreement 20240116 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20240102-apa-000001" >Advance pricing agreement 20240102 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000030" >Advance pricing agreement 20231226 APA 000030</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000028" >Advance pricing agreement 20231226 APA 000028</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000024" >Advance pricing agreement 20231226 APA 000024</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000023" >Advance pricing agreement 20231226 APA 000023</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000021" >Advance pricing agreement 20231226 APA 000021</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000020" >Advance pricing agreement 20231226 APA 000020</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000011" >Advance pricing agreement 20231226 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000010" >Advance pricing agreement 20231226 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000006" >Advance pricing agreement 20231226 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000005" >Advance pricing agreement 20231226 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231226-apa-000004" >Advance pricing agreement 20231226 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000023" >Advance pricing agreement 20231219 APA 000023</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000022" >Advance pricing agreement 20231219 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000018" >Advance pricing agreement 20231219 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000017" >Advance pricing agreement 20231219 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000016" >Advance pricing agreement 20231219 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000015" >Advance pricing agreement 20231219 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000012" >Advance pricing agreement 20231219 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000011" >Advance pricing agreement 20231219 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000004" >Advance pricing agreement 20231219 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000003" >Advance pricing agreement 20231219 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000002" >Advance pricing agreement 20231219 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231219-apa-000001" >Advance pricing agreement 20231219 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231212-apa-000015" >Advance pricing agreement 20231212 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231212-apa-000001" >Advance pricing agreement 20231212 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231205-apa-000011" >Advance pricing agreement 20231205 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231205-apa-000006" >Advance pricing agreement 20231205 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231128-apa-000004" >Advance pricing agreement 20231128 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231114-apa-000002" >Advance pricing agreement 20231114 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231107-apa-000006" >Advance pricing agreement 20231107 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231024-apa-000013" >Advance pricing agreement 20231024 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231024-apa-000004" >Advance pricing agreement 20231024 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231017-apa-000012" >Advance pricing agreement 20231017 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231017-apa-000008" >Advance pricing agreement 20231017 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231017-apa-000007" >Advance pricing agreement 20231017 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231010-apa-000003" >Advance pricing agreement 20231010 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231010-apa-000002" >Advance pricing agreement 20231010 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20231003-apa-000001" >Advance pricing agreement 20231003 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230926-apa-000017" >Advance pricing agreement 20230926 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230919-apa-000011" >Advance pricing agreement 20230919 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230919-apa-000004" >Advance pricing agreement 20230919 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230905-apa-000010" >Advance pricing agreement 20230905 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230905-apa-000008" >Advance pricing agreement 20230905 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230905-apa-000001" >Advance pricing agreement 20230905 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230829-apa-000006" >Advance pricing agreement 20230829 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230822-apa-000004" >Advance pricing agreement 20230822 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230725-apa-000013" >Advance pricing agreement 20230725 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230725-apa-000012" >Advance pricing agreement 20230725 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230725-apa-000009" >Advance pricing agreement 20230725 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230718-apa-000010" >Advance pricing agreement 20230718 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230718-apa-000001" >Advance pricing agreement 20230718 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230711-apa-000018" >Advance pricing agreement 20230711 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230704-apa-000003" >Advance pricing agreement 20230704 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230704-apa-000002" >Advance pricing agreement 20230704 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230704-apa-000001" >Advance pricing agreement 20230704 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230627-apa-000013" >Advance pricing agreement 20230627 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230627-apa-000012" >Advance pricing agreement 20230627 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230627-apa-000001" >Advance pricing agreement 20230627 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230606-apa-000013" >Advance pricing agreement 20230606 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230606-apa-000002" >Advance pricing agreement 20230606 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230523-apa-000007" >Advance pricing agreement 20230523 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230523-apa-000004" >Advance pricing agreement 20230523 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230523-apa-000002" >Advance pricing agreement 20230523 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230523-apa-000001" >Advance pricing agreement 20230523 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230516-apa-000002" >Advance pricing agreement 20230516 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230502-apa-000006" >Advance pricing agreement 20230502 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230425-apa-000005" >Advance pricing agreement 20230425 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230418-apa-000010" >Advance pricing agreement 20230418 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230418-apa-000008" >Advance pricing agreement 20230418 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230411-apa-000007" >Advance pricing agreement 20230411 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230404-apa-000003" >Advance pricing agreement 20230404 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230404-apa-000002" >Advance pricing agreement 20230404 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230404-apa-000001" >Advance pricing agreement 20230404 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230328-apa-000005" >Advance pricing agreement 20230328 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230321-apa-000008" >Advance pricing agreement 20230321 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230321-apa-000006" >Advance pricing agreement 20230321 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230321-apa-000004" >Advance pricing agreement 20230321 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230314-apa-000005" >Advance pricing agreement 20230314 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230314-apa-000004" >Advance pricing agreement 20230314 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230314-apa-000001" >Advance pricing agreement 20230314 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230307-apa-000006" >Advance pricing agreement 20230307 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230307-apa-000002" >Advance pricing agreement 20230307 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230228-apa-000007" >Advance pricing agreement 20230228 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230228-apa-000001" >Advance pricing agreement 20230228 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230221-apa-000015" >Advance pricing agreement 20230221 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230214-apa-000014" >Advance pricing agreement 20230214 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230214-apa-000012" >Advance pricing agreement 20230214 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230214-apa-000009" >Advance pricing agreement 20230214 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230131-apa-000002" >Advance pricing agreement 20230131 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230124-apa-000011" >Advance pricing agreement 20230124 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230124-apa-000008" >Advance pricing agreement 20230124 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230117-apa-000002" >Advance pricing agreement 20230117 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230117-apa-000001" >Advance pricing agreement 20230117 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230110-apa-000008" >Advance pricing agreement 20230110 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230110-apa-000002" >Advance pricing agreement 20230110 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230103-apa-000002" >Advance pricing agreement 20230103 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20230103-apa-000001" >Advance pricing agreement 20230103 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221227-apa-000006" >Advance pricing agreement 20221227 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000023" >Advance pricing agreement 20221220 APA 000023</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000022" >Advance pricing agreement 20221220 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000017" >Advance pricing agreement 20221220 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000015" >Advance pricing agreement 20221220 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000013" >Advance pricing agreement 20221220 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000010" >Advance pricing agreement 20221220 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000009" >Advance pricing agreement 20221220 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000008" >Advance pricing agreement 20221220 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000007" >Advance pricing agreement 20221220 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000006" >Advance pricing agreement 20221220 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221220-apa-000002" >Advance pricing agreement 20221220 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221213-apa-000007" >Advance pricing agreement 20221213 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221213-apa-000004" >Advance pricing agreement 20221213 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221213-apa-000002" >Advance pricing agreement 20221213 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221206-apa-000015" >Advance pricing agreement 20221602 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221206-apa-000005" >Advance pricing agreement 20221602 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221206-apa-000001" >Advance pricing agreement 20221602 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221129-apa-000011" >Advance pricing agreement 20221129 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221129-apa-000008" >Advance pricing agreement 20221129 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221129-apa-000004" >Advance pricing agreement 20221129 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221129-apa-000003" >Advance pricing agreement 20221129 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221122-apa-000012" >Advance pricing agreement 20221122 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221115-apa-000004" >Advance pricing agreement 20221115 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221115-apa-000003" >Advance pricing agreement 20221115 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221025-apa-000008" >Advance pricing agreement 20221025 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221018-apa-000004" >Advance pricing agreement 20221018 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221011-apa-000003" >Advance pricing agreement 20221011 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20221004-apa-000003" >Advance pricing agreement 20221004 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220927-apa-000005" >Advance pricing agreement 20220927 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220927-apa-000001" >Advance pricing agreement 20220927 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000012" >Advance pricing agreement 20220906 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000011" >Advance pricing agreement 20220906 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000009" >Advance pricing agreement 20220906 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000007" >Advance pricing agreement 20220906 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000006" >Advance pricing agreement 20220906 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000004" >Advance pricing agreement 20220906 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220906-apa-000001" >Advance pricing agreement 20220906 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220830-apa-000012" >Advance pricing agreement 20220830 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220830-apa-000011" >Advance pricing agreement 20220830 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220830-apa-000009" >Advance pricing agreement 20220830 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220830-apa-000005" >Advance pricing agreement 20220830 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220830-apa-000001" >Advance pricing agreement 20220830 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220823-apa-000008" >Advance pricing agreement 20220823 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220802-apa-000004" >Advance pricing agreement 20220802 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220726-apa-000003" >Advance pricing agreement 20220726 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220712-apa-000010" >Advance pricing agreement 20220712 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220628-apa-000002" >Advance pricing agreement 20220628 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220621-apa-000004" >Advance pricing agreement 20220621 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220621-apa-000001" >Advance pricing agreement 20220621 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220614-apa-000005" >Advance pricing agreement 20220614 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220614-apa-000001" >Advance pricing agreement 20220614 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220607-apa-000009" >Advance pricing agreement 20220607 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220607-apa-000007" >Advance pricing agreement 20220607 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220607-apa-000006" >Advance pricing agreement 20220607 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220607-apa-000005" >Advance pricing agreement 20220607 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220607-apa-000002" >Advance pricing agreement 20220607 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220531-apa-000001" >Advance pricing agreement 20220531 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220524-apa-000016" >Advance pricing agreement 20220524 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220524-apa-000009" >Advance pricing agreement 20220524 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220524-apa-000003" >Advance pricing agreement 20220524 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220517-apa-000008" >Advance pricing agreement 20220517 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220517-apa-000007" >Advance pricing agreement 20220517 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220517-apa-000002" >Advance pricing agreement 20220517 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220510-apa-000008" >Advance pricing agreement 20220510 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220510-apa-000005" >Advance pricing agreement 20220510 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220426-apa-000007" >Advance pricing agreement 20220426 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220426-apa-000006" >Advance pricing agreement 20220426 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220426-apa-000002" >Advance pricing agreement 20220426 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220426-apa-000001" >Advance pricing agreement 20220426 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220412-apa-000004" >Advance pricing agreement 20220412 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220405-apa-000001" >Advance pricing agreement 20220405 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220329-apa-000011" >Advance pricing agreement 20220329 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220329-apa-000004" >Advance pricing agreement 20220329 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220322-apa-000005" >Advance pricing agreement 20220322 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220322-apa-000004" >Advance pricing agreement 20220322 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220315-apa-000005" >Advance pricing agreement 20220315 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220315-apa-000002" >Advance pricing agreement 20220315 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220308-apa-000011" >Advance pricing agreement 20220308 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220308-apa-000008" >Advance pricing agreement 20220308 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220301-apa-000008" >Advance pricing agreement 20220301 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220301-apa-000006" >Advance pricing agreement 20220301 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220301-apa-000001" >Advance pricing agreement 20220301 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220215-apa-000009" >Advance pricing agreement 20220215 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220208-apa-000012" >Advance pricing agreement 20220208 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220208-apa-000008" >Advance pricing agreement 20220208 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220208-apa-000003" >Advance pricing agreement 20220208 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220201-apa-000007" >Advance pricing agreement 20220201 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220201-apa-000006" >Advance pricing agreement 20220201 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220125-apa-000001" >Advance pricing agreement 20220125 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220118-apa-000006" >Advance pricing agreement 20220118APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220118-apa-000004" >Advance pricing agreement 20220118APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220118-apa-000003" >Advance pricing agreement 20220118 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220111-apa-000014" >Advance pricing agreement 20220111APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220111-apa-000008" >Advance pricing agreement 20220111 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220104-apa-000004" >Advance pricing agreement 20220104 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220104-apa-000003" >Advance pricing agreement 20220104 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20220104-apa-000002" >Advance pricing agreement 20220104 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000012" >Advance pricing agreement 20211228 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000011" >Advance pricing agreement 20211228 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000007" >Advance pricing agreement 20211228 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000006" >Advance pricing agreement 20211228 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000005" >Advance pricing agreement 20211228 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211228-apa-000001" >Advance pricing agreement 20211228 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000020" >Advance pricing agreement 20211221 APA 000020</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000017" >Advance pricing agreement 20211221 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000015-r" >Advance pricing agreement 20211221 APA 000015 (RECTIFICATIE)</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000015" >Advance pricing agreement 20211221 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000014" >Advance pricing agreement 20211221 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000008" >Advance pricing agreement 20211221 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211221-apa-000006" >Advance pricing agreement 20211221 APA 00000</a>6</li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000022" >Advance pricing agreement 20211214 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000018" >Advance pricing agreement 20211214 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000014" >Advance pricing agreement 20211214 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000011" >Advance pricing agreement 20211214 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000007" >Advance pricing agreement 20211214 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000006" >Advance pricing agreement 20211214 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211214-apa-000005" >Advance pricing agreement 20211214 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211130-apa-000005" >Advance pricing agreement 20211130 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211123-apa-000011" >Advance pricing agreement 20211123APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211123-apa-000006" >Advance pricing agreement 20211123 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211109-apa-000007" >Advance pricing agreement 20211109APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211109-apa-000004" >Advance pricing agreement 20211109 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211102-apa-000004" >Advance pricing agreement 20211102 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211102-apa-000001" >Advance pricing agreement 20211102 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211019-apa-000005" >Advance pricing agreement 20211019 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211012-apa-000009" >Advance pricing agreement 20211012 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211012-apa-000008" >Advance pricing agreement 20211012 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211012-apa-000005" >Advance pricing agreement 20211012 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211005-apa-000014" >Advance pricing agreement 20211005 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20211005-apa-000006" >Advance pricing agreement 20211005 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210928-apa-000008" >Advance pricing agreement 20210928 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210928-apa-000002" >Advance pricing agreement 20210928 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210921-apa-000009" >Advance pricing agreement 20210921 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210921-apa-000008" >Advance pricing agreement 20210921 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210921-apa-000003" >Advance pricing agreement 20210921 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210914-apa-000005" >Advance pricing agreement 20210914 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210907-apa-000008" >Advance pricing agreement 20210907 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210831-apa-000007" >Advance pricing agreement 20210831APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210831-apa-000005" >Advance pricing agreement 20210831 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210831-apa-000002" >Advance pricing agreement 20210831 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210831-apa-000001" >Advance pricing agreement 20210831 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210810-apa-000001" >Advance pricing agreement 20210810 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210803-apa-000006" >Advance pricing agreement 20210803 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210803-apa-000002" >Advance pricing agreement 20210803 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210803-apa-000001" >Advance pricing agreement 20210803 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210727-apa-000006" >Advance pricing agreement 20210727 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210727-apa-000004" >Advance pricing agreement 20210727 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210727-apa-000002" >Advance pricing agreement 20210727 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000018" >Advance pricing agreement 20210720 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000016" >Advance pricing agreement 20210720 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000011" >Advance pricing agreement 20210720 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000010" >Advance pricing agreement 20210720 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000004" >Advance pricing agreement 20210720 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210720-apa-000002" >Advance pricing agreement 20210720 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210713-apa-000016" >Advance pricing agreement 20210713 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210713-apa-000010" >Advance pricing agreement 20210713 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210706-apa-000022" >Advance pricing agreement 20210706 APA 000022</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210706-apa-000016" >Advance pricing agreement 20210706 APA 000016</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210706-apa-000014" >Advance pricing agreement 20210706 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210706-apa-000007" >Advance pricing agreement 20210706 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210706-apa-000005" >Advance pricing agreement 20210706 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210629-apa-000010" >Advance pricing agreement 20210629 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210629-apa-000005" >Advance pricing agreement 20210629 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210629-apa-000003" >Advance pricing agreement 20210629 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210629-apa-000001" >Advance pricing agreement 20210629 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210622-apa-000007" >Advance pricing agreement 20210622 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210622-apa-000005" >Advance pricing agreement 20210622 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210601-apa-000001" >Advance pricing agreement 20210601 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210525-apa-000012" >Advance pricing agreement 20210525 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210525-apa-000006" >Advance pricing agreement 20210525 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210525-apa-000002" >Advance pricing agreement 20210525 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210525-apa-000001" >Advance pricing agreement 20210525 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210511-apa-000004" >Advance pricing agreement 20210511 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210504-apa-000005" >Advance pricing agreement 20210504 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210427-apa-000009" >Advance pricing agreement 20210427 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210427-apa-000004" >Advance pricing agreement 20210427 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210420-apa-000010" >Advance pricing agreement 20210420 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210420-apa-000009" >Advance pricing agreement 20210420 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210420-apa-000007" >Advance pricing agreement 20210420 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210420-apa-000001" >Advance pricing agreement 20210420 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210413-apa-000018" >Advance pricing agreement 20210413 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210413-apa-000014" >Advance pricing agreement 20210413 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210413-apa-000006" >Advance pricing agreement 20210413 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210413-apa-000001" >Advance pricing agreement 20210413 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210406-apa-000008" >Advance pricing agreement 20210406 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210330-apa-000008" >Advance pricing agreement 20210330 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210323-apa-000018" >Advance pricing agreement 20210323 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210323-apa-000012" >Advance pricing agreement 20210323 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210323-apa-000011" >Advance pricing agreement 20210323 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210316-apa-000011" >Advance pricing agreement 20210316 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210316-apa-000002" >Advance pricing agreement 20210316 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210316-apa-000001" >Advance pricing agreement 20210316 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000013" >Advance pricing agreement 20210309 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000011" >Advance pricing agreement 20210309 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000010" >Advance pricing agreement 20210309 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000008" >Advance pricing agreement 20210309 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000006" >Advance pricing agreement 20210309 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210309-apa-000002" >Advance pricing agreement 20210309 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210302-apa-000006" >Advance pricing agreement 20210302 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210302-apa-000003" >Advance pricing agreement 20210302 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210302-apa-000001" >Advance pricing agreement 20210302 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210209-apa-000006" >Advance pricing agreement 20210209 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210202-apa-000008" >Advance pricing agreement 20210202 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210202-apa-000007" >Advance pricing agreement 20210202 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210126-apa-000011" >Advance pricing agreement 20210126 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210126-apa-000010" >Advance pricing agreement 20210126 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210126-apa-000008" >Advance pricing agreement 20210126 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210126-apa-000004" >Advance pricing agreement 20210126 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000014" >Advance pricing agreement 20210119 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000013" >Advance pricing agreement 20210119 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000011" >Advance pricing agreement 20210119 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000010" >Advance pricing agreement 20210119 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000002" >Advance pricing agreement 20210119 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210119-apa-000001" >Advance pricing agreement 20210119 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210112-apa-000010" >Advance pricing agreement 20210112 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210112-apa-000009" >Advance pricing agreement 20210112 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210112-apa-000007" >Advance pricing agreement 20210112 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20210112-apa-000003" >Advance pricing agreement 20210112 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000009" >Advance pricing agreement 20201229 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000008" >Advance pricing agreement 20201229 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000007" >Advance pricing agreement 20201229 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000006" >Advance pricing agreement 20201229 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000004" >Advance pricing agreement 20201229 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201229-apa-000003" >Advance pricing agreement 20201229 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000019" >Advance pricing agreement 20201222 APA 000019</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000015" >Advance pricing agreement 20201222 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000008" >Advance pricing agreement 20201222 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000007" >Advance pricing agreement 20201222 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000005" >Advance pricing agreement 20201222 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000004" >Advance pricing agreement 20201222 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000003" >Advance pricing agreement 20201222 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201222-apa-000001" >Advance pricing agreement 20201222 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201215-apa-000023" >Advance pricing agreement 20201215 APA 000023</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201215-apa-000021" >Advance pricing agreement 20201215 APA 000021</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201215-apa-000015" >Advance pricing agreement 20201215 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201215-apa-000011" >Advance pricing agreement 20201215 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201208-apa-000005" >Advance pricing agreement 20201208 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201208-apa-000002" >Advance pricing agreement 20201208 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201201-apa-000012" >Advance pricing agreement 20201201 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201201-apa-000009" >Advance pricing agreement 20201201 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201201-apa-000007" >Advance pricing agreement 20201201 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201201-apa-000006" >Advance pricing agreement 20201201 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201201-apa-000003" >Advance pricing agreement 20201201 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000011" >Advance pricing agreement 20201124 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000008" >Advance pricing agreement 20201124 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000007" >Advance pricing agreement 20201124 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000006" >Advance pricing agreement 20201124 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000004" >Advance pricing agreement 20201124 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000002" >Advance pricing agreement 20201124 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201124-apa-000001" >Advance pricing agreement 20201124 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201117-apa-000012" >Advance pricing agreement 20201117 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201117-apa-000008" >Advance pricing agreement 20201117 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201117-apa-000006" >Advance pricing agreement 20201117 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201110-apa-000011" >Advance pricing agreement 20201110 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201110-apa-000009" >Advance pricing agreement 20201110 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201110-apa-000007" >Advance pricing agreement 20201110 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201110-apa-000001" >Advance pricing agreement 20201110 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000021" >Advance pricing agreement 20201103 APA 000021</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000018" >Advance pricing agreement 20201103 APA 000018</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000014" >Advance pricing agreement 20201103 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000011" >Advance pricing agreement 20201103 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000005" >Advance pricing agreement 20201103 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000004" >Advance pricing agreement 20201103 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201103-apa-000001" >Advance pricing agreement 20201103 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201027-apa-000002" >Advance pricing agreement 20201027 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201027-apa-000001" >Advance pricing agreement 20201027 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201013-apa-000008" >Advance pricing agreement 20201013 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201013-apa-000006" >Advance pricing agreement 20201013 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20201013-apa-000002" >Advance pricing agreement 20201013 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000011" >Advance pricing agreement 20200929 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000010" >Advance pricing agreement 20200929 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000009" >Advance pricing agreement 20200929 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000008" >Advance pricing agreement 20200929 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000007" >Advance pricing agreement 20200929 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000005" >Advance pricing agreement 20200929 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200929-apa-000002" >Advance pricing agreement 20200929 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200915-apa-000005" >Advance pricing agreement 20200915 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200915-apa-000004" >Advance pricing agreement 20200915 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200915-apa-000002" >Advance pricing agreement 20200915 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200908-apa-000010" >Advance pricing agreement 20200908 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200908-apa-000004" >Advance pricing agreement 20200908 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement--20200908-apa-000003" >Advance pricing agreement 20200908 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement--20200908-apa-000003" >Advance pricing agreement 20200901 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200825-apa-000005" >Advance pricing agreement 20200825 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200818-apa-000005" >Advance pricing agreement 20200818 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200804-apa-000002" >Advance pricing agreement 20200804 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200728-apa-000003" >Advance pricing agreement 20200728 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200721-apa-000004" >Advance pricing agreement 20200721 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200714-apa-000005" >Advance pricing agreement 20200714 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200707-apa-000006" >Advance pricing agreement 20200707 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200623-apa-000006" >Advance pricing agreement 20200623 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200623-apa-000002" >Advance pricing agreement 20200623 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200616-apa-000001" >Advance pricing agreement 20200616 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200602-apa-000002" >Advance pricing agreement 20200602 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200526-apa-000001" >Advance pricing agreement 20200526 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200519-apa-000006" >Advance pricing agreement 20200519 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200519-apa-000001" >Advance pricing agreement 20200519 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200512-apa-000009" >Advance pricing agreement 20200512 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200505-apa-000005" >Advance pricing agreement 20200505 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200505-apa-000001" >Advance pricing agreement 20200505 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200421-apa-000011" >Advance pricing agreement 20200421 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200421-apa-000010" >Advance pricing agreement 20200421 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200421-apa-000004" >Advance pricing agreement 20200421 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200421-apa-000001" >Advance pricing agreement 20200421 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200331-apa-000008" >Advance pricing agreement 20200331 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement-20200331-apa-000006" >Advance pricing agreement 20200331 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200324+APA+000020" >Advance pricing agreement 20200324 APA 000020</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200324+APA+000014" >Advance pricing agreement 20200324 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200324+APA+000012" >Advance pricing agreement 20200324 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200324+APA+000007" >Advance pricing agreement 20200324 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200317+APA+000007" >Advance pricing agreement 20200317 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200311+APA+000006" >Advance pricing agreement 20200311 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200310+APA+000002" >Advance pricing agreement 20200310 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200303+APA+000011" >Advance pricing agreement 20200303 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200303+APA+000007" >Advance pricing agreement 20200303 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200303+APA+000004" >Advance pricing agreement 20200303 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200224+APA+000001" >Advance pricing agreement 20200224 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200213+APA+000001" >Advance pricing agreement 20200213 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200212+APA+000008" >Advance pricing agreement 20200212 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200210+APA+000002" >Advance pricing agreement 20200210 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200207+APA+000010" >Advance pricing agreement 20200207 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200131+APA+000001" >Advance pricing agreement 20200131 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200128+APA+000011" >Advance pricing agreement 20200128 APA 000011</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200124+APA+000014" >Advance pricing agreement 20200124 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200121+APA+000017" >Advance pricing agreement 20200121 APA 000017</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200116+APA+000010" >Advance pricing agreement 20200116 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200115+APA+000014" >Advance pricing agreement 20200115 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20200106+APA+000003" >Advance pricing agreement 20200106 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191229+APA+000002" >Advance pricing agreement 20191229 APA 000002</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191223+APA+000004" >Advance pricing agreement 20191223 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191218+APA+000003" >Advance pricing agreement 20191218 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191217+APA+000010" >Advance pricing agreement 20191217 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191217+APA+000009" >Advance pricing agreement 20191217 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191217+APA+000008" >Advance pricing agreement 20191217 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191217+APA+000005" >Advance pricing agreement 20191217 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191217+APA+000003" >Advance pricing agreement 20191217 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191210+APA+000001" >Advance pricing agreement 20191210 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191209+APA+000004" >Advance pricing agreement 20191209 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191206+APA+000003" >Advance pricing agreement 20191206 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191204+APA+000009" >Advance pricing agreement 20191204 APA 000009</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191203+APA+000013" >Advance pricing agreement 20191203 APA 000013</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191203+APA+000008" >Advance pricing agreement 20191203 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191125+APA+000001" >Advance pricing agreement 20191125 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191122+APA+000007" >Advance pricing agreement 20191122 APA 000007</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191120+APA+000006" >Advance pricing agreement 20191120 APA 000006</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191118+APA+000014" >Advance pricing agreement 20191118 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191112+APA+000001" >Advance pricing agreement 20191112 APA 000001</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191108+APA+000004" >Advance pricing agreement 20191108 APA 000004</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191105+APA+000008" >Advance pricing agreement 20191105 APA 000008</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191105+APA+000005" >Advance pricing agreement 20191105 APA 000005</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191018+APA+000015" >Advance pricing agreement 20191018 APA 000015</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191018+APA+000014" >Advance pricing agreement 20191018 APA 000014</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191018+APA+000010" >Advance pricing agreement 20191018 APA 000010</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191016+APA+000012" >Advance pricing agreement 20191016 APA 000012</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/Advance+pricing+agreement+20191016+APA+000003" >Advance pricing agreement 20191016 APA 000003</a></li>
+	<li><a href="/wps/wcm/connect/bldcontentnl/themaoverstijgend/brochures_en_publicaties/advance-pricing-agreement--20200908-apa-000003" >Advance pricing agreement 20191016 APA 000001</a></li>
+</ul>
+</div>
+              
+              <div id="bldSubContent2"></div>
+              
+              <div id="bldSubContent3"> </div>
+              
+
+            </article>
+ 
+            <!-- SDG-logo -->
+
+                
+            <!-- inpage feedback -->
+                        <section data-type="feedback" class="bld-feedback" aria-label="feedback" data-metrix-category="feedback">
+              <div id="bld-feedback"></div>
+            </section> 
+          </div>
+
+         </div>
+        </div> 
+      </div>
+    </main>
+    <footer id="footer" class="bldc-footer">
+  <h2 class="sr-only">Algemene informatie</h2>
+  <div class="container">
+    <div class="row  bldc-footer-lists">
+    
+    <!-- default -->
+<div class="col-lg-3 col-sm-6">
+<h3>Over de Belastingdienst</h3>
+
+<ul class="bld-hyperlink">
+  <li><a href="/wps/wcm/connect/nl/contact/contact" >Contact</a></li>
+  <li><a href="https://over-ons.belastingdienst.nl/" >Over ons</a></li>
+  <li><a href="https://werken.belastingdienst.nl/" >Werken bij de Belastingdienst</a></li>
+</ul>
+
+</div>
+
+    
+    
+    <div class="col-lg-3 col-sm-6">
+<h3>Inloggen</h3>
+
+<ul class="bld-hyperlink">
+  <li><a href="/wps/wcm/connect/nl/home/content/inloggen-mijn-belastingdienst" >Inloggen op Mijn Belastingdienst</a></li>
+  <li><a href="/wps/wcm/connect/nl/toeslagen/content/inloggen-op-mijn-toeslagen" >Inloggen op Mijn toeslagen</a></li>
+  <li><a href="/wps/wcm/connect/nl/ondernemers/content/inloggen-voor-ondernemers" >Inloggen voor ondernemers</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-sm-6">
+<h3>Over deze site</h3>
+
+<ul class="bld-hyperlink">
+  <li><a href="/wps/wcm/connect/bldcontentnl/niet_in_enig_menu/sitemap/sitemap" >Sitemap</a></li>
+  <li><a href="/wps/wcm/connect/bldcontentnl/standaard_functies/prive/help/help" >Help</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-sm-6">
+<h3><span lang="en">Language</span></h3>
+
+<h4><span lang="en">English</span></h4>
+<ul class="bld-hyperlink">
+  <li><a href="/wps/wcm/connect/en/home/home" >English site</a></li>
+</ul>
+<h4><span lang="de">Deutsch</span></h4>
+<ul class="bld-hyperlink">
+  <li><a href="/wps/wcm/connect/de/privatpersonen/privatpersonen" ><span lang="de">Privatpersonen</span></a></li>
+  <li><a href="/wps/wcm/connect/bldcontentde/belastingdienst/unternehmen" ><span lang="de">Unternehmen</span></a></li>
+</ul>
+</div>
+
+    </div>
+    
+    <div class="row bldc-footer-basic">
+  <h3 class="sr-only">Footer links</h3>  <!-- kolom1 -->
+  <div class="col-sm-12 col-md-9">
+  <ul>
+  <li><a href="/wps/wcm/connect/nl/toeslagen/content/privacyverklaring-toeslagen" >Privacyverklaring</a></li>
+  <li><a href="/wps/wcm/connect/bldcontentnl/niet_in_enig_menu/prive/cookies" >Cookies</a></li>
+  <li><a href="/wps/wcm/connect/bldcontentnl/niet_in_enig_menu/prive/copyright" >Copyright</a></li>
+  <li><a href="/wps/wcm/connect/bldcontentnl/niet_in_enig_menu/prive/digitale_toegankelijkheid/digitale-toegankelijkheid" >Toegankelijkheid</a></li>
+</ul>
+
+  </div>
+
+  <!-- kolom2 -->
+  <div class="col-sm-12 col-md-3">
+    <div class="basic-right-container">
+      <button type="button" class="btn minimal bldc-icon-pijl_omhoog js-to-top" aria-label="Terug naar boven">Terug naar boven</button>
+    </div>
+  </div>
+
+</div>
+
+    
+    
+    </div>
+</footer>
+  </div> <!-- wrapper -->
+  <div id="bld-nosupport">
+ <div class="bld-logo bld-layer-content">
+  <a href="/" title="Naar de startpagina van de Belastingdienst">
+   <img src="https://www.belastingdienst.nl/bld-assets/bld/rhslogos/bld_logo.svg" alt="Logo Belastingdienst"/>
+  </a>
+ </div>
+ <div id="bld-nosupport-text">
+  <p>Javascript staat uit in deze internetbrowser. U moet <a href="http://www.enable-javascript.com/nl/" >Javascript activeren</a> om onze internetsite te zien.</p>
+
+ </div>
+</div>
+
+  
+  <script src="/bld-assets/jquery/jquery-3.6.0.min.js"></script>
+<script src="/bld-assets/jquery/ui/jquery-ui.1.13.2.custom.min.js"></script>
+<script src="/bld-assets/bootstrap/popper.min.js"></script>
+<script src="/bld-assets/bootstrap/bootstrap.min.js"></script>
+<script src="/bld-assets/bld/webcomponents/bld-webcomponents.js" type="module"></script>
+
+
+<script src="/bld-assets/bld/belastingdienst.js"></script>
+
+
+
+<script type="text/javascript" src="/common_ext/js/bld_next.js">
+</script>
+
+
+  
+  <script src="/common_ext/js/surveys/bld_efm_default.js" type="module"></script>
+  
+
+
+
+
+
+   
+  <script type="text/javascript">
+// <![CDATA[
+
+var json_video="/wps/wcm/connect/nl/video_bibliotheek/video_data.json";
+
+// ]]>
+</script>
+  
+</body>
+</html>

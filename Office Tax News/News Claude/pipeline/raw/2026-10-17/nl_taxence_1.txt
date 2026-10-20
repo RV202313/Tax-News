@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 16 Oct 2026 09:50:22 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Klikbrief verhindert navordering maar kwade trouw redt deel</title>
+		<link>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/</link>
+					<comments>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 09:46:27 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168400</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat de inspecteur voor 2017 geen nieuw feit heeft omdat hij vóór het opleggen van de aanslag al over een concrete klikbrief beschikte. Navordering blijft wel mogelijk voor de bijtelling en verzwegen omzet omdat de ondernemer daarvoor te kwader trouw is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat de inspecteur voor 2017 geen nieuw feit heeft omdat hij vóór het opleggen van de aanslag al over een concrete klikbrief beschikte. Navordering blijft wel mogelijk voor de bijtelling en verzwegen omzet omdat de ondernemer daarvoor te kwader trouw is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een ondernemer verricht onder meer tuin- en bestratingswerkzaamheden en heeft een Ford Transit op de ondernemingsbalans. In december 2018 ontvangt de inspecteur een anonieme klikbrief over mogelijke belastingfraude. Naar aanleiding daarvan wordt een boekenonderzoek ingesteld, waarbij onder meer niet-verantwoorde contante omzet en privégebruik van de auto naar voren komen. Voor 2016 en 2017 volgen navorderingsaanslagen IB/PVV en Zvw. In geschil is onder meer of de inspecteur over een nieuw feit beschikt en of de bijtelling voor de bestelauto terecht is toegepast.</p>
+
+
+
+<h3 class="wp-block-heading">Klikbrief vormt ambtelijk verzuim</h3>
+
+
+
+<p class="wp-block-paragraph">Voor 2016 beschikt de inspecteur wel over een nieuw feit. De klikbrief kwam pas na het opleggen van de definitieve aanslag binnen. Voor 2017 ligt dat anders. De klikbrief was vóór de administratieve afhandeling van de aangifte al beoordeeld en bevatte volgens het hof zulke concrete aanwijzingen dat direct tot een boekenonderzoek werd besloten. De inspecteur had daarom de automatische afhandeling van de aangifte moeten blokkeren. Door dat niet te doen, is sprake van een ambtelijk verzuim en ontbreekt een nieuw feit voor navordering over 2017.</p>
+
+
+
+<h3 class="wp-block-heading">Kwade trouw bij auto en omzet</h3>
+
+
+
+<p class="wp-block-paragraph">Toch kan de inspecteur voor een deel navorderen. Uit de eigen administratie blijkt dat de ondernemer in 2017 minstens 744 kilometer privé reed. Hij wist daarom dat hij rekening moest houden met de bijtelling. Ook maakt de inspecteur aannemelijk dat omzet bewust buiten de administratie is gehouden en geen facturen zijn uitgeschreven. Daarmee is sprake van kwade trouw voor zowel de bijtelling als de omzetcorrectie. Voor de correctie van telefoonkosten is kwade trouw niet bewezen. Bovendien is de Ford Transit door de aanwezigheid van een bijrijdersbank niet nagenoeg uitsluitend geschikt voor goederenvervoer.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.20?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.20 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2222">Gerechtshof &#8216;s-Hertogenbosch, 12-08-2026, ECLI:NL:GHSHE:2026:2222, 24/115, 24/116, 24/271 en 24/272 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/klikbrief-verhindert-navordering-maar-kwade-trouw-redt-deel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/Tuinwerkzaamheden.jpg" length="74057" type="image/jpeg" />	</item>
+		<item>
+		<title>Borgstellingsverlies aftrekbaar als negatief resultaat</title>
+		<link>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/</link>
+					<comments>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 08:44:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168402</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat een borgstellingsverlies van € 37.500 aftrekbaar is als negatief resultaat uit overige werkzaamheden. De inspecteur maakt niet aannemelijk dat de borgstelling bij het aangaan of later onzakelijk is geworden.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat een borgstellingsverlies van € 37.500 aftrekbaar is als negatief resultaat uit overige werkzaamheden. De inspecteur maakt niet aannemelijk dat de borgstelling bij het aangaan of later onzakelijk is geworden.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is via zijn bv aandeelhouder in een vennootschap die investeringen aantrekt voor verdere groei. In 2014 verstrekt ABN AMRO een krediet en stelt de man zich persoonlijk borg voor € 37.500. Ook een andere investeerder en de Staat staan voor aanzienlijk hogere bedragen borg. In 2020 wordt de man door de bank aangesproken en betaalt hij € 37.500. Hij wil dit bedrag aftrekken als negatief resultaat uit overige werkzaamheden. De inspecteur weigert dat omdat de borgstelling volgens hem vanaf het begin onzakelijk was, dan wel later onzakelijk is geworden.</p>
+
+
+
+<h3 class="wp-block-heading">Borgstelling is niet onzakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat de bewijslast voor de onzakelijkheid bij de inspecteur ligt. Die slaagt daar niet in. De financiële situatie en toekomstverwachtingen waren bij het aangaan van de borgstelling niet zo slecht dat de man alleen vanuit zijn positie als aandeelhouder het risico zou hebben aanvaard. Een externe investeerder had kort daarvoor fors geïnvesteerd en ook de bank en de Staat waren bereid financiering of zekerheid te verstrekken. Dat geen vergoeding voor de borgstelling was afgesproken, maakt deze evenmin onzakelijk. Volgens de rechtbank kon een vaste, niet-winstafhankelijke vergoeding worden bepaald waartegen een onafhankelijke derde het risico zou hebben willen nemen.</p>
+
+
+
+<h3 class="wp-block-heading">Verlies blijft aftrekbaar</h3>
+
+
+
+<p class="wp-block-paragraph">Ook later is de borgstelling niet onzakelijk geworden. Een onafhankelijke derde had bij de wijziging van de kredietovereenkomst in 2019 geen maatregelen kunnen nemen waarmee het risico op het bestaande bedrag van € 37.500 nog kon worden beperkt. De bestaande verplichtingen waren steeds hoger dan de borgstelling. Een derde zou daarom hetzelfde verlies hebben geleden. De man mag het bedrag van € 37.500 als negatief resultaat uit overige werkzaamheden aftrekken.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.92?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.92</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.94?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.94 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_9750">Rechtbank Zeeland-West-Brabant, 07-10-2026, ECLI:NL:RBZWB:2026:9750, BRE 24/8131 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/borgstellingsverlies-aftrekbaar-als-negatief-resultaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/04/investeren-computer.jpg" length="41294" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet wacht met aanpak grondslaguitholling vastgoed</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 07:33:25 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vastgoed]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168394</guid>
+
+					<description><![CDATA[Het kabinet kiest voorlopig geen beleidsrichting om grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed tegen te gaan. Eerst moet duidelijk worden welke ruimte na de onderhandelingen over het Europese Omnibusvoorstel resteert voor nationale maatregelen. De Belastingdienst heeft momenteel enkele tientallen excessief gefinancierde vastgoedvennootschappen in behandeling. Vanwege de beschikbare capaciteit kan niet elk signaal<a class="read-more" href="https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet kiest voorlopig geen beleidsrichting om grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed tegen te gaan. Eerst moet duidelijk worden welke ruimte na de onderhandelingen over het Europese Omnibusvoorstel resteert voor nationale maatregelen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst heeft momenteel enkele tientallen excessief gefinancierde vastgoedvennootschappen in behandeling. Vanwege de beschikbare capaciteit kan niet elk signaal worden behandeld en ontbreekt een totaaloverzicht. Ook is niet altijd onderscheid te maken tussen situaties waarin meerdere entiteiten om bedrijfseconomische redenen worden aangehouden en situaties waarin fiscale overwegingen een rol spelen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet heeft drie beleidsopties onderzocht. Beleidsoptie 1 houdt in dat de drempel van € 1 miljoen in de earningsstrippingmaatregel niet mag worden toegepast als een belastingplichtige hoofdzakelijk deel uitmaakt van een concern. Deze optie raakt naar verwachting ongeveer 15.000 belastingplichtigen en wordt als ongericht en ondoelmatig beschouwd.</p>
+
+
+
+<h2 class="wp-block-heading">Beleidsoptie 3 meest doeltreffend</h2>
+
+
+
+<p class="wp-block-paragraph">Bij beleidsoptie 2 wordt de drempel verlaagd naar € 200.000 voor vastgoedlichamen die in bepaalde mate zijn gefinancierd met leningen van verbonden lichamen. Ongeveer 1.000 belastingplichtigen worden hierdoor geraakt. De maatregel adresseert fragmentatie, maar biedt geen volledige oplossing voor grondslaguitholling in vastgoedbeleggingsstructuren.</p>
+
+
+
+<p class="wp-block-paragraph">Beleidsoptie 3 is volgens de staatssecretaris doeltreffender. Daarbij is rente op bepaalde schulden aan verbonden lichamen niet aftrekbaar, tenzij tegenbewijs wordt geleverd. Naar verwachting worden circa 15.000 belastingplichtigen met de maatregel geconfronteerd, maar worden uiteindelijk ongeveer 500 belastingplichtigen daadwerkelijk geraakt. Daar staat een toename van complexiteit, administratieve lasten en uitvoeringslasten tegenover.</p>
+
+
+
+<h2 class="wp-block-heading">Europese onderhandelingen afwachten</h2>
+
+
+
+<p class="wp-block-paragraph">Het Omnibusvoorstel van de Europese Commissie voorziet onder meer in een verplichte drempel van € 3 miljoen. Daardoor zouden beleidsopties 1 en 2 niet mogelijk zijn. Ook kan het voorstel gevolgen hebben voor beleidsoptie 3.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet wil daarom niet vooruitlopen op de onderhandelingen. Dit voorkomt dat nationale maatregelen snel moeten worden heroverwogen of aangepast en draagt volgens de staatssecretaris bij aan stabiel en voorspelbaar fiscaal beleid. Het kabinet zet zich er daarbij voor in dat flankerende nationale maatregelen mogelijk blijven.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/95a7af77-cdbd-4b92-b312-758e77f442de" data-type="link" data-id="https://open.overheid.nl/details/95a7af77-cdbd-4b92-b312-758e77f442de" target="_blank" rel="noreferrer noopener">Antwoorden op vragen over vervolgonderzoek naar grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed, nr. 2026-0000397407, Ministerie van Financiën, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/05/vastgoed.jpg" length="82068" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt oversluiten eigenwoningschuld en al verstreken looptijd</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 06:53:16 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168389</guid>
+
+					<description><![CDATA[De Kennisgroep onroerende zaken heeft de vraag beantwoord of sprake is van een eigenwoningschuld na het oversluiten van een eigenwoningschuld met een verstreken looptijd en tegelijkertijd het aangaan van een nieuwe annuïtaire schuld voor de verbouwing van de eigen woning waarbij beide schulden een looptijd van 360 maanden hebben.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep onroerende zaken heeft de vraag beantwoord of sprake is van een eigenwoningschuld na het oversluiten van een eigenwoningschuld met een verstreken looptijd en tegelijkertijd het aangaan van een nieuwe annuïtaire schuld voor de verbouwing van de eigen woning waarbij beide schulden een looptijd van 360 maanden hebben.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een belastingplichtige heeft een eigen woning met een eigenwoningschuld, aangegaan onder het huidige recht, van € 200.000 met een verstreken looptijd van 60 maanden (5 jaren). De belastingplichtige sluit zijn eigenwoningschuld over naar een andere geldverstrekker. Tegelijkertijd gaat hij een nieuwe annuïtaire schuld van € 100.000 aan voor de verbouwing van zijn eigen woning. Beide schulden hebben een looptijd van 360 maanden.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is sprake van een eigenwoningschuld na het oversluiten en de verhoging van de totale schuld?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. Als een eigenwoningschuld wordt overgesloten voor eenzelfde of lager bedrag, moet voor de berekening van de nieuwe annuïteit het aflossingsschema op de voorgaande schuld op grond van artikel 3.119c, derde lid, van de Wet IB 2001 worden voortgezet bij de nieuwe schuld voor de resterende looptijd. Omdat in artikel 3.119a, eerste lid, onderdeel b, Wet IB 2001 wordt verwezen naar het aflossen overeenkomstig artikel 3.119c Wet IB 2001 moet deze voortgezette aflossing ook als zodanig contractueel worden vastgelegd. De nieuwe schuld moet dus verdergaan met waar de oude schuld is gebleven qua stand en looptijd.</p>
+
+
+
+<p class="wp-block-paragraph">Als de nieuwe schuld hier niet aan voldoet, gaat die schuld over naar box 3. Dat geldt voor beide schulden van € 200.000 en € 100.000 als geen van deze schulden verder gaan met de stand en looptijd van de voorgaande schuld.</p>
+
+
+
+<p class="wp-block-paragraph">Als voor de schuld van € 200.000 wel een looptijd was overeengekomen van 300 maanden, had voor de schuld van € 100.000 mogen worden uitgegaan van een looptijd van 360 maanden. Dit volgt uit de wetssystematiek en de parlementaire geschiedenis van artikel 3.119c Wet IB 2001. Hierin is namelijk bepaald dat op grond van artikel 3.119c, zesde lid, Wet IB 2001 slechts voor het meerdere mag worden uitgegaan van een schuld met een looptijd van 360 maanden als het aflossingsschema op de voorgaande schuld wordt voortgezet bij de nieuwe schuld voor de resterende looptijd. Dit betekent dat aan artikel 3.119c, zesde lid, Wet IB 2001 alleen wordt toegekomen als conform het derde lid van artikel 3.119c Wet IB 2001, voor in casu een bedrag van € 200.000, het aflossingsschema van de voorgaande schuld wordt voortgezet.</p>
+
+
+
+<p class="wp-block-paragraph">Het voorgaande is in overeenstemming met de situatie waarin een woning wordt vervreemd en een aflossingsstand ontstaat. Als in die situatie vervolgens in verband met de aankoop van een nieuwe woning schulden worden aangegaan, moet eerst de aflossingsstand volledig worden toegepast op de aangegane schulden voordat voor het restant van het leenbedrag een maximale looptijd van 360 maanden geldt. Zie <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg05120224-eigenwoningschuld-bij-verkoop-huidige-eigen-woning-en-aankoop-nieuwe-eigen-woning-en-al-verstreken-looptijd/">KG:051:2022:4</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Conclusie</h3>
+
+
+
+<p class="wp-block-paragraph">Zowel de schuld van € 200.000 als de schuld van € 100.000 kwalificeert voor de belastingplichtige niet als eigenwoningschuld in box 1. Als het aflossingsschema van de schuld van € 200.000 wordt aangepast conform artikel 3.119c, eerste lid, Wet IB 2001, kunnen beide schulden alsnog als eigenwoningschuld kwalificeren. Dit wel pas vanaf het moment van aanpassing.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-oversluiten-eigenwoningschuld-en-al-verstreken-looptijd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/09/Hypotheek.jpg" length="19166" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt artikel 24a AWR bij rentesaldovaststellingsbeschikking</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-artikel-24a-awr-bij-rentesaldovaststellingsbeschikking/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-artikel-24a-awr-bij-rentesaldovaststellingsbeschikking/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 06:36:31 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168387</guid>
+
+					<description><![CDATA[De Kennisgroep formeel recht heeft een standpunt ingenomen over de vraag of verlaging van de rentesaldovaststellingsbeschikking ook onderdeel van het geschil is als belanghebbende uitsluitend tegen de aanslag bezwaar aantekent.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep formeel recht heeft een standpunt ingenomen over de vraag of verlaging van de rentesaldovaststellingsbeschikking ook onderdeel van het geschil is als belanghebbende uitsluitend tegen de aanslag bezwaar aantekent.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een aantal belastingplichtigen bestrijdt de renteaftrekbeperking van artikel 15b van de Wet Vpb 1969 in bezwaar en beroep tegen de aanslag. Deze per 1 januari 2019 geïntroduceerde wettelijke bepaling betreft een earningsstrippingmaatregel en behelst onder meer de implementatie van de <a href="https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32016L1164&amp;from=en" target="_blank" rel="noopener">Richtlijn (EU) 2016/1164</a>. </p>
+
+
+
+<p class="wp-block-paragraph">Volgens deze bepaling is het saldo aan renten dat meer bedraagt dan 24,5% van de gecorrigeerde winst of € 1 miljoen, niet aftrekbaar in het belastingjaar. Voor zover in een jaar het saldo aan renten niet in aftrek komt, wordt dat voortgewenteld naar het volgende jaar. Het voort te wentelen saldo aan renten in het belastingjaar wordt op grond van artikel 15b, vijfde lid, juncto artikel 15bb Wet Vpb 1969 vastgesteld bij voor bezwaar vatbare beschikking op het aanslagbiljet. Dit niet-aftrekbare rentesaldo kan in volgorde van ontstaansjaar onbeperkt voortgewenteld worden. Een aantal belastingplichtigen heeft in bezwaar tegen de aanslag gronden aangevoerd tegen de toepassing van artikel 15b Wet Vpb 1969. De inspecteur vraagt zich af of hij het bezwaar dat is gericht tegen de aanslag mag aanmerken als ook gericht tegen de rentesaldovaststellingsbeschikking, of dat dit niet kan omdat de belanghebbende dit niet heeft aangevoerd en evenmin belang heeft bij een vermindering van de rentesaldovaststellingsbeschikking.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de rentesaldovaststellingsbeschikking ook onderdeel van het geschil als belanghebbende uitsluitend tegen de aanslag bezwaar aantekent?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, de rentesaldovaststellingsbeschikking is ook onderdeel van het geschil als belanghebbende in bezwaar tegen de aanslag gronden aanvoert tegen de toepassing van artikel 15b Wet Vpb 1969.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-24a-awr-bij-rentesaldovaststellingsbeschikking-artikel-15b-vijfde-lid-juncto-artikel-15bb-wet-vpb-1969/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-24a-awr-bij-rentesaldovaststellingsbeschikking-artikel-15b-vijfde-lid-juncto-artikel-15bb-wet-vpb-1969/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-artikel-24a-awr-bij-rentesaldovaststellingsbeschikking/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/10/winst-cooperatie.jpg" length="32229" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt expiratie Pre Brede Herwaarderingslijfrente</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168378</guid>
+
+					<description><![CDATA[De Kennisgroep verzekeringsproducten en assurantiebelasting heeft een vraag beantwoord over de expiratie van een Pre Brede Herwaarderingslijfrente door overlijden en het aankopen van een direct ingaande lijfrente door de begunstigde bij een bank of beleggingsonderneming.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep verzekeringsproducten en assurantiebelasting heeft een vraag beantwoord over de expiratie van een Pre Brede Herwaarderingslijfrente door overlijden en het aankopen van een direct ingaande lijfrente door de begunstigde bij een bank of beleggingsonderneming.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een kapitaalverzekering met lijfrenteclausule, waarop het Pre Brede Herwaarderingsregime van toepassing is, expireert door het overlijden van de verzekerde. De begunstigde wil met het beschikbare lijfrentekapitaal een direct ingaande lijfrente aankopen bij een bank of beleggingsonderneming.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan de begunstigde een direct ingaande lijfrente aankopen die voldoet aan de voorwaarden van artikel 3.126a, vierde lid, onderdeel b, van de Wet IB 2001, met andere woorden een nabestaandenlijfrenterekening?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. De begunstigde kan geen direct ingaande nabestaandenlijfrenterekening aankopen in de zin van artikel 3.126a, vierde lid, onderdeel b, Wet IB 2001.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-expiratie-van-pre-brede-herwaarderingslijfrente-door-overlijden-en-aankopen-direct-ingaande-lijfrente-door-begunstigde-bij-bank-of-beleggingsonderneming/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-expiratie-van-pre-brede-herwaarderingslijfrente-door-overlijden-en-aankopen-direct-ingaande-lijfrente-door-begunstigde-bij-bank-of-beleggingsonderneming/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/lijfrente-man.jpg" length="31929" type="image/jpeg" />	</item>
+		<item>
+		<title>Werkelijk rendement box 3 niet verwerkt in aanslagen over 2022 en 2023</title>
+		<link>https://www.taxence.nl/nieuws/werkelijk-rendement-box-3-niet-verwerkt-in-aanslagen-over-2022-en-2023/</link>
+					<comments>https://www.taxence.nl/nieuws/werkelijk-rendement-box-3-niet-verwerkt-in-aanslagen-over-2022-en-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 04:35:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168398</guid>
+
+					<description><![CDATA[Bij een aantal aanslagen inkomstenbelasting over 2022 en 2023 met een dagtekening van 16 oktober 2026 of later is de opgave van het werkelijk rendement in box 3 niet verwerkt meldt de Belastingdienst.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Bij een aantal aanslagen inkomstenbelasting over 2022 en 2023 met een dagtekening van 16 oktober 2026 of later is de opgave van het werkelijk rendement in box 3 niet verwerkt meldt de Belastingdienst.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dit betreft aanslagen waarbij het formulier ‘Opgaaf Werkelijk Rendement’ niet tijdig is verwerkt voordat de definitieve aanslag werd vastgesteld. Hierdoor kan het bedrag van de aanslag hoger zijn dan wanneer rekening was gehouden met het opgegeven werkelijk rendement.</p>
+
+
+
+<p class="wp-block-paragraph">Dit geldt voor belastingplichtigen die schriftelijk of telefonisch contact hebben gehad met een behandelaar van de Belastingdienst over het ingediende formulier ‘Opgaaf Werkelijk Rendement’ voor 2022 of 2023. Daarbij heeft de behandelaar aangegeven dat de gegevens uit het formulier nog zouden worden verwerkt in de definitieve aanslag inkomstenbelasting over 2022 of 2023.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst beoordeelt en verwerkt het formulier ‘Opgaaf Werkelijk Rendement’ alsnog. Daarna volgt een nieuwe aanslag inkomstenbelasting over 2022 of 2023 waarin de uitkomst van deze beoordeling wordt meegenomen. Zelf actie ondernemen is niet nodig.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/verstoringen/geen-werkelijk-rendement-box-3" data-type="link" data-id="https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/berichten/verstoringen/geen-werkelijk-rendement-box-3" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 oktober 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/werkelijk-rendement-box-3-niet-verwerkt-in-aanslagen-over-2022-en-2023/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Belastingdienst-online.jpg" length="56889" type="image/jpeg" />	</item>
+		<item>
+		<title>EU actualiseert lijst van niet-coöperatieve belastingjurisdicties</title>
+		<link>https://www.taxence.nl/nieuws/eu-actualiseert-lijst-van-niet-cooperatieve-belastingjurisdicties/</link>
+					<comments>https://www.taxence.nl/nieuws/eu-actualiseert-lijst-van-niet-cooperatieve-belastingjurisdicties/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2026 02:15:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168392</guid>
+
+					<description><![CDATA[De Raad van de Europese Unie heeft de EU-lijst van niet-coöperatieve jurisdicties op belastinggebied geactualiseerd. Op de lijst staan acht landen die volgens de EU onvoldoende meewerken op belastinggebied of hun toezeggingen niet volledig zijn nagekomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Raad van de Europese Unie heeft de EU-lijst van niet-coöperatieve jurisdicties op belastinggebied geactualiseerd. Op de lijst staan acht landen die volgens de EU onvoldoende meewerken op belastinggebied of hun toezeggingen niet volledig zijn nagekomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het gaat om de volgende landen en gebieden: Amerikaans-Samoa, Anguilla, Guam, Palau, Rusland, de Turks- en Caicoseilanden, de Amerikaanse Maagdeneilanden en Vanuatu.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Panama en Vietnam zijn van de zwarte lijst geschrapt. Panama stond sinds februari 2020 op de lijst, maar het land heeft inmiddels zijn &#8220;schadelijke regeling voor de vrijstelling van inkomsten uit buitenlandse bronnen hervormd&#8221;, verklaren de EU-landen. Daarnaast heeft de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) het land een nieuwe beoordeling gegeven over de naleving van de internationale normen voor het verstrekken van belastinginformatie als daarom wordt gevraagd.</p>
+
+
+
+<p class="wp-block-paragraph">Vietnam kwam afgelopen februari op de lijst, nadat uit een beoordeling van de OESO was gebleken dat het land niet voldeed aan de eisen van dezelfde normen. Na een reeks hervormingen kreeg ook Vietnam een nieuwe beoordeling, aldus de EU-landen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/#0" data-type="link" data-id="https://www.consilium.europa.eu/en/policies/eu-list-of-non-cooperative-jurisdictions/#0" target="_blank" rel="noreferrer noopener">EU, 9 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/eu-actualiseert-lijst-van-niet-cooperatieve-belastingjurisdicties/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/06/Panama-stad2.jpg" length="61858" type="image/jpeg" />	</item>
+		<item>
+		<title>Kwade trouw adviseur maakt navordering goodwill mogelijk</title>
+		<link>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/</link>
+					<comments>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 07:39:44 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168351</guid>
+
+					<description><![CDATA[Gerechtshof ’s-Hertogenbosch oordeelt dat de inspecteur geen nieuw feit heeft voor navordering, maar toch mag navorderen wegens kwade trouw van de adviseur. De inspecteur maakt daarnaast de gecorrigeerde goodwill van € 684.883 aannemelijk.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof ’s-Hertogenbosch oordeelt dat de inspecteur geen nieuw feit heeft voor navordering, maar toch mag navorderen wegens kwade trouw van de adviseur. De inspecteur maakt daarnaast de gecorrigeerde goodwill van € 684.883 aannemelijk.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv maakt deel uit van een groep die diensten verleent op het gebied van SAP-software. In maart 2017 wordt 49% van haar aandelen verkocht en in oktober 2017 wordt de bv geliquideerd, waarna haar personeel overgaat naar een andere groepsmaatschappij. De aangifte Vpb 2017 wordt onder horizontaal toezicht ingediend. Daarin wordt geen winst wegens goodwill aangegeven. Ook wordt de inspecteur niet afzonderlijk geïnformeerd over het ingenomen standpunt, waarna de aanslag geautomatiseerd overeenkomstig de aangifte wordt vastgesteld. In 2022 legt de inspecteur een navorderingsaanslag op waarbij hij € 684.883 aan goodwill tot de winst rekent. In geschil is onder meer of de inspecteur mag navorderen en of de goodwill juist is vastgesteld.</p>
+
+
+
+<h3 class="wp-block-heading">Geen nieuw feit door ambtelijk verzuim</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur geen nieuw feit heeft. Hij wist vóór het opleggen van de aanslag al dat kort daarvoor aandelen voor een aanzienlijk bedrag waren verkocht en dat daarbij rekening was gehouden met goodwill. Gezien de lopende discussie had hij de geautomatiseerde aanslagregeling moeten blokkeren. Dat de aangifte onder horizontaal toezicht is ingediend, maakt dit niet anders. Horizontaal toezicht zet de wettelijke voorwaarden voor navordering niet opzij.</p>
+
+
+
+<h3 class="wp-block-heading">Kwade trouw en goodwill</h3>
+
+
+
+<p class="wp-block-paragraph">Navordering is toch mogelijk omdat de voormalige adviseur te kwader trouw handelt. Hij weet dat aangiften onder horizontaal toezicht snel geautomatiseerd worden afgedaan en had de inspecteur moeten informeren dat de aangifte werd ingediend zonder rekening te houden met goodwill. Door dit niet te doen, onthoudt hij essentiële informatie en neemt hij bewust het risico dat te weinig belasting wordt geheven. Deze kwade trouw wordt aan de bv toegerekend. Ook de goodwillcorrectie blijft in stand. De inspecteur mag voor de waardering aansluiten bij de binnen de groep gebruikte waarderingsformule, die ook bij transacties tussen onafhankelijke partijen is toegepast.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">Artikel 16 – Algemene wet inzake rijksbelastingen | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2267">Gerechtshof &#8216;s-Hertogenbosch, 19-08-2026, ECLI:NL:GHSHE:2026:2267, 24/1187 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kwade-trouw-adviseur-maakt-navordering-goodwill-mogelijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/12/ICT.jpg" length="61469" type="image/jpeg" />	</item>
+		<item>
+		<title>Verlies op oude lening aftrekbaar na liquidatie zuster-bv</title>
+		<link>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/</link>
+					<comments>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 15 Oct 2026 07:33:54 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168353</guid>
+
+					<description><![CDATA[Rechtbank Gelderland staat aftrek toe van het verlies op een oude lening aan een zustervennootschap. Verliezen op latere onzakelijke leningen verhogen het opgeofferde bedrag voor de liquidatieverliesregeling niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Gelderland staat aftrek toe van het verlies op een oude lening aan een zustervennootschap. Verliezen op latere onzakelijke leningen verhogen het opgeofferde bedrag voor de liquidatieverliesregeling niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv verstrekt verschillende leningen aan een zustervennootschap waarmee zij dezelfde aandeelhouder heeft. Op 1 januari 2018 bedraagt de oudste lening € 196.208. In 2018 en 2019 worden nog drie leningen verstrekt. In juli 2020 koopt de bv de aandelen in de zustervennootschap voor € 1, waarna deze in december 2020 wordt ontbonden. De bv brengt de verliezen op de leningen in aanmerking bij haar aangifte Vpb. Volgens de inspecteur zijn de leningen onzakelijk en zijn de verliezen niet aftrekbaar. Voor de latere leningen is tussen partijen niet in geschil dat deze vanaf het aangaan onzakelijk zijn. In geschil is vooral de behandeling van de oudste lening en de vraag of de latere leningen het opgeofferde bedrag voor de liquidatieverliesregeling verhogen.</p>
+
+
+
+<h3 class="wp-block-heading">Oude lening is zakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">De inspecteur maakt niet aannemelijk dat de oudste lening bij het aangaan of later onzakelijk is geworden. Alleen wijzen op het negatieve eigen vermogen van de zustervennootschap eind 2017 is onvoldoende. Omdat bij de liquidatie in 2020 definitief vaststaat dat de lening niet meer wordt terugbetaald, mag het verlies worden afgetrokken. Vanwege een eerdere aflossing van € 90.207 resteert een aftrekbaar verlies van € 106.001.</p>
+
+
+
+<h3 class="wp-block-heading">Onzakelijke leningen tellen niet mee</h3>
+
+
+
+<p class="wp-block-paragraph">De verliezen op de drie latere onzakelijke leningen behoren niet tot het opgeofferde bedrag. Beslissend is in welke hoedanigheid het debiteurenrisico is aanvaard. Toen de bv de leningen in 2018 en 2019 verstrekte, was zij nog geen aandeelhouder. Alleen het bestaan van plannen om later aandeelhouder te worden, is onvoldoende om de leningen aan haar hoedanigheid van toekomstig aandeelhouder toe te rekenen. Het verlies op deze leningen verhoogt daarom het liquidatieverlies niet.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-13d?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13d Wet Vpb 1969</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBGEL_2026_7639" target="_blank" rel="noreferrer noopener">Rechtbank Gelderland, 07-10-2026, ECLI:NL:RBGEL:2026:7639, ARN 25/6046 | NDFR</a></p>
+
+
+
+<h2 class="wp-block-heading">Online cursus Staken van de onderneming: (turbo)liquidatie, WHOA liquidatie akkoord | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Bij het staken van een onderneming moet vaak ook de betrokken rechtspersoon worden ontbonden. Wanneer kies je voor een gewone liquidatie, turboliquidatie of faillissement? En hoe kan een WHOA-liquidatieakkoord helpen om een faillissement te voorkomen en de rechtspersoon zorgvuldig af te wikkelen?</p>
+
+
+
+<p class="wp-block-paragraph">De cursus behandelt de verschillende mogelijkheden en de bijbehorende aandachtspunten. Daarbij is er bijzondere aandacht voor de turboliquidatie. Deze lijkt aantrekkelijk, maar kent ook risico’s. Aan bod komen de positie van onbetaald gebleven schuldeisers en de mogelijke aansprakelijkheid van het bestuur.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://www.licentacademy.nl/opleidingen/pitstops/3070/pe-pitstop-turboliquidatie" data-type="link" data-id="https://www.licentacademy.nl/opleidingen/pitstops/3070/pe-pitstop-turboliquidatie" target="_blank" rel="noreferrer noopener">Meer informatie en aanmelden</a></strong></p>
+
+
+
+<div class="wp-block-uagb-buttons uagb-buttons__outer-wrap uagb-btn__default-btn uagb-btn-tablet__default-btn uagb-btn-mobile__default-btn uagb-block-undefined"><div class="uagb-buttons__wrap uagb-buttons-layout-wrap "></div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/verlies-op-oude-lening-aftrekbaar-na-liquidatie-zuster-bv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/faillissement-closed.jpg" length="25133" type="image/jpeg" />	</item>
+	</channel>
+</rss>

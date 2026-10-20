@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-21",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 548,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/belastingtransparantie-multinationals-nagenoeg-geen-effect-op-winstuitholling/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingtransparantie multinationals (nagenoeg) geen effect op winstuitholling",
+      "summary": "",
+      "published_at": "2026-09-21",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 549,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/bulgaria-revises-pillar-two-tax-exchange-framework/",
+      "ecli": "",
+      "act": "",
+      "title": "Bulgaria revises Pillar Two tax exchange framework",
+      "summary": "Bulgaria published Decree No. 304 in the State Gazette on 18 September 2026, promulgating the Law on the Supplement to the Law on the Ratification of the Convention on Mutual Administrative Assistance in Tax Matters. The amendment adds Pillar Two top-up taxes to the list of covered taxes under the Convention, enabling the country to...",
+      "published_at": "2026-09-21",
+      "score": 7.5,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

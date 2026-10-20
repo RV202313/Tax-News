@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-01",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 655,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-toepassing-artiestenregeling/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt toepassing artiestenregeling",
+      "summary": "De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de toepassing van de artiestenregeling.",
+      "published_at": "2026-10-01",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 656,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-specifieke-zorgkosten-niet-vergoede-medicijnen-en-uitgaven/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt specifieke zorgkosten (niet vergoede medicijnen en uitgaven)",
+      "summary": "De Kennisgroep inkomstenbelasting niet-winst heeft de vraag beantwoord of aanschafkosten van een bij ministeriële regeling aangewezen geneesmiddel, dat niet wordt vergoed door de zorgverzekeraar omdat de zorgverzekeraar enkel een vergelijkbaar aangewezen medicijn vergoedt, in aanmerking kunnen worden genomen als uitgaven voor specifieke zorgkosten.",
+      "published_at": "2026-10-01",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 657,
+      "source": "nl_taxence",
+      "url": "https://www.taxence.nl/nieuws/standpunt-commerciele-tarieven-anbi-ingetrokken/",
+      "ecli": "",
+      "act": "",
+      "title": "Standpunt commerciële tarieven ANBI ingetrokken",
+      "summary": "De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft standpunt KG:211:2022:15 ingetrokken in verband met de inwerkingtreding van het besluit van 26 juni 2025, nr. 2025-13842, Stcrt. 2025-20215.",
+      "published_at": "2026-10-01",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 658,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/autoverkoop-flink-omhoog-in-september-door-nieuwe-belastingregels/",
+      "ecli": "",
+      "act": "",
+      "title": "Autoverkoop flink omhoog in september door nieuwe belastingregels",
+      "summary": "",
+      "published_at": "2026-10-01",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

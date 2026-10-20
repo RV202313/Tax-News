@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-22",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 563,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/kennisgroep-entiteit-onder-discontinued-operations-geen-groepsentiteit-voor-wet-minimumbelasting/",
+      "ecli": "",
+      "act": "",
+      "title": "Kennisgroep: entiteit onder discontinued operations geen groepsentiteit voor Wet minimumbelasting",
+      "summary": "",
+      "published_at": "2026-09-22",
+      "score": 9.9,
+      "topics": [
+        "nl_fiscaal",
+        "pillar2"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 564,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/junior-data-engineer-voldoet-na-stage-in-nederland-aan-voorwaarden-30-regeling/",
+      "ecli": "",
+      "act": "",
+      "title": "Junior data engineer voldoet na stage in Nederland aan voorwaarden 30%-regeling",
+      "summary": "",
+      "published_at": "2026-09-22",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 565,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/btw-juridische-kosten-en-vertegenwoordiging-strafrechtelijke-onderzoeken-pro-rata-aftrekbaar/",
+      "ecli": "",
+      "act": "",
+      "title": "BTW juridische kosten en vertegenwoordiging strafrechtelijke onderzoeken pro rata aftrekbaar",
+      "summary": "",
+      "published_at": "2026-09-22",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 4,
+      "item_id": 566,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/belastingdienst-dwingt-medewerking-aan-boekenonderzoek-af-via-kort-geding/",
+      "ecli": "",
+      "act": "",
+      "title": "Belastingdienst dwingt medewerking aan boekenonderzoek af via kort geding",
+      "summary": "",
+      "published_at": "2026-09-22",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 5,
+      "item_id": 567,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/amerikaanse-belastingdienst-legt-naheffingsaanslag-op-van-736-miljoen-bij-trustconstructie/",
+      "ecli": "",
+      "act": "",
+      "title": "Amerikaanse Belastingdienst legt naheffingsaanslag op van $ 736 miljoen bij trustconstructie",
+      "summary": "",
+      "published_at": "2026-09-22",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

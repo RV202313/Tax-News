@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-24",
+  "items": [
+    {
+      "n": 1,
+      "item_id": 590,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/top-10-meestgebruikte-formulieren-loonheffingen/",
+      "ecli": "",
+      "act": "",
+      "title": "Top 10 meestgebruikte formulieren loonheffingen",
+      "summary": "",
+      "published_at": "2026-09-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 2,
+      "item_id": 591,
+      "source": "nl_taxlive",
+      "url": "https://www.taxlive.nl/nl/documenten/nieuws/levensmiddelensector-suikerbelasting-gaat-grensshoppen-verder-aanjagen/",
+      "ecli": "",
+      "act": "",
+      "title": "Levensmiddelensector: suikerbelasting gaat grensshoppen verder aanjagen",
+      "summary": "",
+      "published_at": "2026-09-24",
+      "score": 9.2,
+      "topics": [
+        "nl_fiscaal"
+      ],
+      "jurisdictions": [
+        "nl"
+      ],
+      "jurisdiction_names": [
+        "Нидерланды"
+      ],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    },
+    {
+      "n": 3,
+      "item_id": 592,
+      "source": "intl_regfollower",
+      "url": "https://regfollower.com/portugal-tax-authority-opens-pillar-two-form-64-filing-service-for-2024/",
+      "ecli": "",
+      "act": "",
+      "title": "Portugal: Tax Authority opens Pillar Two Form 64 filing service for 2024",
+      "summary": "Portugal’s Tax and Customs Authority has opened the electronic submission service for Form 64 – Settlement Declaration of RIMG/Pillar Two for fiscal year 2024, under Article 45(1)(c) of Law No. 41/2024, the Global Minimum Tax Law. The authority issued the notice on 23 September 2026, confirming that the filing service is available for Portuguese constituent...",
+      "published_at": "2026-09-24",
+      "score": 7.5,
+      "topics": [
+        "pillar2"
+      ],
+      "jurisdictions": [],
+      "jurisdiction_names": [],
+      "lead": false,
+      "channel": "",
+      "message_id": "",
+      "engagement": 0.0,
+      "item_type": "",
+      "suggested_channels": [
+        "telegram_channel"
+      ]
+    }
+  ]
+}

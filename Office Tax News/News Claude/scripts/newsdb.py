@@ -377,13 +377,16 @@ def get_item_by_act(conn, act_norm):
     ).fetchone()
 
 
-def _recent_titles(conn, days=DUP_WINDOW_DAYS):
+def _recent_titles(conn, days=DUP_WINDOW_DAYS, *, published_only=False):
     """Заголовки (title_norm) элементов за последние `days` дней для нечёткого дедупа."""
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).strftime(
         "%Y-%m-%dT%H:%M:%SZ"
     )
+    delivered_filter = (" AND (status IN ('published','delivered','posted') OR EXISTS "
+                        "(SELECT 1 FROM published p WHERE p.item_id=items.id AND p.post_id!=''))"
+                        if published_only else "")
     rows = conn.execute(
-        "SELECT title_norm FROM items WHERE first_seen >= ? AND title_norm != ''",
+        "SELECT title_norm FROM items WHERE first_seen >= ? AND title_norm != ''" + delivered_filter,
         (cutoff,),
     ).fetchall()
     return [r["title_norm"] for r in rows]

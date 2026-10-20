@@ -1,0 +1,563 @@
+{
+  "date": "2026-10-18",
+  "release": "2026-10-18_1700_editorial",
+  "items": [
+    {
+      "title": "Казахстан: КГД разъяснил типичные нарушения при таможенных проверках",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1312108?lang=ru",
+          "name": "КГД Министерства финансов Казахстана"
+        }
+      ],
+      "theme": "Таможенный контроль и соблюдение правил декларирования",
+      "jurisdictions": [
+        "Казахстан"
+      ],
+      "act": "Разъяснение КГД Минфина РК по результатам таможенных проверок за 9 месяцев 2026 года",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/details/1312108?lang=ru",
+        "source_quote": "за январь–сентябрь 2026 года"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "kz-customs-audit-20261016",
+        "cross_border_relevance": "Таможенный контроль и классификация товаров напрямую влияют на импортёров и участников трансграничной торговли с Казахстаном."
+      },
+      "slug": "2026-10-18_1700_kz-customs-audit-20261016",
+      "caption": "Казахстан: КГД разъяснил типичные нарушения при таможенных проверках\n\nКГД Минфина Казахстана за 9 месяцев 2026 года провёл 948 таможенных проверок и выявил типичные нарушения при классификации и декларировании.\n\nПочему это важно: Участникам ВЭД необходимо усилить внутренний комплаенс и проверку кодов ТН ВЭД для исключения доначислений пошлин и штрафов.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1312108?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1312108?lang=ru",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1312108?lang=ru",
+          "evidence": [
+            {
+              "claim": "КГД Минфина Казахстана за 9 месяцев 2026 года провёл 948 таможенных проверок и выявил типичные нарушения при классификации и декларировании.",
+              "source_quote": "комитетом государственных доходов мф рк за январь–сентябрь 2026 года проведено 948 таможенных проверок"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_kz-customs-audit-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Казахстан: таможенные службы тюркских государств договорились об упрощении транзита",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+          "name": "КГД Казахстана"
+        }
+      ],
+      "theme": "Международное сотрудничество таможенных органов и цифровизация транзита",
+      "jurisdictions": [
+        "Казахстан",
+        "Организация тюркских государств"
+      ],
+      "act": "Заседание глав таможенных служб государств Организации тюркских государств 12.10.2026",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+        "source_quote": "12 октября"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "kz-otg-customs-20261012",
+        "cross_border_relevance": "Упрощение процедур таможенного транзита между тюркскими государствами оптимизирует маршруты Среднего коридора для международных цепочек поставок."
+      },
+      "slug": "2026-10-18_1700_kz-otg-customs-20261012",
+      "caption": "Казахстан: таможенные службы тюркских государств договорились об упрощении транзита\n\n12 октября в Бишкеке состоялось 12-е заседание глав таможенных администраций государств Организации тюркских государств по вопросам цифровизации и транзита.\n\nПочему это важно: Развитие транспортного коридора через Каспий и внедрение единых электронных транзитных документов ускорит логистику между Азией и Европой.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1310491?lang=ru",
+          "evidence": [
+            {
+              "claim": "12 октября в Бишкеке состоялось 12-е заседание глав таможенных администраций государств Организации тюркских государств по вопросам цифровизации и транзита.",
+              "source_quote": "делегацию комитета государственных доходов министерства финансов республики казахстан возглавил председатель комитета жандос дуйсембиев"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_kz-otg-customs-20261012.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: Минфин призвал МВФ сосредоточиться на базовых функциях надзора",
+      "sources": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40698-anton_siluanov_mvf_neobkhodimo_ukrepit_svoi_klyuchevye_funktsii__nadzor_i_kreditovanie",
+          "name": "Министерство финансов Российской Федерации"
+        }
+      ],
+      "theme": "Международная финансовая архитектура и макроэкономический надзор",
+      "jurisdictions": [
+        "Россия",
+        "МВФ"
+      ],
+      "act": "Выступление Министра финансов РФ на 54-м заседании МВФК 17.10.2026",
+      "source_published_at": "2026-10-17",
+      "publication_date_evidence": {
+        "url": "https://minfin.gov.ru/ru/press-center/?id_4=40698-anton_siluanov_mvf_neobkhodimo_ukrepit_svoi_klyuchevye_funktsii__nadzor_i_kreditovanie",
+        "source_quote": "17 октября 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "ru-minfin-imf-surveillance-20261017",
+        "cross_border_relevance": "Позиция РФ в отношении макроэкономического надзора МВФ определяет параметры финансовой стабильности и условия международного кредитования."
+      },
+      "slug": "2026-10-18_1700_ru-minfin-imf-surveillance-20261017",
+      "caption": "Россия: Минфин призвал МВФ сосредоточиться на базовых функциях надзора\n\n17 октября 2026 года Министр финансов РФ Антон Силуанов на заседании МВФК заявил о необходимости укрепления функций надзора и кредитования.\n\nПочему это важно: Усиление макроэкономического мониторинга суверенных долгов и дефицитов напрямую определяет стабильность глобальных рынков и трансграничных расчетов.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40698-anton_siluanov_mvf_neobkhodimo_ukrepit_svoi_klyuchevye_funktsii__nadzor_i_kreditovanie\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40698-anton_siluanov_mvf_neobkhodimo_ukrepit_svoi_klyuchevye_funktsii__nadzor_i_kreditovanie",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40698-anton_siluanov_mvf_neobkhodimo_ukrepit_svoi_klyuchevye_funktsii__nadzor_i_kreditovanie",
+          "evidence": [
+            {
+              "claim": "17 октября 2026 года Министр финансов РФ Антон Силуанов на заседании МВФК заявил о необходимости укрепления функций надзора и кредитования.",
+              "source_quote": "об этом заявил министр финансов россии антон силуанов на заседании международного валютно-финансового комитета"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_ru-minfin-imf-surveillance-20261017.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: Минфин обозначил ключевые вызовы мировой экономики на встрече G20",
+      "sources": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40694-anton_siluanov_oboznachil_klyuchevye_zadachi_dlya_mirovoi_ekonomiki",
+          "name": "Министерство финансов Российской Федерации"
+        }
+      ],
+      "theme": "Международное финансово-экономическое регулирование G20",
+      "jurisdictions": [
+        "Россия",
+        "G20"
+      ],
+      "act": "Выступление Министра финансов РФ на встрече министров финансов G20 15.10.2026",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://minfin.gov.ru/ru/press-center/?id_4=40694-anton_siluanov_oboznachil_klyuchevye_zadachi_dlya_mirovoi_ekonomiki",
+        "source_quote": "15 октября 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "ru-minfin-g20-challenges-20261015",
+        "cross_border_relevance": "Решения G20 формируют рамочные условия для мировой торговли, движения капитала и глобального налогового регулирования."
+      },
+      "slug": "2026-10-18_1700_ru-minfin-g20-challenges-20261015",
+      "caption": "Россия: Минфин обозначил ключевые вызовы мировой экономики на встрече G20\n\n15 октября 2026 года в Бангкоке Министр финансов РФ Антон Силуанов на встрече глав минфинов и центробанков G20 обозначил риски фрагментации мировой экономики.\n\nПочему это важно: Дискуссии в G20 задают вектор реформы международной валютно-финансовой системы, тарифных ограничений и координации макроэкономических политик.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40694-anton_siluanov_oboznachil_klyuchevye_zadachi_dlya_mirovoi_ekonomiki\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40694-anton_siluanov_oboznachil_klyuchevye_zadachi_dlya_mirovoi_ekonomiki",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40694-anton_siluanov_oboznachil_klyuchevye_zadachi_dlya_mirovoi_ekonomiki",
+          "evidence": [
+            {
+              "claim": "15 октября 2026 года в Бангкоке Министр финансов РФ Антон Силуанов на встрече глав минфинов и центробанков G20 обозначил риски фрагментации мировой экономики.",
+              "source_quote": "об этом министр финансов антон силуанов заявил на встрече министров финансов и управляющих центральными банками «группы 20» в бангкоке (таиланд)"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_ru-minfin-g20-challenges-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия: Минфин рассказал о финансовых инструментах и налогах МСП",
+      "sources": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40697-finansovye_instrumenty_otkryvayut_novye_vozmozhnosti_dlya_msp",
+          "name": "Министерство финансов Российской Федерации"
+        }
+      ],
+      "theme": "Государственная поддержка и налоговое регулирование субъектов МСП",
+      "jurisdictions": [
+        "Россия"
+      ],
+      "act": "Выступление представителя Минфина России на III Всероссийской конференции 16.10.2026",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://minfin.gov.ru/ru/press-center/?id_4=40697-finansovye_instrumenty_otkryvayut_novye_vozmozhnosti_dlya_msp",
+        "source_quote": "16 октября 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "ru-minfin-sme-finance-20261016",
+        "cross_border_relevance": "Меры государственной поддержки МСП и развитие финансовых инструментов снижают издержки субъектов бизнеса в РФ."
+      },
+      "slug": "2026-10-18_1700_ru-minfin-sme-finance-20261016",
+      "caption": "Россия: Минфин рассказал о финансовых инструментах и налогах МСП\n\n16 октября 2026 года представитель Минфина России на Всероссийской конференции рассказал о новых финансовых инструментах и управлении налоговыми обязательствами субъектов МСП.\n\nПочему это важно: Развитие специализированных инструментов финансирования и налогового структурирования позволяет малому и среднему бизнесу оптимизировать финансовую нагрузку.\n\nИсточник: https://minfin.gov.ru/ru/press-center/?id_4=40697-finansovye_instrumenty_otkryvayut_novye_vozmozhnosti_dlya_msp\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://minfin.gov.ru/ru/press-center/?id_4=40697-finansovye_instrumenty_otkryvayut_novye_vozmozhnosti_dlya_msp",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://minfin.gov.ru/ru/press-center/?id_4=40697-finansovye_instrumenty_otkryvayut_novye_vozmozhnosti_dlya_msp",
+          "evidence": [
+            {
+              "claim": "16 октября 2026 года представитель Минфина России на Всероссийской конференции рассказал о новых финансовых инструментах и управлении налоговыми обязательствами субъектов МСП.",
+              "source_quote": "об этом заместитель директора департамента финансовой политики минфина россии дмитрий фролов рассказал на iii всероссийской конференции"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_ru-minfin-sme-finance-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: суд ЕС подтвердил сохранение налогового резидентства при переезде",
+      "sources": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/ondanks-verhuizing-naar-duitsland-blijft-oostenrijk-fiscale-woonplaats-eib-medewerker/",
+          "name": "Taxlive"
+        }
+      ],
+      "theme": "Налоговое резидентство физических лиц и международные договоры ЕС",
+      "jurisdictions": [
+        "Нидерланды",
+        "Германия",
+        "Австрия"
+      ],
+      "act": "Решение Суда ЕС по делу C-680/24 о налоговом резидентстве сотрудника международного института",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/ondanks-verhuizing-naar-duitsland-blijft-oostenrijk-fiscale-woonplaats-eib-medewerker/",
+        "source_quote": "16 oktober 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "nl-eib-residence-cjeu-20261016",
+        "cross_border_relevance": "Прецедент Суда ЕС определяет критерии трансграничного налогового резидентства для персонала наднациональных органов в странах Европы."
+      },
+      "slug": "2026-10-18_1700_nl-eib-residence-cjeu-20261016",
+      "caption": "Нидерланды: суд ЕС подтвердил сохранение налогового резидентства при переезде\n\nСуд ЕС постановил, что сотрудник европейского института при переезде сохраняет налоговое резидентство страны первоначального происхождения в силу Протокола № 7.\n\nПочему это важно: Решение защищает трансграничных специалистов от двойного налогообложения имущества и дарения в государствах ЕС при выполнении международных обязанностей.\n\nИсточник: https://www.taxlive.nl/nl/documenten/vn-vandaag/ondanks-verhuizing-naar-duitsland-blijft-oostenrijk-fiscale-woonplaats-eib-medewerker/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/ondanks-verhuizing-naar-duitsland-blijft-oostenrijk-fiscale-woonplaats-eib-medewerker/",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxlive.nl/nl/documenten/vn-vandaag/ondanks-verhuizing-naar-duitsland-blijft-oostenrijk-fiscale-woonplaats-eib-medewerker/",
+          "evidence": [
+            {
+              "claim": "Суд ЕС постановил, что сотрудник европейского института при переезде сохраняет налоговое резидентство страны первоначального происхождения в силу Протокола № 7.",
+              "source_quote": "het hof van justitie oordeelt dat art. 13 protocol nr. 7 van toepassing is op de duitse schenkbelasting, maar dat a, als medewerker van de eib, zijn fiscale woonplaats in oostenrijk behoudt"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_nl-eib-residence-cjeu-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: правительство отложило ограничения вычета процентов по недвижимости",
+      "sources": [
+        {
+          "url": "https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/",
+          "name": "Taxence"
+        }
+      ],
+      "theme": "Противодействие размыванию налоговой базы и ограничение вычета процентов",
+      "jurisdictions": [
+        "Нидерланды"
+      ],
+      "act": "Заявление Кабинета министров Нидерландов о мерах против размывания базы по недвижимости",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/",
+        "source_quote": "16 oktober 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "nl-real-estate-interest-20261016",
+        "cross_border_relevance": "Правила вычета процентных расходов по займам для фондов недвижимости влияют на международные инвестиции в нидерландские активы."
+      },
+      "slug": "2026-10-18_1700_nl-real-estate-interest-20261016",
+      "caption": "Нидерланды: правительство отложило ограничения вычета процентов по недвижимости\n\nПравительство Нидерландов решило пока не вводить дополнительные жесткие ограничения против размывания базы через займы при аренде недвижимости третьим лицам.\n\nПочему это важно: Инвесторы в коммерческую недвижимость в Нидерландах сохраняют текущие правила процентных вычетов в рамках правил ATAD без ужесточения.\n\nИсточник: https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxence.nl/nieuws/kabinet-wacht-met-aanpak-grondslaguitholling-vastgoed/",
+          "evidence": [
+            {
+              "claim": "Правительство Нидерландов решило пока не вводить дополнительные жесткие ограничения против размывания базы через займы при аренде недвижимости третьим лицам.",
+              "source_quote": "het kabinet kiest voorlopig geen beleidsrichting om grondslaguitholling door excessieve financieringsconstructies met aan derden verhuurd vastgoed tegen te gaan"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_nl-real-estate-interest-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Нидерланды: налоговая служба разъяснила переходные правила по договорам ренты",
+      "sources": [
+        {
+          "url": "https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/",
+          "name": "Taxence"
+        }
+      ],
+      "theme": "Налогообложение страховых и пенсионных продуктов",
+      "jurisdictions": [
+        "Нидерланды"
+      ],
+      "act": "Позиция экспертной группы налоговой службы Нидерландов по завершению договоров ренты",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/",
+        "source_quote": "16 oktober 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "nl-annuity-ruling-20261016",
+        "cross_border_relevance": "Налоговый режим выплат по историческим иностранным и национальным рентным договорам критичен для трансграничного частного капитала."
+      },
+      "slug": "2026-10-18_1700_nl-annuity-ruling-20261016",
+      "caption": "Нидерланды: налоговая служба разъяснила переходные правила по договорам ренты\n\nНалоговая служба Нидерландов опубликовала разъяснение экспертной группы по налоговым последствиям истечения срока старых рентных договоров.\n\nПочему это важно: Разъяснение дает правовую определенность правопреемникам и финансовым организациям при оформлении выплат без штрафных доначислений.\n\nИсточник: https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://www.taxence.nl/nieuws/standpunt-expiratie-pre-brede-herwaarderingslijfrente/",
+          "evidence": [
+            {
+              "claim": "Налоговая служба Нидерландов опубликовала разъяснение экспертной группы по налоговым последствиям истечения срока старых рентных договоров.",
+              "source_quote": "de kennisgroep verzekeringsproducten en assurantiebelasting heeft een vraag beantwoord over de expiratie van een pre brede herwaarderingslijfrente"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_nl-annuity-ruling-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Лихтенштейн и Филиппины подписали соглашение об избежании двойного налогообложения",
+      "sources": [
+        {
+          "url": "https://regfollower.com/liechtenstein-philippines-sign-income-tax-treaty/",
+          "name": "RegFollower"
+        }
+      ],
+      "theme": "Двусторонние соглашения об избежании двойного налогообложения (DTT)",
+      "jurisdictions": [
+        "Лихтенштейн",
+        "Филиппины"
+      ],
+      "act": "Подписание налогового соглашения между Лихтенштейном и Филиппинами от 15.10.2026",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://regfollower.com/liechtenstein-philippines-sign-income-tax-treaty/",
+        "source_quote": "16 october, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "intl-liechtenstein-philippines-dtt-20261016",
+        "cross_border_relevance": "Новый международный договор о налогообложении доходов между европейской юрисдикцией и Филиппинами создает льготные условия для холдингов."
+      },
+      "slug": "2026-10-18_1700_intl-liechtenstein-philippines-dtt-20261016",
+      "caption": "Лихтенштейн и Филиппины подписали соглашение об избежании двойного налогообложения\n\nЛихтенштейн и Филиппины 15 октября 2026 года подписали соглашение об избежании двойного налогообложения доходов для стимулирования взаимных инвестиций.\n\nПочему это важно: Соглашение снижает ставки налога у источника на дивиденды, проценты и роялти и устанавливает современные антиуклонительные стандарты BEPS.\n\nИсточник: https://regfollower.com/liechtenstein-philippines-sign-income-tax-treaty/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/liechtenstein-philippines-sign-income-tax-treaty/",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://regfollower.com/liechtenstein-philippines-sign-income-tax-treaty/",
+          "evidence": [
+            {
+              "claim": "Лихтенштейн и Филиппины 15 октября 2026 года подписали соглашение об избежании двойного налогообложения доходов для стимулирования взаимных инвестиций.",
+              "source_quote": "liechtenstein and the philippines signed an income tax treaty on 15 october 2026 to prevent double taxation and facilitate cross-border trade and investment between the two countries"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_intl-liechtenstein-philippines-dtt-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Кыргызстан и Хорватия проведут переговоры по соглашению об избежании двойного налога",
+      "sources": [
+        {
+          "url": "https://regfollower.com/kyrgyzstan-croatia-advance-plans-for-tax-treaty-negotiations/",
+          "name": "RegFollower"
+        }
+      ],
+      "theme": "Двусторонние налоговые соглашения и расширение договорной сети",
+      "jurisdictions": [
+        "Кыргызстан",
+        "Хорватия"
+      ],
+      "act": "Договоренность о первом раунде переговоров по налоговому соглашению от 14.10.2026",
+      "source_published_at": "2026-10-16",
+      "publication_date_evidence": {
+        "url": "https://regfollower.com/kyrgyzstan-croatia-advance-plans-for-tax-treaty-negotiations/",
+        "source_quote": "16 october, 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Antigravity editorial review 2026-10-18",
+        "event_key": "intl-kyrgyzstan-croatia-dtt-20261016",
+        "cross_border_relevance": "Расширение сети налоговых соглашений в Центральной Азии формирует новые юридические коридоры для европейского бизнеса."
+      },
+      "slug": "2026-10-18_1700_intl-kyrgyzstan-croatia-dtt-20261016",
+      "caption": "Кыргызстан и Хорватия проведут переговоры по соглашению об избежании двойного налога\n\nКыргызстан и Хорватия договорились провести первый раунд переговоров по проекту соглашения об избежании двойного налогообложения в апреле 2027 года в Бишкеке.\n\nПочему это важно: Заключение налогового договора усилит защиту инвестиций и создаст четкие правила налогообложения трансграничных коммерческих проектов.\n\nИсточник: https://regfollower.com/kyrgyzstan-croatia-advance-plans-for-tax-treaty-negotiations/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://regfollower.com/kyrgyzstan-croatia-advance-plans-for-tax-treaty-negotiations/",
+          "checked_at": "2026-10-18T14:13:11.617995+00:00",
+          "status_code": 200,
+          "final_url": "https://regfollower.com/kyrgyzstan-croatia-advance-plans-for-tax-treaty-negotiations/",
+          "evidence": [
+            {
+              "claim": "Кыргызстан и Хорватия договорились провести первый раунд переговоров по проекту соглашения об избежании двойного налогообложения в апреле 2027 года в Бишкеке.",
+              "source_quote": "kyrgyzstan and croatia agreed to hold the first round of negotiations on a draft agreement for the avoidance of double taxation and the prevention of tax evasion in bishkek in april 2027"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Antigravity editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-18\\2026-10-18_1700_intl-kyrgyzstan-croatia-dtt-20261016.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

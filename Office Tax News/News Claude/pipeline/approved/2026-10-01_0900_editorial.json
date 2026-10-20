@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-01",
+  "release": "2026-10-01_0900_editorial",
+  "slot": "0900",
+  "timezone": "Europe/Moscow",
+  "preparation_started_at": "2026-10-01T08:17:53+03:00",
+  "scheduled_at": "2026-10-01T09:00:00+03:00",
+  "items": [
+    {
+      "slug": "2026-10-01-0900-ru-profit-code",
+      "title": "Россия: ФНС напомнила о коде льготы в декларации по налогу на прибыль",
+      "caption": "Россия: ФНС напомнила о коде льготы в декларации по налогу на прибыль\n\nНеправильный код признака налогоплательщика может привести к некорректному отражению льготы и необходимости уточнить декларацию.\n\nПрактический ориентир: при подготовке отчётности за девять месяцев сверить код в листе 02 с применяемой льготой.\n\nИсточник: https://www.nalog.gov.ru/rn77/news/activities_fts/16652633/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Налог на прибыль и отчётность",
+      "jurisdictions": "Россия",
+      "act": "Разъяснение ФНС о заполнении листа 02 декларации",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "ФНС России",
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16652633/"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16652633/",
+          "checked_at": "2026-10-01T05:35:45.913564+00:00",
+          "final_url": "https://www.nalog.gov.ru/rn77/news/activities_fts/16652633/",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Неправильный код признака налогоплательщика может привести к некорректному отражению льготы и необходимости уточнить декларацию.",
+              "source_quote": "Неправильный выбор кода признака налогоплательщика может привести к некорректному отражению в декларации сведений о применяемой налоговой льготе и необходимости последующего уточнения отчетности."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-curator-awr",
+      "title": "Нидерланды: обязанности конкурсного управляющего распространяются на банкротство компаний",
+      "caption": "Нидерланды: обязанности конкурсного управляющего распространяются на банкротство компаний\n\nСтатья 43 AWR применяется к конкурсному управляющему юридического лица, признанного банкротом.\n\nПрактический ориентир: учитывать эту позицию при распределении налоговых обязанностей в процедуре банкротства.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg20620263-artikel-43-awr-van-toepassing-op-curator-failliete-rechtspersoon/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Налоговое администрирование и банкротство",
+      "jurisdictions": "Нидерланды",
+      "act": "Позиция KG:206:2026:3 по статье 43 AWR",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Налоговая служба Нидерландов",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg20620263-artikel-43-awr-van-toepassing-op-curator-failliete-rechtspersoon/"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg20620263-artikel-43-awr-van-toepassing-op-curator-failliete-rechtspersoon/",
+          "checked_at": "2026-10-01T05:35:44.020776+00:00",
+          "final_url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg20620263-artikel-43-awr-van-toepassing-op-curator-failliete-rechtspersoon/",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Статья 43 AWR применяется к конкурсному управляющему юридического лица, признанного банкротом.",
+              "source_quote": "Artikel 43 AWR is daarom van toepassing op de curator van een failliete rechtspersoon."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-medicine-deduction",
+      "title": "Нидерланды: отказ страховщика возместить лекарство не всегда даёт налоговый вычет",
+      "caption": "Нидерланды: отказ страховщика возместить лекарство не всегда даёт налоговый вычет\n\nРасходы на препарат из установленного перечня не признаются специальными медицинскими расходами, если они относятся к обязательному страховому покрытию, даже когда страховщик возмещает только аналог.\n\nПрактический ориентир: при подготовке декларации отдельно проверить основания отказа в страховом возмещении и условия налогового вычета.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/publicaties/kg202202613-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Подоходный налог и медицинские расходы",
+      "jurisdictions": "Нидерланды",
+      "act": "Позиция KG:202:2026:13",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Налоговая служба Нидерландов",
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg202202613-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg202202613-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/",
+          "checked_at": "2026-10-01T05:35:43.973783+00:00",
+          "final_url": "https://kennisgroepen.belastingdienst.nl/publicaties/kg202202613-niet-vergoede-medicijnen-en-uitgaven-voor-specifieke-zorgkosten/",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Расходы на препарат из установленного перечня не признаются специальными медицинскими расходами, если они относятся к обязательному страховому покрытию, даже когда страховщик возмещает только аналог.",
+              "source_quote": "Nee, deze uitgaven vallen namelijk onder het verplicht te verzekeren risico en worden daarom niet aangemerkt als uitgaven voor specifieke zorgkosten."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-partner-pension",
+      "title": "Нидерланды: разрешено сочетать пожизненную и временную пенсии партнёру",
+      "caption": "Нидерланды: разрешено сочетать пожизненную и временную пенсии партнёру\n\nМожно предусмотреть сочетание пожизненной пенсии партнёру при смерти до пенсионного возраста и временной пенсионной выплаты партнёру.\n\nПрактический ориентир: при проектировании пенсионной программы сверить условия каждого компонента с разъяснением.\n\nИсточник: https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Налогообложение пенсионных выплат",
+      "jurisdictions": "Нидерланды",
+      "act": "Разъяснение V&A 26-007",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Пенсионный центр налоговой службы Нидерландов",
+          "url": "https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/",
+          "checked_at": "2026-10-01T05:35:44.029460+00:00",
+          "final_url": "https://centraalaanspreekpuntpensioenen.belastingdienst.nl/publicaties/va-26-007-v260930/",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Можно предусмотреть сочетание пожизненной пенсии партнёру при смерти до пенсионного возраста и временной пенсионной выплаты партнёру.",
+              "source_quote": "Ja, een combinatie van een levenslang partnerpensioen bij overlijden voor pensioendatum en een tijdelijke uitkering van partnerpensioen kan worden toegezegd."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-tax-correspondence",
+      "title": "Нидерланды: с 1 октября действует новый регламент переписки с налоговой службой",
+      "caption": "Нидерланды: с 1 октября действует новый регламент переписки с налоговой службой\n\nНовый регламент переписки с налоговой службой вступает в силу 1 октября 2026 года.\n\nПрактический ориентир: перед отправкой налоговых документов проверить в приложении к регламенту допустимый способ подачи.\n\nИсточник: https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Электронное налоговое администрирование",
+      "jurisdictions": "Нидерланды",
+      "act": "Регламент № 2026-0000373661; Staatscourant 2026, 33871",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Официальный вестник Нидерландов",
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html",
+          "checked_at": "2026-10-01T05:35:44.390539+00:00",
+          "final_url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33871.html",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Новый регламент переписки с налоговой службой вступает в силу 1 октября 2026 года.",
+              "source_quote": "Deze regeling treedt in werking met ingang van 1 oktober 2026."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-minimum-tax-decree",
+      "title": "Нидерланды: опубликовано решение о применении глобального минимального налога",
+      "caption": "Нидерланды: опубликовано решение о применении глобального минимального налога\n\nСамо применение режима налоговой консолидации по налогу на прибыль не означает наличия структурированной гибридной схемы для целей минимального налога.\n\nПрактический ориентир: международным группам сверить внутригрупповые займы с условиями и примером раздела 9.8a решения.\n\nИсточник: https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Глобальный минимальный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "Решение № 2026-15692; Staatscourant 2026, 32160",
+      "source_published_at": "2026-09-25",
+      "sources": [
+        {
+          "label": "Официальный вестник Нидерландов",
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html",
+          "checked_at": "2026-10-01T05:35:53.627912+00:00",
+          "final_url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Само применение режима налоговой консолидации по налогу на прибыль не означает наличия структурированной гибридной схемы для целей минимального налога.",
+              "source_quote": "Toepassing van de fiscale eenheidsregeling"
+            },
+            {
+              "claim": "Само применение режима налоговой консолидации по налогу на прибыль не означает наличия структурированной гибридной схемы для целей минимального налога.",
+              "source_quote": "leidt er niet per definitie toe dat voor de minimumbelasting sprake is van een gestructureerde hybride regeling"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-woz-comparison",
+      "title": "Нидерланды: суд отклонил оценку жилья через индексацию прежней стоимости",
+      "caption": "Нидерланды: суд отклонил оценку жилья через индексацию прежней стоимости\n\nСуд указал, что стоимость жилья должна определяться путём систематического сравнения с объектами, по которым доступны рыночные данные.\n\nПрактический ориентир: при проверке налоговой оценки жилья обратить внимание на метод и доказательства сравнения. Материал не является налоговой консультацией.\n\nИсточник: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9143\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Судебная практика по налоговой оценке недвижимости",
+      "jurisdictions": "Нидерланды",
+      "act": "ECLI:NL:RBZWB:2026:9143; решение от 21.09.2026",
+      "source_published_at": "2026-09-28",
+      "sources": [
+        {
+          "label": "Официальная база судебных решений Нидерландов",
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9143"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9143",
+          "checked_at": "2026-10-01T05:35:52.856762+00:00",
+          "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9143",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Суд указал, что стоимость жилья должна определяться путём систематического сравнения с объектами, по которым доступны рыночные данные.",
+              "source_quote": "de waarde voor woningen moet worden bepaald door middel van een methode van systematische vergelijking met woningen waarvan marktgegevens beschikbaar zijn"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "court_decision",
+      "court": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-gift-business-cash",
+      "title": "Нидерланды: суд признал 700 тысяч евро деловым активом при дарении акций",
+      "caption": "Нидерланды: суд признал 700 тысяч евро деловым активом при дарении акций\n\nВ рассмотренном деле 700 тысяч евро квалифицированы как предпринимательское имущество для режима переноса налоговой обязанности при дарении акций.\n\nПрактический ориентир: при передаче бизнеса документировать назначение денежных средств для деятельности компании. Материал не является налоговой консультацией.\n\nИсточник: https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9141\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Передача семейного бизнеса и подоходный налог",
+      "jurisdictions": "Нидерланды",
+      "act": "ECLI:NL:RBZWB:2026:9141; решение от 21.09.2026",
+      "source_published_at": "2026-09-28",
+      "sources": [
+        {
+          "label": "Официальная база судебных решений Нидерландов",
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9141"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9141",
+          "checked_at": "2026-10-01T05:35:53.164462+00:00",
+          "final_url": "https://data.rechtspraak.nl/uitspraken/content?id=ECLI:NL:RBZWB:2026:9141",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "В рассмотренном деле 700 тысяч евро квалифицированы как предпринимательское имущество для режима переноса налоговой обязанности при дарении акций.",
+              "source_quote": "Dit betekent dat het bedrag van € 700.000 kwalificeert als ondernemingsvermogen voor de doorschuifregeling."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "court_decision",
+      "court": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-inspector-discretion",
+      "title": "Нидерланды: парламент поддержал профессиональную свободу налоговых инспекторов",
+      "caption": "Нидерланды: парламент поддержал профессиональную свободу налоговых инспекторов\n\nПалата представителей приняла резолюцию о том, чтобы позиции экспертных групп не ограничивали без необходимости профессиональное усмотрение налоговых инспекторов.\n\nПрактический ориентир: учитывать инициативу при анализе возможностей индивидуального рассмотрения налогового спора.\n\nИсточник: https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&did=2026P15513\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Налоговое администрирование и защита плательщиков",
+      "jurisdictions": "Нидерланды",
+      "act": "Принятая парламентская резолюция 31066-1568",
+      "source_published_at": "2026-09-29",
+      "sources": [
+        {
+          "label": "Палата представителей Нидерландов",
+          "url": "https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&did=2026P15513"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&did=2026P15513",
+          "checked_at": "2026-10-01T05:35:53.595041+00:00",
+          "final_url": "https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P15513&did=2026P15513",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Палата представителей приняла резолюцию о том, чтобы позиции экспертных групп не ограничивали без необходимости профессиональное усмотрение налоговых инспекторов.",
+              "source_quote": "over waarborgen dat kennisgroepstandpunten niet onnodig beperkend werken op de professionele beoordelingsruimte van inspecteurs Besluit: Aangenomen."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    },
+    {
+      "slug": "2026-10-01-0900-nl-anbi-withdrawal",
+      "title": "Нидерланды: отозвана позиция по организациям общественной пользы",
+      "caption": "Нидерланды: отозвана позиция по организациям общественной пользы\n\nНалоговая служба отозвала позицию KG:211:2022:15 в связи с вступлением в силу решения от 26 июня 2025 года.\n\nПрактический ориентир: при оценке статуса ANBI сверить используемые разъяснения с действующим решением, а не с отозванной позицией.\n\nИсточник: https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/\n\n#АкадемияBEPS #АкадемияБЕПС",
+      "theme": "Налоговый статус организаций общественной пользы",
+      "jurisdictions": "Нидерланды",
+      "act": "Отзыв позиции KG:211:2022:15 в связи с решением об ANBI",
+      "source_published_at": "2026-09-30",
+      "sources": [
+        {
+          "label": "Налоговая служба Нидерландов",
+          "url": "https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/"
+        }
+      ],
+      "source_verifications": [
+        {
+          "url": "https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/",
+          "checked_at": "2026-10-01T05:35:54.218938+00:00",
+          "final_url": "https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-belastingplicht-en-kwalificatie-rechtsvormen-ingetrokken-wegens-besluit-anbi/",
+          "status_code": 200,
+          "evidence": [
+            {
+              "claim": "Налоговая служба отозвала позицию KG:211:2022:15 в связи с вступлением в силу решения от 26 июня 2025 года.",
+              "source_quote": "De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft standpunt KG:211:2022:15 ingetrokken in verband met de inwerkingtreding van het besluit van 26 juni 2025"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "АКАДЕМИЯ BEPS",
+        "color_a": [
+          24,
+          76,
+          120
+        ],
+        "color_b": [
+          235,
+          140,
+          50
+        ]
+      },
+      "item_type": "official_notice",
+      "court": false,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex — автономная редакционная подготовка",
+        "evidence": "Свежий первоисточник прочитан; ключевой тезис сопоставлен с дословной цитатой; HTTP 200, конечный URL и цитата подтверждены прямым запросом; материал проверен на повторы."
+      }
+    }
+  ],
+  "prepared_at": "2026-10-01T08:37:11.693333+03:00"
+}

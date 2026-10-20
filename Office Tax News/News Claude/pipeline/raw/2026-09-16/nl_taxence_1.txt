@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 16 Sep 2026 08:51:02 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Geen aftrek zonder bewijs voor managementvergoeding</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-4/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-4/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 08:48:51 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167469</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat een bv een prestatievergoeding van € 700.000 niet van haar winst mag aftrekken. De bv maakt niet aannemelijk dat tegenover de betaling daadwerkelijk werkzaamheden of andere zakelijke prestaties staan.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat een bv een prestatievergoeding van € 700.000 niet van haar winst mag aftrekken. De bv maakt niet aannemelijk dat tegenover de betaling daadwerkelijk werkzaamheden of andere zakelijke prestaties staan.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv koopt in 2005 een rijksmonument en verbouwt dit tot een horecaruimte met vier bovenwoningen. Na de verbouwing exploiteert zij het pand door verhuur. In maart 2022 verkoopt en levert de bv het pand aan een derde. In haar aangifte vennootschapsbelasting 2022 brengt zij € 796.365 aan kosten in aftrek. De inspecteur corrigeert daarvan € 700.000. Volgens de bv betreft dit een prestatievergoeding dan wel aanvullende managementvergoeding aan twee gelieerde vennootschappen. Na de aankoop van het pand zouden mondeling afspraken zijn gemaakt over een vergoeding voor werkzaamheden rond de verbouwing, renovatie en uiteindelijke verkoop. Deze afspraken zijn pas na de verkoop in 2022 schriftelijk vastgelegd. In geschil is of de € 700.000 aftrekbaar is.</p>
+
+
+
+<h3 class="wp-block-heading">Geen reële tegenprestatie aangetoond</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat de bv aannemelijk moet maken dat tegenover de kosten een tegenprestatie staat of dat zij zijn gemaakt met het oog op de zakelijke belangen van de onderneming. Daarin slaagt zij niet. Het blijft onduidelijk welke concrete werkzaamheden zijn verricht, door wie en wanneer. Ook ontbreekt objectief bewijs uit de periode waarin de afspraken zouden zijn gemaakt. Het document uit november 2022 is pas na de verkoop van het pand opgesteld en de daarin opgenomen uren en tarieven zijn niet met objectieve gegevens onderbouwd. Dat mondelinge afspraken rechtsgeldig zijn en in de vastgoedbranche gebruikelijk zouden zijn, is onvoldoende. Ook de fiscale behandeling van de vergoeding bij de ontvangende vennootschappen is niet bepalend voor de aftrek bij de bv. De inspecteur heeft de € 700.000 daarom terecht gecorrigeerd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8 Wet Vpb 1969</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.8 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_6295" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 26-05-2026, ECLI:NL:RBNHO:2026:6295, 25/4770 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/10/horecapand.jpg" length="77993" type="image/jpeg" />	</item>
+		<item>
+		<title>WBSO wordt aangepast na evaluatie, tarieven blijven gelijk</title>
+		<link>https://www.taxence.nl/nieuws/wbso-wordt-aangepast-na-evaluatie-tarieven-blijven-gelijk/</link>
+					<comments>https://www.taxence.nl/nieuws/wbso-wordt-aangepast-na-evaluatie-tarieven-blijven-gelijk/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 07:39:36 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167466</guid>
+
+					<description><![CDATA[Het kabinet wil de WBSO toekomstbestendiger maken door administratieve lasten te verminderen en de afbakening van programmatuurontwikkeling in relatie tot AI te heroverwegen. De WBSO-tarieven en schijfgrens blijven in 2027 ongewijzigd.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de WBSO toekomstbestendiger maken door administratieve lasten te verminderen en de afbakening van programmatuurontwikkeling in relatie tot AI te heroverwegen. De WBSO-tarieven en schijfgrens blijven in 2027 ongewijzigd.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De WBSO is een algemene fiscale regeling om R&amp;D te stimuleren, zonder onderscheid naar bedrijf, thema of technologie. Het kabinet scherpt de doelstelling aan: generiek zo veel mogelijk R&amp;D-uitgaven stimuleren, zonder inhoudelijke sturing. Het toespitsen van de WBSO op radicale of disruptieve R&amp;D ligt niet voor de hand, mede omdat het generieke karakter ervoor zorgt dat de regeling buiten de Europese staatssteunregels valt.</p>
+
+
+
+<h2 class="wp-block-heading">Minder administratieve lasten</h2>
+
+
+
+<p class="wp-block-paragraph">Uit de evaluatie blijkt dat 82% van de gebruikers vindt dat de administratieve lasten in verhouding staan tot de baten. Toch ziet het kabinet ruimte voor verbetering. Vooral het onderbouwen van kosten en uitgaven wordt als knelpunt ervaren. Daarom wordt verkend of vaker verdeelsleutels kunnen worden gebruikt. Ook onderzoekt het kabinet met RVO een meer eenduidige lijn voor prototypes en een consistenter beoordelingsproces.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet kiest niet voor een incrementeel element om groeiende R&amp;D-uitgaven extra te stimuleren. Er is geen bewijs dat dit daadwerkelijk leidt tot een hogere doeltreffendheid. Ook wordt nu geen carry forward ingevoerd voor startups die hun toegekende afdrachtvermindering niet volledig kunnen verzilveren. Deze maatregel is op korte termijn niet uitvoerbaar en zou circa € 60 miljoen kosten, exclusief uitvoeringskosten.</p>
+
+
+
+<h2 class="wp-block-heading">Meer aandacht voor AI en programmatuur</h2>
+
+
+
+<p class="wp-block-paragraph">Het coalitieakkoord kondigt een verruiming voor AI aan. AI-gerelateerde projecten binnen de WBSO zijn de afgelopen vijf jaar met 77% toegenomen. Een verruiming uitsluitend voor AI is echter niet mogelijk. Daarom onderzoekt het kabinet breder of de WBSO nog goed aansluit op ontwikkelingen in het digitale domein.</p>
+
+
+
+<p class="wp-block-paragraph">Het WBSO-budget bedraagt in 2027 € 1,968 miljard. De tarieven blijven 36% in de eerste schijf, 50% voor starters en 16% in de tweede schijf. Ook de schijfgrens blijft € 391.020.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18919&amp;did=2026D43631" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z18919&amp;did=2026D43631" target="_blank" rel="noreferrer noopener">Prinsjesdagbrief ‘Opvolging evaluatie WBSO en tarieven in 2027’, Ministerie van Economische Zaken, 15 september 2026</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wbso-wordt-aangepast-na-evaluatie-tarieven-blijven-gelijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/Innovatiebox-768x432.jpg" length="29081" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt Kennisgroep ROW geactualiseerd</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kennisgroep-row-geactualiseerd/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kennisgroep-row-geactualiseerd/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 05:49:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167462</guid>
+
+					<description><![CDATA[De Kennisgroep ROW heeft standpunt KG:059:2025:3 geactualiseerd. In de geactualiseerde versie is een verwijzing opgenomen naar het standpunt van de kennisgroep aanmerkelijk belang met nummer KG:003:2026:4.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep ROW heeft standpunt KG:059:2025:3 geactualiseerd. In de geactualiseerde versie is een verwijzing opgenomen naar het standpunt van de kennisgroep aanmerkelijk belang met nummer KG:003:2026:4.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Werknemer X is in dienst bij Z BV. X houdt aandelen in Z BV die voor hem een lucratief belang vormen in de zin van art. 3.92b van de Wet IB 2001. X heeft de aandelen in jaar 1 verworven voor een bedrag van nihil. De aandelen hebben bij toekenning een waarde in het economische verkeer van € 100.</p>
+
+
+
+<p class="wp-block-paragraph">In de overeenkomst die X ter gelegenheid van het verwerven van de aandelen Z met zijn werkgever heeft gesloten, zijn onder andere een zgn. ‘good-leaver’- en een ‘bad-leaver’ bepaling opgenomen. Indien X als ‘bad leaver’ wordt aangemerkt, is hij verplicht om de aandelen Z aan zijn werkgever te koop aan te bieden tegen een vooraf bepaalde prijs die lager is dan de op dat moment geldende WEV.</p>
+
+
+
+<p class="wp-block-paragraph">X wordt in jaar 4 als ‘bad leaver’ aangemerkt en treedt uit dienst van Z BV. Op grond van de bepaling in de overeenkomst is hij bij uitdiensttreding verplicht om de aandelen aan zijn werkgever te koop aan te bieden tegen een prijs van € 500 en voor deze prijs worden de aandelen vervolgens ook afgenomen. De WEV van de aandelen is op dat moment € 800.</p>
+
+
+
+<p class="wp-block-paragraph">WEV lucratief belang jaar 1: € 100</p>
+
+
+
+<p class="wp-block-paragraph">Verkrijging van de aandelen in jaar 1: € 0</p>
+
+
+
+<p class="wp-block-paragraph">WEV lucratief belang jaar 4: € 800</p>
+
+
+
+<p class="wp-block-paragraph">Bad-leaver clausule, belanghebbende moet de aandelen aanbieden voor: € 500</p>
+
+
+
+<p class="wp-block-paragraph">Ter zake van de verkoop van de aandelen Z BV heeft X een winst gemaakt van € 500 -/- € 0 = € 500. Hij heeft immers in jaar 1 niets voor zijn aandelen hoeven betalen en hij biedt aan en verkoopt zijn aandelen in jaar 4 voor € 500. Als X geen bad leaver was geweest, had hij zijn aandelen in jaar 4 op de vrije markt kunnen verkopen tegen de op dat moment geldende WEV en daardoor een winst kunnen maken van € 800 -/- € 0 = € 800. X heeft door de bad leaververplichting een (papieren) verlies van € 300 gemaakt.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Heeft het op grond van HR 15 april 2016, <a href="https://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:635" target="_blank" rel="noreferrer noopener">ECLI:NL:HR:2016:635</a> (negatief loon), in aanmerking te nemen verlies invloed op de afwikkeling van de lucratiefbelangpositie?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. HR 15 april 2016, <a href="https://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:635" target="_blank" rel="noreferrer noopener">ECLI:NL:HR:2016:635</a>, heeft geen invloed op de afwikkeling van de lucratief belangpositie.</p>
+
+
+
+<p class="wp-block-paragraph">Hierbij kunnen zich twee varianten voordoen. Variant A: Indien bij de verkrijging van de aandelen bij wege van compromis rekening is gehouden met het prijseffect van de bad leaververplichting, verlaat de bad leaververplichting de loonsfeer. Daarna is geen sprake meer van een verplichting zoals bedoeld in HR 15 april 2016, <a href="https://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:635" target="_blank" rel="noreferrer noopener">ECLI:NL:HR:2016:635</a>. Het aandeel en de verplichting tot teruglevering worden vervolgens afgewikkeld in de resultaatsfeer. Deze variant kan zich na <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg20420256-negatief-loon/">KG:204:2025:6</a> in beginsel niet meer voordoen. Variant B: Indien bij de verkrijging van de aandelen geen rekening is gehouden met de bad leaververplichting, blijft deze verplichting in de loonsfeer. Bij de afwikkeling van de lucratiefbelangpositie kan daarmee dan ook geen rekening worden gehouden, het raakt de resultaatsfeer niet. Eerst na afwikkeling van de lucratiefbelangpositie kan het verlies op grond van HR 15 april 2016, <a href="https://deeplink.rechtspraak.nl/uitspraak?id=ECLI:NL:HR:2016:635" target="_blank" rel="noreferrer noopener">ECLI:NL:HR:2016:635</a>, in aanmerking worden genomen in de loonsfeer.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-row-geactualiseerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-kennisgroep-row-geactualiseerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 15 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Management- en werknemersparticipatie | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens deze masterclass komen in één dag de belangrijkste juridische en fiscale aspecten van management- en werknemersparticipaties aan bod. Daarbij wordt ingegaan op vragen als: wanneer kies je voor aandelen, opties, certificaten van aandelen, phantom shares, winstbewijzen, Stock Appreciation Rights of juist voor een winstafhankelijke bonus? Welke rechten en verplichtingen zijn hieraan voor de manager/werknemer verbonden? Wat kun je allemaal regelen, bijvoorbeeld wanneer een werknemer voortijdig ontslagen wordt? Hoeveel belasting is er door de manager/werknemer verschuldigd en zijn de kosten van de gekozen participatie wel aftrekbaar voor de onderneming?</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-789007fc-654a-4870-9532-8187b924093f" href="https://www.licentacademy.nl/opleidingen/masterclasses/2972/masterclass-management-en-werknemersparticipatie" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style class="advgb-styles-renderer">.advgbbtn-789007fc-654a-4870-9532-8187b924093f{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-789007fc-654a-4870-9532-8187b924093f:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-789007fc-654a-4870-9532-8187b924093f > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kennisgroep-row-geactualiseerd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/personeel-animatie.jpg" length="33494" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt looptijd bancaire nabestaandenlijfrente voor kind dat bijna 30 jaar is</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-looptijd-bancaire-nabestaandenlijfrente-voor-kind-dat-bijna-30-jaar-is/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-looptijd-bancaire-nabestaandenlijfrente-voor-kind-dat-bijna-30-jaar-is/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2026 05:27:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167464</guid>
+
+					<description><![CDATA[De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord over de looptijd van een bancaire nabestaandenlijfrente wanneer het tegoed door overlijden van de rekeninghouder toekomt aan een kind dat bijna dertig jaar oud is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord over de looptijd van een bancaire nabestaandenlijfrente wanneer het tegoed door overlijden van de rekeninghouder toekomt aan een kind dat bijna dertig jaar oud is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De rekeninghouder van een bancair lijfrenteproduct overlijdt. Op dat moment hebben nog geen uitkeringen plaatsgevonden. Ten gevolge van het overlijden is het kind van de rekeninghouder de gerechtigde tot het tegoed van deze lijfrenterekening. Op het moment van de eerste uitkering is het kind 29 jaar en elf maanden oud. Voor de uitkering wordt niet gekozen voor een looptijd van ten minste twintig jaar.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Mag de bancaire nabestaandenlijfrente in bovenstaande situatie in één termijn worden uitgekeerd?</li>
+
+
+
+<li>In welk jaar moeten de termijnen eindigen: in het kalenderjaar waarin het kind  dertig wordt of in het levensjaar waarin het kind dertig wordt?</li>
+
+
+
+<li>Mag een tijdelijke nabestaandenlijfrente worden afgesloten wanneer het kind op het moment van de eerste uitkering 29 jaar en elf maanden oud is en in dat kalenderjaar dertig wordt, waardoor de looptijd minder dan één jaar bedraagt?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Nee. De bancaire nabestaandenlijfrente moet in meerdere termijnen worden uitgekeerd.</li>
+
+
+
+<li>De termijnen moeten eindigen in het kalenderjaar waarin het kind dertig wordt.</li>
+
+
+
+<li>Ja.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-looptijd-bancaire-nabestaandenlijfrente-voor-kind-dat-bijna-30-jaar-is/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-looptijd-bancaire-nabestaandenlijfrente-voor-kind-dat-bijna-30-jaar-is/" target="_blank" rel="noreferrer noopener">Belastingdienst, 16 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-looptijd-bancaire-nabestaandenlijfrente-voor-kind-dat-bijna-30-jaar-is/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/lijfrente.jpg" length="21641" type="image/jpeg" />	</item>
+		<item>
+		<title>Wetsvoorstel Belastingplan 2027</title>
+		<link>https://www.taxence.nl/nieuws/wetsvoorstel-belastingplan-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/wetsvoorstel-belastingplan-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:17:59 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167399</guid>
+
+					<description><![CDATA[Het Belastingplan 2027 en de overige Prinsjesdagstukken zijn op dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Belastingplan 2027 en de overige Prinsjesdagstukken zijn op dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het <a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">pakket Belastingplan 2027</a> bestaat uit de volgende wetsvoorstellen:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Wetsvoorstel Belastingplan 2027</li>
+
+
+
+<li>Wetsvoorstel Overige Fiscale<br>Maatregelen 2027</li>
+
+
+
+<li>Wetsvoorstel veiligehavenregels Wet<br>minimumbelasting 2024</li>
+
+
+
+<li>Wetsvoorstel Wet fiscale stimulering<br>startups en scale-ups</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Wetsvoorstel Belastingplan 2027</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>Verhogen onbelaste reiskostenvergoeding en andere forfaitaire aftrekbedragen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De maximaal gericht vrijgestelde reiskostenvergoeding wordt structureel en met terugwerkende kracht tot en met 1 januari 2026 verhoogd van € 0,23 naar € 0,25 per kilometer. De verhoging geldt ook voor de aftrekbare reiskosten van ondernemers en resultaatgenieters. Daarnaast wordt het forfait voor bepaalde reiskosten binnen de aftrek voor specifieke zorgkosten, weekenduitgaven voor gehandicapten en giftenaftrek eveneens verhoogd naar € 0,25 per kilometer. Werkgevers zijn niet verplicht de hogere vergoeding daadwerkelijk toe te kennen.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Codificatie overgangsregeling versobering youngtimerregeling</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De overgangsregeling voor de versobering van de youngtimerregeling wordt wettelijk vastgelegd. Voor auto’s die in 2025 al ter beschikking zijn gesteld en in dat jaar de leeftijd van 15 jaar bereikten, mag gedurende 2026 de youngtimerregeling blijven worden toegepast zoals die gold op 31 december 2025. De regeling is optioneel en werkt terug tot en met 1 januari 2026. Ook wordt een omissie hersteld door de leeftijdsgrens voor de waarderingsgrondslag met terugwerkende kracht te verhogen naar 16 jaar.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Geleidelijker transitiepad youngtimerregeling</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De versobering van de youngtimerregeling wordt geleidelijker ingevoerd. De leeftijdsgrens stijgt per 1 januari 2027 niet naar 25 jaar, maar naar 17 jaar en per 1 januari 2028 naar 20 jaar. Voor auto’s die uiterlijk op 31 december 2025 al ter beschikking stonden, geldt in 2027 aanvullend overgangsrecht, waardoor auto’s die in dat jaar 17 jaar worden de regeling het hele jaar kunnen toepassen. Vanaf 2028 geldt voor alle auto’s structureel een leeftijdsgrens van 20 jaar.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verhogen aftrekpercentage energie-investeringsaftrek</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het aftrekpercentage van de energie-investeringsaftrek wordt per 1 januari 2027 verhoogd van 40% naar 45,5% van het investeringsbedrag. De regeling blijft gelden voor investeringen in aangewezen energiebesparende bedrijfsmiddelen en duurzame energie. Door de verhoging neemt het netto fiscale voordeel voor ondernemers toe, waardoor dergelijke investeringen financieel aantrekkelijker worden. De energie-investeringsaftrek blijft een eenmalige aanvullende aftrekpost op de winst.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Versoberen en afschaffen startersaftrek en startersaftrek bij arbeidsongeschiktheid</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De startersaftrek wordt per 1 januari 2027 verlaagd van € 2.123 naar € 10 en per 1 januari 2028 afgeschaft. Tegelijkertijd vervalt per 2028 de willekeurige afschrijving voor starters. De startersaftrek bij arbeidsongeschiktheid wordt per 1 januari 2029 afgeschaft. Er geldt geen overgangsrecht, waardoor de wijzigingen ook gevolgen hebben voor ondernemers die al vóór 2027 zijn gestart. Door het vervallen van deze regelingen kan het verzamelinkomen stijgen, wat ook gevolgen kan hebben voor het recht op toeslagen.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen aftrek van uitgaven voor specifieke zorgkosten</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De aftrek van uitgaven voor specifieke zorgkosten wordt per 1 januari 2028 afgeschaft. Daarmee vervalt ook de gekoppelde tegemoetkoming specifieke zorgkosten. De betreffende bepalingen in de Wet inkomstenbelasting 2001 en lagere regelgeving worden geschrapt of aangepast. Door het vervallen van de aftrek kan het verzamelinkomen van belastingplichtigen hoger uitvallen, wat gevolgen kan hebben voor inkomensafhankelijke regelingen en eigen bijdragen. Voor nagekomen betalingen of teruggaven na 1 januari 2028 geldt geen overgangsrecht.&nbsp;.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen bosbouwvrijstelling</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De bosbouwvrijstelling wordt per 1 januari 2029 afgeschaft. Hierdoor zijn voordelen uit bosbedrijf vanaf dat moment niet langer vrijgesteld van inkomstenbelasting of vennootschapsbelasting. Er wordt geen overgangsrecht voorgesteld. De afschaffing volgt op een negatieve evaluatie van de regeling en moet het belastingstelsel eenvoudiger maken. Een deel van de budgettaire opbrengst wordt via de begroting teruggesluisd naar natuurbeleid.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Bevriezen aftoppingsgrens pensioen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De aftoppingsgrens voor het pensioengevend loon en het inkomen waarover lijfrente kan worden opgebouwd, wordt van 2027 tot en met 2032 niet geïndexeerd. De grens blijft daardoor gedurende deze jaren op het niveau van 2026 van € 137.800. Over inkomen boven deze grens kan geen fiscaal gefaciliteerd pensioen of lijfrente worden opgebouwd. Met de maatregel wordt de eerder voor 2025 en 2026 toegepaste bevriezing met zes jaar verlengd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen gerichte vrijstelling branche-eigen producten</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De gerichte vrijstelling voor branche-eigen producten wordt afgeschaft. Daarmee vervalt de mogelijkheid om werknemers binnen deze vrijstelling maximaal 20% korting te geven op producten uit het eigen bedrijf, tot € 500 per werknemer per jaar. Werkgevers kunnen dergelijke kortingen voortaan onderbrengen in de vrije ruimte van de werkkostenregeling of als belast loon aanmerken. De bestaande waarderingsregel en de regeling voor kortingen aan oud-werknemers blijven in stand.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verruimen forfaitaire regeling in de innovatiebox</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De forfaitaire regeling in de innovatiebox wordt per 1 januari 2027 verruimd. Het maximale bedrag dat forfaitair als voordeel uit immateriële activa aan de innovatiebox kan worden toegerekend, stijgt van € 25.000 naar € 100.000 per jaar per belastingplichtige. Het percentage van 25% van de winst en de toepassingsduur van drie jaar blijven ongewijzigd. De verruiming moet de innovatiebox toegankelijker maken en de administratieve lasten, met name voor het midden- en kleinbedrijf, verlagen.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassing fiscale behandeling ingeprijsd valutaresultaat</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor boekjaren die aanvangen op of na 1 januari 2027 wordt de fiscale behandeling van valutaresultaten op afdekkingsinstrumenten aangepast. Alleen het niet-ingeprijsde valutaresultaat kan nog onder de deelnemingsvrijstelling vallen. Het ingeprijsde valutaresultaat behoort voortaan tot de belastbare winst. Daarnaast wordt verduidelijkt dat toepassing van de deelnemingsvrijstelling op een afdekkingsinstrument alleen op verzoek plaatsvindt en later ook kan worden beëindigd. Voor bestaande afdekkingsinstrumenten geldt overgangsrecht.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verlaging algemeen woningtarief overdrachtsbelasting van 8% naar 7%</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het algemeen woningtarief in de overdrachtsbelasting wordt verlaagd van 8% naar 7%. Dit tarief geldt voor woningen die de verkrijger niet zelf anders dan tijdelijk als hoofdverblijf gaat gebruiken, zoals huurwoningen, tweede woningen en vakantiehuizen. Het tarief van 2% voor hoofdverblijfwoningen en de startersvrijstelling blijven ongewijzigd. Met de verlaging wordt de belastingdruk bij de verkrijging van niet-hoofdverblijfwoningen verminderd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Nieuwe vrijstelling overdrachtsbelasting voor woningcorporaties</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Er komt een nieuwe vrijstelling in de overdrachtsbelasting voor overdrachten van onroerende zaken tussen woningcorporaties. De vrijstelling geldt alleen voor vastgoed dat nodig is voor het verrichten van bepaalde diensten van algemeen economisch belang. Andere onroerende zaken, zoals niet-DAEB-woningen en bedrijfsonroerendgoed, vallen er niet onder. Tegelijk wordt de bestaande vrijstelling voor taakoverdracht aangepast, zodat overlap tussen beide vrijstellingen wordt voorkomen en de uitvoering wordt vereenvoudigd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen verlaagd btw-tarief voor sierteelt</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het verlaagde btw-tarief voor sierteeltproducten wordt per 1 januari 2028 afgeschaft. Vanaf dat moment geldt voor onder meer snijbloemen, kamer- en tuinplanten, bloembollen en boomkwekerijproducten het algemene btw-tarief van 21% in plaats van 9%. De maatregel leidt daarmee tot een hogere btw-heffing op binnenlandse leveringen van deze producten en moet bijdragen aan een eenvoudiger en consistenter btw-stelsel.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen verlaagd btw-tarief ballonvaarten</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het verlaagde btw-tarief voor ballonvaarten wordt per 1 januari 2028 afgeschaft. Vanaf dat moment geldt het algemene btw-tarief van 21% in plaats van 9%. Voor vooruitbetalingen en vouchers geldt dat het btw-tarief wordt bepaald op het moment waarop de ballonvaart daadwerkelijk plaatsvindt. Een in 2027 vooruitbetaalde ballonvaart die in 2028 wordt uitgevoerd, valt daardoor onder het tarief van 21%.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tijdelijke verlaging van de motorrijtuigenbelasting voor bestelauto’s en vrachtauto’s</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor de periode van 1 juli tot en met 31 december 2026 wordt de motorrijtuigenbelasting voor bestelauto’s van ondernemers gehalveerd en voor vrachtauto’s tijdelijk op nihil gesteld. De verlaging is al via beleidsbesluit toegepast en wordt met terugwerkende kracht wettelijk vastgelegd. Het betreft een tijdelijke tegemoetkoming in de vaste lasten van ondernemers en vervoerders. Vanaf 1 januari 2027 gelden weer de reguliere wettelijke tarieven.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Beëindigen teruggaafregeling bio- en hernieuwbare brandstoffen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De teruggaafregeling voor bio- en hernieuwbare brandstoffen wordt beëindigd. De regeling biedt nu onder voorwaarden een gedeeltelijke teruggaaf van accijns voor motorbrandstoffen met een bepaald aandeel duurzame brandstoffen. Voor brandstoffen die uiterlijk op 31 december 2026 tot verbruik worden uitgeslagen, kan nog teruggaaf worden aangevraagd. Daarna vervalt de regeling. De afschaffing moet de uitvoering vereenvoudigen en administratieve lasten en foutgevoeligheid verminderen.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Indexering alcoholaccijns</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De accijns op alcohol en alcoholhoudende dranken wordt voortaan jaarlijks geïndexeerd. De tarieven voor bier, wijn, tussenproducten en overige alcoholhoudende producten worden automatisch aangepast aan de inflatie op basis van de tabelcorrectiefactor. Het minimumbedrag van de bieraccijns wordt niet geïndexeerd. Met de jaarlijkse indexatie wordt voorkomen dat de reële waarde van de alcoholaccijns door inflatie afneemt.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Afschaffen kleine brouwersregeling</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De kleine brouwersregeling wordt afgeschaft. Hierdoor vervalt het verlaagde accijnstarief voor bier dat wordt geproduceerd door kleine zelfstandige brouwerijen. Vanaf de afschaffing geldt voor hun bier hetzelfde reguliere accijnstarief als voor bier van andere brouwerijen. Daarmee vervalt ook de noodzaak om te toetsen aan de voorwaarden voor toepassing van de regeling. De maatregel vereenvoudigt de bieraccijns, maar leidt voor gebruikers van de regeling tot een hogere accijnslast.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verlengen accijnskorting voor ongelode benzine Europees Nederland</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De accijnskorting voor ongelode benzine wordt met één jaar verlengd tot 1 januari 2028. Per 1 januari 2027 stijgt het accijnstarief wel van € 0,84469 naar € 0,85169 per liter, maar vindt geen reguliere indexatie plaats. Daardoor blijft het tarief lager dan het basispad van € 1,02812 per liter. De verlenging is tijdelijk en geldt alleen voor ongelode benzine.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassingen afvalstoffenbelasting en CO2-heffing industrie voor afvalverbrandingsinstallaties</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De eerder voorziene lastenverzwaring voor afvalverbrandingsinstallaties wordt gematigd. Het tarief van de afvalstoffenbelasting wordt in 2028 verlaagd van € 92,82 naar € 64 per ton en loopt structureel op tot € 81 per ton vanaf 2030. Ook wordt de aanscherping van de CO2-heffing vertraagd: het tarief bereikt € 304 per ton CO2 pas in 2035 in plaats van 2030. De dispensatierechten worden eveneens pas in 2035 volledig afgebouwd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verhoging tarief belasting op leidingwater</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het tarief van de belasting op leidingwater wordt per 1 januari 2027 verhoogd met € 0,10 per kubieke meter. Het tarief stijgt daarmee van € 0,437 naar € 0,537 per kubieke meter, waarna het jaarlijks wordt geïndexeerd. Vanaf 2027 wordt bovendien alleen nog water van drinkwaterkwaliteit belast en vervalt het heffingsplafond van 50.000 kubieke meter. Hierdoor wordt belasting geheven over het volledige verbruik van water van drinkwaterkwaliteit.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verlagen hoge tarief vliegbelasting</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het hoge tarief van de vliegbelasting wordt per 1 januari 2027 verlaagd van € 74,81 naar € 59,43 per passagier. Dit tarief geldt voor eindbestemmingen die verder dan ongeveer 5.500 kilometer van Amsterdam liggen, zoals de Verenigde Staten, Zuid-Afrika en Indonesië. Het lage en middentarief blijven ongewijzigd. Met de verlaging wordt het hoge Nederlandse tarief gelijkgetrokken met het Duitse tarief en worden de kosten voor intercontinentale vluchten vanaf Nederlandse luchthavens verlaagd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Wijziging verlaagd energiebelastingtarief glastuinbouw</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De verlaagde energiebelastingtarieven voor de glastuinbouw worden voor 2027 aangepast om de meerkosten van de bijmengverplichting voor groen gas te compenseren. Daarbij worden de tarieven in de bestaande verlaagde schijven verlaagd en wordt het verlaagde tarief uitgebreid naar de derde schijf tot 10 miljoen m³ aardgas. De compensatie geldt alleen als de bijmengverplichting per 1 januari 2027 in werking treedt en is vooralsnog beperkt tot 2027.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verhoging belastingvrije kilometervergoeding en aanverwante regelingen BES-eilanden</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Op Bonaire, Sint Eustatius en Saba wordt het maximale kilometerbedrag met terugwerkende kracht tot en met 1 januari 2026 verhoogd van USD 0,20 naar USD 0,22. Dit geldt voor de aftrek van autokosten in de inkomstenbelasting, de belastingvrije kilometervergoeding in de loonbelasting en bepaalde autokosten binnen de buitengewone lasten. De maatregel codificeert het eerder gepubliceerde beleidsbesluit naar aanleiding van de hogere brandstofprijzen.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verlaging benzineaccijns BES-eilanden</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De benzineaccijns op Bonaire, Sint Eustatius en Saba wordt tijdelijk verlaagd van 1 januari tot en met 31 december 2027. Op Bonaire bedraagt de verlaging USD 0,055 per liter en op Sint Eustatius en Saba USD 0,0419 per liter. De maatregel sluit aan bij de tijdelijke accijnskorting voor ongelode benzine in Europees Nederland. Op de BES-eilanden wordt van de brandstoffen uitsluitend benzine met accijns belast.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Tijdelijk verlagen vrachtwagenheffing</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De tarieven van de vrachtwagenheffing worden tijdelijk met 22,3% verlaagd voor de periode van 1 september tot en met 31 december 2026. De korting geldt voor alle tariefcomponenten en voor alle houders van vrachtwagens. De verlaging is al via een goedkeurend beleidsbesluit toegepast en wordt met terugwerkende kracht wettelijk vastgelegd. Houders hoeven hiervoor geen actie te ondernemen; de lagere tarieven worden automatisch verwerkt door de dienstaanbieders.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Uitzondering woningcorporaties van renteaftrekbeperking</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Woningcorporaties worden uitgezonderd van de earningsstrippingmaatregel in de vennootschapsbelasting. Hierdoor wordt hun renteaftrek minder beperkt en neemt hun financiële ruimte voor investeringen toe. De maatregel wordt via een nota van wijziging op het Belastingplan 2027 ingevoerd. Door de verruiming kunnen woningcorporaties meer financiering aantrekken en ontstaat bij het Waarborgfonds Sociale Woningbouw meer ruimte voor borging van leningen voor nieuwe projecten.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">Belastingplan 2027, 15 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wetsvoorstel-belastingplan-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Prinsjesdag-2025_edited.jpg" length="53544" type="image/jpeg" />	</item>
+		<item>
+		<title>Wetsvoorstel Overige fiscale maatregelen 2027</title>
+		<link>https://www.taxence.nl/nieuws/wetsvoorstel-overige-fiscale-maatregelen-2027/</link>
+					<comments>https://www.taxence.nl/nieuws/wetsvoorstel-overige-fiscale-maatregelen-2027/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:15:00 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167402</guid>
+
+					<description><![CDATA[Het Wetsvoorstel Overige Fiscale maatregelen 2027 is op dinsdag 15 september 2026 aangeboden aan de Tweede Kamer. ]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Wetsvoorstel Overige Fiscale maatregelen 2027 is op dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.</strong> </p>
+
+
+
+<p class="wp-block-paragraph">Het <a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">Wetsvoorstel Overige Fiscale maatregelen 2027</a> bestaat uit de volgende maatregelen:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Uitsluiten samenloop faciliteit vererfd aanmerkelijk belang en fictief regulier voordeel</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Per 1 januari 2027 wordt uitgesloten dat de faciliteit voor een vererfd aanmerkelijk belang kan worden toegepast op een fictief regulier voordeel wegens excessief lenen bij de eigen vennootschap. Hierdoor kan de faciliteit niet worden gebruikt om box 2-heffing over bovenmatige schulden uit te stellen. De maatregel voorkomt daarnaast mogelijke dubbele belasting die kan ontstaan doordat toepassing van de faciliteit de verkrijgingsprijs van het aanmerkelijk belang verlaagt.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Vaststelling verkrijgingsprijs bij zetelverplaatsing naar Nederland</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Bij zetelverplaatsing van een vennootschap naar Nederland wordt de verkrijgingsprijs van het aanmerkelijk belang bij het ontstaan van buitenlandse belastingplicht vastgesteld op de waarde in het economische verkeer op dat moment. Hierdoor wordt in box 2 alleen de waardeontwikkeling belast die na de zetelverplaatsing naar Nederland ontstaat. Voor situaties waarin de aandeelhouder eerder al buitenlands belastingplichtig was voor hetzelfde aanmerkelijk belang, worden afzonderlijke regels gesteld.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Wijzigingen pseudo-eindheffing voor fossiele personenauto’s</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De pseudo-eindheffing voor fossiele personenauto’s wordt op verschillende punten aangepast. Vervangende fossiele auto’s bij onderhoud of reparatie blijven maximaal veertien dagen buiten de heffing en handgeschakelde lesauto’s worden uitgezonderd. Het overgangsrecht voor bestaande auto’s wordt verlengd tot en met 31 december 2030 en uitgebreid voor kortdurende huur- en deelauto’s. Daarnaast komt er een anticumulatiebepaling om dubbele heffing met de pseudo-eindheffing voor excessieve vertrekvergoedingen te voorkomen.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verduidelijking begrip publieke middelen in onderwijs- en onderzoeksvrijstelling</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">In de onderwijs- en onderzoeksvrijstelling in de vennootschapsbelasting wordt verduidelijkt wanneer sprake is van bekostiging uit publieke middelen. Publieke middelen gelden niet als zodanig wanneer daar een contractuele tegenprestatie tegenover staat. Commercieel onderwijs of onderzoek dat in opdracht van een publiekrechtelijke rechtspersoon of privaatrechtelijk overheidslichaam tegen betaling wordt verricht, valt daardoor niet onder de vrijstelling. Met de verduidelijking wordt geen inhoudelijke wijziging van de bestaande regeling beoogd.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Schrappen onzakelijkheidsvermoeden in de bedrijfsfusie- en splitsingsfaciliteit</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Het bewijsvermoeden dat een bedrijfsfusie of splitsing niet op zakelijke overwegingen berust wanneer een betrokken lichaam binnen drie jaar wordt vervreemd aan een niet-verbonden lichaam, wordt geschrapt. Daardoor ligt de bewijslast in die situaties bij de inspecteur. Die kan de faciliteit nog steeds weigeren als hij aannemelijk maakt dat de reorganisatie is gericht op het ontgaan of uitstellen van belastingheffing. Ook vervalt de mogelijkheid om hierover vooraf zekerheid te krijgen.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Teruggaafregeling dividendbelasting voor Nederlandse achterliggers in buitenlandse beleggingsinstellingen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Er komt een teruggaafregeling voor Nederlandse beleggers die via een buitenlandse beleggingsinstelling gerechtigd zijn tot Nederlandse dividenden. Zij kunnen vanaf 2027 onder voorwaarden teruggaaf vragen van de Nederlandse dividendbelasting die ten laste van de buitenlandse beleggingsinstelling is ingehouden. Daarmee wordt voorkomen dat zij economisch zwaarder worden belast dan beleggers die via een Nederlandse fiscale beleggingsinstelling beleggen. De teruggaaf wordt in beginsel berekend met een wettelijke formule, met een vangnet voor afwijkende situaties.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassingen koolstofheffing aan de grens</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De Nederlandse uitvoering van het koolstofmechanisme aan de grens wordt verder uitgewerkt. Verbodsbepalingen die nu in een ministeriële regeling staan, worden opgenomen in de Wet milieubeheer en de grondslag voor zulke bepalingen in lagere regelgeving vervalt. Ook komt er een wettelijke basis voor gegevensuitwisseling tussen de Nederlandse Emissieautoriteit en de Belastingdienst. Daarnaast wordt de boeteregeling versoepeld, zodat bij kleine of onopzettelijke overtredingen een lagere boete kan worden opgelegd.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassing verwijzing naar verordening overbrenging van afvalstoffen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De verwijzingen in de Wet belastingen op milieugrondslag naar de oude Europese verordening voor grensoverschrijdende afvaltransporten worden technisch aangepast. Verwijzingen naar de EVOA 2006 worden vervangen door de corresponderende bepalingen uit de EVOA 2024. De inhoudelijke systematiek van de afvalstoffenbelasting verandert niet. Voor afvaltransporten waarvoor nog een toestemming op grond van de EVOA 2006 geldt, wordt overgangsrecht opgenomen zodat daarover ook na 1 januari 2027 nog afvalstoffenbelasting kan worden geheven.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Verduidelijking in de CO₂-heffing glastuinbouw</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor de CO₂-heffing glastuinbouw wordt verduidelijkt wie belastingplichtig is bij samenwerkingsverbanden zonder rechtspersoonlijkheid. Bij een maatschap of vennootschap onder firma rust de belastingplicht op het samenwerkingsverband dat het glastuinbouwbedrijf als onderneming drijft en niet op de afzonderlijke maten of vennoten. De wijziging krijgt terugwerkende kracht en heeft geen gevolgen voor de hoogte van de verschuldigde heffing. De maatregel verduidelijkt uitsluitend op welk niveau de heffing wordt vastgesteld en ingevorderd.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassing definitie eindbestemming passagier</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De definitie van de eindbestemming voor de vliegbelasting wordt aangevuld voor situaties waarin geen vervoersovereenkomst is afgesloten, zoals bij privévluchten met een eigen vliegtuig. In die gevallen mag de eindbestemming voortaan worden aangetoond met het vliegplan. Daarmee wordt voorkomen dat automatisch het hoogste tarief van de vliegbelasting geldt als geen vervoersovereenkomst beschikbaar is. Voor situaties waarin wel een vervoersovereenkomst is afgesloten, blijft de bestaande systematiek ongewijzigd.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Uitvoering nieuwe Douanewetboek van de Unie</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">De Algemene douanewet wordt aangepast om uitvoering te kunnen geven aan het nieuwe Douanewetboek van de Unie. Definities en delegatiegrondslagen worden uitgebreid zodat zij ook op het nieuwe douanewetboek aansluiten. Daarnaast komt er een wettelijke grondslag voor het innen van door het nieuwe douanewetboek voorgeschreven vergoedingen, waaronder de afhandelingsvergoeding bij afstandsverkopen. Die vergoeding kan daardoor op dezelfde wijze worden geheven en geïnd als invoerrechten en kosten van werkzaamheden.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Aanpassen inwonersaantallen BES-eilanden</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor de berekening van de tabelcorrectiefactor in de Wet inkomstenbelasting BES wordt voortaan automatisch aangesloten bij de inwonersaantallen die het Centraal Bureau voor de Statistiek per 1 januari vaststelt. Daardoor hoeven de inwonersaantallen niet langer jaarlijks in de wet te worden aangepast. De berekening van de tabelcorrectiefactor zelf verandert niet. Deze factor blijft onder meer bepalend voor de jaarlijkse inflatiecorrectie van de ouderentoeslag, schijfgrenzen en premiegrens.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Uitzondering Belastingdienst enkele elektronische berichtenstromen</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor enkele digitale berichten van de Belastingdienst komt tijdelijk een uitzondering op de verplichting om in de notificatie informatie op te nemen over de aard en rechtsgevolgen van het bericht en een eventuele handeltermijn. Het gaat om de uitnodiging tot aangifte inkomstenbelasting, de voorlopige aanslag en de aanslag inkomstenbelasting. De uitzondering geldt gedurende 2027, zodat de Belastingdienst deze verplichting gefaseerd kan invoeren. Vanaf 1 januari 2028 vervalt de uitzondering.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Uitzonderen berichten aan de Dienst Toeslagen Wet modernisering elektronisch bestuurlijk verkeer</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Voor bepaalde berichtenstromen van de Dienst Toeslagen wordt tijdelijk een uitzondering gemaakt op de verplichting om elektronische berichten te kunnen ontvangen. Het gaat met name om berichten over inning en terugvordering waarvoor de benodigde ICT-aanpassingen nog niet gereed zijn. De uitzondering geldt tot 1 januari 2030 en wordt alleen toegepast voor zover dat noodzakelijk is. De overige verplichtingen uit de gemoderniseerde Algemene wet bestuursrecht blijven zoveel mogelijk van toepassing.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">Belastingplan 2027, 15 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wetsvoorstel-overige-fiscale-maatregelen-2027/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Prinsjesdag-2025_edited.jpg" length="53544" type="image/jpeg" />	</item>
+		<item>
+		<title>Wetsvoorstel veiligehavenregels Wetminimumbelasting 2024</title>
+		<link>https://www.taxence.nl/nieuws/wetsvoorstel-veiligehavenregels-wetminimumbelasting-2024/</link>
+					<comments>https://www.taxence.nl/nieuws/wetsvoorstel-veiligehavenregels-wetminimumbelasting-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167404</guid>
+
+					<description><![CDATA[Het Wetsvoorstel veiligehavenregels Wet minimumbelasting 2024 is dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Wetsvoorstel veiligehavenregels Wet minimumbelasting 2024 is dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Wet minimumbelasting 2024 krijgt vier nieuwe veiligehavenregels. Zo kunnen grote internationale en binnenlandse groepen onder voorwaarden een vereenvoudigde berekening gebruiken als het effectieve belastingtarief ten minste 15% bedraagt. Ook komen er veiligehavens voor groepen met een moedermaatschappij in een land met een gelijkwaardig minimumbelastingstelsel en voor bepaalde fiscale stimuleringsregelingen. Onder meer de energie-, milieu- en kleinschaligheidsinvesteringsaftrek kunnen daardoor gunstiger uitwerken bij de minimumbelasting. Daarnaast wordt de tijdelijke landenrapportregeling met een jaar verlengd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron:<a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512"> </a><a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">Belastingplan 2027, 15 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wetsvoorstel-veiligehavenregels-wetminimumbelasting-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Prinsjesdag-2025_edited.jpg" length="53544" type="image/jpeg" />	</item>
+		<item>
+		<title>Wetsvoorstel Wet fiscale stimulering startups en scale-ups</title>
+		<link>https://www.taxence.nl/nieuws/wetsvoorstel-wet-fiscale-stimulering-startups-en-scale-ups/</link>
+					<comments>https://www.taxence.nl/nieuws/wetsvoorstel-wet-fiscale-stimulering-startups-en-scale-ups/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 13:52:00 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167406</guid>
+
+					<description><![CDATA[Het Wetsvoorstel Wet fiscale stimulering startups en scale-ups is dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Wetsvoorstel Wet fiscale stimulering startups en scale-ups is dinsdag 15 september 2026 aangeboden aan de Tweede Kamer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Werknemers van kwalificerende start-ups en scale-ups krijgen een gunstiger fiscale behandeling van aandelenopties. In beginsel vindt belastingheffing pas plaats bij verkoop van de verkregen aandelen en wordt slechts 65% van het voordeel tot het loon gerekend. Nu wordt doorgaans geheven zodra de aandelen verhandelbaar worden. De werknemer kan kiezen voor eerdere heffing. De regeling is beoogd vanaf 2027 en geldt alleen als aan specifieke voorwaarden wordt voldaan, waaronder in beginsel een minimale periode van twee jaar tussen toekenning en verkoop.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Ter dekking worden de meewerkaftrek en stakingsaftrek eerst met ongeveer 75% versoberd en drie jaar later volledig afgeschaft. De meewerkaftrek voor ondernemers van wie de partner onbetaald meewerkt, daalt afhankelijk van het aantal meegewerkte uren, bijvoorbeeld van 4% naar 1% van de winst en van 2% naar 0,5%. De stakingsaftrek daalt eerst van maximaal € 3.630 naar € 908. Na afschaffing wordt bij staking dus een groter deel van de stakingswinst belast.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Let op!</strong>&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Door de lagere meewerkaftrek stijgt het verzamelinkomen. Controleer daarom of voorschotten voor inkomensafhankelijke toeslagen moeten worden aangepast.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" data-type="link" data-id="https://open.overheid.nl/details/6149e1f7-6c4e-49af-a0ed-f6262ee57512" target="_blank" rel="noreferrer noopener">Belastingplan 2027, 15 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wetsvoorstel-wet-fiscale-stimulering-startups-en-scale-ups/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/09/Prinsjesdag-2025_edited.jpg" length="53544" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet zoekt breed draagvlak voor aanpassing box 3</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-zoekt-breed-draagvlak-voor-aanpassing-box-3/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-zoekt-breed-draagvlak-voor-aanpassing-box-3/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 13:40:32 +0000</pubDate>
+				<category><![CDATA[Belastingplan]]></category>
+		<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167445</guid>
+
+					<description><![CDATA[Het kabinet wil zo snel mogelijk tot concrete en breed gedragen voorstellen voor box 3 komen, maar ziet dat de steun voor aanpassingen en de dekking daarvan sterk uiteenloopt. Minister Heinen en staatssecretaris Eerenberg leggen vier scenario’s voor en vragen om uitstel van de behandeling van de Wet werkelijk rendement box 3.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil zo snel mogelijk tot concrete en breed gedragen voorstellen voor box 3 komen, maar ziet dat de steun voor aanpassingen en de dekking daarvan sterk uiteenloopt. Minister Heinen en staatssecretaris Eerenberg leggen vier scenario’s voor en vragen om uitstel van de behandeling van de Wet werkelijk rendement box 3.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De aanpassing van het huidige box 3-stelsel is volgens het kabinet een complex vraagstuk. Sinds de invoering in 2001 wordt belasting geheven op basis van forfaits. Door arresten van de Hoge Raad moeten belastingplichtigen met een lager werkelijk rendement dan het forfaitaire rendement de mogelijkheid krijgen dit aannemelijk te maken. Het huidige forfaitaire stelsel met tegenbewijs kent echter belangrijke nadelen en leidt tot een forse jaarlijkse budgettaire derving.</p>
+
+
+
+<p class="wp-block-paragraph">Met de Wet werkelijk rendement box 3 kan vanaf 2028 structureel belasting worden geheven over het werkelijke rendement. Kosten en verliezen kunnen worden verrekend en voor onroerende zaken geldt een vermogenswinstbelasting, waardoor waardeontwikkeling pas bij realisatie wordt belast. Tijdens de parlementaire behandeling is echter kritiek geuit op met name de vermogensaanwassystematiek en de mogelijke gevolgen voor het investeringsklimaat.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast wil het kabinet het nieuwe stelsel doorontwikkelen naar een vermogenswinstsystematiek. Daarbij ontstaat een budgettair dilemma: een vermogenswinstbelasting leidt in de eerste jaren tot forse derving doordat belasting pas bij realisatie wordt geheven, terwijl ook het langer voortzetten van de tegenbewijsregeling geld kost.</p>
+
+
+
+<h2 class="wp-block-heading">Vier mogelijke routes</h2>
+
+
+
+<p class="wp-block-paragraph">Het kabinet beschrijft vier scenario’s. Scenario 1 bevat verbeteringen aan het bestaande wetsvoorstel, waaronder een carry-back, een lagere belastingdruk en verbeteringen voor mensen die te maken hebben met levensgebeurtenissen zoals huwelijk of scheiding. Ook kan duurzaam beleggen worden gestimuleerd en is een wetsvoorstel uitgewerkt om de behandeling van start- en scale-ups te verbeteren. De fundamentele bezwaren tegen een vermogensaanwasbelasting worden hiermee niet weggenomen.</p>
+
+
+
+<p class="wp-block-paragraph">In scenario 2 wordt de Wet werkelijk rendement box 3 vanaf 2028 als tussenstap ingevoerd, waarna in 2030 een volledige vermogenswinstbelasting kan volgen. Scenario 3 trekt het wetsvoorstel juist in. Het huidige forfaitaire stelsel met tegenbewijs blijft dan tot 2030 bestaan. Deze route kent de hoogste cumulatieve budgettaire derving.</p>
+
+
+
+<p class="wp-block-paragraph">Scenario 4 breidt de vermogenswinstbelasting al vanaf 2028 uit naar alle financiële instrumenten. Daarmee valt circa 90% van het vermogen met waardeontwikkeling in box 3 onder een vermogenswinstbelasting. Deze snelle route doet volgens het kabinet echter een groot beroep op het doenvermogen van belastingplichtigen en heeft ingrijpende gevolgen voor de uitvoerbaarheid en handhaving.</p>
+
+
+
+<h2 class="wp-block-heading">Breed politiek draagvlak nodig</h2>
+
+
+
+<p class="wp-block-paragraph">Alle oplossingsrichtingen gaan gepaard met een aanzienlijke budgettaire derving die volgens de begrotingsregels moet worden gedekt. Ook ieder jaar dat de tegenbewijsregeling langer blijft bestaan, heeft budgettaire gevolgen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet benadrukt daarom dat een wijziging van box 3 om een zorgvuldige afweging en breed politiek draagvlak vraagt. Het wil met de Kamer bespreken waar overeenstemming kan worden gevonden en wat nodig is voor een breed gedragen voorstel. De Eerste Kamer wordt gevraagd de behandeling van de Wet werkelijk rendement box 3 voorlopig aan te houden.</p>
+
+
+
+<p class="wp-block-paragraph">Bron:<em> </em><a href="https://open.overheid.nl/details/725d631a-cdd0-4f19-bb0c-8b24a33828a4" data-type="link" data-id="https://open.overheid.nl/details/725d631a-cdd0-4f19-bb0c-8b24a33828a4" target="_blank" rel="noreferrer noopener">Kamerbrief voortgang box 3, Ministerie van Financien, 16 september 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-zoekt-breed-draagvlak-voor-aanpassing-box-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/adviseur-box3.jpg" length="37554" type="image/jpeg" />	</item>
+		<item>
+		<title>Twijfel over facturen blokkeert aftrek voorbelasting</title>
+		<link>https://www.taxence.nl/nieuws/twijfel-over-facturen-blokkeert-aftrek-voorbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/twijfel-over-facturen-blokkeert-aftrek-voorbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2026 05:43:02 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Omzetbelasting (btw)]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167408</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant oordeelt dat een bv onvoldoende aannemelijk maakt dat zij recht heeft op de volledige aftrek van voorbelasting. De inspecteur heeft de niet-onderbouwde voorbelasting daarom terecht nageheven.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant oordeelt dat een bv onvoldoende aannemelijk maakt dat zij recht heeft op de volledige aftrek van voorbelasting. De inspecteur heeft de niet-onderbouwde voorbelasting daarom terecht nageheven.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv verricht belaste prestaties en krijgt na een boekenonderzoek naheffingsaanslagen omzetbelasting over 2018 en 2019. In bezwaar legt zij facturen over ter onderbouwing van de afgetrokken voorbelasting, waarna de inspecteur een deel van de aftrek alsnog accepteert. Voor het resterende deel ontbreken facturen of is volgens de inspecteur onduidelijk of de kosten zakelijk zijn of privé-uitgaven van de dga betreffen. Bij enkele facturen betwist hij bovendien dat de bv daadwerkelijk de afnemer van de diensten is. De bv stelt dat zij recht heeft op de volledige aftrek.</p>
+
+
+
+<h3 class="wp-block-heading">Bv levert onvoldoende bewijs</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt voorop dat de bv aannemelijk moet maken dat zij recht heeft op aftrek van voorbelasting. De inspecteur heeft voldoende twijfel gezaaid over de vraag of de prestaties daadwerkelijk aan de bv zijn verricht en of de kosten zakelijk zijn. Van de bv mag daarom nader bewijs worden verlangd. Zij maakt echter niet concreet welke bedragen en facturen betrekking hebben op aan haar verrichte prestaties. Ook voor bedragen waarvoor facturen ontbreken, levert zij geen ander bewijs. De inspecteur heeft de aftrek daarom terecht geweigerd.</p>
+
+
+
+<h3 class="wp-block-heading">Verzuimboetes terecht opgelegd</h3>
+
+
+
+<p class="wp-block-paragraph">Ook de verzuimboetes van 10% zijn volgens de rechtbank terecht. De bv maakt niet aannemelijk dat sprake is van afwezigheid van alle schuld of een pleitbaar standpunt. Wel wordt de boete over 2019 wegens overschrijding van de redelijke termijn verminderd van € 2.225 tot € 2.002. De naheffingsaanslagen blijven in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002629-15-1?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 15 lid 1 Wet OB 1968</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron:<strong> </strong><a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_8414" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 03-09-2026, ECLI:NL:RBZWB:2026:8414, BRE 25/2118 en 25/2119 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/twijfel-over-facturen-blokkeert-aftrek-voorbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/190719071557.Factuur6.resized.2880x2880_cropped-26-0-0-0-0-1.png" length="536348" type="image/png" />	</item>
+	</channel>
+</rss>

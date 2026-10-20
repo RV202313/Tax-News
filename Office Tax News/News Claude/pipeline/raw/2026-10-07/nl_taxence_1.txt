@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Wed, 07 Oct 2026 09:28:19 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AI Governance &#038; Compliance: Veilige toepassing van AI in juridische/fiscale praktijk &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/ai-governance-compliance-veilige-toepassing-van-ai-in-juridische-fiscale-praktijk-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/ai-governance-compliance-veilige-toepassing-van-ai-in-juridische-fiscale-praktijk-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 09:28:17 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[AI & Tax Technology]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[Verdiepingscursussen]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167169</guid>
+
+					<description><![CDATA[Ethisch verantwoord prompten &#124; AI Compliancy &#124; Fiscaal/Juridische Praktijk LET OP: LAPTOP MEENEMEN Generatieve AI (GenAI) transformeert de fiscale en juridische sector in rap tempo. In advocatenkantoren, rechtbanken, gemeentelijke juridische afdelingen en het bedrijfsleven maken juristen dagelijks gebruik van tools als ChatGPT, Microsoft Copilot, Perplexity en GenIA-L. Deze tools maken het mogelijk om sneller en<a class="read-more" href="https://www.taxence.nl/agenda/ai-governance-compliance-veilige-toepassing-van-ai-in-juridische-fiscale-praktijk-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Ethisch verantwoord prompten | AI Compliancy | Fiscaal/Juridische Praktijk</p>
+<p>LET OP: LAPTOP MEENEMEN</p>
+<p>Generatieve AI (GenAI) transformeert de fiscale en juridische sector in rap tempo. In advocatenkantoren, rechtbanken, gemeentelijke juridische afdelingen en het bedrijfsleven maken juristen dagelijks gebruik van tools als ChatGPT, Microsoft Copilot, Perplexity en GenIA-L. Deze tools maken het mogelijk om sneller en effectiever onderzoek en werk te verrichten. Maar met deze revolutie komen ook fundamentele vragen over verantwoord gebruik: hoe zorg je dat AI-inzet past binnen juridisch-ethische kaders en voldoet aan geldende regelgeving?</p>
+<p>Deze cursus biedt advocaten, rechters, bedrijfsjuristen, gemeentejuristen en andere juridische professionals een complete reis door de wereld van GenAI in de rechtspraktijk. Je leert niet alleen hands-on werken met verschillende GenAI-tools en de kunst van effectief &#8216;prompten&#8217;, maar verdiept je ook in de ethische implicaties en compliance-vereisten.</p>
+<p>Van praktische vaardigheden tot risicobeheer, van ethische dilemma&#8217;s tot implementatiestrategieën: deze training rust fiscale en juridische professionals uit met alle kennis en vaardigheden voor verantwoorde (Gen)AI-adoptie in hun specifieke werkomgeving. Daarbij is er specifieke aandacht voor beroepsethiek, gedragscodes en de naleving van zowel huidige als aankomende regelgeving zoals de EU AI Act.</p>
+<p>De training is zowel geschikt voor juristen en advocaten die net beginnen met AI als voor professionals die hun bestaande GenAI-kennis op praktische wijze willen verdiepen met aandacht voor ethiek en compliance.</p>
+<p><strong>Leerdoelen</strong><br />Na deze training heb je inzicht in:<br />&#8211; De ethische en juridische implicaties van AI-gebruik voor fiscalisten en juristen.<br />&#8211; Ethisch verantwoorde prompts formuleren voor fiscaal/juridisch onderzoek, met aandacht voor transparantie en het voorkomen van bias.<br />&#8211; AI-tools veilig en compliant inzetten volgens de AVG en AI Act, met oog voor gegevensbescherming en geheimhoudingsplicht.<br />&#8211; Korte, middellange en lange termijn risico’s rond generatieve GenAI-gebruik.<br />&#8211; Verantwoorde integratie in fiscale/juridische processen, zonder ethische grenzen of compliance-regels te schenden.</p>
+<p><strong>Voor wie?</strong><br />Deze cursus is bedoeld voor advocaten, juristen, beleidsmakers en ambtenaren die AI-tools willen gebruiken, met aandacht voor ethiek, privacy en regelgeving.</p>
+<p><strong>Inschrijven kan via onderstaande link:<br /></strong><a href="https://www.sdujuridischeopleidingen.nl/producten/9304/cursus-ai-governance-compliance-veilige-toepassing-van-ai-in-juridischefiscale-praktijk">Inschrijven AI Governance &amp; Compliance: Veilige toepassing van AI in juridische/fiscale praktijk</a></p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/verdiepingscursussen/3149/ai-governance-compliance-veilige-toepassing-van-ai-in-juridische-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/ai-governance-compliance-veilige-toepassing-van-ai-in-juridische-fiscale-praktijk-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Te lage vergoeding voor werk bv kinderen belast als resultaat</title>
+		<link>https://www.taxence.nl/nieuws/te-lage-vergoeding-voor-werk-bv-kinderen-belast-als-resultaat/</link>
+					<comments>https://www.taxence.nl/nieuws/te-lage-vergoeding-voor-werk-bv-kinderen-belast-als-resultaat/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 09:13:39 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168073</guid>
+
+					<description><![CDATA[Gerechtshof ’s-Hertogenbosch oordeelt dat een man die tegen een onzakelijk lage vergoeding werkzaamheden verricht voor de bv van zijn kinderen, resultaat uit overige werkzaamheden geniet. De vergrijpboete vervalt wel, omdat de man een pleitbaar standpunt had.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof ’s-Hertogenbosch oordeelt dat een man die tegen een onzakelijk lage vergoeding werkzaamheden verricht voor de bv van zijn kinderen, resultaat uit overige werkzaamheden geniet. De vergrijpboete vervalt wel, omdat de man een pleitbaar standpunt had.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man en zijn echtgenote verkeren sinds 2016 in privéfaillissement. Hun zoon en dochter zijn ieder voor 50% indirect aandeelhouder van een bv die onder meer een paardenpension, mesthandel en transportactiviteiten exploiteert. De man verricht voor deze bv uiteenlopende werkzaamheden. Hij stuurt de administratie aan, sluit contracten af en werkt als chauffeur. Hij ontvangt hiervoor slechts een beperkte vergoeding. De man verklaart dat hij geen inkomen op eigen naam wil genereren, omdat dit vanwege zijn faillissement aan de curator zou toevallen. De inspecteur rekent daarom voor 2019 € 64.659 en voor 2020 € 64.581 tot het resultaat uit overige werkzaamheden. In geschil is of dit terecht is en of de vergrijpboete in stand kan blijven.</p>
+
+
+
+<h3 class="wp-block-heading">Zakelijke vergoeding behoort tot resultaat</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de werkzaamheden een bron van inkomen vormen. De man neemt deel aan het economische verkeer en een voordeel is objectief te verwachten. De werkzaamheden vinden niet plaats in dienstbetrekking, omdat een gezagsverhouding ontbreekt. Dat de man het behaalde voordeel grotendeels niet zelf wil ontvangen, verandert dit niet. Omdat hij vanwege de familieband met zijn kinderen bewust tegen een te lage vergoeding werkt, moet zijn resultaat worden gecorrigeerd naar een zakelijke vergoeding. Het hof acht voor zijn leidinggevende, commerciële en uitvoerende werkzaamheden een vergoeding van minimaal € 70.000 bruto per jaar passend. De door de inspecteur toegepaste correcties zijn daarom niet te hoog.</p>
+
+
+
+<h3 class="wp-block-heading">Pleitbaar standpunt voorkomt vergrijpboete</h3>
+
+
+
+<p class="wp-block-paragraph">De vergrijpboete houdt geen stand. Volgens het hof biedt de bestaande rechtspraak weinig concrete aanknopingspunten voor de vraag wanneer meer dan de daadwerkelijk ontvangen vergoeding tot het resultaat uit overige werkzaamheden moet worden gerekend. De man kon daarom redelijkerwijs menen dat hij alleen de daadwerkelijk ontvangen vergoeding hoefde aan te geven. Er is sprake van een pleitbaar standpunt, zodat geen vergrijpboete kan worden opgelegd.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.90?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.90</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.94?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">3.94 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1941#ECLI_NL_GHSHE_2026_1941_inhoudsindicatie" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 22-07-2026, ECLI:NL:GHSHE:2026:1941, 24/1443 en 24/1444 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/te-lage-vergoeding-voor-werk-bv-kinderen-belast-als-resultaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/10/paard-manege.jpg" length="60430" type="image/jpeg" />	</item>
+		<item>
+		<title>Geen aftrek inkoopkosten door gebrekkige administratie</title>
+		<link>https://www.taxence.nl/nieuws/geen-aftrek-inkoopkosten-door-gebrekkige-administratie/</link>
+					<comments>https://www.taxence.nl/nieuws/geen-aftrek-inkoopkosten-door-gebrekkige-administratie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 08:59:36 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168070</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat de inspecteur de winsten van drie bv’s redelijk heeft geschat aan de hand van de bijschrijvingen op hun bankrekeningen. De gestelde contante inkoopkosten zijn grotendeels niet aannemelijk gemaakt door het ontbreken van een betrouwbare administratie.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat de inspecteur de winsten van drie bv’s redelijk heeft geschat aan de hand van de bijschrijvingen op hun bankrekeningen. De gestelde contante inkoopkosten zijn grotendeels niet aannemelijk gemaakt door het ontbreken van een betrouwbare administratie.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Drie bv’s handelen in emballagegoederen en gebruikte auto’s. Uit boekenonderzoeken blijkt dat de administraties ernstige gebreken vertonen. Zo ontbreken onder meer kasadministraties, bankafschriften en diverse in- en verkoopfacturen. Twee bv’s geven een belastbare winst van nihil aan en één bv doet ondanks een aanmaning geen tijdige aangifte Vpb. De inspecteur stelt de belastbare winsten daarom vast aan de hand van bijschrijvingen op de bankrekeningen. De bv’s stellen dat daarbij ten onrechte geen rekening is gehouden met aanzienlijke inkoopkosten. Zij zouden grote partijen emballage voornamelijk contant hebben ingekocht en stellen dat in deze handel een brutowinstmarge van minder dan 10% gebruikelijk is. In geschil is of de winstcorrecties berusten op een redelijke schatting.</p>
+
+
+
+<h3 class="wp-block-heading">Bewijslast terecht omgekeerd</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt vast dat de administraties zulke ernstige gebreken bevatten dat zij niet als basis voor de winstberekening kunnen dienen. Ook zijn aanzienlijke bedragen aan winst niet aangegeven. Daarom is de bewijslast omgekeerd en verzwaard. De bv’s moeten overtuigend aantonen dat de aanslagen te hoog zijn. Daarin slagen zij grotendeels niet. Voor de gestelde contante inkopen ontbreken facturen en een kasadministratie. Ook kunnen de bv’s geen concrete en controleerbare informatie geven over leveranciers. Dat grote hoeveelheden goederen contant zouden zijn gekocht zonder facturen acht de rechtbank ongeloofwaardig. Alleen voor één bv is voor € 6.000 aan inkoopkosten overtuigend aangetoond dat deze daadwerkelijk zijn gemaakt.</p>
+
+
+
+<h3 class="wp-block-heading">Bankbijschrijvingen geven redelijke schatting</h3>
+
+
+
+<p class="wp-block-paragraph">De inspecteur mag volgens de rechtbank de bankbijschrijvingen als uitgangspunt nemen. Door de gebrekkige administratie beschikt hij nauwelijks over andere objectieve gegevens. Bovendien zijn contante opbrengsten uit de handel in emballage en auto’s niet meegenomen, terwijl aanwijzingen bestaan dat die wel zijn genoten. De schatting is daardoor eerder te laag dan te hoog. De algemene stelling dat in de emballagehandel lage winstmarges gebruikelijk zijn, maakt de schatting niet willekeurig. De beroepen van twee bv’s zijn ongegrond. Bij de derde bv wordt vanwege de aangetoonde inkoopkosten de belastbare winst verminderd van € 278.240 naar € 272.240.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8 Wet Vpb 1969</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_10995" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 24-08-2026, ECLI:NL:RBNHO:2026:10995, HAA 25/3733, HAA 25/3742 en HAA 25/3787 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/geen-aftrek-inkoopkosten-door-gebrekkige-administratie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Autohandel.jpg" length="62719" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleidsbesluit fiscale behandeling van DRV-uitkeringen</title>
+		<link>https://www.taxence.nl/nieuws/beleidsbesluit-fiscale-behandeling-van-drv-uitkeringen/</link>
+					<comments>https://www.taxence.nl/nieuws/beleidsbesluit-fiscale-behandeling-van-drv-uitkeringen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 08:26:02 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168105</guid>
+
+					<description><![CDATA[De staatssecretaris van Financiën heeft naar aanleiding van het arrest van de Hoge Raad van 19 juni 2026 beleid gepubliceerd over de fiscale behandeling van uitkeringen van de Deutsche Rentenversicherung (DRV). Het besluit werkt uit wanneer een DRV-aanspraak in box 1 dan wel box 3 valt en bevat praktische goedkeuringen voor de waardering en bewijsvoering.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De staatssecretaris van Financiën heeft naar aanleiding van het arrest van de Hoge Raad van 19 juni 2026 beleid gepubliceerd over de fiscale behandeling van uitkeringen van de Deutsche Rentenversicherung (DRV). Het besluit werkt uit wanneer een DRV-aanspraak in box 1 dan wel box 3 valt en bevat praktische goedkeuringen voor de waardering en bewijsvoering.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad heeft geoordeeld dat DRV-uitkeringen worden beheerst door artikel 3.82, onderdeel b, Wet IB 2001. Bepalend is in hoeverre de aanspraak tijdens de opbouw al in een met de Nederlandse loon- of inkomstenbelasting vergelijkbare heffing is betrokken. Het werkgeversdeel van de Duitse DRV-premies behoorde niet tot het loon. Werknemerspremies waren daarentegen in wisselende mate aftrekbaar. Sinds 2023 zijn deze volledig aftrekbaar. Hierdoor moet een DRV-aanspraak veelal worden gesplitst.</p>
+
+
+
+<p class="wp-block-paragraph">Voor zover werknemerspremies niet aftrekbaar waren en de aanspraak dus belast is opgebouwd, is de latere uitkering niet belast in box 1. De waarde van dit deel van de aanspraak behoort echter tot box 3, zowel tijdens de opbouw- als de uitkeringsfase. Dit vermogen telt ook mee voor vermogenstoetsen bij inkomensafhankelijke regelingen, zoals huur- en zorgtoeslag. Voor belastingplichtigen met een partner keurt de staatssecretaris goed dat de box 3-waarde wordt berekend alsof geen partner aanwezig is.</p>
+
+
+
+<p class="wp-block-paragraph">De bewijslast voor de verdeling tussen box 1 en box 3 rust in beginsel op de belastingplichtige. Omdat historische gegevens vaak ontbreken, mag onder voorwaarden worden aangesloten bij het Duitse Kohortenprinzip. Een tabel bepaalt aan de hand van het ingangsjaar welk percentage in box 1 belastbaar is. De belastingplichtige mag met bewijsstukken een afwijkende werkelijke verdeling aannemelijk maken.</p>
+
+
+
+<p class="wp-block-paragraph">Belastingplichtigen hebben bovendien voorlopig een keuze. Zolang het oude beleidsstandpunt niet is ingetrokken, kunnen zij de DRV-aanspraak volledig in box 1 blijven behandelen. Zij kunnen ook voor de nieuwe splitsing tussen box 1 en box 3 kiezen. Die laatste mogelijkheid geldt alleen voor aanslagen die op 19 juni 2026 nog niet onherroepelijk vaststonden.</p>
+
+
+
+<p class="wp-block-paragraph">De afzonderlijk betaalde Zuschuss voor Nederlandse zorgpremies blijft volledig belast in box 1. Het besluit verandert niets aan de toepassing van het belastingverdrag met Duitsland.</p>
+
+
+
+<p class="wp-block-paragraph">Dit besluit treedt in werking met ingang van 8 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-34337.html" target="_blank" rel="noreferrer noopener">Besluit van 5 oktober 2026, nr. 2026-17749, Ministerie van Financiën, Stcrt. 2026, 34337</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/beleidsbesluit-fiscale-behandeling-van-drv-uitkeringen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/04/Salaris3.jpg" length="29599" type="image/jpeg" />	</item>
+		<item>
+		<title>BTW en subsidies: geen automatische vrijstelling van btw</title>
+		<link>https://www.taxence.nl/nieuws/btw-en-subsidies-geen-automatische-vrijstelling-van-btw/</link>
+					<comments>https://www.taxence.nl/nieuws/btw-en-subsidies-geen-automatische-vrijstelling-van-btw/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 06:59:43 +0000</pubDate>
+				<category><![CDATA[BTW]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168066</guid>
+
+					<description><![CDATA[Subsidies worden in de praktijk vaak als vanzelfsprekend buiten het bereik van de btw geplaatst. Die aanname gaat niet altijd op. De btw kent eigen, Europees geharmoniseerde regels voor de vraag of een subsidie in de heffing wordt betrokken, en die regels sluiten niet één-op-één aan bij hoe subsidies in de praktijk worden ervaren. Een subsidie kan wel degelijk leiden tot btw-heffing, ook als de verstrekker en de ontvanger daar zelf niet van uitgaan.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Subsidies worden in de praktijk vaak als vanzelfsprekend buiten het bereik van de btw geplaatst. Die aanname gaat niet altijd op. De btw kent eigen, Europees geharmoniseerde regels voor de vraag of een subsidie in de heffing wordt betrokken, en die regels sluiten niet één-op-één aan bij hoe subsidies in de praktijk worden ervaren. Een subsidie kan wel degelijk leiden tot btw-heffing, ook als de verstrekker en de ontvanger daar zelf niet van uitgaan.</strong></p>
+
+
+
+<h2 class="wp-block-heading">De hoofdregel: verbruik door een identificeerbare afnemer</h2>
+
+
+
+<p class="wp-block-paragraph">Onderneemt een organisatie iets omdat een derde daarom vraagt, dan is btw-heffing doorgaans aan de orde. Ontvangt een btw-ondernemer daarentegen een donatie voor activiteiten die toch al zouden worden verricht, dan blijft btw-heffing achterwege.</p>
+
+
+
+<p class="wp-block-paragraph">Uit Europese jurisprudentie volgt dat een subsidie alleen tot btw-heffing leidt wanneer sprake is van verbruik door identificeerbare personen. De belastbaarheid van een subsidie hangt dus af van de vraag of de activiteiten van de organisatie leiden tot individueel verbruik bij de subsidieverstrekker of bij een identificeerbare derde partij.</p>
+
+
+
+<p class="wp-block-paragraph">Een subsidie blijft onbelast voor de btw als:</p>
+
+
+
+<ul class="wp-block-list">
+<li>de subsidie wordt verstrekt met als doel het algemeen belang te behartigen; of</li>
+
+
+
+<li>er geen sprake is van verbruik.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Een veelgebruikt voorbeeld: een gemeentelijk theater ontvangt subsidie onder de voorwaarde dat bepaalde openingstijden worden aangehouden. Die voorwaarde leidt niet tot verbruik bij de subsidieverstrekker. De subsidie wordt verstrekt vanwege het algemene culturele belang van het theater en vormt geen vergoeding voor een tegenprestatie. De subsidie blijft in dat geval onbelast.</p>
+
+
+
+<p class="wp-block-paragraph">In de praktijk is het niet altijd eenvoudig om vast te stellen of een subsidie in het kader van het algemeen belang wordt verstrekt, of dat er juist een rechtstreeks verband bestaat tussen de subsidie en de activiteiten van de organisatie. Alle feiten en omstandigheden zijn hierbij van belang: de subsidieaanvraag, de begroting, de subsidiebeschikking en de subsidievoorwaarden geven vaak de doorslag.</p>
+
+
+
+<h2 class="wp-block-heading">Btw-belaste subsidie voor tuchtrechtspraak advocaten</h2>
+
+
+
+<p class="wp-block-paragraph">Een recente Nederlandse zaak illustreert hoe scherp dit onderscheid in de praktijk uitpakt. Een stichting ondersteunt de organisatie van de tuchtrechtspraak voor advocaten, onder meer door personeel, werkplekken, zittingszalen, catering en beveiliging beschikbaar te stellen aan de raden van discipline en het hof van discipline. Zij stelt ook begrotingen op, beheert websites en kennissystemen en verzorgt persvoorlichting. Voor deze werkzaamheden ontvangt de stichting sinds 2018 een kostendekkende bijdrage van de Nederlandse Orde van Advocaten (NOvA), zonder dat de tuchtcolleges zelf een vergoeding betalen.</p>
+
+
+
+<p class="wp-block-paragraph">De inspecteur stelde dat over deze bijdrage btw verschuldigd is. De stichting betoogde dat zij in het algemeen belang handelt en dat geen sprake is van een individualiseerbare afnemer. Rechtbank en Gerechtshof Den Haag oordeelden dat de subsidie belast is, waarna de stichting in cassatie ging.</p>
+
+
+
+<p class="wp-block-paragraph">Advocaat-Generaal Ettema concludeerde in mei 2025 dat het oordeel van het Gerechtshof juist is: de tuchtcolleges ontvangen een rechtstreeks en individualiseerbaar voordeel van de stichting, er bestaat een rechtstreeks verband tussen de bijdrage en de verrichte diensten, en de bijdrage vormt daarmee de tegenprestatie voor die diensten. Dat de stichting daarnaast ook het algemeen belang dient, doet daaraan niet af.</p>
+
+
+
+<p class="wp-block-paragraph">De Hoge Raad heeft dit standpunt op 19 juni 2026 bevestigd. Volgens de Hoge Raad zijn de tuchtcolleges de directe begunstigden en aanwijsbare verbruikers van de diensten van de stichting: de werkzaamheden leveren hun identificeerbare en concrete voordelen op, wat verbruik in de zin van het btw-stelsel oplevert. Dat de NOvA de bijdrage betaalt terwijl de tuchtcolleges de directe begunstigden zijn, staat aan dat rechtstreekse verband niet in de weg. Ook is niet van belang dat de dienstverlening mede het algemeen belang dient, waaronder het belang van de rechtsstaat en de rechtzoekenden, of dat de dienstverlening wettelijk is opgedragen. De Hoge Raad oordeelde bovendien dat de stichting zelfstandig en op een algemene markt opereert — ook al zijn de tuchtcolleges haar enige afnemers — en dus btw-ondernemer is. Het cassatieberoep is ongegrond verklaard; de bijdrage van de NOvA is en blijft belast met btw (<a href="https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:959" target="_blank" rel="noopener">Rechtspraak.nl, ECLI:NL:HR:2026:959</a>).</p>
+
+
+
+<p class="wp-block-paragraph">Organisaties die gesubsidieerde diensten verrichten aan specifieke afnemers, doen er goed aan kritisch te beoordelen of sprake is van een btw-belaste prestatie. De aanwezigheid van een individualiseerbare begunstigde en een rechtstreeks verband met de subsidie zijn hierbij doorslaggevend — óók wanneer de gefinancierde activiteit zelf een publiek of maatschappelijk doel dient.</p>
+
+
+
+<h2 class="wp-block-heading">Achteraf betaalde subsidie voor personenvervoer niet btw-belast</h2>
+
+
+
+<p class="wp-block-paragraph">Een ander recent arrest van het Hof van Justitie van de Europese Unie laat de andere kant van de medaille zien. Een lokale overheid keerde aan een vervoersbedrijf een subsidie uit om verliezen te dekken bij het aanbieden van openbaar personenvervoer. Het Hof oordeelde dat deze subsidie niet tot de btw-heffingsmaatstaf behoort en dus niet met btw is belast (zaak C-615/23).</p>
+
+
+
+<p class="wp-block-paragraph">Doorslaggevend is dat de subsidie uitsluitend bedoeld is om het negatieve financiële resultaat te compenseren en geen rechtstreekse invloed heeft op de prijs van de vervoersdiensten. Bovendien mag de subsidie niet hoger zijn dan het geleden verlies, of dan een voor een bepaalde periode afgesproken maximumbedrag.</p>
+
+
+
+<p class="wp-block-paragraph">Keert een lokale overheid achteraf een subsidie uit om verliezen bij personenvervoer te dekken, dan is die subsidie in beginsel niet aan btw onderworpen. Omdat het financiële belang bij dit type subsidies vaak aanzienlijk is, verdient het aanbeveling om de btw-gevolgen vooraf in kaart te brengen, in plaats van pas achteraf.</p>
+
+
+
+<h2 class="wp-block-heading">Geen btw-heffing over transformatiegelden aan zorgverzekeraars</h2>
+
+
+
+<p class="wp-block-paragraph">Ook de Belastingdienst heeft zich recent uitgesproken over een subsidiestroom met een aanzienlijk financieel belang. Het gaat om transformatiegelden die het ministerie van VWS over de jaren 2023 tot en met 2027 aan zorgverzekeraars ter beschikking stelt, met een potentieel btw-belang van € 486 miljoen. Volgens de Belastingdienst blijft heffing achterwege, zowel in de verhouding tussen VWS en de zorgverzekeraar als in de verhouding tussen de zorgverzekeraar en een eventuele kassier of penvoerder binnen een transformatieplan, omdat in die verhoudingen geen prestatie aan derden is te onderkennen. De subsidiegelden hebben bovendien geen gevolgen voor het btw-aftrekrecht van de zorgverzekeraars. Betalingen die vervolgens aan deelnemers van een transformatieplan worden gedaan, kunnen wél een belaste handeling inhouden; in dat geval is in beginsel 21% btw verschuldigd.</p>
+
+
+
+<p class="wp-block-paragraph">Deze casus onderstreept een belangrijk aandachtspunt: de titel ‘subsidie’ biedt op zichzelf geen vrijwaring tegen btw-heffing. Andersom betekent een onbelaste subsidie ook niet automatisch dat er geen recht op aftrek van btw bestaat. Beide elementen — belastbaarheid van de subsidie en het aftrekrecht — moeten afzonderlijk worden beoordeeld.</p>
+
+
+
+<h2 class="wp-block-heading">Compensabele btw bij subsidieaanvragen</h2>
+
+
+
+<p class="wp-block-paragraph">Voor publiekrechtelijke organisaties speelt bij subsidieaanvragen bij het Rijk nog een aanvullend aandachtspunt. Bij de aanvraag moet worden aangegeven of de btw voor de organisatie compensabel is via het btw-compensatiefonds. Is de btw compensabel, dan keert het Rijk exclusief btw uit en stort het de btw in het btw-compensatiefonds. Is de btw niet compensabel, dan keert het Rijk uit inclusief de niet te verhalen btw. De achterliggende gedachte is dat een organisatie die de btw volledig kan verhalen, deze zelf terugvraagt bij het btw-compensatiefonds, en niet ook nog een keer via de subsidie van het Rijk vergoed krijgt.</p>
+
+
+
+<h2 class="wp-block-heading">Veelgestelde vraag: subsidie en het recht op aftrek</h2>
+
+
+
+<p class="wp-block-paragraph">Een vraag die in de praktijk regelmatig terugkeert: behoudt een ondernemer die btw-belaste prestaties verricht en daarnaast een subsidie ontvangt, een volledig recht op aftrek van btw?</p>
+
+
+
+<p class="wp-block-paragraph">Uitgaande van een onbelaste subsidie, ligt het antwoord ergens in het midden.</p>
+
+
+
+<p class="wp-block-paragraph">Betreft het een btw-onbelastbare subsidie die geen nauw verband houdt met een economische activiteit, dan bestaat er inderdaad geen recht op aftrek van btw op de daarmee samenhangende kosten (zie ook het beleidsbesluit Aftrek van voorbelasting). Het gaat dan om zelfstandige niet-economische handelingen. Er ontstaat dan een aftrekbeperking op btw die rechtstreeks toerekenbaar is aan een volledig gesubsidieerd project, en/of een pre-pro-rata-aftrek van btw op gemengde kosten.</p>
+
+
+
+<p class="wp-block-paragraph">Het is echter ook mogelijk dat een economische en een niet-economische activiteit zo nauw met elkaar verbonden zijn, dat gezamenlijk beschouwd sprake is van (dezelfde) economische handelingen. De daarop betrekking hebbende kosten kunnen dan worden toegerekend aan de economische handelingen. In dat geval bestaat wél recht op aftrek van btw, ook voor het deel dat ziet op de niet-economische activiteiten, mits die economische handelingen zijn aan te merken als btw-belaste prestaties.</p>
+
+
+
+<p class="wp-block-paragraph">Wordt een btw-belaste handeling mede gefinancierd vanuit een subsidie, dan is het dus goed mogelijk dat de aftrek van voorbelasting niet wordt beperkt. Deze uitwerking is uiteraard op hoofdlijnen geschetst; in de praktijk moet per geval worden beoordeeld of sprake is van een btw-belastbare (belaste of vrijgestelde) dan wel een btw-onbelastbare subsidie, en of het volledige aftrekrecht daarbij in stand blijft.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusie</h2>
+
+
+
+<p class="wp-block-paragraph">De vier besproken zaken laten zien dat de btw-behandeling van subsidies sterk afhankelijk is van de feiten: wie de begunstigde is, of die begunstigde een individualiseerbaar voordeel ontvangt, en of er een rechtstreeks verband bestaat tussen de subsidie en een concrete prestatie. Een subsidie die het algemeen belang dient, kan alsnog belast zijn zodra een identificeerbare afnemer een concreet voordeel geniet — zoals bij de tuchtcolleges voor advocaten. Omgekeerd blijft een verliescompensatie zonder rechtstreekse invloed op de prijs van een dienst juist buiten de heffingsmaatstaf, zoals bij de subsidie voor personenvervoer. Organisaties en hun adviseurs doen er goed aan de subsidieaanvraag, de begroting en de subsidievoorwaarden vooraf te toetsen aan deze criteria, in plaats van achteraf te worden geconfronteerd met een btw naheffingsaanslag.</p>
+
+
+
+<h2 class="wp-block-heading">Nationaal Btw Congres 2026</h2>
+
+
+
+<p class="wp-block-paragraph">Op de hoogte blijven van de belangrijkste ontwikkelingen in de btw-praktijk? Tijdens de elfde editie van het Nationaal Btw Congres op vrijdag 30 oktober bespreken ervaren btw-specialisten recente jurisprudentie, besluitvorming en Europese ontwikkelingen. Het programma is praktijkgericht en biedt ruimte voor verdieping én ontmoeting met vakgenoten. </p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://www.licentacademy.nl/opleidingen/congressen/3007/nationaal-btw-congres-2026?utm_medium=display&amp;utm_source=programmatic&amp;utm_campaign=nationaal_btw_congres_2026&amp;utm_content=artikel_subsidies_marja" target="_blank" rel="noreferrer noopener">Lees meer en meld je aan</a></h2>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/btw-en-subsidies-geen-automatische-vrijstelling-van-btw/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/09/Catering.jpg" length="49477" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt ‘Gebruikelijk loon niet reële overeenkomst van opdracht bij toepassing doorbetaaldloonregeling’ aangepast</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-aangepast/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-aangepast/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 06:18:51 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168061</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een (evidente) fout in het standpunt ‘Gebruikelijk loon niet reële overeenkomst van opdracht bij toepassing doorbetaaldloonregeling’ gecorrigeerd. Het betreft de alinea onder ‘Let op’. De tekst hiervan is in overeenstemming gebracht met de beoogde situatie waarop de attendering ziet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een (evidente) fout in het standpunt ‘Gebruikelijk loon niet reële overeenkomst van opdracht bij toepassing doorbetaaldloonregeling’ gecorrigeerd. Het betreft de alinea onder ‘Let op’. De tekst hiervan is in overeenstemming gebracht met de beoogde situatie waarop de attendering ziet.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>X (natuurlijk persoon) is enig bestuurder en enig aandeelhouder van een bv. X is de enige persoon die werkzaamheden verricht voor en namens de holding-bv.</li>
+
+
+
+<li>De holding-bv houdt 6% van de aandelen in een werk-bv.</li>
+
+
+
+<li>De werk-bv sluit een overeenkomst van opdracht met de holding-bv. Op basis van die overeenkomst van opdracht verricht X werkzaamheden voor de werk-bv.</li>
+
+
+
+<li>De holding-bv factureert conform de overeenkomst € 120.000 op jaarbasis aan de werk-bv. Van het gefactureerde bedrag heeft € 20.000 betrekking op kosten, lasten en afschrijvingen.</li>
+
+
+
+<li>De arbeidsrelatie tussen X en de holding-bv kwalificeert als een echte dienstbetrekking in de zin van artikel 2 van de Wet LB 1964. Het overeengekomen loon bedraagt € 5.000.</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li>De arbeidsrelatie tussen X en de werk-bv kwalificeert ook als een echte dienstbetrekking in de zin van artikel 2 Wet LB 1964; er is geen sprake van een reële overeenkomst van opdracht tussen de holding-bv en de werk-bv.</li>
+
+
+
+<li>De doorbetaaldloonregeling van artikel 32d Wet LB 1964 is van toepassing, waardoor X uitsluitend door de holding-bv wordt verloond.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is de toepassing van de doorbetaaldloonregeling van invloed op de vaststelling van het (gebruikelijk) loon voor de door X verrichte werkzaamheden?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja, als de doorbetaaldloonregeling van toepassing is, moet de gebruikelijkloonregeling op concernniveau worden toegepast (artikel 12a, derde lid, Wet LB 1964). De uit hoofde van de doorbetaaldloonregeling afgedragen bedragen door de werk-bv naar de holding-bv spelen geen rol bij het bepalen van het (gebruikelijk) loon.</p>
+
+
+
+<h4 class="wp-block-heading">Let op</h4>
+
+
+
+<p class="wp-block-paragraph">Als geen sprake is van een verzekeringsplichtige arbeidsrelatie tussen X en de holding-bv, maar wel een tussen X en de werk-BV dan kan de doorbetaaldloonregeling niet worden toegepast voor de premies werknemersverzekeringen. Zie artikel 59, eerste lid, van de Wet financiering sociale verzekeringen. Dit heeft tot gevolg dat X in ieder geval voor de premies werknemersverzekeringen in de loonadministratie van de werk-bv moet worden opgenomen. De grondslag hiervoor is in beginsel de gehele managementvergoeding (€ 120.000) uiteraard wel met inachtneming van het maximumpremieloon.</p>
+
+
+
+<p class="wp-block-paragraph">De inspecteur kan in casu het bij de werk-bv verantwoorde sociaal verzekeringsloon wel mee laten wegen bij het aannemelijk maken van het fictieve loon bij de holding-bv.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-aangepast/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-aangepast/" target="_blank" rel="noreferrer noopener">Belastingdienst, 6 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-gebruikelijk-loon-niet-reele-overeenkomst-van-opdracht-bij-toepassing-doorbetaaldloonregeling-aangepast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+		<item>
+		<title>Coalitie verdeeld over papieren schenkingen</title>
+		<link>https://www.taxence.nl/nieuws/coalitie-verdeeld-over-papieren-schenkingen/</link>
+					<comments>https://www.taxence.nl/nieuws/coalitie-verdeeld-over-papieren-schenkingen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 05:25:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168063</guid>
+
+					<description><![CDATA[De Tweede Kamer wil voorkomen dat kleine spaarders en beleggers opdraaien voor de kosten van de hervorming van de belasting op vermogen in box 3. Een ruime meerderheid roept het kabinet daarom op om onder meer naar de erf- en schenkbelasting te kijken voor alternatieve dekking. Ook de coalitiepartijen D66 en CDA steunen die oproep,<a class="read-more" href="https://www.taxence.nl/nieuws/coalitie-verdeeld-over-papieren-schenkingen/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Tweede Kamer wil voorkomen dat kleine spaarders en beleggers opdraaien voor de kosten van de hervorming van de belasting op vermogen in box 3. Een ruime meerderheid roept het kabinet daarom op om onder meer naar de erf- en schenkbelasting te kijken voor alternatieve dekking. Ook de coalitiepartijen D66 en CDA steunen die oproep, tot onvrede van de VVD.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een van de mogelijkheden is het beperken van de papieren schenking. Met deze constructie kunnen ouders tijdens hun leven vermogen op papier aan hun kinderen schenken, waardoor na hun overlijden minder erfbelasting verschuldigd kan zijn. ChristenUnie-Kamerlid Pieter Grinwis stelt voor deze mogelijkheid in te perken en de extra belastingopbrengsten te gebruiken om aanpassingen in het nieuwe box 3-stelsel te financieren.</p>
+
+
+
+<p class="wp-block-paragraph">Die aanvullende dekking is nodig omdat het oorspronkelijke voorstel voor box 3 op weinig steun in de Tweede Kamer kon rekenen. Daarin werd voorgesteld om het heffingsvrije vermogen te verlagen naar 30.000 euro. Hierdoor zouden honderdduizenden extra belastingplichtigen een aanslag in box 3 kunnen krijgen.</p>
+
+
+
+<p class="wp-block-paragraph">Minister Heinen heeft als alternatief voorgesteld om het belastingtarief te verlagen dat ondernemers betalen over dividend uit hun eigen bedrijf. Het kabinet verwacht dat ondernemers daardoor eerder winst zullen uitkeren, wat op korte termijn extra belastinginkomsten oplevert. Die opbrengsten zijn echter niet voldoende om de verwachte miljardenverliezen in box 3 volledig op te vangen.</p>
+
+
+
+<p class="wp-block-paragraph">Daarnaast steunde een Kamermeerderheid een oproep van Luc Stultiens om vóór de behandeling van het Belastingplan met een flinke koerswijziging te komen. Vooral de geplande lastenverzwaring voor werkenden leidt tot weerstand bij de oppositie.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: ANP, 6 oktober 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/coalitie-verdeeld-over-papieren-schenkingen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/10/Schenking-geld.jpg" length="54597" type="image/jpeg" />	</item>
+		<item>
+		<title>Banken kunnen nieuwe box 3-aangifte in 2028 niet vooraf invullen</title>
+		<link>https://www.taxence.nl/nieuws/banken-kunnen-nieuwe-box-3-aangifte-in-2028-niet-vooraf-invullen/</link>
+					<comments>https://www.taxence.nl/nieuws/banken-kunnen-nieuwe-box-3-aangifte-in-2028-niet-vooraf-invullen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 07 Oct 2026 03:15:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168069</guid>
+
+					<description><![CDATA[Nederlandse banken kunnen bij invoering van een nieuw box 3-stelsel in 2028 de belastingaangifte niet vooraf invullen. De sector heeft onvoldoende tijd om de IT-systemen daarvoor aan te passen. Dat zegt Medy van der Laan, voorzitter van de Nederlandse Vereniging van Banken (NVB), tegen BNR.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Nederlandse banken kunnen bij invoering van een nieuw box 3-stelsel in 2028 de belastingaangifte niet vooraf invullen. De sector heeft onvoldoende tijd om de IT-systemen daarvoor aan te passen. Dat zegt Medy van der Laan, voorzitter van de Nederlandse Vereniging van Banken (NVB), tegen <a href="https://www.bnr.nl/nieuws/economie/10612721/banken-in-2028-geen-vooringevulde-belastingaangifte-bij-nieuwe-box-3?itm_source=https%3A%2F%2Fwww.bnr.nl%2F&amp;itm_campaign=artikel&amp;itm_medium=meest_gelezen" data-type="link" data-id="https://www.bnr.nl/nieuws/economie/10612721/banken-in-2028-geen-vooringevulde-belastingaangifte-bij-nieuwe-box-3?itm_source=https%3A%2F%2Fwww.bnr.nl%2F&amp;itm_campaign=artikel&amp;itm_medium=meest_gelezen" target="_blank" rel="noreferrer noopener">BNR</a>.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Banken leveren momenteel gegevens van klanten aan de Belastingdienst, zodat deze automatisch in de aangifte inkomstenbelasting kunnen worden opgenomen. Bij invoering van een vermogenswinstbelasting in 2028 lukt dat volgens de NVB niet. Banken hebben vanaf het moment dat alle regels en technische specificaties definitief vaststaan ongeveer achttien maanden nodig om hun systemen aan te passen.</p>
+
+
+
+<p class="wp-block-paragraph">Dat betekent dat belastingplichtigen in 2028 mogelijk zelf de benodigde gegevens over hun vermogen moeten bijhouden en invullen. Ook voor de Belastingdienst levert dit extra werk op, omdat aangiften zonder vooraf ingevulde gegevens vaker gecontroleerd moeten worden.</p>
+
+
+
+<p class="wp-block-paragraph">Vanaf 2029 zouden banken de gegevens mogelijk wel weer automatisch kunnen aanleveren. Daarvoor is volgens Van der Laan noodzakelijk dat uiterlijk in de eerste helft van 2027 duidelijkheid bestaat over het nieuwe box 3-stelsel.</p>
+
+
+
+<p class="wp-block-paragraph">Minister van Financiën Eelco Heinen acht invoering van een nieuw box 3-stelsel in 2028 haalbaar, maar banken vinden dat tijdpad te krap. Ook de Raad van State heeft erop gewezen dat de benodigde wetswijziging onder grote tijdsdruk komt te staan.</p>
+
+
+
+<p class="wp-block-paragraph">Volgens Van der Laan bereidt de bankensector zich al enkele jaren voor op de hervorming van box 3. Aanvankelijk gebeurde dat vooral met het oog op een vermogensaanwasbelasting. Toen een vermogenswinstbelasting nadrukkelijker in beeld kwam, zijn banken zich ook daarop gaan voorbereiden.</p>
+
+
+
+<p class="wp-block-paragraph">De sector overlegt hierover met het ministerie van Financiën. Dat verandert volgens de NVB echter niets aan de benodigde implementatietijd. Zowel voor een vermogensaanwasbelasting als voor een vermogenswinstbelasting hebben banken ongeveer achttien maanden nodig nadat alle regels en specificaties definitief zijn vastgesteld.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.bnr.nl/nieuws/economie/10612721/banken-in-2028-geen-vooringevulde-belastingaangifte-bij-nieuwe-box-3?itm_source=https%3A%2F%2Fwww.bnr.nl%2F&amp;itm_campaign=artikel&amp;itm_medium=meest_gelezen" data-type="link" data-id="https://www.bnr.nl/nieuws/economie/10612721/banken-in-2028-geen-vooringevulde-belastingaangifte-bij-nieuwe-box-3?itm_source=https%3A%2F%2Fwww.bnr.nl%2F&amp;itm_campaign=artikel&amp;itm_medium=meest_gelezen" target="_blank" rel="noreferrer noopener">BNR, 7 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/banken-kunnen-nieuwe-box-3-aangifte-in-2028-niet-vooraf-invullen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Aangifte-Belastingdienst-2048x1366-1.jpg" length="49415" type="image/jpeg" />	</item>
+		<item>
+		<title>Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 10:26:00 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=159923</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L LET OP: LAPTOP MEENEMEN Tijdens deze basistraining leer je welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>LET OP: LAPTOP MEENEMEN</p>
+<p>Tijdens deze basistraining leer je welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p>De nadruk ligt tijdens deze training voornamelijk op de talige aspecten van het werk zoals review, klantcommunicatie en documentatie. Wel wordt stilgestaan bij de (on)mogelijkheden van deze tools bij data-analyses en (financiële) berekeningen.</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Studiemateriaal<br /></strong>De trainer van de cursus, Ron Meijer, heeft het boek <a href="https://www.sdu.nl/shop/ai-in-de-fiscale-praktijk.html">AI in de fiscale praktijk</a> geschreven vol AI-gerelateerde voorbeelden, caussen en direct inzetbare prompts, Deze wordt op de cursusdag uitgereikt.&nbsp;</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op <a href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2988/verdiepende-ai-training-voor-de-fiscale-praktijk">1 oktober</a>&nbsp;of <a href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2989/verdiepende-ai-training-voor-de-fiscale-praktijk">14 december&nbsp;&nbsp;</a>wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/2992/basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hypotheekvorderingen zijn geen banktegoeden in box 3</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-8/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 08:23:23 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168035</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat hypothecaire geldleningen aan familieleden voor het rechtsherstel box 3 geen banktegoeden zijn. De vorderingen behoren tot de overige bezittingen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat hypothecaire geldleningen aan familieleden voor het rechtsherstel box 3 geen banktegoeden zijn. De vorderingen behoren tot de overige bezittingen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw geeft in haar aangifte IB/PVV 2021 ruim € 1,5 miljoen aan bezittingen in box 3 aan. Daaronder vallen drie vorderingen van in totaal € 362.823. Twee daarvan zijn hypothecaire geldleningen aan haar kinderen voor de aankoop van een woning en één lening is verstrekt aan een voormalig familielid. Over de vorderingen ontvangt zij 2,5% rente. Bij het vaststellen van de aanslag past de inspecteur de Wet rechtsherstel box 3 toe en behandelt hij de vorderingen als overige bezittingen. De vrouw vindt dat de vorderingen vanwege onder meer het lage risico, de hypothecaire zekerheid en de regelmatige rente-inkomsten als banktegoeden moeten worden behandeld. Daarnaast vraagt zij om nader rechtsherstel.</p>
+
+
+
+<h3 class="wp-block-heading">Vorderingen zijn geen deposito&#8217;s</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de vorderingen niet voldoen aan de definitie van een deposito in de Wet op het financieel toezicht. Zij kunnen daarom voor de Wet rechtsherstel box 3 niet als banktegoeden worden aangemerkt. De wetgever heeft voor het begrip banktegoed bewust aangesloten bij deze definitie. Ook is geen sprake van verboden discriminatie. Bij particuliere vorderingen bestaat onderhandelingsruimte over onder meer rente, looptijd, aflossing en zekerheden. Daarmee verschillen zij wezenlijk van banktegoeden. De vorderingen zijn dus terecht als overige bezittingen aangemerkt.</p>
+
+
+
+<h3 class="wp-block-heading">Geen bewijs voor lager werkelijk rendement</h3>
+
+
+
+<p class="wp-block-paragraph">Voor aanvullend rechtsherstel moet de vrouw aannemelijk maken dat het forfaitair berekende box 3-inkomen hoger is dan haar werkelijke rendement. Dat doet zij niet. Zij geeft namelijk geen inzicht in de waardeontwikkeling van haar beleggingsportefeuille. Daardoor kan niet worden vastgesteld dat het werkelijke rendement over haar gehele box 3-vermogen lager is dan het forfaitaire rendement. Het hof oordeelt daarom dat de aanslag juist is vastgesteld en verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.3?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.3 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5874" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 08-09-2026, ECLI:NL:GHARL:2026:5874, 25/893 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/schenken-woning.jpg" length="25690" type="image/jpeg" />	</item>
+	</channel>
+</rss>

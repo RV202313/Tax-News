@@ -1,0 +1,2425 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Regfollower - Tracking regulatory changes around the world</title>
+<meta name="description" content="Regfollower covers regulatory developments which include corporate tax, tariffs, transfer pricing, treaties, trade regulations and more."/>
+
+<link rel="canonical" href="https://regfollower.com/" />
+<link rel="next" href="https://regfollower.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Regfollower - Tracking regulatory changes around the world" />
+<meta property="og:description" content="Regfollower covers regulatory developments which include corporate tax, tariffs, transfer pricing, treaties, trade regulations and more." />
+<meta property="og:url" content="https://regfollower.com/" />
+<meta property="og:site_name" content="Regfollower" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Regfollower - Tracking regulatory changes around the world" />
+<meta name="twitter:description" content="Regfollower covers regulatory developments which include corporate tax, tariffs, transfer pricing, treaties, trade regulations and more." />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://regfollower.com/#person","name":"Regfollower","image":{"@type":"ImageObject","@id":"https://regfollower.com/#logo","url":"https://regfollower.com/wp-content/uploads/2021/09/Site_Logo-e1506325310940.png","contentUrl":"https://regfollower.com/wp-content/uploads/2021/09/Site_Logo-e1506325310940.png","caption":"Regfollower","inLanguage":"en-US","width":"200","height":"53"}},{"@type":"WebSite","@id":"https://regfollower.com/#website","url":"https://regfollower.com","name":"Regfollower","publisher":{"@id":"https://regfollower.com/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://regfollower.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://regfollower.com/#webpage","url":"https://regfollower.com/","name":"Regfollower - Tracking regulatory changes around the world","about":{"@id":"https://regfollower.com/#person"},"isPartOf":{"@id":"https://regfollower.com/#website"},"inLanguage":"en-US"}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Regfollower - Tracking regulatory changes around the world &raquo; Feed" href="https://regfollower.com/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.9.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-GGEDQXY3RW"  data-cfasync="false" data-wpfc-render="false" async></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '9.9.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/regfollower.com\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-GGEDQXY3RW',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-GGEDQXY3RW', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+			
+							<!-- / Google Analytics by MonsterInsights -->
+		<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-group-inline-css">
+.wp-block-group{box-sizing:border-box}:where(.wp-block-group.wp-block-group-is-layout-constrained){position:relative}
+/*# sourceURL=https://regfollower.com/wp-includes/blocks/group/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='gn-frontend-gnfollow-style-css' href='https://regfollower.com/wp-content/plugins/gn-publisher/assets/css/gn-frontend-gnfollow.min.css?ver=1.5.24' media='all' />
+<link rel='stylesheet' id='linkedin-login-style-css' href='https://regfollower.com/wp-content/plugins/kaz-linkedin-login/assets/css/linkedin-login.css?ver=1.0' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://regfollower.com/wp-includes/css/dashicons.min.css?ver=7.0.6' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css' href='https://regfollower.com/wp-includes/css/jquery-ui-dialog.min.css?ver=7.0.6' media='all' />
+<link rel='stylesheet' id='rf-gfonts-css' href='https://fonts.googleapis.com/css?family=Poppins&#038;display=swap&#038;ver=7.0.6' media='all' />
+<link rel='stylesheet' id='rf-bootstrap-style-css' href='https://regfollower.com/wp-content/themes/reg-follower/assets/vendors/bootstrap/bootstrap.min.css?ver=7.0.6' media='all' />
+<link rel='stylesheet' id='rf-fontawesome-css' href='https://regfollower.com/wp-content/themes/reg-follower/assets/vendors/fontawesome/css/all.min.css?ver=7.0.6' media='all' />
+<link rel='stylesheet' id='regfollower-style-css' href='https://regfollower.com/wp-content/themes/reg-follower/style.css?ver=1787481032' media='all' />
+<!--n2css--><!--n2js--><script id="jquery-core-js" src="https://regfollower.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://regfollower.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="js-cookie-script-js" src="https://regfollower.com/wp-content/plugins/miniorange-login-openid/includes/js/mo_openid_jquery.cookie.min.js?ver=7.0.6"></script>
+<script id="mo-social-login-script-js" src="https://regfollower.com/wp-content/plugins/miniorange-login-openid/includes/js/mo-openid-social_login.js?ver=7.0.6"></script>
+<script async data-wp-strategy="async" id="monsterinsights-frontend-script-js" src="https://regfollower.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.9.0"></script>
+<script data-cfasync="false" data-wpfc-render="false" id='monsterinsights-frontend-script-js-extra'>var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/regfollower.com","hash_tracking":"false","v4_id":"G-GGEDQXY3RW"};</script>
+<script id="wpws-moment-js" src="https://regfollower.com/wp-content/plugins/wp-webinarsystem/includes/js/moment-with-locales.min.js?ver=1.33.28"></script>
+<link rel="https://api.w.org/" href="https://regfollower.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://regfollower.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.6" />
+<script>document.createElement( "picture" );if(!window.HTMLPictureElement && document.addEventListener) {window.addEventListener("DOMContentLoaded", function() {var s = document.createElement("script");s.src = "https://regfollower.com/wp-content/plugins/webp-express/js/picturefill.min.js";document.body.appendChild(s);});}</script>        <script type="text/javascript">
+          var wpws_ajaxurl = 'https://regfollower.com/wp-admin/admin-ajax.php';
+        </script>
+        
+<!-- Global site tag (gtag.js) - Google Analytics --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GGEDQXY3RW"></script> 
+<script> 
+    window.dataLayer = window.dataLayer || []; 
+    function gtag(){dataLayer.push(arguments);} 
+    gtag('js', new Date()); 
+
+    gtag('config', 'G-GGEDQXY3RW'); 
+</script> 
+
+<link rel="icon" href="https://regfollower.com/wp-content/uploads/2026/04/cropped-logomark-512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://regfollower.com/wp-content/uploads/2026/04/cropped-logomark-512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://regfollower.com/wp-content/uploads/2026/04/cropped-logomark-512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://regfollower.com/wp-content/uploads/2026/04/cropped-logomark-512-270x270.png" />
+
+<!-- Homepage SEO-safe Robots Meta -->
+<meta name="robots" content="index, follow">
+</head>
+
+<body class="home blog wp-custom-logo wp-theme-reg-follower hfeed">
+  <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+  <header class="site-header pt-xxl-3 pt-xl-2 pt-lg-2 pt-md-1 pt-sm-1 pt-1">
+    <div class="theme-border-top">
+      <div class="custom-container container-fluid">
+        <div class="row position-relative py-xxl-4 py-xl-3 py-lg-3 py-md-1 py-sm-1 py-1 align-items-center">
+          <a href="https://regfollower.com/" class="d-none d-xl-block">
+            <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/logo2.png.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/logo2.png" alt="Regfollower – Tracking regulatory changes around the world" class="position-absolute logo-position img-fluid webpexpress-processed"></picture>
+          </a>
+          <div class="col-12">
+            <div class="text-end">
+              <div class="row">
+                <div class="col-12">
+                  <div class="d-flex justify-content-end">
+                    <div class="d-flex nav-social-links">
+                                              <!--<a href="" target="_blank">-->
+                          <!--<div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src=""
+                              alt=""
+                              title="">
+                          </div>
+                        </a>-->
+                                                                    <a href="https://twitter.com/regfollower" target="_blank">
+                          <div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/social-tw.svg"
+                              alt="X"
+                              title="Regfollower &#8211; Tracking regulatory changes around the world in X">
+                          </div>
+                        </a>
+                                                                    <a href="https://www.linkedin.com/company/regulatory-analytics/posts/" target="_blank">
+                          <div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/social-li.svg"
+                              alt="LinkedIn"
+                              title="Regfollower &#8211; Tracking regulatory changes around the world in LinkedIn">
+                          </div>
+                        </a>
+                                            <!--                         <a href="https://www.instagram.com/" target="_blank">
+                          <div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/social-ins.svg"
+                              alt="Instagram"
+                              title="Regfollower &#8211; Tracking regulatory changes around the world in Instagram">
+                          </div>
+                        </a>
+                       -->
+                      <!--                         <a href="https://www.youtube.com" target="_blank">
+                          <div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/social-yt.svg"
+                              alt="YouTube"
+                              title="Regfollower &#8211; Tracking regulatory changes around the world in YouTube">
+                          </div>
+                        </a>
+                       -->
+                      <!--                         <a href="https://regfollower.com/feed/" target="_blank">
+                          <div class="px-2">
+                            <img class="img-fluid svg-icon"
+                              src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/social-rss.svg"
+                              alt="RSS Feed"
+                              title="Regfollower &#8211; Tracking regulatory changes around the world RSS Feed">
+                          </div>
+                        </a>
+                       -->
+                    </div>
+                    <div class="ps-3 header-auth-wrap">
+                                              <a href="https://regfollower.com/login" class="header-auth-link" data-auth="in">
+                          Sign in                        </a>
+                                          </div>
+                  </div>
+                </div>
+                <div class="col-12 mt-2">
+                  <div class="header-date">
+                    Tuesday, September 29, 2026                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="theme-border-top theme-border-bottom">
+      <nav class="navbar navbar-expand-xl site-navbar mx-auto">
+        <div class="custom-container container-fluid">
+          <div class="d-block d-xl-none w-100">
+            <div class="row align-items-center">
+              <div class="col-2">
+                <button class="navbar-toggler border-0 ps-0 navbar-light" type="button"
+                  data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                  aria-controls="navbarSupportedContent" aria-expanded="false"
+                  aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              </div>
+              <div class="col-8 text-center">
+                <a href="https://regfollower.com/">
+                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/logo2.png.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/logo2.png" class="img-fluid webpexpress-processed" alt="Regfollower – Tracking regulatory changes around the world"></picture>
+                </a>
+              </div>
+              <div class="col-2 text-end">
+                <a class="nav-search collapsed w-100" data-bs-toggle="collapse" href="#searchSection"
+                  role="button" aria-expanded="false" aria-controls="collapseExample">
+                  <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/search-icon.svg" alt="search-logo"
+                    class="svg-icon" />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul id="menu-main-menu" class="navbar-nav justify-content-center flex-grow-1 "><li  id="menu-item-48271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children nav-item dropdown nav-item-48271"><a href="https://regfollower.com/category/tax/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TAX<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                            </svg></a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-48273" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48273"><a href="https://regfollower.com/category/tax/corporate-taxation/" class="dropdown-item ">Corporate</a></li>
+	<li  id="menu-item-79225" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-79225"><a href="https://regfollower.com/category/tax/corporate-taxation/international/pillar-two-global-minimum-tax-gmt/" class="dropdown-item ">Pillar Two</a></li>
+	<li  id="menu-item-48275" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48275"><a href="https://regfollower.com/category/tax/transfer-pricing/" class="dropdown-item ">Transfer Pricing</a></li>
+	<li  id="menu-item-48274" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48274"><a href="https://regfollower.com/category/tax/individual-taxation/" class="dropdown-item ">Personal</a></li>
+	<li  id="menu-item-48272" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48272"><a href="https://regfollower.com/category/tax/tax-policy/" class="dropdown-item ">Tax Policy</a></li>
+	<li  id="menu-item-48278" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48278"><a href="https://regfollower.com/category/tax/tax-management-tax/" class="dropdown-item ">Tax Management</a></li>
+	<li  id="menu-item-48279" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48279"><a href="https://regfollower.com/category/tax/individual-taxation/sanctions-for-non-compliance-individual-taxation-tax/anti-avoidance/" class="dropdown-item ">Anti-avoidance</a></li>
+	<li  id="menu-item-48276" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48276"><a href="https://regfollower.com/category/tax/vat/" class="dropdown-item ">VAT</a></li>
+	<li  id="menu-item-48277" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48277"><a href="https://regfollower.com/category/tax/other-taxes/" class="dropdown-item ">Other Taxes</a></li>
+</ul>
+</li>
+<li  id="menu-item-48281" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children nav-item dropdown nav-item-48281"><a href="https://regfollower.com/category/trade/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">TRADE<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                            </svg></a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-48283" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48283"><a href="https://regfollower.com/category/trade/customs-duty/" class="dropdown-item ">Customs Duty</a></li>
+	<li  id="menu-item-48282" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48282"><a href="https://regfollower.com/category/trade/trade-restrictions/" class="dropdown-item ">Trade restrictions</a></li>
+	<li  id="menu-item-84903" class="menu-item menu-item-type-custom menu-item-object-custom nav-item-84903"><a href="https://regfollower.com/category/trade/trade-policy/" class="dropdown-item ">Trade Policy</a></li>
+</ul>
+</li>
+<li  id="menu-item-48280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children nav-item dropdown nav-item-48280"><a href="https://regfollower.com/category/agreements/" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">AGREEMENTS<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                            </svg></a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-48285" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48285"><a href="https://regfollower.com/category/agreements/double-taxation-treaties/" class="dropdown-item ">Tax Treaties</a></li>
+	<li  id="menu-item-48287" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48287"><a href="https://regfollower.com/category/agreements/free-trade-agreements/" class="dropdown-item ">Free Trade</a></li>
+	<li  id="menu-item-48288" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48288"><a href="https://regfollower.com/category/agreements/tieas/" class="dropdown-item ">TIEAs</a></li>
+	<li  id="menu-item-48289" class="menu-item menu-item-type-taxonomy menu-item-object-category nav-item-48289"><a href="https://regfollower.com/category/agreements/regional-economic-groupings/" class="dropdown-item ">Regional Economic Groupings</a></li>
+</ul>
+</li>
+<li  id="menu-item-48291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nav-item dropdown nav-item-48291"><a href="#" class="nav-link  dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">REGIONS<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+                            </svg></a>
+<ul class="dropdown-menu  depth_0">
+	<li  id="menu-item-48293" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag nav-item-48293"><a href="https://regfollower.com/tag/americas/" class="dropdown-item ">Americas</a></li>
+	<li  id="menu-item-48292" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag nav-item-48292"><a href="https://regfollower.com/tag/asia-pacific/" class="dropdown-item ">Asia-Pacific</a></li>
+	<li  id="menu-item-48294" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag nav-item-48294"><a href="https://regfollower.com/tag/africa-middle-east/" class="dropdown-item ">Africa &amp; Middle East</a></li>
+	<li  id="menu-item-48295" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag nav-item-48295"><a href="https://regfollower.com/tag/europe/" class="dropdown-item ">Europe</a></li>
+</ul>
+</li>
+<li  id="menu-item-58699" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-58699"><a href="https://regfollower.com/tax-forums/" class="nav-link ">TAX FORUMS</a></li>
+<li  id="menu-item-73549" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-73549"><a href="https://regfollower.com/training/" class="nav-link ">TRAINING</a></li>
+<li  id="menu-item-66418" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-66418"><a target="_blank" href="https://regnetwork.regfollower.com/" class="nav-link ">NETWORK</a></li>
+<li  id="menu-item-85780" class="menu-item menu-item-type-custom menu-item-object-custom nav-item nav-item-85780"><a href="https://regfollower.com/commentary/commentary/" class="nav-link ">COMMENTARY</a></li>
+<li  id="menu-item-68148" class="menu-item menu-item-type-post_type menu-item-object-page nav-item nav-item-68148"><a href="https://regfollower.com/reg-talks/" class="nav-link ">PODCAST</a></li>
+</ul>            <div class=" d-none d-xl-block">
+              <a class="nav-search collapsed" data-bs-toggle="collapse" href="#searchSection" role="button"
+                aria-expanded="false" aria-controls="collapseExample">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/search-icon.svg" alt="search-logo"
+                  class="img-fluid svg-icon" />
+              </a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div class="custom-container container-fluid">
+        <div class="mt-1 mb-3 collapse" id="searchSection" tabindex="-1">
+          <!-- Search form -->
+<form action="https://regfollower.com/" method="get" class="d-flex nav-search">
+    <input class="form-control" type="search" name="s" placeholder="Search" autocomplete="off" required aria-label="Search" tabindex="-1">
+</form>
+<!-- Search form -->        </div>
+      </div>
+    </div>
+  </header>
+<main id="primary" class="site-main">
+  <div class="custom-container container-fluid pt-4">
+    <div class="row">
+      <div class="col-xxl-9 col-xl-9 col-lg-9 col-md-12 col-sm-12 col-12">
+        <div class="row">
+          <div class="col-12">
+            <div class="row">
+                <div class="col-12 primary-posts-container mb-3">
+    <div class="custom-card feature-article">
+      <div class="row align-items-center">
+
+        <!-- LEFT CONTENT -->
+        <div class="col-lg-4 col-md-12">
+          <div class="card-content pe-lg-4">
+
+                            <a href="https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇵🇱</span>
+                    <span class="country-name mt-2">Poland</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href="https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/">
+              <h1 class="fw-bold mb-2 primary-post-title">
+                Poland: Senate passes transfer pricing, business tax reporting reforms              </h1>
+            </a>
+
+            <div class="date-block mb-2 my-3">
+              25 September, 2026            </div>
+
+            <p class="primary-post-excerpt my-3">
+              Poland’s Senate has passed legislation simplifying transfer pricing reporting for micro and small businesses while introducing stricter bank-account payment requirements for tax-deductible expenses from 1 January 2027 and clarifying information-exchange...            </p>
+
+            <a class="context-font-size read-more-link" href="https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/">
+              Read More
+            </a>
+          </div>
+        </div>
+
+        <!-- RIGHT IMAGE -->
+        <div class="col-lg-8 col-md-12">
+                      <div class="primary-post-img-wrapper position-relative">
+              			<a href="https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Poland: Senate passes transfer pricing, business tax reporting reforms" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/4fef5a64-d1d6-492f-aa58-ac5debe2ac32-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+
+      </div>
+    </div>
+  </div>
+              <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 secondary-posts-container">
+  <div class="row">
+          <div class="secondary-posts col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 mb-3">
+      <div class="h-100">  
+      <div class="custom-card sub-article">
+          <div class="card-image sub-article-pic">
+                          <div class="card-image card-feature-img secondary-posts-img position-relative">
+                			<a href="https://regfollower.com/indonesia-parliament-approves-budget-for-2027/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Indonesia: Parliament approves budget for 2027" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/75aaca5c-9c45-477f-be23-4162c834936d-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                              </div>
+                      </div>
+          <div class="card-content">
+
+                            <a href="https://regfollower.com/indonesia-parliament-approves-budget-for-2027/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇮🇩</span>
+                    <span class="country-name mt-2">Indonesia</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/indonesia-parliament-approves-budget-for-2027/>
+              <h3 class="fw-bold mb-2">
+                Indonesia: Parliament approves budget for 2027              </h3>
+            </a>
+            <div class="date-block">25 September, 2026</div>
+            <p class="sub-article-length">
+                Indonesia’s budget committee has approved IDR 4,106.3 trillion in spending for 2027, with higher revenue targets, lower energy subsidies, and a proposed excise tax on sugary drinks.            </p>
+            <a class="context-font-size" href=https://regfollower.com/indonesia-parliament-approves-budget-for-2027/>Read More</a>
+          </div>
+        </div>
+            </div>
+      </div>
+          <div class="secondary-posts col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 mb-3">
+      <div class="h-100">  
+      <div class="custom-card sub-article">
+          <div class="card-image sub-article-pic">
+                          <div class="card-image card-feature-img secondary-posts-img position-relative">
+                			<a href="https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Russia plans tax increases to fund military spending through 2029" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/c612edb0-13ac-4a65-81c9-8ee4c4c778f0-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                              </div>
+                      </div>
+          <div class="card-content">
+
+                            <a href="https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇷🇺</span>
+                    <span class="country-name mt-2">Russia</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/>
+              <h3 class="fw-bold mb-2">
+                Russia plans tax increases to fund military spending through 2029              </h3>
+            </a>
+            <div class="date-block">25 September, 2026</div>
+            <p class="sub-article-length">
+                Russia’s draft 2027–2029 budget prioritises defence and security spending while projecting a wider fiscal deficit, with new and higher taxes on excess industry profits, cross-border e-commerce, securities, property sales, and bank deposits to help finance the shortfall.             </p>
+            <a class="context-font-size" href=https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/>Read More</a>
+          </div>
+        </div>
+            </div>
+      </div>
+          <div class="secondary-posts col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 mb-3">
+      <div class="h-100">  
+      <div class="custom-card sub-article">
+          <div class="card-image sub-article-pic">
+                          <div class="card-image card-feature-img secondary-posts-img position-relative">
+                			<a href="https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Bulgaria introduces new transfer pricing rules aligned with OECD guidelines" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/37827fe2-88b6-49d2-b200-496a17f917ef-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                              </div>
+                      </div>
+          <div class="card-content">
+
+                            <a href="https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇧🇬</span>
+                    <span class="country-name mt-2">Bulgaria</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/>
+              <h3 class="fw-bold mb-2">
+                Bulgaria introduces new transfer pricing rules aligned with OECD guidelines              </h3>
+            </a>
+            <div class="date-block">25 September, 2026</div>
+            <p class="sub-article-length">
+                Bulgaria’s new Transfer Pricing Methods Application Ordinance, effective from 1 January 2026, introduces a two-stage transfer pricing analysis, stricter risk-control and documentation requirements, and updated rules for intragroup services, intangibles, and financial transactions.             </p>
+            <a class="context-font-size" href=https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/>Read More</a>
+          </div>
+        </div>
+            </div>
+      </div>
+      </div>
+</div>              <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 tertiary-posts-container">
+  <div class="row">
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-9.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-9-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-9-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/Story-9.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Chile: Parliament proposes sweeping tax reforms for capital markets, foreign investment" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/Story-9.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/Story-9-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/Story-9-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>
+
+                            <a href="https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇨🇱</span>
+                    <span class="country-name mt-2">Chile</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>
+            <h3 class="fw-bold mb-2">
+              Chile: Parliament proposes sweeping tax reforms for capital markets, foreign investment            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              Chile’s proposed capital market reform would expand capital gains exemptions, remove withholding and registration barriers for foreign investors, and introduce VAT and stamp tax relief for selected financial services and securities.          </p>
+          <a class="context-font-size" href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>Read More</a>
+        </div>
+      </div>
+    </div>
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-8-1.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-8-1-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-8-1-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/Story-8-1.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Russia proposes tax breaks for Unified Advanced Development Territory residents" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/Story-8-1.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/Story-8-1-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/Story-8-1-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/>
+
+                            <a href="https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇷🇺</span>
+                    <span class="country-name mt-2">Russia</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/>
+            <h3 class="fw-bold mb-2">
+              Russia proposes tax breaks for Unified Advanced Development Territory residents            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              Proposed Tax Code amendments would introduce a 0% federal CIT rate, property and land tax exemptions, and other incentives for residents of the Unified Territory of Advanced Development (UTAD), while also providing an alternative investment tax deduction for qualifying projects.          </p>
+          <a class="context-font-size" href=https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/>Read More</a>
+        </div>
+      </div>
+    </div>
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-7-1.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-7-1-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-7-1-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/Story-7-1.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Switzerland: Federal Council extends loss carryforward to ten years starting 2028" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/Story-7-1.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/Story-7-1-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/Story-7-1-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/>
+
+                            <a href="https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇨🇭</span>
+                    <span class="country-name mt-2">Switzerland</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/>
+            <h3 class="fw-bold mb-2">
+              Switzerland: Federal Council extends loss carryforward to ten years starting 2028            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              Switzerland will extend the corporate loss carryforward period from seven to ten years from 1 January 2028, applying to losses from 2020 onward and providing additional relief for companies affected by the COVID-19 pandemic, including rules for losses incurred by foreign permanent establishments.          </p>
+          <a class="context-font-size" href=https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/>Read More</a>
+        </div>
+      </div>
+    </div>
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-6-2.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-6-2-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-6-2-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/Story-6-2.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Philippines: BIR issues rules for mandatory electronic invoicing" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/Story-6-2.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/Story-6-2-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/Story-6-2-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/>
+
+                            <a href="https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇵🇭</span>
+                    <span class="country-name mt-2">Philippines</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/>
+            <h3 class="fw-bold mb-2">
+              Philippines: BIR issues rules for mandatory electronic invoicing            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              The Philippines’ Bureau of Internal Revenue has issued Revenue Memorandum Circular No. 098-2026, setting out requirements for electronic invoicing, including taxpayer coverage, Permit to Issue and system certification requirements, technical standards, and procedures for corrections and system downtime, with mandatory adoption required by 31 December 2026.          </p>
+          <a class="context-font-size" href=https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/>Read More</a>
+        </div>
+      </div>
+    </div>
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-5-3.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-5-3-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Story-5-3-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/Story-5-3.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Austria extends fuel price relief through November 2026" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/Story-5-3.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/Story-5-3-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/Story-5-3-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/>
+
+                            <a href="https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇦🇹</span>
+                    <span class="country-name mt-2">Austria</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/>
+            <h3 class="fw-bold mb-2">
+              Austria extends fuel price relief through November 2026            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              Austria will expand its fuel price cap from October 2026, combining a mineral oil tax cut, limits on refinery and distributor margins, and a corresponding VAT reduction to lower fuel costs by more than EUR 0.12 per litre through 30 November 2026.          </p>
+          <a class="context-font-size" href=https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/>Read More</a>
+        </div>
+      </div>
+    </div>
+        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+      <div class="custom-card sub-article">
+        <div class="card-image card-feature-img">
+                      <div class="card-image card-feature-img tertiary-posts-img position-relative">
+              			<a href="https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/">
+				<picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa.jpeg.webp 800w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa-300x169.jpeg.webp 300w, https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa-768x432.jpeg.webp 768w" sizes="auto, (max-width: 800px) 100vw, 800px" type="image/webp"><img width="800" height="450" src="https://regfollower.com/wp-content/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa.jpeg" class="img-fluid1 wp-post-image webpexpress-processed" alt="Greece: Council of State rules interest on dividend-financing loans non-deductible" loading="lazy" decoding="async" srcset="https://regfollower.com/wp-content/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa.jpeg 800w, https://regfollower.com/wp-content/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa-300x169.jpeg 300w, https://regfollower.com/wp-content/uploads/2026/09/a88bd39b-9074-49de-92f5-c75f6e531eaa-768x432.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></picture>			</a>
+
+			
+                          </div>
+                  </div>
+        <div class="card-content">
+          <a href=https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/>
+
+                            <a href="https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/" class="country-overlay-link">
+                <div class="country-overlay1 d-flex align-items-start">
+                                  
+                    <span class="flag-emoji me-1">🇬🇷</span>
+                    <span class="country-name mt-2">Greece</span>
+                  
+                                  </div>
+                </a>
+                
+            <a href=https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/>
+            <h3 class="fw-bold mb-2">
+              Greece: Council of State rules interest on dividend-financing loans non-deductible            </h3>
+            </a>
+          </a>
+          <div class="date-block">25 September, 2026</div>
+          <p class="sub-article-length">
+              Greece’s Council of State has ruled that interest on loans used to finance shareholder dividends is not tax deductible, confirming that such costs fall outside ordinary business operations under Article 22 of the Income Tax Code and aligning with previous court decisions.          </p>
+          <a class="context-font-size" href=https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/>Read More</a>
+        </div>
+      </div>
+    </div>
+      </div>
+</div>            </div>
+
+            <div class="row">
+                <div class="col-12 mb-4">
+  <div class="pillar-two-wrapper p-3">
+
+    <div class="bgwhite">
+      <!-- SECTION TITLE -->
+      <div class="pillar-two-header mb-3">
+        <h3 class="fw-bold mb-1">Pillar Two</h3>
+        <div class="theme-border-bottom"></div>
+      </div>
+
+      
+      <div class="row">
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/Portugal-24-150x150.gif" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/portugal-tax-authority-opens-pillar-two-form-64-filing-service-for-2024/" class="pillar-two-title">
+                  Portugal: Tax Authority opens Pillar Two Form 64 filing service for 2024                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Lead-150x150.jpeg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/Lead-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="Brazil amends Pillar Two QDMTT rules to introduce substance-based tax incentive safe harbour" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/brazil-amends-pillar-two-qdmtt-rules-to-introduce-substance-based-tax-incentive-safe-harbour/" class="pillar-two-title">
+                  Brazil amends Pillar Two QDMTT rules to introduce substance-based tax incentive safe harbour                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/Albania_2-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/Albania_2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/albania-ratifies-pillar-two-sttr-convention/" class="pillar-two-title">
+                  Albania ratifies Pillar Two STTR convention                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/South-Africa-22-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/South-Africa-22-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/south-africa-sars-expands-gmt-support-for-pillar-two/" class="pillar-two-title">
+                  South Africa: SARS expands GMT support for Pillar Two                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/Bulgaria_1-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/Bulgaria_1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/bulgaria-proposes-convention-update-for-pillar-two-taxes/" class="pillar-two-title">
+                  Bulgaria proposes convention update for Pillar Two taxes                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Bulgaria21-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/Bulgaria21-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/bulgaria-revises-pillar-two-tax-exchange-framework/" class="pillar-two-title">
+                  Bulgaria revises Pillar Two tax exchange framework                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Albania-1-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/Albania-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/albania-deposits-ratification-instrument-for-pillar-two-sttr-mli/" class="pillar-two-title">
+                  Albania deposits ratification instrument for Pillar Two STTR MLI                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/New-Zel-17-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/New-Zel-17-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/new-zealand-inland-revenue-updates-pillar-two-globe-registration-filing-guidance/" class="pillar-two-title">
+                  New Zealand: Inland Revenue updates Pillar Two GloBE registration, filing guidance                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/b3c0e996-94f7-4e9b-add4-7c6731592ba3-150x150.png.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/b3c0e996-94f7-4e9b-add4-7c6731592ba3-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="Netherlands unveils 2027 tax plan with corporate, VAT and PIT changes" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/netherlands-unveils-2027-tax-plan-with-corporate-vat-and-pit-changes/" class="pillar-two-title">
+                  Netherlands unveils 2027 tax plan with corporate, VAT and PIT changes                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+              </div>
+
+      <!-- SEE MORE -->
+            <div class="text-end">
+        <a href="https://regfollower.com/category/tax/corporate-taxation/international/pillar-two-global-minimum-tax-gmt/" class="fw-bold">
+          See More
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+  <div class="custom-card h-100">
+    <div class="card-content d-flex flex-column h-100">
+      <div class="mb-auto">
+        <div class="title-border mb-2 fw-bold">
+          <h3>Corporate Tax</h3>
+        </div>
+        <div class="theme-border-bottom mt-3"></div>
+        <div class="corporate-news-block">
+          <ul>
+                          <li>
+                <a href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>Chile: Parliament proposes sweeping tax reforms for capital markets, foreign investment</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                  The Chilean parliament is considering the draft Law on the Reform of the                </p>
+                <a class="context-font-size" href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/>Russia proposes tax breaks for Unified Advanced Development Territory residents</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                  Russia’s Ministry for the Development of the Russian Far East and Arctic                </p>
+                <a class="context-font-size" href=https://regfollower.com/russia-proposes-tax-breaks-for-unified-advanced-development-territory-residents/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/>Switzerland: Federal Council extends loss carryforward to ten years starting 2028</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                  Switzerland’s Federal Council enacted the Federal Act on the Extension                </p>
+                <a class="context-font-size" href=https://regfollower.com/switzerland-federal-council-extends-loss-carryforward-to-ten-years-starting-2028/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/>Greece: Council of State rules interest on dividend-financing loans non-deductible</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                  Greece's Council of State issued Decision No. 370/2026 on 11 September                </p>
+                <a class="context-font-size" href=https://regfollower.com/greece-council-of-state-rules-interest-on-dividend-financing-loans-non-deductible/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/>Poland: Senate passes transfer pricing, business tax reporting reforms</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                  Poland's Senate (Upper house of Parliament) passed a legislation that                </p>
+                <a class="context-font-size" href=https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/>Read More</a>
+              </li>
+
+                      </ul>
+        </div>
+      </div>
+            <div class="theme-border-top mt-3 pt-3 text-center">
+        <a href=https://regfollower.com/category/tax/corporate-taxation/ class="fw-bold">See
+          More</a>
+      </div>
+    </div>
+  </div>
+</div>                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+  <div class="custom-card d-flex h-100">
+    <div class="card-content d-flex flex-column h-100">
+      <div class="mb-auto">
+        <div class="title-border mb-2 fw-bold">
+          <h3>Transfer Pricing</h3>
+        </div>
+        <div class="theme-border-bottom mt-3"></div>
+        <div class="corporate-news-block">
+          <ul>
+                          <li>
+                <a href=https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/>Bulgaria introduces new transfer pricing rules aligned with OECD guidelines</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                Bulgaria's new Ordinance on Transfer Pricing Methods Application (the New                </p>
+                <a class="context-font-size" href=https://regfollower.com/bulgaria-introduces-new-transfer-pricing-rules-aligned-with-oecd-guidelines/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/>Poland: Senate passes transfer pricing, business tax reporting reforms</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                Poland's Senate (Upper house of Parliament) passed a legislation that                </p>
+                <a class="context-font-size" href=https://regfollower.com/poland-senate-passes-transfer-pricing-business-tax-reporting-reforms/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/australia-ato-updates-gilti-guidance-following-us-tax-regime-changes/>Australia: ATO updates GILTI guidance following US tax regime changes</a>
+                <div class="date-block">24 September, 2026</div>
+                <p>
+                The Australian Taxation Office (ATO) has issued an Addendum to Taxation                </p>
+                <a class="context-font-size" href=https://regfollower.com/australia-ato-updates-gilti-guidance-following-us-tax-regime-changes/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/latvia-srs-issues-transfer-pricing-controlled-transaction-report-guidance/>Latvia: SRS issues transfer pricing controlled transaction report guidance</a>
+                <div class="date-block">23 September, 2026</div>
+                <p>
+                Latvia’s tax authority, the State Revenue Service, on 18 September 2026,                </p>
+                <a class="context-font-size" href=https://regfollower.com/latvia-srs-issues-transfer-pricing-controlled-transaction-report-guidance/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/>Netherlands updates interest deduction limitation rules</a>
+                <div class="date-block">23 September, 2026</div>
+                <p>
+                The Netherlands published Policy Decision No. 2026-17016 of 10 September                </p>
+                <a class="context-font-size" href=https://regfollower.com/netherlands-updates-interest-deduction-limitation-rules/>Read More</a>
+              </li>
+
+                      </ul>
+        </div>
+      </div>
+            <div class="theme-border-top mt-3 pt-3 text-center">
+        <a href=https://regfollower.com/category/tax/transfer-pricing/ class="fw-bold">
+          See More</a>
+      </div>
+    </div>
+  </div>
+</div>                <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 d-flex mb-3">
+  <div class="custom-card d-flex h-100">
+    <div class="card-content d-flex flex-column h-100">
+      <div class="mb-auto">
+        <div class="title-border mb-2 fw-bold">
+          <h3>Tax Policy</h3>
+        </div>
+        <div class="theme-border-bottom mt-3"></div>
+        <div class="corporate-news-block">
+          <ul>
+                          <li>
+                <a href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>Chile: Parliament proposes sweeping tax reforms for capital markets, foreign investment</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                The Chilean parliament is considering the draft Law on the Reform of the                </p>
+                <a class="context-font-size" href=https://regfollower.com/chile-parliament-proposes-sweeping-tax-reforms-for-capital-markets-foreign-investment/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/>Philippines: BIR issues rules for mandatory electronic invoicing</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                The Philippines' tax authority, the Bureau of Internal Revenue (BIR), has                </p>
+                <a class="context-font-size" href=https://regfollower.com/philippines-bir-issues-rules-for-mandatory-electronic-invoicing/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/>Austria extends fuel price relief through November 2026</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                The Austrian government confirmed, on 23 September 2026, that it will                </p>
+                <a class="context-font-size" href=https://regfollower.com/austria-extends-fuel-price-relief-through-november-2026/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/indonesia-parliament-approves-budget-for-2027/>Indonesia: Parliament approves budget for 2027</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                Indonesia's budget committee has given final approval to the government's                </p>
+                <a class="context-font-size" href=https://regfollower.com/indonesia-parliament-approves-budget-for-2027/>Read More</a>
+              </li>
+
+                          <li>
+                <a href=https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/>Russia plans tax increases to fund military spending through 2029</a>
+                <div class="date-block">25 September, 2026</div>
+                <p>
+                The Russian government unveiled its draft three-year budget on 24                </p>
+                <a class="context-font-size" href=https://regfollower.com/russia-plans-tax-increases-to-fund-military-spending-through-2029/>Read More</a>
+              </li>
+
+                      </ul>
+        </div>
+      </div>
+            <div class="theme-border-top mt-3 pt-3 text-center">
+        <a href=https://regfollower.com/category/tax/tax-policy/ class="fw-bold">
+          See More</a>
+      </div>
+    </div>
+  </div>
+</div>                <div class="col-12 mb-4">
+  <div class="pillar-two-wrapper treaty-wrapper p-3">
+
+    <div class="bgwhite">
+      <!-- SECTION TITLE -->
+      <div class="pillar-two-header mb-3">
+        <h3 class="fw-bold mb-1">Tax Treaty</h3>
+        <div class="theme-border-bottom"></div>
+      </div>
+
+      
+      <div class="row">
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/12/Kuwait_2-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/12/Kuwait_2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/kosovo-kuwait-agree-to-finalise-income-tax-treaty/" class="pillar-two-title">
+                  Kosovo, Kuwait agree to finalise income tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/France_2-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/France_2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/france-council-of-ministers-approves-protocol-amending-tax-treaty-with-india/" class="pillar-two-title">
+                  France: Council of Ministers approves protocol amending tax treaty with India                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/Oman_3-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/Oman_3-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/oman-angola-sign-income-tax-treaty/" class="pillar-two-title">
+                  Oman, Angola sign income tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/Czech-Rep_2-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/Czech-Rep_2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/czech-republic-uruguay-initial-income-tax-treaty/" class="pillar-two-title">
+                  Czech Republic, Uruguay initial income tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2022/07/Vietnam_1-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2022/07/Vietnam_1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/vietnam-egypt-agree-to-sign-new-tax-treaty/" class="pillar-two-title">
+                  Vietnam, Egypt agree to sign new tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2025/07/reg-follower-azerbaijan2-150x150.png.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2025/07/reg-follower-azerbaijan2-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="azerbaijan parliament" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/azerbaijan-cambodia-agree-on-tax-provisions-in-draft-income-tax-treaty/" class="pillar-two-title">
+                  Azerbaijan, Cambodia agree on tax provisions in draft income tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/70e5458f-6f24-4232-99c9-0ad05424f17e-150x150.png.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/70e5458f-6f24-4232-99c9-0ad05424f17e-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="Romania confirms BEPS MLI entry into effect for tax treaty with Montenegro" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/romania-confirms-beps-mli-entry-into-effect-for-tax-treaty-with-montenegro/" class="pillar-two-title">
+                  Romania confirms BEPS MLI entry into effect for tax treaty with Montenegro                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2025/07/reg-follower-georgia1-150x150.png.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2025/07/reg-follower-georgia1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="georgia parliament" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/georgia-san-marino-tax-treaty-amending-protocol-enters-into-force/" class="pillar-two-title">
+                  Georgia, San Marino: Amending protocol to tax treaty enters into force                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+                  <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+            <div class="pillar-two-item d-flex">
+
+              <!-- IMAGE -->
+              <div class="pillar-two-thumb me-3">
+                                  <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/Peru-150x150.jpg.webp" type="image/webp"><img width="150" height="150" src="https://regfollower.com/wp-content/uploads/2026/09/Peru-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image webpexpress-processed" alt="" decoding="async"></picture>                              </div>
+
+              <!-- CONTENT -->
+              <div class="pillar-two-content">
+                <a href="https://regfollower.com/peru-spain-reaffirm-commitment-to-concluding-income-tax-treaty/" class="pillar-two-title">
+                  Peru, Spain reaffirm commitment to concluding income tax treaty                </a>
+              </div>
+
+            </div>
+
+            <div class="pillar-two-divider"></div>
+          </div>
+              </div>
+
+      <!-- SEE MORE -->
+              <div class="text-end">
+        <a href="https://regfollower.com/category/agreements/double-taxation-treaties/" class="fw-bold">
+          See More
+        </a>
+      </div>
+    </div>
+
+  </div>
+</div>            </div>
+          </div>
+        </div>
+      </div>
+      <aside class="col-xxl-3 col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+        <div id="custom_html-2" class="widget_text content-box mb-3 widget_custom_html"><div class="textwidget custom-html-widget"><div class="wp-block-group__inner-container">
+  <div class="mb-3">
+    <div class="title-border mb-2 fw-bold">
+      <h3>Monthly Regbriefings</h3>
+    </div>
+    <div class="theme-border-bottom my-3"></div>
+    <p class="mb-3">
+      Sign up for monthly expert-led briefings on tax and transfer pricing
+    </p>
+    <a
+      href="https://regplus.reganalytics.com/regbrief/home/myBriefings"
+      target="_blank"
+      class="theme-blue-btn"
+      >Subscribe for Free</a
+    >
+  </div>
+</div></div></div><div id="block-7" class="content-box mb-3 widget_block">
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+      <div class="mb-3">
+              <div class="tools-content mb-4">
+          <div class="card-feature-img mb-2" style="max-height: 100%;">
+            <a href="https://taxsignals.com/signup?utm_source=regfollower&#038;utm_medium=banner&#038;utm_campaign=direct_country_selection" target="_blank">
+              <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/06/tax-news-for-only-your-countries.jpg.webp" type="image/webp"><img decoding="async" src="https://regfollower.com/wp-content/uploads/2026/06/tax-news-for-only-your-countries.jpg" alt="Tax Signals" class="img-fluid webpexpress-processed"></picture>
+              <!-- <div class="img-description">
+                <p><p>We cleared your desk.</p>
+</p>
+              </div> -->
+            </a>
+          </div>
+        </div>
+              <div class="tools-content mb-4">
+          <div class="card-feature-img mb-2" style="max-height: 100%;">
+            <a href="https://tinyurl.com/48svy2er" target="_blank">
+              <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/01/new-regfollower-widget-banner.png.webp" type="image/webp"><img decoding="async" src="https://regfollower.com/wp-content/uploads/2026/01/new-regfollower-widget-banner.png" alt="Smart global tax management" class="img-fluid webpexpress-processed"></picture>
+              <!-- <div class="img-description">
+                <p><p>Smart global tax management Global Tax Research Worldwide TP Compliance Pillar 2 Tax Management Collaboration Tools Tax Calendars &amp; Visualisation</p>
+</p>
+              </div> -->
+            </a>
+          </div>
+        </div>
+          </div>
+  
+</div></div>
+
+</div>        <div class="content-box mb-3">
+            <div class="archive-block">
+                <h3>Archive</h3>
+                <div>
+                    <!-- <select class="form-select my-3" aria-label="" name="archive-dropdown" onChange="document.location.href=this.options[this.selectedIndex].value;"> -->
+                    <select class="form-select my-3" aria-label="" name="archive-dropdown" id="month-year-archive">
+                        <option selected>Select Month</option>
+                        	<option value='https://regfollower.com/2026/09/'> September 2026 </option>
+	<option value='https://regfollower.com/2026/08/'> August 2026 </option>
+	<option value='https://regfollower.com/2026/07/'> July 2026 </option>
+	<option value='https://regfollower.com/2026/06/'> June 2026 </option>
+	<option value='https://regfollower.com/2026/05/'> May 2026 </option>
+	<option value='https://regfollower.com/2026/04/'> April 2026 </option>
+	<option value='https://regfollower.com/2026/03/'> March 2026 </option>
+	<option value='https://regfollower.com/2026/02/'> February 2026 </option>
+	<option value='https://regfollower.com/2026/01/'> January 2026 </option>
+	<option value='https://regfollower.com/2025/12/'> December 2025 </option>
+	<option value='https://regfollower.com/2025/11/'> November 2025 </option>
+	<option value='https://regfollower.com/2025/10/'> October 2025 </option>
+	<option value='https://regfollower.com/2025/09/'> September 2025 </option>
+	<option value='https://regfollower.com/2025/08/'> August 2025 </option>
+	<option value='https://regfollower.com/2025/07/'> July 2025 </option>
+	<option value='https://regfollower.com/2025/06/'> June 2025 </option>
+	<option value='https://regfollower.com/2025/05/'> May 2025 </option>
+	<option value='https://regfollower.com/2025/04/'> April 2025 </option>
+	<option value='https://regfollower.com/2025/03/'> March 2025 </option>
+	<option value='https://regfollower.com/2025/02/'> February 2025 </option>
+	<option value='https://regfollower.com/2025/01/'> January 2025 </option>
+	<option value='https://regfollower.com/2024/12/'> December 2024 </option>
+	<option value='https://regfollower.com/2024/11/'> November 2024 </option>
+	<option value='https://regfollower.com/2024/10/'> October 2024 </option>
+	<option value='https://regfollower.com/2024/09/'> September 2024 </option>
+	<option value='https://regfollower.com/2024/08/'> August 2024 </option>
+	<option value='https://regfollower.com/2024/07/'> July 2024 </option>
+	<option value='https://regfollower.com/2024/06/'> June 2024 </option>
+	<option value='https://regfollower.com/2024/05/'> May 2024 </option>
+	<option value='https://regfollower.com/2024/04/'> April 2024 </option>
+	<option value='https://regfollower.com/2024/03/'> March 2024 </option>
+	<option value='https://regfollower.com/2024/02/'> February 2024 </option>
+	<option value='https://regfollower.com/2024/01/'> January 2024 </option>
+	<option value='https://regfollower.com/2023/12/'> December 2023 </option>
+	<option value='https://regfollower.com/2023/11/'> November 2023 </option>
+	<option value='https://regfollower.com/2023/10/'> October 2023 </option>
+	<option value='https://regfollower.com/2023/09/'> September 2023 </option>
+	<option value='https://regfollower.com/2023/08/'> August 2023 </option>
+	<option value='https://regfollower.com/2023/07/'> July 2023 </option>
+	<option value='https://regfollower.com/2023/06/'> June 2023 </option>
+	<option value='https://regfollower.com/2023/05/'> May 2023 </option>
+	<option value='https://regfollower.com/2023/04/'> April 2023 </option>
+	<option value='https://regfollower.com/2023/03/'> March 2023 </option>
+	<option value='https://regfollower.com/2023/02/'> February 2023 </option>
+	<option value='https://regfollower.com/2023/01/'> January 2023 </option>
+	<option value='https://regfollower.com/2022/12/'> December 2022 </option>
+	<option value='https://regfollower.com/2022/11/'> November 2022 </option>
+	<option value='https://regfollower.com/2022/10/'> October 2022 </option>
+	<option value='https://regfollower.com/2022/09/'> September 2022 </option>
+	<option value='https://regfollower.com/2022/08/'> August 2022 </option>
+	<option value='https://regfollower.com/2022/07/'> July 2022 </option>
+	<option value='https://regfollower.com/2022/06/'> June 2022 </option>
+	<option value='https://regfollower.com/2022/05/'> May 2022 </option>
+	<option value='https://regfollower.com/2022/04/'> April 2022 </option>
+	<option value='https://regfollower.com/2022/03/'> March 2022 </option>
+	<option value='https://regfollower.com/2022/02/'> February 2022 </option>
+	<option value='https://regfollower.com/2022/01/'> January 2022 </option>
+	<option value='https://regfollower.com/2021/12/'> December 2021 </option>
+	<option value='https://regfollower.com/2021/11/'> November 2021 </option>
+	<option value='https://regfollower.com/2021/10/'> October 2021 </option>
+	<option value='https://regfollower.com/2021/09/'> September 2021 </option>
+	<option value='https://regfollower.com/2021/08/'> August 2021 </option>
+	<option value='https://regfollower.com/2021/07/'> July 2021 </option>
+	<option value='https://regfollower.com/2021/06/'> June 2021 </option>
+	<option value='https://regfollower.com/2021/05/'> May 2021 </option>
+	<option value='https://regfollower.com/2021/04/'> April 2021 </option>
+	<option value='https://regfollower.com/2021/03/'> March 2021 </option>
+	<option value='https://regfollower.com/2021/02/'> February 2021 </option>
+	<option value='https://regfollower.com/2021/01/'> January 2021 </option>
+	<option value='https://regfollower.com/2020/12/'> December 2020 </option>
+	<option value='https://regfollower.com/2020/11/'> November 2020 </option>
+	<option value='https://regfollower.com/2020/10/'> October 2020 </option>
+	<option value='https://regfollower.com/2020/09/'> September 2020 </option>
+	<option value='https://regfollower.com/2020/08/'> August 2020 </option>
+	<option value='https://regfollower.com/2020/07/'> July 2020 </option>
+	<option value='https://regfollower.com/2020/06/'> June 2020 </option>
+	<option value='https://regfollower.com/2020/05/'> May 2020 </option>
+	<option value='https://regfollower.com/2020/04/'> April 2020 </option>
+	<option value='https://regfollower.com/2020/03/'> March 2020 </option>
+	<option value='https://regfollower.com/2020/02/'> February 2020 </option>
+	<option value='https://regfollower.com/2020/01/'> January 2020 </option>
+	<option value='https://regfollower.com/2019/12/'> December 2019 </option>
+	<option value='https://regfollower.com/2019/11/'> November 2019 </option>
+	<option value='https://regfollower.com/2019/10/'> October 2019 </option>
+	<option value='https://regfollower.com/2019/09/'> September 2019 </option>
+	<option value='https://regfollower.com/2019/08/'> August 2019 </option>
+	<option value='https://regfollower.com/2019/07/'> July 2019 </option>
+	<option value='https://regfollower.com/2019/06/'> June 2019 </option>
+	<option value='https://regfollower.com/2019/05/'> May 2019 </option>
+	<option value='https://regfollower.com/2019/04/'> April 2019 </option>
+	<option value='https://regfollower.com/2019/03/'> March 2019 </option>
+	<option value='https://regfollower.com/2019/02/'> February 2019 </option>
+	<option value='https://regfollower.com/2019/01/'> January 2019 </option>
+	<option value='https://regfollower.com/2018/12/'> December 2018 </option>
+	<option value='https://regfollower.com/2018/11/'> November 2018 </option>
+	<option value='https://regfollower.com/2018/10/'> October 2018 </option>
+	<option value='https://regfollower.com/2018/09/'> September 2018 </option>
+	<option value='https://regfollower.com/2018/08/'> August 2018 </option>
+	<option value='https://regfollower.com/2018/07/'> July 2018 </option>
+	<option value='https://regfollower.com/2018/06/'> June 2018 </option>
+	<option value='https://regfollower.com/2018/05/'> May 2018 </option>
+	<option value='https://regfollower.com/2018/04/'> April 2018 </option>
+	<option value='https://regfollower.com/2018/03/'> March 2018 </option>
+	<option value='https://regfollower.com/2018/02/'> February 2018 </option>
+	<option value='https://regfollower.com/2018/01/'> January 2018 </option>
+	<option value='https://regfollower.com/2017/12/'> December 2017 </option>
+	<option value='https://regfollower.com/2017/11/'> November 2017 </option>
+	<option value='https://regfollower.com/2017/10/'> October 2017 </option>
+	<option value='https://regfollower.com/2017/09/'> September 2017 </option>
+	<option value='https://regfollower.com/2017/08/'> August 2017 </option>
+	<option value='https://regfollower.com/2017/07/'> July 2017 </option>
+	<option value='https://regfollower.com/2017/06/'> June 2017 </option>
+	<option value='https://regfollower.com/2017/05/'> May 2017 </option>
+	<option value='https://regfollower.com/2017/04/'> April 2017 </option>
+	<option value='https://regfollower.com/2017/03/'> March 2017 </option>
+	<option value='https://regfollower.com/2017/02/'> February 2017 </option>
+	<option value='https://regfollower.com/2017/01/'> January 2017 </option>
+	<option value='https://regfollower.com/2016/12/'> December 2016 </option>
+	<option value='https://regfollower.com/2016/11/'> November 2016 </option>
+	<option value='https://regfollower.com/2016/10/'> October 2016 </option>
+	<option value='https://regfollower.com/2016/09/'> September 2016 </option>
+	<option value='https://regfollower.com/2016/08/'> August 2016 </option>
+	<option value='https://regfollower.com/2016/07/'> July 2016 </option>
+	<option value='https://regfollower.com/2016/06/'> June 2016 </option>
+	<option value='https://regfollower.com/2016/05/'> May 2016 </option>
+	<option value='https://regfollower.com/2016/04/'> April 2016 </option>
+	<option value='https://regfollower.com/2016/03/'> March 2016 </option>
+	<option value='https://regfollower.com/2016/02/'> February 2016 </option>
+	<option value='https://regfollower.com/2016/01/'> January 2016 </option>
+	<option value='https://regfollower.com/2015/12/'> December 2015 </option>
+	<option value='https://regfollower.com/2015/11/'> November 2015 </option>
+	<option value='https://regfollower.com/2015/10/'> October 2015 </option>
+	<option value='https://regfollower.com/2015/09/'> September 2015 </option>
+	<option value='https://regfollower.com/2015/08/'> August 2015 </option>
+	<option value='https://regfollower.com/2015/07/'> July 2015 </option>
+	<option value='https://regfollower.com/2015/06/'> June 2015 </option>
+	<option value='https://regfollower.com/2015/05/'> May 2015 </option>
+	<option value='https://regfollower.com/2015/04/'> April 2015 </option>
+	<option value='https://regfollower.com/2015/03/'> March 2015 </option>
+	<option value='https://regfollower.com/2015/02/'> February 2015 </option>
+	<option value='https://regfollower.com/2015/01/'> January 2015 </option>
+	<option value='https://regfollower.com/2014/12/'> December 2014 </option>
+	<option value='https://regfollower.com/2014/11/'> November 2014 </option>
+	<option value='https://regfollower.com/2014/10/'> October 2014 </option>
+	<option value='https://regfollower.com/2014/09/'> September 2014 </option>
+	<option value='https://regfollower.com/2014/08/'> August 2014 </option>
+	<option value='https://regfollower.com/2014/07/'> July 2014 </option>
+	<option value='https://regfollower.com/2014/06/'> June 2014 </option>
+	<option value='https://regfollower.com/2014/05/'> May 2014 </option>
+	<option value='https://regfollower.com/2014/04/'> April 2014 </option>
+	<option value='https://regfollower.com/2014/03/'> March 2014 </option>
+	<option value='https://regfollower.com/2014/02/'> February 2014 </option>
+	<option value='https://regfollower.com/2014/01/'> January 2014 </option>
+	<option value='https://regfollower.com/2013/12/'> December 2013 </option>
+	<option value='https://regfollower.com/2013/11/'> November 2013 </option>
+	<option value='https://regfollower.com/2013/10/'> October 2013 </option>
+	<option value='https://regfollower.com/2013/09/'> September 2013 </option>
+	<option value='https://regfollower.com/2013/08/'> August 2013 </option>
+	<option value='https://regfollower.com/2013/07/'> July 2013 </option>
+	<option value='https://regfollower.com/2013/06/'> June 2013 </option>
+	<option value='https://regfollower.com/2013/05/'> May 2013 </option>
+	<option value='https://regfollower.com/2013/04/'> April 2013 </option>
+	<option value='https://regfollower.com/2013/03/'> March 2013 </option>
+	<option value='https://regfollower.com/2013/02/'> February 2013 </option>
+	<option value='https://regfollower.com/2013/01/'> January 2013 </option>
+	<option value='https://regfollower.com/2012/12/'> December 2012 </option>
+	<option value='https://regfollower.com/2012/11/'> November 2012 </option>
+	<option value='https://regfollower.com/2012/10/'> October 2012 </option>
+	<option value='https://regfollower.com/2012/09/'> September 2012 </option>
+	<option value='https://regfollower.com/2012/08/'> August 2012 </option>
+	<option value='https://regfollower.com/2012/07/'> July 2012 </option>
+	<option value='https://regfollower.com/2012/06/'> June 2012 </option>
+	<option value='https://regfollower.com/2012/05/'> May 2012 </option>
+	<option value='https://regfollower.com/2012/04/'> April 2012 </option>
+	<option value='https://regfollower.com/2012/03/'> March 2012 </option>
+	<option value='https://regfollower.com/2012/02/'> February 2012 </option>
+	<option value='https://regfollower.com/2012/01/'> January 2012 </option>
+	<option value='https://regfollower.com/2011/12/'> December 2011 </option>
+	<option value='https://regfollower.com/2011/11/'> November 2011 </option>
+	<option value='https://regfollower.com/2011/10/'> October 2011 </option>
+	<option value='https://regfollower.com/2011/09/'> September 2011 </option>
+	<option value='https://regfollower.com/2011/08/'> August 2011 </option>
+	<option value='https://regfollower.com/2011/07/'> July 2011 </option>
+                    </select>
+                </div>
+            </div>
+            <div class="specific-news-block">
+                <h3>Country Specific News</h3>
+                <div class="my-3">
+                    <select class="form-select my-3" aria-label="" id="wp-right-sidebar-country-news" name="country">
+                        <option selected>Select Country</option>
+                                                    <option value="afghanistan"  >
+                                Afghanistan                            </option>
+                                                    <option value="albania"  >
+                                Albania                            </option>
+                                                    <option value="algeria"  >
+                                Algeria                            </option>
+                                                    <option value="american-samoa"  >
+                                American Samoa                            </option>
+                                                    <option value="andorra"  >
+                                Andorra                            </option>
+                                                    <option value="angola"  >
+                                Angola                            </option>
+                                                    <option value="anguilla"  >
+                                Anguilla                            </option>
+                                                    <option value="antarctica"  >
+                                Antarctica                            </option>
+                                                    <option value="antigua-and-barbuda"  >
+                                Antigua and Barbuda                            </option>
+                                                    <option value="argentina"  >
+                                Argentina                            </option>
+                                                    <option value="armenia"  >
+                                Armenia                            </option>
+                                                    <option value="aruba"  >
+                                Aruba                            </option>
+                                                    <option value="australia"  >
+                                Australia                            </option>
+                                                    <option value="austria"  >
+                                Austria                            </option>
+                                                    <option value="azerbaijan"  >
+                                Azerbaijan                            </option>
+                                                    <option value="bahamas"  >
+                                Bahamas                            </option>
+                                                    <option value="bahrain"  >
+                                Bahrain                            </option>
+                                                    <option value="bangladesh"  >
+                                Bangladesh                            </option>
+                                                    <option value="barbados"  >
+                                Barbados                            </option>
+                                                    <option value="belarus"  >
+                                Belarus                            </option>
+                                                    <option value="belgium"  >
+                                Belgium                            </option>
+                                                    <option value="belize"  >
+                                Belize                            </option>
+                                                    <option value="benin"  >
+                                Benin                            </option>
+                                                    <option value="bermuda"  >
+                                Bermuda                            </option>
+                                                    <option value="bhutan"  >
+                                Bhutan                            </option>
+                                                    <option value="bolivia"  >
+                                Bolivia                            </option>
+                                                    <option value="bosnia-and-herzegovina"  >
+                                Bosnia and Herzegovina                            </option>
+                                                    <option value="botswana"  >
+                                Botswana                            </option>
+                                                    <option value="bouvet-island"  >
+                                Bouvet Island                            </option>
+                                                    <option value="brazil"  >
+                                Brazil                            </option>
+                                                    <option value="british-indian-ocean-territory"  >
+                                British Indian Ocean Territory                            </option>
+                                                    <option value="brunei"  >
+                                Brunei                            </option>
+                                                    <option value="bulgaria"  >
+                                Bulgaria                            </option>
+                                                    <option value="burkina-faso"  >
+                                Burkina Faso                            </option>
+                                                    <option value="burundi"  >
+                                Burundi                            </option>
+                                                    <option value="cambodia"  >
+                                Cambodia                            </option>
+                                                    <option value="cameroon"  >
+                                Cameroon                            </option>
+                                                    <option value="canada"  >
+                                Canada                            </option>
+                                                    <option value="cape-verde"  >
+                                Cape Verde                            </option>
+                                                    <option value="cayman-islands"  >
+                                Cayman Islands                            </option>
+                                                    <option value="central-african-republic"  >
+                                Central African Republic                            </option>
+                                                    <option value="chad"  >
+                                Chad                            </option>
+                                                    <option value="chile"  >
+                                Chile                            </option>
+                                                    <option value="china"  >
+                                China                            </option>
+                                                    <option value="christmas-island"  >
+                                Christmas Island                            </option>
+                                                    <option value="cocos-(keeling)-islands"  >
+                                Cocos (Keeling) Islands                            </option>
+                                                    <option value="colombia"  >
+                                Colombia                            </option>
+                                                    <option value="comoros"  >
+                                Comoros                            </option>
+                                                    <option value="congo"  >
+                                Congo                            </option>
+                                                    <option value="congo,-the-democratic-republic-of-the"  >
+                                Congo DRC                            </option>
+                                                    <option value="cook-islands"  >
+                                Cook Islands                            </option>
+                                                    <option value="costa-rica"  >
+                                Costa Rica                            </option>
+                                                    <option value="cote-d'ivoire"  >
+                                Cote D'Ivoire                            </option>
+                                                    <option value="croatia"  >
+                                Croatia                            </option>
+                                                    <option value="cuba"  >
+                                Cuba                            </option>
+                                                    <option value="cyprus"  >
+                                Cyprus                            </option>
+                                                    <option value="czech-republic"  >
+                                Czech Republic                            </option>
+                                                    <option value="denmark"  >
+                                Denmark                            </option>
+                                                    <option value="djibouti"  >
+                                Djibouti                            </option>
+                                                    <option value="dominica"  >
+                                Dominica                            </option>
+                                                    <option value="dominican-republic"  >
+                                Dominican Republic                            </option>
+                                                    <option value="ecuador"  >
+                                Ecuador                            </option>
+                                                    <option value="egypt"  >
+                                Egypt                            </option>
+                                                    <option value="el-salvador"  >
+                                El Salvador                            </option>
+                                                    <option value="equatorial-guinea"  >
+                                Equatorial Guinea                            </option>
+                                                    <option value="eritrea"  >
+                                Eritrea                            </option>
+                                                    <option value="estonia"  >
+                                Estonia                            </option>
+                                                    <option value="ethiopia"  >
+                                Ethiopia                            </option>
+                                                    <option value="eu"  >
+                                EU                            </option>
+                                                    <option value="falkland-islands-(malvinas)"  >
+                                Falkland Islands (Malvinas)                            </option>
+                                                    <option value="faroe-islands"  >
+                                Faroe Islands                            </option>
+                                                    <option value="fiji"  >
+                                Fiji                            </option>
+                                                    <option value="finland"  >
+                                Finland                            </option>
+                                                    <option value="france"  >
+                                France                            </option>
+                                                    <option value="french-guiana"  >
+                                French Guiana                            </option>
+                                                    <option value="french-polynesia"  >
+                                French Polynesia                            </option>
+                                                    <option value="french-southern-territories"  >
+                                French Southern Territories                            </option>
+                                                    <option value="gabon"  >
+                                Gabon                            </option>
+                                                    <option value="gambia"  >
+                                Gambia                            </option>
+                                                    <option value="georgia"  >
+                                Georgia                            </option>
+                                                    <option value="germany"  >
+                                Germany                            </option>
+                                                    <option value="ghana"  >
+                                Ghana                            </option>
+                                                    <option value="gibraltar"  >
+                                Gibraltar                            </option>
+                                                    <option value="greece"  >
+                                Greece                            </option>
+                                                    <option value="greenland"  >
+                                Greenland                            </option>
+                                                    <option value="grenada"  >
+                                Grenada                            </option>
+                                                    <option value="guadeloupe"  >
+                                Guadeloupe                            </option>
+                                                    <option value="guam"  >
+                                Guam                            </option>
+                                                    <option value="guatemala"  >
+                                Guatemala                            </option>
+                                                    <option value="guinea"  >
+                                Guinea                            </option>
+                                                    <option value="guinea-bissau"  >
+                                Guinea-Bissau                            </option>
+                                                    <option value="guyana"  >
+                                Guyana                            </option>
+                                                    <option value="haiti"  >
+                                Haiti                            </option>
+                                                    <option value="heard-island-and-mcdonald-islands"  >
+                                Heard Island and Mcdonald Islands                            </option>
+                                                    <option value="holy-see-(vatican-city-state)"  >
+                                Holy See (Vatican City State)                            </option>
+                                                    <option value="honduras"  >
+                                Honduras                            </option>
+                                                    <option value="hong-kong"  >
+                                Hong Kong                            </option>
+                                                    <option value="hungary"  >
+                                Hungary                            </option>
+                                                    <option value="iceland"  >
+                                Iceland                            </option>
+                                                    <option value="india"  >
+                                India                            </option>
+                                                    <option value="indonesia"  >
+                                Indonesia                            </option>
+                                                    <option value="iran"  >
+                                Iran                            </option>
+                                                    <option value="iraq"  >
+                                Iraq                            </option>
+                                                    <option value="ireland"  >
+                                Ireland                            </option>
+                                                    <option value="israel"  >
+                                Israel                            </option>
+                                                    <option value="italy"  >
+                                Italy                            </option>
+                                                    <option value="jamaica"  >
+                                Jamaica                            </option>
+                                                    <option value="japan"  >
+                                Japan                            </option>
+                                                    <option value="jersey"  >
+                                Jersey                            </option>
+                                                    <option value="jordan"  >
+                                Jordan                            </option>
+                                                    <option value="kazakhstan"  >
+                                Kazakhstan                            </option>
+                                                    <option value="kenya"  >
+                                Kenya                            </option>
+                                                    <option value="kiribati"  >
+                                Kiribati                            </option>
+                                                    <option value="korea-rep-of
+
+"  >
+                                Korea (Rep.)                            </option>
+                                                    <option value="korea,-democratic-people's-republic-of"  >
+                                Korea, Democratic People's Republic of                            </option>
+                                                    <option value="kosovo"  >
+                                Kosovo                            </option>
+                                                    <option value="kuwait"  >
+                                Kuwait                            </option>
+                                                    <option value="kyrgyzstan"  >
+                                Kyrgyzstan                            </option>
+                                                    <option value="laos"  >
+                                Laos                            </option>
+                                                    <option value="latvia"  >
+                                Latvia                            </option>
+                                                    <option value="lebanon"  >
+                                Lebanon                            </option>
+                                                    <option value="lesotho"  >
+                                Lesotho                            </option>
+                                                    <option value="liberia"  >
+                                Liberia                            </option>
+                                                    <option value="libya
+"  >
+                                Libya                            </option>
+                                                    <option value="liechtenstein"  >
+                                Liechtenstein                            </option>
+                                                    <option value="lithuania"  >
+                                Lithuania                            </option>
+                                                    <option value="luxembourg"  >
+                                Luxembourg                            </option>
+                                                    <option value="macao"  >
+                                Macao                            </option>
+                                                    <option value="madagascar"  >
+                                Madagascar                            </option>
+                                                    <option value="malawi"  >
+                                Malawi                            </option>
+                                                    <option value="malaysia"  >
+                                Malaysia                            </option>
+                                                    <option value="maldives"  >
+                                Maldives                            </option>
+                                                    <option value="mali"  >
+                                Mali                            </option>
+                                                    <option value="malta"  >
+                                Malta                            </option>
+                                                    <option value="marshall-islands"  >
+                                Marshall Islands                            </option>
+                                                    <option value="martinique"  >
+                                Martinique                            </option>
+                                                    <option value="mauritania"  >
+                                Mauritania                            </option>
+                                                    <option value="mauritius"  >
+                                Mauritius                            </option>
+                                                    <option value="mayotte"  >
+                                Mayotte                            </option>
+                                                    <option value="mexico"  >
+                                Mexico                            </option>
+                                                    <option value="micronesia,-federated-states-of"  >
+                                Micronesia, Federated States of                            </option>
+                                                    <option value="moldova,-republic-of"  >
+                                Moldova, Republic of                            </option>
+                                                    <option value="monaco"  >
+                                Monaco                            </option>
+                                                    <option value="mongolia"  >
+                                Mongolia                            </option>
+                                                    <option value="montenegro"  >
+                                Montenegro                            </option>
+                                                    <option value="montserrat"  >
+                                Montserrat                            </option>
+                                                    <option value="morocco"  >
+                                Morocco                            </option>
+                                                    <option value="mozambique"  >
+                                Mozambique                            </option>
+                                                    <option value="myanmar"  >
+                                Myanmar                            </option>
+                                                    <option value="namibia"  >
+                                Namibia                            </option>
+                                                    <option value="nauru"  >
+                                Nauru                            </option>
+                                                    <option value="nepal"  >
+                                Nepal                            </option>
+                                                    <option value="netherlands"  >
+                                Netherlands                            </option>
+                                                    <option value="netherlands-antilles"  >
+                                Netherlands Antilles                            </option>
+                                                    <option value="new-caledonia"  >
+                                New Caledonia                            </option>
+                                                    <option value="new-zealand"  >
+                                New Zealand                            </option>
+                                                    <option value="nicaragua"  >
+                                Nicaragua                            </option>
+                                                    <option value="niger"  >
+                                Niger                            </option>
+                                                    <option value="nigeria"  >
+                                Nigeria                            </option>
+                                                    <option value="niue"  >
+                                Niue                            </option>
+                                                    <option value="norfolk-island"  >
+                                Norfolk Island                            </option>
+                                                    <option value="macedonia,-the-former-yugoslav-republic-of"  >
+                                North Macedonia                            </option>
+                                                    <option value="northern-mariana-islands"  >
+                                Northern Mariana Islands                            </option>
+                                                    <option value="norway"  >
+                                Norway                            </option>
+                                                    <option value="oman"  >
+                                Oman                            </option>
+                                                    <option value="pakistan"  >
+                                Pakistan                            </option>
+                                                    <option value="palau"  >
+                                Palau                            </option>
+                                                    <option value="palestine"  >
+                                Palestine                            </option>
+                                                    <option value="panama"  >
+                                Panama                            </option>
+                                                    <option value="papua-new-guinea"  >
+                                Papua New Guinea                            </option>
+                                                    <option value="paraguay"  >
+                                Paraguay                            </option>
+                                                    <option value="peru"  >
+                                Peru                            </option>
+                                                    <option value="philippines"  >
+                                Philippines                            </option>
+                                                    <option value="pitcairn"  >
+                                Pitcairn                            </option>
+                                                    <option value="poland"  >
+                                Poland                            </option>
+                                                    <option value="portugal"  >
+                                Portugal                            </option>
+                                                    <option value="puerto-rico"  >
+                                Puerto Rico                            </option>
+                                                    <option value="qatar"  >
+                                Qatar                            </option>
+                                                    <option value="reunion"  >
+                                Reunion                            </option>
+                                                    <option value="romania"  >
+                                Romania                            </option>
+                                                    <option value="russia"  >
+                                Russia                            </option>
+                                                    <option value="rwanda"  >
+                                Rwanda                            </option>
+                                                    <option value="saint-helena"  >
+                                Saint Helena                            </option>
+                                                    <option value="saint-kitts-and-nevis"  >
+                                Saint Kitts and Nevis                            </option>
+                                                    <option value="saint-lucia"  >
+                                Saint Lucia                            </option>
+                                                    <option value="saint-pierre-and-miquelon"  >
+                                Saint Pierre and Miquelon                            </option>
+                                                    <option value="saint-vincent-and-the-grenadines"  >
+                                Saint Vincent and the Grenadines                            </option>
+                                                    <option value="samoa"  >
+                                Samoa                            </option>
+                                                    <option value="san-marino"  >
+                                San Marino                            </option>
+                                                    <option value="sao-tome-and-principe"  >
+                                Sao Tome and Principe                            </option>
+                                                    <option value="saudi-arabia"  >
+                                Saudi Arabia                            </option>
+                                                    <option value="senegal"  >
+                                Senegal                            </option>
+                                                    <option value="serbia"  >
+                                Serbia                            </option>
+                                                    <option value="seychelles"  >
+                                Seychelles                            </option>
+                                                    <option value="sierra-leone"  >
+                                Sierra Leone                            </option>
+                                                    <option value="singapore"  >
+                                Singapore                            </option>
+                                                    <option value="slovak-republic"  >
+                                Slovak Republic                            </option>
+                                                    <option value="slovenia"  >
+                                Slovenia                            </option>
+                                                    <option value="solomon-islands"  >
+                                Solomon Islands                            </option>
+                                                    <option value="somalia"  >
+                                Somalia                            </option>
+                                                    <option value="south-africa"  >
+                                South Africa                            </option>
+                                                    <option value="south-georgia-and-the-south-sandwich-islands"  >
+                                South Georgia and the South Sandwich Islands                            </option>
+                                                    <option value="spain"  >
+                                Spain                            </option>
+                                                    <option value="sri-lanka"  >
+                                Sri Lanka                            </option>
+                                                    <option value="sudan"  >
+                                Sudan                            </option>
+                                                    <option value="suriname"  >
+                                Suriname                            </option>
+                                                    <option value="svalbard-and-jan-mayen"  >
+                                Svalbard and Jan Mayen                            </option>
+                                                    <option value="swaziland"  >
+                                Swaziland                            </option>
+                                                    <option value="sweden"  >
+                                Sweden                            </option>
+                                                    <option value="switzerland"  >
+                                Switzerland                            </option>
+                                                    <option value="syrian-arab-republic"  >
+                                Syrian Arab Republic                            </option>
+                                                    <option value="taiwan"  >
+                                Taiwan                            </option>
+                                                    <option value="tajikistan"  >
+                                Tajikistan                            </option>
+                                                    <option value="tanzania"  >
+                                Tanzania                            </option>
+                                                    <option value="thailand"  >
+                                Thailand                            </option>
+                                                    <option value="timor-leste"  >
+                                Timor-Leste                            </option>
+                                                    <option value="togo"  >
+                                Togo                            </option>
+                                                    <option value="tokelau"  >
+                                Tokelau                            </option>
+                                                    <option value="tonga"  >
+                                Tonga                            </option>
+                                                    <option value="trinidad-and-tobago"  >
+                                Trinidad and Tobago                            </option>
+                                                    <option value="tunisia"  >
+                                Tunisia                            </option>
+                                                    <option value="turkey"  >
+                                Turkey                            </option>
+                                                    <option value="turkmenistan"  >
+                                Turkmenistan                            </option>
+                                                    <option value="turks-and-caicos-islands"  >
+                                Turks and Caicos Islands                            </option>
+                                                    <option value="tuvalu"  >
+                                Tuvalu                            </option>
+                                                    <option value="uae"  >
+                                UAE                            </option>
+                                                    <option value="uganda"  >
+                                Uganda                            </option>
+                                                    <option value="uk"  >
+                                UK                            </option>
+                                                    <option value="ukraine"  >
+                                Ukraine                            </option>
+                                                    <option value="united-states-minor-outlying-islands"  >
+                                United States Minor Outlying Islands                            </option>
+                                                    <option value="uruguay"  >
+                                Uruguay                            </option>
+                                                    <option value="us"  >
+                                US                            </option>
+                                                    <option value="uzbekistan"  >
+                                Uzbekistan                            </option>
+                                                    <option value="vanuatu"  >
+                                Vanuatu                            </option>
+                                                    <option value="venezuela"  >
+                                Venezuela                            </option>
+                                                    <option value="vietnam"  >
+                                Vietnam                            </option>
+                                                    <option value="virgin-islands,-british"  >
+                                Virgin Islands, British                            </option>
+                                                    <option value="virgin-islands,-u.s."  >
+                                Virgin Islands, U.s.                            </option>
+                                                    <option value="wallis-and-futuna"  >
+                                Wallis and Futuna                            </option>
+                                                    <option value="western-sahara"  >
+                                Western Sahara                            </option>
+                                                    <option value="yemen"  >
+                                Yemen                            </option>
+                                                    <option value="zambia"  >
+                                Zambia                            </option>
+                                                    <option value="zimbabwe"  >
+                                Zimbabwe                            </option>
+                                            </select>
+                    <script type="text/javascript">
+                        /* <![CDATA[ */
+                        (function () {
+                            let dropdown = document.getElementById('wp-right-sidebar-country-news');
+                            let site_url = 'https://regfollower.com';
+                            function onCountryChange() {
+                                location.href = `${site_url}/tag/` + dropdown.options[dropdown.selectedIndex].value;
+                            }
+                            dropdown.onchange = onCountryChange;
+                        })();
+                        /* ]]> */
+                    </script>
+                </div>
+            </div>
+            <!-- <div class="newscat-block">
+                <h3>News Category</h3>
+                <div>
+                                        <script type="text/javascript">
+                        /* <![CDATA[ */
+                        (function () {
+                            let dropdown = document.getElementById('wp-right-sidebar-news-cat');
+                            let site_url = 'https://regfollower.com';
+
+                            function onCatChange() {
+                                if (dropdown.options[dropdown.selectedIndex].value > 0) {
+                                    location.href = `${site_url}/?cat=` + dropdown.options[dropdown.selectedIndex].value;
+                                }
+                            }
+
+                            dropdown.onchange = onCatChange;
+                        })();
+                        /* ]]> */
+                    </script>
+                </div>
+            </div> -->
+        </div>
+              </aside>
+    </div>
+    <div class="row">
+  <div class="col-12">
+    <section class="mb-3">
+      <div class="custom-card">
+        <div class="card-content">
+          <div class="title-border mb-2 fw-bold">
+            <h3>Most Read</h3>
+          </div>
+          <div class="theme-border-bottom mt-3 mb-3"></div>
+          <div class="row trending-block">
+                          <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 d-flex flex-column mb-3">
+                <div class="bullet-style">
+                  1                </div>
+                <div class="custom-card sub-article">
+                  <div class="card-image card-feature-img trending-posts-img position-relative">
+                    <a href=https://regfollower.com/oecd-expands-innotax-portal-to-cover-both-expenditure-income-based-rd-tax-incentives/>
+                      <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/e3b8078d-9be1-4ccf-9cc0-bed012f23a49.jpeg.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/e3b8078d-9be1-4ccf-9cc0-bed012f23a49.jpeg" alt="article image" class="img-fluid wp-post-image webpexpress-processed"></picture>
+                    </a>
+
+                                      </div>
+                  <div class="card-content">
+
+                    
+                    <a href=https://regfollower.com/oecd-expands-innotax-portal-to-cover-both-expenditure-income-based-rd-tax-incentives/>
+                      <h3 class="fw-bold mb-2">
+                        OECD expands INNOTAX portal to cover both expenditure, income-based R&amp;D tax incentives                      </h3>
+                    </a>
+                    <div class="date-block">22 September, 2026</div>
+                    <p class="sub-article-length">
+                                                                  The Organisation for Economic Co-operation and Development (OECD) announced in September 2026 the launch of an updated version of its INNOTAX portal,                    </p>
+                    <a href=https://regfollower.com/oecd-expands-innotax-portal-to-cover-both-expenditure-income-based-rd-tax-incentives/>Read More</a>
+                  </div>
+                </div>
+              </div>
+                          <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 d-flex flex-column mb-3">
+                <div class="bullet-style">
+                  2                </div>
+                <div class="custom-card sub-article">
+                  <div class="card-image card-feature-img trending-posts-img position-relative">
+                    <a href=https://regfollower.com/australia-treasury-proposes-major-changes-to-rd-tax-incentive-initiates-consultation/>
+                      <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/5c8bedff-bae0-4df6-a7ff-0c7077e54a30.jpeg.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/5c8bedff-bae0-4df6-a7ff-0c7077e54a30.jpeg" alt="article image" class="img-fluid wp-post-image webpexpress-processed"></picture>
+                    </a>
+
+                                      </div>
+                  <div class="card-content">
+
+                                          <a href="https://regfollower.com/australia-treasury-proposes-major-changes-to-rd-tax-incentive-initiates-consultation/" class="country-overlay-link">
+                      <div class="country-overlay1 d-flex align-items-start">
+                                              
+                          <span class="flag-emoji me-1">🇦🇺</span>
+                          <span class="country-name mt-2">Australia</span>
+                        
+                                              </div>
+                      </a>
+                      
+                    <a href=https://regfollower.com/australia-treasury-proposes-major-changes-to-rd-tax-incentive-initiates-consultation/>
+                      <h3 class="fw-bold mb-2">
+                        Australia: Treasury proposes major changes to R&amp;D tax incentive, initiates consultation                      </h3>
+                    </a>
+                    <div class="date-block">16 September, 2026</div>
+                    <p class="sub-article-length">
+                                                                  The Australian Treasury has released draft legislation to overhaul the nation&#8217;s tax framework for emerging businesses and research ventures.                    </p>
+                    <a href=https://regfollower.com/australia-treasury-proposes-major-changes-to-rd-tax-incentive-initiates-consultation/>Read More</a>
+                  </div>
+                </div>
+              </div>
+                          <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 d-flex flex-column mb-3">
+                <div class="bullet-style">
+                  3                </div>
+                <div class="custom-card sub-article">
+                  <div class="card-image card-feature-img trending-posts-img position-relative">
+                    <a href=https://regfollower.com/new-zealand-2026-27-budget-implementation-bill-proposes-rd-tax-reforms/>
+                      <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/New-zealland.jpg.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/New-zealland.jpg" alt="article image" class="img-fluid wp-post-image webpexpress-processed"></picture>
+                    </a>
+
+                                      </div>
+                  <div class="card-content">
+
+                                          <a href="https://regfollower.com/new-zealand-2026-27-budget-implementation-bill-proposes-rd-tax-reforms/" class="country-overlay-link">
+                      <div class="country-overlay1 d-flex align-items-start">
+                                              
+                          <span class="flag-emoji me-1">🇳🇿</span>
+                          <span class="country-name mt-2">New Zealand</span>
+                        
+                                              </div>
+                      </a>
+                      
+                    <a href=https://regfollower.com/new-zealand-2026-27-budget-implementation-bill-proposes-rd-tax-reforms/>
+                      <h3 class="fw-bold mb-2">
+                        New Zealand: 2026/27 Budget implementation bill proposes R&amp;D tax reforms                      </h3>
+                    </a>
+                    <div class="date-block">14 September, 2026</div>
+                    <p class="sub-article-length">
+                                                                  New Zealand’s Minister of Revenue has introduced the Taxation (Annual Rates for 2026–27, FBT Simplification, Foreign Investment Funds, and                    </p>
+                    <a href=https://regfollower.com/new-zealand-2026-27-budget-implementation-bill-proposes-rd-tax-reforms/>Read More</a>
+                  </div>
+                </div>
+              </div>
+                          <div class="col-xxl-3 col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 d-flex flex-column mb-3">
+                <div class="bullet-style">
+                  4                </div>
+                <div class="custom-card sub-article">
+                  <div class="card-image card-feature-img trending-posts-img position-relative">
+                    <a href=https://regfollower.com/us-and-china-extend-trade-truce-push-for-bigger-agreement/>
+                      <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/09/46b66885-f7b8-422d-9c9b-136e7733f2a4.jpeg.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/09/46b66885-f7b8-422d-9c9b-136e7733f2a4.jpeg" alt="article image" class="img-fluid wp-post-image webpexpress-processed"></picture>
+                    </a>
+
+                                      </div>
+                  <div class="card-content">
+
+                                          <a href="https://regfollower.com/us-and-china-extend-trade-truce-push-for-bigger-agreement/" class="country-overlay-link">
+                      <div class="country-overlay1 d-flex align-items-start">
+                                              
+                          <span class="flag-emoji me-1">🇨🇳</span>
+                          <span class="country-name mt-2">China</span>
+                        
+                                                
+                          <span class="flag-emoji me-1">🇺🇸</span>
+                          <span class="country-name mt-2">US</span>
+                        
+                                              </div>
+                      </a>
+                      
+                    <a href=https://regfollower.com/us-and-china-extend-trade-truce-push-for-bigger-agreement/>
+                      <h3 class="fw-bold mb-2">
+                        US and China extend trade truce, push for bigger agreement                      </h3>
+                    </a>
+                    <div class="date-block">24 September, 2026</div>
+                    <p class="sub-article-length">
+                                                                  The US and China agreed, on 23 September 2026, to extend their trade truce by two months, pushing the expiration date to 10 January 2027. The                    </p>
+                    <a href=https://regfollower.com/us-and-china-extend-trade-truce-push-for-bigger-agreement/>Read More</a>
+                  </div>
+                </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>  </div>
+</main>
+
+<footer class="site-footer py-4">
+  <div class="custom-container container-fluid">
+    <div class="row">
+      <div class="col-12 theme-border-bottom pb-3 mb-3">
+        <div class="d-flex align-items-center">
+          <div class="flex-grow-1 footer-logo">
+            <a href="https://regfollower.com/">
+              <picture><source srcset="https://regfollower.com/wp-content/webp-express/webp-images/uploads/2026/04/logo_regfollower_v1.1.png.webp" type="image/webp"><img src="https://regfollower.com/wp-content/uploads/2026/04/logo_regfollower_v1.1.png" alt="Regfollower – Tracking regulatory changes around the world" class="img-fluid flogo webpexpress-processed"></picture>
+            </a>
+							<div id="custom-sidebar" class="widget-area">
+					<div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><p class="d-flex w-50 mt-3">Regfollower delivers comprehensive coverage of regulatory developments. It makes navigating the complex and ever-changing landscape of international tax and trade rules simpler, faster, and accurate. Stay informed. Stay connected.
+</p></div></div>				</div>
+			          </div>
+          <div class="social-block d-flex">
+                          <!--<a href="" target="_blank">
+                <img src="" class="svg-icon img-fluid" alt="" title="">
+              </a>-->
+                                      <a href="https://twitter.com/regfollower" target="_blank">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/footer-tw.svg" class="svg-icon img-fluid" alt="X" title="Regfollower &#8211; Tracking regulatory changes around the world in X">
+              </a>
+                                      <a href="https://www.linkedin.com/company/regulatory-analytics/posts/" target="_blank">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/footer-lin.svg" class="svg-icon img-fluid" alt="LinkedIn" title="Regfollower &#8211; Tracking regulatory changes around the world in LinkedIn">
+              </a>
+                        <!--               <a href="https://www.instagram.com/" target="_blank">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/footer-ins.svg" class="svg-icon img-fluid" alt="Instagram" title="Regfollower &#8211; Tracking regulatory changes around the world in Instagram">
+              </a>
+             -->
+            <!--               <a href="https://www.youtube.com" target="_blank">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/footer-yt.svg" class="svg-icon img-fluid" alt="YouTube" title="Regfollower &#8211; Tracking regulatory changes around the world in YouTube">
+              </a>
+             -->
+            <!--               <a href="https://regfollower.com/feed/" target="_blank">
+                <img src="https://regfollower.com/wp-content/themes/reg-follower/assets/images/footer-rss.svg" class="svg-icon img-fluid" alt="RSS Feed" title="Regfollower &#8211; Tracking regulatory changes around the world RSS Feed">
+              </a>
+             -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 d-flex pb-3 footer-nav">
+        <ul id="menu-footer" class="menu"><li id="menu-item-48426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48426"><a href="https://regfollower.com/about/">About Us</a></li>
+<li id="menu-item-48466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48466"><a href="https://regfollower.com/editorial-board/">Editorial Board</a></li>
+<li id="menu-item-48467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48467"><a href="https://regfollower.com/promote-your-services/">Promote Your Services</a></li>
+<li id="menu-item-48301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48301"><a href="https://regfollower.com/promote-your-services/">Become a RegReporter</a></li>
+<li id="menu-item-48465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48465"><a href="https://regfollower.com/promote-your-services/">Become RegLeader</a></li>
+<li id="menu-item-48468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48468"><a href="https://regfollower.com/legal/">Legal</a></li>
+<li id="menu-item-48470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48470"><a href="https://regfollower.com/contact/">Contact Us</a></li>
+</ul>      </div>
+      <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 d-flex pb-3 mt-3 newsletter-block ">
+        <div class=" mx-xxl-auto mx-xl-auto mx-lg-auto mx-0">
+                      <h3>Monthly Regbriefings</h3>
+
+            <p class="mb-3">
+              Sign up for monthly expert-led briefings on tax and transfer pricing            </p>
+
+            <a href="https://regplus.reganalytics.com/auth/signup" class="theme-blue-btn" target="_blank">
+              Subscribe for Free            </a>
+                  </div>
+      </div>
+      <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 d-flex mt-3">
+        <div class="product-link mx-xxl-auto mx-xl-auto mx-lg-auto mx-0">
+          <h3>Products & Services</h3>
+          <ul id="menu-products-services" class="menu"><li id="menu-item-48512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48512"><a target="_blank" href="https://regfollower.com/wp-content/uploads/2026/04/Transfer-Pricing-Analyzer-1.pdf">Transfer Pricing Analyzer (TPA)</a></li>
+<li id="menu-item-48511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48511"><a target="_blank" href="https://regfollower.com/wp-content/uploads/2026/04/World-Tax-Analyzer.pdf">World Tax Analyzer (WTA)</a></li>
+</ul>        </div>
+      </div>
+    </div>
+          <div class="row">
+        <div class="col-12 theme-border-top mt-3 pt-3">
+          <p><em>IMPORTANT NOTICE: RegFollower has taken reasonable care in sourcing and presenting the information and materials contained on this website, including any information provided by contributors, but expressly excludes any responsibility for any financial or other loss or damage, direct or indirect, that may result from its use. Such information and material should not be construed as legal, tax, accounting or any other professional advice or service. Users of the website and the information and materials it contains should take appropriate professional advice before acting on or refraining from taking action based thereon. All rights reserved &copy;2026 Regfollower - Tracking regulatory changes around the world</em></p>
+        </div>
+      </div>
+      </div>
+</footer>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/reg-follower/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="linkedin-login-script-js-extra">
+var kazLinLogin = {"ajaxUrl":"https://regfollower.com/wp-admin/admin-ajax.php"};
+//# sourceURL=linkedin-login-script-js-extra
+</script>
+<script id="linkedin-login-script-js" src="https://regfollower.com/wp-content/plugins/kaz-linkedin-login/assets/js/linkedin-login.js?ver=1.0"></script>
+<script id="rf-bootstrap-script-js" src="https://regfollower.com/wp-content/themes/reg-follower/assets/vendors/bootstrap/bootstrap.bundle.min.js?ver=1.0.0"></script>
+<script id="regfollower-script-js-extra">
+var site_base_url = {"home_url":"https://regfollower.com","ajaxurl":"https://regfollower.com/wp-admin/admin-ajax.php","my_nonce":"c00b571818","month_archive_page_url":"https://regfollower.com/month-archive/"};
+//# sourceURL=regfollower-script-js-extra
+</script>
+<script id="regfollower-script-js" src="https://regfollower.com/wp-content/themes/reg-follower/assets/js/regfollower.js?ver=1.0.0"></script>
+<script id="tertiary-posts-classes-js" src="https://regfollower.com/wp-content/themes/reg-follower/assets/js/tertiary-posts-classes.js?ver=1.0.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://regfollower.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.6"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://regfollower.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+
+</html>

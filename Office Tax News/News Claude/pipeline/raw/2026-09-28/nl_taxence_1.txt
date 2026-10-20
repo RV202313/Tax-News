@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Mon, 28 Sep 2026 09:23:41 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Waarom belastingramingen in de begroting ten onrechte centraal staan</title>
+		<link>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/</link>
+					<comments>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 09:23:32 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167807</guid>
+
+					<description><![CDATA[Een raming is nog geen belastingopbrengst. Toch worden in Den Haag miljarden aan verwachte fiscale inkomsten ingeboekt alsof het geld al binnen is. Vervolgens worden diezelfde ramingen gebruikt als argument om belastingwetgeving door te zetten, aan te passen of juist tegen te houden. Box 3 laat volgens mr. dr. Ineke Koele zien hoe riskant dat<a class="read-more" href="https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Een raming is nog geen belastingopbrengst. Toch worden in Den Haag miljarden aan verwachte fiscale inkomsten ingeboekt alsof het geld al binnen is. Vervolgens worden diezelfde ramingen gebruikt als argument om belastingwetgeving door te zetten, aan te passen of juist tegen te houden. Box 3 laat volgens mr. dr. Ineke Koele zien hoe riskant dat mechanisme is: gedragseffecten, juridische procedures en tegenvallende opbrengsten laten zich nu eenmaal niet netjes in een begrotingsmodel vangen. Wanneer verandert een onzekere raming eigenlijk in een politiek feit — en wie kijkt achteraf nog of die raming ooit is uitgekomen?<br>Koele, oprichter van Stichting The Floris dat zich inzet voor een fair fiscaal debat, betoogt dat fiscale ramingen veel minder houvast bieden dan politiek en media suggereren en dat de huidige begrotingssystematiek daarmee de inhoudelijke discussie over belastingwetgeving kan gaan dicteren.</p>
+
+
+
+<p class="wp-block-paragraph">Het hele artikel is <strong><a href="https://www.thefloris.nl/opinie/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/" data-type="link" data-id="https://www.thefloris.nl/opinie/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/" target="_blank" rel="noreferrer noopener">hier</a></strong> te lezen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/waarom-belastingramingen-in-de-begroting-ten-onrechte-centraal-staan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Regering-DenHaag.jpg" length="79694" type="image/jpeg" />	</item>
+		<item>
+		<title>Brandweermanarrest is geen nieuwe jurisprudentie</title>
+		<link>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/</link>
+					<comments>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 07:47:21 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167803</guid>
+
+					<description><![CDATA[Hof Den Haag oordeelt dat het Brandweermanarrest geen nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest. Een brandweervrijwilliger heeft daarom alsnog recht op ambtshalve vermindering van zijn aanslag over 2020.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Den Haag oordeelt dat het Brandweermanarrest geen nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest. Een brandweervrijwilliger heeft daarom alsnog recht op ambtshalve vermindering van zijn aanslag over 2020.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrijwilliger bij de brandweer raakt in 2012 betrokken bij een ongeval en houdt daaraan 4% blijvende invaliditeit aan zijn schouder over. Op grond van een ongevallenverzekering ontvangt hij via de veiligheidsregio in 2020 € 2.037 en in 2021 € 51. Hij geeft de bedragen aan als loon uit vroegere dienstbetrekking. Na het Brandweermanarrest van de Hoge Raad uit 2022 verzoekt hij om ambtshalve vermindering. De inspecteur wijst het verzoek voor 2020 af, omdat het arrest volgens hem nieuwe jurisprudentie is die dateert van nadat de aanslag onherroepelijk vaststaat. In geschil is of het Brandweermanarrest inderdaad als nieuwe jurisprudentie geldt.</p>
+
+
+
+<h2 class="wp-block-heading">Brandweermanarrest verduidelijkt hoofdregel</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof vergelijkt het Brandweermanarrest met het Smeerkuilarrest uit 1983. Daarin oordeelde de Hoge Raad al dat vergoedingen van een werkgever wegens immateriële schade en verlies aan arbeidskracht in beginsel geen loon zijn. In het Brandweermanarrest herhaalt de Hoge Raad deze hoofdregel en verduidelijkt hij wanneer daarop een uitzondering geldt. Die uitzondering doet zich voor als de werkgever een hogere vergoeding toekent dan rechtstreeks uit zijn aansprakelijkheid voortvloeit. Volgens het hof wijkt deze uitleg niet af van de rechtsregel uit het Smeerkuilarrest. Het Brandweermanarrest vormt daarom geen nieuwe jurisprudentie.</p>
+
+
+
+<h2 class="wp-block-heading">Ambtshalve vermindering voor 2020</h2>
+
+
+
+<p class="wp-block-paragraph">De inspecteur erkent dat de werkgever niet meer heeft uitgekeerd dan uit zijn aansprakelijkheid voortvloeit en dat de ontvangen vergoeding volgens het Brandweermanarrest geen belastbaar loon vormt. Omdat geen sprake is van nieuwe jurisprudentie, staat art. 45aa UR IB 2001 niet aan ambtshalve vermindering in de weg. Het hoger beroep van de man is gegrond. Het hof verlaagt zijn belastbare inkomen uit werk en woning over 2020 met € 2.037 van € 66.629 naar € 64.592.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 9.6 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHDHA_2026_2777" target="_blank" rel="noreferrer noopener">Gerechtshof Den Haag, 01-09-2026, ECLI:NL:GHDHA:2026:2777, BK-25/751 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/brandweermanarrest-is-geen-nieuwe-jurisprudentie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Brandweerman.jpg" length="50694" type="image/jpeg" />	</item>
+		<item>
+		<title>Saneringskosten privégrond vormen winstuitdeling aan dga</title>
+		<link>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/</link>
+					<comments>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 07:45:41 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167801</guid>
+
+					<description><![CDATA[Hof Amsterdam oordeelt dat € 123.872 aan saneringskosten die een bv betaalt voor privégrond van haar dga een winstuitdeling vormt. De saneringsplicht rust op de dga en een zakelijke reden voor betaling door de bv ontbreekt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Amsterdam oordeelt dat € 123.872 aan saneringskosten die een bv betaalt voor privégrond van haar dga een winstuitdeling vormt. De saneringsplicht rust op de dga en een zakelijke reden voor betaling door de bv ontbreekt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man is indirect enig aandeelhouder van een bv die een benzinestation en autowasstraat exploiteert op grond die privé van hem is. Bij de aankoop van de grond in 2000 verplicht de man zich om deze voor eigen rekening en risico te saneren. Ook in een huurovereenkomst die hij in 2013 met een nieuwe exploitant sluit, neemt hij de verplichting op om het perceel voor eigen rekening te saneren en bouwrijp op te leveren. In 2014 vindt de sanering plaats. De kosten worden echter door de bv betaald en in haar boekhouding verwerkt. De inspecteur merkt uiteindelijk € 123.872 aan saneringskosten aan als een uitdeling en belast dit bedrag in box 2. In geschil is of dat terecht is.</p>
+
+
+
+<h2 class="wp-block-heading">Saneringsplicht rust op dga</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur aannemelijk maakt dat sprake is van een winstuitdeling. De man heeft zich bij aankoop van de grond persoonlijk verplicht tot sanering. Nergens blijkt uit dat de bv deze verplichting later heeft overgenomen. Ook uit de huurovereenkomst uit 2013 volgt dat de sanering voor rekening en risico van de man komt. Voor het betalen van de saneringskosten door de bv bestaat daarom geen zakelijke grond. Door deze kosten toch te dragen, verschuift vermogen van de bv naar haar aandeelhouder. Zowel de bv als de man moet zich bewust zijn geweest van deze bevoordeling.</p>
+
+
+
+<h2 class="wp-block-heading">Voordeel ontstaat bij betaling kosten</h2>
+
+
+
+<p class="wp-block-paragraph">De winstuitdeling wordt genoten op het moment dat de bv de kosten betaalt die de man zelf had moeten dragen. Zijn voordeel is gelijk aan het bedrag dat hij daardoor aan kosten bespaart. Het hof acht ook voldoende aannemelijk dat de meegenomen facturen verband houden met de sanering of het bouwrijp maken van het perceel. De inspecteur maakt daarmee volgens de normale bewijslastverdeling aannemelijk dat de man € 123.872 als winstuitkering en inkomen uit aanmerkelijk belang geniet. Omkering en verzwaring van de bewijslast is daarvoor niet nodig. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-4.12?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4.12 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHAMS_2026_2576" target="_blank" rel="noreferrer noopener">Gerechtshof Amsterdam, 30-06-2026, ECLI:NL:GHAMS:2026:2576, 25/2022 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/saneringskosten-privegrond-vormen-winstuitdeling-aan-dga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Grond-graaf.jpg" length="67260" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleidsbesluit Wet minimumbelasting 2024</title>
+		<link>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/</link>
+					<comments>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167789</guid>
+
+					<description><![CDATA[De staatssecretaris van Financiën heeft het Beleidsbesluit minimumbelasting 2024 gepubliceerd. Het besluit bevat beleid en verduidelijkingen over de toepassing van de Wet minimumbelasting 2024 (WMB 2024), mede gebaseerd op eerder gepubliceerde kennisgroep- en beleidsstandpunten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De staatssecretaris van Financiën heeft het Beleidsbesluit minimumbelasting 2024 gepubliceerd. Het besluit bevat beleid en verduidelijkingen over de toepassing van de Wet minimumbelasting 2024 (WMB 2024), mede gebaseerd op eerder gepubliceerde kennisgroep- en beleidsstandpunten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De WMB 2024 beoogt dat multinationale en omvangrijke binnenlandse groepen met een omzet van ten minste € 750 miljoen effectief minimaal 15% belasting over hun winst betalen. Het besluit verduidelijkt onder meer verschillende kernbegrippen. Zo kwalificeert een Nederlandse commanditaire vennootschap die afzonderlijke financiële verslaggeving opstelt als entiteit, ook zonder publicatieplicht. Voor het begrip overheid zijn met name overheidscontrole en het optreden als niet-marktproducent relevant; de actuele CBS-lijst van instellingen in de sector overheid kan daarbij als praktisch richtsnoer dienen. Vooroverleg blijft mogelijk.</p>
+
+
+
+<h2 class="wp-block-heading">Doorkijkentiteit</h2>
+
+
+
+<p class="wp-block-paragraph">Verder wordt het begrip doorkijkentiteit toegelicht. Een entiteit kan partieel als doorkijkentiteit kwalificeren. Daarbij is niet doorslaggevend of zij voor de vennootschapsbelasting subjectief belastingplichtig is; bepalend is of inkomsten, uitgaven, winsten of verliezen fiscaal worden behandeld alsof zij door de belanghouders zijn verworven of gemaakt.</p>
+
+
+
+<p class="wp-block-paragraph">Het besluit verduidelijkt ook wanneer organisaties als non-profitorganisatie kwalificeren. Een APV voldoet niet aan de vereiste doelstelling. Onder voorwaarden kunnen zorgverzekeraars wel kwalificeren. Passief aan derden verhuurd vastgoed vormt op zichzelf geen vaste inrichting volgens art. 1.2 lid 1 onderdeel d WMB 2024.</p>
+
+
+
+<p class="wp-block-paragraph">Bij een interne overdracht van een laagbelaste groepsentiteit gedurende het verslagjaar wordt de inkomen-inclusiebijheffing tijdsevenredig toegerekend aan de betrokken moederentiteiten. Verder kwalificeren onder meer de opbrengst- en vastgoedbelasting op de BES-eilanden als betrokken belastingen.</p>
+
+
+
+<h2 class="wp-block-heading">Veiligehavenregels</h2>
+
+
+
+<p class="wp-block-paragraph">Ten slotte geeft het besluit uitleg over de veiligehavenregels. Zakelijke leningen binnen een Nederlandse fiscale eenheid vormen niet zonder meer een gestructureerde hybride regeling waarop de antimisbruikbepaling van art. 8.8a WMB 2024 van toepassing is. Bij een incidenteel afwijkend verslagjaar, bijvoorbeeld door fusie, liquidatie of oprichting, kan de kwalificerende binnenlandse bijheffing onder voorwaarden op basis van de lokale verslaggevingsstandaard berekend blijven worden. Het besluit treedt in werking met ingang van 26 september 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stcrt-2026-32160.html" target="_blank" rel="noreferrer noopener">Beleidsbesluit van 22 september 2026, nr. 2026-15692, Ministerie van Financiën, <em>Staatscourant</em> 2026, nr. 32160</a></p>
+
+
+
+<h2 class="wp-block-heading">Standpunten Kennisgroep Pijler 2 ingetrokken wegens opname in Beleidsbesluit minimumbelasting 2024</h2>
+
+
+
+<p class="wp-block-paragraph">De Kennisgroep Pijler 2 heeft <a href="https://kennisgroepen.belastingdienst.nl/standpunten-kennisgroep-pijler-2-ingetrokken-wegens-opname-in-beleidsbesluit-minimumbelasting-2024/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunten-kennisgroep-pijler-2-ingetrokken-wegens-opname-in-beleidsbesluit-minimumbelasting-2024/" target="_blank" rel="noreferrer noopener">twee standpunten ingetrokken </a>in verband met de inwerkingtreding van het dit besluit. Het betreft de volgende twee standpunten:</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg91120241-invulling-begrip-overheid-binnen-de-wet-minimumbelasting-2024/">KG:911:2024:1</a> Invulling begrip overheid binnen de Wet minimumbelasting 2024</p>
+
+
+
+<p class="wp-block-paragraph"><a href="https://kennisgroepen.belastingdienst.nl/publicaties/ingetrokken-kg91120254-berekening-van-inkomen-inclusieheffing-bij-interne-overdracht-van-een-laagbelaste-groepsentiteit/">KG:911:2025:4</a> Berekening van inkomen-inclusieheffing bij interne overdracht van een laagbelaste groepsentiteit</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Pillar 2 &#8211; Wet minimumbelasting 2024 (Pijler 2) | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Na het volgen van deze Masterclass heb je een goed beeld van de inhoud en de structuur van de Pillar 2-regels, het concept van de berekening van de Pillar 2 effectieve winstbelastingdruk (inclusief een basisbegrip van Tax Accounting), zodat je in de praktijk de relevante verplichtingen alsmede de vraagpunten kunt herkennen en de regels kunt toepassen.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93" href="https://www.licentacademy.nl/opleidingen/masterclasses/2979/masterclass-pillar-2" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-7b0b3d4d-c55f-4cb4-beb8-b517d9ba2b93 > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/beleidsbesluit-wet-minimumbelasting-2024/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/01/geld-minimumbelasting.jpg" length="64117" type="image/jpeg" />	</item>
+		<item>
+		<title>Grote erfenis leidt vaker tot verhuizing en investering in woning</title>
+		<link>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/</link>
+					<comments>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 05:22:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167799</guid>
+
+					<description><![CDATA[Mensen die € 50.000 of meer erven van hun ouders, verhuizen vaker en komen na een verhuizing vaker in een koopwoning, vrijstaande woning of grotere woning terecht. Ook investeren zij vaker in zonnepanelen, terwijl het effect van de erfenis op extra hypotheekaflossingen relatief beperkt is. Dat blijkt uit onderzoek van het Centraal Bureau voor de<a class="read-more" href="https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Mensen die € 50.000 of meer erven van hun ouders, verhuizen vaker en komen na een verhuizing vaker in een koopwoning, vrijstaande woning of grotere woning terecht. Ook investeren zij vaker in zonnepanelen, terwijl het effect van de erfenis op extra hypotheekaflossingen relatief beperkt is. Dat blijkt uit onderzoek van het Centraal Bureau voor de Statistiek (CBS).</strong></p>
+
+
+
+<p class="wp-block-paragraph">Voor het onderzoek volgde het CBS ruim 30.500 kinderen van wie de laatste ouder uit de geboortegeneratie 1936-1945 in 2018 overleed. Hun woonsituatie werd vergeleken met die van kinderen van ouders uit dezelfde generatie die vier jaar later overleden. Op die manier onderzocht het CBS in hoeverre veranderingen op de woningmarkt samenhangen met het ontvangen van een erfenis.</p>
+
+
+
+<h3 class="wp-block-heading">Bijna een derde ontvangt geregistreerde erfenis</h3>
+
+
+
+<p class="wp-block-paragraph">Van de onderzochte kinderen van wie de laatste ouder in 2018 overleed, ontving 31% een bij de Belastingdienst geregistreerde erfenis. De mediane netto-erfenis bedroeg € 43.000. Van alle onderzochte kinderen ontving 14% ten minste € 50.000 en 6% € 100.000 of meer.</p>
+
+
+
+<p class="wp-block-paragraph">Vooral bij erfenissen vanaf € 50.000 is een duidelijk verschil in verhuisgedrag zichtbaar. Van deze erfgenamen verhuisde 21% in de drie jaar na het overlijden van de ouder. In de controlegroep, die pas vier jaar later een vergelijkbare erfenis ontving, was dat 14%.</p>
+
+
+
+<h3 class="wp-block-heading">Vaker naar grotere en vrijstaande koopwoning</h3>
+
+
+
+<p class="wp-block-paragraph">Erfgenamen die na ontvangst van minimaal € 50.000 verhuisden, kwamen bovendien vaker in een grotere woning terecht. Het aandeel dat in een vrijstaande woning woonde, steeg binnen drie jaar van 15% naar 29%. Bij de controlegroep ging het om een stijging van 17% naar 25%.</p>
+
+
+
+<p class="wp-block-paragraph">Ook het woonoppervlak nam relatief sterk toe. Het aandeel erfgenamen met een woning van minimaal 150 vierkante meter steeg van 27% naar 46%. In de controlegroep was de toename beperkter, van 30% naar 39%. Tegelijkertijd daalde bij de erfgenamen het aandeel dat in een appartement woonde van 25% naar 17%.</p>
+
+
+
+<p class="wp-block-paragraph">Ook de stap naar een koopwoning werd vaker gezet. Onder verhuizende ontvangers van een erfenis van minimaal € 50.000 nam het eigenwoningbezit toe van 72% naar 83%. Bij de controlegroep steeg dit slechts van 71% naar 73%. Een deel van de erfgenamen ging in de voormalige woning van de overleden ouder wonen.</p>
+
+
+
+<h3 class="wp-block-heading">Meer zonnepanelen, beperkt extra aflossen</h3>
+
+
+
+<p class="wp-block-paragraph">Een grote erfenis hangt ook samen met investeringen in de bestaande woning. Het aandeel ontvangers van minimaal € 50.000 dat in een woning met zonnepanelen woonde, steeg van 10% naar 25%. In de controlegroep nam dit aandeel toe van 10% naar 21%.</p>
+
+
+
+<p class="wp-block-paragraph">Het effect op de hypotheekschuld was kleiner. Bij ontvangers van minimaal € 50.000 daalde de gemiddelde hypotheekschuld tussen 2018 en 2020 van € 186.000 naar € 173.000, een afname van € 13.000. In de controlegroep daalde de schuld met ongeveer € 3.000. Het CBS wijst erop dat erfgenamen hun geld mogelijk ook aan andere verbeteringen van de eigen woning hebben besteed.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.cbs.nl/nl-nl/nieuws/2026/40/mensen-met-grote-erfenis-verhuizen-vaker-en-investeren-meer-in-woning" data-type="link" data-id="https://www.cbs.nl/nl-nl/nieuws/2026/40/mensen-met-grote-erfenis-verhuizen-vaker-en-investeren-meer-in-woning" target="_blank" rel="noreferrer noopener">CBS, 28 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/grote-erfenis-leidt-vaker-tot-verhuizing-en-investering-in-woning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/05/Verhuizen.jpg" length="30377" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt over terugkomen op keuze om lening als eigenwoningschuld aan te merken</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 04:13:00 +0000</pubDate>
+				<category><![CDATA[Eigen woning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167795</guid>
+
+					<description><![CDATA[De Kennisgroep onroerende zaken heeft de vraag beantwoord of een belastingplichtige kan terugkomen op de keuze om een lening als (bestaande) eigenwoningschuld aan te merken in box 1.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep onroerende zaken heeft de vraag beantwoord of een belastingplichtige kan terugkomen op de keuze om een lening als (bestaande) eigenwoningschuld aan te merken in box 1.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De vraag is voorgelegd of een belastingplichtige kan terugkomen op een gemaakte keuze over de lening die hij als bestaande eigenwoningschuld in box 1 heeft aangegeven. Daartoe is ter illustratie het volgende voorbeeld gegeven.</p>
+
+
+
+<p class="wp-block-paragraph">Een belastingplichtige koopt een nieuwe woning, waarvoor de maximale eigenwoningschuld €&nbsp;800.000 bedraagt. Hij financiert deze aankoop met twee aflossingsvrije leningen van € 400.000. Voor een bedrag van € 400.000 heeft de belastingplichtige recht op het overgangsrecht voor bestaande eigenwoningschulden. In de aangifte van het belastingjaar van aankoop geeft hij aflossingsvrije lening 1 van €&nbsp;400.000 als BEWS in box 1 aan en aflossingsvrije lening 2 van €&nbsp;400.000 in box 3. Na de aankoop hebben zich geen gewijzigde omstandigheden met betrekking tot de woning voorgedaan.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan de belastingplichtige in de aangifte van een belastingjaar volgend op het jaar van aankoop aflossingsvrije lening 1 die hij aanvankelijk als BEWS in box 1 heeft aangegeven als box 3-schuld aangeven en omgekeerd aflossingsvrije lening 2 die aanvankelijk in box 3 viel als BEWS in box 1 aangeven?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee, tenzij de aanslag van het belastingjaar van aankoop nog niet onherroepelijk vaststaat.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-belastingplichtige-kan-terugkomen-op-de-keuze-om-een-lening-als-eigenwoningschuld-aan-te-merken/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-vraag-of-een-belastingplichtige-kan-terugkomen-op-de-keuze-om-een-lening-als-eigenwoningschuld-aan-te-merken/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Fiscaliteiten in de Eigenwoningregeling | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens deze masterclass worden de volgende onderwerpen besproken en toegelicht met praktische voorbeelden:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Oud recht en nieuw recht</li>
+
+
+
+<li>Gevolgen van het renteaftrekverleden</li>
+
+
+
+<li>Volgorde in de samenstelling van een eigenwoningschuld</li>
+
+
+
+<li>Toepassing van het overgangsrecht en de aflossingsstand</li>
+
+
+
+<li>Wettelijke regeling en draagplichtovereenkomst</li>
+
+
+
+<li>Verkrijging van het eigendom van de woning van de (ex-)partner</li>
+
+
+
+<li>Gevolgen van aflossingen op oud of op nieuw recht</li>
+</ul>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b" href="https://www.licentacademy.nl/opleidingen/masterclasses/2982/masterclass-in-de-eigenwoningregeling" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-0ceee0ad-754c-4be2-9c4e-e7fc57a89d2b > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-over-terugkomen-op-keuze-om-lening-als-eigenwoningschuld-aan-te-merken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/02/woning-waarde.jpg" length="25883" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt vaste vergoeding met terugwerkende kracht</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 04:10:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167793</guid>
+
+					<description><![CDATA[De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de vraag of een werkgever gerichte vrijstellingen kan toepassen op een achteraf toegekende vaste vergoeding.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep loonheffing algemeen heeft een standpunt ingenomen over de vraag of een werkgever gerichte vrijstellingen kan toepassen op een achteraf toegekende vaste vergoeding.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In september 2025 besluit een werkgever met terugwerkende kracht vanaf 1 april 2025 een vaste kostenvergoeding toe te kennen aan zijn werknemers. De vergoeding bedraagt €&nbsp;50 per maand. De vergoeding tot en met december 2025 wordt in één bedrag uitbetaald in december 2025.</p>
+
+
+
+<p class="wp-block-paragraph">Voorafgaand aan de uitbetaling laat de werkgever een kostenonderzoek uitvoeren (van september tot en met november). Op basis van dit onderzoek stelt de werkgever op 1 december 2025 vast dat hij de kostenvergoeding gericht vrijgesteld kan toekennen (de inspecteur acht de hoogte van de vergoeding aannemelijk).</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan het bedrag over de periode 1 april tot 1 december 2025 worden aangemerkt als een vaste vergoeding waarop de gerichte vrijstellingen van toepassing zijn?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. De werkgever kan de gerichte vrijstellingen niet toepassen, omdat geen sprake is van een vaste vergoeding in de zin van <a href="https://wetten.overheid.nl/jci1.3:c:BWBR0002471&amp;hoofdstuk=V&amp;afdeling=1&amp;artikel=31a&amp;z=2026-02-21&amp;g=2026-02-21" target="_blank" rel="noopener">artikel 31a</a>, vierde lid, van de Wet LB 1964. Een vaste vergoeding is immers pas onbelast als aan de hand van een kostenonderzoek aannemelijk is gemaakt dat aan de voorwaarden van de gerichte vrijstellingen is voldaan.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-vaste-vergoeding-met-terugwerkende-kracht-gepubliceerd/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-vaste-vergoeding-met-terugwerkende-kracht-gepubliceerd/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-vaste-vergoeding-met-terugwerkende-kracht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/12/Loonkloof.jpg" length="38703" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt belastbaarheid termijnen van Pre Bre Herwaarderingslijfrente bij schenking aan minderjarig (klein)kind</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-belastbaarheid-termijnen-van-pre-bre-herwaarderingslijfrente-bij-schenking-aan-minderjarig-kleinkind/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-belastbaarheid-termijnen-van-pre-bre-herwaarderingslijfrente-bij-schenking-aan-minderjarig-kleinkind/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2026 03:20:00 +0000</pubDate>
+				<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167797</guid>
+
+					<description><![CDATA[De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord bij wie de termijnen van een Pre Brede Herwaarderingslijfrente zijn belast wanneer deze zijn geschonken aan een minderjarig (klein)kind.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep verzekeringsproducten en assurantiebelasting heeft vragen beantwoord bij wie de termijnen van een Pre Brede Herwaarderingslijfrente zijn belast wanneer deze zijn geschonken aan een minderjarig (klein)kind.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De belastingplichtige heeft een Pre Brede Herwaarderingslijfrente. Zijn minderjarig (klein)kind is begunstigde van de termijnen.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Worden deze termijnen belast bij het minderjarige (klein)kind als begunstigde of bij de ouder(s)?</li>
+
+
+
+<li>Moet op de termijnen loonbelasting worden ingehouden?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>De termijnen zijn belast bij de ouder met het hoogste persoonlijke arbeidsinkomen. De termijnen zijn belast als belastbare periodieke uitkeringen en verstrekkingen als bedoeld in artikel 3.100 van de Wet inkomstenbelasting 2001 (hierna: Wet IB 2001).</li>
+
+
+
+<li>Ja. Er moet op grond van artikel 34 van de Wet LB 1964 en artikel 11 van het Uitvoeringsbesluit loonbelasting 1965 loonbelasting worden ingehouden.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-belastbaarheid-van-termijnen-van-pre-bre-herwaarderingslijfrente-in-geval-van-schenking-aan-minderjarig-kleinkind/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-de-belastbaarheid-van-termijnen-van-pre-bre-herwaarderingslijfrente-in-geval-van-schenking-aan-minderjarig-kleinkind/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-belastbaarheid-termijnen-van-pre-bre-herwaarderingslijfrente-bij-schenking-aan-minderjarig-kleinkind/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/05/kind-schenking.jpg" length="43698" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Jersey Limited Company</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 09:48:41 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167763</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Jersey Limited Company vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Jersey Limited Company vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De kwalificatie vindt plaats in verband met de belastingheffing ten aanzien van een naar het recht van Jersey opgerichte Limited Company.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Met welke Nederlandse rechtsvorm is een Jersey Limited Company vergelijkbaar voor de toepassing van de  Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Een Jersey Limited Company is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 op grond van artikel 2, tweede lid, Besluit vergelijking buitenlandse rechtsvormen aan te merken als een niet-vergelijkbare rechtsvorm. Mogelijk is in een voorgelegd geval sprake van vergelijkbaarheid met een fonds voor gemene rekening als bedoeld in artikel 2, vierde lid, Wet Vpb 1969 of een transparant fonds als bedoeld in artikel 2.14bis, zevende lid, van de Wet IB 2001. Dit is afhankelijk van de relevante feiten en omstandigheden van het geval. De beoordeling hiervan is voorbehouden aan de inspecteur.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-jersey-limited-company/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-jersey-limited-company/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-jersey-limited-company/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/10/Jersey.jpg" length="66699" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt kwalificatie Macau Limitada</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2026 08:49:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167765</guid>
+
+					<description><![CDATA[De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Macau Limitada vergelijkbaar is.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft de vraag beantwoord met welke Nederlandse rechtsvorm een Macau Limitada vergelijkbaar is.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De kwalificatie vindt plaats in verband met de belastingheffing ten aanzien van een naar het recht van Macau opgerichte Sociedade por quotas. Deze rechtsvorm draagt in het handelsverkeer de naam Limitada. In dit standpunt wordt daarom de aanduiding ‘Macau Limitada’ gebruikt.</p>
+
+
+
+<p class="wp-block-paragraph">Met welke Nederlandse rechtsvorm is een Macau Limitada vergelijkbaar voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021?</p>
+
+
+
+<p class="wp-block-paragraph">Een Macau Limitada is voor de toepassing van de Wet Vpb 1969, de Wet IB 2001, de Wet DB 1965 en de Wet BB 2021 vergelijkbaar met een Nederlandse nv of Nederlandse bv. Deze kwalificatie geldt ook voor de in de Macau Codigo Commercial genoemde Sociedade Unipessoal Limitada, een variant van de Macau Limitada met slechts een participant.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-macau-limitada/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-kwalificatie-macau-limitada/" target="_blank" rel="noreferrer noopener">Belastingdienst, 25 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-kwalificatie-macau-limitada/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/09/Macau.jpg" length="66123" type="image/jpeg" />	</item>
+	</channel>
+</rss>

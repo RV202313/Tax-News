@@ -73,16 +73,22 @@ class SourceParserTests(TempProject):
         self.assertEqual(items[0]["published_at"], "2026-07-03")
         self.assertTrue(items[0]["url"].startswith("https://vsrf.ru/"))
 
-    def test_collect_vs_uses_unfiltered_reviews_and_tax_press(self):
-        payload = json.dumps({"list": ["<div>ok</div>"]}).encode()
+    def test_collect_vs_uses_public_homepage(self):
+        payload = b'<a href="/documents/all/123">Document</a>'
         response = FakeResponse(payload)
         client = mock.Mock()
         client.get.return_value = response
         saved = collect_vs.collect(str(self.tmp), "2026-07-18", session=client)
-        self.assertEqual(len(saved), 2)
-        calls = client.get.call_args_list
-        self.assertNotIn("keyword", calls[0].kwargs["params"])
-        self.assertEqual(calls[1].kwargs["params"]["keyword"], "налог")
+        self.assertEqual(len(saved), 1)
+        self.assertEqual(client.get.call_args.args[0], "https://www.vsrf.ru/")
+
+    def test_vs_homepage_parser_keeps_only_tax_card(self):
+        html = '''<li><a href="/documents/all/1"><div><div>3</div><div>июля</div></div>
+        <p>Налоговый спор: НДС и вычеты</p></a></li>
+        <li><a href="/documents/all/2"><p>Уголовное дело</p></a></li>'''
+        items = parse_feeds.parse_vs_ajax_json(html, {})
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["url"], "https://www.vsrf.ru/documents/all/1")
 
     def test_minfin_two_digit_year_date(self):
         html = """

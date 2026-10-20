@@ -1,0 +1,786 @@
+    <!-- SOCIAL MEDIA SHARING SETTINGS -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:url" content="https://www.taxlive.nl/nl" />
+    <meta property="og:type" content="" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+
+        <script src="https://cdn.userdatatrust.com/Y90015271S.js" integrity="sha384-EG5t5U8Ffi3TF33oWGI4ZwUkcww/w6Yth4+qaMk7pdlvQvzx6Vkrid3vRXwk4UAi" crossorigin="anonymous"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+     googletag.defineSlot('/23346476883/Leaderboard_Taxlive_Mobile', [320, 50], 'div-gpt-ad-1776778038453-0').addService(googletag.pubads());
+     googletag.defineSlot('/23346476883/Leaderboard_Taxlive', [728, 90], 'div-gpt-ad-1776777871523-0').addService(googletag.pubads());
+
+     googletag.pubads().collapseEmptyDivs(true);
+     googletag.pubads().enableSingleRequest();
+     googletag.enableServices();
+  });
+</script>
+<style>
+  @media (max-width: 767px) {
+    #div-gpt-ad-1776777871523-0 { display: none; } /* hide desktop slot */
+    .wk-advertisement-banner-container > div:empty { display: none; } /* hide when empty */
+  }
+  @media (min-width: 768px) {
+    #div-gpt-ad-1776778038453-0 { display: none; } /* hide mobile slot */
+    .wk-advertisement-banner-container > div:empty { display: none; } /* hide when empty */
+  }
+</style>        <link rel="icon" href="/icons/txl-icon.png">
+    
+    <link rel="stylesheet" href="/scripts/dist/HomePage.css?v=gTALjoSzlaxPjRoTKvLNqrAV8yY6Mkkm-w-o5zsk2Rg" type="text/css" />
+
+    <link rel="stylesheet" href="https://cdn.wolterskluwer.io/wk/icons/1.x.x/wk-icons-all-open.min.css">
+    <link rel="stylesheet" href="https://cdn.wolterskluwer.io/wk/icons/1.x.x/wk-icons-all-filled.min.css">
+
+    <style type="text/css">
+        @media all and (min-width: 601px) {
+            .wk-njb-magazine .wk-njb-magazine-detail .wk-njb-magazine-header .custom-ie-flex {
+                flex: 1 1 80% !important;
+            }
+        }
+    </style>
+    <title>Taxlive | Wolterskluwer </title>
+    <meta name="description" content="">
+    
+    <!-- Google Tag Manager DataLayer -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    <!-- End Google Tag Manager DataLayer -->
+    <!-- Google Tag Manager -->
+        <script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = Array.from(d.getElementsByTagName(s)).filter(script => script.src.includes('userdatatrust'))[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f.nextSibling);
+            })(window, document, 'script', 'dataLayer', 'GTM-M7KDP8H');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7KDP8H&gtm_cookies_win=x"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        <div id="fb-root"></div>
+        <script>
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+    <script type="text/x-template" id="spinner">
+    <div class="spinnerWrapper" v-if="active"><wk-busy :size="size"></wk-busy></div>
+</script>
+    
+<script type="text/x-template" id="searchbar-component">
+    <div>
+        <wk-search-form top-container-selector=".wk-header" filter-mode="all">
+            <form class="wk-search wk-search-flat" role="search" @submit.prevent="doSubmit">
+                <div class="wk-search-form-container">
+                    <div class="wk-search-field">
+                        <button class="wk-back-button wk-icon-arrow-left" type="button" title="Back" aria-label="Back"></button>
+                        <div class="wk-search-container wk-field-has-icon">
+                            <input v-model="searchQuery" @keyup="doQuery" class="wk-search-input" type="search" placeholder="Zoeken" aria-label="Search" name="q">
+                            <button @click="clearSearch" class="wk-field-icon wk-field-icon-button" type="button" title="Clear search" aria-label="Clear search"><span class="wk-icon-close-circle" aria-hidden="true"></span></button>
+                        </div>
+                        <!-- Add .wk-active class to .wk-select-toggle in mobile view to open filer section-->
+                        <button class="wk-search-submit wk-active" type="submit" aria-label="Submit search" title="Search submit"><span class="wk-icon-search"></span></button>
+                    </div>
+                    <div class="wk-popover wk-position-bottom-right">
+                        <div class="wk-popover-body"><span class="wk-icon-thumbs-up"></span>Voer een deel van een titel, trefwoorden of auteurs in om artikelen te zoeken</div>
+                    </div>
+                    <!-- Add .wk-active class to .wk-list to make it visible-->
+                    <div class="wk-list" role="listbox" aria-expanded="true">
+                        <ul>
+                        </ul>
+
+                    </div>
+                </div>
+            </form>
+        </wk-search-form>
+    </div>
+</script>
+
+    <div id="app">
+                <section class="wk-page-section" style="">
+        <div class="wk-advertisement" style="text-align: center;margin: auto;">
+            <div class="wk-advertisement-banner-container">
+                <!-- /23346476883/Leaderboard_Taxlive_Mobile -->
+<div id='div-gpt-ad-1776778038453-0' style='min-width: 320px; min-height: 50px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1776778038453-0'); });
+  </script>
+</div>
+
+<!-- /23346476883/Leaderboard_Taxlive -->
+<div id='div-gpt-ad-1776777871523-0' style='min-width: 728px; min-height: 90px;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1776777871523-0'); });
+  </script>
+</div>
+
+<style>
+  @media (max-width: 767px) {
+    #div-gpt-ad-1776777871523-0 { display: none; } /* hide desktop slot */
+    .wk-advertisement-banner-container > div:empty { display: none; } /* hide when empty */
+  }
+  @media (min-width: 768px) {
+    #div-gpt-ad-1776778038453-0 { display: none; } /* hide mobile slot */
+    .wk-advertisement-banner-container > div:empty { display: none; } /* hide when empty */
+  }
+</style>
+            </div>
+        </div>
+    </section>
+
+
+        <div class="wk-top-header wk-default-theme">
+            
+<wk-header>
+    <header class="wk-header" role="banner">
+        <div class="wk-header-container">
+            <h1 class="wk-product-name-bar">
+                <a class="wk-content-filter-item wk-logo" href="/" aria-label="Wolters Kluwer">
+                        <img class="wk-logo-small" src="/media/mfmefo2k/wk-brand-small.svg" alt="NJB">
+                        <img class="wk-njb-logo-large wk-logo-large" src="/media/orfn33co/wk-brand.svg" alt="NJB">
+                </a>
+            </h1>
+            <div class="wk-header-tools">
+                <!-- Add .wk-open class to .wk-search form in mobile and tablet view to open it-->
+                <!-- Enable Update of search-suggestion-list-button with update-suggestions-list-search-button-enabled attribute,-->
+                <!-- It is disabled by default-->
+                <search-bar base-url="nl/search/"></search-bar>
+                <div class="wk-header-nav">
+                    <ul class="wk-nav">
+                        <li class="wk-dropdown wk-nav-search" role="presentation"><a class="wk-search-toggle" href="javascript:void(0)" aria-label="Open search" title="Open submit"><span class="wk-icon-search"></span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+</wk-header>
+<wk-navbar>
+    <div class="wk-navbar-wrapper">
+        <nav class="wk-navbar wk-navbar-njb" role="navigation">
+            
+<div class="wk-navbar-container">
+    <div class="wk-more-menu">
+        <button class="wk-more-button wk-icon-menu">Menu</button>
+    </div>
+    <!-- To open navbar-nav in mobile view add .wk-open calss, and add .wk-top-layer class to .wk-navbar element-->
+    <div class="wk-navbar-nav">
+        <div class="wk-navbar-overlay"></div>
+        <div class="wk-navbar-nav-container">
+            <ul class="wk-nav wk-nav-njb">
+        <li role="presentation">
+        <a href="/" target="_self" style="padding: 19px 16px">TaxLive home</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/documenten/vn-vandaag/" target="_self" style="padding: 19px 16px">VN Vandaag</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/documenten/nieuws/" target="_self" style="padding: 19px 16px">Nieuws</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/verdieping/" target="_self" style="padding: 19px 16px">Verdieping</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/opinie/" target="_self" style="padding: 19px 16px">Opinie</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/dossiers/" target="_self" style="padding: 19px 16px">Dossiers</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/agenda/" target="_self" style="padding: 19px 16px">Agenda</a>
+        </li>
+        <li role="presentation">
+        <a href="https://shop.wolterskluwer.nl/category/fiscaal-financieel/vakgebieden/belastingrecht/" target="_blank" style="padding: 19px 16px">Shop</a>
+        </li>
+        <li role="presentation">
+        <a href="/nl/dossiers/dossier-box-3/" target="_self" style="padding: 19px 16px">Box 3</a>
+        </li>
+
+</ul>
+
+        </div>
+        <button class="wk-icon-close wk-close"></button>
+    </div>
+        <div class="wk-product-name-bar">
+            <div class="wk-product-name">
+                TaxLive
+            </div>
+        </div>
+</div>
+        </nav>
+    </div>
+</wk-navbar>
+
+        </div>
+        
+
+
+
+    <main class="wk-njb-home wk-default-theme">
+
+        
+<section class="wk-page-section wk-njb-hero wk-njb-multiple-content">
+        <div class="wk-hero-container wk-hero-dark" style="background-image:url(https://www.taxlive.nl/media/coojhvbh/image-2019-05-24.jpg); cursor:pointer" onclick="window.open('/nl/documenten/vn-vandaag/herstelmogelijkheid-bij-fouten-met-lijfrentes-komt-niet-terug/', '_self')">
+            <div class="wk-hero-content" style="margin: auto 0;">
+                    <span class="wk-hero-category">VN Vandaag</span>
+
+                    <h2 class="wk-hero-title">Herstelmogelijkheid bij fouten met lijfrentes komt niet terug</h2>
+            </div>
+        </div>
+        <div class="wk-hero-container wk-hero-dark" style="background-image:url(https://www.taxlive.nl/media/u1cpfplq/image-2018-07-17-8.jpg); cursor:pointer" onclick="window.open('/nl/documenten/vn-vandaag/a-g-onvolledige-publicatie-zet-streep-door-haagse-naheffingsaanslagen-parkeerbelasting/', '_self')">
+            <div class="wk-hero-content" style="margin: auto 0;">
+                    <span class="wk-hero-category">VN Vandaag</span>
+
+                    <h2 class="wk-hero-title">A-G: onvolledige publicatie zet streep door Haagse naheffingsaanslagen parkeerbelasting</h2>
+            </div>
+        </div>
+</section>
+    <section class="wk-page-section wk-promo-section">
+        <div class="wk-promo-list">
+            <div class="wk-product-promo-list">
+                    
+
+
+    <div class="wk-njb-label" style="background-color: #85bc20">
+        VN Vandaag
+    </div>
+    <div class="wk-product-promo-list-container">
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/kennisgroep-terugkomen-op-keuze-voor-bestaande-eigenwoningschuld-mogelijk-voor-onherroepelijke-aanslag/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/kennisgroep-terugkomen-op-keuze-voor-bestaande-eigenwoningschuld-mogelijk-voor-onherroepelijke-aanslag/">Kennisgroep: terugkomen op keuze voor bestaande eigenwoningschuld mogelijk vóór onherroepelijke aanslag</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                
+      Een belastingplichtige kan terugkomen op de keuze om een lening als eigenwoningschuld aan te merken in box 1, tot het moment waarop de aanslag van het belastingjaar van aankoop onherroepelijk vaststaat. Dat staat in een standpunt van de Kennisgroep onroerende zaken.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>86        </p>
+    </div>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/">Standpunten Kennisgroep Pijler 2 ingetrokken</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                De Kennisgroep Pijler 2 heeft twee standpunten ingetrokken in verband met de inwerkingtreding van het Beleidsbesluit minimumbelasting 2024.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>42        </p>
+    </div>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/navordering-erfbelasting-strandt-door-te-lang-stilzitten-van-inspecteur/">Navordering erfbelasting strandt door te lang stilzitten van inspecteur</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                
+      Hof Amsterdam oordeelt dat de IB-inspecteur en de SW-inspecteur moeten worden aangemerkt als één bestuursorgaan. De termijn van de voortvarendheideis is dus reeds gaan lopen bij de ontvangst door de Belastingdienst van de gegevens uit België.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>1354        </p>
+    </div>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/a-g-onvolledige-publicatie-zet-streep-door-haagse-naheffingsaanslagen-parkeerbelasting/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/a-g-onvolledige-publicatie-zet-streep-door-haagse-naheffingsaanslagen-parkeerbelasting/">A-G: onvolledige publicatie zet streep door Haagse naheffingsaanslagen parkeerbelasting</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                A-G Pauwels is van mening dat Bijlage 1 bij de Regeling parkeerregulering en parkeerbelastingen Den Haag 2022 niet op de voorgeschreven wijze is bekendgemaakt.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>58        </p>
+    </div>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/macau-limitada-vergelijkbaar-met-nederlandse-nv-of-bv/">Macau Limitada vergelijkbaar met Nederlandse NV of BV</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                
+      De Kennisgroep belastingplicht en kwalificatie rechtsvormen heeft vastgesteld dat een naar het recht van Macau opgerichte Sociedade por quotas (Limitada) voor de toepassing van de Wet VPB 1969, Wet IB 2001, Wet DB 1965 en Wet bronbelasting 2021 vergelijkbaar is met een Nederlandse NV of BV. Dat geldt ook voor de eenpersoonsvariant, de Sociedade Unipessoal Limitada.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>30        </p>
+    </div>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/beperkte-kennisneming-toegestaan-ondanks-niet-naleving-procesregeling/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/vn-vandaag/beperkte-kennisneming-toegestaan-ondanks-niet-naleving-procesregeling/">Beperkte kennisneming toegestaan ondanks niet-naleving Procesregeling</a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                
+      De geheimhoudingskamer van Hof Amsterdam constateert dat de inspecteur de stukken niet op de voorgeschreven wijze heeft ingediend, maar ziet af van retournering omdat beoordeling van het verzoek mogelijk is, met name gelet op de beperkte omvang van de stukken.
+   
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>19        </p>
+    </div>
+</div>
+
+    </div>
+        <footer class="wk-product-promo-list-footer">
+            <button class="wk-button-with-icon wk-dark-blue-button" onclick="window.open('/nl/documenten/vn-vandaag/','_self')">
+                <span>VN Vandaag</span>
+                <span class="wk-icon-arrow-right"></span>
+            </button>
+        </footer>
+
+            </div>
+            <div class="wk-product-promo-list">
+                    
+    <a class="wk-promobox" href="https://www.taxlive.nl/nl/dossiers/dossier-prinsjesdag-2026/" target="_self">
+
+        <div class="wk-promobox-bg" style="background-image:url(/media/12mdv1z3/image-2018-09-14-4.jpg)"></div>
+        <div class="wk-promobox-card">
+            <div class="wk-label wk-label-product" style="background-color:#940c72">Prinsjesdag 2026</div>
+            <div class="wk-promobox-title">Ga naar het dossier!</div>
+            <p class="wk-promobox-decription">Alle nieuwsberichten en opiniestukken over het belastingpakket 2027 overzichtelijk bij elkaar.</p>
+                <div class="wk-button-read-more">
+                    <span>Meer</span>
+                    <span class="wk-icon-arrow-right"></span>
+                </div>
+        </div>
+    </a>
+
+                    
+
+
+    <div class="wk-njb-label" style="background-color: #007ac3">
+        Laatste Nieuws
+    </div>
+    <div class="wk-product-promo-list-container">
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/nieuws/kabinet-heeft-nieuw-voorstel-voor-oppositie-waaronder-box-3/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/nieuws/kabinet-heeft-nieuw-voorstel-voor-oppositie-waaronder-box-3/"><p>Kabinet heeft nieuw voorstel voor oppositie, waaronder box 3</p></a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                Het minderheidskabinet heeft een nieuw voorstel voor de oppositie om steun te krijgen voor de begroting, zei premier Rob Jetten na de ministerraad. Het kabinet komt met nieuwe plannen voor de koopkracht, de sociale zekerheid en de belasting op inkomsten uit vermogen.
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>403        </p>
+    </div>
+        <a class="wk-product-card-image wk-img-right" href="/nl/documenten/nieuws/kabinet-heeft-nieuw-voorstel-voor-oppositie-waaronder-box-3/">
+            <div class="wk-product-badge-container">
+            </div>
+            <img src="https://www.taxlive.nl/media/karci0ro/gettyimages-1134247943-1.jpg" alt="Title">
+        </a>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/nieuws/belastingadviseurs-vrezen-meer-complexiteit-door-belastingmaatregelen-2027/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/nieuws/belastingadviseurs-vrezen-meer-complexiteit-door-belastingmaatregelen-2027/"><p>Belastingadviseurs vrezen meer complexiteit door belastingmaatregelen 2027</p></a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                Het Register Belastingadviseurs, de grootste beroepsorganisatie van fiscalisten, vindt het belastingpakket 2027 een lappendeken van heel divers uiteenlopende onderwerpen. Dekking van budgettaire gevolgen van andere maatregelen voert de boventoon, is het oordeel van het RB. Bovendien vreest de beroepsorganisatie ondanks de voorgenomen vereenvoudiging juist&nbsp;een complexer fiscaal stelsel.
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>60        </p>
+    </div>
+        <a class="wk-product-card-image wk-img-right" href="/nl/documenten/nieuws/belastingadviseurs-vrezen-meer-complexiteit-door-belastingmaatregelen-2027/">
+            <div class="wk-product-badge-container">
+            </div>
+            <img src="https://www.taxlive.nl/media/4aljh0gh/gettyimages-1133438200-1-1.jpg" alt="Title">
+        </a>
+</div>
+
+                
+
+<div class="wk-product-card wk-product-promo-card" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/nieuws/stichting-achter-tuchtrecht-voor-banken-stopt/&#x27;;">
+    <div class="wk-product-card-details">
+        <div class="wk-product-card-details-title">
+            <a href="/nl/documenten/nieuws/stichting-achter-tuchtrecht-voor-banken-stopt/"><p>Stichting achter tuchtrecht voor banken stopt</p></a>
+        </div>
+            <p class="wk-product-card-details-description wk-truncate-line-2">
+                De stichting achter het tuchtrecht dat het vertrouwen in de financiële sector moest vergroten, stopt ermee. Volgens de Stichting Tuchtrecht Banken (STB) frustreren banken elke verbetering van het tuchtrecht. De organisatie beëindigt daarom de samenwerkingsovereenkomst met de Nederlandse Vereniging van Banken (NVB). Banken kunnen zelf het tuchtrecht ontwikkelen waaraan bankmedewerkers zich moeten houden, zegt een woordvoerder van de NVB.
+            </p>
+        <p class="wk-product-card-blog-details-meta">
+            <span class="wk-icon-calendar"></span>25 september 2026
+                <span class="wk-icon-visible"></span>20        </p>
+    </div>
+        <a class="wk-product-card-image wk-img-right" href="/nl/documenten/nieuws/stichting-achter-tuchtrecht-voor-banken-stopt/">
+            <div class="wk-product-badge-container">
+            </div>
+            <img src="https://www.taxlive.nl/media/yi4pnjgv/gi-1194532556_toezicht_rechter.jpg" alt="Title">
+        </a>
+</div>
+
+    </div>
+        <footer class="wk-product-promo-list-footer">
+            <button class="wk-button-with-icon wk-dark-blue-button" onclick="window.open('/nl/documenten/nieuws/','_self')">
+                <span>Nieuws</span>
+                <span class="wk-icon-arrow-right"></span>
+            </button>
+        </footer>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="wk-page-section wk-njb-section wk-njb-full-width-section wk-njb-gray-section">
+            
+
+    <section class="wk-page-section wk-njb-section wk-njb-full-width-section wk-njb-gray-section">
+        <div class="wk-njb-popular-article-list-section-title" style="background-color: #940c72">
+            <h2 class="wk-njb-title">Opinie</h2>
+        </div>
+        <div class="wk-njb-popular-article-list">
+                    
+
+<div class="wk-njb-popular-this-week" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/opinie/uitvergroot/wie-heeft-recht-op-de-odv-vrijstelling/&#x27;;">
+    <div class="wk-njb-popular-this-week-with-img">
+        <div class="wk-njb-popular-this-week-container">
+            <a class="wk-njb-popular-title" href="/nl/documenten/opinie/uitvergroot/wie-heeft-recht-op-de-odv-vrijstelling/"><p>Wie heeft recht op de ODV-vrijstelling?</p></a>
+                <div class="wk-njb-popular-description "><p class="MsoNormal">Hoewel de oudedagsverplichting (ODV) volgend jaar haar tiende verjaardag viert, is zij voor de DGA een nog relatief nieuw fenomeen.</p></div>
+            <div class="wk-njb-popular-extra-info">
+                    <span class="wk-icon-user"></span>Mari&#xEB;lle Schuurman-van Nifterik                <span class="wk-icon-calendar"></span>23 september 2026
+                    <span class="wk-icon-visible"></span>1300            </div>
+        </div>
+        <div class="wk-njb-popular-img-container">
+                <a class="wk-product-card-image" href="/nl/documenten/opinie/uitvergroot/wie-heeft-recht-op-de-odv-vrijstelling/">
+                    <img src="https://www.taxlive.nl/media/wgplz4g4/aandeelhouder.jpg">
+                </a>
+        </div>
+    </div>
+</div>
+
+                    
+
+<div class="wk-njb-popular-this-week" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/opinie/parlementair/zoekende-in-de-algemene-politieke-beschouwingen/&#x27;;">
+    <div class="wk-njb-popular-this-week-with-img">
+        <div class="wk-njb-popular-this-week-container">
+            <a class="wk-njb-popular-title" href="/nl/documenten/opinie/parlementair/zoekende-in-de-algemene-politieke-beschouwingen/"><p>Zoekende in de Algemene Politieke Beschouwingen</p></a>
+                <div class="wk-njb-popular-description "><p>Het &nbsp;kabinet-Jetten heeft nog niet voldoende politieke steun in het parlement voor de begrotingen en de inhoudelijke plannen voor komend jaar.</p></div>
+            <div class="wk-njb-popular-extra-info">
+                    <span class="wk-icon-user"></span>Djoeke Altena                <span class="wk-icon-calendar"></span>22 september 2026
+                    <span class="wk-icon-visible"></span>141            </div>
+        </div>
+        <div class="wk-njb-popular-img-container">
+                <a class="wk-product-card-image" href="/nl/documenten/opinie/parlementair/zoekende-in-de-algemene-politieke-beschouwingen/">
+                    <img src="https://www.taxlive.nl/media/tyyji3iu/gi2257132764hijskraan2027.jpg">
+                </a>
+        </div>
+    </div>
+</div>
+
+                    
+
+<div class="wk-njb-popular-this-week" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/opinie/columns/de-halve-rekensom-achter-de-pretbox/&#x27;;">
+    <div class="wk-njb-popular-this-week-with-img">
+        <div class="wk-njb-popular-this-week-container">
+            <a class="wk-njb-popular-title" href="/nl/documenten/opinie/columns/de-halve-rekensom-achter-de-pretbox/"><p>De halve rekensom achter de ‘pretbox’</p></a>
+                <div class="wk-njb-popular-description "><p>Wie vraagtekens plaatst bij een hogere belasting op vermogen, krijgt al snel te horen dat de oogkleppen af moeten. <sup>1</sup> Zeker belangenbehartigers van ondernemers zouden alleen het belang van hun achterban willen zien. Maar bij box 2 is het precies andersom. Juist de critici kijken door een statistisch rietje en missen daardoor een groot deel van de belastingheffing.</p></div>
+            <div class="wk-njb-popular-extra-info">
+                    <span class="wk-icon-user"></span>Stefan Tax                <span class="wk-icon-calendar"></span>16 september 2026
+                    <span class="wk-icon-visible"></span>939            </div>
+        </div>
+        <div class="wk-njb-popular-img-container">
+                <a class="wk-product-card-image" href="/nl/documenten/opinie/columns/de-halve-rekensom-achter-de-pretbox/">
+                    <img src="https://www.taxlive.nl/media/5gkne3x3/gettyimages-680645932box2pretbox.jpg">
+                </a>
+        </div>
+    </div>
+</div>
+
+        </div>
+            <div class="wk-njb-popular-article-list-actions">
+                <button class="wk-button-with-icon wk-dark-blue-button" onclick="window.open('https://www.taxlive.nl/nl/opinie/', '_self')">
+                    <span>Opinie</span>
+                    <span class="wk-icon-arrow-right"></span>
+                </button>
+            </div>
+    </section>
+
+    </section>
+    <section class="wk-njb-blog-overview">
+        <div class="wk-page-section wk-njb-section">
+            <div class="wk-njb-blog-overview-grid">
+                    
+
+    <div class="wk-njb-blog-item-column">
+        <div class="wk-njb-blog-item-column-title" style="background-color: #85bc20">Meest Gelezen</div>
+                
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/kennisgroep-terugkomen-op-keuze-voor-bestaande-eigenwoningschuld-mogelijk-voor-onherroepelijke-aanslag/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+            <div class="wk-njb-blog-overview-label wk-njb-label-news">VN Vandaag</div>
+        <a class="wk-njb-blog-overview-item-title" href="/nl/documenten/vn-vandaag/kennisgroep-terugkomen-op-keuze-voor-bestaande-eigenwoningschuld-mogelijk-voor-onherroepelijke-aanslag/">Kennisgroep: terugkomen op keuze voor bestaande eigenwoningschuld mogelijk vóór onherroepelijke aanslag</a>
+            <div class="wk-njb-blog-overview-item-text wk-truncate-line-2">
+      Een belastingplichtige kan terugkomen op de keuze om een lening als eigenwoningschuld aan te merken in box 1, tot het moment waarop de aanslag van het belastingjaar van aankoop onherroepelijk vaststaat. Dat staat in een standpunt van de Kennisgroep onroerende zaken.
+   </div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>25 september 2026
+                    <span class="wk-icon-visible"></span>86            </div>
+        </div>
+    </div>
+</div>
+
+                
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+            <div class="wk-njb-blog-overview-label wk-njb-label-news">VN Vandaag</div>
+        <a class="wk-njb-blog-overview-item-title" href="/nl/documenten/vn-vandaag/standpunten-kennisgroep-pijler-2-ingetrokken/">Standpunten Kennisgroep Pijler 2 ingetrokken</a>
+            <div class="wk-njb-blog-overview-item-text wk-truncate-line-2">De Kennisgroep Pijler 2 heeft twee standpunten ingetrokken in verband met de inwerkingtreding van het Beleidsbesluit minimumbelasting 2024.
+   </div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>25 september 2026
+                    <span class="wk-icon-visible"></span>42            </div>
+        </div>
+    </div>
+</div>
+
+                
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/nieuws/kabinet-heeft-nieuw-voorstel-voor-oppositie-waaronder-box-3/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+            <img class="wk-njb-blog-overview-item-image" src="https://www.taxlive.nl/media/karci0ro/gettyimages-1134247943-1.jpg">
+            <div class="wk-njb-blog-overview-label wk-blue-label">Nieuws</div>
+        <a class="wk-njb-blog-overview-item-title" href="/nl/documenten/nieuws/kabinet-heeft-nieuw-voorstel-voor-oppositie-waaronder-box-3/"><p>Kabinet heeft nieuw voorstel voor oppositie, waaronder box 3</p></a>
+            <div class="wk-njb-blog-overview-item-text wk-truncate-line-2"><p>Het minderheidskabinet heeft een nieuw voorstel voor de oppositie om steun te krijgen voor de begroting, zei premier Rob Jetten na de ministerraad. Het kabinet komt met nieuwe plannen voor de koopkracht, de sociale zekerheid en de belasting op inkomsten uit vermogen.</p></div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>25 september 2026
+                    <span class="wk-icon-visible"></span>403            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+
+                    
+
+    <div class="wk-njb-blog-item-column">
+        <div class="wk-njb-blog-item-column-title" style="background-color: #85bc20">Agenda</div>
+                
+
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/agenda/wfr-fiscaal-cafe-waarom-begrijpen-economen-en-juristen-elkaar-vaak-niet-als-het-gaat-om-belastingen/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+        <a class="wk-njb-blog-overview-item-title" href="/nl/agenda/wfr-fiscaal-cafe-waarom-begrijpen-economen-en-juristen-elkaar-vaak-niet-als-het-gaat-om-belastingen/">WFR Fiscaal Café: Waarom begrijpen economen en juristen elkaar vaak niet als het gaat om belastingen?</a>
+            <div class="wk-njb-blog-overview-item-text ">WFR Fiscaal Café: Waarom begrijpen economen en juristen elkaar vaak niet als het gaat om belastingen?</div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>12 november 2026
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/agenda/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+        <a class="wk-njb-blog-overview-item-title" href="/nl/agenda/gevolgen-omnibusvoorstel-voor-het-nederlandse-belastingstelsel/">Gevolgen Omnibusvoorstel voor het Nederlandse belastingstelsel</a>
+            <div class="wk-njb-blog-overview-item-text ">Gevolgen Omnibusvoorstel voor het Nederlandse belastingstelsel</div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>5 november 2026
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/agenda/brainstormbijeenkomsten-belastingstelsel-en-ons-sociale-dna/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+        <a class="wk-njb-blog-overview-item-title" href="/nl/agenda/brainstormbijeenkomsten-belastingstelsel-en-ons-sociale-dna/">Brainstormbijeenkomsten Belastingstelsel en ons sociale DNA</a>
+            <div class="wk-njb-blog-overview-item-text ">Brainstormbijeenkomsten Belastingstelsel en ons sociale DNA</div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>5 oktober 2026
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/agenda/studiemiddag-vereniging-voor-belastingwetenschap-en-var/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+        <a class="wk-njb-blog-overview-item-title" href="/nl/agenda/studiemiddag-vereniging-voor-belastingwetenschap-en-var/">Studiemiddag Vereniging voor Belastingwetenschap en VAR</a>
+            <div class="wk-njb-blog-overview-item-text ">Studiemiddag Vereniging voor Belastingwetenschap en VAR</div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>1 oktober 2026
+            </div>
+        </div>
+    </div>
+</div>
+
+            <div class="wk-njb-blog-overview-footer">
+                <button class="wk-hero-cta-button wk-button-with-icon" onclick="window.open('https://www.taxlive.nl/nl/agenda/', '_self')">
+                    <span>Agenda</span>
+                    <span class="wk-icon-arrow-right"></span>
+                </button>
+            </div>
+    </div>
+
+
+                    
+
+    <div class="wk-njb-blog-item-column">
+        <div class="wk-njb-blog-item-column-title" style="background-color: #85bc20">Advertorial</div>
+                
+<div class="wk-njb-blog-overview-item-wrapper" style="cursor:pointer;" onclick="window.location.href=&#x27;/nl/documenten/nieuws/vacature-ben-jij-de-fiscalist-die-onze-praktische-content-naar-een-next-level-brengt/&#x27;;">
+    <div class="wk-njb-blog-overview-item">
+            <img class="wk-njb-blog-overview-item-image" src="https://www.taxlive.nl/media/j5qhwo3c/informatiepapier2.jpg">
+        <a class="wk-njb-blog-overview-item-title" href="/nl/documenten/nieuws/vacature-ben-jij-de-fiscalist-die-onze-praktische-content-naar-een-next-level-brengt/"><p>[Vacature] Ben jij de fiscalist die onze praktische content naar een next level brengt?</p></a>
+            <div class="wk-njb-blog-overview-item-text wk-truncate-line-10"><p>Wil jij de belastingadviseur verder helpen in de zoektocht naar dat ene juiste advies, of die ene handige tool om een lastige berekening uit te voeren? Ja? Dat komt goed uit, want wij, het fiscale vakredactieteam van Wolters Kluwer, zijn op zoek naar een collega direct toepasbare fiscale content! De pluspunten van deze baan in een kernzin: afwisseling (niet alléén fiscaliteit), inhoud, creativiteit, geen uren schrijven en topfiscalisten in je netwerk.</p></div>
+        <div class="wk-njb-blog-overview-item-data">
+            <div class="wk-njb-blog-overview-item-date">
+                <span class="wk-icon-calendar"></span>7 september 2026
+                    <span class="wk-icon-visible"></span>1296            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+            </div>
+        </div>
+    </section>
+</main>
+        
+<footer class="wk-footer" role="contentinfo">
+    <div class="wk-footer-top">
+        <div class="wk-footer-nav">
+            <div class="wk-footer-card">
+                <div class="wk-footer-card-content-row">
+                    <span class="wk-icon-help"></span>
+                    <div class="wk-footer-card-body">
+                        <h3 class="wk-footer-heading"></h3>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="wk-footer-card-content-row">
+                    <span class=""></span>
+                    <div class="wk-footer-card-body">
+                        <h3 class="wk-footer-heading">Taxlive volgen</h3>
+                        <p><a target="_blank" style="margin-left: 0; font-weight: 400" href="https://www.taxlive.nl/nl/subscription-page/" target="_blank">Nieuwsbrief</a><br>
+<a target="_blank" style="margin-left: 0; font-weight: 400" href="https://twitter.com/redactietaxlive" target="_blank">Twitter</a><br>
+<a target="_blank" style="margin-left: 0; font-weight: 400" href="https://www.linkedin.com/showcase/10062532" target="_blank">LinkedIn</a><br></p>
+                    </div>
+                </div>
+            </div>
+            <div class="wk-footer-nav-list">
+                <h3 class="wk-footer-heading">Servicepagina&#x27;s</h3>
+                <ul>
+                            <li><a href="/nl/jurisprudentie-melden/" target="">Jurisprudentie melden</a></li>
+                            <li><a href="/nl/over-taxlive/" target="">Over TaxLive</a></li>
+                            <li><a href="/nl/contact/">Contact</a></li>
+                            <li><a href="/nl/colofon/">Colofon</a></li>
+                            <li><a href="/nl/adverteren/">Adverteren</a></li>
+                </ul>
+            </div>
+            <div class="wk-footer-nav-list">
+                <h3 class="wk-footer-heading">Andere sites</h3>
+                <ul>
+                            <li><a href="https://www.inview.nl/" target="_blank">InView</a></li>
+                            <li><a href="https://www.wolterskluwer.com/nl-nl" target="_blank">Wolters Kluwer</a></li>
+                            <li><a href="https://shop.wolterskluwer.nl/" target="_blank">Wolters Kluwer Shop</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="wk-footer-brand">
+            <a class="wk-logo" href="/" target="_blank" aria-label="Wolters Kluwer">
+                <img class="wk-logo-small" src="https://cdn.wolterskluwer.io/wk-logos/1.0.x/wk-brand-small-white.svg" alt="Wolters Kluwer Logo">
+                <img class="wk-logo-large" src="https://cdn.wolterskluwer.io/wk-logos/1.0.x/wk-brand-white.svg" alt="Wolters Kluwer Logo">
+            </a>
+            <h3 class="wk-tagline">When you have to be right</h3>
+        </div>
+    </div>
+
+    <div class="wk-footer-bottom">
+        <div class="wk-footer-bottom-container">
+            <ul class="wk-footer-bottom-nav">
+                <li><span class="wk-footer-copy">&#xA9; 2025 Wolters Kluwer Nederland N.V. en/of haar dochtermaatschappijen, licentiegevers en auteurs. Alle rechten voorbehouden. Tekst en datamining en training van AI en vergelijkbare technologie&#xEB;n is niet toegestaan. </span></li>
+                        <li><a href="https://www.wolterskluwer.com/nl-nl/solutions/nederland/disclaimer" target="_blank">Disclaimer</a></li>
+                        <li><a href="/nl/privacy-cookies/">Privacy Cookies</a></li>
+                        <li><a href="https://www.wolterskluwer.com/nl-nl/solutions/nederland/algemene-voorwaarden" target="_blank">Algemene voorwaarden</a></li>
+            </ul>
+            <ul class="wk-footer-soc-links">
+                    <li>
+                        <a href="https://www.linkedin.com/company/wolters-kluwer-tax-&amp;-accounting" target="_blank">
+                            <span class="wk-icon-linkedin"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/redactietaxlive" target="_blank">
+                            <span class="wk-icon-x wk-txv-icon"></span>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</footer>
+    </div>
+
+    
+    <script async src="/scripts/dist/HomePage.bundle.js"></script>
+
+
+</body>
+</html>

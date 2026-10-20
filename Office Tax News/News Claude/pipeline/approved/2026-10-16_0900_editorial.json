@@ -1,0 +1,793 @@
+{
+  "date": "2026-10-16",
+  "release": "2026-10-16_0900_editorial",
+  "items": [
+    {
+      "title": "Казахстан: КГД обсудил цифровое налоговое администрирование с зарубежными коллегами",
+      "sources": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru",
+          "name": "КГД Казахстана"
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "name": "Официальная датированная лента КГД"
+        }
+      ],
+      "theme": "Международное сотрудничество налоговых администраций и цифровизация контроля",
+      "jurisdictions": [
+        "Казахстан",
+        "Китай",
+        "Индонезия",
+        "ОАЭ"
+      ],
+      "act": "Участие КГД в 7-м BRITACOF 13–15.10.2026 и двусторонние встречи; сообщение 15.10.2026",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+        "source_quote": "15 октября 2026 Казахстан участвует в международном форуме по совершенствованию налогового администрирования"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "kz-britacof-jakarta-20261015",
+        "cross_border_relevance": "Двустороннее взаимодействие налоговых администраций Казахстана, Китая, Индонезии и ОАЭ влияет на развитие налогового администрирования международного бизнеса; событие не подаётся как новая норма."
+      },
+      "slug": "2026-10-16_0900_-kz-britacof-jakarta-20261015",
+      "caption": "Казахстан: КГД обсудил цифровое налоговое администрирование с зарубежными коллегами\n\nОфициальное сообщение опубликовано 15 октября 2026 года. КГД сообщил об участии делегации Казахстана в налоговом форуме «Пояс и путь» в Джакарте 13–15 октября 2026 года. Отдельные встречи прошли с руководителями налоговых служб Китая, Индонезии и ОАЭ.\n\nПочему это важно: Международным группам стоит следить за развитием цифровых сервисов и подходов к налоговому контролю в этих странах. Сообщение описывает обмен опытом, новых обязанностей для компаний в нём не объявлено.\n\nИсточник: https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru\nИсточник: https://www.gov.kz/org/kgd/press/news?lang=ru\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru",
+          "checked_at": "2026-10-16T05:03:02.985124+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru",
+          "evidence": [
+            {
+              "claim": "КГД сообщил об участии делегации Казахстана в налоговом форуме «Пояс и путь» в Джакарте 13–15 октября 2026 года. Отдельные встречи прошли с руководителями налоговых служб Китая, Индонезии и ОАЭ.",
+              "source_quote": "Казахстанская делегация во главе с заместителем Председателя Комитета государственных доходов Министерства финансов РК Сеилжаном Ахметовым принимает участие в 7-м Форуме по сотрудничеству в области налогового администрирования в рамках инициативы «Пояс и путь» (BRITACOF). Форум проходит 13 - 15 октября 2026 года в Джакарте, Индонезия. В форуме участвуют представители налоговых администраций 38 стран и 30 организаций-наблюдателей . Главная цель встречи - обмен опытом и поиск эффективных решений, которые позволяют сделать работу налоговых органов более современной, а исполнение налоговых обязательств - понятным и удобным для граждан и бизнеса. В центре обсуждений - цифровизация налогового администрирования, новые подходы к работе с изменяющимися формами экономики и упрощение выполнения налоговых обязательств . Для Казахстана такие площадки важны прежде всего возможностью изучить успешные решения других стран и применять наиболее эффективные практики с учетом национальных условий. В рамках форума казахстанская делегация провела двусторонние встречи с руководителями налоговых служб Китая, Индонезии и Объединённых Арабских Эмиратов . Стороны обсудили вопросы развития налогового администрирования и обменялись практическим опытом."
+            }
+          ]
+        },
+        {
+          "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "checked_at": "2026-10-16T05:03:14.163128+00:00",
+          "status_code": 200,
+          "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+          "evidence": [
+            {
+              "claim": "Официальное сообщение опубликовано 15 октября 2026 года.",
+              "source_quote": "15 октября 2026 Казахстан участвует в международном форуме по совершенствованию налогового администрирования"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru",
+            "checked_at": "2026-10-16T05:03:02.985124+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news/details/1311786?lang=ru",
+            "evidence": [
+              {
+                "claim": "КГД сообщил об участии делегации Казахстана в налоговом форуме «Пояс и путь» в Джакарте 13–15 октября 2026 года. Отдельные встречи прошли с руководителями налоговых служб Китая, Индонезии и ОАЭ.",
+                "source_quote": "Казахстанская делегация во главе с заместителем Председателя Комитета государственных доходов Министерства финансов РК Сеилжаном Ахметовым принимает участие в 7-м Форуме по сотрудничеству в области налогового администрирования в рамках инициативы «Пояс и путь» (BRITACOF). Форум проходит 13 - 15 октября 2026 года в Джакарте, Индонезия. В форуме участвуют представители налоговых администраций 38 стран и 30 организаций-наблюдателей . Главная цель встречи - обмен опытом и поиск эффективных решений, которые позволяют сделать работу налоговых органов более современной, а исполнение налоговых обязательств - понятным и удобным для граждан и бизнеса. В центре обсуждений - цифровизация налогового администрирования, новые подходы к работе с изменяющимися формами экономики и упрощение выполнения налоговых обязательств . Для Казахстана такие площадки важны прежде всего возможностью изучить успешные решения других стран и применять наиболее эффективные практики с учетом национальных условий. В рамках форума казахстанская делегация провела двусторонние встречи с руководителями налоговых служб Китая, Индонезии и Объединённых Арабских Эмиратов . Стороны обсудили вопросы развития налогового администрирования и обменялись практическим опытом."
+              }
+            ]
+          },
+          {
+            "url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "checked_at": "2026-10-16T05:03:14.163128+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.gov.kz/org/kgd/press/news?lang=ru",
+            "evidence": [
+              {
+                "claim": "Официальное сообщение опубликовано 15 октября 2026 года.",
+                "source_quote": "15 октября 2026 Казахстан участвует в международном форуме по совершенствованию налогового администрирования"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-kz-britacof-jakarta-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Россия и ЕАЭС: с Ираном ускорят подготовку электронного обмена таможенными данными",
+      "sources": [
+        {
+          "url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+          "name": "Евразийская экономическая комиссия"
+        }
+      ],
+      "theme": "Преференциальная торговля ЕАЭС с Ираном и электронное подтверждение происхождения",
+      "jurisdictions": [
+        "Россия",
+        "ЕАЭС",
+        "Иран"
+      ],
+      "act": "Второе заседание Совместного комитета по ССТ ЕАЭС–Иран 14.10.2026; сообщение ЕЭК 15.10.2026",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+        "source_quote": "15.10.2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "ru-eaeu-iran-origin-20261014",
+        "cross_border_relevance": "Российские участники внешней торговли применяют ССТ ЕАЭС с Ираном; проверка происхождения и таможенная информация непосредственно связаны с тарифными преференциями. Статус переговорной договорённости сохранён."
+      },
+      "slug": "2026-10-16_0900_-ru-eaeu-iran-origin-20261014",
+      "caption": "Россия и ЕАЭС: с Ираном ускорят подготовку электронного обмена таможенными данными\n\nЕЭК 15 октября сообщила об итогах заседания с Ираном 14 октября 2026 года в Тегеране. Стороны намерены ускорить работу над электронной проверкой происхождения товаров и протоколом обмена таможенной информацией.\n\nПочему это важно: Для российских экспортёров в Иран подтверждение происхождения связано с применением тарифных преференций. Пока это договорённость о дальнейшей работе: ввод электронной системы и новые правила оформления в сообщении не объявлены.\n\nИсточник: https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+          "checked_at": "2026-10-16T05:03:02.986830+00:00",
+          "status_code": 200,
+          "final_url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+          "evidence": [
+            {
+              "claim": "ЕЭК 15 октября сообщила об итогах заседания с Ираном 14 октября 2026 года в Тегеране. Стороны намерены ускорить работу над электронной проверкой происхождения товаров и протоколом обмена таможенной информацией.",
+              "source_quote": "14 октября в Тегеране состоялось второе заседание Совместного комитета по реализации Соглашения о свободной торговле между Евразийским экономическим союзом и Исламской Республикой Иран. Заседание прошло под сопредседательством министра по торговле Евразийской экономической комиссии Андрея Слепнева и министра промышленности, рудников и торговли Исламской Республики Иран Сейеда Мохаммада Атабака. «Сегодня наш фокус должен сместиться с либерализации тарифов – которые мы успешно снизили – на устранение нетарифных барьеров и поддержку реального бизнеса. Именно этого ждут от нас наши производители и экспортеры», – подчеркнул Андрей Слепнев. Обсуждались вопросы доступа на рынки автомобильной, медицинской и фармацевтической продукции, а также дальнейшая работа по требованиям к продукции «Халяль». Достигнута договоренность о разработке плана мер по устранению ограничений доступа готовых потребительских товаров. Стороны также намерены наладить обмен статистикой преференциальной торговли для оценки результатов Соглашения. Особое внимание уделено упрощению торговых процедур. ЕАЭС и Иран ускорят работу над электронной системой верификации происхождения товаров и согласованием протокола об электронном обмене таможенной информацией."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+            "checked_at": "2026-10-16T05:03:02.986830+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://eec.eaeunion.org/news/eaes-i-iran-dogovorilis-o-dalneyshikh-shagakh-po-razvitiyu-vzaimnoy-torgovli/",
+            "evidence": [
+              {
+                "claim": "ЕЭК 15 октября сообщила об итогах заседания с Ираном 14 октября 2026 года в Тегеране. Стороны намерены ускорить работу над электронной проверкой происхождения товаров и протоколом обмена таможенной информацией.",
+                "source_quote": "14 октября в Тегеране состоялось второе заседание Совместного комитета по реализации Соглашения о свободной торговле между Евразийским экономическим союзом и Исламской Республикой Иран. Заседание прошло под сопредседательством министра по торговле Евразийской экономической комиссии Андрея Слепнева и министра промышленности, рудников и торговли Исламской Республики Иран Сейеда Мохаммада Атабака. «Сегодня наш фокус должен сместиться с либерализации тарифов – которые мы успешно снизили – на устранение нетарифных барьеров и поддержку реального бизнеса. Именно этого ждут от нас наши производители и экспортеры», – подчеркнул Андрей Слепнев. Обсуждались вопросы доступа на рынки автомобильной, медицинской и фармацевтической продукции, а также дальнейшая работа по требованиям к продукции «Халяль». Достигнута договоренность о разработке плана мер по устранению ограничений доступа готовых потребительских товаров. Стороны также намерены наладить обмен статистикой преференциальной торговли для оценки результатов Соглашения. Особое внимание уделено упрощению торговых процедур. ЕАЭС и Иран ускорят работу над электронной системой верификации происхождения товаров и согласованием протокола об электронном обмене таможенной информацией."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-ru-eaeu-iran-origin-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: уточнено условие для налогообложения выплат из зарубежных пенсионных схем",
+      "sources": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+          "name": "Налоговая служба Ирландии"
+        }
+      ],
+      "theme": "Налогообложение единовременных выплат из зарубежных пенсионных схем",
+      "jurisdictions": [
+        "Ирландия"
+      ],
+      "act": "Revenue eBrief №151/26 от 15.10.2026; руководство 07-01-09A, пункт 2.1; статья 200A TCA 1997",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+        "source_quote": "Published: 15 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "ie-foreign-pension-purpose-151-26",
+        "cross_border_relevance": "Разъяснение непосредственно касается налогообложения в Ирландии пенсионных выплат из иностранных схем; важно для физических лиц с пенсионными накоплениями за рубежом."
+      },
+      "slug": "2026-10-16_0900_-ie-foreign-pension-purpose-151-26",
+      "caption": "Ирландия: уточнено условие для налогообложения выплат из зарубежных пенсионных схем\n\nНалоговая служба Ирландии 15 октября 2026 года обновила руководство 07-01-09A. Если зарубежная пенсионная схема допускает выплаты на иные цели, она не отвечает условию исключительной пенсионной цели по статье 200A.\n\nПочему это важно: Перед оценкой налогообложения единовременной зарубежной выплаты следует проверить правила самой схемы. Одного названия «пенсионная» недостаточно: значение имеет допустимая цель доступа к средствам.\n\nИсточник: https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+          "checked_at": "2026-10-16T05:03:02.988123+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+          "evidence": [
+            {
+              "claim": "Налоговая служба Ирландии 15 октября 2026 года обновила руководство 07-01-09A. Если зарубежная пенсионная схема допускает выплаты на иные цели, она не отвечает условию исключительной пенсионной цели по статье 200A.",
+              "source_quote": "Tax and Duty Manual 07-01-09A - Taxation of foreign retirement lump sums - has been updated as follows: Paragraph 2.1 has been amended to include guidance on the meaning of “sole purpose” under section 200A(1)(a). The guidance clarifies that, where an overseas pension arrangement permits access to benefits for purposes other than the provision of retirement benefits, the arrangement will not satisfy the requirement that it be established for the “sole purpose” of providing benefits of the kind contemplated by section 200A TCA 1997."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+            "checked_at": "2026-10-16T05:03:02.988123+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1512026.aspx",
+            "evidence": [
+              {
+                "claim": "Налоговая служба Ирландии 15 октября 2026 года обновила руководство 07-01-09A. Если зарубежная пенсионная схема допускает выплаты на иные цели, она не отвечает условию исключительной пенсионной цели по статье 200A.",
+                "source_quote": "Tax and Duty Manual 07-01-09A - Taxation of foreign retirement lump sums - has been updated as follows: Paragraph 2.1 has been amended to include guidance on the meaning of “sole purpose” under section 200A(1)(a). The guidance clarifies that, where an overseas pension arrangement permits access to benefits for purposes other than the provision of retirement benefits, the arrangement will not satisfy the requirement that it be established for the “sole purpose” of providing benefits of the kind contemplated by section 200A TCA 1997."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-ie-foreign-pension-purpose-151-26.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Франция: предложено продлить упрощение по глобальному минимальному налогу",
+      "sources": [
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+          "name": "Национальное собрание Франции"
+        }
+      ],
+      "theme": "Предложение продлить переходное упрощение по страновой отчётности Pillar 2",
+      "jurisdictions": [
+        "Франция"
+      ],
+      "act": "Поправка I-3734 к проекту бюджетного закона на 2027 год №3210, внесена Правительством 10.10.2026; статья 223 VZ bis CGI",
+      "source_published_at": "2026-10-10",
+      "publication_date_evidence": {
+        "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+        "source_quote": "Amendement n°I-3734 Déposé le samedi 10 octobre 2026 En traitement"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "fr-pillar2-i3734-20261010",
+        "cross_border_relevance": "Французское применение глобального минимального налога к международным группам. Поправка описана как рассматриваемое предложение; это единственный выбранный материал Pillar2 за день."
+      },
+      "slug": "2026-10-16_0900_-fr-pillar2-i3734-20261010",
+      "caption": "Франция: предложено продлить упрощение по глобальному минимальному налогу\n\nПравительственная поправка I-3734 к проекту бюджета на 2027 год внесена 10 октября 2026 года и находится на рассмотрении. Поправка предлагает продлить на один год упрощённый режим по страновой отчётности в рамках глобального минимального налогообложения Pillar 2.\n\nПочему это важно: Международным группам с компаниями во Франции следует оценить возможное влияние на расчёт доплаты и подготовку данных. Продление пока остаётся предложением; при расчёте текущих обязательств нужно исходить из действующих норм.\n\nИсточник: https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+          "checked_at": "2026-10-16T05:03:02.989054+00:00",
+          "status_code": 200,
+          "final_url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+          "evidence": [
+            {
+              "claim": "Поправка предлагает продлить на один год упрощённый режим по страновой отчётности в рамках глобального минимального налогообложения Pillar 2.",
+              "source_quote": "De plus, le présent amendement proroge d’un an le régime de simplification de la déclaration pays‑par‑pays, instauré par l’article 223 VZ bis du CGI."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+            "checked_at": "2026-10-16T05:03:02.989054+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3734",
+            "evidence": [
+              {
+                "claim": "Поправка предлагает продлить на один год упрощённый режим по страновой отчётности в рамках глобального минимального налогообложения Pillar 2.",
+                "source_quote": "De plus, le présent amendement proroge d’un an le régime de simplification de la déclaration pays‑par‑pays, instauré par l’article 223 VZ bis du CGI."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-fr-pillar2-i3734-20261010.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Тайвань: разъяснён будущий порядок ввоза электромобилей без авансирования освобождаемого налога",
+      "sources": [
+        {
+          "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+          "name": "Минфин Тайваня"
+        }
+      ],
+      "theme": "Порядок освобождения от товарного налога при импорте электромобилей",
+      "jurisdictions": [
+        "Тайвань"
+      ],
+      "act": "Разъяснение Южного налогового бюро14.10.2026 о правилах54-1,54-2,59-1; поправки18.08.2026, применение01.01.2027",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+        "source_quote": "發布日期：2026-10-14"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "tw-ev-import-undertaking-20261014",
+        "cross_border_relevance": "Новое официальное разъяснение касается налоговой процедуры при импорте электромобилей. Дата поправок18августа и будущая дата применения1января2027 различены; не утверждается полная отмена товарного налога."
+      },
+      "slug": "2026-10-16_0900_-tw-ev-import-undertaking-20261014",
+      "caption": "Тайвань: разъяснён будущий порядок ввоза электромобилей без авансирования освобождаемого налога\n\nВ разъяснении от 14 октября Минфин Тайваня описал порядок, утверждённый 18 августа 2026 года. С 1 января 2027 года импортёр электромобилей сможет заранее запросить у таможни разрешение на ввоз с налоговым освобождением под обязательство и последующим закрытием процедуры после регистрации автомобиля.\n\nПочему это важно: Новый порядок уменьшает сумму, отвлекаемую до получения возврата. Ввоз остаётся связан с условиями разрешения и установленными пределами освобождения; импортёру нужно заранее организовать подтверждение регистрации.\n\nИсточник: https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+          "checked_at": "2026-10-16T05:03:02.990197+00:00",
+          "status_code": 200,
+          "final_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+          "evidence": [
+            {
+              "claim": "С 1 января 2027 года импортёр электромобилей сможет заранее запросить у таможни разрешение на ввоз с налоговым освобождением под обязательство и последующим закрытием процедуры после регистрации автомобиля.",
+              "source_quote": "為減輕完全以電能為動力之電動車輛（下稱電動車輛）產製廠商或進口人先徵貨物稅後退稅之資金積壓壓力及稅捐稽徵機關作業負荷，財政部於115年8月18日修正發布貨物稅稽徵規則第54條之1、第54條之2及第59條之1條文，增訂產製廠商或進口人於電動車輛出廠或進口前，得分別向所在地國稅局或進口地海關申請核准適用具結免稅出廠或進口放行，俟完成申領牌照登記後，再辦理銷案（下稱具結免稅事後銷案），並定自116年1月1日施行。"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+            "checked_at": "2026-10-16T05:03:02.990197+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.mof.gov.tw/singlehtml/384fb3077bb349ea973e7fc6f13b6974?cntId=24ce78d97a1a428b904c4f18ed218f33",
+            "evidence": [
+              {
+                "claim": "С 1 января 2027 года импортёр электромобилей сможет заранее запросить у таможни разрешение на ввоз с налоговым освобождением под обязательство и последующим закрытием процедуры после регистрации автомобиля.",
+                "source_quote": "為減輕完全以電能為動力之電動車輛（下稱電動車輛）產製廠商或進口人先徵貨物稅後退稅之資金積壓壓力及稅捐稽徵機關作業負荷，財政部於115年8月18日修正發布貨物稅稽徵規則第54條之1、第54條之2及第59條之1條文，增訂產製廠商或進口人於電動車輛出廠或進口前，得分別向所在地國稅局或進口地海關申請核准適用具結免稅出廠或進口放行，俟完成申領牌照登記後，再辦理銷案（下稱具結免稅事後銷案），並定自116年1月1日施行。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-tw-ev-import-undertaking-20261014.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Китай: экспортный возврат НДС по автомобилям на новых источниках энергии снизят до 9%",
+      "sources": [
+        {
+          "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+          "name": "Государственное налоговое управление Китая"
+        }
+      ],
+      "theme": "Снижение ставки экспортного возврата НДС по автомобилям на новых источниках энергии",
+      "jurisdictions": [
+        "Китай"
+      ],
+      "act": "Объявление Минфина и Государственного налогового управления Китая №29 от 12.10.2026, пункт 1 и приложение 1",
+      "source_published_at": "2026-10-12",
+      "publication_date_evidence": {
+        "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+        "source_quote": "2026年10月12日"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "cn-nev-export-vat-29-2026",
+        "cross_border_relevance": "Изменение возврата НДС непосредственно относится к экспорту товаров из Китая и ценообразованию в трансграничных автомобильных поставках; будущая дата применения явно указана."
+      },
+      "slug": "2026-10-16_0900_-cn-nev-export-vat-29-2026",
+      "caption": "Китай: экспортный возврат НДС по автомобилям на новых источниках энергии снизят до 9%\n\nМинфин и Государственное налоговое управление Китая выпустили объявление №29 от 12 октября 2026 года. С 1 апреля 2027 года ставка экспортного возврата НДС по автомобилям на новых источниках энергии из установленного перечня снизится с 13% до 9%.\n\nПочему это важно: Экспортёрам и иностранным покупателям стоит пересчитать экономику контрактов с поставкой после изменения ставки. Проверка включения конкретной модели в перечень необходима до расчёта ожидаемого возврата.\n\nИсточник: https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+          "checked_at": "2026-10-16T05:03:03.017944+00:00",
+          "status_code": 200,
+          "final_url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+          "evidence": [
+            {
+              "claim": "С 1 апреля 2027 года ставка экспортного возврата НДС по автомобилям на новых источниках энергии из установленного перечня снизится с 13% до 9%.",
+              "source_quote": "一、自2027年4月1日起，将新能源汽车的增值税出口退税率由13%下调至9%。具体产品清单见附件1。"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+            "checked_at": "2026-10-16T05:03:03.017944+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5252906/content.html",
+            "evidence": [
+              {
+                "claim": "С 1 апреля 2027 года ставка экспортного возврата НДС по автомобилям на новых источниках энергии из установленного перечня снизится с 13% до 9%.",
+                "source_quote": "一、自2027年4月1日起，将新能源汽车的增值税出口退税率由13%下调至9%。具体产品清单见附件1。"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-cn-nev-export-vat-29-2026.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "США: разъяснён расчёт американской составляющей товаров из Канады и Мексики",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+          "name": "Минторг США, Federal Register"
+        }
+      ],
+      "theme": "Расчёт американской составляющей при металлических тарифах на импорт из Канады и Мексики",
+      "jurisdictions": [
+        "США",
+        "Канада",
+        "Мексика"
+      ],
+      "act": "FR Doc. 2026-20938; Docket №260918-0056; XRIN 0694-XC163; указание по пункту 2(d) Proclamation 11032",
+      "source_published_at": "2026-10-14",
+      "publication_date_evidence": {
+        "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+        "source_quote": "Publication Date 10/14/2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "us-usmca-content-guidance-20938",
+        "cross_border_relevance": "Официальное указание о расчёте доли американских компонентов в преференциальных товарах Канады и Мексики для тарифов на металлы непосредственно влияет на таможенные платежи при импорте в США."
+      },
+      "slug": "2026-10-16_0900_-us-usmca-content-guidance-20938",
+      "caption": "США: разъяснён расчёт американской составляющей товаров из Канады и Мексики\n\nМинторг США опубликовал указание 14 октября 2026 года. Для товаров из Канады и Мексики с преференциями по соглашению США, Мексики и Канады (USMCA) разъяснён состав американской доли при применении пошлин на металлы. Она включает стоимость деталей, полностью полученных, произведённых или существенно переработанных в США.\n\nПочему это важно: Импортёрам нужно документировать происхождение и стоимость компонентов. Расчёт американской доли следует отделять от общей проверки права товара на преференции по соглашению США, Мексики и Канады.\n\nИсточник: https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+          "checked_at": "2026-10-16T05:03:13.789299+00:00",
+          "status_code": 200,
+          "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+          "evidence": [
+            {
+              "claim": "Для товаров из Канады и Мексики с преференциями по соглашению США, Мексики и Канады (USMCA) разъяснён состав американской доли при применении пошлин на металлы. Она включает стоимость деталей, полностью полученных, произведённых или существенно переработанных в США.",
+              "source_quote": "SUMMARY: This notice provides guidance to U.S. Customs and Border Protection regarding the assessment of “U.S. content” for products of Canada and Mexico that qualify for preferential tariff treatment under the United States-Mexico-Canada Agreement, for purposes of implementing tariffs pursuant to Proclamation 11032 of June 1, 2026. DATES: The guidance set out in in this notice is effective with respect to products that are entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. Eastern Time on October 14, 2026. SUPPLEMENTARY INFORMATION: Background On June 1, 2026, the President issued Presidential Proclamation 11032 entitled “Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States” ( 91 FR 34085 ) (Proclamation). The Proclamation modifies the tariff regimes for metal products imposed in Presidential Proclamation 9704, as amended, Proclamation 9705, as amended, and Proclamation 10962, as amended, and directs the Secretary of Commerce (Secretary) to issue guidance to U.S. Customs and Border Protection regarding the assessment of “U.S. content” for purposes of implementing tariffs pursuant to clause (2)(d) of the Proclamation. The Secretary has delegated this duty to the Deputy Assistant Secretary for Technology Security. Guidance to U.S. Customs and Border Protection Regarding the Assessment of “U.S. Content” for Purposes of Implementing Tariffs Pursuant to Clause (2)(d) of Proclamation 11032 of June 1, 2026 The Department of Commerce advises that, for purposes of implementing clause (2)(d) of the Proclamation, the term “U.S. content” means the following: 1. The value of the product attributable to parts wholly obtained, entirely produced, or substantially transformed in the United States, and 2. To the extent not otherwise accounted for in (1), the value of the product attributable to steel that was melted and poured in the United States, aluminum that was smelted and cast in the United States, and/or copper that was smelted and cast in the United States."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+            "checked_at": "2026-10-16T05:03:13.789299+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
+            "evidence": [
+              {
+                "claim": "Для товаров из Канады и Мексики с преференциями по соглашению США, Мексики и Канады (USMCA) разъяснён состав американской доли при применении пошлин на металлы. Она включает стоимость деталей, полностью полученных, произведённых или существенно переработанных в США.",
+                "source_quote": "SUMMARY: This notice provides guidance to U.S. Customs and Border Protection regarding the assessment of “U.S. content” for products of Canada and Mexico that qualify for preferential tariff treatment under the United States-Mexico-Canada Agreement, for purposes of implementing tariffs pursuant to Proclamation 11032 of June 1, 2026. DATES: The guidance set out in in this notice is effective with respect to products that are entered for consumption, or withdrawn from warehouse for consumption, on or after 12:01 a.m. Eastern Time on October 14, 2026. SUPPLEMENTARY INFORMATION: Background On June 1, 2026, the President issued Presidential Proclamation 11032 entitled “Further Adjusting the Tariff Regimes for Imports of Aluminum, Steel, and Copper into the United States” ( 91 FR 34085 ) (Proclamation). The Proclamation modifies the tariff regimes for metal products imposed in Presidential Proclamation 9704, as amended, Proclamation 9705, as amended, and Proclamation 10962, as amended, and directs the Secretary of Commerce (Secretary) to issue guidance to U.S. Customs and Border Protection regarding the assessment of “U.S. content” for purposes of implementing tariffs pursuant to clause (2)(d) of the Proclamation. The Secretary has delegated this duty to the Deputy Assistant Secretary for Technology Security. Guidance to U.S. Customs and Border Protection Regarding the Assessment of “U.S. Content” for Purposes of Implementing Tariffs Pursuant to Clause (2)(d) of Proclamation 11032 of June 1, 2026 The Department of Commerce advises that, for purposes of implementing clause (2)(d) of the Proclamation, the term “U.S. content” means the following: 1. The value of the product attributable to parts wholly obtained, entirely produced, or substantially transformed in the United States, and 2. To the extent not otherwise accounted for in (1), the value of the product attributable to steel that was melted and poured in the United States, aluminum that was smelted and cast in the United States, and/or copper that was smelted and cast in the United States."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-us-usmca-content-guidance-20938.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "ЮАР: SARS анонсировала пошлину 5% на газетную бумагу",
+      "sources": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+          "name": "Налоговая служба ЮАР"
+        }
+      ],
+      "theme": "Анонс повышения общей импортной пошлины на газетную бумагу",
+      "jurisdictions": [
+        "ЮАР"
+      ],
+      "act": "Анонс SARS от 15.10.2026; тарифная позиция 4801.00; доклад ITAC №784; реквизиты Gazette ожидаются",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+        "source_quote": "15 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "za-newsprint-tariff-784-20261015",
+        "cross_border_relevance": "Изменение общей таможенной ставки на импорт газетной бумаги непосредственно меняет стоимость трансграничных поставок. Материал честно описывает официальный анонс, не подменяет его подтверждением публикации в Gazette."
+      },
+      "slug": "2026-10-16_0900_-za-newsprint-tariff-784-20261015",
+      "caption": "ЮАР: SARS анонсировала пошлину 5% на газетную бумагу\n\n15 октября 2026 года Налоговая служба ЮАР (SARS) сообщила о предстоящей публикации тарифного уведомления. В анонсе указано повышение общей ставки на газетную бумагу в рулонах или листах по позиции 4801.00 с нуля до 5% с 16 октября. Реквизиты официальной публикации ведомство обещало сообщить позднее.\n\nПочему это важно: Импортёрам следует учитывать заявленное изменение в стоимости поставок и проверить окончательное уведомление перед декларированием. Указанная общая ставка требует отдельной проверки применимых тарифных преференций.\n\nИсточник: https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+          "checked_at": "2026-10-16T05:03:14.379846+00:00",
+          "status_code": 200,
+          "final_url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+          "evidence": [
+            {
+              "claim": "В анонсе указано повышение общей ставки на газетную бумагу в рулонах или листах по позиции 4801.00 с нуля до 5% с 16 октября. Реквизиты официальной публикации ведомство обещало сообщить позднее.",
+              "source_quote": "15 October 2026 – Customs and Excise Act, 1964: The tariff amendments notice, scheduled for publication in the Government Gazette , relate to the following: With retrospective effect from 28 August 2026 Amendment of provisional payment in relation to anti-dumping duties against the alleged dumping of flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, painted, varnished or coated with plastics, classifiable under tariff subheadings 7210.70.20, 7210.70.30, 7210.70.40 and 7210.70.90 originating in or imported from the People’s Republic of China, in order to correct the exporters names “Shandong Shinmade Material Technology Co. Ltd” and Yie Phui (China) Technomaterial Co. Ltd (YPC) to read “Shandong Shinmade Material Tech Co. Ltd” and “Yieh Phui (China) Technomaterial Co. Ltd”, respectively, where they appear in Notice No. R. 7865 of Government Gazette No. 55269 dated 28 August 2026 With effect from 16 October 2026 Amendment to Part 1 of Schedule No.1, by the substitution of tariff subheading 4801.00, in order to increase the general rate of customs duty on newsprint, in rolls or sheets from free of duty to 5% (ITAC Report 784) Up to and including 3 May 2027 Imposition of provisional payment in relation to safeguard duties against the alleged increase on imports of office paper, classifiable under tariff subheadings 4802.56.20 and 4802.56.90 (ITAC Report 791) Publication details will be made available later"
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+            "checked_at": "2026-10-16T05:03:14.379846+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.sars.gov.za/latest-news/legal-counsel-secondary-legislation-tariff-amendments-2026-55/",
+            "evidence": [
+              {
+                "claim": "В анонсе указано повышение общей ставки на газетную бумагу в рулонах или листах по позиции 4801.00 с нуля до 5% с 16 октября. Реквизиты официальной публикации ведомство обещало сообщить позднее.",
+                "source_quote": "15 October 2026 – Customs and Excise Act, 1964: The tariff amendments notice, scheduled for publication in the Government Gazette , relate to the following: With retrospective effect from 28 August 2026 Amendment of provisional payment in relation to anti-dumping duties against the alleged dumping of flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, painted, varnished or coated with plastics, classifiable under tariff subheadings 7210.70.20, 7210.70.30, 7210.70.40 and 7210.70.90 originating in or imported from the People’s Republic of China, in order to correct the exporters names “Shandong Shinmade Material Technology Co. Ltd” and Yie Phui (China) Technomaterial Co. Ltd (YPC) to read “Shandong Shinmade Material Tech Co. Ltd” and “Yieh Phui (China) Technomaterial Co. Ltd”, respectively, where they appear in Notice No. R. 7865 of Government Gazette No. 55269 dated 28 August 2026 With effect from 16 October 2026 Amendment to Part 1 of Schedule No.1, by the substitution of tariff subheading 4801.00, in order to increase the general rate of customs duty on newsprint, in rolls or sheets from free of duty to 5% (ITAC Report 784) Up to and including 3 May 2027 Imposition of provisional payment in relation to safeguard duties against the alleged increase on imports of office paper, classifiable under tariff subheadings 4802.56.20 and 4802.56.90 (ITAC Report 791) Publication details will be made available later"
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-za-newsprint-tariff-784-20261015.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Ирландия: в руководстве по багажу обновлён раздел об акцизе на ввозимый табак",
+      "sources": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "name": "Налоговая служба Ирландии"
+        }
+      ],
+      "theme": "Акциз на импортируемые табачные изделия в багаже путешественников",
+      "jurisdictions": [
+        "Ирландия"
+      ],
+      "act": "Revenue eBrief №145/26 от 09.10.2026; руководство по контролю багажа, приложение 3",
+      "source_published_at": "2026-10-09",
+      "publication_date_evidence": {
+        "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+        "source_quote": "Published: 09 October 2026"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "ie-baggage-tobacco-145-26",
+        "cross_border_relevance": "Официальное изменение руководства об акцизах при трансграничном ввозе табачных изделий пассажирами; обновлённое приложение отличено от общего бюджетного материала об интеллектуальной собственности."
+      },
+      "slug": "2026-10-16_0900_-ie-baggage-tobacco-145-26",
+      "caption": "Ирландия: в руководстве по багажу обновлён раздел об акцизе на ввозимый табак\n\nНалоговая служба Ирландии 9 октября 2026 года сообщила об изменении приложения 3 к руководству по контролю багажа. В нём учтены изменения бюджета на 2027 год по акцизу на табачные изделия в багаже путешественников.\n\nПочему это важно: При расчёте платежей за ввоз табачных изделий пассажирам и консультантам следует сверяться с обновлённым приложением. Оно посвящено багажу путешественников, поэтому условия коммерческого ввоза нужно проверять отдельно.\n\nИсточник: https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "checked_at": "2026-10-16T05:03:14.406536+00:00",
+          "status_code": 200,
+          "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+          "evidence": [
+            {
+              "claim": "Налоговая служба Ирландии 9 октября 2026 года сообщила об изменении приложения 3 к руководству по контролю багажа. В нём учтены изменения бюджета на 2027 год по акцизу на табачные изделия в багаже путешественников.",
+              "source_quote": "Appendix 3 has been amended to reflect the Budget 2027 changes in Excise Duty to be charged on imported tobacco products in a traveller's baggage."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+            "checked_at": "2026-10-16T05:03:14.406536+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.revenue.ie/en/tax-professionals/ebrief/2026/no-1452026.aspx",
+            "evidence": [
+              {
+                "claim": "Налоговая служба Ирландии 9 октября 2026 года сообщила об изменении приложения 3 к руководству по контролю багажа. В нём учтены изменения бюджета на 2027 год по акцизу на табачные изделия в багаже путешественников.",
+                "source_quote": "Appendix 3 has been amended to reflect the Budget 2027 changes in Excise Duty to be charged on imported tobacco products in a traveller's baggage."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-ie-baggage-tobacco-145-26.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    },
+    {
+      "title": "Сингапур: при разгрузке судна изъяты сигареты с неуплаченной пошлиной",
+      "sources": [
+        {
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+          "name": "Полиция и таможня Сингапура"
+        }
+      ],
+      "theme": "Пресечение морского ввоза табачной продукции с неуплаченной пошлиной",
+      "jurisdictions": [
+        "Сингапур"
+      ],
+      "act": "Совместное сообщение полиции и таможни Сингапура от 15.10.2026 об операции у Marina South Wharf 13.10.2026",
+      "source_published_at": "2026-10-15",
+      "publication_date_evidence": {
+        "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+        "source_quote": "15 October 2026 @ 8:00 AM"
+      },
+      "editorial_review": {
+        "reviewed_by": "Codex editorial review 2026-10-16",
+        "event_key": "sg-marina-cigarettes-20261013",
+        "cross_border_relevance": "Пресечение перемещения подакцизного товара с судна на берег непосредственно относится к таможенным платежам при морском ввозе. Задержания не подаются как обвинительный приговор."
+      },
+      "slug": "2026-10-16_0900_-sg-marina-cigarettes-20261013",
+      "caption": "Сингапур: при разгрузке судна изъяты сигареты с неуплаченной пошлиной\n\nПолиция и таможня Сингапура опубликовали совместное сообщение 15 октября 2026 года. При операции 13 октября у причала Марина-Саут задержаны пять человек. Изъяты 238 блоков и 120 пачек сигарет с неуплаченной пошлиной; материалы о нарушении переданы таможне.\n\nПочему это важно: Морская доставка и выгрузка на берег требуют соблюдения таможенных правил. Кейс показывает риск изъятия подакцизной продукции с неуплаченной пошлиной; сообщение касается задержания, приговор в нём не приведён.\n\nИсточник: https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes\n\n#Налоги #АкадемияBEPS #АкадемияБЕПС",
+      "source_verifications": [
+        {
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+          "checked_at": "2026-10-16T05:03:14.975662+00:00",
+          "status_code": 200,
+          "final_url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+          "evidence": [
+            {
+              "claim": "При операции 13 октября у причала Марина-Саут задержаны пять человек. Изъяты 238 блоков и 120 пачек сигарет с неуплаченной пошлиной; материалы о нарушении переданы таможне.",
+              "source_quote": "The Police have arrested five men, aged between 30 and 47, for their involvement in smuggling duty-unpaid cigarettes. On 13 October 2026, officers from the Police Coast Guard (PCG) and Police Intelligence Department conducted an operation in the vicinity of Marina South Wharf and arrested five men for their involvement in a vessel-to-shore contraband smuggling. A total of 238 cartons and 120 packets of duty-unpaid cigarettes were seized during the operation. During the operation, PCG officers arrested a 44-year-old Indonesian man at the shore, and three Indonesian men, aged between 30 and 36, were arrested onboard a Singapore-flagged vessel moored at the area. A 47-year-old Singaporean man was also arrested during the operation for his involvement in the transportation of the duty-unpaid cigarettes. The duty-unpaid cigarettes-related offences have been referred to Singapore Customs."
+            }
+          ]
+        }
+      ],
+      "channels": [
+        "telegram_channel"
+      ],
+      "image_spec": {
+        "badge": "ACADEMY BEPS"
+      },
+      "current_run_check": {
+        "passed": true,
+        "checks": [
+          {
+            "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+            "checked_at": "2026-10-16T05:03:14.975662+00:00",
+            "performed": true,
+            "passed": true,
+            "status_code": 200,
+            "final_url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_five_men_arrested_for_smuggling_of_duty_unpaid_cigarettes",
+            "evidence": [
+              {
+                "claim": "При операции 13 октября у причала Марина-Саут задержаны пять человек. Изъяты 238 блоков и 120 пачек сигарет с неуплаченной пошлиной; материалы о нарушении переданы таможне.",
+                "source_quote": "The Police have arrested five men, aged between 30 and 47, for their involvement in smuggling duty-unpaid cigarettes. On 13 October 2026, officers from the Police Coast Guard (PCG) and Police Intelligence Department conducted an operation in the vicinity of Marina South Wharf and arrested five men for their involvement in a vessel-to-shore contraband smuggling. A total of 238 cartons and 120 packets of duty-unpaid cigarettes were seized during the operation. During the operation, PCG officers arrested a 44-year-old Indonesian man at the shore, and three Indonesian men, aged between 30 and 36, were arrested onboard a Singapore-flagged vessel moored at the area. A 47-year-old Singaporean man was also arrested during the operation for his involvement in the transportation of the duty-unpaid cigarettes. The duty-unpaid cigarettes-related offences have been referred to Singapore Customs."
+              }
+            ]
+          }
+        ]
+      },
+      "source_gate_passed": true,
+      "primary_source_verified": true,
+      "approval": {
+        "status": "approved",
+        "by": "Codex editorial review",
+        "evidence": "Authored factual claim, dated official source, live HTTP 200/exact URL/visible quote, relevance and history review."
+      },
+      "image_path": "C:\\Users\\vakhi\\Downloads\\Tax News\\Office Tax News\\News Claude\\pipeline\\assets\\2026-10-16\\2026-10-16_0900_-sg-marina-cigarettes-20261013.jpg",
+      "image_credit": "Academy BEPS",
+      "image_rights": "original artwork"
+    }
+  ]
+}

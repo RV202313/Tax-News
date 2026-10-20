@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Tue, 06 Oct 2026 08:59:48 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Basistraining AI voor de fiscale praktijk</title>
+		<link>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/</link>
+					<comments>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 10:26:00 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[Basiscursussen]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=159923</guid>
+
+					<description><![CDATA[Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L LET OP: LAPTOP MEENEMEN Tijdens deze basistraining leer je welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt<a class="read-more" href="https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>Effectief prompten en veilig werken met tools als ChatGPT, Claude, Copilot en GenIA-L</p>
+<p>LET OP: LAPTOP MEENEMEN</p>
+<p>Tijdens deze basistraining leer je welke mogelijkheden generatieve AI biedt voor de fiscale praktijk. Je maakt kennis met AI en de verschillende generatieve AI-tools. Je leert waaraan goede prompts moeten voldoen om optimale resultaten te behalen. Je krijgt zicht op de risico’s en valkuilen zodat je generatieve AI niet alleen effectief, maar ook veilig en verantwoord toepast in fiscale werkzaamheden.</p>
+<p><strong>Effectief prompten</strong><br />Om generatieve AI-tools, als ChatGPT, Claude, Copilot en GenIA-L, zo optimaal mogelijk voor je te laten werken, zijn goede prompting skills essentieel. Je leert de basistechnieken voor het formuleren van effectieve prompts. Onder begeleiding van de docent, Ron Meijer RB, die zijn kennis over AI combineert met ruime ervaring in de fiscale praktijk, oefen je met prompten aan de hand van aansprekende fiscale vraagstukken.&nbsp;</p>
+<p>De nadruk ligt tijdens deze training voornamelijk op de talige aspecten van het werk zoals review, klantcommunicatie en documentatie. Wel wordt stilgestaan bij de (on)mogelijkheden van deze tools bij data-analyses en (financiële) berekeningen.</p>
+<p><strong>Veilig en verantwoord werken met AI<br /></strong>Naast inzicht in de kansen leer je hoe je generatieve AI veilig en verantwoord toepast conform het wetgevend kader zoals de EU AI Act (ook wel de AI-verordening) en de Algemene Verordening Gegevensbescherming (AVG). &nbsp;Je hoort waar je rekening mee moet houden als het gaat om bijvoorbeeld klantgevoelige informatie en bescherming van persoonsgegevens.</p>
+<p><strong>Na afloop van deze training gericht op de fiscale praktijk:<br /></strong></p>
+<p><strong>Betekenis AI voor de fiscale praktijk</strong>: <em>Ben je op de hoogte van de mogelijkheden die AI biedt voor de fiscale praktijk;</em><br />
+<strong>Effectief prompten</strong>: <em>Beschik je over</em> <em>promptingskills die tot optimale resultaten leiden</em>;<br />
+<strong>AI-Governance &amp; AI-Compliance</strong>: <em>Weet je hoe je AI veilig en verantwoord toepast</em></p>
+<p><strong>AI-geletterdheid<br /></strong>De EU AI Act vereist sinds februari 2025 AI-geletterdheid voor organisaties die AI-systemen ontwikkelen of gebruiken. Dit betekent dat iedereen binnen dergelijke organisaties over de juiste kennis en vaardigheden moet beschikken om AI-systemen op een verantwoorde en effectieve manier te gebruiken. Door het volgen van deze training versterk je jouw AI-geletterdheid.</p>
+<p><strong>Voor wie?<br /></strong>Deze training is ontwikkeld voor professionals in de fiscale sector die een start willen maken of wellicht al enigszins hebben geëxperimenteerd met generatieve AI. Technische voorkennis of ervaring met generatieve AI is niet nodig voor deze training.</p>
+<p><strong>Praktische informatie<br /></strong>Tijdens de training ga je oefenen met prompten. Neem daarom je laptop mee. Het is bovendien wenselijk om voorafgaand aan de training een (gratis) account aan te maken via chat.openai.com. Ook maak je kennis met <a href="https://www.sdu.nl/genial">GenIA-L </a>– juridische/fiscale assistent die generatieve AI combineert met de inhoud van betrouwbare bronnen in Rechtsorde. Deelname aan deze training geeft je zelfs twee weken gratis en geheel vrijblijvend toegang tot GenIA-L (toegang stopt automatisch twee weken na afloop van de training).</p>
+<p><strong>Studiemateriaal<br /></strong>De trainer van de cursus, Ron Meijer, heeft het boek <a href="https://www.sdu.nl/shop/ai-in-de-fiscale-praktijk.html">AI in de fiscale praktijk</a> geschreven vol AI-gerelateerde voorbeelden, caussen en direct inzetbare prompts, Deze wordt op de cursusdag uitgereikt.&nbsp;</p>
+<p><strong>Vervolgtraining<br /></strong>Wil je jouw AI-skills verder versterken dan is de ‘Verdiepende training AI voor de fiscale praktijk’ op <a href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2988/verdiepende-ai-training-voor-de-fiscale-praktijk">1 oktober</a>&nbsp;of <a href="https://www.licentacademy.nl/opleidingen/verdiepingscursussen/2989/verdiepende-ai-training-voor-de-fiscale-praktijk">14 december&nbsp;&nbsp;</a>wellicht interessant voor jou. Deze verdiepende training focust op geavanceerd prompten, AI-agents bouwen en combineren van diverse AI-tools (GenIA L, ChatGPT, Claude en Copilot) voor een optimale workflow).</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/basisopleidingen/2992/basistraining-ai-voor-de-fiscale-praktijk" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/basistraining-ai-voor-de-fiscale-praktijk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hypotheekvorderingen zijn geen banktegoeden in box 3</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-8/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-8/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 08:23:23 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168035</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat hypothecaire geldleningen aan familieleden voor het rechtsherstel box 3 geen banktegoeden zijn. De vorderingen behoren tot de overige bezittingen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat hypothecaire geldleningen aan familieleden voor het rechtsherstel box 3 geen banktegoeden zijn. De vorderingen behoren tot de overige bezittingen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw geeft in haar aangifte IB/PVV 2021 ruim € 1,5 miljoen aan bezittingen in box 3 aan. Daaronder vallen drie vorderingen van in totaal € 362.823. Twee daarvan zijn hypothecaire geldleningen aan haar kinderen voor de aankoop van een woning en één lening is verstrekt aan een voormalig familielid. Over de vorderingen ontvangt zij 2,5% rente. Bij het vaststellen van de aanslag past de inspecteur de Wet rechtsherstel box 3 toe en behandelt hij de vorderingen als overige bezittingen. De vrouw vindt dat de vorderingen vanwege onder meer het lage risico, de hypothecaire zekerheid en de regelmatige rente-inkomsten als banktegoeden moeten worden behandeld. Daarnaast vraagt zij om nader rechtsherstel.</p>
+
+
+
+<h3 class="wp-block-heading">Vorderingen zijn geen deposito&#8217;s</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de vorderingen niet voldoen aan de definitie van een deposito in de Wet op het financieel toezicht. Zij kunnen daarom voor de Wet rechtsherstel box 3 niet als banktegoeden worden aangemerkt. De wetgever heeft voor het begrip banktegoed bewust aangesloten bij deze definitie. Ook is geen sprake van verboden discriminatie. Bij particuliere vorderingen bestaat onderhandelingsruimte over onder meer rente, looptijd, aflossing en zekerheden. Daarmee verschillen zij wezenlijk van banktegoeden. De vorderingen zijn dus terecht als overige bezittingen aangemerkt.</p>
+
+
+
+<h3 class="wp-block-heading">Geen bewijs voor lager werkelijk rendement</h3>
+
+
+
+<p class="wp-block-paragraph">Voor aanvullend rechtsherstel moet de vrouw aannemelijk maken dat het forfaitair berekende box 3-inkomen hoger is dan haar werkelijke rendement. Dat doet zij niet. Zij geeft namelijk geen inzicht in de waardeontwikkeling van haar beleggingsportefeuille. Daardoor kan niet worden vastgesteld dat het werkelijke rendement over haar gehele box 3-vermogen lager is dan het forfaitaire rendement. Het hof oordeelt daarom dat de aanslag juist is vastgesteld en verklaart het hoger beroep ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.3?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.3 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5874" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 08-09-2026, ECLI:NL:GHARL:2026:5874, 25/893 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/schenken-woning.jpg" length="25690" type="image/jpeg" />	</item>
+		<item>
+		<title>Certificaten vallen onder bedrijfsopvolgingsvrijstelling</title>
+		<link>https://www.taxence.nl/nieuws/certificaten-vallen-onder-bedrijfsopvolgingsvrijstelling/</link>
+					<comments>https://www.taxence.nl/nieuws/certificaten-vallen-onder-bedrijfsopvolgingsvrijstelling/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 08:20:59 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Estate Planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168033</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat de bedrijfsopvolgingsvrijstelling in de overdrachtsbelasting van toepassing is op de schenking van certificaten van aandelen. Volledige zeggenschap over de onderneming is daarvoor niet vereist.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat de bedrijfsopvolgingsvrijstelling in de overdrachtsbelasting van toepassing is op de schenking van certificaten van aandelen. Volledige zeggenschap over de onderneming is daarvoor niet vereist.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vader houdt via een bv een belang van 34% in een andere bv die een onderneming drijft. In december 2022 schenkt hij 90% van de certificaten van aandelen in zijn bv aan zijn vier kinderen. Zij doen voor de verkrijging een beroep op de bedrijfsopvolgingsvrijstelling in de overdrachtsbelasting. De inspecteur weigert de vrijstelling. Volgens hem drijft de bv zelf geen materiële onderneming en zetten de kinderen de onderneming niet volledig voort omdat zij niet de volledige zeggenschap krijgen. Ook stelt hij dat de vrijstelling niet geldt voor de verkrijging van certificaten van aandelen. In geschil is of de bedrijfsopvolgingsvrijstelling van toepassing is.</p>
+
+
+
+<h3 class="wp-block-heading">Bedrijfsopvolgingsvrijstelling geldt</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de activiteiten en vermogensbestanddelen van de onderliggende bv moeten worden toegerekend aan de bv waarvan de certificaten zijn geschonken. Daardoor drijft deze bv een materiële onderneming. Het belang van 34% in de onderliggende bv staat toepassing van de vrijstelling niet in de weg. Ook is niet vereist dat de kinderen volledige zeggenschap krijgen, bestuurder worden of beschikken over een schriftelijk overnameplan. De schenking van certificaten zonder stemrecht vormt evenmin een belemmering. Certificaten kunnen met aandelen worden vereenzelvigd als het economische belang bij de certificaathouder ligt. Wel moet de verkrijger het volledige economische belang behouden en moet de onderneming worden voortgezet. De rechtbank verklaart het beroep gegrond en vermindert de naheffingsaanslag tot nihil.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-4?lid=BWBR0002740&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 4</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002740-15-1-b?lid=BWBR0002740&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 15, eerste lid, onderdeel b, WBR</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002226-35c?lid=BWBR0002226&amp;pid=c-NDFRSUCCWBR&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 35c SW 1956</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_9184" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 14-07-2026, ECLI:NL:RBNHO:2026:9184, HAA 25/4451 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/certificaten-vallen-onder-bedrijfsopvolgingsvrijstelling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/11/BOR.jpg" length="20732" type="image/jpeg" />	</item>
+		<item>
+		<title>Eerste Kamer kritisch over snelle invoering vermogenswinstbelasting</title>
+		<link>https://www.taxence.nl/nieuws/eerste-kamer-kritisch-over-snelle-invoering-vermogenswinstbelasting/</link>
+					<comments>https://www.taxence.nl/nieuws/eerste-kamer-kritisch-over-snelle-invoering-vermogenswinstbelasting/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 06:50:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168059</guid>
+
+					<description><![CDATA[Op 5 oktober spraken minister Heinen en staatssecretaris Eerenberg van Financiën met de Eerste Kamercommissie voor Financiën over de voortgang van de Wet werkelijk rendement box 3. De Eerste Kamer was kritisch over de zorg]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Op 5 oktober spraken minister Heinen en staatssecretaris Eerenberg van Financiën met de Eerste Kamercommissie voor Financiën over de voortgang van de Wet werkelijk rendement box 3. De Eerste Kamer was kritisch over de zorgvuldigheid.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet heeft op 2 oktober met spoed advies gevraagd aan de Raad van State. Dit advies wordt eind oktober 2026 verwacht. Het kabinet heeft inmiddels gekozen voor een scenario waarbij vanaf 2028 een vermogenswinstbelasting wordt ingevoerd voor alle financiële instrumenten, waaronder spaargeld en aandelen. Volgens staatssecretaris Eerenberg is dit de snelste route om tot een vermogenswinstbelasting te komen. Het kabinet wil nog voor Kerstmis duidelijkheid hebben. Vervolgens is het de bedoeling om via een nieuw wetsvoorstel vanaf 2030 een volledige vermogenswinstbelasting voor alle vermogensbestanddelen in te voeren, inclusief crypto.</p>
+
+
+
+<p class="wp-block-paragraph">De meeste senatoren waren positief over het feit dat het kabinet na verschillende scenario’s nu een duidelijke keuze heeft gemaakt. Tegelijkertijd bestaan er zorgen over de uitvoerbaarheid. Zo zijn er signalen dat banken en de Belastingdienst mogelijk nog onvoldoende voorbereid zijn. Senatoren benadrukten dat het box 3-stelsel na jaren van veranderingen vooral begrijpelijk, stabiel en uitvoerbaar moet worden.</p>
+
+
+
+<h2 class="wp-block-heading">Financiële dekking</h2>
+
+
+
+<p class="wp-block-paragraph">Daarnaast waren er vragen over de financiële dekking van de maatregelen en over het tijdpad. De novelle wordt tegelijkertijd met het Belastingplan behandeld, waardoor de beschikbare tijd beperkt is. Verschillende senatoren willen voorkomen dat beide wetgevingstrajecten inhoudelijk met elkaar vermengd raken. Ook werd gevraagd of het juridisch, met name binnen de Europese regels, mogelijk is om crypto anders te behandelen dan andere vermogensbestanddelen.</p>
+
+
+
+<p class="wp-block-paragraph">Een ander discussiepunt was het heffingsvrije vermogen. Vanuit de Eerste Kamer werd erop gewezen dat spaargeld ook dient als financiële buffer voor onverwachte gebeurtenissen. Een vrijstelling van ongeveer € 50.000 per persoon werd daarbij als redelijk genoemd.</p>
+
+
+
+<p class="wp-block-paragraph">Eerenberg bevestigde dat de novelle hetzelfde tijdpad volgt als het Belastingplan, maar benadrukte dat het om afzonderlijke wetsvoorstellen gaat. Snelheid is volgens hem noodzakelijk omdat burgers en betrokken partijen behoefte hebben aan duidelijkheid. Crypto wordt niet in de novelle geregeld, maar via een afzonderlijk wetsvoorstel richting 2030.</p>
+
+
+
+<p class="wp-block-paragraph">Minister Heinen maakte bovendien duidelijk dat de voorgestelde verlaging van het heffingsvrije vermogen niet als definitieve grens moet worden gezien. Het kabinet bevindt zich inhoudelijk nog midden in het proces. Veel details kunnen daarom pas worden ingevuld nadat de uitvoeringstoets en het advies van de Raad van State beschikbaar zijn.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.eerstekamer.nl/nieuws/20261006/mondeling_overleg_over_box_3" data-type="link" data-id="https://www.eerstekamer.nl/nieuws/20261006/mondeling_overleg_over_box_3" target="_blank" rel="noreferrer noopener">Eerste Kamer, 6 oktober 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/eerste-kamer-kritisch-over-snelle-invoering-vermogenswinstbelasting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/12/adviseur-box3.jpg" length="37554" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt bij bonus op basis van EBITA en verkoopopbrengst</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-bij-bonus-op-basis-van-ebita-en-verkoopopbrengst/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-bij-bonus-op-basis-van-ebita-en-verkoopopbrengst/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 05:54:10 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168030</guid>
+
+					<description><![CDATA[De Kennisgroep bijzondere winstbepalingen vpb heeft de vraag beantwoord of de toekenning van een cashbonus op basis van de EBITA en de verkoopopbrengst van de aandelen, niet aftrekbaar is door toepassing van artikel 10, eerste lid, onderdeel j, van de Wet op de vennootschapsbelasting 1969.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep bijzondere winstbepalingen vpb heeft de vraag beantwoord of de toekenning van een cashbonus op basis van de EBITA en de verkoopopbrengst van de aandelen, niet aftrekbaar is door toepassing van artikel 10, eerste lid, onderdeel j, van de Wet op de vennootschapsbelasting 1969.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De feiten van de casus zijn als volgt:</p>
+
+
+
+<ul class="wp-block-list">
+<li>X BV heeft aan een werknemer een bonusregeling toegekend die recht geeft op:<br>1) een jaarlijkse cashbonus welke gelijk is aan een percentage van de toename van de EBITA vermenigvuldigd met de overeengekomen vermenigvuldigingsfactor (EBITA-bonus); en</li>
+
+
+
+<li>2) een eenmalige cashbonus welke bestaat uit een percentage van het verschil tussen de verkoopprijs van de aandelen X BV en de historische kostprijs van de aandelen (verkoopopbrengstbonus).</li>
+
+
+
+<li>De EBITA-bonus wordt jaarlijks toegekend onder de opschortende voorwaarde dat de werknemer twee jaar later nog in dienst is.</li>
+
+
+
+<li>De verkoopopbrengstbonus wordt uitgekeerd als de aandelen in X BV worden verkocht. De werknemer verkrijgt deze verkoopopbrengstbonus in het jaar van verkoop dan in plaats van de EBITA-bonus.</li>
+
+
+
+<li>Indien niet de aandelen maar de activa en passiva van X BV worden verkocht, dan wordt de verkoopopbrengstbonus berekend door het afgesproken percentage te vermenigvuldigen met het verschil tussen de verkoopsom voor de activa en passiva en de oorspronkelijke aankoopwaarde van de activa en passiva.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Kan artikel 10, eerste lid, onderdeel j, van de Wet Vpb 1969 van toepassing zijn op een cashbonusrecht op basis van de EBITA en de verkoopopbrengst van de aandelen?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Ja. Als het toegekende recht zodanig is vormgegeven dat de omvang van de bonus wordt bepaald op basis van een methode waarop ook de waarde van de aandelen kan worden bepaald, dan valt het toegekende recht onder het laatste deel van de tekst van artikel 10, eerste lid, onderdeel j, Wet Vpb 1969. De waarde van het recht wordt dan bepaald door de waardeverandering van die aandelen. Daarbij is nog wel van belang dat het gaat om een toekenning aan werknemers van wie het loon op jaarbasis meer bedraagt dan € 728.000.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-10-eerste-lid-onderdeel-j-wet-vpb-1969-bij-bonus-op-basis-van-ebita-en-verkoopopbrengst/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-10-eerste-lid-onderdeel-j-wet-vpb-1969-bij-bonus-op-basis-van-ebita-en-verkoopopbrengst/" target="_blank" rel="noreferrer noopener">Belastingdienst, 5 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-bij-bonus-op-basis-van-ebita-en-verkoopopbrengst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/12/Bonus-eindejaar.jpg" length="33410" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt aftrekbeperking en loonbelasting die vennootschap voor eigen rekening neemt</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-aftrekbeperking-en-loonbelasting-die-vennootschap-voor-eigen-rekening-neemt/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-aftrekbeperking-en-loonbelasting-die-vennootschap-voor-eigen-rekening-neemt/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 05:50:27 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168028</guid>
+
+					<description><![CDATA[De Kennisgroep bijzondere winstbepalingen vpb heeft de vraag beantwoord of de aftrekbeperking van artikel 10, eerste lid, onderdeel j, Wet Vpb 1969 ook van toepassing is op de loonbelasting die de vennootschap voor eigen rekening neemt.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep bijzondere winstbepalingen vpb heeft de vraag beantwoord of de aftrekbeperking van artikel 10, eerste lid, onderdeel j, Wet Vpb 1969 ook van toepassing is op de loonbelasting die de vennootschap voor eigen rekening neemt.</strong></p>
+
+
+
+<p class="wp-block-paragraph">X BV verstrekt aan haar werknemers om niet aandelen X BV ter waarde van € 1.000. De kosten met betrekking tot de uitreiking van deze aandelen komen op grond van artikel 10, eerste lid, onderdeel j, van de Wet Vpb 1969 bij het bepalen van de winst van X BV niet in aftrek.</p>
+
+
+
+<p class="wp-block-paragraph">De aandelen vormen belast loon in natura voor de werknemers. Het te belasten loon is de waarde in het economische verkeer van deze aandelen. De werknemer is over deze waarde loonbelasting verschuldigd. Bij een enkelvoudig tarief van stel 49,5% bedraagt de verschuldigde loonbelasting €&nbsp;495.</p>
+
+
+
+<p class="wp-block-paragraph">X BV heeft besloten de verschuldigde loonbelasting voor eigen rekening te nemen. Dit voordeel behoort op zichzelf ook weer tot het loon van de werknemer. Om de verschuldigde loonbelasting over het totale voordeel te berekenen moet daarom brutering plaatsvinden. Bruteren is het vaststellen hoeveel loon gemoeid is met het voordeel dat de werknemer geniet als de werkgever de loonheffingen voor zijn rekening neemt. Stel er geldt een gebruteerd tabeltarief van 98%. De totale kosten voor de werkgever van het voor zijn rekening nemen van de loonbelasting over de aandelen bedragen dan € 980,10 (€ 495 + (98%*€ 495)). X BV wijst de aandelen niet aan als eindheffingsbestanddeel in de zin van artikel 31, eerste lid, onderdeel f, van de Wet LB 1964.</p>
+
+
+
+<h2 class="wp-block-heading">Vraag</h2>
+
+
+
+<p class="wp-block-paragraph">Is artikel 10, eerste lid, onderdeel j, Wet Vpb 1969 ook van toepassing op het bedrag aan loonbelasting dat X BV voor eigen rekening neemt?</p>
+
+
+
+<h2 class="wp-block-heading">Antwoord</h2>
+
+
+
+<p class="wp-block-paragraph">Nee. Het bedrag aan loonbelasting dat X BV voor eigen rekening neemt, valt niet onder de aftrekbeperking van artikel 10, eerste lid, onderdeel j, Wet Vpb 1969. Uit de wettekst volgt niet dat dergelijke kosten die samenhangen met de uitreiking of toekenning van in artikel 10, eerste lid, onderdeel j, Wet Vpb 1969 genoemde aandelen en rechten eveneens aan de aftrekbeperking zijn onderworpen. Ook bevat de parlementaire geschiedenis bij dit artikel hiervoor onvoldoende steun.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-10-eerste-lid-onderdeel-j-wet-vpb-1969-en-loonbelasting-die-de-vennootschap-voor-eigen-rekening-neemt/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/standpunt-gepubliceerd-over-toepassing-artikel-10-eerste-lid-onderdeel-j-wet-vpb-1969-en-loonbelasting-die-de-vennootschap-voor-eigen-rekening-neemt/" target="_blank" rel="noreferrer noopener">Belastingdienst, 6 oktober 2026</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Management- en werknemersparticipatie | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens deze masterclass komen in één dag de belangrijkste juridische en fiscale aspecten van management- en werknemersparticipaties aan bod.</p>
+
+
+
+<p class="wp-block-paragraph"><strong><a href="https://www.licentacademy.nl/opleidingen/masterclasses/2972/masterclass-management-en-werknemersparticipatie" data-type="link" data-id="https://www.licentacademy.nl/opleidingen/masterclasses/2972/masterclass-management-en-werknemersparticipatie" target="_blank" rel="noreferrer noopener">Meer informatie en aanmelden</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-aftrekbeperking-en-loonbelasting-die-vennootschap-voor-eigen-rekening-neemt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/09/Bonus-man.jpg" length="28039" type="image/jpeg" />	</item>
+		<item>
+		<title>Standpunt sportvrijstelling</title>
+		<link>https://www.taxence.nl/nieuws/standpunt-sportvrijstelling/</link>
+					<comments>https://www.taxence.nl/nieuws/standpunt-sportvrijstelling/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168024</guid>
+
+					<description><![CDATA[De Kennisgroep omzetbelasting heeft vragen beantwoord over de toepassing van de sportvrijstelling op het verlenen van het recht om te sporten en op het ter beschikking stellen van sportattributen door een onderwijsinstelling.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Kennisgroep omzetbelasting heeft vragen beantwoord over de toepassing van de sportvrijstelling op het verlenen van het recht om te sporten en op het ter beschikking stellen van sportattributen door een onderwijsinstelling.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Universiteit X is een onderwijsinstelling die geen winst beoogt. Voor de onderwijsactiviteiten geldt de vrijstelling van artikel 11, eerste lid, aanhef en onderdeel o, van de Wet OB 1968. X heeft een sportcentrum waar studenten, medewerkers en derden tegen vergoeding kunnen sporten. Derden betalen voor een abonnement een hogere prijs dan studenten en medewerkers. Ook bestaat de mogelijkheid tot het huren van sportattributen zoals tennisrackets. Het verlenen van het recht om te sporten is een zelfstandige, niet met het onderwijs nauw samenhangende dienst.</p>
+
+
+
+<h2 class="wp-block-heading">Vragen</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Is het door X tegen vergoeding verlenen van het recht om te sporten vrijgesteld op grond van artikel 11, eerste lid, aanhef en onderdeel e, Wet OB 1968?</li>
+
+
+
+<li>Is het door X tegen vergoeding ter beschikking stellen van sportattributen, zoals tennisrackets, vrijgesteld op grond van artikel 11, eerste lid aanhef en onderdeel e, Wet OB 1968?</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading">Antwoorden</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Ja, het door X tegen vergoeding verlenen van het recht om te sporten is vrijgesteld op grond van artikel 11, eerste lid, aanhef en onderdeel e, Wet OB 1968.</li>
+
+
+
+<li>Nee, het door X tegen vergoeding ter beschikking stellen van sportattributen, zoals tennisrackets, is niet vrijgesteld op grond van artikel 11, eerste lid aanhef en onderdeel e, Wet OB 1968.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://kennisgroepen.belastingdienst.nl/publicaties/kg21020267-universiteit-sportschool/" data-type="link" data-id="https://kennisgroepen.belastingdienst.nl/publicaties/kg21020267-universiteit-sportschool/" target="_blank" rel="noreferrer noopener">Belastingdienst, 5 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/standpunt-sportvrijstelling/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/05/badminton.jpg" length="28265" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie lege boedelproblematiek</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-lege-boedelproblematiek/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-lege-boedelproblematiek/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2026 03:39:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168026</guid>
+
+					<description><![CDATA[Het ministerie van Justitie en Veiligheid is een internetconsultatie gestart over de lege boedelproblematiek: faillissementen waarin onvoldoende vermogen aanwezig is om de curator volledig te betalen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het ministerie van Justitie en Veiligheid is een internetconsultatie gestart over de lege boedelproblematiek: faillissementen waarin onvoldoende vermogen aanwezig is om de curator volledig te betalen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Volgens het onderliggende WODC-onderzoek blijft in 21% tot 27% van de bedrijfsfaillissementen een deel van het salaris van de curator onbetaald. Het geschatte onbetaalde salaris bij faillissementen van rechtspersonen bedraagt gemiddeld circa € 7,9 miljoen per jaar. Dit kan ertoe leiden dat noodzakelijke werkzaamheden, waaronder onderzoek naar fraude en onregelmatigheden, onvoldoende worden uitgevoerd. Op langere termijn kan dit de houdbaarheid van het faillissementssysteem aantasten.</p>
+
+
+
+<h2 class="wp-block-heading">Reddingscultuur</h2>
+
+
+
+<p class="wp-block-paragraph">Het document noemt verschillende mogelijke oorzaken. Zekerheidsgerechtigden, zoals pand- en hypotheekhouders, kunnen zich buiten de boedel verhalen, waardoor minder vermogen beschikbaar blijft. Daarnaast kan de Nederlandse ‘reddingscultuur’ ertoe leiden dat ondernemingen langer doorgaan voordat faillissement wordt aangevraagd. Andere factoren zijn het uitgebreidere takenpakket van curatoren, de verschuiving naar kapitaalextensieve dienstverlening en fraude of andere onrechtmatigheden waardoor vermogen aan de boedel wordt onttrokken.</p>
+
+
+
+<p class="wp-block-paragraph">Een faillissement zou mogelijk meer moet worden gereserveerd voor situaties waarin deze procedure daadwerkelijk meerwaarde heeft. Bedrijfsbeëindiging buiten faillissement, bijvoorbeeld via turboliquidatie of vereffening, zou daarom kunnen worden versterkt. Ook wordt gedacht aan snellere beëindiging van niet-levensvatbare ondernemingen, vermindering van verplichtingen voor curatoren en afzonderlijke financiering van maatschappelijke taken en fraudesignalering.</p>
+
+
+
+<h2 class="wp-block-heading">Mogelijke opties</h2>
+
+
+
+<p class="wp-block-paragraph">Voor de financiering worden drie beleidsrichtingen voorgelegd: (1) niets wijzigen, (2) betrokken partijen per faillissement laten bijdragen, of (3) een collectief fonds instellen. Bij optie 2 zouden bijvoorbeeld zekerheidsgerechtigden, bestuurders/ondernemers en de aanvrager van het faillissement bijdragen. Een fonds zou onder meer kunnen worden gevuld door ondernemers, financiers en bijdragen uit andere faillissementen, maar brengt relatief hoge uitvoeringskosten mee.</p>
+
+
+
+<p class="wp-block-paragraph">De voorlopige voorkeur van het kabinet is optie 2, omdat deze naar verwachting effectiever, efficiënter en beter voorspelbaar is en de lasten bij direct betrokken partijen legt, zonder aanvullende overheidsmiddelen.</p>
+
+
+
+<p class="wp-block-paragraph">De internetconsultatie staat open tot en met 1 februari 2027.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/consultatielegeboedels/b1" data-type="link" data-id="https://www.internetconsultatie.nl/consultatielegeboedels/b1" target="_blank" rel="noreferrer noopener">Ministerie van Justitie en Veiligheid, 5 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-lege-boedelproblematiek/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/faillissement-closed.jpg" length="25133" type="image/jpeg" />	</item>
+		<item>
+		<title>Te hoge rente op dga-lening niet herstelbaar via foutenleer</title>
+		<link>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/</link>
+					<comments>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 08:06:35 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vennootschapsbelasting]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168020</guid>
+
+					<description><![CDATA[Rechtbank Noord-Holland oordeelt dat een bv te veel in rekening gebrachte rente op een lening aan haar dga niet via de foutenleer kan corrigeren in het oudste openstaande jaar. Er is geen sprake van een balansfout maar hooguit van een onjuiste winstberekening, en ook het beroep op het vertrouwensbeginsel slaagt niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Holland oordeelt dat een bv te veel in rekening gebrachte rente op een lening aan haar dga niet via de foutenleer kan corrigeren in het oudste openstaande jaar. Er is geen sprake van een balansfout maar hooguit van een onjuiste winstberekening, en ook het beroep op het vertrouwensbeginsel slaagt niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een bv verstrekt in 1999 een rekening-courantkrediet aan haar enig aandeelhouder en bestuurder. De jaarlijks berekende rente wordt vanaf 2001 bijgeschreven op de vordering op de aandeelhouder. In de aangifte Vpb 2019 verwerkt de bv een buitengewone last van € 48.703 wegens een herberekening van de rente over 2015 tot en met 2018. De inspecteur accepteert deze correctie. Kort na het vaststellen van de aanslag stelt de bv dat ook over eerdere jaren te veel rente is berekend. Zij wil daarom met toepassing van de foutenleer een aanvullende last van primair € 232.248 en subsidiair € 115.493 in aanmerking nemen. Daarnaast stelt zij dat de aandeelhoudersvordering en een pensioenvoorziening ten onrechte op de balans staan.</p>
+
+
+
+<h3 class="wp-block-heading">Geen balansfout door te hoge rente</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank wijst toepassing van de foutenleer af. Die leer is bedoeld om fouten in de eindbalans van een eerder jaar te herstellen en zo te voorkomen dat winst onbelast blijft of dubbel wordt belast. Daarvan is hier geen sprake. Als de in eerdere jaren berekende rente onzakelijk hoog zou zijn geweest, zou een verlaging van de winst tegenover een informele kapitaalstorting door de aandeelhouder staan. Het eindvermogen verandert daardoor niet. Er is volgens de rechtbank dan ook geen balansfout, maar hooguit een fout in de fiscale winstberekening van eerdere jaren. De aanvullende buitengewone last kan daarom niet in 2019 worden genomen.</p>
+
+
+
+<h3 class="wp-block-heading">Geen vertrouwen en geen vrijval</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het vertrouwensbeginsel slaagt niet. Dat de inspecteur de correctie over 2015 tot en met 2018 accepteert, betekent niet dat hij daarmee ook correcties over eerdere jaren aanvaardt. Die eerdere jaren waren op dat moment niet door hem beoordeeld. Verder maakt de bv niet aannemelijk dat de aandeelhoudersvordering waardeloos is geworden of van de balans had moeten verdwijnen. Ook de pensioenvoorziening blijft staan. De pensioenuitkering kan nog worden verrekend met de schuld van de aandeelhouder aan de bv en niet blijkt dat de aandeelhouder zijn pensioenrechten heeft prijsgegeven. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002672-8?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 8 Wet Vpb 1969</a> jo. <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.25?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.25 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNHO_2026_9007" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Holland, 30-06-2026, ECLI:NL:RBNHO:2026:9007, HAA &#8211; 25 _ 2868 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/te-hoge-rente-op-dga-lening-niet-herstelbaar-via-foutenleer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/01/Correctie-nieuw.jpg" length="23163" type="image/jpeg" />	</item>
+		<item>
+		<title>Prejudiciële vragen over begrip nieuwe jurisprudentie</title>
+		<link>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/</link>
+					<comments>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Mon, 05 Oct 2026 08:05:13 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168014</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden vraagt de Hoge Raad om duidelijkheid over wanneer sprake is van nieuwe jurisprudentie bij een verzoek om ambtshalve vermindering. Centraal staat of het Brandweermanarrest uit 2022 nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest uit 1983.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden vraagt de Hoge Raad om duidelijkheid over wanneer sprake is van nieuwe jurisprudentie bij een verzoek om ambtshalve vermindering. Centraal staat of het Brandweermanarrest uit 2022 nieuwe jurisprudentie vormt ten opzichte van het Smeerkuilarrest uit 1983.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een brandweervrijwilliger raakt in 2005 tijdens een verplichte oefening ernstig gewond en loopt blijvend letsel op. Na een schikking ontvangt hij naast een eenmalige vergoeding gedurende tien jaar maandelijkse uitkeringen van de ongevallenverzekeraar van de gemeente. In 2017 en 2018 bedragen deze uitkeringen € 18.023 respectievelijk € 18.563. De inspecteur rekent de bedragen tot het inkomen uit vroegere dienstbetrekking. Na het Brandweermanarrest van de Hoge Raad uit 2022 verzoekt de man om ambtshalve vermindering. De inspecteur weigert dit omdat volgens hem sprake is van nieuwe jurisprudentie die pas is gewezen nadat de aanslagen onherroepelijk vaststonden. Rechtbank Gelderland volgt de man, waarna de inspecteur hoger beroep instelt.</p>
+
+
+
+<h3 class="wp-block-heading">Onduidelijkheid over toetsingskader</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof constateert dat onduidelijk is hoe moet worden beoordeeld of sprake is van nieuwe jurisprudentie. Volgens één uitleg is vooral van belang of de inspecteur bij het opleggen van de aanslag redelijkerwijs mocht menen dat zijn rechtsopvatting juist was. Een andere uitleg is dat eerst moet worden vastgesteld of de Hoge Raad daadwerkelijk een nieuwe rechtsopvatting heeft gegeven of van eerdere rechtspraak is teruggekomen. Pas daarna zou de redelijkheid van het standpunt van de inspecteur aan de orde komen. Het hof wijst erop dat hierover inmiddels verschillend wordt geoordeeld en dat de kwestie ook buiten letselschadezaken van belang is.</p>
+
+
+
+<h3 class="wp-block-heading">Hoge Raad krijgt vijf vragen</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof legt daarom vijf prejudiciële vragen voor aan de Hoge Raad. Daarbij vraagt het onder meer welk toetsingskader geldt, wat de betekenis is van een redelijkerwijs verdedigbare rechtsopvatting van de inspecteur en hoe moet worden omgegaan met situaties waarin de Hoge Raad een nieuwe rechtsvraag beantwoordt of juist terugkomt van eerdere rechtspraak. Ook vraagt het hof specifiek of het Brandweermanarrest ten opzichte van het Smeerkuilarrest een nieuwe rechtsopvatting bevat. Totdat de Hoge Raad de vragen heeft beantwoord, houdt het hof iedere verdere beslissing aan.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-9.6?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 9.6 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/BWBR0012031#BWBR0012031-20260117_10339714" target="_blank" rel="noreferrer noopener">art. 45aa, aanhef en letter b URIB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-27ga?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 27ga AWR</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6018" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 15-09-2026, ECLI:NL:GHARL:2026:6018, 25/354 en 25/355 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/prejudiciele-vragen-over-begrip-nieuwe-jurisprudentie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/03/Brandweerman.jpg" length="50694" type="image/jpeg" />	</item>
+	</channel>
+</rss>

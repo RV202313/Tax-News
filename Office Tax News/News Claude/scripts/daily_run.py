@@ -28,7 +28,7 @@ def main() -> int:
     commands = [
         [py, "scripts/collect_comments.py", "--date", args.date, "--root", str(root)],
         [py, "scripts/parse_feeds.py", "--date", args.date, "--root", str(root)],
-        [py, "scripts/select_news.py", "--date", args.date, "--top", "15", "--root", str(root)],
+        [py, "scripts/select_news.py", "--date", args.date, "--top", "30", "--root", str(root)],
     ]
     if args.no_telegram:
         collect_cmd.append("--skip-telegram")

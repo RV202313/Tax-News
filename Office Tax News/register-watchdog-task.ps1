@@ -6,7 +6,9 @@ $watchdogScript = Join-Path $PSScriptRoot 'watchdog.ps1'
 Write-Host "Registering Windows Task Scheduler Task: $taskName..."
 
 $action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$watchdogScript`""
-$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date) -RepetitionInterval (New-TimeSpan -Minutes 15)
+# Five minutes leaves time for a gated retry before a Moscow delivery window
+# closes and makes a missed 10/10 receipt visible promptly to the monitor.
+$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date) -RepetitionInterval (New-TimeSpan -Minutes 5)
 
 $settings = New-ScheduledTaskSettingsSet `
     -AllowStartIfOnBatteries `

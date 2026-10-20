@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Модуль автоматической сборки проверенного approved-пакета новостей.
+"""Устаревший автосборщик, намеренно заблокированный для боевых выпусков.
 
-Вызывается автоматически перед автопубликацией, если approved-файл слота отсутствует.
+Он не открывал каждый первоисточник и потому не может создавать approved JSON.
+Оставлен только как историческая заготовка; вызов завершается ошибкой до записи.
 """
 from __future__ import annotations
 
@@ -117,6 +118,10 @@ def load_published_history(root: Path) -> tuple[set[str], set[str]]:
 
 
 def build_approved_package(release_name: str, target_path: Path, root: Path) -> Path:
+    raise RuntimeError(
+        "Автосбор из inbox запрещён: он не выполняет обязательную live-проверку "
+        "первоисточников и не вправе создавать approved-пакет."
+    )
     published_titles, published_urls = load_published_history(root)
     date_str = release_name[:10]
     slot_str = release_name[11:15] if len(release_name) >= 15 else "1700"
@@ -240,10 +245,7 @@ def build_approved_package(release_name: str, target_path: Path, root: Path) -> 
 
 
 if __name__ == "__main__":
-    if len(sys.argv) >= 3:
-        rel = sys.argv[1]
-        out = Path(sys.argv[2])
-        root_dir = Path(sys.argv[3]) if len(sys.argv) >= 4 else NEWS_ROOT
-        build_approved_package(rel, out, root_dir)
-    else:
-        print("Usage: auto_build_package.py <release_name> <out_path> [root_dir]")
+    raise SystemExit(
+        "Автосбор из inbox заблокирован: он не подтверждает первоисточники. "
+        "Approved-пакет создаёт только редактор после live-проверки всех URL."
+    )

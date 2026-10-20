@@ -12,6 +12,8 @@ try {
     # Код 75 означает «временный конфликт», а не успех. Планировщик выполнит
     # настроенный retry и watchdog не примет старый last-run за новый сбор.
     if (-not $newsAcquired) { exit 75 }
+    $newsDrive = [IO.DriveInfo]::new([IO.Path]::GetPathRoot($PSScriptRoot))
+    if ($newsDrive.AvailableFreeSpace -lt 128MB) { throw 'Insufficient disk space for safe news collection (need 128 MB)' }
     $newsStamp = Get-Date -Format 'yyyy-MM-dd_HHmmss'
     $newsBackup = Join-Path $newsLogDir "state-$newsStamp.sqlite"
     $statePath = Join-Path $newsRoot 'state\news_state.sqlite'

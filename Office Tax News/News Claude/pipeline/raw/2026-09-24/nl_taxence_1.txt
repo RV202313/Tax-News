@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Thu, 24 Sep 2026 08:44:33 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Masterclass Btw-processen in SAP S/4HANA &#124; PE Accreditatie</title>
+		<link>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/</link>
+					<comments>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/#respond</comments>
+		
+		<dc:creator><![CDATA[Anne-Marie Noordenbos]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:44:31 +0000</pubDate>
+				<category><![CDATA[Agenda]]></category>
+		<category><![CDATA[BTW]]></category>
+		<category><![CDATA[BTW en overdrachtsbelasting]]></category>
+		<category><![CDATA[Masterclasses]]></category>
+		<category><![CDATA[Tax Technology]]></category>
+		<category><![CDATA[TaxTech]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167721</guid>
+
+					<description><![CDATA[SAP S/4HANA &#8211; leer de kracht hiervan benutten voor een geoptimaliseerde btw-blauwdruk Ontdek de essentiële aspecten van btw-processen in SAP S/4HANA tijdens onze masterclass, onder leiding van tax technology specialist Roger Haenen. Sta je aan de vooravond van een SAP S/4HANA implementatie of ben je hier mee bezig? Schrijf je in voor deze cursus en<a class="read-more" href="https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[<p>SAP S/4HANA &#8211; leer de kracht hiervan benutten voor een geoptimaliseerde btw-blauwdruk</p>
+<p>Ontdek de essentiële aspecten van btw-processen in SAP S/4HANA tijdens onze masterclass, onder leiding van tax technology specialist Roger Haenen. Sta je aan de vooravond van een SAP S/4HANA implementatie of ben je hier mee bezig? Schrijf je in voor deze cursus en benut de kracht van SAP S/4HANA voor een geoptimaliseerde btw-blauwdruk voor de toekomst.</p>
+<p><strong>Wat is het?</strong> <br /> Een juiste btw-behandeling van transacties binnen uw bedrijf hangt af van de btw-logica in uw ERP-systeem. Sta je aan de vooravond van of ben je bezig met een transitie naar SAP S/4HANA? Dan is dit het juiste moment om na te denken over de opzet van SAP voor btw-doeleinden. Deze masterclass biedt praktische handvatten om keuzes te maken, of u nu kiest voor SAP of juist een externe oplossing zoals een btw-engine of SAP-add-on. Tijdens de cursus wordt ook besproken of deze keuze een IT- en/of btw-verantwoordelijkheid is en hoe hierin samen de juiste keuze te maken.</p>
+<p><strong> Waarom is het belangrijk om hiermee aan de slag te gaan? <br /> </strong>Deze masterclass is essentieel voor iedereen die betrokken is bij de btw-processen van een bedrijf. Het begrijpen van de btw-logica in SAP S/4HANA en het maken van strategische keuzes kan aanzienlijke voordelen opleveren, zoals efficiëntieverbeteringen en kostenbesparingen, maar bovenal het voldoen aan wet- en regelgeving. Veelal is de fiscale functie niet, nauwelijks of te laat betrokken en zijn al een aantal kritische ontwerpkeuzes bepaald. Het opzetten van een btw werkstroom binnen een SAP S/4HANA transformatie is cruciaal voor de toekomst van de btw functie voor de komende 10 tot 15 jaar.</p>
+<p><strong>Doel van de cursus <br /> </strong>Het hoofddoel van deze cursus is deelnemers voorzien van de nodige kennis en tools om strategische beslissingen te nemen met betrekking tot btw-processen in SAP S/4HANA. Hierdoor kunnen ze bijdragen aan een geoptimaliseerde btw-verwerking binnen hun organisatie.</p>
+<p><strong>Doelgroep: Voor wie is deze cursus van belang?<br /></strong>Deze masterclass is ideaal voor btw-specialisten, IT-professionals betrokken bij ERP-transformaties, financiële managers en professionals die verantwoordelijk zijn voor de btw-processen binnen hun organisatie.</p>
+<p><strong style="letter-spacing: 0.05em">Inhoud &amp; structuur:</strong></p>
+<p>Wat is (SAP) ERP en wat brengt SAP S/4HANA?<br />
+Belangrijke componenten voor btw binnen SAP ERP &amp; S/4HANA<br />
+Additionele mogelijkheden voor btw &amp; tax binnen en buiten S/4HANA<br />
+Btw in SAP of btw engine?<br />
+Hoe te beginnen?<br />
+Vijf do’s en dont’s vóór of tijdens een SAP implementatie<br />
+Open forum/Q&amp;A</p>
+<p><strong>Na het volgen van deze masterclass:&nbsp;</strong></p>
+<p>Heb je inzicht in de btw-logica binnen SAP S/4HANA.<br />
+Heb je voldoende kennis ontwikkeld om strategische keuzes te maken met betrekking tot btw-processen.<br />
+Heb je praktische handvatten voor een geoptimaliseerde btw-verwerking in SAP S/4HANA en additionele software (bijv. compliance of e-invoicing)<br />
+Begrijp je de voordelen en uitdagingen van het gebruik van een tax engine in vergelijking met de standaard SAP btw-behandeling.<br />
+Heb je voldoende kennis om te beoordelen of een tax engine een geschikte oplossing is voor specifieke bedrijfsbehoeften.</p>
+<p><strong>Eventuele vereiste voorkennis of ervaring:<br /> </strong>Basiskennis van btw-processen en een algemene bekendheid met SAP wordt aanbevolen.</p>
+<p><a class="agenda-info button" href="https://licentacademy.nl/opleidingen/masterclasses/3094/btw-processen-in-sap-s-4-hana" target="_blank" rel="noreferrer noopener">Meer over deze cursus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/agenda/masterclass-btw-processen-in-sap-s-4hana-pe-accreditatie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Niet-ingehouden loonheffing verlaagt belastbaar inkomen</title>
+		<link>https://www.taxence.nl/nieuws/automatische-concepten-5/</link>
+					<comments>https://www.taxence.nl/nieuws/automatische-concepten-5/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:12:38 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167736</guid>
+
+					<description><![CDATA[Rechtbank Noord-Nederland oordeelt dat niet-ingehouden loonheffing niet tot het belastbaar inkomen van een dga behoort als de inspecteur niet aannemelijk maakt dat dit bedrag op een andere manier aan hem ten goede is gekomen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Nederland oordeelt dat niet-ingehouden loonheffing niet tot het belastbaar inkomen van een dga behoort als de inspecteur niet aannemelijk maakt dat dit bedrag op een andere manier aan hem ten goede is gekomen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een dga geeft voor 2023 een loon van € 29.880 van zijn bv aan en € 7.442 aan ingehouden loonheffing. De inspecteur stelt het belastbaar inkomen uit werk en woning overeenkomstig de aangifte vast, maar corrigeert de ingehouden loonheffing naar nihil. Volgens de dga heeft zijn bv de loonheffing wel van zijn loon afgezonderd. Als dat niet zo is, stelt hij dat hij erop mocht vertrouwen dat zijn bv de loonheffing zou inhouden. Subsidiair voert hij aan dat, als geen loonheffing is ingehouden, het bedrag van € 7.442 ook niet door hem is genoten.</p>
+
+
+
+<h3 class="wp-block-heading">Geen verrekening maar ook geen loon</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de dga niet aannemelijk maakt dat de bv de € 7.442 daadwerkelijk heeft ingehouden of dat hij erop mocht vertrouwen dat dit zou gebeuren. De loonheffing kan daarom niet worden verrekend. De inspecteur maakt echter evenmin aannemelijk dat het bedrag op een andere manier aan de dga ten goede is gekomen. De € 7.442 behoort daarom niet tot zijn belastbaar inkomen. Het beroep op interne compensatie vanwege een hoger gebruikelijk loon is te laat gedaan.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.146?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.146 Wet IB 2001</a>, <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 12a</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-13a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 13a Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNNE_2026_3900" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Nederland, 08-09-2026, ECLI:NL:RBNNE:2026:3900, LEE 25/3524 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/automatische-concepten-5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/01/dga-salaris.jpg" length="28716" type="image/jpeg" />	</item>
+		<item>
+		<title>Uitzendregeling herleeft niet na tijdelijke verhuur</title>
+		<link>https://www.taxence.nl/nieuws/uitzendregeling-herleeft-niet-na-tijdelijke-verhuur/</link>
+					<comments>https://www.taxence.nl/nieuws/uitzendregeling-herleeft-niet-na-tijdelijke-verhuur/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 08:10:42 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167730</guid>
+
+					<description><![CDATA[Rechtbank Noord-Nederland oordeelt dat de uitzendregeling voor de eigen woning niet opnieuw van toepassing wordt nadat tijdelijke verhuur tijdens een uitzending is beëindigd. De woning blijft buiten box 1 totdat de eigenaar er na afloop van de uitzending weer zelf gaat wonen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Noord-Nederland oordeelt dat de uitzendregeling voor de eigen woning niet opnieuw van toepassing wordt nadat tijdelijke verhuur tijdens een uitzending is beëindigd. De woning blijft buiten box 1 totdat de eigenaar er na afloop van de uitzending weer zelf gaat wonen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man wordt door zijn werkgever van oktober 2019 tot oktober 2023 uitgezonden naar Bonaire. Samen met zijn echtgenote bezit hij een woning in Nederland. Tijdens de uitzending verhuren zij de woning van 14 september 2020 tot 16 augustus 2022 aan derden. Na afloop van de verhuur neemt de man de woning in zijn aangifte IB/PVV 2022 weer op als eigen woning. Hij geeft vanaf 16 augustus 2022 een eigenwoningforfait van € 1.121 aan en trekt € 9.530 hypotheekrente af. De inspecteur corrigeert deze aftrek. In geschil is of de uitzendregeling van art. 3.111 lid 6 Wet IB 2001 na beëindiging van de verhuur weer van toepassing wordt. </p>
+
+
+
+<h3 class="wp-block-heading">Verhuur beëindigt uitzendregeling</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank oordeelt dat de woning vanaf het begin van de verhuur niet meer voldoet aan de voorwaarden van de uitzendregeling. De woning mag tijdens de uitzending namelijk niet aan derden ter beschikking worden gesteld. Uit het woord ‘sindsdien’ in artikel 3.111 lid 6 Wet IB 2001 volgt bovendien dat de regeling niet herleeft zodra de verhuur eindigt. De Hoge Raad heeft deze uitleg al bevestigd in zijn arrest van 20 februari 2015. Dat de woning vanaf 16 augustus 2022 weer beschikbaar is voor eigen gebruik en volgens de man geen beleggingspand is, maakt dit niet anders.</p>
+
+
+
+<h3 class="wp-block-heading">Geen ruimte voor belangenafweging</h3>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op redelijkheid en billijkheid en het evenredigheidsbeginsel slaagt niet, omdat de rechtbank niet van de wettelijke voorwaarden kan afwijken en de inspecteur bij toepassing van de uitzendregeling geen ruimte heeft voor een afzonderlijke belangenafweging. De hypotheekrente over de periode vanaf 16 augustus 2022 is daarom niet aftrekbaar. Het beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.111?tab=commentaar#c-NDFR-BWBR0011353-3.111_commentary-text_13" target="_blank" rel="noreferrer noopener">art. 3.111 lid 6 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBNNE_2026_3968" target="_blank" rel="noreferrer noopener">Rechtbank Noord-Nederland, 17-09-2026, ECLI:NL:RBNNE:2026:3968, LEE 26/1474 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/uitzendregeling-herleeft-niet-na-tijdelijke-verhuur/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/191023110430.Appartement-interieur-hoog.resized.2880x2880_cropped-30-0-0-0-0-768x432.png" length="392172" type="image/png" />	</item>
+		<item>
+		<title>EU-onderzoek: geen nieuw Europees fiscaal nummer, wel betere controle van bestaande TIN&#8217;s</title>
+		<link>https://www.taxence.nl/nieuws/eu-onderzoek-geen-nieuw-europees-fiscaal-nummer-wel-betere-controle-van-bestaande-tins/</link>
+					<comments>https://www.taxence.nl/nieuws/eu-onderzoek-geen-nieuw-europees-fiscaal-nummer-wel-betere-controle-van-bestaande-tins/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 06:37:56 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Internationaal & Europees recht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167727</guid>
+
+					<description><![CDATA[De Europese Commissie heeft onderzoek laten doen naar het gebruik van Taxpayer Identification Numbers (TIN's), oftewel fiscale identificatienummers, en de mogelijkheden om deze nummers beter te controleren. TIN's spelen een belangrijke rol bij de automatische uitwisseling van fiscale informatie tussen EU-lidstaten. Belastingdiensten gebruiken ze om ontvangen gegevens aan de juiste belastingplichtige te koppelen.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Europese Commissie heeft onderzoek laten doen naar het gebruik van Taxpayer Identification Numbers (TIN&#8217;s), oftewel fiscale identificatienummers, en de mogelijkheden om deze nummers beter te controleren. TIN&#8217;s spelen een belangrijke rol bij de automatische uitwisseling van fiscale informatie tussen EU-lidstaten. Belastingdiensten gebruiken ze om ontvangen gegevens aan de juiste belastingplichtige te koppelen.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dat proces verloopt nog niet optimaal. De nationale systemen verschillen sterk: landen hanteren uiteenlopende nummers, structuren en procedures. In sommige lidstaten krijgt iemand automatisch een TIN, terwijl het nummer elders pas wordt toegekend wanneer een belastingplicht ontstaat. Ook wordt bij grensoverschrijdende gegevensuitwisseling niet altijd een TIN meegestuurd. Ontbreekt het nummer of is het onjuist, dan moeten belastingdiensten gegevens zoals naam, geboortedatum en adres gebruiken. Dat kost meer tijd en kan handmatige controles noodzakelijk maken.</p>
+
+
+
+<p class="wp-block-paragraph">Het onderzoek richt zich daarom op twee mogelijke oplossingen. De eerste is een Europees TIN, gebaseerd op bestaande nationale identificatienummers. Zo&#8217;n nummer zou bijvoorbeeld bestaan uit een landcode in combinatie met het nationale TIN. Hoewel dit juridisch en technisch mogelijk is, adviseren de onderzoekers deze oplossing niet. De invoering zou aanzienlijke aanpassingen aan IT-systemen en administratieve processen vereisen, zowel bij belastingdiensten als bij financiële instellingen, platforms en andere rapporterende organisaties. De toegevoegde waarde is volgens het onderzoek beperkt.</p>
+
+
+
+<h2 class="wp-block-heading">Europese verficatietool</h2>
+
+
+
+<p class="wp-block-paragraph">Meer perspectief zien de onderzoekers in een Europese verificatietool voor bestaande TIN&#8217;s. Daarmee kan worden gecontroleerd of een fiscaal nummer daadwerkelijk bestaat en bij de opgegeven belastingplichtige hoort. De huidige Europese hulpmiddelen bieden die mogelijkheid onvoldoende. Het voorgestelde systeem zou aansluiten op nationale registers, zonder één centrale Europese database met alle persoonsgegevens te creëren.</p>
+
+
+
+<p class="wp-block-paragraph">Rapporterende organisaties, zoals financiële instellingen en digitale platforms, zouden eventueel ook toegang kunnen krijgen. Zij kunnen een TIN dan al controleren wanneer zij klantgegevens verzamelen of voordat zij informatie aan de belastingdienst rapporteren. Daarmee kunnen fouten eerder worden ontdekt en kunnen latere correcties en informatieverzoeken van belastingdiensten worden verminderd.</p>
+
+
+
+<p class="wp-block-paragraph">De onderzoekers zien vrijwillige toegang voor rapporterende organisaties uiteindelijk als de meest evenredige oplossing. Verplicht gebruik zou de kwaliteit van gegevens verder kunnen verbeteren, maar brengt ook aanzienlijk hogere kosten en administratieve lasten mee. Bij invoering zijn bovendien duidelijke juridische regels en waarborgen voor privacy en gegevensbescherming noodzakelijk.</p>
+
+
+
+<p class="wp-block-paragraph">Op langere termijn kunnen de Europese Digital Identity Wallet en Business Wallet mogelijk een rol spelen bij fiscale identificatie. Volgens het onderzoek zijn deze systemen echter nog onvoldoende ontwikkeld om een specifieke TIN-verificatietool op korte termijn te vervangen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-taxation/taxpayer-identification-number-tin_en?prefLang=sv&amp;utm_source=chatgpt.com" data-type="link" data-id="https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-taxation/taxpayer-identification-number-tin_en?prefLang=sv&amp;utm_source=chatgpt.com" target="_blank" rel="noreferrer noopener">EU, 22 september 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/eu-onderzoek-geen-nieuw-europees-fiscaal-nummer-wel-betere-controle-van-bestaande-tins/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/04/EU-Brussel.jpg" length="73852" type="image/jpeg" />	</item>
+		<item>
+		<title>Opinie &#124; De dga en zijn management-bv: wees toch reëel</title>
+		<link>https://www.taxence.nl/blogs/opinie-de-dga-en-zijn-management-bv-wees-toch-reeel/</link>
+					<comments>https://www.taxence.nl/blogs/opinie-de-dga-en-zijn-management-bv-wees-toch-reeel/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 06:26:27 +0000</pubDate>
+				<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167724</guid>
+
+					<description><![CDATA[Met het handhavingsmoratorium dat alweer bijna twee jaar is afgeschaft, is de management-bv weer onvermijdelijk in het spotlicht geraakt. Bepaald geen nieuw vraagstuk en daarom des te opmerkelijker dat hier nog veel misverstanden, onduidelijkheden en dus discussies over blijken te bestaan. Zoals die inzake de fictieve dienstbetrekking, de doorbetaaldloonregeling en de gebruikelijkloonregeling. In deze NTFR<a class="read-more" href="https://www.taxence.nl/blogs/opinie-de-dga-en-zijn-management-bv-wees-toch-reeel/">... lees verder</a>]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Met het handhavingsmoratorium dat alweer bijna twee jaar is afgeschaft, is de management-bv weer onvermijdelijk in het spotlicht geraakt. Bepaald geen nieuw vraagstuk en daarom des te opmerkelijker dat hier nog veel misverstanden, onduidelijkheden en dus discussies over blijken te bestaan. Zoals die inzake de fictieve dienstbetrekking, de doorbetaaldloonregeling en de gebruikelijkloonregeling. In deze NTFR Opinie van mr. A. L. Mertens meer hierover, met speciale aandacht voor een aantal recente kennisgroepstandpunten op dit punt.</p>
+
+
+
+<p class="wp-block-paragraph">Lees de hele NTFR/NDFR Opinie gratis via <strong><a href="https://www.ndfr.nl/content/p1-1195896" data-type="link" data-id="https://www.ndfr.nl/content/p1-1195896" target="_blank" rel="noreferrer noopener">NDFR</a></strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/blogs/opinie-de-dga-en-zijn-management-bv-wees-toch-reeel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2022/01/Salaris-2022.jpg" length="22040" type="image/jpeg" />	</item>
+		<item>
+		<title>RB kritisch op evaluatie fiscale regelingen landelijk gebied</title>
+		<link>https://www.taxence.nl/nieuws/rb-kritisch-op-evaluatie-fiscale-regelingen-landelijk-gebied/</link>
+					<comments>https://www.taxence.nl/nieuws/rb-kritisch-op-evaluatie-fiscale-regelingen-landelijk-gebied/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2026 06:15:34 +0000</pubDate>
+				<category><![CDATA[Branchenieuws]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167722</guid>
+
+					<description><![CDATA[Het Register Belastingadviseurs (RB) is kritisch op de manier waarop fiscale regelingen voor bos-, natuur- en cultuurgrond zijn geëvalueerd. Volgens het RB wordt onvoldoende rekening gehouden met de toekomstige opgaven in het landelijk gebied. Afschaffing van fiscale vrijstellingen ligt daarom niet zonder meer voor de hand. Actualisering van de regelingen en hun doelstellingen verdient volgens de beroepsvereniging vaak de voorkeur.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Register Belastingadviseurs (RB) is kritisch op de manier waarop fiscale regelingen voor bos-, natuur- en cultuurgrond zijn geëvalueerd. Volgens het RB wordt onvoldoende rekening gehouden met de toekomstige opgaven in het landelijk gebied. Afschaffing van fiscale vrijstellingen ligt daarom niet zonder meer voor de hand. Actualisering van de regelingen en hun doelstellingen verdient volgens de beroepsvereniging vaak de voorkeur.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Aanleiding is het rapport <em><a href="https://www.taxence.nl/nieuws/evaluatie-fiscale-regelingen-bos-en-cultuurgrond/" data-type="link" data-id="https://www.taxence.nl/nieuws/evaluatie-fiscale-regelingen-bos-en-cultuurgrond/" target="_blank" rel="noreferrer noopener">Evaluatie fiscale regelingen bos-, natuur- en cultuurgrond</a></em> van SEO Economisch Onderzoek, dat op 11 mei 2026 verscheen. Daarin zijn zeven fiscale regelingen tegen het licht gehouden. Het gaat onder meer om de bosbouwvrijstelling, vrijstellingen voor vergoedingen voor bos- en natuurbeheer, de box 3-vrijstelling voor bos en natuur en fiscale faciliteiten voor kavelruil, herverkaveling, cultuurgrond en natuurgrond.</p>
+
+
+
+<p class="wp-block-paragraph">De commissie agro-fiscaal van het RB vindt dat de evaluatie op onderdelen te zwart-wit is uitgevoerd. Volgens de commissie is daarbij onvoldoende oog voor de dynamiek van de transitie van het landelijk gebied.</p>
+
+
+
+<p class="wp-block-paragraph">Een belangrijk kritiekpunt is de manier waarop het effect van de fiscale regelingen wordt beoordeeld. Volgens het RB gebeurt dat steeds nadrukkelijker vanuit het Toetsingskader Fiscale Regelingen (TFR) en de begrotingsregels. Het TFR is het kader waarmee het Rijk fiscale regelingen beoordeelt, bijvoorbeeld op hun noodzaak, doeltreffendheid en doelmatigheid.</p>
+
+
+
+<p class="wp-block-paragraph">Zo&#8217;n beoordeling kan volgens het RB bij grondgebonden regelingen te beperkt uitpakken. De betekenis van fiscale faciliteiten is volgens de organisatie namelijk niet altijd uit te drukken in bijvoorbeeld extra hectares landbouwgrond, bos of natuur. De regelingen kunnen ook fiscale belemmeringen wegnemen bij het beheer en behoud van grond of bij een noodzakelijke herschikking van grondgebruik.</p>
+
+
+
+<p class="wp-block-paragraph">Het RB vindt daarom dat de onderzochte vrijstellingen niet zonder meer als achterhaalde uitzonderingen moeten worden beschouwd. Met duidelijkere en actuele doelstellingen kunnen ze volgens de beroepsvereniging juist een rol spelen bij een toekomstbestendige inrichting van het landelijk gebied.</p>
+
+
+
+<p class="wp-block-paragraph">De organisatie pleit ervoor bij eventuele hervormingen niet alleen te kijken naar bestaande regelingen, maar naar de ontwikkeling van een breder agro-fiscaal instrumentarium dat aansluit op de transitieopgaven.</p>
+
+
+
+<p class="wp-block-paragraph">Leidt het versoberen of afschaffen van fiscale regelingen tot extra inkomsten voor de overheid, dan stelt het RB voor om ten minste een deel daarvan beschikbaar te houden voor het landelijk gebied. Een mogelijkheid is een langjarig fonds voor groenblauwe diensten, bijvoorbeeld bij het Nationaal Groenfonds. Daarmee zouden onder meer landschapselementen, langjarige beheervergoedingen en compensatie voor waardedaling van grond kunnen worden gefinancierd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: RB, 23 september 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/rb-kritisch-op-evaluatie-fiscale-regelingen-landelijk-gebied/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/11/Landbouw-bos.jpg" length="82077" type="image/jpeg" />	</item>
+		<item>
+		<title>Verzuimboete sneuvelt door schending verdedigingsbeginsel</title>
+		<link>https://www.taxence.nl/nieuws/verzuimboete-sneuvelt-door-schending-verdedigingsbeginsel/</link>
+					<comments>https://www.taxence.nl/nieuws/verzuimboete-sneuvelt-door-schending-verdedigingsbeginsel/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 08:47:46 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Formeel belastingrecht]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167713</guid>
+
+					<description><![CDATA[Rechtbank Zeeland-West-Brabant vernietigt een aangifteverzuimboete omdat de man vooraf niet de kans kreeg om te reageren. Dat het systeem van de Belastingdienst niet is ingericht op een vooraankondiging, rechtvaardigt de schending van het Unierechtelijke verdedigingsbeginsel niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Rechtbank Zeeland-West-Brabant vernietigt een aangifteverzuimboete omdat de man vooraf niet de kans kreeg om te reageren. Dat het systeem van de Belastingdienst niet is ingericht op een vooraankondiging, rechtvaardigt de schending van het Unierechtelijke verdedigingsbeginsel niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De inspecteur legt een man ambtshalve een naheffingsaanslag omzetbelasting op, met daarbij een betaalverzuimboete en een aangifteverzuimboete van € 68. Nadat de man alsnog een nihilaangifte omzetbelasting indient, worden de naheffingsaanslag en de betaalverzuimboete vernietigd. De aangifteverzuimboete blijft in stand. Voorafgaand aan het opleggen van de aanslag en boetes heeft de man niet de gelegenheid gekregen om zijn standpunt kenbaar te maken. Volgens de inspecteur wordt bij een verzuimboete geen vooraankondiging verstuurd, omdat het systeem van de Belastingdienst daarop niet is ingericht en aanpassing daarvan te belastend zou zijn. In geschil is of het Unierechtelijke verdedigingsbeginsel is geschonden en de boete daarom moet worden vernietigd.</p>
+
+
+
+<h3 class="wp-block-heading">Systeembeperkingen geen rechtvaardiging</h3>
+
+
+
+<p class="wp-block-paragraph">De rechtbank stelt vast dat de man vóór het opleggen van de boete niet de gelegenheid heeft gekregen om te reageren. Daarmee is het Unierechtelijke verdedigingsbeginsel geschonden. De door de inspecteur aangevoerde beperkingen van de systemen van de Belastingdienst vormen daarvoor geen rechtvaardiging. Een dergelijke beperking kan in beginsel niet aan de belastingplichtige worden tegengeworpen. Voor vernietiging is daarnaast vereist dat zonder de schending een andere uitkomst mogelijk was. Daarvoor is voldoende dat de man een relevante inbreng had kunnen leveren die tot een andere afloop had kunnen leiden. Omdat zowel de naheffingsaanslag als de betaalverzuimboete inmiddels zijn vernietigd, kan niet worden uitgesloten dat ook de besluitvorming over de aangifteverzuimboete anders zou zijn verlopen. De rechtbank vernietigt daarom de boete.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67b?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67b AWR</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBV0001000-6?lid=BWBV0001000&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 6 EVRM</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_RBZWB_2026_8787" target="_blank" rel="noreferrer noopener">Rechtbank Zeeland-West-Brabant, 10-09-2026, ECLI:NL:RBZWB:2026:8787, BRE 22/207 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/verzuimboete-sneuvelt-door-schending-verdedigingsbeginsel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/07/belastingenveloppe.jpg" length="44465" type="image/jpeg" />	</item>
+		<item>
+		<title>Recreatiewoning van bv leidt tot forensenbelasting bij dga</title>
+		<link>https://www.taxence.nl/nieuws/recreatiewoning-van-bv-leidt-tot-forensenbelasting-bij-dga/</link>
+					<comments>https://www.taxence.nl/nieuws/recreatiewoning-van-bv-leidt-tot-forensenbelasting-bij-dga/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 08:44:28 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Heffing lagere overheden]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167718</guid>
+
+					<description><![CDATA[Gerechtshof 's-Hertogenbosch oordeelt dat een dga forensenbelasting is verschuldigd voor een gemeubileerde recreatiewoning van zijn bv. Dat hij de woning nauwelijks gebruikt en deze volgens hem moeilijk verhuurbaar is, maakt dat niet anders.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Gerechtshof &#8216;s-Hertogenbosch oordeelt dat een dga forensenbelasting is verschuldigd voor een gemeubileerde recreatiewoning van zijn bv. Dat hij de woning nauwelijks gebruikt en deze volgens hem moeilijk verhuurbaar is, maakt dat niet anders.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man woont in België en is directeur en enig aandeelhouder van een bv die eigenaar is van een gemeubileerde recreatiewoning in de gemeente Middelburg. De woning wordt in 2021, 2022 en 2023 niet aan derden verhuurd. De gemeente legt de man over deze jaren aanslagen forensenbelasting op. Volgens de man is hij niet belastingplichtig omdat de bv eigenaar van de woning is. Bovendien is de woning volgens hem bestemd voor verhuur, maar is dat onder meer door coronamaatregelen, werkzaamheden in de omgeving, verzakkingen en de opstelling van de beoogde verhuurorganisatie niet mogelijk. Zelf stelt hij slechts enkele dagen van de woning gebruik te hebben gemaakt. In geschil is of hij de woning in de drie jaren meer dan 90 dagen voor zichzelf of zijn gezin beschikbaar houdt.</p>
+
+
+
+<h3 class="wp-block-heading">Feitelijke beschikkingsmacht is beslissend</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof stelt vast dat de man als directeur en enig aandeelhouder indirect de volledige feitelijke beschikkingsmacht over de woning heeft. Daardoor staat de woning in 2021, 2022 en 2023 het hele jaar aan hem ter beschikking. Mogelijke beperkingen door coronamaatregelen veranderen dat niet. Ook maakt de man niet aannemelijk dat de gebrekkige infrastructuur en verzakkingen de woning onbereikbaar maken of redelijk gebruik onmogelijk maken. Voor de forensenbelasting is bovendien niet van belang in hoeverre daadwerkelijk van de gemeubileerde woning gebruik wordt gemaakt. Er zijn in deze jaren ook geen verhuur- of bemiddelingsovereenkomsten die zijn gebruik van de woning beperken. De man houdt de woning daarom meer dan 90 dagen per jaar voor zichzelf of zijn gezin beschikbaar. De aanslagen forensenbelasting blijven in stand.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0005416-223?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 223 Gemeentewet</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_2078" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 29-07-2026, ECLI:NL:GHSHE:2026:2078, 25/641, 25/642 en 25/643 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/recreatiewoning-van-bv-leidt-tot-forensenbelasting-bij-dga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/08/appartement-interieur2.jpg" length="19495" type="image/jpeg" />	</item>
+		<item>
+		<title>ACM krijgt meer mogelijkheden om kleinere fusies en overnames te onderzoeken</title>
+		<link>https://www.taxence.nl/nieuws/acm-krijgt-meer-mogelijkheden-om-kleinere-fusies-en-overnames-te-onderzoeken/</link>
+					<comments>https://www.taxence.nl/nieuws/acm-krijgt-meer-mogelijkheden-om-kleinere-fusies-en-overnames-te-onderzoeken/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 07:11:31 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167676</guid>
+
+					<description><![CDATA[De Autoriteit Consument &#038; Markt (ACM) krijgt meer mogelijkheden om fusies en overnames te onderzoeken die mogelijk schadelijk zijn voor de concurrentie. De Tweede Kamer heeft ingestemd met een wijziging van de Mededingingswet, waardoor de toezichthouder straks ook kan kijken naar overnames die onder de reguliere omzetdrempels voor een verplichte melding blijven.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De Autoriteit Consument &amp; Markt (ACM) krijgt meer mogelijkheden om fusies en overnames te onderzoeken die mogelijk schadelijk zijn voor de concurrentie. De Tweede Kamer heeft ingestemd met een wijziging van de Mededingingswet, waardoor de toezichthouder straks ook kan kijken naar overnames die onder de reguliere omzetdrempels voor een verplichte melding blijven.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De maatregel is onder meer bedoeld om te voorkomen dat grote bedrijven innovatieve startups overnemen en daarmee toekomstige concurrentie uitschakelen. Ook moet de ACM kunnen optreden wanneer een onderneming door een reeks kleinere overnames steeds meer marktmacht opbouwt.</p>
+
+
+
+<h3 class="wp-block-heading">Nieuwe inroepbevoegdheid voor ACM</h3>
+
+
+
+<p class="wp-block-paragraph">Centraal in het wetsvoorstel staat de zogenoemde <em>inroepbevoegdheid</em>. Daarmee kan de ACM een fusie of overname alsnog aan een onderzoek onderwerpen, ook als deze vanwege de omvang van de betrokken bedrijven niet verplicht hoeft te worden gemeld.</p>
+
+
+
+<p class="wp-block-paragraph">De ACM kan van deze bevoegdheid gebruikmaken als ten minste één van de betrokken ondernemingen een omzet van 50 miljoen euro heeft. Tegelijkertijd wordt de omzetdrempel voor de reguliere meldingsplicht verhoogd. Een verplichte melding geldt straks als ten minste twee van de betrokken ondernemingen ieder minimaal 75 miljoen euro omzet behalen.</p>
+
+
+
+<p class="wp-block-paragraph">Het wetsvoorstel is een initiatief van Tweede Kamerlid Julian Bushoff en kwam tot stand in samenwerking met het ministerie van Economische Zaken en Klimaat. Voordat de wijziging van kracht kan worden, moet ook de Eerste Kamer ermee instemmen. Het invoeren van een inroepbevoegdheid voor de ACM is eveneens opgenomen in het coalitieakkoord.</p>
+
+
+
+<h3 class="wp-block-heading">‘Killer acquisitions’ en kralenrijgen</h3>
+
+
+
+<p class="wp-block-paragraph">Met de wetswijziging wordt het toezicht op zogenoemde <em>killer acquisitions</em> en ‘kralenrijgen’ aangescherpt. Het gaat om fusies en overnames die afzonderlijk relatief klein zijn, maar toch grote gevolgen kunnen hebben voor de concurrentie.</p>
+
+
+
+<p class="wp-block-paragraph">Bij een <em>killer acquisition</em> neemt een groot bedrijf bijvoorbeeld een innovatieve startup over die zich tot een belangrijke concurrent zou kunnen ontwikkelen. Wanneer de nieuwe eigenaar vervolgens de ontwikkeling van het concurrerende product beëindigt, kan daarmee niet alleen een toekomstige concurrent verdwijnen, maar ook innovatie verloren gaan.</p>
+
+
+
+<p class="wp-block-paragraph">Bij ‘kralenrijgen’ gaat het juist om een reeks kleinere overnames. Een onderneming kan bijvoorbeeld achtereenvolgens verschillende lokale bedrijven overnemen. Iedere afzonderlijke transactie heeft mogelijk weinig invloed op de markt, terwijl de overnames gezamenlijk wel tot een sterke marktpositie en minder concurrentie kunnen leiden.</p>
+
+
+
+<p class="wp-block-paragraph">Het wetsvoorstel vormt een belangrijke aanpassing van het Nederlandse toezicht op fusies en overnames. De Mededingingswet dateert uit 1998 en het huidige systeem is in belangrijke mate gebaseerd op omzetdrempels. Met de nieuwe bevoegdheid kan de ACM ook onder die drempels ingrijpen als er aanwijzingen zijn dat een fusie of overname de concurrentie aanzienlijk kan beperken.</p>
+
+
+
+<h3 class="wp-block-heading">Ook marktremediebevoegdheid in voorbereiding</h3>
+
+
+
+<p class="wp-block-paragraph">Naast het toezicht op fusies en overnames kent de Mededingingswet regels tegen kartelvorming en misbruik van een economische machtspositie.</p>
+
+
+
+<p class="wp-block-paragraph">Het ministerie van Economische Zaken en Klimaat werkt daarnaast aan een zogenoemde <em>marktremediebevoegdheid</em>. Daarmee moet het in de toekomst mogelijk worden om gerichter in te grijpen wanneer de concurrentie binnen een markt structureel onvoldoende functioneert. Het doel is om de marktwerking in dergelijke situaties sneller te herstellen.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.rijksoverheid.nl/actueel/nieuws/2026/09/22/aanpassing-mededingingswet-beter-en-gerichter-toezicht-fusies-en-overnames" data-type="link" data-id="https://www.rijksoverheid.nl/actueel/nieuws/2026/09/22/aanpassing-mededingingswet-beter-en-gerichter-toezicht-fusies-en-overnames" target="_blank" rel="noreferrer noopener">Ministerie van Economische Zaken, 22 september 2026</a></p>
+
+
+
+<h2 class="wp-block-heading">Masterclass Fiscale aspecten fusies &amp; overnames | PE Accreditatie</h2>
+
+
+
+<p class="wp-block-paragraph">Tijdens deze 5-uur durende masterclass zoomen M&amp;A specialisten Dick van Sprundel en Mark Nieuweboer met je in op de relevante regelingen en aandachtspunten.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-684fd8ab-44c6-4f21-b2c5-214e59803fef" href="https://www.licentacademy.nl/opleidingen/masterclasses/2977/masterclass-fusies-overnames" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+<style type="text/css" class="advgb-blocks-styles-renderer">.advgbbtn-684fd8ab-44c6-4f21-b2c5-214e59803fef{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-684fd8ab-44c6-4f21-b2c5-214e59803fef:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-684fd8ab-44c6-4f21-b2c5-214e59803fef > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/acm-krijgt-meer-mogelijkheden-om-kleinere-fusies-en-overnames-te-onderzoeken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/11/fusie3.jpg" length="9742" type="image/jpeg" />	</item>
+		<item>
+		<title>Nieuwe EU-afhandelingsvergoeding voor e-commerce vanaf november</title>
+		<link>https://www.taxence.nl/nieuws/nieuwe-eu-afhandelingsvergoeding-voor-e-commerce-vanaf-november/</link>
+					<comments>https://www.taxence.nl/nieuws/nieuwe-eu-afhandelingsvergoeding-voor-e-commerce-vanaf-november/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2026 05:14:00 +0000</pubDate>
+				<category><![CDATA[BTW & overdrachtsbelasting]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=167678</guid>
+
+					<description><![CDATA[Het nieuwe Douanewetboek van de Unie moderniseert de Europese douaneregels en introduceert een afhandelingsvergoeding voor e-commerce. Staatssecretaris Eerenberg meldt dat deze vergoeding € 2 per productcategorie bedraagt en naar verwachting vanaf 1 november 2026 wordt geheven.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het nieuwe Douanewetboek van de Unie moderniseert de Europese douaneregels en introduceert een afhandelingsvergoeding voor e-commerce. Staatssecretaris Eerenberg meldt dat deze vergoeding € 2 per productcategorie bedraagt en naar verwachting vanaf 1 november 2026 wordt geheven.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Het nieuwe Douanewetboek van de Unie (nDWU) is op 19 september formeel gepubliceerd. Het vorige Douanewetboek stamt uit 2013 en is volgens het kabinet verouderd. De enorme groei in e-commerce, het toegenomen aantal taken van de Douane en de huidige geopolitieke omstandigheden maken modernisering van de douaneregels noodzakelijk.</p>
+
+
+
+<p class="wp-block-paragraph">Tot juli van dit jaar genoot e-commerce van buiten de EU een oneerlijk voordeel door de vrijstelling van invoerheffingen voor zendingen tot en met € 150. Deze vrijstelling is per 1 juli afgeschaft. Sindsdien geldt tijdelijk € 3 aan invoerrechten per productcategorie. De pakketjesstroom is vervolgens flink gedaald: in augustus 2026 met 75 procent ten opzichte van augustus 2025. Toch verwerkt de Douane nog steeds meer dan vijfhonderdduizend dagelijkse aangifteregels, te veel voor afdoende toezicht.</p>
+
+
+
+<h2 class="wp-block-heading">Afhandelingsvergoeding van € 2</h2>
+
+
+
+<p class="wp-block-paragraph">Meer dan zestig procent van de pakketjes in de e-commercestroom voldoet niet aan Europese productvereisten. Om Europese douanediensten te compenseren voor de extra kosten van controle en toezicht wordt daarom de afhandelingsvergoeding van de Unie ingevoerd.</p>
+
+
+
+<p class="wp-block-paragraph">De vergoeding bedraagt € 2 per productcategorie en wordt, als de Raad en het Europees Parlement geen bezwaar maken, na dertig dagen definitief. Naar verwachting wordt deze vanaf 1 november 2026 geheven op e-commercezendingen van buiten de EU aan consumenten in de EU, ongeacht de waarde van de zending. De Europese Commissie herziet het bedrag iedere twee jaar.</p>
+
+
+
+<p class="wp-block-paragraph">Nederland is voorstander van een Europese oplossing om waterbedeffecten en marktverstoringen te voorkomen. De technische implementatie sluit zoveel mogelijk aan bij het vaste tarief van € 3 aan invoerrechten. Wel staat de Douane door de late beschikbaarheid van Europese regelgeving en technische specificaties voor een grote implementatie-opgave.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://open.overheid.nl/details/035bcc57-8622-41bc-9ad1-326be5c16238" data-type="link" data-id="https://open.overheid.nl/details/035bcc57-8622-41bc-9ad1-326be5c16238" target="_blank" rel="noreferrer noopener">Kamerbrief ‘Publicatie nieuwe Douanewetboek van de Unie en invoering afhandelingskostenvergoeding van de Unie’, Ministerie van Financiën, 22 september 2026, nr. 2026-0000376961</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/nieuwe-eu-afhandelingsvergoeding-voor-e-commerce-vanaf-november/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2023/03/pakketbezorger3.jpg" length="34377" type="image/jpeg" />	</item>
+	</channel>
+</rss>

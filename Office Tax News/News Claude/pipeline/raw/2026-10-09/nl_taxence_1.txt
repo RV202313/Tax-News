@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taxence</title>
+	<atom:link href="https://www.taxence.nl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.taxence.nl/</link>
+	<description>Taxence</description>
+	<lastBuildDate>Fri, 09 Oct 2026 08:05:32 +0000</lastBuildDate>
+	<language>nl-NL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.2</generator>
+
+<image>
+	<url>https://www.taxence.nl/content/uploads//sites/2/2019/12/cropped-favicon-1-32x32.png</url>
+	<title>Taxence</title>
+	<link>https://www.taxence.nl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>AI in fiscale praktijk vraagt om menselijke controle</title>
+		<link>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/</link>
+					<comments>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/#respond</comments>
+		
+		<dc:creator><![CDATA[Jessica Lindenberg]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:54:07 +0000</pubDate>
+				<category><![CDATA[AI & Tax Tech]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168176</guid>
+
+					<description><![CDATA[AI ondersteunt de fiscalist, maar controle en professionele verantwoordelijkheid blijven noodzakelijk.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>AI kan de fiscalist veel werk uit handen nemen, maar een overtuigend antwoord is nog geen betrouwbaar antwoord. In de tweede Tax Talks-aflevering over AI en fiscaliteit laat AI-expert en Register Belastingadviseur Ron Meijer zien hoe controle, vastlegging en transparantie het verschil maken.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een professioneel ogend AI-antwoord kan onjuiste bronnen, verouderde informatie, ontbrekende uitzonderingen of verkeerde berekeningen bevatten. Daarom moet de fiscalist feiten en omstandigheden, bronnen, actualiteit en berekeningen altijd zelf controleren. Uiteindelijk blijft degene die een advies, memo of ander document verstuurt verantwoordelijk voor de inhoud. Een fout kan niet worden afgeschoven op een AI-model.</p>
+
+
+
+<h2 class="wp-block-heading">Verificatieladder als controlemechanisme</h2>
+
+
+
+<p class="wp-block-paragraph">Om die controle structureel uit te voeren, werkt Meijer met een verificatieladder. Daarbij wordt eerst beoordeeld of een AI-antwoord plausibel is. Vervolgens worden feiten, bronnen, relevante passages, actualiteit en berekeningen gecontroleerd en vastgelegd. Ook kan AI worden gevraagd om tegenargumenten te formuleren, bijvoorbeeld vanuit het perspectief van de inspecteur, cliënt of rechter. Pas daarna volgt het professionele oordeel van de fiscalist. Door de uitgevoerde controles vast te leggen, kan de adviseur bovendien achteraf laten zien hoe een advies tot stand is gekomen.</p>
+
+
+
+<h2 class="wp-block-heading">Transparantie versterkt klantvertrouwen</h2>
+
+
+
+<p class="wp-block-paragraph">Professioneel AI-gebruik vraagt volgens Meijer ook om duidelijke afspraken binnen het kantoor. In de uitzending komen onder meer de AI Act, de AVG en beroepsregels aan bod. Een beknopt AI-beleid kan vastleggen welke toepassingen worden gebruikt, welke gegevens daarin mogen worden verwerkt en waar menselijke controle plaatsvindt. Tegelijkertijd is transparantie richting de klant belangrijk. De klant hoeft volgens Meijer niet op AI te vertrouwen, maar moet erop kunnen vertrouwen dat zijn adviseur AI verantwoord inzet, resultaten controleert en zelf instaat voor de kwaliteit van het uiteindelijke advies.</p>
+
+
+
+<h2 class="wp-block-heading">Tax Talks</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Tax Talks is hét online learning platform voor mkb-adviseurs. 30x Per jaar wordt een item beschikbaar gesteld dat je via het online platform kunt bekijken. Na het afronden van de bijbehorende kennistoets ontvang je een certificaat en PE-punten</em>.</p>
+
+
+
+<div class="wp-block-advgb-button alignnone"><a class="wp-block-advgb-button_link advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf" href="https://www.licentacademy.nl/tax-talks?_sp=52adb5ab-cd44-48cf-b8b0-bad05abc9210.1762777697293" target="_blank" rel="noopener noreferrer"><span>Meer informatie en aanmelden</span></a></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+<style class="advgb-styles-renderer">.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf{font-size:18px;color:#fff !important;background-color:#2196f3 !important;margin:0px 0px 0px 0px !important;padding:10px 30px 10px 30px;border-width:1px !important;border-style:none;border-radius:50px !important;}.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf:hover{box-shadow:1px 1px 12px 0px #ccc;opacity:1;transition:all 0.2s ease;}.advgbbtn-01dbe0d4-9618-472a-8969-2da1c92ab9cf > i {display: none !important;}</style>]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/ai-in-fiscale-praktijk-vraagt-om-menselijke-controle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/10/Schermafbeelding-2026-10-09-095002-768x432.png" length="2942079" type="image/png" />	</item>
+		<item>
+		<title>Gebruikelijk loon terecht via loonheffing nageheven</title>
+		<link>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/</link>
+					<comments>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168166</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat de inspecteur het niet in de inkomstenbelasting gecorrigeerde gebruikelijk loon alsnog via de loonheffingen mag naheffen. De vergrijpboete wordt wel verlaagd van € 6.027 naar € 1.500.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat de inspecteur het niet in de inkomstenbelasting gecorrigeerde gebruikelijk loon alsnog via de loonheffingen mag naheffen. De vergrijpboete wordt wel verlaagd van € 6.027 naar € 1.500.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een broer en zus houden ieder 50% van de aandelen in een bv. De broer is bestuurder en verricht transport- en chauffeurswerkzaamheden. Voor de eerste 50 uur per week ontvangt hij loon van de bv. Meeruren factureert hij via zijn eenmanszaak aan een dochter-bv. In 2020 ontvangt hij € 22.667 loon en € 23.446 via zijn eenmanszaak. Na een boekenonderzoek stelt de inspecteur het gebruikelijk loon vast op € 46.000 en legt hij een naheffingsaanslag loonheffingen op over € 23.333. In geschil is onder meer of de inspecteur nog mag naheffen nu het gebruikelijk loon niet in de inkomstenbelasting van de broer is gecorrigeerd.</p>
+
+
+
+<h2 class="wp-block-heading">Naheffing gebruikelijk loon toegestaan</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat de inspecteur in beginsel mag kiezen tussen naheffing bij de inhoudingsplichtige en correctie in de inkomstenbelasting. Voor naheffing is geen nieuw feit nodig. Van een ambtelijk verzuim is geen sprake, omdat de inspecteur bij het vaststellen van de aanslag inkomstenbelasting mocht uitgaan van de juistheid van de aangifte. Hij hoefde niet te twijfelen aan het daarin opgenomen loon. Dat eerder geen correctie in de inkomstenbelasting is aangebracht, verhindert de naheffing daarom niet.</p>
+
+
+
+<h2 class="wp-block-heading">Boete verlaagd</h2>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het vertrouwens- en zorgvuldigheidsbeginsel slaagt niet. Het hof acht aannemelijk dat de werkzaamheden uitsluitend om fiscale redenen zijn verdeeld tussen loon en facturering via de eenmanszaak. De vergrijpboete is daarom terecht opgelegd. Omdat het bedrag aan te weinig geheven belasting in verhouding beperkt is, verlaagt het hof de boete naar € 1.500.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-16?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 16 lid</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002320-67f?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 67f AWR</a>; <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-12a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 12a</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-28a?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 28a lid 2 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1945" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 22-07-2026, ECLI:NL:GHSHE:2026:1945, 24/1696 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/gebruikelijk-loon-terecht-via-loonheffing-nageheven/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/03/Vrachtwagen-snelweg3.jpg" length="35946" type="image/jpeg" />	</item>
+		<item>
+		<title>Beleggingspolis telt niet als banktegoed bij box 3-herstel</title>
+		<link>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/</link>
+					<comments>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 07:20:00 +0000</pubDate>
+				<category><![CDATA[Financiële planning]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168168</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een premievrije beleggingspolis die volledig is belegd op een kapitaalmarktrente-rekening geen banktegoed is voor de Wet rechtsherstel box 3. De vrouw krijgt wel rechtsherstel op basis van het werkelijk behaalde rendement.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een premievrije beleggingspolis die volledig is belegd op een kapitaalmarktrente-rekening geen banktegoed is voor de Wet rechtsherstel box 3. De vrouw krijgt wel rechtsherstel op basis van het werkelijk behaalde rendement.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De echtgenoot van een vrouw sluit in 1997 een beleggingspolis af. De polis is later verlengd tot 2027 en sinds 2017 premievrij. Het vermogen is op 1 januari 2020 volledig belegd in een zogenoemde Kapitaalmarktrente Rekening Oud. De waarde van de polis bedraagt dan € 1.148.698. Deze renterekening staat op naam van ABN AMRO Levensverzekering en wordt bij ABN AMRO Bank aangehouden. De vrouw stelt dat de rekening feitelijk als een gewone spaarrekening functioneert en daarom voor het rechtsherstel in box 3 als banktegoed moet worden behandeld. In geschil is daardoor welk forfaitair rendement op de waarde van de polis moet worden toegepast.</p>
+
+
+
+<h2 class="wp-block-heading">Polis blijft overige bezitting</h2>
+
+
+
+<p class="wp-block-paragraph">Het hof kijkt naar de voorwaarden en de feitelijke afwikkeling van de polis. Dat de echtgenoten de rekening zelf als een bankrekening ervaren, is niet doorslaggevend. Door het premievrij maken is de verzekering niet beëindigd. De kapitaalmarktrente-rekening staat bovendien niet op naam van de echtgenoot maar op naam van de verzekeraar. Ook kan de echtgenoot niet rechtstreeks geld van de rekening opnemen. Daarvoor moet hij een verzoek indienen bij de verzekeraar, die een opname verwerkt als gedeeltelijke afkoop van de verzekering. De bank heeft daardoor geen rechtstreekse terugbetalingsverplichting tegenover de echtgenoot. De polis voldoet dus niet aan de wettelijke definitie van een deposito en kwalificeert niet als banktegoed.</p>
+
+
+
+<h2 class="wp-block-heading">Rechtsherstel naar werkelijk rendement</h2>
+
+
+
+<p class="wp-block-paragraph">Ook het beroep op het gelijkheidsbeginsel leidt niet tot kwalificatie als banktegoed. Dat bepaalde andere vermogensrechten inmiddels wel als banktegoed worden behandeld, helpt de vrouw niet voor 2020. Die wetswijziging werkt slechts terug tot 1 januari 2023. Wel staat tussen partijen vast dat het forfaitaire box 3-inkomen hoger is dan het werkelijk behaalde rendement. Daarom biedt het hof rechtsherstel door uit te gaan van het werkelijke rendement. Het totale werkelijke rendement bedraagt € 46.101. Op basis van de gekozen verdeling tussen de echtgenoten stelt het hof het belastbaar inkomen uit sparen en beleggen van de vrouw vast op € 22.660.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-5.3?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 5.3 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_6023">Gerechtshof Arnhem-Leeuwarden, 15-09-2026, ECLI:NL:GHARL:2026:6023, 25/2466 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/inkomstenbelasting/beleggingspolis-telt-niet-als-banktegoed-bij-box-3-herstel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2020/03/ABN-AMRO.jpg" length="49953" type="image/jpeg" />	</item>
+		<item>
+		<title>Internetconsultatie over aanvullende eisen voor uitlenen personeel</title>
+		<link>https://www.taxence.nl/nieuws/internetconsultatie-over-aanvullende-eisen-voor-uitlenen-personeel/</link>
+					<comments>https://www.taxence.nl/nieuws/internetconsultatie-over-aanvullende-eisen-voor-uitlenen-personeel/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 05:43:36 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168171</guid>
+
+					<description><![CDATA[Het kabinet wil de eisen voor bedrijven die personeel uitlenen uitbreiden. Onder de Wet toelating terbeschikkingstelling van arbeidskrachten (Wtta) wordt gelijkwaardige beloning een voorwaarde voor het verkrijgen en behouden van een toelating. De wijziging is in internetconsultatie gegaan en moet naar verwachting op 1 juli 2027 ingaan.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de eisen voor bedrijven die personeel uitlenen uitbreiden. Onder de Wet toelating terbeschikkingstelling van arbeidskrachten (Wtta) wordt gelijkwaardige beloning een voorwaarde voor het verkrijgen en behouden van een toelating. De wijziging is in internetconsultatie gegaan en moet naar verwachting op 1 juli 2027 ingaan.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Vanaf 2027 moeten uitleners over een toelating beschikken om personeel ter beschikking te stellen. Bij de beoordeling daarvan wordt straks ook meegewogen of uitgeleende werknemers arbeidsvoorwaarden krijgen die gelijk of gelijkwaardig zijn aan die van werknemers bij de inlener. Daarbij gaat het onder meer om loon en vakantiedagen. De verplichting tot gelijkwaardige arbeidsvoorwaarden volgt al uit de Wet meer zekerheid flexwerkers, maar wordt nu ook onderdeel van het normenkader voor de toelating.</p>
+
+
+
+<p class="wp-block-paragraph">Er wordt periodiek gecontroleerd of uitleners aan deze eis voldoen. Bij een overtreding krijgt een uitlener eerst gelegenheid om de situatie te herstellen. Gebeurt dat niet, dan kan de toelating worden geschorst of ingetrokken.</p>
+
+
+
+<p class="wp-block-paragraph">De regeling verduidelijkt daarnaast hoe uitleners hun omzet kunnen aantonen. De omzet is van belang voor de hoogte van de leges voor een toelating. Hiervoor kunnen bijvoorbeeld een gecontroleerde jaarrekening of de aangifte omzetbelasting worden gebruikt. Zijn deze stukken niet beschikbaar, dan kan in overleg met de Nederlandse Autoriteit Uitleenmarkt (NAU) een andere methode worden toegepast.</p>
+
+
+
+<p class="wp-block-paragraph">De Wtta treedt op 1 januari 2027 in werking. Uitleners die gebruik willen maken van de overgangsregeling moeten zich vóór die datum bij de NAU melden. Vanaf 2028 wordt op de toelatingsplicht gehandhaafd. Niet alleen uitleners zonder toelating, maar ook bedrijven die personeel van een niet-toegelaten uitlener inhuren, kunnen dan een boete krijgen. De internetconsultatie staat open tot en met 21 oktober 2026.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.internetconsultatie.nl/wijzigingsregelingwaadinormenkader/b1" data-type="link" data-id="https://www.internetconsultatie.nl/wijzigingsregelingwaadinormenkader/b1" target="_blank" rel="noreferrer noopener">Ministerie SZW, 8 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/internetconsultatie-over-aanvullende-eisen-voor-uitlenen-personeel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/08/Flexwerk.jpg" length="43830" type="image/jpeg" />	</item>
+		<item>
+		<title>Kabinet wil jaarlijks honderden knellende regels schrappen</title>
+		<link>https://www.taxence.nl/nieuws/kabinet-wil-jaarlijks-honderden-knellende-regels-schrappen/</link>
+					<comments>https://www.taxence.nl/nieuws/kabinet-wil-jaarlijks-honderden-knellende-regels-schrappen/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2026 03:54:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168173</guid>
+
+					<description><![CDATA[Het kabinet wil de regeldruk voor inwoners, professionals en bedrijven verminderen door regels te schrappen, vereenvoudigen en uniformeren. De zogenoemde 500 regel-aanpak, die eerder alleen op bedrijven was gericht, wordt daarom verbreed. Het kabinet wil vooral regels aanpakken die in de praktijk veel tijd, geld of moeite kosten.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het kabinet wil de regeldruk voor inwoners, professionals en bedrijven verminderen door regels te schrappen, vereenvoudigen en uniformeren. De zogenoemde 500 regel-aanpak, die eerder alleen op bedrijven was gericht, wordt daarom verbreed. Het kabinet wil vooral regels aanpakken die in de praktijk veel tijd, geld of moeite kosten.</strong></p>
+
+
+
+<p class="wp-block-paragraph">In het coalitieakkoord is afgesproken jaarlijks minimaal 500 regels met hoge lasten of een gebrekkige werking te schrappen of te vereenvoudigen: 250 voor inwoners en professionals en 250 voor bedrijven. Van 1 juli 2026 tot eind 2027 worden vanwege de overgang naar een kalenderjaarcirkel in totaal 750 regels aangepakt. Vanaf 2028 moeten jaarlijks 500 regels volgen. De eerste resultaten worden in het najaar van 2027 aan de Kamer gemeld.</p>
+
+
+
+<p class="wp-block-paragraph">Voor 2027 zijn concrete doelstellingen per ministerie vastgesteld. Zo moet Infrastructuur en Waterstaat 100 regels aanpakken, Sociale Zaken en Werkgelegenheid 96 en Financiën 88. In totaal gaat het om 375 regels voor inwoners en professionals en 375 voor bedrijven. Het kabinet benadrukt dat niet alleen aantallen tellen: departementen moeten vooral regels aanpakken waarvan mensen en bedrijven daadwerkelijk veel last ervaren.</p>
+
+
+
+<h2 class="wp-block-heading">Concrete knelpunten</h2>
+
+
+
+<p class="wp-block-paragraph">De Kamerbrief gaat ook in op zestien concrete voorbeelden van knellende regelgeving. Zo wordt onderzocht hoe de loondoorbetalingsplicht bij ziekte werkbaarder kan worden gemaakt voor met name kleine werkgevers. Ook loopt een knelpuntenanalyse van de Wet verbetering poortwachter.</p>
+
+
+
+<p class="wp-block-paragraph">Bij de risico-inventarisatie en -evaluatie (RI&amp;E) wordt onder meer onderzocht of de toetsingsvrijstelling bij gebruik van een erkende branche-RI&amp;E kan worden uitgebreid van bedrijven met maximaal 25 naar maximaal 50 werknemers. Ook worden lastenluwe alternatieven uit andere EU-landen onderzocht.</p>
+
+
+
+<p class="wp-block-paragraph">Voor de rapportage over werkgebonden personenmobiliteit worden organisaties tot 250 werknemers vanaf 2026 uitgezonderd. Verder zoeken Financiën en EZK naar een oplossing voor dubbele energiebelasting bij kleinschalige batterijopslag achter kleinverbruikersaansluitingen. Het kabinet wil voorkomen dat dezelfde elektriciteit meerdere keren met energiebelasting wordt belast.</p>
+
+
+
+<p class="wp-block-paragraph">De voortgang wordt gemonitord via de Regeldrukmonitor. Daarbij kijkt het kabinet behalve naar het aantal aangepakte regels ook naar de daadwerkelijke impact en ontwikkeling van de regeldrukkosten.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z21514&amp;did=2026D49602" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/brieven_regering/detail?id=2026Z21514&amp;did=2026D49602" target="_blank" rel="noreferrer noopener">Kamerbrief 500-regels aanpak, Ministerie van Binnenlandse Zaken, 8 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/kabinet-wil-jaarlijks-honderden-knellende-regels-schrappen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2025/03/Ondernemer-regels.jpg" length="40019" type="image/jpeg" />	</item>
+		<item>
+		<title>Afkoop aandelenrecht uit 2003 van € 1,9 miljoen niet belast in 2017</title>
+		<link>https://www.taxence.nl/nieuws/afkoop-aandelenrecht-uit-2003-van-e-19-miljoen-niet-belast-in-2017/</link>
+					<comments>https://www.taxence.nl/nieuws/afkoop-aandelenrecht-uit-2003-van-e-19-miljoen-niet-belast-in-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 08:05:48 +0000</pubDate>
+				<category><![CDATA[Arbeid & loon]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Loonbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168126</guid>
+
+					<description><![CDATA[Hof Arnhem-Leeuwarden oordeelt dat een betaling van bijna € 1,9 miljoen ziet op aandelenrechten die al in 2003 tot en met 2005 onvoorwaardelijk zijn geworden. De betaling is daarom niet in 2017 belast als inkomen uit werk en woning.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof Arnhem-Leeuwarden oordeelt dat een betaling van bijna € 1,9 miljoen ziet op aandelenrechten die al in 2003 tot en met 2005 onvoorwaardelijk zijn geworden. De betaling is daarom niet in 2017 belast als inkomen uit werk en woning.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een man werkt vanaf 2002 voor een Britse onderneming. In zijn arbeidsovereenkomst is afgesproken dat hij na het succesvol afronden van ieder jaar recht krijgt op 1% van het aandelenkapitaal, tot maximaal 5%. In 2016 wordt de onderneming verkocht. De man ontvangt in december 2016 € 151.920 in verband met een later aandelenplan. In januari 2017 ontvangt hij daarnaast € 1.868.988 op grond van een overeenkomst waarmee zijn oudere aanspraak op aandelen wordt afgewikkeld. De bedragen neemt hij niet op in zijn aangiften IB/PVV. De inspecteur belast de ontvangsten als inkomen uit werk en woning. In geschil is wanneer de voordelen fiscaal zijn genoten.</p>
+
+
+
+<h3 class="wp-block-heading">Betaling van € 151.920 belast in 2016</h3>
+
+
+
+<p class="wp-block-paragraph">Het hof oordeelt dat uit het latere aandelenplan geen onvoorwaardelijk recht op levering van aandelen volgt. Het plan geeft veeleer recht op een geldbedrag waarvan de hoogte mede afhangt van de waarde van de onderneming. De uiteindelijke betaling is bovendien verhoogd vanwege het goede verkoopresultaat. Volgens het hof kan sprake zijn van de uitoefening van een optierecht, uitbetaling van een stock appreciation right of een extra gratificatie. In alle gevallen is het voordeel van € 151.920 in 2016 belast.</p>
+
+
+
+<h3 class="wp-block-heading">Aandelenrechten al jaren eerder genoten</h3>
+
+
+
+<p class="wp-block-paragraph">Voor de betaling van € 1.868.988 ligt dat anders. Uit de arbeidsovereenkomst en latere bevestigingen volgt dat de man in 2003, 2004 en 2005 telkens een onvoorwaardelijk recht op 1% van de aandelen heeft verkregen. Het gaat niet om aandelenopties of een recht op alleen de waardestijging. Dat de aandelen destijds niet daadwerkelijk zijn geleverd, verandert dit niet. De rechten waren afdwingbaar en het voordeel had fiscaal in 2003 tot en met 2005 in aanmerking moeten worden genomen. De betaling van € 1.868.988 ter afwikkeling van die rechten kan daarom niet alsnog in 2016 of 2017 worden belast.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.81?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.81</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.146?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.146 Wet IB 2001</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0002471-10?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 10 Wet LB 1964</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHARL_2026_5877" target="_blank" rel="noreferrer noopener">Gerechtshof Arnhem-Leeuwarden, 08-09-2026, ECLI:NL:GHARL:2026:5877, 25/2268 en 25/2269 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/afkoop-aandelenrecht-uit-2003-van-e-19-miljoen-niet-belast-in-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/02/Aandeel.jpg" length="15281" type="image/jpeg" />	</item>
+		<item>
+		<title>Spinninglessen vormen belastbaar resultaat ondanks betaling aan bv</title>
+		<link>https://www.taxence.nl/nieuws/spinninglessen-vormen-belastbaar-resultaat-ondanks-betaling-aan-bv/</link>
+					<comments>https://www.taxence.nl/nieuws/spinninglessen-vormen-belastbaar-resultaat-ondanks-betaling-aan-bv/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharog Susani]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 08:03:42 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[IB-ondernemer]]></category>
+		<category><![CDATA[Inkomstenbelasting]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168124</guid>
+
+					<description><![CDATA[Hof ’s-Hertogenbosch oordeelt dat een vrouw resultaat uit overige werkzaamheden geniet met haar spinninglessen. Dat zij de vergoeding bewust laat betalen aan een bv van haar kinderen, voorkomt belastingheffing bij haar niet.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Hof ’s-Hertogenbosch oordeelt dat een vrouw resultaat uit overige werkzaamheden geniet met haar spinninglessen. Dat zij de vergoeding bewust laat betalen aan een bv van haar kinderen, voorkomt belastingheffing bij haar niet.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Een vrouw en haar echtgenoot zijn in 2016 persoonlijk failliet verklaard. Hun zoon en dochter houden ieder 50% van de aandelen in een bv die via een dochtervennootschap onder meer een paardenpension en andere agrarische activiteiten exploiteert. De vrouw geeft daarnaast spinninglessen bij een sportschool. Zij staat niet op de loonlijst van de bv en ontvangt zelf geen vergoeding voor de lessen. De sportschool betaalt de vergoedingen aan de dochtervennootschap. De inspecteur rekent deze opbrengsten als resultaat uit overige werkzaamheden toe aan de vrouw en legt navorderingsaanslagen over 2019 en 2020 op. In geschil is of de opbrengsten ondanks betaling aan de bv bij de vrouw belastbaar zijn. </p>
+
+
+
+<h3 class="wp-block-heading">Spinninglessen vormen bron van inkomen</h3>
+
+
+
+<p class="wp-block-paragraph">Hof ’s-Hertogenbosch oordeelt dat de vrouw met haar spinninglessen deelneemt aan het economische verkeer en daarmee voordeel beoogt dat objectief te verwachten is. Dat zij de behaalde voordelen zelf niet wil ontvangen vanwege haar faillissement, maakt dat niet anders. Van een dienstbetrekking met de bv is evenmin sprake. De spinninglessen passen bovendien niet binnen de bedrijfsactiviteiten van de vennootschap. De werkzaamheden kwalificeren daarom als overige werkzaamheden en de inkomsten zijn bij de vrouw belast. </p>
+
+
+
+<h3 class="wp-block-heading">Betaling aan bv is onzakelijk</h3>
+
+
+
+<p class="wp-block-paragraph">Volgens het hof handelt de vrouw onzakelijk door de opbrengsten zonder vergoeding te laten toekomen aan een vennootschap waarvan haar kinderen indirect aandeelhouder zijn. Zij zou dit bij een vennootschap van niet-verbonden personen niet hebben gedaan. De bv fungeert bovendien slechts als doorgeefluik en voegt niets toe aan de spinningactiviteiten. Daarom moet een zakelijke vergoeding bij de vrouw als resultaat uit overige werkzaamheden worden belast. De inspecteur mag daarvoor aansluiten bij de bedragen die de sportschool aan de bv heeft betaald. Het hoger beroep is ongegrond.</p>
+
+
+
+<p class="wp-block-paragraph">Wet: <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.90?tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.90</a> en <a href="https://www.ndfr.nl/content/c-NDFR-BWBR0011353-3.94?lid=BWBR0011353&amp;pid=c-NDFRIB&amp;tab=commentaar" target="_blank" rel="noreferrer noopener">art. 3.94 Wet IB 2001</a></p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.ndfr.nl/content/ECLI_NL_GHSHE_2026_1942" target="_blank" rel="noreferrer noopener">Gerechtshof &#8216;s-Hertogenbosch, 22-07-2026, ECLI:NL:GHSHE:2026:1942, 24/1449 tot en met 24/1452 | NDFR</a></p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/spinninglessen-vormen-belastbaar-resultaat-ondanks-betaling-aan-bv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2024/08/spinning.jpg" length="56073" type="image/jpeg" />	</item>
+		<item>
+		<title>Vaststelling doorberekende kosten STAK verschuift naar 1 november</title>
+		<link>https://www.taxence.nl/nieuws/vaststelling-doorberekende-kosten-stak-verschuift-naar-1-november/</link>
+					<comments>https://www.taxence.nl/nieuws/vaststelling-doorberekende-kosten-stak-verschuift-naar-1-november/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 07:10:00 +0000</pubDate>
+				<category><![CDATA[BV & DGA]]></category>
+		<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Vpb & Div.bel]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168161</guid>
+
+					<description><![CDATA[Het Besluit doorberekening kosten stichting administratiekantoor beheer financiële instellingen wordt gewijzigd. De jaarlijkse uiterste datum waarop de minister van Financiën de bij betrokken vennootschappen in rekening te brengen beheerkosten vaststelt, verschuift van 1 mei naar 1 november.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het Besluit doorberekening kosten stichting administratiekantoor beheer financiële instellingen wordt gewijzigd. De jaarlijkse uiterste datum waarop de minister van Financiën de bij betrokken vennootschappen in rekening te brengen beheerkosten vaststelt, verschuift van 1 mei naar 1 november.</strong></p>
+
+
+
+<p class="wp-block-paragraph">De stichting administratiekantoor beheer financiële instellingen (STAK) voert het privaatrechtelijke beheer over deelnemingen van de Staat in de vennootschappen die zijn genoemd in de Wet stichting administratiekantoor beheer financiële instellingen en in vennootschappen die op grond van die wet door de minister van Financiën zijn aangewezen.</p>
+
+
+
+<p class="wp-block-paragraph">De kosten die de stichting voor dit beheer maakt, worden bij de betrokken vennootschappen in rekening gebracht. De minister stelt jaarlijks de hoogte van deze kosten vast. Daarvoor moet hij beschikken over de jaarrekening van de stichting en de bijbehorende accountantsverklaring.</p>
+
+
+
+<p class="wp-block-paragraph">In de praktijk blijkt de stichting deze stukken niet vóór 1 mei te kunnen aanleveren vanwege de capaciteit van haar accountant. Daarom wordt in artikel 4, eerste lid, van het besluit de datum van 1 mei vervangen door 1 november. Hierdoor krijgt de stichting voldoende tijd om de jaarrekening en accountantsverklaring aan te leveren voordat de minister de door te berekenen kosten vaststelt.</p>
+
+
+
+<p class="wp-block-paragraph">De wijziging sluit volgens de toelichting aan bij de huidige praktijk. Er zijn daarom geen nadelige gevolgen voor de minister, de stichting of de vennootschappen waaraan de beheerkosten worden doorberekend. Ook leidt de wijziging niet tot extra budgettaire of administratieve lasten en zijn er geen gevolgen voor de regeldruk.</p>
+
+
+
+<p class="wp-block-paragraph">Het besluit treedt op 1 januari 2027 in werking.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://zoek.officielebekendmakingen.nl/stb-2026-307.html" data-type="link" data-id="https://zoek.officielebekendmakingen.nl/stb-2026-307.html" target="_blank" rel="noreferrer noopener">Besluit van 31 augustus 2026, Ministerie van Financiën, Stb. 2026, 307</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/vaststelling-doorberekende-kosten-stak-verschuift-naar-1-november/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2021/03/Kalender-bezwaar.jpg" length="26930" type="image/jpeg" />	</item>
+		<item>
+		<title>ICT van Belastingdienst heeft komende jaren handen vol aan box 3</title>
+		<link>https://www.taxence.nl/nieuws/ict-van-belastingdienst-heeft-komende-jaren-handen-vol-aan-box-3/</link>
+					<comments>https://www.taxence.nl/nieuws/ict-van-belastingdienst-heeft-komende-jaren-handen-vol-aan-box-3/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 06:52:42 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Overige]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168122</guid>
+
+					<description><![CDATA[De komende twee jaar is zo ongeveer alle vrijgekomen ICT-capaciteit bij de Belastingdienst nodig voor de nieuwe vermogenswinstheffing en enkele andere belastingaanpassingen die het kabinet wil doorvoeren.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>De komende twee jaar is zo ongeveer alle vrijgekomen ICT-capaciteit bij de Belastingdienst nodig voor de nieuwe vermogenswinstheffing en enkele andere belastingaanpassingen die het kabinet wil doorvoeren.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Dat heeft staatssecretaris Eerenberg woensdag in een debat over de fiscus gezegd. Het kabinet waarschuwde al eerder dat het instellen van een heffing over winst uit spaargeld, aandelen en vastgoed in box 3 veel vraagt van de uitvoeringsorganisatie. &#8220;Dat gaat hobbelig worden&#8221;, zei de staatssecretaris nog maar eens.</p>
+
+
+
+<p class="wp-block-paragraph">Eerenberg kreeg van verschillende Kamerleden de vraag hoeveel ruimte er is voor andere ICT-projecten bij de Belastingdienst. &#8220;Het eerstvolgende moment dat je dus echt weer ruimte ziet aan de horizon is 2029.&#8221; En ook dan verwacht de staatssecretaris dat de dienst alweer aan de slag moet met een volgende stap in box 3. In 2030 moeten namelijk ook andere investeringsobjecten zoals crypto&#8217;s of kunst op basis van winst worden belast.</p>
+
+
+
+<p class="wp-block-paragraph">De Belastingdienst is nog bezig met uitzoeken wat de consequenties van het kabinetsvoorstel precies zijn. Dat gaat over meer dan de ICT. De bewindsman vertelt dat banken bijvoorbeeld in het eerste jaar nog niet alle informatie over winst uit aandelen op een rij hebben voor de Belastingdienst. &#8220;Dan verschuift de verantwoordelijkheid naar de belastingplichtige.&#8221; De uitkomst van deze uitvoeringstoets verwacht Eerenberg in november te hebben. &#8220;Het is ook een politieke weging. Wat vinden we van die hobbels op de weg?&#8221;</p>
+
+
+
+<p class="wp-block-paragraph">De wens om al in 2028 te gaan werken met een vermogenswinstheffing komt vooral van rechtse partijen uit coalitie en oppositie. Onder meer de VVD wilde de wet in zijn oude vorm niet steunen, omdat dan papieren winst uit aandelen belast zou worden.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: ANP, 7 oktober 2026</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/ict-van-belastingdienst-heeft-komende-jaren-handen-vol-aan-box-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2019/11/190828105944.Belastingdienst-hoog.resized.2880x2880_cropped-25-0-0-0-0-3.png" length="538808" type="image/png" />	</item>
+		<item>
+		<title>Wetsvoorstel Fiscale Verzamelwet 2027 aangenomen door Tweede Kamer</title>
+		<link>https://www.taxence.nl/nieuws/wetsvoorstel-fiscale-verzamelwet-2027-aangenomen-door-tweede-kamer/</link>
+					<comments>https://www.taxence.nl/nieuws/wetsvoorstel-fiscale-verzamelwet-2027-aangenomen-door-tweede-kamer/#respond</comments>
+		
+		<dc:creator><![CDATA[redactie]]></dc:creator>
+		<pubDate>Thu, 08 Oct 2026 06:29:00 +0000</pubDate>
+				<category><![CDATA[Fiscaal nieuws]]></category>
+		<category><![CDATA[Nieuws]]></category>
+		<category><![CDATA[Winst uit onderneming]]></category>
+		<guid isPermaLink="false">https://www.taxence.nl/?p=168164</guid>
+
+					<description><![CDATA[Het wetsvoorstel Fiscale Verzamelwet 2027 is aangenomen door de Tweede Kamer.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><strong>Het wetsvoorstel Fiscale Verzamelwet 2027 is aangenomen door de Tweede Kamer.</strong></p>
+
+
+
+<p class="wp-block-paragraph">Ook een amendement over het per 2028 mogelijk maken het forfaitaire uurloon van de WBSO bij amvb aan te passen is aangenomen. Dit forfait wordt gebruikt als een inhoudingsplichtige niet beschikt over een S&amp;O-uurloon van twee jaar eerder. Een actueel forfaitair uurloon is volgens de indiener belangrijk omdat de S&amp;O-afdrachtvermindering een belangrijke subsidie is voor innovatieve bedrijven en het tarief de werkelijke kosten van speur- en ontwikkelingswerk zo goed mogelijk moet weerspiegelen.</p>
+
+
+
+<p class="wp-block-paragraph">Het kabinet stelt voor het forfaitaire uurloon per 2027 eenmalig te verhogen van € 29 naar € 33. Voor latere wijzigingen zou echter telkens opnieuw een wetswijziging nodig zijn.</p>
+
+
+
+<p class="wp-block-paragraph">De indiener stelt daarom voor om vanaf 1 januari 2028 het forfaitaire uurloon bij algemene maatregel van bestuur (AMvB) vast te stellen en te kunnen wijzigen. Hiervoor wordt een wettelijke delegatiegrondslag opgenomen. De verhoging naar € 33 per 2027 blijft onderdeel van het huidige wetsvoorstel. De bestaande bevoegdheid om bepaalde percentages en de schijflengte bij ministeriële regeling te wijzigen, blijft ongewijzigd.</p>
+
+
+
+<p class="wp-block-paragraph">Bron: <a href="https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P16032&amp;did=2026P16032" data-type="link" data-id="https://www.tweedekamer.nl/kamerstukken/stemmingsuitslagen/detail?id=2026P16032&amp;did=2026P16032" target="_blank" rel="noreferrer noopener">Tweede Kamer, 6 oktober 2026</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.taxence.nl/nieuws/wetsvoorstel-fiscale-verzamelwet-2027-aangenomen-door-tweede-kamer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<enclosure url="https://www.taxence.nl/content/uploads//sites/2/2026/07/onderzoek.jpg" length="21191" type="image/jpeg" />	</item>
+	</channel>
+</rss>
